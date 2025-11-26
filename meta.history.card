@@ -1,15 +1,24 @@
 <!-- this file is automatically managed by ske validate; do not edit -->
 <versions>
-  <version number="1.0.0" archived-at="2025-11-26T20:44:31.121Z">
+  <version number="1.0.0" archived-at="2025-11-26T22:35:28.642Z">
     <meta version="1.0.0">
-      <reasoning-meta/>
+      <reasoning-meta>
+        <!-- For instructions on filling out reasoning: ske instructions meta.card -->
+      </reasoning-meta>
       <title>TBD</title>
       <subtitle>TBD</subtitle>
       <author role="creator">TBD</author>
-      <narrative-structure>TBD</narrative-structure>
+      <narrative-structure>linear</narrative-structure>
       <use-chapters>true</use-chapters>
-      <inspiration>TBD</inspiration>
-      <changelog-entry version="1.0.0">Initialized</changelog-entry>
+      <inspiration>
+        The Hitchhiker's Guide to the Galaxy (humor and absurdity), The Martian (hard scifi problem-solving and survival), golden age science fiction (sense of wonder and exploration)
+        <changelog-entry>
+          <!-- Each time you change this file add a description of what AND WHY you made changes to this element -->
+        </changelog-entry>
+      </inspiration>
+      <changelog-entry>
+        <!-- Each time you change this file add a description of what AND WHY you made changes to this element -->
+      </changelog-entry>
     </meta>
   </version>
 </versions>
