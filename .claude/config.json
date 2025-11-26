@@ -1,0 +1,7 @@
+{
+  "hooks": {
+    "pre_task": [
+      "npm install -g https://story-assets.ianbicking.org/packages/ske/dist/memory-atlas-ske-0.0.0-dev.tgz"
+    ]
+  }
+}
