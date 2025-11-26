@@ -1,10 +1,14 @@
 <meta version="1.0.0">
-  <reasoning-meta/>
+  <reasoning-meta>
+    <!-- For instructions on filling out reasoning: ske instructions meta.card -->
+  </reasoning-meta>
   <title>TBD</title>
   <subtitle>TBD</subtitle>
   <author role="creator">TBD</author>
-  <narrative-structure>TBD</narrative-structure>
-  <use-chapters>TBD</use-chapters>
+  <narrative-structure>linear</narrative-structure>
+  <use-chapters>true</use-chapters>
   <inspiration>TBD</inspiration>
-  <changelog-entry version="1.0.0">Initialized</changelog-entry>
+  <changelog-entry>
+    <!-- Each time you change this file add a description of what AND WHY you made changes to this element -->
+  </changelog-entry>
 </meta>
