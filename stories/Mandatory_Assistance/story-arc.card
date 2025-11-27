@@ -1,0 +1,13 @@
+<story-arc version="1.0.0">
+  <reasoning-plot-arc/>
+  <plot-arc>TBD</plot-arc>
+  <reasoning-character-development/>
+  <character-development>TBD</character-development>
+  <characters>
+    <ref ref="/todo/world/characters/Example_Character.card" role="role in story"/>
+  </characters>
+  <sources>
+    <ref ref="/todo/stories/TBD/story-info.card#v0.0.0"/>
+  </sources>
+  <changelog-entry version="1.0.0">Initialized</changelog-entry>
+</story-arc>

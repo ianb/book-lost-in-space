@@ -1,6 +1,6 @@
 <!-- this file is automatically managed by ske validate; do not edit -->
 <versions>
-  <version number="1.0.0" archived-at="2025-11-26T22:35:28.642Z">
+  <version number="1.0.0" archived-at="2025-11-27T15:44:02.054Z">
     <meta version="1.0.0">
       <reasoning-meta>
         <!-- For instructions on filling out reasoning: ske instructions meta.card -->
@@ -10,12 +10,7 @@
       <author role="creator">TBD</author>
       <narrative-structure>linear</narrative-structure>
       <use-chapters>true</use-chapters>
-      <inspiration>
-        The Hitchhiker's Guide to the Galaxy (humor and absurdity), The Martian (hard scifi problem-solving and survival), golden age science fiction (sense of wonder and exploration)
-        <changelog-entry>
-          <!-- Each time you change this file add a description of what AND WHY you made changes to this element -->
-        </changelog-entry>
-      </inspiration>
+      <inspiration>The Hitchhiker's Guide to the Galaxy (humor and absurdity), The Martian (hard scifi problem-solving and survival), golden age science fiction (sense of wonder and exploration)</inspiration>
       <changelog-entry>
         <!-- Each time you change this file add a description of what AND WHY you made changes to this element -->
       </changelog-entry>
