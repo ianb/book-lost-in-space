@@ -1,13 +1,34 @@
-<narrative-guide version="1.0.0">
-  <reasoning/>
-  <themes-and-questions>TBD</themes-and-questions>
-  <tone>TBD</tone>
+<narrative-guide version="2.0.0">
+  <reasoning>
+    Context read: Setting is late 27th century comic hard scifi with bureaucratic plant aliens. Meta.card shows linear narrative with chapters. Story-info.card: Kira Voss (cargo specialist) survives a crash, pilots save her before dying, she wakes to find sentient plants trying to help via HR protocols.
+
+    Audience: Readers who enjoy comedic scifi that's also genuinely thoughtful. Promising both The Martian-style problem-solving and Hitchhiker's Guide absurdity.
+
+    Themes: How do you communicate across fundamentally different worldviews? What does "help" mean when filtered through incompatible frameworks? Can earnest effort bridge absurd misunderstanding?
+
+    Tone: Warm, optimistic, gently absurdist. Not cynical—finds genuine delight in the bureaucratic weirdness. Grounded survival stakes with comedic collision.
+
+    Voice: Kira's chatty, enthusiastic internal monologue. Informal, rambling, self-aware. References to adventure shows she's watched.
+
+    Boundaries: PG-13 equivalent. Mild profanity okay ("crap" not stronger). Violence from crash but not graphic. No sexual content.
+
+    Prohibitions: Avoid mean-spirited humor. No mocking the aliens—they're genuinely trying. Don't let cynicism creep into Kira's voice.
+
+    Rhythm: Medium-length passages (500-1500 words). Kira's tangential thinking creates natural rhythm breaks. Mix introspection with action/dialogue.
+
+    Devices: Comparisons to adventure shows, self-correction mid-thought, practical observations mixed with wonder.
+
+    Constraints: Chapter-based structure. Target novel length (60-100k words).
+  </reasoning>
+  <themes-and-questions>How do you communicate across fundamentally different worldviews? What does "help" mean when your helper doesn't understand your basic needs? Can earnest effort bridge absurd misunderstanding, or does good intent without comprehension make things worse?</themes-and-questions>
+  <tone>Warm absurdist comedy with grounded stakes. Optimistic and curious even in crisis, finding genuine delight in bureaucratic weirdness rather than cynicism. Maintains tension from survival pressure while celebrating the earnest (if confused) attempts at cross-cultural communication. No mean-spirited humor—the aliens are trying their best, and so is Kira.</tone>
   <reading-level>TBD</reading-level>
-  <rating>TBD</rating>
-  <narrative-stance>TBD</narrative-stance>
-  <passage-length>TBD</passage-length>
+  <rating>PG-13 equivalent</rating>
+  <narrative-stance>First person, present tense, limited (Kira's POV)</narrative-stance>
+  <passage-length>500-1500 words per scene. Allow flexibility for Kira's rambling internal monologue—some passages may run longer during introspective or problem-solving moments.</passage-length>
   <pacing>TBD</pacing>
   <dialogue>TBD</dialogue>
   <style-donts/>
   <changelog-entry version="1.0.0">Initialized</changelog-entry>
+  <changelog-entry version="2.0.0">Set up core narrative guide with tone, stance, and themes</changelog-entry>
 </narrative-guide>

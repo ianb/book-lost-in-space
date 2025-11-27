@@ -1,0 +1,11 @@
+<story-info version="2.0.0">
+  <reasoning-story-info>
+    <!-- For instructions on filling out reasoning: ske instructions stories/Mandatory_Assistance/story-info.card -->
+  </reasoning-story-info>
+  <title>Mandatory Assistance</title>
+  <pov-character ref="/world/characters/Kira_Voss.card" role="protagonist"/>
+  <opening-situation>The cargo ship's alarms are screaming. In the brief, chaotic moments before impact, the pilots—arrogant but professional—get Kira secured in the safest part of the ship before returning to their stations. The crash kills them both. When Kira wakes in the wreckage, injured and alone with limited supplies and no way to call for help, the plants start talking to her about workplace safety protocols.
+  <voice>marin</voice>
+  <voice-style>Affect: earnest, chatty, enthusiastic, curious. Tone: warm and optimistic, gently self-deprecating. Pacing: natural but gets faster when nervous or excited, with occasional tangents and self-corrections.</voice-style>
+  <changelog-entry>Updated opening to show the crash scene where the pilots secure Kira before dying—establishing they were professional despite being assholes, and giving Kira complicated feelings about their deaths
+</story-info>
