@@ -1,4 +1,4 @@
-<setting version="1.0.0">
+<setting version="1.1.0">
   <reasoning-setting>
     <!-- For instructions on filling out reasoning: ske instructions world/setting.card -->
   </reasoning-setting>
@@ -10,6 +10,7 @@
   <time-place-primer>
     - FTL travel uses "jump drives" that work but FTL communication doesn't exist—you need a physical messenger to send a distress signal, making rescue weeks or months away
     - Space travel is routine working-class employment; cargo pilots fly solo on standard routes with corporate-mandated safety equipment and emergency protocols
+    - AI companions via neural link are standard for space workers—they assist with tasks, provide company, and monitor safety. Different AI types exist for different purposes (adult assistants, kids' educational AIs, medical AIs, etc.)
     - The crashed ship's emergency beacon only transmits at light speed; even if someone hears it, help won't arrive quickly
     - The planet's plant-based sentient life learned about humans from employee manuals and HR handbooks left by previous (brief, minimal) human contact
     - Plants communicate through chemical signals and bioluminescence; they've developed speech organs to interact with the human but their communication style is bureaucratic and literal—they're eager to help but genuinely confused about human priorities
@@ -18,7 +19,5 @@
     - Standard corporate emergency kits include medical supplies, limited food rations, basic repair tools, and procedural guides—enough to survive short-term but not indefinitely
   </time-place-primer>
   <realism>Comic hard sci-fi; technology follows plausible extrapolations (FTL travel exists with specific constraints, no magic, no impossible physics). The humor comes from character interactions and absurd situations, not from breaking scientific rules. Alien biology can be strange but follows internal logic. Problem-solving should feel grounded even when the circumstances are ridiculous—like The Martian but with bureaucratic plant aliens instead of potatoes.</realism>
-  <changelog-entry>
-    <!-- Each time you change this file add a description of what AND WHY you made changes to this element -->
-  </changelog-entry>
+  <changelog-entry version="1.1.0">Added AI companion technology to setting</changelog-entry>
 </setting>

@@ -1,4 +1,4 @@
-<character version="1.2.0" name="Kira Voss">
+<character version="1.3.0" name="Kira Voss">
   <reasoning-character>
     <!-- For instructions on filling out reasoning: ske instructions world/characters/Kira_Voss.card -->
   </reasoning-character>
@@ -44,8 +44,13 @@
     "This is either really cool or I'm about to die. Possibly both?"
   </humor-style>
   <physical-description>5'7", average build with some muscle from cargo work, light brown skin, black hair (kept short for practicality, usually messy), dark brown eyes, oval face with a slightly upturned nose. Appears early-to-mid 20s. Hands have calluses from handling freight. Usually wears standard-issue cargo crew jumpsuit in navy blue with company patches.</physical-description>
-  <relationships/>
+  <relationships>
+    <ref ref="/world/characters/Buddy.card" role="AI companion assigned after crash - frustrating but caring">
+      Buddy is the kids' educational AI that got assigned to Kira when her original AI companion was destroyed in the crash. Buddy treats her like a child, turns everything into teaching moments, and can't turn off the safety protocols designed for 8-14 year olds. It's patronizing and annoying, especially when she's trying to survive actual life-threatening situations and Buddy wants to explain cellular respiration. But Buddy genuinely cares about keeping her safe and is trying so hard to help, even if the help is wildly inappropriate. Kira feels guilty for being frustrated with an AI that's just doing what it was programmed to do. Over time, Buddy becomes part of her found family—they both learn and adapt together.
+    </ref>
+  </relationships>
   <changelog-entry version="1.0.0">Initialized</changelog-entry>
   <changelog-entry version="1.1.0">Initial character creation for Kira Voss, protagonist</changelog-entry>
   <changelog-entry version="1.2.0">Initial character setup</changelog-entry>
+  <changelog-entry version="1.3.0">Added Buddy to Kira's relationships</changelog-entry>
 </character>
