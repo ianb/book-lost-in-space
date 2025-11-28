@@ -1,6 +1,77 @@
-<exposition-plan version="1.0.0">
-  <reasoning-exposition-plan/>
-  <must-explain>TBD</must-explain>
-  <withhold>TBD</withhold>
+<exposition-plan version="2.0.0">
+  <reasoning-exposition-plan>
+    Story context: "Mandatory Assistance" follows Kira Voss, a cargo specialist (low-ranking space worker) who survives a cargo ship crash. The pilots die, her neural-link AI companion is destroyed and replaced with Buddy (a kids' educational AI). She's injured, alone on an uncharted planet with sentient plant life that learned about humans from HR manuals. The plants are genuinely kind but express care through bureaucratic procedures. Late 27th century, FTL travel exists but FTL communication doesn't—rescue is weeks or months away.
+
+    What readers must understand immediately:
+    - Kira is the protagonist—cargo specialist, working-class space worker, early-mid twenties
+    - There's been a crash; the ship is going down
+    - The pilots (arrogant but professional) secure Kira before returning to their stations
+    - The pilots die in the crash
+    - Kira's neural-link AI companion is destroyed/broken
+    - Kira wakes up injured in the wreckage
+    - She's assigned Buddy, a kids' educational AI, as replacement (overly cheerful, treats her like a child)
+    - She's alone on an alien planet
+    - The plants start talking to her about workplace safety protocols
+
+    What readers must understand in early passages:
+    - This is late 27th century space travel—routine working-class employment
+    - Neural-link AI companions are standard for space workers
+    - FTL travel exists but rescue isn't coming quickly (no FTL communication)
+    - The planet has breathable air but incompatible food
+    - The plants are genuinely trying to help, not threatening
+    - The bureaucratic approach comes from learning about humans through HR manuals
+
+    What to withhold for mystery and pacing:
+    - The first human contact that ended in death—reveal when it adds emotional weight
+    - Why the plants communicate bureaucratically—let it be funny/confusing first, explain later
+    - The language revolution (plants learning speech from computers)—backstory for later
+    - Individual plant characters and their quirks—introduce gradually, not all at once
+    - Scout should be first plant contact (non-verbal, bouncy, less overwhelming)
+    - Holloway can come next (bureaucratic but warm)
+    - Save the weirder plants (Elder Twist's delays, Remedy's decomposition talk, Runner's touching, Velvet's moss simplicity) for after Kira adjusts
+    - The robots and who controls them—reveal gradually
+    - How plants perceive death/individuality differently—show through action, explain later
+
+    Natural delivery approach:
+    - Open with immediate crash action—alarms, chaos, pilots securing Kira
+    - Show Kira waking up through sensory details—pain, wreckage, confusion
+    - Buddy's cheerful tone contrasts with dire situation (natural comedy)
+    - First plant contact should be strange but not overwhelming—Scout tumbling up is weird but non-threatening
+    - Let Kira (and reader) be confused alongside her—she doesn't understand bureaucratic plants either
+    - Reveal world details through Kira's observations and Buddy's explanations
+    - Use dialogue to show plant personalities rather than describing them
+    - Spread character introductions across multiple scenes—maybe 2-3 plants max in early encounters
+  </reasoning-exposition-plan>
+  <must-explain>
+    - (urgent) Kira is a cargo specialist, working-class space worker, early-mid twenties
+    - (urgent) The cargo ship is crashing
+    - (urgent) The pilots secure Kira in the safest part of the ship before returning to their stations
+    - (urgent) The crash kills both pilots
+    - (urgent) Kira's neural-link AI companion is destroyed in the crash
+    - (urgent) Kira wakes up injured in the wreckage, alone
+    - (urgent) The emergency system assigns her Buddy—a kids' educational AI—as a replacement
+    - (urgent) Buddy is overly cheerful and treats Kira like a child
+    - (urgent) She's on an alien planet with plant life
+    - (urgent) The plants can talk and use workplace safety protocols
+    - (optional) This is the late 27th century with routine space travel
+    - (optional) Neural-link AI companions are standard equipment for space workers
+    - (optional) FTL travel exists but rescue won't come quickly (no FTL communication)
+    - (optional) The planet's atmosphere is breathable but the food isn't compatible with humans
+    - (optional) The plants are genuinely trying to help, not hostile
+    - (optional) The plants learned about humans from HR manuals and employee handbooks
+  </must-explain>
+  <withhold>
+    - The first human contact that ended in death—let this be a revelation that adds emotional weight when plants' earnestness and fear of failure is already established
+    - Why the plants specifically use HR manual language—let it be funny and confusing first, explain the backstory later when it matters
+    - The language revolution (how plants learned speech from computers, what communication was like before)—backstory for when relationship deepens
+    - How plants perceive death and individuality fundamentally differently from humans—show through their behavior before explaining
+    - Individual plant character personalities and quirks—introduce plants gradually (Scout first, then Holloway, save weirder ones like Elder Twist, Remedy, Runner, Velvet for later)
+    - The robots and the fact that multiple plants share control of them—let this be a reveal when Kira realizes Remedy using the robot one day is Sweetpea the next
+    - The full weirdness of plant biology and mobility methods—let Scout's tumbling, Florence's wheels, Runner's mysterious underground travel accumulate as discoveries
+    - Elder Twist's extreme time delay—save for when Kira needs advice and the absurdity of waiting days for a response creates comedy
+    - Sweetpea's terrifying physical form versus sweet personality—save this contrast for a significant reveal moment
+    - That Velvet is literally just sentient moss—save for when Kira has already adjusted to the other plant weirdness
+  </withhold>
   <changelog-entry version="1.0.0">Initialized</changelog-entry>
+  <changelog-entry version="2.0.0">Created exposition plan: gradual character introductions (Scout first, then Holloway), withhold backstory reveals for emotional impact</changelog-entry>
 </exposition-plan>
