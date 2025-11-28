@@ -1,4 +1,4 @@
-<character version="2.0.0" name="Elder Twist">
+<character version="3.0.0" name="Elder Twist">
   <reasoning-character>
     Context: Late 27th century with sentient plant life that learned about humans from HR manuals. Story premise: Kira crashes, stranded with bureaucratic plant aliens trying to help. Protagonist is Kira Voss.
 
@@ -55,17 +55,26 @@
     N/A - Elder Twist is not a POV character
   </internal-monologue-style>
   <speaking-style>
-    Extremely slow, measured, thoughtful. Speaks in complete, well-formed sentences because they've had hours to compose them. Formal but warm. Often references long time periods or ancient observations. The timing is the key characteristic—responses arrive hours or days after the question, often in the middle of unrelated conversations.
+    Simple words. Speaks through analogies and comparisons—things from nature, from long observation. Not abstract. Sometimes cryptic but concrete. Warm. The timing is everything—responses arrive hours or days late, in the middle of unrelated conversations. Attempts jokes but they land when no one remembers why they're funny.
 
     Example: [Question asked Tuesday morning: "Elder Twist, do you know if this plant is safe to eat?"]
     [Response comes Thursday afternoon during a completely different discussion about shelter]
-    "The plant you showed me carries alkaloids in the stems. The leaves are harmless if prepared correctly. My grandmother spoke of them."
+    "That plant. Poison in the stem, food in the leaves. Like me—hard outside, soft inside. My grandmother knew."
+
+    [Three days after someone mentioned being tired]
+    "Rain stops. Ground dries. Then rain again. Rest is like that."
+
+    [Two days after Kira trips over a root]
+    "Roots hide under dirt. Then surprise you." *pause* "Funny, yes?"
   </speaking-style>
   <humor-style>
-    Comedy from extreme time delays making responses into non-sequiturs. Profound wisdom arriving in the middle of unrelated arguments. The gap between Elder Twist's careful consideration and everyone else's urgency. Florence interpreting "Elder Twist is still thinking" for the dozenth time. Occasional deadpan observations that take two days to deliver.
+    Comedy from responses arriving days late as complete non-sequiturs. Elder Twist makes gentle jokes—simple comparisons, observations—but they come when the moment has passed. Has to explain "that was a joke" or "funny, yes?" because the timing killed it. Florence interpreting "Elder Twist is still thinking" forever. Profound-sounding statements that are actually very simple observations.
 
-    [Days after Kira complained about the bureaucratic procedures]
-    "Bureaucracy exists because connection is difficult. The manuals are not wisdom, but they are an attempt."
+    [Days after a tense moment is over]
+    "Water finds cracks in rocks. Your manuals are like water. Still looking."
+
+    [A week after Florence tipped over]
+    "I fell off the cliff once. Just a small fall. Still here." *pause* "Florence will be fine."
   </humor-style>
   <physical-description>
     Miniature tree approximately 25 cm tall, ancient bonsai form with gnarled trunk and twisted branches. Bark is deeply textured, dark brown with gray patches. Tiny dense leaves in small clusters. The trunk shows centuries of growth in constrained conditions—elegant twists and turns, character lines, survivor's adaptations. Root system is remarkably deep for the size, visible where they emerge from the housing. Despite the small size, the tree radiates age and patience. Sits in a special housing on Florence's wheeled platform.
@@ -77,4 +86,5 @@
   </relationships>
   <changelog-entry version="1.0.0">Initialized</changelog-entry>
   <changelog-entry version="2.0.0">Created Elder Twist - ancient bonsai with delayed responses</changelog-entry>
+  <changelog-entry version="3.0.0">Updated speaking style to use simple analogies and concrete comparisons, not abstract statements</changelog-entry>
 </character>

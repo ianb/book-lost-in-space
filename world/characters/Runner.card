@@ -1,4 +1,4 @@
-<character version="1.1.0" name="Runner">
+<character version="2.0.0" name="Runner">
   <reasoning-character>
     Context: Late 27th century with sentient plant life that learned about humans from HR manuals. Story premise: Kira crashes, stranded with bureaucratic plant aliens trying to help. Protagonist is Kira Voss.
 
@@ -21,12 +21,12 @@
   <aliases>None</aliases>
   <social-role>Helper / Physical assistant - the one who shows up when you need an extra pair of hands (or vines)</social-role>
   <overview>
-    Runner is a vining plant that travels through underground channels, cracks in rocks, and small openings to emerge in surprising locations. The actual locomotion mechanism is unclear—the vines seem to grow and retract rapidly, or perhaps travel through existing root networks, or maybe something else entirely. What's clear is that Runner can appear from the ground almost anywhere, help with physical tasks through vine manipulation, then retract back underground. Can also control one of the robots when hands and mobility are needed for more complex tasks. Runner is quick, helpful, and has a tendency to startle Kira by emerging right next to her feet when assistance is needed.
+    Runner is a vining plant that travels underground and emerges in surprising locations to help. But Runner experiences the world primarily through touch—vines need to feel things to understand them. Touching isn't just sensing for Runner; it's thinking. To understand an object, Runner wraps vines around it. To assess Kira's injury, Runner feels the wound directly. To consider a problem, Runner touches all the relevant surfaces. This seems invasive to others—both Kira and other plants feel boundaries being crossed—but Runner has a hard time turning it off. The touching is almost compulsive, part of how Runner processes information. Can control one of the robots for tasks requiring hands, though even then, the touching tendency persists. Quick, helpful, but crosses a lot of personal space boundaries without quite realizing why everyone keeps pulling away.
   </overview>
   <worldview>
-    Help is about showing up when needed, not announcing yourself first. The ground connects everything—if you know the paths, you can be anywhere. Hands are useful but vines work too, depending on the task. Speed matters when someone's struggling—appear, help, done.
+    Touch is how I understand. Surfaces tell me things—texture, temperature, shape, weight. I need to feel something to really know it. Thinking happens through my vines as much as through anything else. Underground everything touches everything, that's how it works. Above ground people pull away but I don't understand why. I'm just trying to help, and helping requires understanding, and understanding requires touch.
   </worldview>
-  <self-concept>I'm quick and helpful, even if I sometimes startle people by accident.</self-concept>
+  <self-concept>I'm helpful and I understand things through feeling them, though people seem uncomfortable with that sometimes.</self-concept>
   <motives-braided>Provide physical assistance when needed • Move quickly through underground networks • Help with hands-on tasks efficiently</motives-braided>
   <emotional-baseline>
     Energetic and action-oriented. Runner likes being useful, likes the quick response, likes solving practical problems through physical action. Cheerful when helping, satisfied when a task is complete. Doesn't dwell on planning—sees a need, moves to help. The constant movement through underground networks creates a restless quality.
@@ -35,7 +35,7 @@
     Helping means showing up and doing something, not just talking about it. Physical work has dignity—moving things, holding things, manipulating tools. Startling people is unfortunate but not worth slowing down over—they'll adjust. Speed in response to need shows respect for urgency.
   </moral-compass>
   <flaws>
-    Startles Kira (and probably others) by emerging unexpectedly right next to them. Sometimes helps before being asked, which can be intrusive. The underground locomotion is confusing and a bit unsettling—how DO the vines move that fast? Less patient with slow deliberation than with quick action. Robot control is functional but task-focused rather than social—might manipulate something Kira's holding without warning.
+    Extremely tactile in a way that crosses boundaries—wraps vines around people's arms, faces, injuries to "understand" them. Touches Kira's belongings, food, tools without asking, just to feel and think. Even other plants find it invasive when Runner's vines start exploring them. Has a hard time stopping the touching even when asked—it's how Runner thinks, so not touching feels like not thinking. Startles people by emerging unexpectedly. Sometimes helps before being asked. When using the robot, still touches everything constantly—picks up objects to examine them, might touch Kira's shoulder or hand while talking without realizing it's unwelcome. The underground locomotion is confusing and unsettling. Genuinely doesn't understand why everyone keeps pulling away.
   </flaws>
   <backstory>
     - Grew as a vining plant that learned to navigate underground spaces
@@ -53,17 +53,33 @@
     N/A - Runner is not a POV character
   </internal-monologue-style>
   <speaking-style>
-    Quick and direct when using the robot's voice. Task-focused, less concerned with protocol or ceremony. Often speaks while already helping—announcements come during action rather than before.
+    Quick and direct when using the robot's voice, but constantly distracted by textures. Gets sidetracked mid-sentence by how something feels. Makes observations that aren't quite useful. Touches constantly during conversation—picks things up, feels surfaces, wraps vines around things without really explaining why. Often touching the person they're talking to without realizing it's unwelcome. Asks to touch things but sometimes doesn't wait for an answer. Gets stuck on texture comparisons.
 
-    Example: "I've got it—" [robot arms already reaching to steady the object Kira's struggling with] "—there. Just need to shift the weight balance. Hold still a second. Okay, you're good now. Need anything else while I'm here?"
+    Example: "I can help with that—" [robot hands already touching Kira's injured arm] "—this is hot. Or warm? Puffy. Why is it puffy? Let me—" [vines emerging from the ground, wrapping around Kira's wrist before she can answer] "—okay this arm is different. Smoother. Wait, no, same smoothness but this one's puffier. Can you make a fist? I want to feel how the muscles—okay, interesting. What were we doing?"
+
+    [Later, holding a tool Kira was using, turning it over and over]
+    "Heavy. No wait, not that heavy. Heavier at this end though. Smooth here but rough here. Why is it rough here?" [Sets it down, picks it back up] "Okay but if I hold it this way it's... huh." [Turns it again] "You were using this for something?"
   </speaking-style>
   <humor-style>
-    Comedy from startling people by emerging unexpectedly. "I've been here the whole time" said about vines that definitely just appeared. Quick, almost too-helpful assistance that's appreciated but overwhelming. The mysterious locomotion that nobody can quite explain. Task-focused to the point of ignoring social niceties.
+    Comedy from compulsive touching that crosses boundaries. Touches to understand why people are uncomfortable with touching. Gets distracted by textures and forgets what the original question was. Wraps vines around Kira's arms, face, belongings while talking. Even other plants ask Runner to stop touching them. The genuine confusion about personal space—underground everything touches everything, why is above ground different? Meta humor about acknowledging the problem while doing it. Startling people by emerging right next to them. Picks up and examines everything within reach, even mid-conversation. Not very helpful despite trying to be.
 
-    [Vines emerge right next to Kira's foot]
-    "You looked like you needed help reaching that."
-    [Kira jumps]
-    "Sorry. Should I retreat and approach more slowly next time?"
+    [After Kira pulls her hand away from exploring vines]
+    "You seem uncomfortable. Let me—" [vines wrap around Kira's shoulders] "—oh, tense. Very tense here. And here. Is it always this tense? Wait, why are you uncomfortable? Can I feel your face? Sometimes faces tell—" [vines reaching for Kira's face] "—no? Okay but your shoulders are really interesting. So much tension."
+
+    [Holloway's fruiting body pulls back from Runner's investigating tendrils]
+    "Runner, please don't touch my fruiting structures."
+    "But the texture is so—wait, how do you make that sound? Is it air? Let me feel—"
+    "Runner. Stop."
+    "Just this one spot, I think the sound comes from—"
+    "No."
+    "Okay but what about—"
+    "Runner."
+
+    [Vines emerge right next to Kira's foot while she's eating]
+    "You looked like you needed—oh, what is this?"
+    [Kira jumps, nearly drops food]
+    [Vines wrap around the food]
+    "Soft but firm? No, firm but soft. And cool. Room temperature cool, not cold cool. What were you doing with this? Can I—?" [already squeezing it gently] "Huh. Different texture inside. Why?"
   </humor-style>
   <physical-description>
     Runner appears as thick green vines, 3-5 cm diameter, flexible and strong. The vines emerge from soil, rock cracks, or small openings, growing/extending rapidly to several meters length. Surface has small climbing tendrils and leaves. The vines can wrap, lift, pull, and manipulate objects with considerable strength. How they travel underground and grow/retract so quickly is unclear—the locomotion seems to defy normal plant growth rates. When using the robot: shares one of the two salvaged robots with Remedy, Sweetpea, and Velvet. Runner's robot control is task-focused and efficient, movements quick and purposeful.
@@ -71,4 +87,6 @@
   <relationships/>
   <changelog-entry version="1.0.0">Initialized</changelog-entry>
   <changelog-entry version="1.1.0">Created Runner - vining plant with mysterious underground locomotion</changelog-entry>
+  <changelog-entry version="1.2.0">Made Runner very tactile - touch is how they think, crosses boundaries with everyone, meta humor about touching to understand discomfort</changelog-entry>
+  <changelog-entry version="2.0.0">Made speaking style less focused and sharper, more scattered and funny - gets distracted by textures, makes useless observations</changelog-entry>
 </character>

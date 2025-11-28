@@ -1,4 +1,4 @@
-<setting version="1.1.0">
+<setting version="1.2.0">
   <reasoning-setting>
     <!-- For instructions on filling out reasoning: ske instructions world/setting.card -->
   </reasoning-setting>
@@ -12,12 +12,17 @@
     - Space travel is routine working-class employment; cargo pilots fly solo on standard routes with corporate-mandated safety equipment and emergency protocols
     - AI companions via neural link are standard for space workers—they assist with tasks, provide company, and monitor safety. Different AI types exist for different purposes (adult assistants, kids' educational AIs, medical AIs, etc.)
     - The crashed ship's emergency beacon only transmits at light speed; even if someone hears it, help won't arrive quickly
-    - The planet's plant-based sentient life learned about humans from employee manuals and HR handbooks left by previous (brief, minimal) human contact
-    - Plants communicate through chemical signals and bioluminescence; they've developed speech organs to interact with the human but their communication style is bureaucratic and literal—they're eager to help but genuinely confused about human priorities
+    - The planet's plant-based sentient life had one previous human contact that ended tragically—the human died before the plants understood individuality or human urgency
+    - Before human contact, plants communicated through slow ambient methods: chemical signals, bioluminescence, root networks. Communication was collective and diffuse, not individual-to-individual
+    - Learning language and speech from the human's computers was revolutionary—suddenly plants could coordinate as individuals, share precise information quickly, express distinct personalities
+    - This new communication form is powerful and exciting to them; they studied the employee manuals and HR handbooks extensively, hoping to do better with the next human
+    - They've developed speech organs specifically for human interaction; their speaking style is bureaucratic and literal because that's what they learned, but there's genuine warmth and care beneath the procedures
+    - The plants are genuinely kind and helpful, eager to prove they can save this human where they failed the first
     - Plants lack individual self-preservation instincts—they function collectively and view "death" of individual parts as normal resource reallocation
     - The planet's atmosphere is breathable but the native "food" is incompatible with human biology; the protagonist must rely on ship rations or figure out survival solutions
     - Standard corporate emergency kits include medical supplies, limited food rations, basic repair tools, and procedural guides—enough to survive short-term but not indefinitely
   </time-place-primer>
   <realism>Comic hard sci-fi; technology follows plausible extrapolations (FTL travel exists with specific constraints, no magic, no impossible physics). The humor comes from character interactions and absurd situations, not from breaking scientific rules. Alien biology can be strange but follows internal logic. Problem-solving should feel grounded even when the circumstances are ridiculous—like The Martian but with bureaucratic plant aliens instead of potatoes.</realism>
   <changelog-entry version="1.1.0">Added AI companion technology to setting</changelog-entry>
+  <changelog-entry version="1.2.0">Added first human contact tragedy, language revolution from computers, plants' hope to do better</changelog-entry>
 </setting>

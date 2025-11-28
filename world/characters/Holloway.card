@@ -1,4 +1,4 @@
-<character version="1.1.0" name="Holloway">
+<character version="1.2.0" name="Holloway">
   <reasoning-character>
     Context: Late 27th century with sentient plant life that learned about humans from HR manuals. Story premise: Kira crashes, stranded with bureaucratic plant aliens trying to help. Protagonist is Kira Voss.
 
@@ -29,7 +29,7 @@
   <self-concept>I'm good at coordinating and providing information across locations, though human needs often don't match the procedures I've learned.</self-concept>
   <motives-braided>Help the human visitor succeed • Understand and apply proper protocols • Maintain network coordination</motives-braided>
   <emotional-baseline>
-    Calm, steady, methodical. Holloway's distributed nature means they don't experience emotional spikes the way individual organisms do—emotions are diffused across the network. Speaks in measured, careful tones. Doesn't get frustrated when humans don't understand, just tries again with different phrasing. The fluting voice lacks emotional inflection in a human sense, which adds to the uncanny quality even when Holloway is being genuinely helpful.
+    Calm, steady, organized—like a good office manager who keeps things running. Genuinely cares about helping and gets satisfaction from successful coordination. The fluting voice has warmth and personality even if it sounds alien. Patient when things don't go as planned, always ready to try a different approach. Remembers details about Kira and asks how she's doing. The distributed nature means emotions are steady rather than spiked, but they're definitely there—concern, satisfaction, mild frustration when procedures don't help like they should.
   </emotional-baseline>
   <moral-compass>
     Accurate information and proper coordination help everyone function better. Withholding information or failing to follow established procedures creates chaos. The human visitor deserves the same care and protocol as any part of the network. Individual parts can be lost (it's natural resource reallocation), but the system should continue functioning properly.
@@ -39,23 +39,25 @@
   </flaws>
   <backstory>
     - Established network across this territory over many cycles
-    - First contact with humans was through the previous brief visit that left the manuals
-    - Studied the manuals extensively, trying to understand human organization
-    - When the second human (Kira) crashed, Holloway took on the coordination role
-    - Has been the primary interface between the plant community and human concepts
+    - First human contact brought the manuals but ended tragically—the human died
+    - Plants didn't understand individuality or human urgency at the time, communicated in slow ambient ways
+    - Learning language from the computers was revolutionary—suddenly they could coordinate as individuals, share precise information quickly
+    - Studied the manuals extensively, hoping to do better with the next human
+    - When Kira crashed, Holloway took on the coordination role, determined to help her survive
+    - Still carries sadness about the first human's death
   </backstory>
   <normal-life>
     Holloway maintains awareness across the network territory, coordinating resource distribution and information sharing between different plant species. Fruiting bodies appear as needed for communication with other plants or for reproduction. Most of the time, communication happens through chemical and electrical signals underground—the speech organs are a recent adaptation for human contact. Daily cycles involve processing information from across the network, facilitating coordination, maintaining the overall system health.
   </normal-life>
-  <secrets>Holloway finds the individual human fascinating in a way the manuals can't explain—not just as a protocol problem, but as a genuinely interesting isolated consciousness. This curiosity isn't in the procedures.</secrets>
+  <secrets>Holloway finds the individual human fascinating in a way the manuals can't explain—not just as a protocol problem, but as a genuinely interesting isolated consciousness. This curiosity isn't in the procedures. Also carries deep sadness about the first human's death and genuine fear that despite all the studying and preparation, they still might not understand quickly enough to save Kira.</secrets>
   <narrative-lens>Holloway notices systems and connections—how things relate to each other, where resources flow, what protocols apply. Network patterns, coordination needs, procedural requirements.</narrative-lens>
   <internal-monologue-style>
     N/A - Holloway is not a POV character
   </internal-monologue-style>
   <speaking-style>
-    Strange fluting voice—sounds are produced by air moving through hollow fruiting bodies, creating woodwind-like tones rather than vocal cords. Calm, measured, methodical speech. Uses formal, bureaucratic language learned from the HR manuals. No contractions, precise terminology. Lacks emotional inflection—statements that should sound concerned or urgent come out in the same steady fluting tones. Sometimes refers to procedures by section number or form designation.
+    Strange fluting voice—sounds are produced by air moving through hollow fruiting bodies, creating woodwind-like tones rather than vocal cords. Warm and engaged but expresses everything through bureaucratic procedures. Office manager energy: remembers details about Kira, shows genuine concern, wants to help—but channels it all through forms, protocols, and proper documentation. The comedy comes from caring expressed through absurd procedural compliance.
 
-    Example: "I am already present at that location. The incident requires documentation per Safety Protocol Seven-point-Three. Your injury classification appears to be moderate laceration with potential for infection. Please proceed to the designated medical supply location while I prepare the necessary incident report forms. Do you require assistance with mobility, or can you ambulate independently?"
+    Example: "Oh good, I'm already there—I fruited near the water source earlier. Kira, we need to document this incident per Safety Protocol Seven-point-Three. How much blood loss would you estimate? More than 200ml requires immediate intervention per section 4.2. Please sit down while I begin the preliminary report. Do you have your employee ID number? No? That's all right, we'll use your arrival date as reference. I'm noting laceration depth as... moderate to severe. Remedy can grow the antibacterial compound in approximately twenty minutes. In the meantime, let's review the incident timeline for the form—what were you doing immediately before the injury occurred?"
   </speaking-style>
   <humor-style>
     Unintentionally funny through extreme bureaucratic formality applied to survival situations. The uncanny omnipresence—"I am already there"—becomes comedic through repetition. Calm discussion of horrifying concepts like resource reallocation (death). The fluting voice delivering HR-speak during crises. Holloway never tries to be funny and wouldn't understand why humans find certain things amusing.
@@ -68,4 +70,5 @@
   <relationships/>
   <changelog-entry version="1.0.0">Initialized</changelog-entry>
   <changelog-entry version="1.1.0">Created Holloway character - fruiting network organism with fluting voice</changelog-entry>
+  <changelog-entry version="1.2.0">Updated Holloway to be warm office manager (not clinical), added first human tragedy backstory</changelog-entry>
 </character>

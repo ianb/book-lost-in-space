@@ -26,4 +26,29 @@
       </changelog-entry>
     </setting>
   </version>
+  <version number="1.1.0" archived-at="2025-11-28T11:47:44.400Z">
+    <setting version="1.1.0">
+      <reasoning-setting>
+        <!-- For instructions on filling out reasoning: ske instructions world/setting.card -->
+      </reasoning-setting>
+      <why-this-setting>This setting inverts the typical first-contact story: instead of humans trying to understand aliens, we watch aliens try to understand humans through the absurd lens of HR manuals and employee handbooks. This creates natural comedy from the collision of bureaucratic process and survival needs, while also exploring how bizarre human culture looks from an outside perspective. The far-future working-class space travel setting provides grounded stakes (no heroic rescue coming) while allowing the focus to stay on the human-alien culture clash.</why-this-setting>
+      <what-where-when>Late 27th century, on an uncharted planet in the Outer Reaches (frontier zone beyond established trade routes). A cargo ship crashes during a routine supply run, killing the pilot and copilot; the sole survivor is the low-ranking "cargo specialist" who was never meant to handle navigation or survival. The planet has no human presence but extensive sentient plant-based life. FTL travel exists but FTL communication doesn't—rescue requires a physical messenger to reach populated space, making help weeks or months away at best.</what-where-when>
+      <reasoning-social-order/>
+      <social-order>Human society is corporatized—cargo pilots work for shipping companies with standard employment contracts, safety protocols, and liability waivers. Class divisions are economic rather than aristocratic: corporate officers hold power, pilots are labor, and support staff like "cargo specialists" rank even lower. The alien plant society has adopted bureaucratic hierarchy from HR manuals without understanding its purpose: they have "managers" and "departments" and "reporting structures," maintained through procedural compliance rather than force or economics. Plants lack individual self-preservation instincts, so their "authority" is collective and functional, not controlling. The aliens are genuinely kind and helpful, but their understanding of human needs is filtered entirely through workplace manuals—they want to help but aren't sure whether to prioritize immediate survival or proper procedure. When the human arrives desperate and injured, the aliens respond with earnest concern expressed through incident reports, wellness programs, and safety protocols.</social-order>
+      <reasoning-time-place-primer/>
+      <time-place-primer>
+        - FTL travel uses "jump drives" that work but FTL communication doesn't exist—you need a physical messenger to send a distress signal, making rescue weeks or months away
+        - Space travel is routine working-class employment; cargo pilots fly solo on standard routes with corporate-mandated safety equipment and emergency protocols
+        - AI companions via neural link are standard for space workers—they assist with tasks, provide company, and monitor safety. Different AI types exist for different purposes (adult assistants, kids' educational AIs, medical AIs, etc.)
+        - The crashed ship's emergency beacon only transmits at light speed; even if someone hears it, help won't arrive quickly
+        - The planet's plant-based sentient life learned about humans from employee manuals and HR handbooks left by previous (brief, minimal) human contact
+        - Plants communicate through chemical signals and bioluminescence; they've developed speech organs to interact with the human but their communication style is bureaucratic and literal—they're eager to help but genuinely confused about human priorities
+        - Plants lack individual self-preservation instincts—they function collectively and view "death" of individual parts as normal resource reallocation
+        - The planet's atmosphere is breathable but the native "food" is incompatible with human biology; the protagonist must rely on ship rations or figure out survival solutions
+        - Standard corporate emergency kits include medical supplies, limited food rations, basic repair tools, and procedural guides—enough to survive short-term but not indefinitely
+      </time-place-primer>
+      <realism>Comic hard sci-fi; technology follows plausible extrapolations (FTL travel exists with specific constraints, no magic, no impossible physics). The humor comes from character interactions and absurd situations, not from breaking scientific rules. Alien biology can be strange but follows internal logic. Problem-solving should feel grounded even when the circumstances are ridiculous—like The Martian but with bureaucratic plant aliens instead of potatoes.</realism>
+      <changelog-entry version="1.1.0">Added AI companion technology to setting</changelog-entry>
+    </setting>
+  </version>
 </versions>

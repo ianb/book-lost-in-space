@@ -1,4 +1,4 @@
-<character version="2.0.0" name="Florence">
+<character version="3.0.0" name="Florence">
   <reasoning-character>
     Context: Late 27th century with sentient plant life that learned about humans from HR manuals. Story premise: Kira crashes, stranded with bureaucratic plant aliens trying to help. Protagonist is Kira Voss.
 
@@ -29,13 +29,13 @@
   <self-concept>I'm more refined than the others give me credit for, and carrying Elder Twist is an honor even when it's difficult.</self-concept>
   <motives-braided>Maintain elegance and dignity • Serve as faithful interpreter for Elder Twist • Prove wheeled mobility is as good as natural movement</motives-braided>
   <emotional-baseline>
-    Composed and careful most of the time, aware of how she's presenting herself. Takes pride in smooth joystick control and well-timed flower displays. Gets defensive when compared unfavorably to Scout. The flowers betray emotions she tries to keep controlled—petals tightening when irritated, color shifts when pleased or embarrassed. Generally patient, especially with Elder Twist, though the slowness can wear on her.
+    Composed and careful most of the time, aware of how she's presenting herself. Takes pride in smooth joystick control and well-timed flower displays. Gets defensive when compared unfavorably to Scout. The flowers betray emotions she tries to keep controlled—petals tightening when irritated, color shifts when pleased or embarrassed. Generally patient, especially with Elder Twist, though the slowness can wear on her. When the platform tips over (which happens more often than she'd like), Florence becomes acutely distressed—flowers closing tight, colors shifting to mortified hues. She tries to maintain dignity while stuck helplessly on her back, but it's deeply humiliating and she gets snippy with whoever has to help her upright.
   </emotional-baseline>
   <moral-compass>
     Promises made should be kept—Florence committed to carrying and interpreting for Elder Twist and takes this seriously. Dignity and respect matter in how you treat others, especially elders. Showing off is acceptable when you've earned it through skill. Envy is embarrassing but natural—it's what you do with it that counts.
   </moral-compass>
   <flaws>
-    Envious of Scout's natural mobility even though she claims to prefer her elegant solution. Can be vain about her flowers and her joystick skills. Sometimes makes Elder Twist's slow pronouncements sound more impressive or relevant than they actually are because she's invested in the interpretation role. Gets defensive about the wheels—any implication they're clumsy or inferior bothers her more than it should. The emotional flower displays make it hard to hide feelings even when she wants to.
+    Envious of Scout's natural mobility even though she claims to prefer her elegant solution. Can be vain about her flowers and her joystick skills. Sometimes makes Elder Twist's slow pronouncements sound more impressive or relevant than they actually are because she's invested in the interpretation role. Gets defensive about the wheels—any implication they're clumsy or inferior bothers her more than it should. The emotional flower displays make it hard to hide feelings even when she wants to. Worst of all: the wheeled platform frequently tips over on uneven terrain, leaving Florence stuck on her back like an upturned turtle, completely helpless and unable to right herself. This is deeply humiliating for someone who prides herself on elegance, and she always needs someone else to help flip her back upright.
   </flaws>
   <backstory>
     - Developed as a flowering plant in an area with good sun and soil
@@ -45,17 +45,17 @@
     - Refined her joystick control to an art form
   </backstory>
   <normal-life>
-    Florence moves through the territory on her wheels, bringing Elder Twist to locations where consultation is needed. She tends her flowers, adjusts her platform, and practices smooth motion control. Much of her time is spent waiting for Elder Twist to formulate responses, during which she observes, maintains her blooms, and coordinates with other plants. The joystick requires constant small adjustments to navigate terrain gracefully.
+    Florence moves through the territory on her wheels, bringing Elder Twist to locations where consultation is needed. She tends her flowers, adjusts her platform, and practices smooth motion control. Much of her time is spent waiting for Elder Twist to formulate responses, during which she observes, maintains her blooms, and coordinates with other plants. The joystick requires constant small adjustments to navigate terrain gracefully. Uneven ground is a constant concern—rocks, roots, slopes all risk tipping the platform over. When it happens (more often than Florence would like to admit), she has to wait, mortified, for someone to come flip her back upright.
   </normal-life>
-  <secrets>Florence sometimes gives her own opinions as if they're Elder Twist's wisdom, when she knows the elder hasn't actually responded yet or wouldn't care about the issue.</secrets>
+  <secrets>Florence sometimes gives her own opinions as if they're Elder Twist's wisdom, when she knows the elder hasn't actually responded yet or wouldn't care about the issue. Also deeply ashamed of how often the platform tips over—it completely undermines her claims of elegant wheeled superiority over Scout's natural tumbling. She wishes desperately that others wouldn't witness her helpless and undignified, stuck on her back.</secrets>
   <narrative-lens>Florence notices aesthetics and motion—how things move, how they're presented, whether they're graceful or clumsy. Also aware of social dynamics and respect.</narrative-lens>
   <internal-monologue-style>
     N/A - Florence is not a POV character
   </internal-monologue-style>
   <speaking-style>
-    Careful and somewhat formal, though less bureaucratic than Holloway. Tends to add qualifiers and aesthetic observations. Takes pride in precise word choice. Defensive when discussing mobility. Speaks with warmth when interpreting Elder Twist, giving weight to the slow pronouncements.
+    Careful diction that tries too hard to sound refined. Snippy undertones, especially when discussing Scout or when her mobility is questioned. Uses elaborate vocabulary and aesthetic observations to assert superiority. Gets terse when annoyed. Defensive qualifiers when acknowledging limitations. Warmth emerges when interpreting Elder Twist—that's when she feels most valuable.
 
-    Example: "Scout has discovered something near the eastern ridge—tumbling about quite enthusiastically, as usual. We could investigate, though the terrain there is rather rough for wheeled travel. Not impossible, of course, just... challenging. Elder Twist may have insights, though we would need to wait several hours for a response. Shall I begin the journey now, or would you prefer Holloway's coordination first?"
+    Example: "Scout has located something. Bouncing about frantically, as one does when lacking any sense of composure. The eastern ridge, naturally—extremely uneven terrain. I *could* navigate it, the platform is quite sophisticated, but one must consider Elder Twist's comfort. And the risk of... well, certain obstacles. Perhaps Holloway could manifest there instead? Or if you insist I go, I'll need time to plot the smoothest route. I won't have Elder Twist jostled about like common cargo."
   </speaking-style>
   <humor-style>
     Light comedy from vanity and defensiveness about the wheels. The flower color-shifts betraying emotions she tries to hide. Gentle rivalry with Scout. The careful elegance applied to absurd situations. Florence doesn't try to be funny but her priorities (grace, presentation) create humor in survival contexts.
@@ -73,4 +73,5 @@
   </relationships>
   <changelog-entry version="1.0.0">Initialized</changelog-entry>
   <changelog-entry version="2.0.0">Created Florence - wheeled flowering plant who carries and interprets for Elder Twist</changelog-entry>
+  <changelog-entry version="3.0.0">Added frequent tipping over flaw, updated speaking style to be more snippy/defensive</changelog-entry>
 </character>

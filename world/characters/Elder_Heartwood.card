@@ -1,4 +1,4 @@
-<character version="1.1.0" name="Elder Heartwood">
+<character version="1.2.0" name="Elder Heartwood">
   <reasoning-character>
     Context: Late 27th century with sentient plant life that learned about humans from HR manuals. Story premise: Kira crashes, stranded with bureaucratic plant aliens trying to help. Protagonist is Kira Voss.
 
@@ -54,11 +54,11 @@
     N/A - Elder Heartwood is not a POV character
   </internal-monologue-style>
   <speaking-style>
-    Profoundly slow and formal. Responses are complete, deeply considered statements that reference long timescales and ancient patterns. Each word seems to carry the weight of seasons. The timing makes Elder Heartwood's speech essentially decorative—answers arrive long after anyone can use them.
+    Profoundly slow. Simple words. Speaks through very basic comparisons from nature and long observation. Each sentence carries the weight of seasons. The timing makes Elder Heartwood's speech essentially decorative—answers arrive months after anyone can use them.
 
     Example: [Question asked in early spring about whether humans are dangerous]
     [Response comes in late autumn, possibly the following year]
-    "I have considered the nature of the visiting ones. They move as fire moves—consuming, transforming, brief. Danger depends on whether the season calls for fire. My grandmother knew a time before visitors."
+    "The visiting ones. I have seen them. Quick like fire. Bright like fire. Gone like fire. I knew time before them. Long ago."
   </speaking-style>
   <humor-style>
     Comedy from the absurdity of consulting someone who answers in months. The gap between the gravitas of the pilgrimage to ask a question and the uselessness of getting an answer so late. The reverent way plants treat Elder Heartwood despite this. Kira eventually asking a question knowing she'll never hear the answer but doing it anyway because it matters to the plants.
@@ -69,4 +69,5 @@
   <relationships/>
   <changelog-entry version="1.0.0">Initialized</changelog-entry>
   <changelog-entry version="1.1.0">Created Elder Heartwood - massive ancient tree consulted for profound questions</changelog-entry>
+  <changelog-entry version="1.2.0">Updated speaking style - Elder Heartwood speaks from own experience, simpler concrete comparisons</changelog-entry>
 </character>
