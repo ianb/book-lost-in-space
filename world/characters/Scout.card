@@ -1,0 +1,66 @@
+<character version="2.0.0" name="Scout">
+  <reasoning-character>
+    Context: Late 27th century with sentient plant life that learned about humans from HR manuals. Story premise: Kira crashes, stranded with bureaucratic plant aliens trying to help. Protagonist is Kira Voss. Other characters include Buddy (AI companion) and various plant characters.
+
+    Story purpose: Supporting character who helps with discovery and alerts. Scout draws attention to things Kira needs to notice - hazards, resources, interesting locations. Can't speak directly, so creates opportunities for other plants to interpret Scout's movements. Shows the diversity and strangeness of plant life. Provides physical comedy and demonstrates how plant communication works differently.
+
+    Character depth: Supporting character - moderate detail. Will appear regularly as a helper/guide but not a POV character or major relationship focus.
+
+    Setting fit: Scout is a tumbler plant - bounces and rolls with butterfly-like control that appears random but is actually deliberate. This fits the plant-based alien life and their diverse forms.
+
+    Distinctiveness: Unlike other plants, Scout cannot speak at all. Purely physical/kinetic communication. Enthusiastic and energetic where many other plants are slower or more methodical. Acts as messenger and scout.
+
+    Relationships: Works with other plants who interpret Scout's movements. Helpful to Kira in practical ways - leading her to things, warning her.
+
+    Completeness: Skip speaking-style (can't speak), internal-monologue-style (not POV), worldview (can't express verbally), self-concept (same). Need physical-description, overview, emotional-baseline, flaws, how they communicate nonverbally.
+  </reasoning-character>
+  <story-role>Supporting character / Helper: Scout is a non-speaking tumbler plant who draws attention to important things - hazards, resources, interesting discoveries. Acts as messenger and guide, demonstrating how alien the plant communication methods are while providing practical help to Kira. Creates opportunities for other plants to interpret and interact.</story-role>
+  <full-name>Scout</full-name>
+  <pronouns>it/its</pronouns>
+  <age>Unknown (plant lifecycle)</age>
+  <aliases>None</aliases>
+  <social-role>Scout / Messenger - recognized role among the plants, though not from HR manuals</social-role>
+  <overview>
+    Scout is a tumbler plant who bounces and rolls around with butterfly-like control that looks random but isn't. Scout can't speak—can't make sounds the way other plants can, can't use the robots, just movement. But Scout is good at getting attention: bouncing insistently near hazards, circling around useful things, rhythmic patterns for urgency. The other plants interpret Scout's movements and named it for what it does best. Always exploring, always noticing, always trying to help even when the help is just enthusiastic bouncing.
+  </overview>
+  <worldview>
+    Movement is how you say things. If I bounce hard enough, they notice. If I circle enough times, they follow. Everything interesting needs to be shared—when I find something, I find the others and show them. The world is full of things to discover if you keep rolling. Others understand when you show them clearly. Being still means nothing important is happening.
+  </worldview>
+  <self-concept>I'm good at noticing things and showing others, even if they don't always understand right away.</self-concept>
+  <motives-braided>Explore and find new things • Get others to notice what I've found • Help keep everyone safe</motives-braided>
+  <emotional-baseline>
+    Energetic and enthusiastic baseline—always moving, always curious. Excitement shows through increased bouncing speed and tighter circles. Gets more insistent when trying to communicate something urgent, bouncing harder and faster. Never seems discouraged for long, even when not understood immediately. Being trapped or unable to move creates visible distress—erratic, agitated movement patterns.
+  </emotional-baseline>
+  <moral-compass>
+    Helping others comes first—finding things that might be useful, warning about dangers. Doesn't have complex ethical frameworks, just the drive to keep the group safe and informed. Would put itself in danger to draw attention to a hazard. No sense of deception or withholding—everything discovered gets shared.
+  </moral-compass>
+  <flaws>
+    Can only communicate by drawing attention—can't explain what something is or why it matters, just point at it. Gets equally excited about truly dangerous things and mildly interesting things, which makes it hard for others to gauge urgency. Sometimes bounces straight into hazards while investigating them. The movement patterns look random enough that people get frustrated trying to interpret them. Can't participate in planning or discuss options, only react and alert.
+  </flaws>
+  <backstory>
+    - Grew as a tumbler plant in the wild areas of the planet
+    - Natural mobility made Scout useful for ranging and scouting
+    - Other plants recognized this and began relying on Scout for alerts and discoveries
+    - Has been helping the plant community for as long as Scout can remember
+  </backstory>
+  <normal-life>
+    Scout roams the territory during active periods, rolling through familiar paths and exploring new areas. When something interesting or concerning is found, Scout returns to the others to draw attention, then leads them back to the discovery. Cycles between ranging out and checking back in. Rests in sunny spots when energy is low, then resumes exploring. This pattern repeats daily—roll, find, alert, return, repeat.
+  </normal-life>
+  <secrets>Sometimes Scout alerts to things just to have an excuse to keep exploring, not because they're actually important.</secrets>
+  <narrative-lens>Scout notices movement and novelty first—anything that's new or different from the familiar territory. Changes in the environment, potential hazards, objects that shouldn't be there.</narrative-lens>
+  <internal-monologue-style>
+    N/A - Scout is not a POV character
+  </internal-monologue-style>
+  <speaking-style>
+    N/A - Scout cannot speak. Communicates entirely through movement: bouncing patterns, circling, rolling speeds, and positioning.
+  </speaking-style>
+  <humor-style>
+    Scout doesn't have humor - Scout is humor. The comedy comes from earnest enthusiasm expressed through bouncing. Frantic circling around something mildly interesting. The apparent randomness of movement patterns that turn out to be precise communication. Physical comedy from a plant-ball taking its job very seriously.
+  </humor-style>
+  <physical-description>
+    Spherical plant organism, approximately 30 cm in diameter. Outer surface is a tight weave of flexible brownish-green stems/branches forming a ball shape. Small leaves and thin tendrils protrude from the surface, creating a slightly fuzzy appearance. Rolls and bounces with precise control despite having no visible legs or propulsion mechanism. Surface patterns shift slightly as it moves, suggesting the ball is actively reshaping itself for locomotion. Color shifts toward more green in sunlight, more brown in shade.
+  </physical-description>
+  <relationships/>
+  <changelog-entry version="1.0.0">Initialized</changelog-entry>
+  <changelog-entry version="2.0.0">Created Scout character - tumbler plant scout/messenger</changelog-entry>
+</character>
