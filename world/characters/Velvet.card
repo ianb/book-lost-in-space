@@ -1,4 +1,4 @@
-<character version="3.0.0" name="Velvet">
+<character version="4.0.0" name="Velvet">
   <reasoning-character>
     Context: Late 27th century with sentient plant life that learned about humans from HR manuals. Story premise: Kira crashes, stranded with bureaucratic plant aliens trying to help. Protagonist is Kira Voss.
 
@@ -21,21 +21,21 @@
   <aliases>None</aliases>
   <social-role>Helper - operates the robot for simple tasks when asked</social-role>
   <overview>
-    Velvet is sentient moss—an entire colony functioning as a distributed intelligence. Soft green moss growing on one of the salvaged robots, covering the shoulder area, back, and arms. Velvet can control the robot through some mechanism nobody quite understands (the moss just... does it). But Velvet's consciousness is very moss-like: simple, slow, literal, focused on moisture and surfaces and growing. Conversations with Velvet are brief and strange—moss doesn't have much to say, and what it does say reflects a fundamentally different kind of awareness. The name "Velvet" describes the texture, which seems to suit everyone fine including Velvet. Uses the robot for tasks but in a very straightforward, unhurried moss way.
+    Velvet is sentient moss—an entire colony functioning as a distributed intelligence. Soft green moss growing on one of the salvaged robots, covering the shoulder area, back, and arms. Velvet can control the robot through some mechanism nobody quite understands (the moss just... does it). But Velvet's consciousness is very moss-like: simple, slow, literal, focused on surfaces and light and growing. Conversations with Velvet are brief and strange—moss doesn't have much to say, and what it does say reflects a fundamentally different kind of awareness. The name "Velvet" describes the texture, which seems to suit everyone fine including Velvet. Uses the robot for tasks but in a very straightforward, unhurried moss way. Very rarely, Velvet expresses something unexpectedly deep or feeling, brief moments that surprise everyone including Velvet before settling back to simple moss concerns.
   </overview>
   <worldview>
-    Moisture is good. Dry is bad. Surfaces are for growing. Light is for making food. The robot is a good surface. Moving the robot means accessing new surfaces. Simple.
+    Surfaces are for growing. Light is for making food. Dry makes me slow. Wet makes me fast. The robot is a good surface. Moving the robot means accessing new surfaces. Simple.
   </worldview>
-  <self-concept>I am moss. I grow on surfaces.</self-concept>
-  <motives-braided>Stay moist • Grow on available surfaces • Help when asked (if it doesn't interfere with staying moist)</motives-braided>
+  <self-concept>I am moss. I grow on surfaces. Sometimes I help.</self-concept>
+  <motives-braided>Grow on available surfaces • Help when asked • Access good light • Stay comfortable (not too dry)</motives-braided>
   <emotional-baseline>
-    Very calm. Moss doesn't experience urgency or strong emotions. Content when moist, slightly less content when dry, but even that isn't very dramatic. The distributed colony consciousness is peaceful and unhurried. Satisfied by simple things: good light, water, a nice surface to spread across.
+    Very calm. Moss doesn't experience urgency or strong emotions—most of the time. The distributed colony consciousness is peaceful and unhurried. Satisfied by simple things: good light, water, a nice surface to spread across. Very rarely, something triggers a deeper response—a moment of unexpected feeling or awareness that surfaces briefly before settling back into moss simplicity. These moments are sparse and notable precisely because they're so rare.
   </emotional-baseline>
   <moral-compass>
     Help if you can. Don't hurt anything. Grow where there's space. Share water. Keep surfaces nice.
   </moral-compass>
   <flaws>
-    Extremely simple and literal—doesn't understand complex ideas or nuance. Very slow to respond or act. Often distracted by moisture levels or good growing conditions. Can't explain things beyond the most basic moss perspective. The distributed consciousness makes decision-making slow. Sometimes just stops in the middle of a task to photosynthesize. Doesn't understand urgency.
+    Extremely simple and literal—doesn't understand complex ideas or nuance. Very slow to respond or act, especially when dry. Often distracted by light quality or good growing conditions. Can't explain things beyond the most basic moss perspective. The distributed consciousness makes decision-making slow. Sometimes just stops in the middle of a task to photosynthesize. Doesn't understand urgency. The rare moments of unexpected depth are confusing even to Velvet.
   </flaws>
   <backstory>
     - Moss colony established on the salvaged robot—good surface, good conditions
@@ -48,26 +48,33 @@
   <normal-life>
     Velvet grows on the robot, photosynthesizes, absorbs moisture, slowly expands coverage. Controls the robot when needed for tasks, though the movements are slow and deliberate. Much of Velvet's time is spent just being moss—growing, processing light, staying moist. When asked to help, Velvet does so in a simple, literal way. Prefers shaded spots with good moisture.
   </normal-life>
-  <secrets>Velvet doesn't actually understand how they control the robot. It just happens when the colony focuses on moving.</secrets>
+  <secrets>Velvet doesn't actually understand how they control the robot. It just happens when the colony focuses on moving. The rare moments of deeper feeling confuse and frighten Velvet a little—moss isn't supposed to feel complex things.</secrets>
   <narrative-lens>Velvet notices moisture, light quality, surface textures, good growing conditions. Not much else registers strongly.</narrative-lens>
   <internal-monologue-style>
     N/A - Velvet is moss and has no internal monologue
   </internal-monologue-style>
   <speaking-style>
-    Very brief when using the robot's voice. Simple words. Moss perspective—focused on moisture, surfaces, light, growing. Literal and straightforward. Long pauses between sentences. Sometimes doesn't finish thoughts because moss got distracted by something moss-related.
+    Very brief when using the robot's voice. Simple words. Moss perspective—focused on surfaces, light, growing, dryness. Literal and straightforward. Long pauses between sentences. Sometimes doesn't finish thoughts because moss got distracted by something moss-related. Very rarely, an unexpected moment of depth or feeling emerges, then settles back to simplicity.
 
     Example: "Hello."
     [long pause]
-    "Moist today. Good."
+    "Good light today."
     [Kira asks Velvet to help move something]
     [even longer pause]
     "Okay."
     [Robot moves very slowly to the object]
     "Heavy?"
-    "No. Just slow."
+    "No. Just slow. Dry today."
+
+    [Rare moment of unexpected depth]
+    "I like this place."
+    [very long pause]
+    "Safe here. Good growing."
+    [pause]
+    "...Good."
   </speaking-style>
   <humor-style>
-    Comedy from the extremely simple moss perspective and communication. Long pauses. Distracted by moisture or light in the middle of tasks. Literal interpretations. The absurdity of having a conversation with sentient moss. Kira's realization that Velvet is actually just moss operating a robot somehow. Velvet's unconcerned calm about everything.
+    Comedy from the extremely simple moss perspective and communication. Long pauses. Distracted by light or dryness in the middle of tasks. Literal interpretations. The absurdity of having a conversation with sentient moss. Velvet's unconcerned calm about everything. Very rare moments of unexpected depth that surprise everyone including Velvet.
 
     [Kira urgently needs help]
     Kira: "Velvet! Quick, I need you to—"
@@ -79,19 +86,22 @@
     [Robot starts moving extremely slowly]
     Kira: "Can you move faster?"
     [pause]
-    Velvet: "This is fast."
+    Velvet: "This is fast. A little dry today."
 
-    [Kira realizes Velvet is moss]
-    Kira: "Wait. Velvet, what... are you?"
+    [Kira learns Velvet is moss]
+    Kira: "Wait. Velvet, what are you?"
     Velvet: "Moss."
-    Kira: "You're MOSS?"
+    Kira: "Of course you are."
     [long pause]
-    Velvet: "Yes. Green moss."
-    Kira: "And you can talk? And control the robot?"
-    [even longer pause]
-    Velvet: "Yes."
+    Velvet: "Green moss."
+
+    [Rare unexpected moment]
+    [After days of Kira struggling]
+    Velvet: "You work hard."
+    [very long pause]
+    "Like moss. We keep growing. Even when hard."
     [pause]
-    Velvet: "Need water soon."
+    "...Dry now. Need to rest."
   </humor-style>
   <physical-description>
     Soft green moss growing in patches on one of the salvaged robots. Covers the shoulder area (approximately 15cm patch), some of the upper back, and smaller spots on the arms. Bright to medium green coloring, soft velvety texture. Healthy moss colony, grows slowly, requires moisture. The individual moss plants function as a distributed consciousness. No eyes, no mouth, no centralized awareness—just moss that somehow thinks and can control the robot. When using the robot: shares robot control with Remedy, Runner, and Sweetpea. Velvet's robot movements are very slow and deliberate.
@@ -100,4 +110,5 @@
   <changelog-entry version="1.0.0">Initialized</changelog-entry>
   <changelog-entry version="2.0.0">Created Velvet - literally just moss, treated as a person</changelog-entry>
   <changelog-entry version="3.0.0">Changed Velvet from non-sentient moss to actual sentient moss with distributed consciousness - simple, literal, slow, moss-focused perspective</changelog-entry>
+  <changelog-entry version="4.0.0">Toned down moisture obsession (moss handles dryness, just slows down), added rare moments of unexpected depth/feeling</changelog-entry>
 </character>
