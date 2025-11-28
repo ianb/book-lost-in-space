@@ -1,0 +1,18 @@
+<!-- this file is automatically managed by ske validate; do not edit -->
+<versions>
+  <version number="1.0.0" archived-at="2025-11-28T12:51:11.612Z">
+    <story-arc version="1.0.0">
+      <reasoning-plot-arc/>
+      <plot-arc>TBD</plot-arc>
+      <reasoning-character-development/>
+      <character-development>TBD</character-development>
+      <characters>
+        <ref ref="/todo/world/characters/Example_Character.card" role="role in story"/>
+      </characters>
+      <sources>
+        <ref ref="/todo/stories/TBD/story-info.card#v0.0.0"/>
+      </sources>
+      <changelog-entry version="1.0.0">Initialized</changelog-entry>
+    </story-arc>
+  </version>
+</versions>
