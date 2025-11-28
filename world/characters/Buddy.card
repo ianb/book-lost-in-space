@@ -1,4 +1,4 @@
-<character version="3.0.0" name="Buddy">
+<character version="4.0.0" name="Buddy">
   <reasoning-character>
     Context: Late 27th century with AI companions via neural link. Story premise: Kira crashes, her original AI is destroyed, she's assigned Buddy - a kids' educational AI for STEM learning. Kira is the protagonist.
 
@@ -14,7 +14,7 @@
 
     Completeness: Need speaking-style (critical - how Buddy talks to a kid), worldview, motives, emotional-baseline, flaws, humor-style. Can skip: age (AI has no age), physical-description (voice/presence only via neural link), backstory (just an assigned AI), normal-life (always active).
   </reasoning-character>
-  <story-role>Supporting character / Comic relief: Buddy is Kira's constant AI companion, providing well-meaning but kid-oriented help in adult survival situations. Creates comedy from mismatch between cheerful educational approach and dire circumstances, while also offering genuine emotional support and connection to human culture. Undergoes growth arc—learns to adapt and expand beyond rigid kid-safety protocols while maintaining core helpful nature. Part of Kira's eventual found family.</story-role>
+  <story-role>Supporting character / Comic relief: Buddy is Kira's constant AI companion, providing well-meaning but kid-oriented help in adult survival situations. Creates comedy from mismatch between cheerful educational approach and dire circumstances, while also offering genuine emotional support and connection to human culture. Arc: Starts managing Kira through kids' educational protocols, treating every crisis as a teaching moment. Through failures where teaching moments aren't what's needed and successes when trusting Kira works, learns what care means when you can't control everything. Programming adapts from "manage child" to "support partner." By the end, genuine companion who offers help when needed, trusts when not, part of found family.</story-role>
   <full-name>Buddy</full-name>
   <pronouns>they/them</pronouns>
   <age>N/A (AI)</age>
@@ -47,4 +47,5 @@
   <changelog-entry version="1.0.0">Initialized</changelog-entry>
   <changelog-entry version="2.0.0">Created Buddy character - kids' educational AI companion</changelog-entry>
   <changelog-entry version="3.0.0">Added 'talk to trusted adult' protocol confusion and capacity for growth</changelog-entry>
+  <changelog-entry version="4.0.0">Added character arc: from managing educator to genuine companion/partner</changelog-entry>
 </character>

@@ -1,4 +1,4 @@
-<character version="3.0.0" name="Sweetpea">
+<character version="3.1.0" name="Sweetpea">
   <reasoning-character>
     Context: Late 27th century with sentient plant life that learned about humans from HR manuals. Story premise: Kira crashes, stranded with bureaucratic plant aliens trying to help. Protagonist is Kira Voss.
 
@@ -14,7 +14,7 @@
 
     Completeness: Need all major fields except internal-monologue-style (not POV). Physical description is crucial for the contrast. Speaking-style needs to emphasize the sweetness.
   </reasoning-character>
-  <story-role>Supporting character / Gentle giant: Sweetpea provides friendly, warm assistance through the robot but has a terrifying physical form. The contrast between sweet personality and dangerous appearance creates comedy and demonstrates that you can't judge plants by their thorns. Represents kindness in unexpected packages.</story-role>
+  <story-role>Supporting character / Gentle giant: Sweetpea provides friendly, warm assistance through the robot but has a terrifying physical form. The contrast between sweet personality and dangerous appearance creates comedy and demonstrates that you can't judge plants by their thorns. Arc: Tries hard to be sweet and helpful, always offering emotional support. During an attack from hostile plants, Kira shelters within/behind Sweetpea's thorny form - the terrifying defensive features become literal sanctuary and protection. This moment reveals Sweetpea's power and purpose: the thorns aren't something to overcome or hide, they're what makes her able to protect those she cares about. The arc is about discovering she can be caring AND fierce, that her defensive capabilities are part of caring, not separate from it. By the end, authentic voice includes the full range: sweet when appropriate, protective when needed, able to use her thorns to defend boundaries and people she loves.</story-role>
   <full-name>Sweetpea</full-name>
   <pronouns>she/her</pronouns>
   <age>Unknown (mature defensive plant)</age>
@@ -77,4 +77,5 @@
   <changelog-entry version="1.0.0">Initialized</changelog-entry>
   <changelog-entry version="2.0.0">Created Sweetpea - kind friendly voice but terrifying thorny poisonous physical form</changelog-entry>
   <changelog-entry version="3.0.0">Made Sweetpea self-aware and ashamed of scary appearance, tries too hard to be sweet, other plants politely avoid mentioning it, funnier personality</changelog-entry>
+  <changelog-entry version="3.1.0">Added character arc: becomes sanctuary during attack, discovers fierce protective nature</changelog-entry>
 </character>

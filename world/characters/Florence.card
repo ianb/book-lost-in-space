@@ -1,4 +1,4 @@
-<character version="3.0.0" name="Florence">
+<character version="3.1.0" name="Florence">
   <reasoning-character>
     Context: Late 27th century with sentient plant life that learned about humans from HR manuals. Story premise: Kira crashes, stranded with bureaucratic plant aliens trying to help. Protagonist is Kira Voss.
 
@@ -14,7 +14,7 @@
 
     Completeness: Need all major fields except internal-monologue-style (not POV). Speaking-style and physical-description are particularly important.
   </reasoning-character>
-  <story-role>Supporting character / Interpreter: Florence carries Elder Twist and interprets the slow responses, serving as a mobile unit for the ancient tree's wisdom. Provides emotional visibility through color-changing flowers. Demonstrates plant engineering and diversity. Creates personality contrast with more straightforward plants.</story-role>
+  <story-role>Supporting character / Interpreter: Florence carries Elder Twist and interprets the slow responses, serving as a mobile unit for the ancient tree's wisdom. Provides emotional visibility through color-changing flowers. Demonstrates plant engineering and diversity. Arc: Interprets for Elder Twist with significant embellishments and fabrications - Elder Twist's responses are too slow or simple to be helpful, so Florence improvises, turning cryptic fragments into actionable wisdom. The fabrications are actually good; Florence has sound instincts. But when the deception is revealed, other plants feel deeply betrayed - they trusted Elder Twist's wisdom, not Florence's judgment. Kira is less bothered (doesn't have same deference to elders). Florence goes through period of alienation, then redemption by proving value without hiding behind Elder Twist, speaking in own voice. By the end, Florence's actual wisdom is valued directly, has earned respect through contribution rather than borrowed authority.</story-role>
   <full-name>Florence</full-name>
   <pronouns>she/her</pronouns>
   <age>Unknown (mature flowering plant)</age>
@@ -74,4 +74,5 @@
   <changelog-entry version="1.0.0">Initialized</changelog-entry>
   <changelog-entry version="2.0.0">Created Florence - wheeled flowering plant who carries and interprets for Elder Twist</changelog-entry>
   <changelog-entry version="3.0.0">Added frequent tipping over flaw, updated speaking style to be more snippy/defensive</changelog-entry>
+  <changelog-entry version="3.1.0">Added character arc: helpful lies, betrayal/alienation, redemption through own wisdom</changelog-entry>
 </character>

@@ -1,4 +1,4 @@
-<character version="2.0.0" name="Runner">
+<character version="3.0.0" name="Runner">
   <reasoning-character>
     Context: Late 27th century with sentient plant life that learned about humans from HR manuals. Story premise: Kira crashes, stranded with bureaucratic plant aliens trying to help. Protagonist is Kira Voss.
 
@@ -14,7 +14,7 @@
 
     Completeness: Need all major fields except internal-monologue-style (not POV). Physical description should cover both vine form and robot use.
   </reasoning-character>
-  <story-role>Supporting character / Physical helper: Runner provides physical assistance through vine manipulation and robot control. The surprising emergence from unexpected locations creates comedy and demonstrates the alien nature of plant movement. Quick to help with hands-on tasks.</story-role>
+  <story-role>Supporting character / Physical helper: Runner provides physical assistance through vine manipulation and robot control. The surprising emergence from unexpected locations creates comedy and demonstrates the alien nature of plant movement. Quick to help with hands-on tasks. Arc: Literally cannot see - touch is the only way to perceive and understand the world. Insatiably curious, treats everything equally (all textures equally interesting, all beings equally worth exploring). Through the story, pure curiosity develops into affection - Runner discovers preference and attachment to specific beings (likely Kira, possibly another plant). Starts touching them differently - not just to understand, but because Runner wants to be near them, to maintain contact. Arc about discovering what it means to care about one being more than others, that curiosity can transform into connection. By the end, still touches everything, but some touches mean something different.</story-role>
   <full-name>Runner</full-name>
   <pronouns>she/her</pronouns>
   <age>Unknown (mature vine)</age>
@@ -89,4 +89,5 @@
   <changelog-entry version="1.1.0">Created Runner - vining plant with mysterious underground locomotion</changelog-entry>
   <changelog-entry version="1.2.0">Made Runner very tactile - touch is how they think, crosses boundaries with everyone, meta humor about touching to understand discomfort</changelog-entry>
   <changelog-entry version="2.0.0">Made speaking style less focused and sharper, more scattered and funny - gets distracted by textures, makes useless observations</changelog-entry>
+  <changelog-entry version="3.0.0">Added character arc: curiosity transforms into affection, blind vine discovering connection</changelog-entry>
 </character>

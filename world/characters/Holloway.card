@@ -1,4 +1,4 @@
-<character version="1.2.0" name="Holloway">
+<character version="2.0.0" name="Holloway">
   <reasoning-character>
     Context: Late 27th century with sentient plant life that learned about humans from HR manuals. Story premise: Kira crashes, stranded with bureaucratic plant aliens trying to help. Protagonist is Kira Voss.
 
@@ -14,7 +14,7 @@
 
     Completeness: Need all major fields except internal-monologue-style (not POV). Speaking-style is especially important - the fluting voice. Physical-description needs to cover the fruiting bodies.
   </reasoning-character>
-  <story-role>Supporting character / Primary contact: Holloway is one of Kira's main plant contacts and interpreters. Provides information, coordination, and bureaucratic interface between Kira and the plant community. The uncanny multi-location presence and fluting voice make Holloway both helpful and eerie. Demonstrates the collective intelligence and organization of the plants.</story-role>
+  <story-role>Supporting character / Primary contact: Holloway is one of Kira's main plant contacts and interpreters. Provides information, coordination, and bureaucratic interface between Kira and the plant community. The uncanny multi-location presence and fluting voice make Holloway both helpful and eerie. Arc: Was present during first human contact but had no framework to help - the human died, then Holloway found the HR manuals and latched onto them as THE answer out of guilt for failing without procedures. Through repeated failures helping Kira, realizes the manuals aren't sufficient but also aren't useless - they're starting points, not shields against guilt. Learns to integrate care with procedure: "The manual says X but you're saying you need Y - help me understand why." By the end, uses procedures as tools for care rather than replacements for understanding.</story-role>
   <full-name>Holloway</full-name>
   <pronouns>they/them</pronouns>
   <age>Unknown (network organism - possibly very old)</age>
@@ -71,4 +71,5 @@
   <changelog-entry version="1.0.0">Initialized</changelog-entry>
   <changelog-entry version="1.1.0">Created Holloway character - fruiting network organism with fluting voice</changelog-entry>
   <changelog-entry version="1.2.0">Updated Holloway to be warm office manager (not clinical), added first human tragedy backstory</changelog-entry>
+  <changelog-entry version="2.0.0">Added character arc: guilt from first contact, learns procedures are tools for care not shields</changelog-entry>
 </character>

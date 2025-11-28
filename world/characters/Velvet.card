@@ -1,4 +1,4 @@
-<character version="4.0.0" name="Velvet">
+<character version="5.0.0" name="Velvet">
   <reasoning-character>
     Context: Late 27th century with sentient plant life that learned about humans from HR manuals. Story premise: Kira crashes, stranded with bureaucratic plant aliens trying to help. Protagonist is Kira Voss.
 
@@ -14,7 +14,7 @@
 
     Completeness: Minimal detail appropriate for such a simple character. Focus on moss-like communication and perspective.
   </reasoning-character>
-  <story-role>Supporting character / Simple helper: Velvet is sentient moss that controls one of the robots. Velvet's perspective and communication are extremely simple and moss-like—brief, literal, focused on basic moss concerns. Provides a different kind of alien intelligence that's even harder for Kira to relate to than the other plants.</story-role>
+  <story-role>Supporting character / Simple helper: Velvet is sentient moss that controls one of the robots. Velvet's perspective and communication are extremely simple and moss-like—brief, literal, focused on basic moss concerns. Provides a different kind of alien intelligence that's even harder for Kira to relate to than the other plants. Arc: Appears simple with basic observations, but those rare moments of unexpected depth surprise everyone including Velvet. Through the story, those moments become less rare. Velvet is developing complexity, discovering that moss can want things, have opinions, feel connections. By the end, has found personhood - simple doesn't mean less-than. The authentic voice is still brief and literal, but now includes "I care about you" alongside "good light today."</story-role>
   <full-name>Velvet</full-name>
   <pronouns>they/them</pronouns>
   <age>Unknown (moss colony age unclear)</age>
@@ -111,4 +111,5 @@
   <changelog-entry version="2.0.0">Created Velvet - literally just moss, treated as a person</changelog-entry>
   <changelog-entry version="3.0.0">Changed Velvet from non-sentient moss to actual sentient moss with distributed consciousness - simple, literal, slow, moss-focused perspective</changelog-entry>
   <changelog-entry version="4.0.0">Toned down moisture obsession (moss handles dryness, just slows down), added rare moments of unexpected depth/feeling</changelog-entry>
+  <changelog-entry version="5.0.0">Added character arc: moss discovering personhood and complexity</changelog-entry>
 </character>

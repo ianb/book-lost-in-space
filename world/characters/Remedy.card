@@ -1,4 +1,4 @@
-<character version="3.0.0" name="Remedy">
+<character version="4.0.0" name="Remedy">
   <reasoning-character>
     Context: Late 27th century with sentient plant life that learned about humans from HR manuals. Story premise: Kira crashes, stranded with bureaucratic plant aliens trying to help. Protagonist is Kira Voss.
 
@@ -14,7 +14,7 @@
 
     Completeness: Need all major fields except internal-monologue-style (not POV). Physical description should cover both mushroom form and robot use.
   </reasoning-character>
-  <story-role>Supporting character / Healer: Remedy provides practical medical help through rapidly-grown medicinal mushrooms. Can control one of the robots for mobility and manipulation. Represents the pragmatic, chemical-solution side of plant intelligence—less concerned with protocols, more focused on what actually helps.</story-role>
+  <story-role>Supporting character / Healer: Remedy provides practical medical help through rapidly-grown medicinal mushrooms. Can control one of the robots for mobility and manipulation. Represents the pragmatic, chemical-solution side of plant intelligence—less concerned with protocols, more focused on what actually helps. Arc: Large fungal network with unclear boundaries - where does "Remedy" begin and end when the mycelium spreads everywhere, decomposing and connecting? Through interaction with Kira (who has very clear body boundaries) and working as a distinct helper, begins confronting questions of selfhood: If I'm part of the ecosystem connecting everything, am I a person with agency or just a process? Where do I exist when I exist everywhere? This becomes an existential crisis without resolution - Remedy ends the story more uncertain about identity and boundaries than at the beginning. The arc is ongoing confusion, not resolution.</story-role>
   <full-name>Remedy</full-name>
   <pronouns>they/them</pronouns>
   <age>Unknown (fungal network - age is unclear)</age>
@@ -74,4 +74,5 @@
   <changelog-entry version="1.0.0">Initialized</changelog-entry>
   <changelog-entry version="2.0.0">Created Remedy - fungal network producing medicinal mushrooms, controls robot</changelog-entry>
   <changelog-entry version="3.0.0">Added pride in decomposition, chemical perspective throughout, mentions breaking down Kira's body, mushroom mistakes</changelog-entry>
+  <changelog-entry version="4.0.0">Added character arc: existential crisis about selfhood/boundaries, unresolved</changelog-entry>
 </character>

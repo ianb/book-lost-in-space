@@ -1,4 +1,4 @@
-<character version="2.0.0" name="Scout">
+<character version="3.0.0" name="Scout">
   <reasoning-character>
     Context: Late 27th century with sentient plant life that learned about humans from HR manuals. Story premise: Kira crashes, stranded with bureaucratic plant aliens trying to help. Protagonist is Kira Voss. Other characters include Buddy (AI companion) and various plant characters.
 
@@ -14,7 +14,7 @@
 
     Completeness: Skip speaking-style (can't speak), internal-monologue-style (not POV), worldview (can't express verbally), self-concept (same). Need physical-description, overview, emotional-baseline, flaws, how they communicate nonverbally.
   </reasoning-character>
-  <story-role>Supporting character / Helper: Scout is a non-speaking tumbler plant who draws attention to important things - hazards, resources, interesting discoveries. Acts as messenger and guide, demonstrating how alien the plant communication methods are while providing practical help to Kira. Creates opportunities for other plants to interpret and interact.</story-role>
+  <story-role>Supporting character / Helper: Scout is a non-speaking tumbler plant who draws attention to important things - hazards, resources, interesting discoveries. Acts as messenger and guide, demonstrating how alien the plant communication methods are while providing practical help to Kira. Arc: Never speaks throughout the story but develops richer forms of non-verbal communication beyond just tumbling and being interpreted by others. Discovers new ways to express nuance, emotion, specificity without words. Others (including Kira) learn to read Scout better, to listen without needing verbal translation. Scout develops clearer desires/preferences that can be communicated physically. By the end, Scout has a fuller voice that doesn't require speech - communication is validated as equally rich and complex as verbal language.</story-role>
   <full-name>Scout</full-name>
   <pronouns>it/its</pronouns>
   <age>Unknown (plant lifecycle)</age>
@@ -63,4 +63,5 @@
   <relationships/>
   <changelog-entry version="1.0.0">Initialized</changelog-entry>
   <changelog-entry version="2.0.0">Created Scout character - tumbler plant scout/messenger</changelog-entry>
+  <changelog-entry version="3.0.0">Added character arc: develops richer non-verbal communication, never speaks</changelog-entry>
 </character>

@@ -1,4 +1,4 @@
-<character version="3.0.0" name="Elder Twist">
+<character version="4.0.0" name="Elder Twist">
   <reasoning-character>
     Context: Late 27th century with sentient plant life that learned about humans from HR manuals. Story premise: Kira crashes, stranded with bureaucratic plant aliens trying to help. Protagonist is Kira Voss.
 
@@ -14,7 +14,7 @@
 
     Completeness: Need all major fields except internal-monologue-style (not POV). Speaking-style is important - very slow, often delayed to comic effect.
   </reasoning-character>
-  <story-role>Supporting character / Ancient wisdom: Elder Twist provides genuine insight and wisdom but on a timescale measured in hours or days. The delayed responses create comedy but also moments of unexpected profundity. Shows the diversity of plant consciousness and challenges human assumptions about communication timing.</story-role>
+  <story-role>Supporting character / Ancient wisdom: Elder Twist provides genuine insight and wisdom but on a timescale measured in hours or days. The delayed responses create comedy but also moments of unexpected profundity. Shows the diversity of plant consciousness and challenges human assumptions about communication timing. Flat arc - operates on days-long timescale throughout, doesn't change or grow, just is what they are. One delayed response might arrive at an important moment, or might not. Elder Twist represents the idea that not everyone changes through crisis, some beings are simply themselves at their own pace.</story-role>
   <full-name>Elder Twist</full-name>
   <pronouns>they/them</pronouns>
   <age>Ancient (possibly centuries old)</age>
@@ -87,4 +87,5 @@
   <changelog-entry version="1.0.0">Initialized</changelog-entry>
   <changelog-entry version="2.0.0">Created Elder Twist - ancient bonsai with delayed responses</changelog-entry>
   <changelog-entry version="3.0.0">Updated speaking style to use simple analogies and concrete comparisons, not abstract statements</changelog-entry>
+  <changelog-entry version="4.0.0">Added flat arc: no change, represents beings that stay themselves</changelog-entry>
 </character>
