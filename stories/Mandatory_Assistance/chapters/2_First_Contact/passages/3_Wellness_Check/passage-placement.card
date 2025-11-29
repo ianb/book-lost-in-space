@@ -1,0 +1,45 @@
+<passage-placement version="2.0.0">
+  <reasoning-passage-placement>
+    Context from chapter-placement.card: Scene 3 (Wellness Check) - "Introduce bureaucratic language and establish absurd barrier." Events: Holloway arrives (maybe with one other plant), speaking cheerful HR language. "Welcome to our planet! We'd like to conduct a workplace wellness check!" Kira baffled. They ask about injury using safety protocol questions, want to file incident report before providing assistance. Buddy tries to translate. Kira's frustration grows - she's bleeding, needs help NOW. But sees they're genuinely concerned, just filtered through manuals. Ends with realization: they're trying, this will be complicated. Emotional beat: Bafflement → frustration → dark humor → reluctant understanding. Estimated 900-1200 words.
+
+    Previous passage: Passage 2 (Scout) ended with Kira having wordless connection with Scout, who leaves as others approach. Sounds getting closer.
+
+    This passage must:
+    - Introduce Holloway (and possibly another plant) as bureaucratic but well-meaning
+    - Reveal plants speak in corporate HR/workplace safety jargon
+    - Show Buddy struggling to translate bureaucratic plant-speak
+    - Create comedy through mismatch: wellness check for injured crash survivor
+    - Build Kira's frustration but also recognition of genuine concern
+    - Establish communication barrier as central challenge going forward
+    - End Chapter 2 with her reluctant acceptance
+
+    From exposition-plan.card: Holloway can come next after Scout (bureaucratic but warm). Plants genuinely trying to help through inappropriate frameworks.
+
+    Handoff: Chapter 2 concludes. Chapter 3 will likely continue with plants trying to "onboard" Kira.
+  </reasoning-passage-placement>
+  <passage-objective>
+    Introduce bureaucratic plants (Holloway) and establish core absurdity: well-meaning help filtered through completely inappropriate HR protocols. Create comedy and frustration while showing plants' genuine concern (Scene 3: Wellness Check)
+  </passage-objective>
+  <scene-portion>Complete scene - this passage covers all of Scene 3 and concludes Chapter 2</scene-portion>
+  <key-moments>
+    - Holloway arrives with at least one other plant, speaking cheerful HR language
+    - "Workplace wellness check" offered to injured crash survivor
+    - Safety protocol questions about "incident" (the crash)
+    - Want to file forms before providing medical assistance
+    - Kira's growing frustration - she's bleeding, this is absurd
+    - Buddy struggling to translate bureaucratic jargon
+    - Recognition beneath absurdity: they genuinely care
+    - Realization this is going to be her life now
+  </key-moments>
+  <character-focus>
+    Holloway: Bureaucratic but warm, genuinely concerned, completely filtered through workplace safety manuals. Speaks in HR jargon. Kira: Frustrated but trying to adapt, sees humor despite pain, recognizes earnest effort. Emotional range from bafflement to dark humor to reluctant acceptance. Buddy: Struggling to translate, trying to help bridge gap, occasionally making things worse.
+  </character-focus>
+  <sources>
+    <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/chapter-placement.card" role="Scene 3 outline"/>
+    <ref ref="/world/characters/Holloway.card" role="Holloway's personality and speech patterns"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/2_Scout/passage.card" role="Previous passage ending"/>
+    <ref ref="/stories/Mandatory_Assistance/exposition-plan.card" role="What to reveal about plants"/>
+  </sources>
+  <changelog-entry version="1.0.0">Initialized</changelog-entry>
+  <changelog-entry version="2.0.0">Completed passage placement for Wellness Check scene</changelog-entry>
+</passage-placement>

@@ -1,0 +1,47 @@
+<!-- this file is automatically managed by ske validate; do not edit -->
+<versions>
+  <version number="1.0.0" archived-at="2025-11-29T17:38:44.550Z">
+    <passage-placement version="1.0.0">
+      <reasoning-passage-placement>
+        Context from chapter-placement.card: Scene 2 (Scout) - "First contact - gentle, non-verbal, curious." Events: Scout (small tumbling plant) bounces up to Kira. No words, just curious movement. Kira tries to communicate, Buddy confused. Scout reaches toward injured leg (concern?), she flinches. Scout bounces back. Moment of connection without language. Scout tumbles away - others coming. Emotional beat: Confusion → wonder → brief fear → unexpected connection. Estimated 600-800 words.
+
+        Previous passage: Passage 1 (Into the Purple) ended with Kira aware of being watched, movement following her through the trees.
+
+        This passage must:
+        - Introduce Scout as first plant character (non-verbal, gentle, bouncy)
+        - Show first contact without language - pure physical interaction
+        - Create moment of connection despite no shared communication
+        - Make Scout sympathetic and curious, not threatening
+        - End with Scout leaving as others approach (setup for bureaucratic plants)
+
+        From exposition-plan.card: Scout should be first contact (non-verbal, less overwhelming than speaking plants). This establishes plants can be gentle before introducing the bureaucratic language barrier.
+
+        Handoff to next passage (Scene 3): Scout has left, other plants arrive speaking HR language.
+      </reasoning-passage-placement>
+      <passage-objective>
+        Create first contact moment with Scout - wordless, gentle, curious encounter that establishes connection without language before bureaucratic barrier appears (Scene 2: Scout)
+      </passage-objective>
+      <scene-portion>Complete scene - this passage covers all of Scene 2</scene-portion>
+      <key-moments>
+        - Movement reveals itself as small tumbling plant
+        - Scout bounces/rolls toward Kira curiously
+        - Kira tries to communicate, no response
+        - Scout observes her, particularly injured leg
+        - Reaches toward wound, Kira flinches in fear
+        - Scout backs off, gentle and non-threatening
+        - Moment of mutual understanding without words
+        - Scout tumbles away as others approach
+      </key-moments>
+      <character-focus>
+        Scout: Curious, gentle, bouncy, non-verbal. Communicates through movement and observation. Genuinely concerned about injury but doesn't know how to help. Not threatening. Kira: Confused but trying to understand, fear response to unknown, capacity to recognize gentleness, wonder at actual alien contact. Buddy: Confused by non-verbal entity, trying to be helpful but not understanding what's happening.
+      </character-focus>
+      <sources>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/chapter-placement.card" role="Scene 2 outline"/>
+        <ref ref="/world/characters/Scout.card" role="Scout's personality and movement"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/1_Into_the_Purple/passage.card" role="Previous passage ending"/>
+        <ref ref="/stories/Mandatory_Assistance/exposition-plan.card" role="Scout as first contact"/>
+      </sources>
+      <changelog-entry version="1.0.0">Initialized passage-placement for Scout encounter - wordless first contact</changelog-entry>
+    </passage-placement>
+  </version>
+</versions>
