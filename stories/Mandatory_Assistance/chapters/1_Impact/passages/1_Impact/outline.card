@@ -1,4 +1,4 @@
-<outline version="2.0.0">
+<outline version="3.0.0">
   <reasoning>
     Context: This is the very first passage of the story. No previous passage. From chapter-placement.card, this covers Scene 1 (Impact) - brief visceral crash establishing immediate danger.
 
@@ -39,14 +39,66 @@
     Not established yet—this is pure survival moment. Story goal (surviving on unknown planet, getting rescue) emerges in later passages.
   </story-goal>
   <pov-inner-life>
-    Pure terror and survival instinct. No chatty internal monologue yet—just raw fear, physical sensation, desperate bracing. This is Kira stripped down to base human response. Her personality emerges in Scene 2.
+    **Beats 1-2**: Kira's normal chatty internal monologue - enthusiastic, hopeful about this run maybe being different, self-aware about the pilots not caring, comparing to adventure shows. Establishing her voice before crisis.
+    **Beats 3-4**: Monologue becomes concerned, questioning (should I say something?), then frightened as crisis escalates. Voice still present but fear creeping in.
+    **Beats 5-7**: Terror strips away the chattiness. Raw fear, physical sensation, survival instinct. The voice that was so present earlier is reduced to desperate fragments. Shows what the crash does to her.
   </pov-inner-life>
   <outline>
-    1. **Already in crisis** - Alarms blaring, shuttle shaking, atmosphere entry wrong
-    2. **Escalation** - Life support fails, navigation fails, stabilizers offline - cascade of system failures
-    3. **Terror builds** - Kira strapped in cargo bay, can't reach cockpit, helpless as crash approaches
-    4. **Impact** - Violent, brief, overwhelming - shuttle hits planet surface
-    5. **Silence** - Everything goes dark and quiet - unconsciousness
+    **BEAT 1: Normal - Kira's hopes for this run** (60-80 words)
+    - Kira in cargo bay checking inventory manifest, routine work
+    - Internal monologue showing her chattiness: maybe THIS planet will be interesting, not another gray station
+    - Been two years in this job, every station identical, but she still hopes
+    - References adventure shows (compares her job to what explorers do on TV - not quite the same)
+    - Show her noticing details (cargo specialist habits), being enthusiastic despite knowing better
+    - Conveys: She's optimistic, chatty (in her head), dreams of more than this
+    - Sensory: Metal cargo bay, straps and containers, ship hum, manifest screen glow
+
+    **BEAT 2: Pilots - relationship established** (40-60 words)
+    - Intercom crackles, pilot (Jensen or Reed) barks order: "Voss, secure for approach"
+    - She responds cheerfully, they don't respond (treating her like mobile furniture)
+    - Maybe she starts to add something chatty/enthusiastic, catches herself, stops
+    - Shows: arrogant but professional pilots, her learned caution about being "too much"
+    - Tone: Brief, establishes she's alone even before the crash emotionally
+
+    **BEAT 3: Something's wrong** (30-50 words)
+    - Approach feels wrong - shuttle's shaking more than usual
+    - Kira notices (she notices things) but doesn't say anything (defers to authority)
+    - First alarm - atmospheric entry angle off
+    - Internal: Is this normal? Should I say something? They're the pilots, they know...
+    - Dread building but not panic yet
+
+    **BEAT 4: Crisis escalates** (40-60 words)
+    - Alarms cascade - navigation, life support, stabilizers
+    - Pilots' voices urgent now, professional facade cracking
+    - Kira straps in tight, cargo containers rattling around her
+    - Door between cargo bay and cockpit sealed - she's isolated
+    - Terror: "We're coming in wrong—too steep, too fast"
+    - Sensory: Red lights, metal screaming, heat building
+
+    **BEAT 5: Pilots' choice** (30-50 words)
+    - Door unseals briefly - pilot (Jensen) appears
+    - Quick professional assessment: cargo bay's the safest spot
+    - "Stay strapped, Voss" - first time they've used concern, not contempt
+    - They seal the door again, return to cockpit to try to save the ship
+    - Shows: arrogant but professional, they do what's right in crisis
+    - Kira realizes: they're going to die trying to save her
+
+    **BEAT 6: Terror** (30-40 words)
+    - Alone in cargo bay, can't help, can't see
+    - Hull burning, metal tearing, something crashes near her head
+    - Crystal clear thought: "I'm going to die"
+    - Age detail: "Twenty-four years old and I'm going to die in the back of a cargo shuttle"
+    - Physical: ribs screaming from straps, can't breathe
+
+    **BEAT 7: Impact and darkness** (20-30 words)
+    - Impact hits like a wall
+    - Everything—
+    - Silence
+    - Darkness
+    - Nothing
+    - (Abrupt cutoff, no processing, just unconsciousness)
+
+    **TOTAL: 250-370 words across 7 beats**
   </outline>
   <plot-arc-act>Act 1 (Contact &amp; Bureaucracy) - opening</plot-arc-act>
   <concludes-arc>false</concludes-arc>
@@ -59,4 +111,5 @@
   </sources>
   <changelog-entry version="1.0.0">Initialized</changelog-entry>
   <changelog-entry version="2.0.0">Completed passage outline: 5-beat crash sequence from in media res to silence, 300-400 words</changelog-entry>
+  <changelog-entry version="3.0.0">Major revision: Added detailed 7-beat outline including Kira's pre-crash character establishment (hopes, pilot relationship) before the crash sequence. Much more specific beat-by-beat guidance.</changelog-entry>
 </outline>
