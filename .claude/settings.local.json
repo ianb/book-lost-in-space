@@ -1,7 +1,8 @@
 {
   "permissions": {
     "allow": [
-      "Bash(ske validate:*)"
+      "Bash(ske validate:*)",
+      "Bash(ske snapshot:*)"
     ],
     "deny": [],
     "ask": []
