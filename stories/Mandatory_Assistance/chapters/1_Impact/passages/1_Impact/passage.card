@@ -1,4 +1,4 @@
-<passage version="3.0.0" number="1" name="Impact">
+<passage version="4.0.0" number="1" name="Impact">
   <reasoning-passage>
     Context from outline.card: 7-beat sequence - normal (Kira's hopes), pilots (relationship), something's wrong, crisis escalates, pilots' choice, terror, impact/darkness. Target 250-370 words in outline, prose will be ~400-550 words.
 
@@ -37,7 +37,7 @@
 
     "Secured," I say, trying for cheerful-but-professional. "The bio-samples container is still showing that temperature fluctuation, do you want me to—"
 
-    Silence. They've already cut the feed. Right. Mobile furniture doesn't need to talk back.
+    Silence. They've already cut the feed. Right.
 
     I finish buckling the straps and pull them tight. The shuttle shudders as we hit atmosphere, which is normal. The shaking gets worse, which is—probably normal? I'm cargo crew, not pilot. They'd say something if it wasn't normal.
 
@@ -51,9 +51,9 @@
 
     "Navigation system offline," the automated voice announces, way too calm for the situation.
 
-    Then life support fails.
+    Red warning lights flood the cargo bay. More alarms join the chorus.
 
-    Then the stabilizers.
+    "Stabilizers offline."
 
     The shuttle lurches sideways and I slam against the straps hard enough to feel my ribs creak. The cargo containers are rattling in their restraints, the secured ones, which means we're pulling forces that shouldn't be possible during a standard approach. We're coming in wrong—too steep, too fast, the angle all kinds of bad.
 
@@ -96,4 +96,5 @@
   <changelog-entry version="1.0.0">Initialized</changelog-entry>
   <changelog-entry version="2.0.0">Completed opening crash passage: 230 words of visceral terror, first person present but stripped-down voice (chatty personality emerges in Scene 2)</changelog-entry>
   <changelog-entry version="3.0.0">Major revision: Expanded from 230 to 560 words. Now establishes Kira's character (hopes, dreams, pilot relationship) before crash. Shows her chatty voice being stripped away by terror. Matches revised 7-beat outline.</changelog-entry>
+  <changelog-entry version="4.0.0">Fixed two issues: removed awkward 'mobile furniture' analogy (silence speaks for itself), changed life support failure to red warning lights and alarms (Kira couldn't know specific system failures from cargo bay)</changelog-entry>
 </passage>
