@@ -1,13 +1,109 @@
-<reader-journey version="1.0.0">
-  <reasoning-emotional-palette/>
-  <emotional-palette>TBD</emotional-palette>
-  <reasoning-emotional-arc/>
-  <emotional-arc>TBD</emotional-arc>
-  <reasoning-emotional-beats/>
-  <emotional-beats>TBD</emotional-beats>
-  <target-ending-feeling>TBD</target-ending-feeling>
+<reader-journey version="2.0.0">
+  <reasoning-emotional-palette>
+    Context: Narrative-guide.card shows warm absurdist comedy with grounded stakes, optimistic and curious even in crisis, finding genuine delight in bureaucratic weirdness, not cynical. Story-arc.card shows Kira stranded with bureaucratic plant aliens, quest to Elder Heartwood fails, found family resolution after 10 years ahead.
+
+    Genre: Comedy (warm/optimistic) with sci-fi survival stakes. Like The Martian meets Hitchhiker's Guide.
+
+    This story's emotional fingerprint:
+    - **Delight in absurdity** (comedy): The bureaucratic plants are genuinely funny—HR protocols for survival, forms while bleeding. Not mean-spirited mockery but warm amusement.
+    - **Curiosity/wonder** (sci-fi): Meeting alien plants, discovering quirks (Runner's touching, Velvet's moss consciousness, Florence's wheels). Fascination, not horror at the alien.
+    - **Warm affection** (found family): For Kira trying her best, for plants earnestly helping despite getting it wrong. Protective care for these characters. Root for them.
+    - **Tension/stakes** (survival): Kira could actually die. Real danger despite absurdity. The survival pressure matters.
+    - **Light frustration** (communication barrier): The maddening near-miss of almost understanding. Relatable "oh no this is so close to working but..." Not rage-inducing.
+    - **Building hope** (quest): Answers are coming, Elder Heartwood will solve this. Optimism building through Act 2.
+    - **Disappointment/disillusionment** (authority fails): Florence lied, Elder Heartwood's useless, no one has the answers. The rug pulled out but not devastating—more freeing than crushing.
+    - **Found family glow** (connection): By the end, warmth of genuine relationships built through adversity. Earned belonging.
+    - **Bittersweet openness** (not-wrapped-up): Not resolved but hopeful. They're ready for 10 years together. Excitement and uncertainty ahead.
+
+    Primary emotions: Delight, affection, curiosity, hope-then-disappointment-then-genuine-hope
+    Secondary: Tension, light frustration, wonder
+  </reasoning-emotional-palette>
+  <emotional-palette>
+    - **Delight in absurdity**: The joy of bureaucratic weirdness applied to survival—HR protocols for bleeding wounds, wellness checks during crises. Created through plant dialogue, Buddy's cheerful teaching moments, the bizarre mismatch between procedures and needs. Warm amusement, not mockery.
+
+    - **Warm affection for characters**: Protective care for Kira (trying so hard, in over her head) and the plants (earnestly helping despite getting everything wrong). Root for these bumbling, well-meaning beings. Created through Kira's internal monologue, plant personalities emerging, genuine effort despite failure.
+
+    - **Curiosity and wonder**: Fascination with alien plant life—how does Runner move underground? What is Velvet thinking? How does Florence's wheel platform work? The pull to discover more weirdness. Created through gradual character introductions, surprising plant abilities, the strangeness of the world.
+
+    - **Tension with stakes**: Real danger underlying the comedy. Kira could die from infection, starvation, hostile plants. The survival pressure matters even when situation is absurd. Created through injury complications, dwindling supplies, threats from angry plants.
+
+    - **Light frustration (relatable)**: The maddening near-miss of almost communicating. "Why can't they just understand urgency?!" but sympathetic to both sides. Created through communication barriers, bureaucratic delays when speed matters, the genuinely alien gap in understanding.
+
+    - **Building hope (quest)**: Optimism that answers are coming. Elder Heartwood will know what to do. Things will get better when the wisdom arrives. Created through plants' confidence in elder authority, the waiting period, successful cooperation during the wait.
+
+    - **Disappointment and freedom**: Authorities fail—Florence lied, Elder Heartwood's useless. The rug pulled out but not devastating. Freeing realization: they already learned what matters. Created through Florence's betrayal reveal, Elder Heartwood's category-error response, recognition they'd been learning all along.
+
+    - **Found family warmth**: Glow of genuine connection built through shared adversity. Earned belonging, real relationships beyond procedures. Created through character arc payoffs (Runner's affection, Sweetpea's sanctuary, Scout's communication), cooperation in crisis, authentic voices emerging.
+
+    - **Bittersweet openness**: Not wrapped up but hopeful. Excitement and uncertainty ahead. Ready for 10 years together, changed but not finished. Created through ending that acknowledges ongoing challenges, new dynamics established, future visible on horizon.
+  </emotional-palette>
+  <reasoning-emotional-arc>
+    Looking at the 4-act plot arc and emotional palette, the reader's journey should be:
+
+    Act 1 (Contact &amp; Bureaucracy): Curious delight in first contact absurdity → Growing affection for characters → Light frustration at communication barriers
+    Act 2 (Quest &amp; Learning): Building hope (Elder Heartwood will solve this) → Deepening affection through waiting period → Sharp disappointment when authorities fail → Freeing realization (they were learning all along)
+    Act 3 (Vacuum &amp; Threat): Tension with real stakes → Cathartic cooperation during attack → Warmth of genuine connection
+    Act 4 (What Comes Next): Found family glow → Bittersweet openness (ready for uncertain future together)
+
+    Overall progression: Curious delight → Warm affection + frustration → False hope → Disappointing freedom → Tense payoff → Bittersweet readiness
+
+    Key emotional turns:
+    - Delight doesn't fade, affection grows despite frustration
+    - Hope builds then breaks, but breaking is freeing not crushing
+    - Tension resolves through cooperation, not deus ex machina
+    - Ending is open but earned—they're ready, not "saved"
+  </reasoning-emotional-arc>
+  <emotional-arc>Curious delight → warm affection despite frustration → building hope → disappointing freedom → tense cooperation → bittersweet readiness. The reader should fall in love with these bumbling, earnest characters, find joy in the absurdity, build hope for answers that fail (but freeing, not crushing), experience real danger resolved through genuine connection, and end feeling they've witnessed something real—not wrapped up but ready for what's next together.</emotional-arc>
+  <reasoning-emotional-beats>
+    Based on the 4-act plot arc and emotional-arc ("Curious delight → warm affection despite frustration → building hope → disappointing freedom → tense cooperation → bittersweet readiness"), I need to map specific reader emotions to each major plot beat.
+
+    Act 1 should establish the absurd delight and growing affection while building tension from real stakes.
+    Act 2 should build hope through the quest, then shatter it (but make the shattering freeing, not devastating).
+    Act 3 should deliver real danger and cathartic cooperation.
+    Act 4 should land on found family warmth with bittersweet openness.
+
+    Key emotional turns to hit:
+    - Crash should be terrifying but survivable (stakes established)
+    - Buddy should be frustrating-funny (tone established)
+    - First contact should spark wonder and delight
+    - Communication barriers should be relatable frustration, not rage
+    - Quest announcement should feel hopeful (the wizard will help!)
+    - Waiting period should deepen affection (learning despite themselves)
+    - Elder Heartwood's answer should disappoint but free (they already learned what matters)
+    - Florence betrayal should hurt but not break (complicated person, not villain)
+    - Attack should genuinely frighten (these characters could die)
+    - Cooperation should feel earned and cathartic
+    - Ending should glow with connection but acknowledge the long road ahead
+  </reasoning-emotional-beats>
+  <emotional-beats>
+    **ACT 1: CONTACT &amp; BUREAUCRACY**
+    - **Crash landing**: Terror followed by relief—reader experiences the danger, then the narrow survival. Stakes established.
+    - **Buddy appears**: Frustration-tinged amusement—the mismatch between kid AI and adult crisis is absurd but also genuinely frustrating. Tone established (warm comedy with real problems).
+    - **First plant contact (Runner)**: Wonder and curiosity—what IS this thing? The alien strangeness pulls the reader in. Delight beginning.
+    - **Plants try HR protocols for injury**: Warm amusement building to affection—they're trying SO hard and getting it so wrong. Not mocking them, rooting for these earnest beings.
+    - **Communication barrier deepens**: Light frustration mixed with sympathy—the maddening near-miss of almost understanding. Relatable "why can't they just..." but seeing both sides.
+    - **Injury worsens despite help**: Tension—Kira could actually die. The absurdity doesn't erase danger. Stakes matter.
+
+    **ACT 2: QUEST &amp; LEARNING (DESPITE OURSELVES)**
+    - **Quest to Elder Heartwood begins**: Building hope—answers are coming! The wise elder will know what to do. Optimism rising (Dorothy's journey to Oz).
+    - **Waiting period, learning together**: Deepening affection—through the waiting, watching these characters figure each other out despite themselves. Warmth growing. Investment in relationships.
+    - **Challenge (proving themselves)**: Tension with investment—we want them to succeed, both for practical reasons and because we care about them as people.
+    - **Elder Heartwood's useless answer**: Sharp disappointment followed by freeing realization—the authority failed, the wizard is a fraud, but that's okay because they were learning all along. The rug pulled out but not devastating—liberating.
+
+    **ACT 3: VACUUM &amp; THREAT**
+    - **Florence's betrayal revealed**: Shock and hurt—for Florence, for the characters who trusted them. Complicated feelings, not simple anger. The person we liked did something wrong.
+    - **Hostile plants attack**: Real fear—these characters we've fallen for could die. The danger is genuine. Heart-racing tension.
+    - **Cooperation during crisis**: Cathartic—all that learning pays off, the genuine connection shows through. Satisfaction of watching them work together.
+    - **Victory through authentic voices**: Found family glow—they saved each other not through procedures but through being themselves. Earned warmth.
+
+    **ACT 4: WHAT COMES NEXT**
+    - **Aftermath, new dynamics established**: Warmth of genuine belonging—watching them settle into who they are together. The protocols are tools, not shields. Real relationships.
+    - **Looking at 10 years ahead together**: Bittersweet openness—not resolved but ready. Both excitement and uncertainty about the future. The reader feels the weight of time ahead but also the foundation they've built. Ready to face it together, changed but not finished.
+  </emotional-beats>
+  <target-ending-feeling>Bittersweet readiness. The reader should feel the warmth of found family—these characters genuinely care for each other now, earned through adversity and mistakes and genuine connection. But also the weight of 10 years stretching ahead, uncertain and full of both peril and possibility. Not wrapped up, not "saved," but ready. They should leave thinking about what it means to build real relationships across impossible gaps, to find belonging not through fixing everything but through showing up authentically. The delight in absurdity should linger, but so should the awareness that the best parts of being human (or plant) can't be proceduralized.</target-ending-feeling>
   <sources>
-    <ref ref="/todo/stories/TBD/story-arc.card#v0.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/story-arc.card" role="Plot and character arcs that inform the reader's emotional journey"/>
   </sources>
   <changelog-entry version="1.0.0">Initialized</changelog-entry>
+  <changelog-entry version="2.0.0">Completed emotional journey mapping: palette with 9 emotions, emotional arc, detailed beats for all 4 acts, and target ending feeling</changelog-entry>
 </reader-journey>

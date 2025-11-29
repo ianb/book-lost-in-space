@@ -1,0 +1,18 @@
+<!-- this file is automatically managed by ske validate; do not edit -->
+<versions>
+  <version number="1.0.0" archived-at="2025-11-29T05:36:44.891Z">
+    <reader-journey version="1.0.0">
+      <reasoning-emotional-palette/>
+      <emotional-palette>TBD</emotional-palette>
+      <reasoning-emotional-arc/>
+      <emotional-arc>TBD</emotional-arc>
+      <reasoning-emotional-beats/>
+      <emotional-beats>TBD</emotional-beats>
+      <target-ending-feeling>TBD</target-ending-feeling>
+      <sources>
+        <ref ref="/todo/stories/TBD/story-arc.card#v0.0.0"/>
+      </sources>
+      <changelog-entry version="1.0.0">Initialized</changelog-entry>
+    </reader-journey>
+  </version>
+</versions>
