@@ -1,0 +1,80 @@
+<chapter-placement version="2.0.0">
+  <reasoning-chapter-placement>
+    Context: Chapter 2, following Chapter 1. Previous chapter ended with Kira stepping outside onto alien soil.
+
+    From chapter.card: Purpose is to introduce sentient plants and establish bureaucratic communication barrier. Show injury worsening while plants try to help through HR protocols.
+
+    From story-acts.card Act 1: "First contact with plants, HR protocols introduced." Theme manifestation: Communication barrier introduced concretely, "help" shown as mismatch, earnest effort making things worse.
+
+    From exposition-plan.card urgent reveals:
+    - Plants can talk and use workplace safety protocols
+    - Plants are genuinely trying to help (not hostile)
+    - Scout should be first contact (non-verbal, less overwhelming)
+    - Holloway can come next (bureaucratic but warm)
+
+    Key dramatic moments:
+    - Experiencing the planet (purple twilight, quiet, beauty)
+    - Scout encounter (confusion → wonder → connection without words)
+    - Other plants arrive with HR language (absurdity revealed)
+    - Wellness check while bleeding (frustration peaks)
+    - Recognition they mean well (emotional shift)
+  </reasoning-chapter-placement>
+  <chapter-objective>
+    Introduce the sentient plants and establish the core absurdity: well-meaning beings helping through completely inappropriate bureaucratic frameworks. Make first contact memorable, strange, and surprisingly moving despite the comedy.
+  </chapter-objective>
+  <acts-covered>Act 1 (Contact &amp; Bureaucracy) - introducing plants and protocols</acts-covered>
+  <key-beats>
+    - Kira experiences the alien planet's sensory reality for first time
+    - Scout appears - first contact is non-verbal, curious, bouncy
+    - More plants arrive speaking bureaucratic HR language
+    - Attempt to help with injury through wellness checks and protocols
+    - Kira realizes they're genuinely trying despite making things worse
+    - Communication barrier established as central challenge
+  </key-beats>
+  <character-development>
+    Kira shows adaptability and humor even when frustrated. Her capacity for empathy emerges - recognizes earnest effort beneath absurd procedures. Scout provides non-verbal connection that matters. Plants introduced as individuals: Scout (bouncy, curious), Holloway (bureaucratic but warm). Buddy continues teaching moments but also helps translate/navigate.
+  </character-development>
+  <reasoning-scene-outline>
+    Need to establish: Planet's beauty and strangeness, Scout as gentle first contact, other plants' bureaucratic language, injury as stakes, earnest trying vs. actual help.
+
+    Scene 1: Journey to water - Kira experiences planet alone, injury reminder, builds anticipation. Slow pace lets her (and reader) absorb the alien environment. Ends with Scout appearing.
+
+    Scene 2: Scout encounter - Non-verbal communication, confusion and wonder, connection without words. Shows plants can be gentle and curious. Establishes Kira can adapt. Short, sweet, sets up contrast with...
+
+    Scene 3: The others arrive - Bureaucratic language introduced through Holloway (and maybe one other). The absurdity fully revealed. Wellness check protocols while bleeding. Comedy and frustration peak. Ends with realization they're genuinely trying.
+
+    Scene 4 (optional): Could end chapter here, or add short scene of Kira getting to water finally, processing what just happened, establishing this will be her life now.
+
+    Leaning toward 3 scenes - end on the realization of their earnestness. Water can wait for next chapter or be handled quickly.
+  </reasoning-scene-outline>
+  <scene-outline>
+    **SCENE 1: Into the Purple**
+    - **Purpose**: Establish planet's sensory reality and Kira's physical state
+    - **Events**: Kira walks through forest toward water, experiencing purple twilight, quiet, growing scent. Leg hurts, she's limping. Buddy cheerfully narrates everything. Beautiful but alien. Ends with movement in the trees - something's watching.
+    - **Emotional beat**: Wonder mixed with unease, pain reminder, anticipation
+    - **Estimated length**: 800-1000 words
+
+    **SCENE 2: Scout**
+    - **Purpose**: First contact - gentle, non-verbal, curious
+    - **Events**: Scout (small tumbling plant) bounces up to Kira. No words, just curious movement and observation. Kira tries to communicate, Buddy confused. Scout reaches toward her injured leg (concern?), she flinches. Scout bounces back. Moment of connection without language. Then Scout tumbles away into forest - others are coming.
+    - **Emotional beat**: Confusion → wonder → brief fear → unexpected connection
+    - **Estimated length**: 600-800 words
+
+    **SCENE 3: Wellness Check**
+    - **Purpose**: Introduce bureaucratic language and establish absurd barrier
+    - **Events**: Holloway arrives (maybe with one other plant), speaking cheerful HR language. "Welcome to our planet! We'd like to conduct a workplace wellness check!" Kira's baffled. They ask about her injury using safety protocol questions. Want to file incident report before providing assistance. Buddy tries to help translate. Kira's frustration grows - she's bleeding, needs help NOW. But sees they're genuinely concerned, just... filtered through manuals. Ends with her realizing: they're trying. This is going to be complicated.
+    - **Emotional beat**: Bafflement → frustration → dark humor → reluctant understanding
+    - **Estimated length**: 900-1200 words
+
+    **TOTAL ESTIMATED LENGTH**: 2,300-3,000 words
+  </scene-outline>
+  <sources>
+    <ref ref="/stories/Mandatory_Assistance/story-acts.card" role="Act 1 objectives and theme manifestations"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/chapter.card" role="Chapter summary and focus"/>
+    <ref ref="/stories/Mandatory_Assistance/exposition-plan.card" role="What to reveal about plants"/>
+    <ref ref="/world/entities/Sector_7-Gamma-412_Planet.card" role="Planet's sensory details"/>
+  </sources>
+  <changelog-entry version="1.0.0">Initialized</changelog-entry>
+  <changelog-entry version="2.0.0">Completed chapter placement: 3 scenes covering planet experience, Scout encounter, and bureaucratic wellness check</changelog-entry>
+  <changelog-entry version="2.0.0">Planned 3 scenes for first contact</changelog-entry>
+</chapter-placement>
