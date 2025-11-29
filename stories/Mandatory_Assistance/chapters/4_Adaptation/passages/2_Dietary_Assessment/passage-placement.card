@@ -1,0 +1,39 @@
+<passage-placement version="1.0.0">
+  <reasoning-passage-placement>
+    Context from chapter-placement: Scene 2 (Dietary Assessment) - "Food as urgent challenge, more bureaucratic navigation." Events: Hunger pressing, no human food, dietary assessment forms, Holloway coordinates, Remedy synthesizes nutrients through mushrooms, testing protocols, hours of forms while hungry, finally food (mushroom nutrients), exhausted relief. Emotional beat: Hunger → frustration → problem-solving → exhausted relief. Estimated 1700-2000 words.
+
+    Previous passage: Passage 1 ended accepting four-hour dietary assessment while hungry.
+
+    This passage must:
+    - Hunger as real pressing need
+    - Dietary assessment forms - absurd cultural food questions
+    - What can humans eat from plant chemistry?
+    - Remedy synthesizing food through mushrooms with documentation
+    - Hours passing while hungry
+    - Finally food - mushroom-based, not great but functional
+    - Exhausted relief
+
+    Handoff: Basic food established, seeking long-term solutions.
+  </reasoning-passage-placement>
+  <passage-objective>
+    Food as urgent bureaucratic challenge, comedy with real stakes, establish basic nutrition through absurd protocols (Scene 2: Dietary Assessment)
+  </passage-objective>
+  <scene-portion>Complete scene - covers all of Scene 2</scene-portion>
+  <key-moments>
+    - Dietary assessment forms - nutritional requirements, cultural preferences
+    - Kira's growing frustration while hungry
+    - Remedy analyzing human-compatible plant chemistry
+    - Mushroom synthesis with testing protocols
+    - Hours of waiting
+    - Food arrives - mushroom paste, edible but not appealing
+    - Exhausted relief eating
+  </key-moments>
+  <character-focus>
+    Kira: Hungry, frustrated, maintaining patience, relief when fed. Holloway: Coordinating documentation. Remedy: Practical synthesis with procedures. Scout: Worried, supportive.
+  </character-focus>
+  <sources>
+    <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/chapter-placement.card" role="Scene 2 outline"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/1_Morning_Wellness/passage.card" role="Previous passage"/>
+  </sources>
+  <changelog-entry version="1.0.0">Initialized</changelog-entry>
+</passage-placement>
