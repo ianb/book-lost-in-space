@@ -1,0 +1,23 @@
+<chapter version="2.0.0" number="1" name="Impact">
+  <reasoning-chapter>
+    Context: This is Chapter 1, opening the story. No previous chapter. Chapter-placement.card will define the scene breakdown based on this chapter's purpose.
+
+    From story-acts.card: Chapter 1 is "Crash and immediate survival, Buddy appears" in Act 1 (Contact &amp; Bureaucracy). The objective is to establish Kira's character, survive the crash, and introduce Buddy.
+
+    From reader-journey.card emotional beats:
+    - Crash landing: Terror followed by relief—reader experiences danger, then narrow survival. Stakes established.
+    - Buddy appears: Frustration-tinged amusement—the mismatch between kid AI and adult crisis is absurd but genuinely frustrating. Tone established.
+
+    Core dramatic purpose: Establish Kira's voice, show she's in real danger, introduce the survival stakes, and bring in Buddy to establish the comedy/frustration dynamic. End with her alive but injured, with an AI companion wildly unsuited to the situation.
+
+    Narrative handoff: Kira is injured and alone on an unknown planet with only a kids' educational AI for help. What happens next? She needs to assess her situation and figure out survival—which leads into meeting the plants in Chapter 2.
+  </reasoning-chapter>
+  <summary>
+    Kira Voss's cargo shuttle crashes on an uncharted planet after a catastrophic system failure. She wakes injured in the wreckage to find the pilots dead and her original AI companion destroyed. The emergency system assigns her Buddy, a kids' educational AI completely unsuited to survival crises. By chapter's end, she's alive but hurt, stuck with an overly cheerful teaching assistant, and facing an unknown planet alone.
+  </summary>
+  <focus>
+    Establishing Kira's optimistic, chatty voice even in crisis. Showing real danger and survival stakes. Introducing Buddy's kid-AI comedy through frustrating mismatch with urgent needs. Setting the tone: warm absurdist comedy with grounded peril.
+  </focus>
+  <changelog-entry version="1.0.0">Initialized</changelog-entry>
+  <changelog-entry version="2.0.0">Completed chapter card: crash survival, Buddy introduction, establishing Kira's voice and tone</changelog-entry>
+</chapter>

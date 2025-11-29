@@ -1,0 +1,81 @@
+<chapter-placement version="2.0.0">
+  <reasoning-chapter-placement>
+    Context: This is Chapter 1, opening the story. No previous chapter.
+
+    From chapter.card: Core purpose is establishing Kira's voice, real danger, survival stakes, and Buddy's comedy/frustration dynamic. Summary says shuttle crashes, pilots die, original AI destroyed, Buddy assigned. Ends with Kira injured and alone with unsuited AI. Focus is on warm absurdist comedy with grounded peril.
+
+    From story-acts.card Act 1: "Crash and immediate survival, Buddy appears" - establishes Kira's pre-crisis character (enthusiastic, resourceful) before complications.
+
+    This chapter needs to:
+    1. Show the crash and immediate terror (stakes)
+    2. Kira survives and assesses damage (her character and voice)
+    3. Buddy appears and is hilariously unhelpful (tone established)
+    4. End with setup for next chapter (injured, alone, needs to survive)
+
+    Key dramatic moments to show in scenes:
+    - The crash itself (brief, visceral)
+    - Waking up injured, finding pilots dead (character establishing, stakes)
+    - Buddy's assignment and first interactions (comedy/frustration)
+    - Initial survival assessment (problem-solving, Martian-style thinking)
+  </reasoning-chapter-placement>
+  <chapter-objective>
+    Establish Kira's optimistic voice and character, show the crash survival and real stakes (injury, death, isolation), and introduce Buddy to create the tone of warm comedy amid genuine peril.
+  </chapter-objective>
+  <acts-covered>Act 1 (Contact &amp; Bureaucracy) - opening portion</acts-covered>
+  <key-beats>
+    - Shuttle crashes after catastrophic system failure
+    - Kira wakes injured in the wreckage
+    - Finds both pilots dead, original AI companion destroyed
+    - Emergency system assigns Buddy (kids' educational AI) as replacement
+    - First frustrating interactions establish Buddy's mismatch with crisis
+    - Kira begins assessing survival needs despite Buddy's "help"
+  </key-beats>
+  <character-development>
+    Establishing Kira's baseline character: optimistic and chatty even in crisis, resourceful problem-solver, tries to stay positive despite terror and pain. Shows her humor and self-awareness (adventure show references, talking to herself). Sets up her capacity for connection despite frustration—she's annoyed with Buddy but not mean about it.
+  </character-development>
+  <reasoning-scene-outline>
+    Need to establish: Kira's voice, real stakes (death/injury), survival situation, Buddy's comedy, tone balance.
+
+    Scene 1: The crash needs to be brief and visceral—show the terror without dwelling. Establish immediate danger.
+
+    Scene 2: Waking up is where we meet Kira's voice fully. Her internal monologue assessing damage, finding pilots, processing she's alone. This is character establishment through crisis response. Needs to show her trying to stay functional despite terror.
+
+    Scene 3: Buddy's appearance is the tonal shift—from pure survival tension to frustrated comedy. Their first interaction establishes the mismatch. This is where "warm absurdist comedy with grounded peril" becomes clear.
+
+    Scene 4: Working with Buddy to assess situation shows both problem-solving (Martian-style) and ongoing comedy. End on the reality: she's injured, alone, with an AI that can't help the way she needs. Setup for Chapter 2 (she'll need to venture out, which is when she meets the plants).
+  </reasoning-scene-outline>
+  <scene-outline>
+    **SCENE 1: Impact**
+    - **Purpose**: Establish immediate danger and stakes through the crash
+    - **Events**: Alarms blaring, Kira strapped in cargo bay as shuttle hits atmosphere wrong. System failures cascade. Impact is violent and brief. Everything goes dark.
+    - **Emotional beat**: Terror, then silence
+    - **Estimated length**: 300-400 words
+
+    **SCENE 2: Aftermath**
+    - **Purpose**: Establish Kira's voice and character through how she responds to crisis
+    - **Events**: Kira wakes in pain, trapped in wreckage. Uses her chatty internal monologue to stay functional while assessing injuries (gash on leg, ribs hurt, head bleeding). Finds both pilots dead in the cockpit. Original AI companion (neural link) is fried, leaving her truly alone. She processes this with dark humor and determination.
+    - **Emotional beat**: Fear and grief processed through humor, determination emerging
+    - **Estimated length**: 800-1000 words
+
+    **SCENE 3: Buddy Arrives**
+    - **Purpose**: Introduce Buddy and establish the comedy/frustration dynamic
+    - **Events**: Emergency system activates, assigns Buddy from available AI pool. Buddy introduces themselves with cheerful educational greeting. Kira realizes she's stuck with a kids' AI. First interactions are hilariously frustrating—Buddy wants to teach about neural link technology while Kira's bleeding. The mismatch is immediate and absurd.
+    - **Emotional beat**: Frustration-tinged amusement, tone shift from pure survival to comedy
+    - **Estimated length**: 600-800 words
+
+    **SCENE 4: Taking Stock**
+    - **Purpose**: Show Kira's problem-solving and setup next chapter
+    - **Events**: With Buddy's "help" (teaching moments about inventory management, safety protocols), Kira assesses supplies, checks shuttle damage (unfixable), scans environment (breathable air, unknown planet, no distress beacon response). She's injured, alone, and rescue could take years. Needs to find shelter, water, medical supplies. Prepares to venture outside despite injuries.
+    - **Emotional beat**: Determined readiness despite overwhelming odds
+    - **Estimated length**: 700-900 words
+
+    **TOTAL ESTIMATED LENGTH**: 2,400-3,100 words
+  </scene-outline>
+  <sources>
+    <ref ref="/stories/Mandatory_Assistance/story-acts.card" role="Act structure and chapter breakdown"/>
+    <ref ref="/stories/Mandatory_Assistance/reader-journey.card" role="Emotional beats for chapter pacing"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/chapter.card" role="Chapter summary and focus"/>
+  </sources>
+  <changelog-entry version="1.0.0">Initialized</changelog-entry>
+  <changelog-entry version="2.0.0">Completed chapter placement: 4 scenes covering crash, aftermath, Buddy arrival, and survival assessment. 2400-3100 words estimated.</changelog-entry>
+</chapter-placement>
