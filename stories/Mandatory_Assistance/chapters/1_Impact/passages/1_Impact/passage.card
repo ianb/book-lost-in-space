@@ -1,0 +1,67 @@
+<passage version="2.0.0" number="1" name="Impact">
+  <reasoning-passage>
+    Context from outline.card: 5-beat sequence - in media res (alarms), escalation (system failures), terror builds (helpless in cargo bay), impact (violent), silence (unconsciousness). Target 300-400 words.
+
+    From narrative-guide.card:
+    - First person, present tense, limited (Kira's POV)
+    - Target passage length 500-1500 words BUT this is Scene 1 which is estimated 300-400
+    - PG rating - no strong profanity
+    - Tone: warm absurdist comedy with grounded stakes - BUT this passage is the "grounded stakes" part, comedy comes later
+
+    Key decision: This passage is NOT the chatty Kira voice yet. That emerges in Scene 2 (Aftermath). This is pure visceral terror—sensory, immediate, stripped down. First person present tense but focused on physical sensation and fear, not rambling internal monologue. The contrast will make Scene 2's voice emergence more effective.
+
+    Emotional goal: Terror then silence. Reader should feel the danger is real. Stakes established immediately.
+
+    Sensory focus: Sound (alarms, metal screaming, crashes), physical (being thrown around, straps cutting in, pain), sight (red lights, sparks, darkness), heat (atmospheric entry).
+
+    Pacing: Short punchy sentences during crisis, sentence fragments okay for impact, present tense immediacy. Build to crescendo then sudden cut to silence.
+
+    No dialogue - Kira is alone in cargo bay, can't reach pilots.
+
+    Must convey without exposition: shuttle crashing, Kira aboard, systems failing, violent impact, she survives (unconscious).
+
+    Length check: 5 beats, ~60-80 words each = 300-400 words target
+  </reasoning-passage>
+  <text>
+    The alarms won't stop.
+
+    Red lights pulse through the cargo bay as the shuttle shudders, atmosphere tearing at the hull. I'm strapped into the jumpseat, cargo containers rattling in their restraints around me. We're coming in wrong—too steep, too fast, the angle all kinds of bad.
+
+    "Nav system offline," the automated voice announces, flat and unhelpful.
+
+    Then life support fails.
+
+    Then the stabilizers.
+
+    The shuttle pitches sideways and I slam against the straps hard enough to bruise. My ribs scream. Can't breathe. Can't reach the cockpit—it's through a sealed door and I'm cargo, just cargo, riding in back while the pilots up front try to save us and probably can't.
+
+    Heat. The hull's burning up. Metal shrieks. Something tears loose and crashes into the wall next to my head.
+
+    I'm going to die.
+
+    The thought is crystal clear, clinical, completely certain. This is it. Twenty-four years old and I'm going to die in the back of a cargo shuttle, strapped in like freight, while the whole thing comes apart around me.
+
+    Impact hits like a wall.
+
+    Everything—
+
+    Silence.
+
+    Darkness.
+
+    Nothing.
+  </text>
+  <summary>
+    Kira's shuttle crashes while entering an unknown planet's atmosphere. System failures cascade—navigation, life support, stabilizers all fail. Kira, trapped in the cargo bay and unable to reach the pilots, experiences the terror of inevitable impact before everything goes dark.
+  </summary>
+  <leaves-off>
+    Silence and darkness. Kira is unconscious after the violent impact, fate unknown. Next passage will show her waking up in the wreckage.
+  </leaves-off>
+  <title>Impact</title>
+  <sources>
+    <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/outline.card" role="Passage beats and structure"/>
+    <ref ref="/stories/Mandatory_Assistance/narrative-guide.card" role="POV, tone, and style guidance"/>
+  </sources>
+  <changelog-entry version="1.0.0">Initialized</changelog-entry>
+  <changelog-entry version="2.0.0">Completed opening crash passage: 230 words of visceral terror, first person present but stripped-down voice (chatty personality emerges in Scene 2)</changelog-entry>
+</passage>

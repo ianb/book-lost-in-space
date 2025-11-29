@@ -1,0 +1,32 @@
+<passage-placement version="2.0.0">
+  <reasoning-passage-placement>
+    Context from chapter-placement.card: This belongs to Scene 1 (Impact) - "Establish immediate danger and stakes through the crash." Events are: alarms blaring, Kira in cargo bay, shuttle hits atmosphere wrong, system failures cascade, violent impact, everything goes dark. Emotional beat is terror then silence. Estimated 300-400 words.
+
+    This is the first passage of the chapter and story, so no previous passage.
+
+    Purpose: Open the story with immediate visceral danger. The crash needs to be brief but terrifying—establish stakes immediately. Reader should feel the terror and then the sudden silence/darkness. This is pure action, setting up for Scene 2 where we meet Kira's voice.
+
+    What must happen: Shuttle entering atmosphere, things go wrong fast, Kira experiences the terror, impact happens, silence. This is establishing the "grounded peril" part of "warm absurdist comedy with grounded peril."
+
+    Handoff to next passage (Scene 2): Kira wakes up in the wreckage—transition from terror/darkness to consciousness and her voice.
+  </reasoning-passage-placement>
+  <passage-objective>
+    Establish immediate visceral danger through the crash sequence, showing Kira's terror as the shuttle fails and impacts the planet (Scene 1: Impact)
+  </passage-objective>
+  <scene-portion>Complete scene - this passage covers all of Scene 1</scene-portion>
+  <key-moments>
+    - Alarms blaring as shuttle enters atmosphere wrong
+    - System failures cascading (life support, navigation, stabilizers)
+    - Kira bracing for impact in the cargo bay
+    - Violent crash
+    - Sudden silence and darkness
+  </key-moments>
+  <character-focus>
+    Kira experiencing terror and helplessness. This is pure sensory/emotional—we don't get her chatty voice yet, just her raw fear and survival instinct. Sets up the contrast with her personality we'll meet in Scene 2.
+  </character-focus>
+  <sources>
+    <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/chapter-placement.card" role="Scene 1 outline and requirements"/>
+  </sources>
+  <changelog-entry version="1.0.0">Initialized</changelog-entry>
+  <changelog-entry version="2.0.0">Completed passage placement for opening crash scene - establishes immediate visceral danger</changelog-entry>
+</passage-placement>

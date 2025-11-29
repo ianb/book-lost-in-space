@@ -1,0 +1,62 @@
+<outline version="2.0.0">
+  <reasoning>
+    Context: This is the very first passage of the story. No previous passage. From chapter-placement.card, this covers Scene 1 (Impact) - brief visceral crash establishing immediate danger.
+
+    From passage-placement.card: This passage must establish immediate visceral danger through the crash sequence. Key moments are alarms, system failures cascading, Kira bracing, violent crash, silence/darkness. Character focus is Kira's terror and helplessness—pure sensory/emotional, not her chatty voice yet.
+
+    Beats needed:
+    1. In media res - already in trouble (alarms, wrong entry)
+    2. Escalation - failures cascade
+    3. Terror - Kira's fear as impact approaches
+    4. Impact - violent, brief
+    5. Silence - sudden cut to darkness
+
+    This is pure action opening. Reader doesn't need to know who Kira is yet or backstory—that comes in Scene 2. Just need to establish: person in shuttle, shuttle crashing, terror, impact. Keep it immediate and visceral.
+
+    Sensory focus: Sound (alarms, crashes), physical sensation (being thrown around), fear response. Present tense for immediacy.
+
+    Handoff to next passage: Darkness and silence → waking up in wreckage (Scene 2)
+  </reasoning>
+  <must-convey>
+    1. Someone (Kira) is aboard a shuttle that's crashing
+    2. The crash is violent and terrifying—real stakes
+    3. The shuttle hits atmosphere wrong and systems fail catastrophically
+    4. Kira survives the impact (transitions to next passage)
+  </must-convey>
+  <hook-questions>
+    - Will Kira survive the crash?
+    - Where is the shuttle crashing?
+    - What went wrong?
+  </hook-questions>
+  <launching-situation>
+    Shuttle entering atmosphere catastrophically - wrong angle, systems failing, impact imminent
+  </launching-situation>
+  <time-of-day>Unknown (space/atmosphere transition)</time-of-day>
+  <location-impression>
+    Inside cargo shuttle - confined space, metal, straps, cargo containers. Transition from space to atmosphere (heat, shaking, sound). Landing location unknown—just impact.
+  </location-impression>
+  <story-goal>
+    Not established yet—this is pure survival moment. Story goal (surviving on unknown planet, getting rescue) emerges in later passages.
+  </story-goal>
+  <pov-inner-life>
+    Pure terror and survival instinct. No chatty internal monologue yet—just raw fear, physical sensation, desperate bracing. This is Kira stripped down to base human response. Her personality emerges in Scene 2.
+  </pov-inner-life>
+  <outline>
+    1. **Already in crisis** - Alarms blaring, shuttle shaking, atmosphere entry wrong
+    2. **Escalation** - Life support fails, navigation fails, stabilizers offline - cascade of system failures
+    3. **Terror builds** - Kira strapped in cargo bay, can't reach cockpit, helpless as crash approaches
+    4. **Impact** - Violent, brief, overwhelming - shuttle hits planet surface
+    5. **Silence** - Everything goes dark and quiet - unconsciousness
+  </outline>
+  <plot-arc-act>Act 1 (Contact &amp; Bureaucracy) - opening</plot-arc-act>
+  <concludes-arc>false</concludes-arc>
+  <use-chapters>true</use-chapters>
+  <concludes-chapter>false</concludes-chapter>
+  <sources>
+    <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/chapter-placement.card" role="Scene 1 outline"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/passage-placement.card" role="Passage objectives and key moments"/>
+    <ref ref="/stories/Mandatory_Assistance/narrative-guide.card" role="Tone and pacing guidance"/>
+  </sources>
+  <changelog-entry version="1.0.0">Initialized</changelog-entry>
+  <changelog-entry version="2.0.0">Completed passage outline: 5-beat crash sequence from in media res to silence, 300-400 words</changelog-entry>
+</outline>
