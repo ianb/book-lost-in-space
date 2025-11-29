@@ -1,23 +1,61 @@
-<entity version="2.0.0" name="Sector 7-Gamma-412 Planet">
+<entity version="3.0.0" name="Sector 7-Gamma-412 Planet">
   <entity-type>planet</entity-type>
   <summary>Uncharted terrestrial planet in the Outer Reaches where Kira crashes. Earth-like but with purple vegetation and sentient plant-based lifeforms who communicate through bureaucratic HR language learned from a previous human contact.</summary>
   <description>
-    - **Official designation**: Sector 7-Gamma-412 (uncharted, no human name)
-    - **Atmosphere**: Breathable by humans, oxygen-nitrogen composition similar to Earth (~21% O₂, 78% N₂), slightly higher humidity, distinct green/growing scent
-    - **Climate**: Temperate with seasons, moderate temperatures year-round in equatorial forest belt, gentle weather patterns with frequent rain
-    - **Appearance**: Purple-hued vegetation due to different photosynthetic pigment; trees with deep purple to burgundy bark, broad dark leaves with purple undersides; bioluminescent fungi and groundcover glow faintly at night
-    - **Dominant lifeform**: Sentient mobile plants of various forms (tree-like structures, smaller mobile plants, colony organisms, flowering plants with specialized structures)
-    - **Fauna**: None detected; ecosystem appears entirely plant-based
-    - **Geography**: Crash site in equatorial forest belt (Violet Canopy Forest); gently rolling hills with dense plant coverage; freshwater stream 800m southwest of crash; grassland plains to north, dense forest south/east, possible mountains far west
-    - **Water**: Freshwater stream and likely larger river systems; water is clean and drinkable by humans
-    - **Food**: Native plants biochemically incompatible with human digestion; no Earth-compatible food sources
-    - **Sentient plants**: Developed speech organs for human communication; learned bureaucratic language from first contact's crashed computers (HR manuals, employee handbooks); genuinely kind and helpful but filtered through workplace procedures; lack individual self-preservation instincts; view death/resource reallocation differently than humans
-    - **First contact history**: One previous human crashed here and died before plants understood human individuality or urgency; plants studied the computers extensively to do better next time
-    - **Key locations**: Kira's crash site (destroyed shuttle in small clearing), The Stream (800m SW, freshwater), plant settlement somewhere in forest (includes first human's crash site and computers)
-    - **Hazards**: Food scarcity for humans, unknown microorganisms/infection risk, navigation challenges in dense forest, frequent rain, well-meaning plants applying safety protocols inappropriately
-    - **Narrative role**: Primary setting for entire story; beautiful but alien, challenging but survivable, strange but ultimately welcoming due to plants' kindness
+    **Visual Experience:**
+    - Everything is purple. Not uniformly, but as the dominant color - deep burgundy tree trunks the width of ancient oaks, bark smooth and faintly warm to the touch. Leaves are broad and dark, almost black from above, but when backlit or viewed from underneath they glow deep violet-purple
+    - The light has a quality like perpetual twilight even at midday - sunlight filtered through the purple canopy takes on dreamlike lavender tones. Shadows are deep purple-black, not gray
+    - Tree "branches" are thick and organic, twisting in ways that don't quite follow Earth tree logic. Some curve back toward the trunk, others spiral upward. The overall shapes are tree-like enough to be familiar but wrong enough to be unsettling
+    - Forest floor is relatively clear - carpeted with low purple-black groundcover (soft, slightly springy underfoot, like moss but drier). Occasional flowering plants in deep reds, bruise-purples, rare blue-greens
+    - At night: bioluminescent fungi and groundcover create soft blue-green glow, like being inside a fairy tale or underwater. Enough light to see by once eyes adjust, casting everything in ethereal cool tones
+    - Sky visible through canopy gaps: normal Earth-like blue during day, stars at night (unfamiliar constellations)
+    - Overall impression: Beautiful but unmistakably alien. Familiar forest structure, completely wrong color palette
+
+    **Sound:**
+    - Surprisingly quiet. No birdsong, no insect buzz, no animal sounds
+    - Wind through the canopy makes a soft rustling - leaves are thicker than Earth leaves, sound is deeper, almost musical
+    - When it rains (often), the sound of water hitting the broad leaves is loud, rhythmic, almost like drums
+    - Kira's own footfalls are the loudest thing - groundcover muffles sound but doesn't eliminate it
+    - The silence feels alive, expectant, like the forest is listening
+    - When the sentient plants speak, their voices break the quiet in jarring ways
+
+    **Smell:**
+    - Primary scent: growing things, green and alive. Like freshly cut grass mixed with something floral and unfamiliar - sweet but not cloying, with an edge of earthiness
+    - After rain: intensifies to almost overwhelming richness, petrichor but alien
+    - Near water: clean, mineral smell, fresh and cold
+    - No decay smell - no dead animal matter, and plant decomposition has a different quality, more like rich earth than rot
+
+    **Temperature &amp; Weather:**
+    - Moderate, comfortable for humans. Warm days (like spring turning to summer), cool nights but not cold
+    - Humidity is noticeable - air feels slightly thick, moisture on skin, hair gets damp
+    - Rain is frequent but gentle - soft steady rain rather than storms. Feels refreshing, not hostile
+    - Under the canopy provides some shelter but not complete - still get damp in rain
+    - Gentle breezes, nothing violent. Weather feels mild, predictable, peaceful
+
+    **Tactile:**
+    - Tree bark: smooth, almost polished, faintly warm even in shade (some biological process?)
+    - Groundcover: soft and springy, slightly damp even when not raining. Pleasant to walk on
+    - Leaves: thick, leathery texture, flexible but substantial
+    - Air on skin: humid, present, like being wrapped in something gentle
+    - Everything feels alive in a way that's hard to define - not threatening, just present
+
+    **Terrain:**
+    - Gently rolling hills, nothing steep or treacherous
+    - Forest floor surprisingly clear of undergrowth - easy to walk through
+    - Trees spaced far enough apart to move between them, close enough to create that canopy
+    - Occasional clearings where sunlight breaks through fully - these feel exposed after the purple twilight of the forest
+    - Stream is clear, cold, runs over smooth stones. Sound of running water
+
+    **Overall Atmosphere:**
+    - Beautiful in an otherworldly way - like walking through a dream or a painting
+    - Quiet and peaceful, almost meditative, but the silence has weight
+    - Not threatening or hostile, but absolutely alien. Every sense says "you're not home"
+    - The absence of animal life makes it feel empty and full at the same time
+    - As beautiful as it is, there's an underlying strangeness that never quite goes away
+    - Perfect temperature, breathable air, drinkable water - survivable, but you never forget you're somewhere else
   </description>
   <changelog-entry version="1.0.0">Initialized</changelog-entry>
   <changelog-entry version="2.0.0">Completed planet entity with atmosphere, climate, geography, sentient plant details, and narrative role based on Chapter 1 passages</changelog-entry>
-  <changelog-entry version="2.0.0">Completed planet entity description based on Chapter 1</changelog-entry>
+  <changelog-entry version="3.0.0">Rewrote description to focus on sensory, physical experience - what it feels like to be on this planet (visual, sound, smell, temperature, tactile, atmosphere) for consistent outdoor scene writing</changelog-entry>
+  <changelog-entry version="3.0.0">Rewrote to focus on sensory experience for scene consistency</changelog-entry>
 </entity>

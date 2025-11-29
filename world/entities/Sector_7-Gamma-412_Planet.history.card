@@ -10,4 +10,29 @@
       <changelog-entry version="1.0.0">Initialized</changelog-entry>
     </entity>
   </version>
+  <version number="2.0.0" archived-at="2025-11-29T13:45:31.487Z">
+    <entity version="2.0.0" name="Sector 7-Gamma-412 Planet">
+      <entity-type>planet</entity-type>
+      <summary>Uncharted terrestrial planet in the Outer Reaches where Kira crashes. Earth-like but with purple vegetation and sentient plant-based lifeforms who communicate through bureaucratic HR language learned from a previous human contact.</summary>
+      <description>
+        - **Official designation**: Sector 7-Gamma-412 (uncharted, no human name)
+        - **Atmosphere**: Breathable by humans, oxygen-nitrogen composition similar to Earth (~21% O₂, 78% N₂), slightly higher humidity, distinct green/growing scent
+        - **Climate**: Temperate with seasons, moderate temperatures year-round in equatorial forest belt, gentle weather patterns with frequent rain
+        - **Appearance**: Purple-hued vegetation due to different photosynthetic pigment; trees with deep purple to burgundy bark, broad dark leaves with purple undersides; bioluminescent fungi and groundcover glow faintly at night
+        - **Dominant lifeform**: Sentient mobile plants of various forms (tree-like structures, smaller mobile plants, colony organisms, flowering plants with specialized structures)
+        - **Fauna**: None detected; ecosystem appears entirely plant-based
+        - **Geography**: Crash site in equatorial forest belt (Violet Canopy Forest); gently rolling hills with dense plant coverage; freshwater stream 800m southwest of crash; grassland plains to north, dense forest south/east, possible mountains far west
+        - **Water**: Freshwater stream and likely larger river systems; water is clean and drinkable by humans
+        - **Food**: Native plants biochemically incompatible with human digestion; no Earth-compatible food sources
+        - **Sentient plants**: Developed speech organs for human communication; learned bureaucratic language from first contact's crashed computers (HR manuals, employee handbooks); genuinely kind and helpful but filtered through workplace procedures; lack individual self-preservation instincts; view death/resource reallocation differently than humans
+        - **First contact history**: One previous human crashed here and died before plants understood human individuality or urgency; plants studied the computers extensively to do better next time
+        - **Key locations**: Kira's crash site (destroyed shuttle in small clearing), The Stream (800m SW, freshwater), plant settlement somewhere in forest (includes first human's crash site and computers)
+        - **Hazards**: Food scarcity for humans, unknown microorganisms/infection risk, navigation challenges in dense forest, frequent rain, well-meaning plants applying safety protocols inappropriately
+        - **Narrative role**: Primary setting for entire story; beautiful but alien, challenging but survivable, strange but ultimately welcoming due to plants' kindness
+      </description>
+      <changelog-entry version="1.0.0">Initialized</changelog-entry>
+      <changelog-entry version="2.0.0">Completed planet entity with atmosphere, climate, geography, sentient plant details, and narrative role based on Chapter 1 passages</changelog-entry>
+      <changelog-entry version="2.0.0">Completed planet entity description based on Chapter 1</changelog-entry>
+    </entity>
+  </version>
 </versions>
