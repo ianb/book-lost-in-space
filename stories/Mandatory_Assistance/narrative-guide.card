@@ -1,4 +1,4 @@
-<narrative-guide version="2.0.0">
+<narrative-guide version="3.0.0">
   <reasoning>
     Context read: Setting is late 27th century comic hard scifi with bureaucratic plant aliens. Meta.card shows linear narrative with chapters. Story-info.card: Kira Voss (cargo specialist) survives a crash, pilots save her before dying, she wakes to find sentient plants trying to help via HR protocols.
 
@@ -10,7 +10,7 @@
 
     Voice: Kira's chatty, enthusiastic internal monologue. Informal, rambling, self-aware. References to adventure shows she's watched.
 
-    Boundaries: PG-13 equivalent. Mild profanity okay ("crap" not stronger). Violence from crash but not graphic. No sexual content.
+    Boundaries: PG. No profanity stronger than "crap." Violence from crash but not graphic. No sexual content.
 
     Prohibitions: Avoid mean-spirited humor. No mocking the aliens—they're genuinely trying. Don't let cynicism creep into Kira's voice.
 
@@ -22,13 +22,14 @@
   </reasoning>
   <themes-and-questions>How do you communicate across fundamentally different worldviews? What does "help" mean when your helper doesn't understand your basic needs? Can earnest effort bridge absurd misunderstanding, or does good intent without comprehension make things worse?</themes-and-questions>
   <tone>Warm absurdist comedy with grounded stakes. Optimistic and curious even in crisis, finding genuine delight in bureaucratic weirdness rather than cynicism. Maintains tension from survival pressure while celebrating the earnest (if confused) attempts at cross-cultural communication. No mean-spirited humor—the aliens are trying their best, and so is Kira.</tone>
-  <reading-level>TBD</reading-level>
-  <rating>PG-13 equivalent</rating>
+  <reading-level>Upper middle grade to young adult (ages 10-15)</reading-level>
+  <rating>PG</rating>
   <narrative-stance>First person, present tense, limited (Kira's POV)</narrative-stance>
   <passage-length>500-1500 words per scene. Allow flexibility for Kira's rambling internal monologue—some passages may run longer during introspective or problem-solving moments.</passage-length>
-  <pacing>TBD</pacing>
-  <dialogue>TBD</dialogue>
+  <pacing>Tempo: moderate with brisk moments. Sentences: medium, high variation (short punchy beats to longer rambling thoughts). Beats: ~2-3 per 100 words—comedy requires rhythm but allow breathing room. Dialogue: ~35-40% of words (lots of plant conversations). Endings: mix humor beats with emotional resonance; some passages end on jokes, others on connection. Digressions: Kira's tangential thinking is essential—allow 10-15% for asides, self-corrections, adventure show references. Exposition: sprinkle naturally through Kira's observations, ≤25 words at a time. Curve: rising with emotional peaks—builds through acts toward found family warmth.</pacing>
+  <dialogue>Line breaks: one per speaker. Attribution: speaker names when needed for clarity (multiple plants speaking), drop tags after pattern established. Turn length: ≤40 words, allow longer for Buddy's educational tangents or bureaucratic plant protocols. Markup: "..." for trail-offs, "—" for interruptions, italics for Buddy's voice (neural link). Multi-speaker: allowed for plant group conversations, use clear attribution to differentiate voices. Non-verbals: Runner's touch, Scout's bounces described in action beats between dialogue.</dialogue>
   <style-donts/>
   <changelog-entry version="1.0.0">Initialized</changelog-entry>
   <changelog-entry version="2.0.0">Set up core narrative guide with tone, stance, and themes</changelog-entry>
+  <changelog-entry version="3.0.0">Updated rating from PG-13 to PG. Filled in reading-level (upper middle grade to YA, ages 10-15), pacing (moderate tempo with high sentence variation, comedy beats, Kira's digressions), and dialogue formatting.</changelog-entry>
 </narrative-guide>
