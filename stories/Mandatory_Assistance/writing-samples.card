@@ -1,4 +1,4 @@
-<writing-samples version="1.0.1">
+<writing-samples version="1.1.0">
   <reasoning-writing-samples>
     Need to demonstrate:
     - Kira's chatty, enthusiastic internal monologue (first person present, informal, rambling)
@@ -13,30 +13,40 @@
   <sample id="sample-001" focus="voice-and-tone">
     <context>Act 1, early scene. Kira has crashed and is bleeding from a gash on her leg. A sentient plant (Runner, a vine) has just touched her to communicate, and now the plant community is conducting what they believe is a proper wellness check according to HR protocols.</context>
     <passage>
-      Okay, so this is happening. The talking plants—well, not talking exactly, more like... projecting feelings into my head? Whatever, the plants want to help. I think. Hard to tell when "help" apparently means asking me to rate my pain on a scale of one to ten and then clarifying whether I mean physical pain or emotional distress.
+      Okay, so this is happening. The vine—Runner, I'm calling it Runner because it keeps moving—touched my arm and I felt... concern? Awareness? It's hard to describe. Like someone noticing you exist, but as a feeling instead of words.
 
-      "Both!" I say, pressing my jacket against the gash on my leg. Blood's soaking through. This would be a great time for, you know, actual medical assistance. "Mostly physical! The bleeding kind!"
+      Then a mushroom sprouts next to my boot. Just pops up in like thirty seconds, and a voice comes out of it. Actual words.
 
-      The sensation shifts—concern mixed with what feels like… satisfaction? Like they've successfully categorized my problem. Great. In every adventure show I've ever watched, first contact involves either running from tentacle monsters or making inspirational speeches about the human spirit. Nobody ever mentioned bureaucracy.
+      "Please rate your current pain level on a scale of one to ten, with one being minimal discomfort and ten being—"
+
+      "Seven!" I press my jacket harder against the gash on my leg. Blood's soaking through. "Maybe eight! Can we skip to the part where you help me not bleed to death?"
+
+      "Thank you for that feedback. To clarify, are you experiencing physical pain, emotional distress, or both?"
+
+      In every adventure show I've ever watched, first contact involves either running from tentacle monsters or making inspirational speeches about the human spirit. Nobody ever mentioned bureaucracy.
+
+      "Physical! The bleeding kind!"
 
       "Kira," Buddy chimes in, cheerful as ever, "I'm detecting elevated stress markers! Remember, taking deep breaths can help activate your parasympathetic nervous system—"
 
       "Buddy, I love you, but not now."
 
-      The plants are rustling again. More feelings wash over me—this time it's definitely a question. Am I currently experiencing a crisis? If yes, please describe the nature of the crisis using the categories provided.
+      The mushroom continues, unbothered. "Are you currently experiencing a crisis situation? If yes, please describe the nature of the crisis using the categories provided: medical emergency, interpersonal conflict, environmental hazard, or other."
 
       I'm going to die filling out forms. That's my legacy. Kira Voss, cargo specialist, survived a crash landing only to bleed out during an intake questionnaire.
     </passage>
     <analysis>
-      <point>**Chatty internal monologue**: Kira's thoughts ramble ("Okay, so this is happening", "I think", parenthetical asides), creating conversational intimacy. She corrects herself mid-thought and talks to the reader.</point>
+      <point>**Chatty internal monologue**: Kira's thoughts ramble ("Okay, so this is happening", "I'm calling it Runner because it keeps moving"), creating conversational intimacy. She names things spontaneously, explains her thought process to the reader.</point>
+      <point>**Communication methods established**: Runner's touch conveys feelings (vibe-based, hard to describe), while Holloway's mushroom speaks actual dialogue. Shows the different modes without over-explaining.</point>
       <point>**Self-aware humor**: References to adventure shows establish her media literacy and create comic distance from the crisis. She's aware of genre expectations and finding her situation absurd.</point>
-      <point>**Warm comedy**: The plants are genuinely trying (asking about pain scales, categorizing problems) but hilariously wrong. Not mocking them—showing their earnest confusion. The satisfaction at categorizing her problem is endearing.</point>
+      <point>**Warm comedy through dialogue**: The mushroom speaking bureaucratic HR questions ("To clarify, are you experiencing physical pain, emotional distress, or both?") while Kira bleeds is absurd but shows genuine attempt to help. "Thank you for that feedback" is endearing in its earnestness. Not mocking them.</point>
       <point>**Grounded stakes**: Blood soaking through, "going to die"—real danger underlies the absurdity. The comedy doesn't erase the threat.</point>
-      <point>**Optimistic voice despite crisis**: Even while bleeding, she's engaging with the situation, finding it funny, talking to Buddy with affection ("I love you, but not now"). Curious about the communication method.</point>
-      <point>**Present tense immediacy**: "This is happening", "Blood's soaking through"—creates urgency and places reader in the moment with Kira.</point>
+      <point>**Optimistic voice despite crisis**: Even while bleeding, she's engaging with the situation, finding it funny, talking to Buddy with affection ("I love you, but not now"). Curious about the mushroom appearing.</point>
+      <point>**Present tense immediacy**: "This is happening", "pops up in like thirty seconds"—creates urgency and places reader in the moment with Kira.</point>
     </analysis>
     <notes>This sample demonstrates the core voice: Kira's enthusiastic chattiness makes dark situations approachable. The humor comes from genuine absurdity (wellness checks while bleeding) without being mean to the aliens. Stakes stay real—she could actually die—but her perspective keeps it from being grim. Buddy's teaching moment shows the kid-AI layer of comedy. The adventure show reference is brief, grounding her character without overdoing the meta-commentary.</notes>
   </sample>
   <changelog-entry version="1.0.0">Initialized</changelog-entry>
   <changelog-entry version="1.0.1">Added first writing sample demonstrating Kira's chatty voice, warm absurdist comedy, grounded stakes, and first contact bureaucracy</changelog-entry>
+  <changelog-entry version="1.1.0">Fixed communication methods: Runner's touch conveys feelings/vibes, Holloway's mushroom speaks actual HR dialogue. Makes bureaucratic comedy sharper through real spoken questions.</changelog-entry>
 </writing-samples>
