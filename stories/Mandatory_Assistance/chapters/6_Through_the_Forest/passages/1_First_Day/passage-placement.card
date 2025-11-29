@@ -1,0 +1,28 @@
+<passage-placement version="2.0.0">
+  <reasoning-passage-placement>
+    First day of journey through Territory One. Kira adjusts to constant walking, learns travel rhythm. Leafwhisper explaining everything, Rootwalker leading quietly. Forest as living network. First rest stop and meal on road. Exhaustion mixed with progress.
+  </reasoning-passage-placement>
+  <passage-objective>
+    Establish travel dynamics with guides, show forest as interconnected ecosystem, demonstrate Kira adapting to less control
+  </passage-objective>
+  <scene-portion>Complete scene - covers all of Scene 1</scene-portion>
+  <key-moments>
+    - Journey begins, Rootwalker sets pace
+    - Leafwhisper cascade of information about terrain, plants, protocols
+    - Rootwalker's minimal responses balancing Leafwhisper
+    - Kira learning to just follow, trust guides
+    - Forest revealing itself as network, not just trees
+    - Rest stop, mushroom paste meal
+    - Exhaustion at day's end, but progress made
+  </key-moments>
+  <character-focus>
+    Kira: Adjusting to walking all day, learning to trust. Leafwhisper: Enthusiastic teaching mode. Rootwalker: Quiet competent leading. Scout: Adapting to travel. Buddy: Monitoring.
+  </character-focus>
+  <sources>
+    <ref ref="/stories/Mandatory_Assistance/chapters/6_Through_the_Forest/chapter-placement.card" role="Scene 1 outline"/>
+    <ref ref="/world/characters/Leafwhisper.card" role="Leafwhisper characterization"/>
+    <ref ref="/world/characters/Rootwalker.card" role="Rootwalker characterization"/>
+  </sources>
+  <changelog-entry version="1.0.0">Initialized</changelog-entry>
+  <changelog-entry version="2.0.0">Planned Passage 1 placement</changelog-entry>
+</passage-placement>

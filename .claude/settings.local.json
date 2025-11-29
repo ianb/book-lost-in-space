@@ -3,7 +3,8 @@
     "allow": [
       "Bash(ske validate:*)",
       "Bash(ske snapshot:*)",
-      "Bash(ske create:*)"
+      "Bash(ske create:*)",
+      "Bash(ske guide:*)"
     ],
     "deny": [],
     "ask": []
