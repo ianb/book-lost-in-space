@@ -1,0 +1,29 @@
+<passage-placement version="1.0.0">
+  <reasoning-passage-placement>
+    <!-- For instructions on filling out reasoning: ske instructions stories/Mandatory_Assistance/chapters/1_Impact/passages/2_Aftermath/passage-placement.card -->
+  </reasoning-passage-placement>
+  <passage-objective>
+    Establish Kira's full chatty voice and show how she processes trauma through rambling internal monologue while discovering the extent of the crash damage—injuries, pilots dead, AI destroyed (Scene 2: Aftermath)
+  </passage-objective>
+  <scene-portion>Complete scene - this passage covers all of Scene 2</scene-portion>
+  <key-moments>
+    - Kira regains consciousness in pain and darkness
+    - Assesses her injuries (leg gash, ribs, head) while talking herself through it
+    - Struggles free from wreckage
+    - Finds Jensen and Reed dead in the cockpit
+    - Realizes her neural-link AI (SAM) is fried/silent
+    - Processes being completely alone
+    - Determination emerges despite fear
+  </key-moments>
+  <character-focus>
+    Kira's chatty internal monologue fully on display - rambles, compares to adventure shows, notices details, processes dark reality with humor and self-awareness. Shows her resourcefulness (cargo specialist noticing what's useful), optimism trying to surface despite horror, and the loneliness of losing her AI companion. Establishes that she talks to stay functional.
+  </character-focus>
+  <sources>
+    <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/chapter-placement.card" role="Scene 2 outline"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/passage.card" role="Previous passage ending"/>
+    <ref ref="/stories/Mandatory_Assistance/exposition-plan.card" role="Exposition tracking"/>
+  </sources>
+  <changelog-entry>
+    <!-- Each time you change this file add a description of what AND WHY you made changes to this element -->
+  </changelog-entry>
+</passage-placement>
