@@ -1,0 +1,166 @@
+<!-- Generated automatically, do not edit except with ske gen passage-voice -->
+<passage-voice version="2.0.0">
+  <ref ref="passage.card#v2.0.0" />
+  <reasoning>Review of the passage for voiceover adjustments:
+1. Staccato sentences: Many one- or two-word sentences (e.g., &quot;Not dead.&quot;, &quot;Darkness.&quot;, &quot;Pain everywhere.&quot;) that interrupt flow for TTS; these are merged or connected with em dashes to create smoother spoken rhythms.
+2. Dialog: The spoken lines &quot;Jensen?&quot; and &quot;Reed?&quot; were presented without a clear lead-in on separate lines; for voiceover they are given lead-ins and put on their own lines so the narrator&#39;s speech and the quoted dialog are distinct.
+3. Ambiguous pronouns/dialog: Minimal, but clarified a few locations where quick pronoun resolution could confuse a listener (e.g., identifying Jensen and Reed positions explicitly as actions are described).
+4. Places that require pauses: Several beats need explicit pauses (waking, freeing the legs, seeing daylight, the calls and the waiting silence). Inserted medium pauses (em dash) and one long dramatic pause paragraph marker (¶) where appropriate.
+5. Formal/stilted phrasing: A few terse or repeated fragments were smoothed for natural spoken rhythm without changing meaning.
+6. Non-text elements/symbols: No unusual symbols to spell out, but used _italics_ and *bold* per style rules to indicate emphasis/volume (these are textual markers, not TTS prosody).</reasoning>
+    <content-change />
+  <chunks>
+    <chunk>
+      <text>Not dead — that&#39;s good, right? Is that good?
+
+Darkness and pain everywhere. I can&#39;t move; something heavy is pressing down on my legs, metal and solid. I try to shift — my ribs scream, and I decide not to try that again. My head&#39;s pounding. There&#39;s the taste of blood in my mouth, the smell of smoke and hot metal and some chemical I can&#39;t identify.
+
+Not dead, though; I survived the crash — the crash where the shuttle — where Jensen and Reed —
+
+Okay — breathe. Well, trying to breathe. It hurts, but I&#39;m breathing, so that&#39;s something. They never show this part in the adventure shows, do they? The waking up after the dramatic crash. They cut straight to the hero walking away from the wreckage with maybe a photogenic smudge of dirt on one cheek. Nobody talks about the &quot;pinned under cargo containers and everything hurts&quot; part.
+
+I need to assess — cargo specialist training. Inventory the situation: what&#39;s damaged, what&#39;s salvageable, what&#39;s the priority.
+
+Legs — something&#39;s definitely wrong with my right one: a gash, bleeding; I can feel it warm and wet but it&#39;s not spurting, so probably not arterial. That&#39;s on the good list.
+
+Ribs — bruised, maybe broken. I can breathe; it just hurts. Hopefully just bruised.
+
+Head — bleeding. Scalp wounds bleed a lot; that&#39;s probably normal. I&#39;m pretty sure that&#39;s a thing.
+
+At least I&#39;m thorough about my own inventory.
+
+The weight on my legs is a cargo container — I can feel the ridged edge, the standard shipping dimensions. Not the leg that&#39;s injured, thank God. I wiggle backward, slow, biting down on a sound that wants to be a scream. Metal scrapes against metal. My ribs protest. Then I&#39;m free.
+
+¶
+
+I lie there for a second, staring up at twisted metal and exposed wiring. There&#39;s light coming from somewhere — a hole in the hull, ragged and letting in actual daylight. Atmosphere. Breathable atmosphere, because I&#39;m breathing and not choking. The air tastes like smoke and something green, almost like cut grass.
+
+Breathable air — that&#39;s a _win_.
+
+I push myself up on my elbows. The cargo bay is wrecked: containers torn from their restraints, one crushed nearly flat, another split open with terraforming equipment spilled across the deck. The emergency kit should be mounted on the wall near — there. Crushed. Of course it is.
+
+But first aid supplies are scattered from the broken container, the white packaging with red crosses bright against the dark deck. I reach for the nearest one. My hands are shaking.
+
+The door between the cargo bay and the cockpit is warped, buckled in its frame, but there&#39;s a gap. I can see through.
+
+Jensen is slumped over the controls. Reed is against the far wall, thrown there by the impact. Neither of them is moving.
+
+I call out — &quot;Jensen?&quot;
+
+I call out again, louder — &quot;*Reed?*&quot;
+
+¶
+
+Silence.</text>
+      <stage-directions>Overall tone and pacing: exhausted, wary, and wry at times — slow, breathy pacing with deliberate pauses for pain and realization.
+
+- Read the opening line &quot;Not dead — that&#39;s good, right? Is that good?&quot; with tentative relief, small, breathy, slightly incredulous.
+- On physical descriptions like &quot;I can&#39;t move; something heavy is pressing down on my legs&quot; keep the delivery measured and pained — controlled breaths between clauses.
+- Use a short, inward wince on &quot;my ribs scream&quot; and slow the next phrase &quot;and I decide not to try that again.&quot; to emphasize pain and decision.
+- Make the line &quot;Breathable air — that&#39;s a _win_.&quot; a small, grateful lift in tone on &quot;win&quot; (_italics_ = gentle emphasis).
+- For the action &quot;Then I&#39;m free.&quot; give a medium pause before (see the ¶ marker) and a quiet, surprised relief on the line.
+- Dialogs: lead into each spoken name then place the name on its own line: say the lead-in naturally, then read &quot;Jensen?&quot; as tentative; for the second call read &quot;Reed?&quot; louder and slightly more urgent — the *bold* marks increased volume.
+- Respect the long pause marker (¶) as a full dramatic beat: hold silence before continuing to the next sentence.</stage-directions>
+    </chunk>
+    <chunk>
+      <text>I know they&#39;re dead—the same crystal-clear certainty I had that we were going to crash. I pull myself toward the door anyway, try to wedge my fingers into the gap. It doesn&#39;t budge—sealed or jammed or both.
+
+I call—
+Jensen?
+
+Nothing.
+¶
+The rambling in my head stops—just stops. And then there&#39;s only the quiet, the smell of smoke, and two people who died trying to save me.
+
+They put me in the cargo bay—the reinforced cargo bay. They knew. Jensen came back to check on me, told me to stay strapped in, and his voice was almost gentle—
+You&#39;ll be safer than us.
+
+They knew they were going to die.
+
+I sit down hard, my back against the warped door.
+
+There should be someone talking. My AI, SAM—she should have been the first thing I heard when I woke up: damage assessment, vital signs, location data, a cheerful voice in my neural link helping me process. We&#39;ve been partnered for two years. SAM was there when the pilots ignored me, when every station looked the same—a constant, friendly presence in the back of my mind.
+
+I reach for the link. I try to ping her. I say—
+SAM?
+
+The neural space where she lives feels empty—wrong, like reaching for something that should be in your pocket and finding nothing.
+
+I say—
+SAM, are you there?
+
+Silence. Not the comfortable silence of SAM listening and waiting to respond—empty silence. The AI is gone, fried in the crash or destroyed by whatever ripped through the ship&#39;s systems.
+
+Oh. Oh no.
+
+I press my hand to my temple as if I could push her back into existence. Two years—she was not just a tool; she was a companion, someone who actually listened when I talked. And now she&#39;s gone. The pilots are gone. The ship is gone.
+
+I&#39;m alone.
+
+I sit in the wreckage with first aid supplies scattered in my lap as the full weight of it lands: injured, alone, on an unknown planet with no way to call for help—faster-than-light communication doesn&#39;t work like that; you can&#39;t just send a distress call across light-years. Rescue will only come when we don&#39;t report in at our destination. That&#39;s weeks, maybe months.
+
+Does anyone even know where we are?
+
+This is fine. This is... not fine. This is the opposite of fine.
+
+The adventure shows definitely didn&#39;t cover solo survival with head trauma and dead pilots and a fried AI. They covered teams. They covered heroes with training. They covered people who knew what they were doing.
+
+But I&#39;m alive. Jensen and Reed aren&#39;t. SAM isn&#39;t.
+
+And I&#39;m alive.
+
+Grief tries to surface—proper grief, the kind that wants to curl up and not move. I push it down. Later. Process later. Survive first.
+
+My hands are still shaking when I open the first aid kit: antiseptic, bandages, a pressure pad for the leg wound. I talk myself through it, voice barely above a whisper.
+
+Okay—clean the wound. Apply pressure. Wrap it. You can do this. You&#39;ve done hard things before.
+
+I pause.
+
+Like... that time...
+
+Nothing comes to mind.
+
+Okay, I haven&#39;t done anything like this before—but I&#39;m doing it now.</text>
+      <stage-directions>Overall tone &amp; pacing: exhausted, wary, and quietly panicked — measured, breathy pacing with intentional pauses for realization and grief.
+
+- Read &quot;I know they&#39;re dead—the same crystal-clear certainty I had that we were going to crash.&quot; as resigned certainty; breath between the two clauses.
+- Lead into each spoken name, then place the name on its own line: say the lead-in naturally, then read &quot;Jensen?&quot; as tentative and small; later read &quot;SAM?&quot; and &quot;SAM, are you there?&quot; with rising urgency.
+- On the single-word line &quot;Nothing.&quot; use a stunned, hollow delivery, then hold the long dramatic pause (see ¶) silently.
+- For the line &quot;You&#39;ll be safer than us.&quot; shift to a softer, almost gentle tone to contrast the later horror.
+- Emphasize &quot;I&#39;m alone.&quot; as a quiet, heavy beat — let it hang slightly longer than other sentences.
+- On the passage &quot;This is fine. This is... not fine. This is the opposite of fine.&quot; make the first sentence flat, then trail and slow into the admission of panic on the final sentence.
+- When talking through first aid lines (&quot;Okay—clean the wound...&quot;) keep it steady and procedural, whisper-thin, as if coaching oneself.</stage-directions>
+    </chunk>
+    <chunk>
+      <text>The dark humor feels forced, but it&#39;s something — something other than panic.
+I keep going, hands steadier now, wrapping the bandage tight around my leg.
+
+Through the hole in the hull I can see light — trees. Actual trees, though they&#39;re the wrong color, purple-ish — or maybe that&#39;s just the light.
+Alien planet.
+Unknown world.
+¶
+Well. Wanted adventure. Got it.
+
+I finish the bandage and look around the destroyed cargo bay — I need to figure out what supplies survived: water, food, shelter. Stay alive long enough for rescue to come.
+
+I can do this.
+*I have to.*</text>
+      <stage-directions>Overall tone &amp; pacing: exhausted, wry, and resolutely urgent — measured pacing with small sardonic beats and a firm close.
+
+- Read &quot;The dark humor feels forced, but it&#39;s something — something other than panic.&quot; with a tired, half-amused breath; place a medium pause on the em dash.
+- On &quot;Through the hole in the hull I can see light — trees.&quot; shift to a small uptick of wonder, then a brief doubtful cadence on &quot;Actual trees...&quot; — let disbelief edge the line.
+- Deliver &quot;Alien planet.&quot; and &quot;Unknown world.&quot; as blunt, short beats; then hold the long dramatic pause (¶) silently.
+- For &quot;Well. Wanted adventure. Got it.&quot; use dry, bitter humor — quick, slightly sardonic stabs.
+- Read the supplies line &quot;I need to figure out what supplies survived: water, food, shelter.&quot; steady and procedural, as if making a checklist to calm down.
+- &quot;I can do this.&quot; is softer, steady resolve; then increase volume and force on the final line &quot;*I have to.*&quot; — punch it as a decisive, necessary command.
+- Closing cadence: Firm terminal fall; decisive stop.</stage-directions>
+    </chunk>
+  </chunks>
+    <unusual-pronunciations>
+      <word text="FTL" />
+      <word text="SAM" />
+    </unusual-pronunciations>
+    <title>Aftermath</title>
+  <changelog-entry version="1.0.0">Generated from passage.card</changelog-entry>
+</passage-voice>

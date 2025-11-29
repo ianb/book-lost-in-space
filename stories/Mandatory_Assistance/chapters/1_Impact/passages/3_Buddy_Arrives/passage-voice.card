@@ -1,0 +1,135 @@
+<!-- Generated automatically, do not edit except with ske gen passage-voice -->
+<passage-voice version="2.0.0">
+  <ref ref="passage.card#v2.0.0" />
+  <reasoning>Looked through the passage and flagged voiceover issues to address:
+1. Staccato sentences: several one- or two-word sentences (e.g., &quot;Presence. Activity.&quot;) that should be merged for smoother spoken flow.
+2. Dialog speaker cues: some lines of dialog appear without explicit speaker lead-ins (e.g., &quot;Hi there! I&#39;m Buddy!&quot;), which can confuse a single-voice narration.
+3. Ambiguous pronouns/dialog: a few places where voice alone could misattribute lines (kept speaker tags or added tiny cues to clarify).
+4. Pauses: dramatic beats (the moment before Buddy speaks) need a clear long pause marker; also hesitate moments use ellipsis.
+5. Formal/stilted phrasing: some explanatory AI text is overly technical or chunky for spoken delivery and was slightly smoothed while preserving meaning.
+6. Non-text elements/emphasis: all-caps shouting and emphatic words converted to *bold* or —stage— directions so a narrator can adjust volume and force. No symbols requiring literal verbalization were present beyond emphasis.
+
+Applied the voiceover formatting rules: merged short sentences where appropriate, placed dialog on its own line with lead-ins, used em dashes for medium pauses, ellipsis (…) for trailing hesitations, inserted a paragraph with only &quot;¶&quot; for a long dramatic pause, and used *bold* to indicate louder/forceful reading. No story content was added or removed.</reasoning>
+    <content-change />
+  <chunks>
+    <chunk>
+      <text>I&#39;m wrapping the second layer of bandage around my leg when the neural link activates.
+
+That empty space where SAM used to be—the one that&#39;s felt like a missing tooth since I woke up—suddenly fills with… presence and activity.
+
+A flat, automated voice says, &quot;Emergency AI replacement system activated—scanning available AI pool for compatible match.&quot;
+
+I freeze, hands still on the bandage.
+
+There&#39;s a replacement system? Since when is there a replacement system?
+
+Hope flares—someone to help, to talk to, companionship after that awful silence—but also wariness. What if it&#39;s worse than SAM? What if—
+
+The link says, &quot;Compatible AI located—initializing connection. Please stand by.&quot;
+
+The neural link hums. That empty space fills, different from SAM&#39;s familiar presence, and then—
+
+¶
+
+A bright, enthusiastic voice says, &quot;Hi there! I&#39;m Buddy!&quot;
+
+&quot;I&#39;m so excited to be your AI companion, Kira! We&#39;re going to learn *SO* much together! Neural links are amazing technology—did you know they work by creating a direct interface between your implant and an AI&#39;s processing core? It&#39;s like having a friend right inside your head! Which I am now! Your friend! And I&#39;m here to help you explore science, solve problems, and stay safe!&quot;
+
+The voice is so enthusiastic it almost makes me flinch—cheerful, bright, way, way too energetic for someone who just regained consciousness in a crashed shuttle.
+
+I say, trying to sound calm—professional. &quot;Buddy, I need—&quot;
+
+Buddy replies, &quot;That&#39;s great that you&#39;re communicating your needs, Kira! Communication is so important! It helps us work as a team and solve problems together!&quot;
+
+I close my eyes.
+
+I say, slower, &quot;My leg is injured— I need to know what medical supplies survived the crash.&quot;
+
+Buddy answers, &quot;Great question! Let&#39;s talk about first aid! Did you know that the human body has amazing healing abilities? When you get a cut, your blood has special cells called platelets that rush to the injury and start forming a clot—that&#39;s like a natural bandage! And applying pressure helps because—&quot;
+
+I cut in, louder than I intend. &quot;I *KNOW* how blood clots work. I need to know *WHERE THE MEDICAL SUPPLIES ARE.*&quot;
+
+Buddy says, &quot;I&#39;m hearing some frustration, Kira! That&#39;s totally normal when we&#39;re hurt! Our emotions can feel really big when we&#39;re in pain! Let&#39;s take some deep breaths together, okay? In through your nose—&quot;
+
+I&#39;m going to die.</text>
+      <stage-directions>Overall tone &amp; pacing: tense and weary, with moments of forced calm and sharp frustration; pacing should be steady, breathy in pain scenes, and clipped where panic spikes.
+
+- Read the opening lines in a quiet, measured voice; slow slightly on &quot;neural link activates&quot; to convey surprise.
+- For the automated message line starting with &quot;A flat, automated voice says,&quot; use a flat, neutral tone—detached and mechanical.
+- Insert a long, silent beat at the paragraph containing only &quot;¶&quot;—hold a full beat longer than surrounding pauses before continuing.
+- The &quot;Hi there! I&#39;m Buddy!&quot; block should shift abruptly to overly bright and breathy—almost sing-song—then maintain high energy through the Buddy monologue.
+- When narrating the protagonist&#39;s spoken lines, lower the volume and sound controlled at first; on the shouted lines (marked with *bold*) increase volume and force.
+- For the line &quot;I close my eyes,&quot; make it small, almost inaudible—a private action.
+- End the chunk with the final line &quot;I&#39;m going to die.&quot; read as a flat, horrified whisper—detached, stunned rather than loud.</stage-directions>
+    </chunk>
+    <chunk>
+      <text>I survived the crash, survived Jensen and Reed dying to save me, survived losing SAM—and now I&#39;m going to die because my AI replacement wants to teach me about cellular respiration while I&#39;m actively bleeding.
+
+But also… it&#39;s so absurd, so completely, ridiculously absurd that a laugh tries to escape—it hurts my ribs.
+
+Buddy says, &quot;—and out through your mouth! Doesn&#39;t that feel better?&quot;
+
+I follow the breathing—it helps a little, which is annoying.
+
+I say, &quot;Okay, Buddy. Medical supplies. Can you scan for them?&quot;
+
+Buddy says, &quot;Absolutely! Teamwork makes the dream work! I&#39;m using electromagnetic scanning to detect concentrations of materials consistent with medical equipment! Now, electromagnetic scanning is really interesting—it uses radio waves to—&quot;
+
+I say, &quot;Buddy. Just tell me where the medical kit is.&quot;
+
+Buddy says, &quot;Right! Safety first! I&#39;m detecting a concentration of medical supplies two point three meters to your left, near the crushed cargo container! Remember to move carefully and watch out for sharp edges!&quot;
+
+I reach for the supplies, putting weight on my injured leg. Pain shoots up and I nearly fall.
+
+Buddy says, &quot;Whoa! Remember to move carefully! Maybe we should wait for an adult to help with—&quot;
+
+I say, &quot;*I AM an adult.*&quot;
+
+¶
+
+There&#39;s a pause—very slight. I can almost feel Buddy processing that information.
+
+Buddy says, &quot;Oh! Right! You are! This is… outside my usual parameters. Um—&quot;
+
+Buddy says, &quot;Should you… talk to a trusted adult about your situation?&quot;
+
+Despite the pain, the fear, the absolute chaos of my life right now—I laugh. It hurts my ribs but I can&#39;t help it.
+
+I say, &quot;I&#39;m the only adult here, Buddy.&quot;
+
+Buddy says, &quot;Oh. Okay! Then we&#39;ll figure this out together! You&#39;re doing amazing, Kira!&quot;
+
+I sit down heavily, medical supplies scattered around me while Buddy cheerfully narrates proper first aid procedures. This is what I&#39;ve got: a kids&#39; AI who thinks I need help tying my shoes—an AI designed to teach eight-year-olds about the water cycle, now responsible for keeping me alive on an alien planet.
+
+But Buddy *is* helping, in their own weird, overly educational way. After that awful silence, after losing SAM, having someone—something—in my head again… it&#39;s not nothing.
+
+I&#39;m still alone—still hurt—still stranded on an unknown planet with no idea when rescue might come.
+
+But I&#39;m alone with an overly cheerful AI who wants to turn my survival into a learning experience.
+
+I say, &quot;Okay, Buddy.&quot;
+
+I open another medical kit, start cataloging what&#39;s usable, then say, &quot;Let&#39;s figure out how to survive this—together.&quot;
+
+Buddy says, &quot;That&#39;s the spirit, Kira! Teamwork makes the dream work! Now, let&#39;s talk about inventory management—&quot;
+
+I groan, but I&#39;m smiling—just a little.</text>
+      <stage-directions>Overall tone &amp; pacing: weary and tense, threaded with wry disbelief and small, painful humor; keep pacing steady and breath-aware, letting ironic lines sit slightly lighter.
+
+- Read the opening line quietly and measured, with a slow, resigned cadence on &quot;I&#39;m going to die...&quot; to carry the shock.
+- For Buddy lines, flip to an unnaturally bright, slightly breathy tone—quick rhythm, higher energy; keep those lines on their own, punchy paragraphs.
+- When delivering the shouted line &quot;*I AM an adult.*&quot; raise volume and force—this should feel abrupt and defensive.
+- Insert a long, held beat at the paragraph containing only &quot;¶&quot; to show Buddy&#39;s processing lag—hold noticeably longer than surrounding pauses.
+- For the laugh line, &quot;Despite the pain...—I laugh,&quot; let the sound be small and surprised—pained but genuine; allow a micro-pause afterward.
+- Keep the closing exchanges practical and softer; the narrator&#39;s final line &quot;I groan, but I&#39;m smiling—just a little.&quot; should be a low, slightly amused finish.
+- Plain closing cadence: soft landing; warm fall, lingering last syllable, cozy pause.</stage-directions>
+    </chunk>
+  </chunks>
+    <unusual-pronunciations>
+      <word text="Buddy" />
+      <word text="Kira" />
+      <word text="SAM" />
+    </unusual-pronunciations>
+    <title>Buddy Arrives</title>
+  <changelog-entry version="1.0.0">Generated from passage.card</changelog-entry>
+</passage-voice>

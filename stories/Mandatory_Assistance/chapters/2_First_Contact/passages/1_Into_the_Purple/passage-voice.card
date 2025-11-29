@@ -1,0 +1,188 @@
+<!-- Generated automatically, do not edit except with ske gen passage-voice -->
+<passage-voice version="3.0.0">
+  <ref ref="passage.card#v3.0.0" />
+  <reasoning>Reviewing the passage for voiceover: 
+1. Staccato sentences: Several short, choppy sentences (e.g., &quot;Not purple—&quot;, &quot;Holy shit.&quot;) should be merged to flow naturally for a narrator. 
+2. Dialog speaker clarity: Buddy&#39;s lines come as internal bursts; dialog should be on separate lines with a clear lead-in so the listener knows who is speaking. 
+3. Ambiguous pronouns: Mostly clear, but keeping speaker tags for Buddy avoids confusion when multiple voices are present. 
+4. Places that require a pause: Before &quot;And that&#39;s when the quiet hits me&quot; needs a long, dramatic pause; also use medium pauses to separate thoughts. 
+5. Text too formal/stilted: Some sentences can be slightly smoothed for spoken cadence without changing meaning. 
+6. Symbols/non-text: &quot;800 meters&quot; should be read as &quot;eight hundred meters.&quot; 
+
+Edits will: merge short sentences, join adjacent short paragraphs when they continue a thought, put dialog on its own lines with lead-ins, use em dashes and ellipses for pauses, mark a long pause with a paragraph containing only &quot;¶&quot;, convert numeric measurement to words, and apply *bold* and _italics_ for emphasis where helpful. No content meaning will be altered.</reasoning>
+    <content-change />
+  <chunks>
+    <chunk>
+      <text>The first thing I notice is the light — not purple. I expected purple, saw it through the hull breach — but it&#39;s the quality of it, like stepping into perpetual twilight even though it&#39;s midday. Sunlight filters through the canopy overhead, turning lavender and soft, dreamlike. Everything glows.
+
+The second thing is the ground — soft. My boots sink slightly into a groundcover that feels like moss but isn&#39;t: purple-black and springy, almost pleasant underfoot. I take another step, then another — equipment bag heavy on my shoulder. The forest stretches ahead of me: tree trunks the width of ancient oaks but smooth and burgundy-dark. When I look up, the leaves are nearly black from below, but when the light catches them just right they glow deep violet.
+
+*Holy shit* — I&#39;m on an alien planet.
+
+Buddy&#39;s voice bursts into my head —
+&quot;Isn&#39;t this exciting, Kira! Let&#39;s talk about alien photosynthesis! You see, on Earth, plants use chlorophyll which absorbs red and blue light, but here the dominant photosynthetic pigment appears to—&quot;
+
+I laugh despite everything — the pain in my leg, the dead pilots, the fact that I might die out here. Buddy wants to teach me about photosynthesis.
+
+I say —
+&quot;Later, Buddy. Right now I just want to get to the water.&quot;
+
+Buddy replies —
+&quot;Of course! Safety first! The stream is approximately eight hundred meters southwest. I&#39;ll guide you!&quot;
+
+Southwest — right. I adjust my grip on the bag and start walking.
+
+¶
+
+And that&#39;s when the quiet hits me.
+
+No birdsong. No insects buzzing. No rustle of small animals in the undergrowth. Just wind moving through the canopy — a soft, almost musical sound, deeper than Earth leaves, like the forest itself is breathing. My own footfalls become the loudest thing, muffled by the springy groundcover but still present. Still _very, very_ alone.
+
+I ask —
+&quot;Buddy, you said no animal life detected, right?&quot;
+
+Buddy —
+&quot;Correct! The ecosystem appears entirely plant-based! Fascinating, really — on Earth, animals fill numerous ecological niches, but here it seems the plant life has adapted to—&quot;
+
+I cut him off —
+&quot;So it&#39;s just… quiet. No animals means no animal sounds.&quot;
+
+&quot;Exactly! Though plant-based ecosystems can create their own acoustic environments through—&quot;
+
+I tune him out, focusing on the silence. It&#39;s beautiful in a way — peaceful, but also wrong. Earth forests are never this quiet. There&#39;s always something: birds, insects, wind rattling dry leaves, water somewhere. Here there&#39;s just that soft breathing of thick leaves and my own footsteps.
+
+The forest floor is oddly clear, too. No undergrowth tangling my feet, no fallen branches to navigate around. Just the purple-black groundcover and those massive trees, spaced far enough apart that walking between them is easy. Almost like someone maintains it.
+
+That thought makes me uneasy, but I push it down.</text>
+      <stage-directions>Overall tone &amp; pacing: Observant and slightly breathless at first, then amused, shifting to wary and quiet; hold a long, heavy pause when the silence becomes apparent.
+
+- Read the opening lines with calm curiosity; use a measured, descriptive pace for the scene-setting and color detail. 
+- For &quot;*Holy shit* — I&#39;m on an alien planet.&quot; make &quot;*Holy shit*&quot; louder and sharper, then drop to stunned wonder for &quot;I&#39;m on an alien planet.&quot; 
+- Lead into each dialog with the narration cue then place the quoted line on its own line. For Buddy&#39;s lines: bright, fast, enthusiastic — slightly chipper and scientific. 
+- Use the paragraph containing only &quot;¶&quot; as a long, silent beat before &quot;And that&#39;s when the quiet hits me.&quot; Pause about 1.2–1.5 seconds there. 
+- Emphasize the em dash pauses as medium breaks (~300–400 ms); render ellipses (…) as a trailing, hesitant drop (~500–600 ms). 
+- For &quot;Still _very, very_ alone.&quot; stretch and soften &quot;very, very&quot; to underline isolation. 
+- End quietly and tensely on the last sentence; let the final line trail a beat before moving on.</stage-directions>
+    </chunk>
+    <chunk>
+      <text>I keep walking. The equipment bag digs into my shoulder. The air is thick—humid in a way that makes my skin feel damp, my hair already curling with moisture. It smells like growing things: sweet and earthy and floral all at once, with an edge of something unfamiliar underneath—not bad—just… other.
+
+The light shifts as I move deeper into the forest. Filtered through that purple canopy, everything takes on dreamlike lavender tones. Shadows aren&#39;t gray—they&#39;re purple-black, deep and soft. I pass a tree whose branches twist back toward the trunk in a way that makes my brain itch—wrong: the shapes are tree-like enough to be familiar but alien enough to remind me constantly: you&#39;re not home.
+
+Buddy, delighted —
+&quot;Kira, I&#39;m detecting some interesting atmospheric data! The oxygen-nitrogen ratio is remarkably similar to Earth, but there are trace elements that suggest—&quot;
+
+I ask —
+&quot;Buddy. Is the air safe to breathe?&quot;
+
+Buddy, quick and cheerful —
+&quot;Oh! Yes! Completely safe! Though the photosynthetic pigments I mentioned earlier create a unique light spectrum that—&quot;
+
+I say —
+&quot;Safe. Got it. Thanks.&quot;
+
+Our rhythm is getting better. Extract the useful information, let the rest go. Buddy means well. I&#39;m learning to work with—
+
+Pain flares up my leg, sudden and sharp enough to stop me mid-step.
+
+I&#39;ve been walking on adrenaline, ignoring the bandaged wound, focused on getting to water. But the injury doesn&#39;t care about my focus. I lean against the nearest tree trunk—smooth bark, faintly warm even in the shade—and try to breathe through it.
+
+The bandage is seeping. I can see it darkening through my pants. This is stupid. I&#39;m injured, alone, should be resting not hiking through an alien forest. But water is eight hundred meters and I need it and the shuttle&#39;s life support is dying and—
+
+Buddy —
+&quot;Kira, I&#39;m detecting elevated pain signals! Your injury requires—&quot;
+
+I say —
+&quot;I&#39;m fine. How much farther?&quot;
+
+A pause. Then, quieter:
+Buddy —
+&quot;Approximately six hundred meters remaining. Are you sure you can—&quot;
+
+I say —
+&quot;I&#39;m sure.&quot;
+
+I push off the tree, test weight on my leg. It hurts. It&#39;s going to keep hurting. But I can walk.
+
+So I do.
+
+The limp is more pronounced now. Beauty doesn&#39;t make injury hurt less. Wonder doesn&#39;t erase the fact that I could die out here.
+
+I&#39;m maybe fifty meters farther when I see it.
+
+Movement—high in the trees to my left, something shifting.
+
+I stop, heart suddenly pounding. I say —
+&quot;Buddy, did you see that?&quot;
+
+Buddy —
+&quot;See what, Kira?&quot;
+
+I point, even though Buddy doesn&#39;t have eyes.
+
+&quot;Something moved. Up there.&quot;
+
+The forest is still again. Nothing but that soft wind-breath through the leaves.
+
+But I saw it. I&#39;m sure I saw it.
+
+The quiet feels different now—not peaceful but charged, aware.
+
+¶
+
+I&#39;m not alone.
+
+Buddy, uncertainty creeping into his usually cheerful tone —
+&quot;I&#39;m not detecting any animal life forms, but in an unknown environment, sensors can miss—&quot;
+
+There. Again. Higher up, something definitely moving among the branches.
+
+Plant life has to be—no fauna detected, Buddy said—but plants don&#39;t move like that—quick, purposeful, tracking—</text>
+      <stage-directions>Overall tone &amp; pacing: Start observant and measured, slightly breathless at times; grow more pained and determined during the wound beats; shift to taut alertness and stillness as the movement appears, then hold a long, heavy pause at &quot;¶&quot; before the revelation.
+
+- Read the opening description with calm curiosity and a measured pace; allow the sensory details to breathe.  
+- For the lead-ins to dialog use a neutral narration tone, then deliver the quoted lines on their own line.  
+- Buddy&#39;s lines: bright, chipper, slightly scientific — quick delivery but clear. Use the em dash break before the quote as a short beat.  
+- When pain flares, tighten the breath, shorten phrases, and make the physical effort audible but not theatrical.  
+- For &quot;The quiet feels different now—not peaceful but charged, aware.&quot; slow slightly and lower volume, then insert the paragraph &quot;¶&quot; as a long silent beat (about 1.2–1.5 seconds).  
+- After &quot;¶&quot; read &quot;I&#39;m not alone.&quot; with controlled certainty — quiet but unmistakable.  
+- Keep all em dash pauses as medium breaks (~300–400 ms) and ellipses (…) as trailing, hesitant drops (~500–600 ms).</stage-directions>
+    </chunk>
+    <chunk>
+      <text>Except this is an alien planet, and the scans detected extensive plant life—what if…?
+
+Movement again—closer this time, not threatening exactly but deliberate, watching.
+
+My voice comes out too loud in the quiet, startling even me.
+I say—&quot;Hello?&quot;
+
+There is nothing, yet I feel it—I feel watched.
+
+The forest isn&#39;t empty—something is out there in the purple twilight, curious, observing.
+
+All teachable moment forgotten, Buddy says—
+&quot;Kira, I recommend we proceed with caution—unknown environment protocols suggest—&quot;
+
+I reply—&quot;Yeah—caution. Got it.&quot;
+
+I keep walking, slower now, every sense alert—my hand finds the cutting tool in my bag though I don&#39;t know what good it would do.
+
+The movement follows me—staying in the trees, keeping pace.
+
+Something is out there—and whatever it is, it&#39;s _very_ curious about me.</text>
+      <stage-directions>Overall tone &amp; pacing: Taut, observant, quietly tense; let the lines breathe and keep a careful, listening quality throughout.
+
+- Read the opening line with thoughtful curiosity and a small trailing hesitation on &quot;what if…?&quot; to suggest worry and possibility.
+- For &quot;I say—\&quot;Hello?\&quot;&quot; use a startled, louder moment then immediately rein it in; the line should sound surprised and tentative.
+- Read the line &quot;There is nothing, yet I feel it—I feel watched.&quot; with growing unease on the second clause; emphasize &quot;I feel watched&quot; as a low, tightened statement.
+- For Buddy&#39;s block: keep the voice bright, slightly chipper and a bit clinical — quick delivery but clear; pause at the em dash after &quot;Buddy says—&quot; then deliver his quote with a short, interrupted cadence at the trailing em dash.
+- For the reply, &quot;I reply—\&quot;Yeah—caution. Got it.\&quot;&quot; use a resigned, clipped tone—acknowledgement without relief.
+- When narrating the physical actions (walking, hand finding tool), slow marginally and make them grounded and precise; let the listener sense the steady caution.
+- Emphasize the last line&#39;s underscored phrase: give a quiet, slightly unsettled emphasis to &quot;_very_ curious about me.&quot; Hold a short beat after the final sentence.
+- Closing cadence: Soft landing; uncertain fall, lingering last syllable, short quiet pause.</stage-directions>
+    </chunk>
+  </chunks>
+
+    <title>Into the Purple</title>
+  <changelog-entry version="1.0.0">Generated from passage.card</changelog-entry>
+</passage-voice>

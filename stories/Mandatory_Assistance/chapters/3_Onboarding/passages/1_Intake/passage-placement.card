@@ -1,0 +1,41 @@
+<passage-placement version="1.0.0">
+  <reasoning-passage-placement>
+    Context from chapter-placement.card: Scene 1 (Intake) - "Establish the plant facility and begin onboarding bureaucracy." Events: Kira arrives at facility (living plant structures), Holloway greets, intake paperwork begins (visitor forms, emergency contacts, medical history), Scout encouraging, Buddy helping with forms, absurdity of HR intake for crash survivor, leg still hurting, directed to orientation. Emotional beat: Overwhelmed → trying to cooperate → dark humor → tired determination. Estimated 1200-1500 words.
+
+    Previous passage: Chapter 2 Passage 3 ended with Kira following Holloway's fruiting bodies through purple forest, escorted by plants, heading to facility for onboarding.
+
+    This passage must:
+    - Establish what the plant facility looks like (living architecture, organic structures)
+    - Begin the intake/onboarding bureaucracy
+    - Show forms and paperwork designed for employees applied to crash survivor
+    - Introduce the absurdity of standard questions (emergency contact? she's stranded!)
+    - Keep injury present - temporary treatment from Chapter 2 but still needs proper care
+    - Show Kira trying to work within the system despite absurdity
+    - Scout remains encouraging presence, Holloway omnipresent
+
+    Handoff to next passage: Directed to orientation/training room for next phase of onboarding.
+  </reasoning-passage-placement>
+  <passage-objective>
+    Establish the plant facility and launch the bureaucratic onboarding process, showing absurd HR intake procedures applied to a crash survivor (Scene 1: Intake)
+  </passage-objective>
+  <scene-portion>Complete scene - this passage covers all of Scene 1</scene-portion>
+  <key-moments>
+    - First sight of plant facility - living architecture, organic structures
+    - Holloway greeting from multiple fruiting bodies, welcoming her to "onboarding"
+    - Intake forms begin: visitor information, emergency contact (she has none), medical history
+    - Absurd questions that don't apply to her situation
+    - Scout bouncing around trying to help, encouraging
+    - Buddy attempting to help fill forms, making it worse
+    - Kira's leg pain reminder - temporary treatment holding but needs more
+    - Dark humor as coping mechanism
+    - Completion of intake, directed to next phase
+  </key-moments>
+  <character-focus>
+    Kira: Exhausted, overwhelmed, but trying to cooperate. Using humor to cope. Starting to learn how to phrase things in HR language. Pain constant reminder. Holloway: Warm office manager energy, genuinely pleased to help with onboarding, doesn't understand why questions feel absurd. Scout: Encouraging, bouncing supportively, non-verbal comfort. Buddy: Trying earnestly to help, sometimes making things more complicated.
+  </character-focus>
+  <sources>
+    <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/chapter-placement.card" role="Scene 1 outline"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/3_Wellness_Check/passage.card" role="Previous passage ending"/>
+  </sources>
+  <changelog-entry version="1.0.0">Initialized</changelog-entry>
+</passage-placement>

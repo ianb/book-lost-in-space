@@ -1,0 +1,81 @@
+<!-- this file is automatically managed by ske validate; do not edit -->
+<versions>
+  <version number="1.0.0" archived-at="2025-11-29T20:27:17.047Z">
+    <chapter-placement version="1.0.0">
+      <reasoning-chapter-placement>
+        Context: Chapter 3, following Chapter 2. Previous chapter ended with Kira accepting she needs to work with the plants, heading to their facility for onboarding.
+
+        From chapter.card: Show onboarding process, deepen communication barrier, injury complications, introduce more plant characters, Kira adapts strategies.
+
+        From story-acts.card Act 1: "Communication barrier deepens, injury complications." Theme: Well-meaning help through inappropriate frameworks. Comedy and heart mixed with real stakes.
+
+        Key dramatic moments:
+        - First sight of plant "facility" (what does that even look like?)
+        - Orientation process beginning (forms, videos, assessments)
+        - Medical treatment that's procedurally complex
+        - Meeting individual plants beyond just Holloway and Scout
+        - Kira finding ways to navigate the system
+        - Injury getting worse before better, stakes remaining real
+
+        Need to balance: comedy (bureaucratic absurdity) + stakes (injury, survival) + heart (plants genuinely trying)
+      </reasoning-chapter-placement>
+      <chapter-objective>
+        Deepen the bureaucratic communication barrier while showing Kira adapting to work within the system. Introduce more plant characters as individuals. Keep injury stakes real while building comedy through procedural mismatch.
+      </chapter-objective>
+      <acts-covered>Act 1 (Contact &amp; Bureaucracy) - deepening the barrier</acts-covered>
+      <key-beats>
+        - Arrival at plant facility, first sight of their "architecture"
+        - Onboarding orientation begins with forms and procedures
+        - Safety training for workplace that doesn't exist
+        - Medical treatment requiring extensive documentation
+        - Meeting Florence (emotional flowers) and seeing Remedy work
+        - Injury complications during procedural delays
+        - Kira developing strategies to navigate bureaucracy
+        - Recognition that this will be a long process
+      </key-beats>
+      <character-development>
+        Kira shows more adaptability - starts learning to phrase requests in HR language, finds workarounds, uses humor as coping. Frustration builds but so does problem-solving. Holloway continues warm bureaucracy. Scout remains encouraging companion. Florence introduced as empathetic but filtered through flower-emotions. Remedy shown as careful, precise, struggling with human biology through plant framework. Buddy trying to help bridge gaps with mixed success.
+      </character-development>
+      <reasoning-scene-outline>
+        Need to show: Facility arrival, onboarding process, medical treatment, character introductions, Kira adapting.
+
+        Scene 1: Arrival and intake - First sight of facility (living architecture?), immediate paperwork begins, Holloway coordinating, Scout helping. Sets up the space, establishes routine. Maybe 1200-1500 words.
+
+        Scene 2: Orientation and training - Safety videos or presentations, workplace assessments, absurd training modules for non-existent job. Comedy peaks here. Florence could appear. Maybe 1400-1700 words.
+
+        Scene 3: Medical treatment - Remedy working on injury with extensive protocols, forms before treatment, careful chemistry, injury complicates. Stakes and heart. Maybe 1500-1800 words.
+
+        Scene 4 (optional): Could end here, or add short scene of settling in, exhaustion, recognition of long road ahead.
+
+        Leaning toward 3 scenes to keep pacing moving. Can save "settling in" for next chapter.
+      </reasoning-scene-outline>
+      <scene-outline>
+        **SCENE 1: Intake**
+        - **Purpose**: Establish the plant facility and begin onboarding bureaucracy
+        - **Events**: Kira arrives at facility - living plant structures forming buildings/rooms. Holloway greets from multiple fruiting bodies. Immediate intake paperwork: visitor forms, emergency contact information (she has none), medical history documentation. Scout bounces around encouragingly. Buddy trying to help fill forms. The absurdity of HR intake for a crash survivor. Kira's leg still hurting, temporarily treated but needs more care. Ends with being directed to orientation.
+        - **Emotional beat**: Overwhelmed → trying to cooperate → dark humor → tired determination
+        - **Estimated length**: 1200-1500 words
+
+        **SCENE 2: Orientation**
+        - **Purpose**: Deepen bureaucratic absurdity through workplace safety training
+        - **Events**: Orientation room (living space formed by plants). Presentation begins - workplace safety for... what workplace? Videos or demonstrations about proper lifting techniques, emergency evacuation procedures, workplace harassment policies. Kira increasingly baffled. Florence appears - cart/wheelchair covered in flowers that change color with emotions. Empathetic but expresses everything through flower signals Kira can't read. Buddy translating flower-emotions poorly. The training is genuinely earnest - they really think this helps humans. Assessment quiz at end. Kira tries to pass it.
+        - **Emotional beat**: Confusion → frustration → meeting Florence (brief connection) → absurdist humor
+        - **Estimated length**: 1400-1700 words
+
+        **SCENE 3: Medical Treatment**
+        - **Purpose**: Show injury complications and Remedy's character, maintain stakes
+        - **Events**: Finally to medical treatment. Remedy appears - precise, careful plant who synthesizes compounds. Needs extensive documentation before treatment: allergy history, medication interactions, consent forms for each compound. Kira's injury has worsened during delays - infection risk, pain increasing. Remedy genuinely concerned but must follow protocols. Chemistry is precise - each compound must be synthesized, tested, documented. The treatment works but takes hours of procedural compliance. Kira exhausted, in pain, but recognizes Remedy's genuine care beneath the protocols. Ends with treatment complete, injury stabilized, Kira utterly drained.
+        - **Emotional beat**: Pain → frustration → watching Remedy work carefully → recognition of care → exhausted relief
+        - **Estimated length**: 1500-1800 words
+
+        **TOTAL ESTIMATED LENGTH**: 4,100-5,000 words (3 scenes)
+      </scene-outline>
+      <sources>
+        <ref ref="/stories/Mandatory_Assistance/story-acts.card" role="Act 1 objectives and chapter breakdown"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/chapter.card" role="Chapter summary and focus"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/3_Wellness_Check/passage.card" role="Previous chapter ending"/>
+      </sources>
+      <changelog-entry version="1.0.0">Initialized</changelog-entry>
+    </chapter-placement>
+  </version>
+</versions>

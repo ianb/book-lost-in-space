@@ -1,0 +1,248 @@
+<!-- Generated automatically, do not edit except with ske gen passage-voice -->
+<passage-voice version="2.0.0">
+  <ref ref="passage.card#v2.0.0" />
+  <reasoning>Review of the passage for voiceover adjustments:
+1. Staccato sentences: Several very short sentences break the flow and should be merged (examples: &quot;Not one creature. Several.&quot;, &quot;Great.&quot;).
+2. Dialog speaker clarity: Some short exclamations and questions (&quot;What the—&quot;, &quot;You can TALK?&quot;, &quot;Previous visitor?&quot;) need clearer attribution or must be formatted as thoughts/dialog so the listener knows who&#39;s speaking.
+3. Ambiguous pronouns/dialog: Lines like &quot;The same voice emerged from all three sources simultaneously.&quot; are fine, but a couple of places could confuse who is addressed (e.g., Kira/Buddy exchanges)—so add small cues or lead-ins.
+4. Places requiring pauses: The moment the ground bulges and the reveal of the speaking plant both need a dramatic pause; internal hesitation or realization beats also benefit from medium or trailing pauses.
+5. Formal/stilted text: The plants speak in deliberately corporate language; keep that tone, but format it so it reads clearly in audio (lead-in then quote, and keep corporate phrasing intact for comic effect).
+6. Non-text elements/symbols: Convert numeric &quot;24 hours&quot; to words for clearer TTS reading.
+Other formatting notes applied: put all spoken lines on their own lines with lead-in then quote; convert physical/gesture adverbs to brief stage-direction style breaks (e.g., &quot;Buddy—excited—&quot;); replace emphasized word with *bold* where appropriate; insert a paragraph with only the pilcrow character (¶) for a dramatic pause.</reasoning>
+    <content-change />
+  <chunks>
+    <chunk>
+      <text>The movement in the trees resolved into shapes— not one creature, several: rolling spheres like Scout but larger, maybe twice the size, their surfaces almost woven, like wicker basketballs. Three of them tumbled forward through the purple shadows, movements coordinated and purposeful.
+
+Kira held still, heart pounding—more aliens—great.
+
+Then the ground near her feet bulged.
+
+She jumped back—or tried to. Her injured leg buckled and she caught herself against a tree trunk, gasping.
+
+Something pushed up through the springy groundcover: a pale structure about five centimeters across, growing rapidly. Within seconds it reached twenty centimeters tall—a bulbous base tapering to a narrow opening at the top. The surface was smooth, waxy, cream-colored. Hollow.
+
+It looked like a flute—or an ocarina—some kind of instrument.
+
+Air moved through it. A soft whistling sound, musical and strange.
+
+And then it spoke.
+
+¶
+
+The voice—warm, cheerful, lilting with woodwind tones—said, &quot;Welcome to our planet! We&#39;ve been expecting someone!&quot;
+
+Kira&#39;s brain short-circuited.
+
+The plant thing was *talking*.
+
+&quot;What the—&quot;
+
+Buddy—excited—said, &quot;I&#39;m receiving audible communication patterns in Standard! The acoustic structure is unlike anything I&#39;ve documented, but the linguistic content is—&quot;
+
+Kira said, &quot;Buddy, I can hear it. It&#39;s talking.&quot;
+
+&quot;Yes! Isn&#39;t it wonderful?&quot;
+
+The fluting voice continued, pleased and utterly surreal— &quot;I&#39;m Holloway. I coordinate resource distribution in this sector. We&#39;d like to conduct a preliminary wellness assessment following your arrival incident.&quot;
+
+Two more of the pale fruiting structures pushed up nearby; the same voice emerged from all three sources simultaneously.
+
+Kira said, &quot;You can TALK?&quot;
+
+&quot;Yes! We learned human communication from educational materials left by the previous visitor. It&#39;s very exciting to finally use it again.&quot;
+
+The larger rolling plants gathered closer, observing. Scout bounced back into view between them, clearly pleased.
+
+«Previous visitor?»
+
+Kira&#39;s thoughts were moving through mud. They could talk—the plants could talk—but the way they talked—
+
+Kira said slowly, &quot;Where did you say you learned?&quot;
+
+Buddy&#39;s processing pause was almost audible. He said, &quot;Based on the terminology and phrasing patterns, I believe they may have learned Standard from human resources management documentation.&quot;
+
+&quot;Oh no.&quot;
+
+Holloway continued warmly, &quot;Now then—have you experienced any workplace incidents in the past twenty-four hours?&quot;</text>
+      <stage-directions>Overall tone &amp; pacing: Keep the scene tense but curious; pace brisk through the visual descriptions, then slow and deliberate for the reveal and dialogue to let the absurdity land.
+
+- For &quot;The movement in the trees resolved into shapes—&quot; read steadily, building suspense, small increase in volume on &quot;shapes&quot;.
+- For &quot;Kira held still, heart pounding—more aliens—great.&quot; use a weary, low ironical tone on &quot;great&quot;.
+- At &quot;Then the ground near her feet bulged.&quot; pause briefly—use the pilcrow paragraph (¶) immediately after &quot;And then it spoke.&quot; as the long, dramatic pause.
+- Lead-ins for spoken lines should be neutral and descriptive; shift immediately into the quoted voice. Example: read &quot;The voice—warm, cheerful...—said,&quot; then switch to a bright, woodwind-like tone for the quoted line.
+- For Buddy lines, use an excited, slightly higher pitch; mark his excitement with a quick breath before the quote (e.g., for &quot;Buddy—excited—said...&quot;).
+- For Holloway&#39;s corporate phrasing, keep the delivery overly pleasant and polite—slightly singsong, as if a training video—this contrast is important for the humor.
+- For the internal thought «Previous visitor?» use a quiet, puzzled delivery, slightly delayed after the preceding sentence so the listener recognizes it as a thought.</stage-directions>
+    </chunk>
+    <chunk>
+      <text>Kira gestured at the forest, at herself, at everything, then said:
+
+&quot;Workplace— I _crashed_. My ship crashed.&quot;
+
+&quot;Excellent, thank you for that detail. Please describe the nature of any injuries sustained during the incident.&quot;
+
+This couldn&#39;t be real—shock, delirium from blood loss.
+
+Kira pointed at her leg; the bandage was soaked through, dark with blood. She said:
+
+&quot;Laceration—bleeding—It needs treatment. Now.&quot;
+
+&quot;Estimated blood loss in milliliters?&quot;
+
+&quot;I don&#39;t—what? A lot—too much. Can you help or not?&quot;
+
+&quot;Of course we can help!&quot; The warmth in that fluting voice was genuine. &quot;We need to document the incident first per Safety Protocol Seven-point-Three. I&#39;m already growing medical assistance nearby—Remedy should have the antibacterial compound ready in approximately twenty minutes.&quot;
+
+A new fruiting body sprouted a meter away, speaking with the same voice, and said:
+
+&quot;The growth cycle has specific biological requirements, but I assure you treatment is being prepared.&quot;
+
+Twenty minutes—while she bled.
+
+¶
+
+&quot;Could we maybe speed that up?&quot;
+
+&quot;I&#39;m afraid the compound synthesis follows a fixed timeline.—Now, were you following proper safety procedures at the time of the incident?&quot;
+
+Kira stared at the fluted opening and said:
+
+&quot;I was crashing—there is no safety protocol for your ship getting shot and exploding.&quot;
+
+&quot;All activities have associated safety protocols per section 2.1. I&#39;ll note: protocols unavailable due to emergency circumstances.&quot; —&quot;Equipment malfunction or external hostile force?&quot;
+
+&quot;External! Something shot at us!&quot;
+
+&quot;Workplace violence will require additional documentation.&quot;
+
+Her leg _hurt_. The pain was a constant throb now, sharp whenever she shifted weight. She was bleeding through the bandage. And this plant—this _talking plant from HR_—wanted to file incident reports.
+
+&quot;Can we please do this *AFTER* you treat the injury?&quot;
+
+&quot;Medical intervention requires completed incident documentation per section 4.2. I understand this may feel frustrating, but proper protocols ensure optimal outcomes.&quot;
+
+The larger rolling plants pressed surfaces together, communicating somehow. Scout bounced sympathetically nearby.
+
+Holloway said, &quot;I&#39;ll need your employee identification number.&quot;
+
+Kira answered, &quot;Employee—I don&#39;t *WORK* here—I&#39;m not an employee—I&#39;m a—a crash survivor!&quot;
+
+&quot;Visitor status, noted. We&#39;ll use arrival timestamp as reference identifier.&quot; —&quot;Now, what were you doing immediately before the incident occurred?&quot;
+
+Kira said through her teeth:
+
+&quot;Flying—in space.&quot;
+
+&quot;And then?&quot;
+
+&quot;And then something hit us.&quot;
+
+&quot;I see. And were you the primary operator of the vessel?&quot;
+
+&quot;I was cargo specialist, but—&quot;
+
+Buddy tried to help, saying:
+
+&quot;Kira&#39;s injury severity suggests immediate medical intervention should take priority over—&quot;
+</text>
+      <stage-directions>Overall tone &amp; pacing: Keep the scene tense and urgent, but let the HR plant&#39;s overly pleasant, singsong cadence cut through the tension for comic contrast. Pace brisk through the exchanges; slow slightly on lines that indicate pain or disbelief.
+
+- Read the lead-in narration tersely, then shift immediately into the quoted voice for each speaker.
+- For Holloway and the fruiting bodies: use a bright, overly polite, singsong tone—cheerful and clinical.
+- For Kira: use breathless, strained urgency; when she emphasizes, push volume and edge (e.g., on *WORK*, *AFTER*).
+- For Buddy: adopt a slightly higher, excited pitch and a quick breath before his line.
+- Mark medium pauses with a short, measured silence at each em dash (—). Pause longer at the paragraph containing only &quot;¶&quot; for dramatic effect.
+- When reading the line &quot;Twenty minutes—while she bled.&quot; slow and let the absurdity register; then drop into the long pause &quot;¶&quot;.
+- Keep all dialogue clear and on separate lines to cue the listener who is speaking.</stage-directions>
+    </chunk>
+    <chunk>
+      <text>Holloway replied warmly, &quot;Noted! Once we complete the preliminary documentation, treatment will proceed. Your stress levels appear elevated, Kira—this is completely normal following a workplace incident. Would you like to schedule a wellness consultation?&quot;
+
+Kira laughed, couldn&#39;t help it—the sound came out half-hysterical.
+
+A wellness consultation while bleeding in an alien forest, being interviewed by a talking flute-plant about workplace safety protocols for a spaceship crash.
+
+This was her life now.
+
+Underneath the absurdity, the frustration, and the throbbing pain in her leg, she began to hear something else in that warm, fluting voice. The way Holloway asked about her stress levels—there was genuine concern.
+
+One of the fruiting bodies said, &quot;I&#39;m noting moderate to severe laceration—blood loss appears significant. Are you experiencing dizziness or disorientation?&quot;
+
+They _cared_. Actually cared. They just… only knew how to express it through forms, protocols, and safety documentation.
+
+Kira asked, &quot;What happened to the previous visitor?&quot;
+
+The forest went quiet, and even the larger plants stilled.
+
+When Holloway spoke again, the fluting had changed quality—sadder.
+
+Holloway replied, &quot;They didn&#39;t survive—we didn&#39;t understand quickly enough—communication was… difficult. We tried to help, but our methods were slow, imprecise. By the time we learned what they needed—&quot;
+
+¶
+
+Holloway continued, &quot;—they brought the educational materials. We studied them extensively afterward. We wanted to do better—for the next human.&quot;
+
+Kira said, &quot;Oh.&quot;
+
+«Oh.»
+
+Kira asked, &quot;Okay—what do you need from me?&quot;
+
+The fluting brightened immediately. Holloway said, &quot;Cooperation is ideal! Following protocol completion, we recommend transport to the central facility for comprehensive medical evaluation, orientation, and workplace safety training.&quot;
+
+Workplace safety training. Of course.
+
+The rest of the questions passed in a blur—Kira answered on autopilot while her leg throbbed and the purple light filtered down through the canopy: incident timeline, equipment status, her role on the crew.
+
+A different plant arrived, rolling up with delicate root-tendrils extended—Remedy, Holloway called them. They were gentle with the wound, applying something that smelled green and growing and that made the pain recede almost immediately, all while explaining protocols.
+
+A fresh fruiting body sprouted several meters ahead; Holloway said through it, &quot;You&#39;ll need to come with us—for proper onboarding.&quot;
+
+Kira repeated, &quot;Onboarding.&quot;
+
+Holloway continued, &quot;And medical evaluation—and orientation—and workplace safety training per section eight point four for all new arrivals.&quot;</text>
+      <stage-directions>Overall tone &amp; pacing: Keep the scene tense and urgent for Kira, but let Holloway and the other plants use a bright, overly polite singsong cadence for comic contrast. Move briskly through exchanges; slow and soften on lines indicating pain, disbelief, or internal thought.
+
+- Read the narration tersely and clearly, then shift immediately into quoted voices for each speaker. Use the quoted line on its own line each time.
+- For Holloway and the fruiting bodies: adopt a bright, clinical, singsong tone—cheerful but oddly formal. On long lists (&quot;comprehensive medical evaluation, orientation…&quot;) keep a steady, slightly mechanical cadence.
+- For Kira: use breathy, strained urgency. Make &quot;Oh.&quot; quiet and small—almost a whisper; the internal «Oh.» is more inward, slower and reflective.
+- Treat em dashes (—) as medium pauses; leave a bit more space at ellipses (…) for trailing hesitation. The paragraph containing only &quot;¶&quot; is a long, dramatic pause—hold that silence noticeably.
+- Emphasize _italics_ (e.g., _cared_) gently to show emotional weight; do not shout. Use *bold* only when an explicit loud or forceful moment appears (none required in this chunk).
+- Read &quot;section eight point four&quot; as &quot;section eight point four&quot; (say the word &quot;point&quot;), so the numbers are clear.</stage-directions>
+    </chunk>
+    <chunk>
+      <text>Kira started laughing again, limping forward. Scout bounced alongside her, encouraging. The larger rolling plants formed a sort of escort through the purple forest.
+
+This was going to be her life until rescue came — if rescue came.
+
+¶
+
+Alien planet, sentient plants, bureaucratic protocols for _everything_. She could work with this — she had to.
+
+She told Holloway —
+&quot;Lead the way.&quot;
+
+Multiple voices responded from fruiting bodies sprouting along the path ahead, warm and pleased —
+&quot;Excellent! I&#39;m already there.&quot;
+
+Of course they were. Strange new world, strange new help — but help nonetheless.</text>
+      <stage-directions>Overall tone &amp; pacing: Keep Kira tense, breathy and urgent; let Holloway and the fruiting bodies be bright, clinical, singsong and oddly polite. Move briskly through narration; slow and soften on lines of doubt or pain.
+
+- Read the narration tersely and clearly; treat paired short fragments as a single spoken list (see the line: &quot;Alien planet, sentient plants, bureaucratic protocols for _everything_.&quot;).
+- For the line: &quot;She told Holloway —&quot; use a lead-in then put the quoted line on its own line: read the lead-in conversationally, then the quote as a separate, slightly emphasized utterance.
+- Read the quoted line &quot;Lead the way.&quot; with mild relief and trust — brief pause after the period.
+- For the fruiting bodies&#39; response, adopt a bright, overly polite singsong: read the narration lead-in, then deliver &quot;Excellent! I&#39;m already there.&quot; in that cheerful, formal cadence.
+- Use the paragraph containing only &quot;¶&quot; as a long, dramatic silence — hold that pause noticeably before continuing.
+- Emphasize _italics_ gently (the word &quot;_everything_&quot; should carry light emotional weight, not a shout).
+- Closing cadence: Soft landing; warm fall, lingering last syllable, cozy pause</stage-directions>
+    </chunk>
+  </chunks>
+    <unusual-pronunciations>
+      <word text="Holloway" />
+      <word text="Kira" />
+      <word text="ocarina" />
+    </unusual-pronunciations>
+    <title>Wellness Check</title>
+  <changelog-entry version="1.0.0">Generated from passage.card</changelog-entry>
+</passage-voice>
