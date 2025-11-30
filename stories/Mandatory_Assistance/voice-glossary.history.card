@@ -1,0 +1,36 @@
+<!-- this file is automatically managed by ske validate; do not edit -->
+<versions>
+  <version number="1.0.0" archived-at="2025-11-30T17:08:27.268Z">
+    <!-- Automatically generated, do not edit manually -->
+    <voice-glossary version="1.0.0">
+      <characters>
+        <name>Buddy</name>
+        <name>Elder Heartwood</name>
+        <name>Elder Twist</name>
+        <name>Florence</name>
+        <name>Holloway</name>
+        <name>Kira Voss</name>
+        <name>Remedy</name>
+        <name>Runner</name>
+        <name>Scout</name>
+        <name>Sweetpea</name>
+        <name>Velvet</name>
+      </characters>
+      <locations>
+        <name>Sector 7-Gamma-412 Planet</name>
+      </locations>
+      <words>
+        <word text="Buddy"/>
+        <word text="FTL"/>
+        <word text="Holloway"/>
+        <word text="Kepler"/>
+        <word text="Kepler-288"/>
+        <word text="Kira"/>
+        <word text="ocarina"/>
+        <word text="SAM"/>
+        <word text="subspace"/>
+      </words>
+      <changelog-entry version="1.0.0">Generated automatically</changelog-entry>
+    </voice-glossary>
+  </version>
+</versions>

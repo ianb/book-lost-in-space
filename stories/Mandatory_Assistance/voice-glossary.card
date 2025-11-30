@@ -1,15 +1,19 @@
 <!-- Automatically generated, do not edit manually -->
 <voice-glossary version="1.0.0">
   <characters>
+    <name>Brightbloom</name>
     <name>Buddy</name>
     <name>Elder Heartwood</name>
     <name>Elder Twist</name>
     <name>Florence</name>
     <name>Holloway</name>
     <name>Kira Voss</name>
+    <name>Leafwhisper</name>
     <name>Remedy</name>
+    <name>Rootwalker</name>
     <name>Runner</name>
     <name>Scout</name>
+    <name>Streamwalker</name>
     <name>Sweetpea</name>
     <name>Velvet</name>
   </characters>
@@ -17,15 +21,60 @@
     <name>Sector 7-Gamma-412 Planet</name>
   </locations>
   <words>
-    <word text="Buddy" />
-    <word text="FTL" />
-    <word text="Holloway" />
-    <word text="Kepler" />
-    <word text="Kepler-288" />
-    <word text="Kira" />
-    <word text="ocarina" />
-    <word text="SAM" />
-    <word text="subspace" />
+    <word text="ansible"/>
+    <word text="B12"/>
+    <word text="bioluminescence"/>
+    <word text="bioluminescent"/>
+    <word text="Brightbloom"/>
+    <word text="Buddy"/>
+    <word text="Central Coordination"/>
+    <word text="chlorophyll"/>
+    <word text="Dr. Chen"/>
+    <word text="Elder"/>
+    <word text="Elder Heartwood"/>
+    <word text="Elder Twist"/>
+    <word text="Florence"/>
+    <word text="FTL"/>
+    <word text="fungal"/>
+    <word text="H R"/>
+    <word text="Harmony Prospect"/>
+    <word text="Heartwood"/>
+    <word text="Holloway"/>
+    <word text="HR"/>
+    <word text="Kepler"/>
+    <word text="Kepler-288"/>
+    <word text="Kira"/>
+    <word text="Kira Voss"/>
+    <word text="Leafwhisper"/>
+    <word text="Meridian"/>
+    <word text="Mossmantle"/>
+    <word text="mycelial"/>
+    <word text="mycorrhizae"/>
+    <word text="mycorrhizal"/>
+    <word text="Oakshade"/>
+    <word text="ocarina"/>
+    <word text="pH"/>
+    <word text="photosynthesis"/>
+    <word text="Reaching"/>
+    <word text="Remedy"/>
+    <word text="Rootwalker"/>
+    <word text="Runner"/>
+    <word text="SAM"/>
+    <word text="Scout"/>
+    <word text="sphere-type"/>
+    <word text="Spiral-types"/>
+    <word text="Streamwalker"/>
+    <word text="subspace"/>
+    <word text="Terra Station"/>
+    <word text="Territory One"/>
+    <word text="Territory Seven"/>
+    <word text="Territory Three"/>
+    <word text="Territory Two"/>
+    <word text="Torres"/>
+    <word text="Velvet"/>
+    <word text="Voss"/>
   </words>
-  <changelog-entry version="1.0.0">Generated automatically</changelog-entry>
+  <changelog-entry>
+    <!-- Each time you change this file add a description of what AND WHY you made changes to this element -->
+  </changelog-entry>
 </voice-glossary>
