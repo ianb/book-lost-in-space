@@ -1,4 +1,4 @@
-<passage version="3.0.0" number="3" name="Through the Forest">
+<passage version="4.0.0" number="3" name="Through the Forest">
   <reasoning-passage>
     Final day in Territory One. Approaching boundary, transfer preparation, farewell to Leafwhisper and Rootwalker, meeting Territory Two guides. Bittersweet but forward-moving. ~1800 words.
   </reasoning-passage>
@@ -55,7 +55,7 @@
 
     I find herself not ready.
 
-    "So we just... transfer here?" she asked.
+    "So we just... transfer here?" I ask.
 
     "Standard protocol!" Leafwhisper said, leaves rustling with forced cheerfulness. "We'll document the successful Territory One crossing, confirm your condition, transfer guide responsibility to Streamwalker and Brightbloom, and then Rootwalker and I head back home! Very straightforward process—"
 
@@ -73,7 +73,7 @@
 
     Leafwhisper's leaves shimmered. "You absolutely are! Three days of excellent adaptation, you'll do wonderfully in Territory Two—"
 
-    "Thanks," I say. Then, because she needed to: "For everything. The information, the patience, the..." She gestured vaguely. "All of it."
+    "Thanks," I say. Then, because I need to: "For everything. The information, the patience, the..." She gestured vaguely. "All of it."
 
     "Our pleasure!" Leafwhisper rustled. "Truly! First human traveler, absolutely fascinating experience, learning so much about cross-species coordination and adaptive requirements—"
 
@@ -153,7 +153,7 @@
 
     "Ready to keep going?" Streamwalker asked gently.
 
-    I look back once more at the forest. Territory One. Where she'd learned to walk all day, to see forests as networks, to trust guides who communicated through cascade and silence.
+    I look back once more at the forest. Territory One. Where I'd learned to walk all day, to see forests as networks, to trust guides who communicated through cascade and silence.
 
     Then forward to Territory Two. Rivers and wetlands. New terrain. New guides. New challenges.
 
@@ -171,7 +171,7 @@
 
     I follow the new guides into new territory, leaving Territory One behind.
 
-    But carrying forward what she'd learned: rhythm, trust, the knowledge that temporary teams could still matter.
+    But carrying forward what I'd learned: rhythm, trust, the knowledge that temporary teams could still matter.
 
     That goodbye hurt because connection was real.
 
@@ -198,4 +198,5 @@
   <changelog-entry version="1.0.0">Initialized</changelog-entry>
   <changelog-entry version="2.0.0">Completed Passage 3: Boundary - farewell and Territory Two begins</changelog-entry>
   <changelog-entry version="3.0.0">Converted from third person past to first person present tense</changelog-entry>
+  <changelog-entry version="4.0.0">Final cleanup: fixed remaining she/Kira references</changelog-entry>
 </passage>

@@ -1,4 +1,4 @@
-<passage version="3.0.0" number="3" name="Second Boundary">
+<passage version="4.0.0" number="3" name="Second Boundary">
   <reasoning-passage>Final passage. Second boundary farewell shows Kira's growth - handling goodbye with less grief, more acceptance. Pattern established. Brief Territory Three introduction. Chapter conclusion with forward momentum. ~1700 words.</reasoning-passage>
   <text>
     The third morning came with bittersweet awareness.
@@ -127,7 +127,7 @@
 
     Sad, yes. She'd miss them—Streamwalker's musical wisdom, Brightbloom's enthusiastic encouragement. But not devastated. Not lost.
 
-    Because she understood now.
+    Because I understand now.
 
     This was how it worked. Temporary teams. Real connections. Necessary endings.
 
@@ -155,9 +155,9 @@
 
     She'd learned to trust Streamwalker's flowing calm and Brightbloom's bouncing energy.
 
-    Now she'd learn to trust Oakshade and Mossmantle. Learn their rhythms, their voices, their way of working together.
+    Now I'd learn to trust Oakshade and Mossmantle. Learn their rhythms, their voices, their way of working together.
 
-    And in three days she'd say goodbye to them too.
+    And in three days I'd say goodbye to them too.
 
     And keep going.
 
@@ -186,4 +186,5 @@
   <changelog-entry version="1.0.0">Initialized</changelog-entry>
   <changelog-entry version="2.0.0">Completed Passage 3: Forward - second boundary farewell and Territory Three begins</changelog-entry>
   <changelog-entry version="3.0.0">Converted from third person past to first person present tense</changelog-entry>
+  <changelog-entry version="4.0.0">Final cleanup: fixed remaining she/Kira references</changelog-entry>
 </passage>

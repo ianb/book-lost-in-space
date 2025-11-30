@@ -1,4 +1,4 @@
-<passage version="3.0.0" number="1" name="First Day">
+<passage version="4.0.0" number="1" name="First Day">
   <reasoning-passage>
     First day of Territory One journey. Establishing travel dynamics - Leafwhisper's enthusiastic explanations, Rootwalker's quiet leading, Kira learning to follow. Forest as network. Exhausting but making progress. ~2000 words.
   </reasoning-passage>
@@ -31,7 +31,7 @@
 
     "Approximately twenty-three kilometers!" Leafwhisper rustled enthusiastically. "Which sounds like a lot but it's very manageable pace, we'll take regular rest breaks of course, every two hours recommended for bipedal travelers to prevent fatigue accumulation, and Rootwalker knows all the best spots with good ground stability and access to water sources—"
 
-    "Twenty-three kilometers," Kira repeated. About fourteen miles. That was... a lot of walking.
+    "Twenty-three kilometers," I repeat. About fourteen miles. That was... a lot of walking.
 
     "Yes! Should take roughly eight to nine hours with breaks factored in, very standard first-day distance, we're being quite conservative actually because you're still adjusting to travel pace and also you mentioned the leg injury recently healed so we don't want to stress the tissue too much during initial exertion—"
 
@@ -39,13 +39,13 @@
 
     I settle into the rhythm. Walk. Listen. Watch the forest.
 
-    And the forest was... not what she'd expected.
+    And the forest was... not what I'd expected.
 
-    She'd thought it would be like forests back home—trees standing separate, individual organisms competing for resources. But this was different. The more she walked, the more she noticed the connections.
+    She'd thought it would be like forests back home—trees standing separate, individual organisms competing for resources. But this was different. The more I walk, the more I notice the connections.
 
     Vines linked canopy to ground. Root systems visibly merged between different plants. Mushrooms clustered where multiple trees met, creating communication nodes. The whole forest felt interconnected—one massive organism rather than a collection of individuals.
 
-    "—exactly right!" Leafwhisper said, and I realize she'd spoken that thought aloud. "The network model is much more accurate than individual tree framework! Everything here shares resources, information, support systems—it's one of the things that made learning human language so revolutionary because suddenly we could communicate as individuals while still being part of the collective, very interesting philosophical shift actually—"
+    "—exactly right!" Leafwhisper said, and I realize I'd spoken that thought aloud. "The network model is much more accurate than individual tree framework! Everything here shares resources, information, support systems—it's one of the things that made learning human language so revolutionary because suddenly we could communicate as individuals while still being part of the collective, very interesting philosophical shift actually—"
 
     "How does it work?" I ask. "The network?"
 
@@ -119,13 +119,13 @@
 
     When they stopped for the second rest, my legs were definitely complaining.
 
-    "How much further?" she asked.
+    "How much further?" I ask.
 
     "About seven more kilometers!" Leafwhisper said brightly. "You're doing wonderfully by the way, excellent pace maintenance, many first-time travelers struggle more than this on day one, very impressive endurance—"
 
     Seven kilometers. Four more miles. She could do four more miles.
 
-    "When we stop for the night, there'll be food?" she asked.
+    "When we stop for the night, there'll be food?" I ask.
 
     "Absolutely! I can synthesize the mushroom compounds you require, already have the protocols from your dietary documentation, won't be quite as sophisticated as Remedy's work but nutritionally complete and perfectly edible—"
 
@@ -149,7 +149,7 @@
 
     Scout settled next to her, unusually quiet.
 
-    "Tired?" she asked the little plant.
+    "Tired?" I ask the little plant.
 
     Scout bounced once. Gently. Definitely tired.
 
@@ -189,7 +189,7 @@
 
     She'd walked twenty-three kilometers through an alien forest with enthusiastic plant guides and survived.
 
-    Tomorrow she'd do it again.
+    Tomorrow I'd do it again.
 
     But tomorrow was tomorrow.
 
@@ -208,4 +208,5 @@
   <changelog-entry version="1.0.0">Initialized</changelog-entry>
   <changelog-entry version="2.0.0">Completed Passage 1: First Day - journey begins with guides</changelog-entry>
   <changelog-entry version="3.0.0">Converted from third person past to first person present tense</changelog-entry>
+  <changelog-entry version="4.0.0">Final cleanup: fixed remaining she/Kira references</changelog-entry>
 </passage>

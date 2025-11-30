@@ -1,4 +1,4 @@
-<passage version="3.0.0" number="2" name="Deeper In">
+<passage version="4.0.0" number="2" name="Deeper In">
   <reasoning-passage>
     Day two - soreness but better rhythm. Deeper forest, diverse plants. Kira curious about society. Leafwhisper/Rootwalker dynamic comedy. ~1800 words.
   </reasoning-passage>
@@ -133,7 +133,7 @@
 
     And I walk, learning to see the forest not as backdrop but as society. Complex, interconnected, beautiful.
 
-    When they reached the second rest shelter that evening, she felt tired but strong.
+    When they reached the second rest shelter that evening, I feel tired but strong.
 
     Twenty kilometers. Done.
 
@@ -155,7 +155,7 @@
 
     But tomorrow would come anyway.
 
-    Tonight, she had this team. This rhythm. This strange found family of chatty leaves and silent roots and bouncing sphere.
+    Tonight, I had this team. This rhythm. This strange found family of chatty leaves and silent roots and bouncing sphere.
 
     It was enough.
 
@@ -174,4 +174,5 @@
   <changelog-entry version="1.0.0">Initialized</changelog-entry>
   <changelog-entry version="2.0.0">Completed Passage 2: Deeper In - day two with guides</changelog-entry>
   <changelog-entry version="3.0.0">Converted from third person past to first person present tense</changelog-entry>
+  <changelog-entry version="4.0.0">Final cleanup: fixed remaining she/Kira references</changelog-entry>
 </passage>

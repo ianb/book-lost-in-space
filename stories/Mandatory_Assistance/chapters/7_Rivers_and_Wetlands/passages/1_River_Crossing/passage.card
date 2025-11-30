@@ -1,4 +1,4 @@
-<passage version="3.0.0" number="1" name="River Crossing">
+<passage version="4.0.0" number="1" name="River Crossing">
   <reasoning-passage>First passage with Streamwalker and Brightbloom. Establishing their very different personalities and guide dynamic. River crossing shows Kira applying Territory One lessons - she's learning faster, trusting quicker. The guides complement each other - calm + energy rather than info + practicality. ~1800 words showing wetland terrain and new team rhythm.</reasoning-passage>
   <text>
     Two hours into Territory Two, I am already cataloging the differences.
@@ -45,13 +45,13 @@
 
     I stop at the bank, assessing. The river ran maybe twenty meters wide, water moving steadily but not rushing. Dark greenish-brown, impossible to see the bottom. Trees leaned over from both banks, their canopies almost touching.
 
-    "How deep?" she asked.
+    "How deep?" I ask.
 
     "Chest height at the crossing point," Streamwalker said, their musical voice carrying warmth without urgency. "Current is gentle here. Steady but patient. The water knows where it's going."
 
     Brightbloom rolled forward—their bouncy movement was really quite Scout-like. "It's a lovely crossing! Very safe! We've guided dozens of travelers through, never lost anyone!" A pause. "Well, there was that one incident, but they were fine eventually!"
 
-    "Eventually?" Kira repeated.
+    "Eventually?" I repeat.
 
     "Downstream in the shallows!" Brightbloom's flowers bloomed enthusiastically. "Just took a little swim first! Very refreshing, they said!"
 
@@ -115,9 +115,9 @@
 
     Scout bounced enthusiastically, flinging water droplets everywhere.
 
-    I start laughing. She was soaked, cold, my boots were full of river water, and she'd just crossed a river on an alien planet guided by a musical vine-plant and an overly enthusiastic bush.
+    I start laughing. She was soaked, cold, my boots were full of river water, and I'd just crossed a river on an alien planet guided by a musical vine-plant and an overly enthusiastic bush.
 
-    And she'd done it. Just... done it. Without panicking or falling or needing rescue.
+    And I'd done it. Just... done it. Without panicking or falling or needing rescue.
 
     "The water adds about two kilograms to your clothing weight," Buddy offered. "I recommend wringing out excess moisture when possible to reduce carrying load—"
 
@@ -135,7 +135,7 @@
 
     I squeeze water from my jacket. Her pants would take longer to dry but Streamwalker was right—walking would warm her up. The sun felt good already, stronger here without the forest canopy blocking it.
 
-    "How far to tonight's shelter?" she asked.
+    "How far to tonight's shelter?" I ask.
 
     "Three hours," Streamwalker said. "Gentle walking. No more crossings today. The path flows easy from here."
 
@@ -214,4 +214,5 @@
   <changelog-entry version="1.0.0">Initialized</changelog-entry>
   <changelog-entry version="2.0.0">Completed Passage 1: River Crossing - first day with Streamwalker and Brightbloom</changelog-entry>
   <changelog-entry version="3.0.0">Converted from third person past to first person present tense</changelog-entry>
+  <changelog-entry version="4.0.0">Final cleanup: fixed remaining she/Kira references</changelog-entry>
 </passage>

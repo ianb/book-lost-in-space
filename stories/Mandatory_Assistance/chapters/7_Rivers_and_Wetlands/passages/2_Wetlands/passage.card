@@ -1,4 +1,4 @@
-<passage version="3.0.0" number="2" name="Rivers and Wetlands">
+<passage version="4.0.0" number="2" name="Rivers and Wetlands">
   <reasoning-passage>Middle day passage. Soft ground incident shows Kira's trust in guides and their competence. Brightbloom's flower communication demonstrated. Building on confidence from successful first day. ~1600 words.</reasoning-passage>
   <text>
     The second morning started with questions.
@@ -95,15 +95,15 @@
 
     my left boot squelched with every step, mud gradually working its way between my toes. Uncomfortable but manageable. Her heart rate settled back to normal walking rhythm.
 
-    And somewhere in that settling, she realized something.
+    And somewhere in that settling, I realize something.
 
     She'd trusted the guides.
 
-    Not hoped they'd help, not desperately wished for rescue. Actually trusted. When my leg went through and Streamwalker said "stay still," she'd stayed still. When they said "lean toward me," she'd leaned.
+    Not hoped they'd help, not desperately wished for rescue. Actually trusted. When my leg went through and Streamwalker said "stay still," I'd stayed still. When they said "lean toward me," I'd leaned.
 
     No hesitation. Just trust.
 
-    A week ago she'd been anxious about every new challenge, worried the guides wouldn't know what to do, concerned about being a burden. Now she'd just been pulled out of a swamp hole and her primary thought was "well that was routine."
+    A week ago I'd been anxious about every new challenge, worried the guides wouldn't know what to do, concerned about being a burden. Now I'd just been pulled out of a swamp hole and her primary thought was "well that was routine."
 
     "You're smiling," Streamwalker observed.
 
@@ -121,7 +121,7 @@
 
     "All proper travelers sink occasionally!" Brightbloom bounced over a particularly wet patch. "The ones who never sink are the ones too afraid to walk uncertain ground! You're walking it! That's courage!"
 
-    "Courage or poor footing assessment," Kira muttered.
+    "Courage or poor footing assessment," I mutter.
 
     Streamwalker made their gentle laugh-sound. "Both can be true. Water teaches flexibility."
 
@@ -168,4 +168,5 @@
   <changelog-entry version="1.0.0">Initialized</changelog-entry>
   <changelog-entry version="2.0.0">Completed Passage 2: Deeper Waters - wetland challenges and growing trust</changelog-entry>
   <changelog-entry version="3.0.0">Converted from third person past to first person present tense</changelog-entry>
+  <changelog-entry version="4.0.0">Final cleanup: fixed remaining she/Kira references</changelog-entry>
 </passage>
