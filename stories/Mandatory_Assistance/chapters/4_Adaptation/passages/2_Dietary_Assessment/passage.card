@@ -1,6 +1,6 @@
 <passage version="2.0.0" number="2" name="Dietary Assessment">
   <reasoning-passage>
-    Dietary assessment passage - food crisis with bureaucratic forms. Absurd cultural preference questions while actually starving. Remedy synthesizing mushroom-based nutrition through chemistry. Hours of testing and documentation. Finally receives food - not appealing but functional. Exhausted relief. Balance comedy with real hunger stakes. ~1850 words.
+    <!-- For instructions on filling out reasoning: ske instructions stories/Mandatory_Assistance/chapters/4_Adaptation/passages/2_Dietary_Assessment/passage.card -->
   </reasoning-passage>
   <text>
     The dietary assessment forms were extensive.
@@ -43,7 +43,7 @@
 
     "Dietary preferences are very important for individual wellness!"
 
-    "I crashed on an alien planet. My ship exploded. I'll eat whatever won't kill me."
+    "I crashed on an alien planet. My ship is wreckage. I'll eat whatever won't kill me."
 
     "I understand you're in unusual circumstances, but we want to respect cultural practices! For example: kosher requirements? Halal guidelines? Vegetarian preferences?"
 
@@ -254,6 +254,7 @@
     <ref ref="/world/characters/Holloway.card" role="Holloway documentation"/>
     <ref ref="/world/characters/Scout.card" role="Scout support"/>
   </sources>
-  <changelog-entry version="1.0.0">Initialized</changelog-entry>
-  <changelog-entry version="2.0.0">Completed Passage 2: Dietary Assessment - food crisis, forms while starving, mushroom nutrition established</changelog-entry>
+  <changelog-entry>
+    <!-- Each time you change this file add a description of what AND WHY you made changes to this element -->
+  </changelog-entry>
 </passage>

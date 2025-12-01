@@ -1,16 +1,6 @@
 <outline version="2.0.0">
   <reasoning>
-    Context: Third and final passage of Chapter 2. Previous passage ended with Scout leaving as others approach. Target 900-1200 words.
-
-    From passage-placement.card: Introduce Holloway and bureaucratic plants. Show HR jargon, Buddy struggling to translate, Kira's frustration, recognition of genuine concern beneath absurdity.
-
-    From Holloway.card: Network organism speaking through fluting fruiting bodies. Warm office manager personality channeled through bureaucratic procedures. "I'm already there" - can appear in multiple locations. Speaks HR/safety protocol language warmly. Doesn't understand human urgency. Backstory: first human died, learned from manuals, determined to help Kira.
-
-    Voice: Kira's emotional journey from shock (they talk!) → bafflement (corporate speak?) → frustration (I'm bleeding!) → dark humor → recognition (they genuinely care) → reluctant acceptance. Holloway's fluting voice warm but delivering absurd protocols. Buddy trying to help translate, making things worse.
-
-    Emotional arc: Shock → bafflement → frustration → dark humor → understanding → acceptance
-
-    Beats: 6 beats covering arrival, introduction, wellness questions, forms, recognition, acceptance. ~150-220 words each. Concludes Chapter 2.
+    <!-- For instructions on filling out reasoning: ske instructions stories/Mandatory_Assistance/chapters/2_First_Contact/passages/3_Wellness_Check/outline.card -->
   </reasoning>
   <must-convey>
     - Plants can speak using human language (fluting voice)
@@ -104,10 +94,10 @@
     **BEAT 4: Forms and frustration** (200-230 words)
     - The questions continue
     - Incident timeline. What was she doing immediately before the crash.
-    - "Flying. In space. Then something hit us."
+    - "Flying. In space. Then the systems failed."
     - "Equipment malfunction or external force?"
-    - "External! Something shot at us!"
-    - "Workplace violence will require additional documentation."
+    - "I don't know! Everything just failed—navigation, stabilizers. We came out of FTL in the wrong place."
+    - "Equipment malfunction, noted. Cause unknown. Additional documentation required."
     - Her leg HURTS. She's bleeding through the bandage. And this plant thing wants to file paperwork.
     - "Can we please do this AFTER you treat the injury?"
     - "Medical intervention requires completed incident report per section 4.2."
@@ -180,6 +170,7 @@
     <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/3_Wellness_Check/passage-placement.card" role="Passage objectives"/>
     <ref ref="/stories/Mandatory_Assistance/narrative-guide.card" role="Tone and pacing"/>
   </sources>
-  <changelog-entry version="1.0.0">Initialized</changelog-entry>
-  <changelog-entry version="2.0.0">Completed detailed outline for Wellness Check - 6 beats, bureaucratic HR encounter</changelog-entry>
+  <changelog-entry>
+    <!-- Each time you change this file add a description of what AND WHY you made changes to this element -->
+  </changelog-entry>
 </outline>

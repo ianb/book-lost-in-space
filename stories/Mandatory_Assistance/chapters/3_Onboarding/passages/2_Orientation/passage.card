@@ -1,6 +1,6 @@
 <passage version="2.0.0" number="2" name="Orientation">
   <reasoning-passage>
-    Following outline - comedy peak scene. Florence leads workplace safety training for nonexistent workplace. Topics: lifting techniques, evacuation procedures, harassment policies. Flowers change colors with emotions. Kira exhausted into surreal acceptance. Assessment quiz at end. Balance absurdity with genuine earnestness. ~1550 words.
+    <!-- For instructions on filling out reasoning: ske instructions stories/Mandatory_Assistance/chapters/3_Onboarding/passages/2_Orientation/passage.card -->
   </reasoning-passage>
   <text>
     The orientation chamber was larger than the intake room, with vine-walled surfaces that curved into something almost like a classroom. Bioluminescent patches provided steady light. Several of those vine-formed seats faced toward a flat presentation surface.
@@ -31,7 +31,7 @@
 
     Workplace safety.
 
-    Kira had crashed from space. Her ship had exploded. She was stranded on an alien planet.
+    Kira had crashed from space. Her ship had gone down in a catastrophic systems failure. She was stranded on an alien planet.
 
     And they were going to teach her workplace safety.
 
@@ -109,7 +109,7 @@
 
     Fire safety. Ergonomic workspace setup. Proper documentation procedures. Break room etiquette.
 
-    Kira's exhaustion had moved past tired into something almost transcendent. She was receiving workplace safety training from a flowering plant on wheels. While injured. On an alien planet. After her ship exploded.
+    Kira's exhaustion had moved past tired into something almost transcendent. She was receiving workplace safety training from a flowering plant on wheels. While injured. On an alien planet. After her ship crashed.
 
     This was her life now.
 
@@ -217,6 +217,7 @@
     <ref ref="/world/characters/Florence.card" role="Florence's character, flowers, speaking style"/>
     <ref ref="/world/characters/Holloway.card" role="Holloway coordinating"/>
   </sources>
-  <changelog-entry version="1.0.0">Initialized</changelog-entry>
-  <changelog-entry version="2.0.0">Completed Passage 2: Orientation - Florence's workplace safety training, comedy peak</changelog-entry>
+  <changelog-entry>
+    <!-- Each time you change this file add a description of what AND WHY you made changes to this element -->
+  </changelog-entry>
 </passage>
