@@ -1,4 +1,4 @@
-<passage version="2.0.0" number="1" name="Intake">
+<passage version="2.0.1" number="1" name="Intake">
   <reasoning-passage>
     <!-- For instructions on filling out reasoning: ske instructions stories/Mandatory_Assistance/chapters/3_Onboarding/passages/1_Intake/passage.card -->
   </reasoning-passage>
@@ -212,7 +212,8 @@
     <ref ref="/world/characters/Holloway.card" role="Holloway's warm bureaucratic voice"/>
     <ref ref="/world/characters/Scout.card" role="Scout's non-verbal comfort and encouragement"/>
   </sources>
-  <changelog-entry>
+  <changelog-entry version="2.0.1">
     <!-- Each time you change this file add a description of what AND WHY you made changes to this element -->
+    Converted to first person present tense; changed exploded to crashed
   </changelog-entry>
 </passage>

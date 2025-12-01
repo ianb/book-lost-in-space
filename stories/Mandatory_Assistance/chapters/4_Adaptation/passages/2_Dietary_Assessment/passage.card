@@ -1,4 +1,4 @@
-<passage version="2.0.0" number="2" name="Dietary Assessment">
+<passage version="2.0.1" number="2" name="Dietary Assessment">
   <reasoning-passage>
     <!-- For instructions on filling out reasoning: ske instructions stories/Mandatory_Assistance/chapters/4_Adaptation/passages/2_Dietary_Assessment/passage.card -->
   </reasoning-passage>
@@ -254,7 +254,8 @@
     <ref ref="/world/characters/Holloway.card" role="Holloway documentation"/>
     <ref ref="/world/characters/Scout.card" role="Scout support"/>
   </sources>
-  <changelog-entry>
+  <changelog-entry version="2.0.1">
     <!-- Each time you change this file add a description of what AND WHY you made changes to this element -->
+    Changed ship exploded to ship is wreckage
   </changelog-entry>
 </passage>

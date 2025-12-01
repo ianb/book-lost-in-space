@@ -1,4 +1,4 @@
-<passage version="2.0.0" number="3" name="Seeking Solutions">
+<passage version="2.1.0" number="3" name="Seeking Solutions">
   <reasoning-passage>
     <!-- For instructions on filling out reasoning: ske instructions stories/Mandatory_Assistance/chapters/4_Adaptation/passages/3_Seeking_Solutions/passage.card -->
   </reasoning-passage>
@@ -191,7 +191,8 @@
     <ref ref="/world/characters/Holloway.card" role="Holloway coordination and Elder introduction"/>
     <ref ref="/world/characters/Scout.card" role="Scout companionship"/>
   </sources>
-  <changelog-entry>
+  <changelog-entry version="2.1.0">
     <!-- Each time you change this file add a description of what AND WHY you made changes to this element -->
+    Converted to first person present tense; changed attacked to FTL malfunction
   </changelog-entry>
 </passage>

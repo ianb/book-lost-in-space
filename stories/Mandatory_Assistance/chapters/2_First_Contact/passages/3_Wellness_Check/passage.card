@@ -1,4 +1,4 @@
-<passage version="2.0.0" number="3" name="Wellness Check">
+<passage version="3.0.0" number="3" name="Wellness Check">
   <reasoning-passage>
     <!-- For instructions on filling out reasoning: ske instructions stories/Mandatory_Assistance/chapters/2_First_Contact/passages/3_Wellness_Check/passage.card -->
   </reasoning-passage>
@@ -208,7 +208,8 @@
     <ref ref="/world/characters/Holloway.card" role="Holloway's voice, appearance, and backstory"/>
     <ref ref="/world/entities/Sector_7-Gamma-412_Planet.card" role="Purple forest setting"/>
   </sources>
-  <changelog-entry>
+  <changelog-entry version="3.0.0">
     <!-- Each time you change this file add a description of what AND WHY you made changes to this element -->
+    Converted to first person present tense; changed attack references to accident/malfunction
   </changelog-entry>
 </passage>

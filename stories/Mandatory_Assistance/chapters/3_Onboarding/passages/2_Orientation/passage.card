@@ -1,4 +1,4 @@
-<passage version="2.0.0" number="2" name="Orientation">
+<passage version="2.0.1" number="2" name="Orientation">
   <reasoning-passage>
     <!-- For instructions on filling out reasoning: ske instructions stories/Mandatory_Assistance/chapters/3_Onboarding/passages/2_Orientation/passage.card -->
   </reasoning-passage>
@@ -217,7 +217,8 @@
     <ref ref="/world/characters/Florence.card" role="Florence's character, flowers, speaking style"/>
     <ref ref="/world/characters/Holloway.card" role="Holloway coordinating"/>
   </sources>
-  <changelog-entry>
+  <changelog-entry version="2.0.1">
     <!-- Each time you change this file add a description of what AND WHY you made changes to this element -->
+    Changed exploded to crashed/systems failure
   </changelog-entry>
 </passage>

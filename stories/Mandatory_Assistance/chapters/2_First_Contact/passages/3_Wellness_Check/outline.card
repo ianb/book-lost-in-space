@@ -1,4 +1,4 @@
-<outline version="2.0.0">
+<outline version="2.0.1">
   <reasoning>
     <!-- For instructions on filling out reasoning: ske instructions stories/Mandatory_Assistance/chapters/2_First_Contact/passages/3_Wellness_Check/outline.card -->
   </reasoning>
@@ -170,7 +170,8 @@
     <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/3_Wellness_Check/passage-placement.card" role="Passage objectives"/>
     <ref ref="/stories/Mandatory_Assistance/narrative-guide.card" role="Tone and pacing"/>
   </sources>
-  <changelog-entry>
+  <changelog-entry version="2.0.1">
     <!-- Each time you change this file add a description of what AND WHY you made changes to this element -->
+    Changed attack references to accident/malfunction
   </changelog-entry>
 </outline>

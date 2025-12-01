@@ -1,4 +1,4 @@
-<passage version="2.0.0" number="2" name="First Contact">
+<passage version="3.0.0" number="2" name="First Contact">
   <reasoning-passage>
     <!-- For instructions on filling out reasoning: ske instructions stories/Mandatory_Assistance/chapters/2_First_Contact/passages/2_Scout/passage.card -->
   </reasoning-passage>
@@ -148,7 +148,8 @@
     <ref ref="/world/characters/Scout.card" role="Scout's appearance and behavior"/>
     <ref ref="/world/entities/Sector_7-Gamma-412_Planet.card" role="Planet sensory details (purple forest, quiet)"/>
   </sources>
-  <changelog-entry>
+  <changelog-entry version="3.0.0">
     <!-- Each time you change this file add a description of what AND WHY you made changes to this element -->
+    Converted to first person present tense
   </changelog-entry>
 </passage>

@@ -1,4 +1,4 @@
-<passage version="4.0.0" number="1" name="Impact">
+<passage version="4.0.1" number="1" name="Impact">
   <reasoning-passage>
     <!-- For instructions on filling out reasoning: ske instructions stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/passage.card -->
   </reasoning-passage>
@@ -83,7 +83,8 @@
     <ref ref="/stories/Mandatory_Assistance/narrative-guide.card" role="POV, tone, and style guidance"/>
     <ref ref="/world/characters/Kira_Voss.card" role="Kira's voice, character traits, hopes and dreams"/>
   </sources>
-  <changelog-entry>
+  <changelog-entry version="4.0.1">
     <!-- Each time you change this file add a description of what AND WHY you made changes to this element -->
+    Added FTL issue hint and active pilot protection scene
   </changelog-entry>
 </passage>

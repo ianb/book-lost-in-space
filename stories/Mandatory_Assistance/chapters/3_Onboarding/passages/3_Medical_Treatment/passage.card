@@ -1,4 +1,4 @@
-<passage version="2.0.0" number="3" name="Medical Treatment">
+<passage version="3.0.0" number="3" name="Medical Treatment">
   <reasoning-passage>
     <!-- For instructions on filling out reasoning: ske instructions stories/Mandatory_Assistance/chapters/3_Onboarding/passages/3_Medical_Treatment/passage.card -->
   </reasoning-passage>
@@ -179,7 +179,8 @@
     <ref ref="/world/characters/Remedy.card" role="Remedy's character, chemistry focus, decomposition commentary"/>
     <ref ref="/world/characters/Holloway.card" role="Documentation coordination"/>
   </sources>
-  <changelog-entry>
+  <changelog-entry version="3.0.0">
     <!-- Each time you change this file add a description of what AND WHY you made changes to this element -->
+    Converted to first person present tense
   </changelog-entry>
 </passage>

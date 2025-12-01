@@ -1,4 +1,4 @@
-<outline version="1.0.0">
+<outline version="1.1.0">
   <reasoning>
     <!-- For instructions on filling out reasoning: ske instructions stories/Mandatory_Assistance/chapters/1_Impact/passages/2_Aftermath/outline.card -->
   </reasoning>
@@ -103,7 +103,8 @@
   <sources>
     <ref ref="/todo/stories/TBD/chapters/TBD/passages/TBD/outline-passage-scene-breakdown.card#v0.0.0" role="TBD"/>
   </sources>
-  <changelog-entry>
+  <changelog-entry version="1.1.0">
     <!-- Each time you change this file add a description of what AND WHY you made changes to this element -->
+    Kira now explicitly checks pilots for pulse
   </changelog-entry>
 </outline>
