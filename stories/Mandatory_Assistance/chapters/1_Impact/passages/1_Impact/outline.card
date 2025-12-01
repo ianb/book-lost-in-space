@@ -1,21 +1,6 @@
 <outline version="3.0.0">
   <reasoning>
-    Context: This is the very first passage of the story. No previous passage. From chapter-placement.card, this covers Scene 1 (Impact) - brief visceral crash establishing immediate danger.
-
-    From passage-placement.card: This passage must establish immediate visceral danger through the crash sequence. Key moments are alarms, system failures cascading, Kira bracing, violent crash, silence/darkness. Character focus is Kira's terror and helplessness—pure sensory/emotional, not her chatty voice yet.
-
-    Beats needed:
-    1. In media res - already in trouble (alarms, wrong entry)
-    2. Escalation - failures cascade
-    3. Terror - Kira's fear as impact approaches
-    4. Impact - violent, brief
-    5. Silence - sudden cut to darkness
-
-    This is pure action opening. Reader doesn't need to know who Kira is yet or backstory—that comes in Scene 2. Just need to establish: person in shuttle, shuttle crashing, terror, impact. Keep it immediate and visceral.
-
-    Sensory focus: Sound (alarms, crashes), physical sensation (being thrown around), fear response. Present tense for immediacy.
-
-    Handoff to next passage: Darkness and silence → waking up in wreckage (Scene 2)
+    <!-- For instructions on filling out reasoning: ske instructions stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/outline.card -->
   </reasoning>
   <must-convey>
     1. Someone (Kira) is aboard a shuttle that's crashing
@@ -60,9 +45,11 @@
     - Shows: arrogant but professional pilots, her learned caution about being "too much"
     - Tone: Brief, establishes she's alone even before the crash emotionally
 
-    **BEAT 3: Something's wrong** (30-50 words)
-    - Approach feels wrong - shuttle's shaking more than usual
-    - Kira notices (she notices things) but doesn't say anything (defers to authority)
+    **BEAT 3: Something's wrong** (40-60 words)
+    - FTL drop feels wrong - pilots' voices tense, exchanging clipped words
+    - Kira catches fragments: "...coordinates don't match..." "...not supposed to be here..."
+    - They don't explain to her (they never do) but something's clearly off
+    - Approach begins, shuttle shaking more than usual
     - First alarm - atmospheric entry angle off
     - Internal: Is this normal? Should I say something? They're the pilots, they know...
     - Dread building but not panic yet
@@ -75,13 +62,16 @@
     - Terror: "We're coming in wrong—too steep, too fast"
     - Sensory: Red lights, metal screaming, heat building
 
-    **BEAT 5: Pilots' choice** (30-50 words)
-    - Door unseals briefly - pilot (Jensen) appears
-    - Quick professional assessment: cargo bay's the safest spot
-    - "Stay strapped, Voss" - first time they've used concern, not contempt
-    - They seal the door again, return to cockpit to try to save the ship
-    - Shows: arrogant but professional, they do what's right in crisis
-    - Kira realizes: they're going to die trying to save her
+    **BEAT 5: Pilots' choice** (50-70 words)
+    - Door unseals - Jensen appears, face grim
+    - Doesn't explain, just acts: grabs Kira, moves her to the crash seat (emergency position behind reinforced bulkhead)
+    - Reed shouts something about the descent angle from cockpit
+    - Jensen straps her in tight, checks the harness twice
+    - Brief eye contact - first time he's really looked at her
+    - "Hold on, Voss." Gruff but almost... kind?
+    - They seal the door, return to cockpit to fight for the ship
+    - Shows: arrogant pilots doing the one thing they can to save her
+    - Kira realizes: they might not make it, and they know it
 
     **BEAT 6: Terror** (30-40 words)
     - Alone in cargo bay, can't help, can't see
@@ -98,7 +88,7 @@
     - Nothing
     - (Abrupt cutoff, no processing, just unconsciousness)
 
-    **TOTAL: 250-370 words across 7 beats**
+    **TOTAL: 280-420 words across 7 beats**
   </outline>
   <plot-arc-act>Act 1 (Contact &amp; Bureaucracy) - opening</plot-arc-act>
   <concludes-arc>false</concludes-arc>
@@ -109,7 +99,7 @@
     <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/passage-placement.card" role="Passage objectives and key moments"/>
     <ref ref="/stories/Mandatory_Assistance/narrative-guide.card" role="Tone and pacing guidance"/>
   </sources>
-  <changelog-entry version="1.0.0">Initialized</changelog-entry>
-  <changelog-entry version="2.0.0">Completed passage outline: 5-beat crash sequence from in media res to silence, 300-400 words</changelog-entry>
-  <changelog-entry version="3.0.0">Major revision: Added detailed 7-beat outline including Kira's pre-crash character establishment (hopes, pilot relationship) before the crash sequence. Much more specific beat-by-beat guidance.</changelog-entry>
+  <changelog-entry>
+    <!-- Each time you change this file add a description of what AND WHY you made changes to this element -->
+  </changelog-entry>
 </outline>

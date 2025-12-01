@@ -1,16 +1,6 @@
 <passage version="2.0.0" number="2" name="Aftermath">
   <reasoning-passage>
-    Context from outline.card: 7-beat sequence showing Kira waking in wreckage with full chatty voice on display as coping mechanism. Target 770-960 words.
-
-    From passage-placement.card: Must establish Kira's full chatty internal monologue (contrast with stripped terror of Passage 1), reveal injuries/danger, confirm pilots dead, show neural-link AI destroyed, establish talking/rambling as coping mechanism.
-
-    Voice: This is where readers meet her real personality. Full rambling monologue - compares to shows, notices details, processes trauma with humor. Adventure show references throughout. Cargo specialist habits (cataloging, noticing what's useful) even in crisis.
-
-    Emotional arc: Pain/confusion → assessment through rambling → grim discovery of deaths → grief → lonely realization → determined forward motion.
-
-    Pacing: Longer sentences when she's rambling (coping), shorter during grief moments, return to rambling as determination builds.
-
-    Exposition delivery: Kira wakes injured, pilots confirmed dead, neural-link AI companion destroyed.
+    <!-- For instructions on filling out reasoning: ske instructions stories/Mandatory_Assistance/chapters/1_Impact/passages/2_Aftermath/passage.card -->
   </reasoning-passage>
   <text>
     Not dead.
@@ -45,7 +35,11 @@
 
     But there are first aid supplies scattered from the broken container, the white packaging with red crosses bright against the dark deck. I reach for the nearest one. My hands are shaking.
 
-    The door between the cargo bay and the cockpit is warped, buckled in its frame. But there's a gap. I can see through.
+    The door between the cargo bay and the cockpit is warped, buckled in its frame. I have to check. I have to know.
+
+    I drag myself over, ignoring the way my leg screams. The door's jammed but not sealed—impact must have broken the lock. I wedge my fingers into the gap and pull. Nothing. Pull harder, ribs screaming in protest. The metal groans. Shifts. Enough space to squeeze through.
+
+    The cockpit is worse than the cargo bay. Much worse.
 
     Jensen's slumped over the controls. Reed's against the far wall, thrown there by impact. Neither of them is moving.
 
@@ -53,17 +47,13 @@
 
     Silence.
 
-    I know they're dead. I know it the same way I knew we were going to crash, that crystal-clear certainty. But I pull myself toward the door anyway, try to wedge my fingers into the gap. It doesn't budge. Sealed, or jammed, or both.
-
-    "Jensen? Can you hear me?"
-
-    Nothing.
+    I crawl to Jensen first. Press my fingers to his neck the way they show in the safety vids. Nothing. No pulse. His skin is cool. I check Reed too—have to, have to be sure—but I already know. Same stillness. Same silence. Same nothing.
 
     The rambling in my head stops. Just—stops. And there's only the quiet, and the smoke smell, and two people who died trying to save me.
 
-    They put me in the cargo bay. The reinforced cargo bay. They knew. Jensen came back to check on me, told me to stay strapped in, and his voice was almost gentle. "You'll be safer than us."
+    Jensen dragged me to the crash seat. Strapped me in himself, checked every buckle. Looked at me—actually looked at me. "Hold on, Voss." Almost kind, in the end.
 
-    They knew they were going to die.
+    They knew. They put me in the safest spot on the ship and went back to die fighting for every second.
 
     I sit down. Hard. My back against the warped door.
 
@@ -124,7 +114,7 @@
     I have to.
   </text>
   <summary>
-    Kira regains consciousness trapped under cargo in the wrecked bay, injured but alive. Her chatty internal monologue emerges as she talks herself through assessing injuries (leg gash, bruised ribs, head wound) and processing the horror through dark humor and adventure show comparisons. She frees herself and discovers Jensen and Reed dead in the cockpit—they secured her in the reinforced cargo bay knowing they would die. Her neural-link AI companion SAM is destroyed, leaving her completely alone. Despite grief and fear, Kira's determination surfaces as she treats her wounds and begins planning survival: inventory supplies, find water, wait for rescue.
+    Kira regains consciousness trapped under cargo in the wrecked bay, injured but alive. Her chatty internal monologue emerges as she talks herself through assessing injuries (leg gash, bruised ribs, head wound) and processing the horror through dark humor and adventure show comparisons. She frees herself and forces the jammed cockpit door open—she has to check, has to know. Jensen and Reed are dead; she checks for pulses, confirms it herself. They strapped her into the crash seat knowing they would die. Her neural-link AI companion SAM is destroyed, leaving her completely alone. Despite grief and fear, Kira's determination surfaces as she treats her wounds and begins planning survival.
   </summary>
   <leaves-off>
     Kira has treated her immediate injuries and is beginning to assess what supplies survived the crash. She's alone, hurt, but determined to survive on an unknown alien planet until rescue arrives. Next passage will show Buddy (the assistance AI) arriving and being assigned to her.
@@ -136,7 +126,7 @@
     <ref ref="/world/characters/Kira_Voss.card" role="Kira's full chatty voice and coping mechanisms"/>
     <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/passage.card" role="Previous passage ending in darkness/unconsciousness"/>
   </sources>
-  <changelog-entry version="1.0.0">Initialized</changelog-entry>
-  <changelog-entry version="2.0.0">Completed Aftermath passage: 920 words showing Kira's full chatty voice as coping mechanism, discovering pilots dead and AI destroyed, processing trauma through rambling and dark humor</changelog-entry>
-  <changelog-entry version="2.0.0">Completed Aftermath passage prose - 920 words showing Kira's chatty voice emerging as coping mechanism</changelog-entry>
+  <changelog-entry>
+    <!-- Each time you change this file add a description of what AND WHY you made changes to this element -->
+  </changelog-entry>
 </passage>

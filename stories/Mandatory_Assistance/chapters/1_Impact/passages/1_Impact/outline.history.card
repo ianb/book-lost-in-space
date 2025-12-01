@@ -99,4 +99,111 @@
       <changelog-entry version="2.0.0">Completed passage outline: 5-beat crash sequence from in media res to silence, 300-400 words</changelog-entry>
     </outline>
   </version>
+  <version number="3.0.0" archived-at="2025-12-01T20:10:41.828Z">
+    <outline version="3.0.0">
+      <reasoning>
+        <!-- For instructions on filling out reasoning: ske instructions stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/outline.card -->
+      </reasoning>
+      <must-convey>
+        1. Someone (Kira) is aboard a shuttle that's crashing
+        2. The crash is violent and terrifying—real stakes
+        3. The shuttle hits atmosphere wrong and systems fail catastrophically
+        4. Kira survives the impact (transitions to next passage)
+      </must-convey>
+      <hook-questions>
+        - Will Kira survive the crash?
+        - Where is the shuttle crashing?
+        - What went wrong?
+      </hook-questions>
+      <launching-situation>
+        Shuttle entering atmosphere catastrophically - wrong angle, systems failing, impact imminent
+      </launching-situation>
+      <time-of-day>Unknown (space/atmosphere transition)</time-of-day>
+      <location-impression>
+        Inside cargo shuttle - confined space, metal, straps, cargo containers. Transition from space to atmosphere (heat, shaking, sound). Landing location unknown—just impact.
+      </location-impression>
+      <story-goal>
+        Not established yet—this is pure survival moment. Story goal (surviving on unknown planet, getting rescue) emerges in later passages.
+      </story-goal>
+      <pov-inner-life>
+        **Beats 1-2**: Kira's normal chatty internal monologue - enthusiastic, hopeful about this run maybe being different, self-aware about the pilots not caring, comparing to adventure shows. Establishing her voice before crisis.
+        **Beats 3-4**: Monologue becomes concerned, questioning (should I say something?), then frightened as crisis escalates. Voice still present but fear creeping in.
+        **Beats 5-7**: Terror strips away the chattiness. Raw fear, physical sensation, survival instinct. The voice that was so present earlier is reduced to desperate fragments. Shows what the crash does to her.
+      </pov-inner-life>
+      <outline>
+        **BEAT 1: Normal - Kira's hopes for this run** (60-80 words)
+        - Kira in cargo bay checking inventory manifest, routine work
+        - Internal monologue showing her chattiness: maybe THIS planet will be interesting, not another gray station
+        - Been two years in this job, every station identical, but she still hopes
+        - References adventure shows (compares her job to what explorers do on TV - not quite the same)
+        - Show her noticing details (cargo specialist habits), being enthusiastic despite knowing better
+        - Conveys: She's optimistic, chatty (in her head), dreams of more than this
+        - Sensory: Metal cargo bay, straps and containers, ship hum, manifest screen glow
+
+        **BEAT 2: Pilots - relationship established** (40-60 words)
+        - Intercom crackles, pilot (Jensen or Reed) barks order: "Voss, secure for approach"
+        - She responds cheerfully, they don't respond (treating her like mobile furniture)
+        - Maybe she starts to add something chatty/enthusiastic, catches herself, stops
+        - Shows: arrogant but professional pilots, her learned caution about being "too much"
+        - Tone: Brief, establishes she's alone even before the crash emotionally
+
+        **BEAT 3: Something's wrong** (40-60 words)
+        - FTL drop feels wrong - pilots' voices tense, exchanging clipped words
+        - Kira catches fragments: "...coordinates don't match..." "...not supposed to be here..."
+        - They don't explain to her (they never do) but something's clearly off
+        - Approach begins, shuttle shaking more than usual
+        - First alarm - atmospheric entry angle off
+        - Internal: Is this normal? Should I say something? They're the pilots, they know...
+        - Dread building but not panic yet
+
+        **BEAT 4: Crisis escalates** (40-60 words)
+        - Alarms cascade - navigation, life support, stabilizers
+        - Pilots' voices urgent now, professional facade cracking
+        - Kira straps in tight, cargo containers rattling around her
+        - Door between cargo bay and cockpit sealed - she's isolated
+        - Terror: "We're coming in wrong—too steep, too fast"
+        - Sensory: Red lights, metal screaming, heat building
+
+        **BEAT 5: Pilots' choice** (50-70 words)
+        - Door unseals - Jensen appears, face grim
+        - Doesn't explain, just acts: grabs Kira, moves her to the crash seat (emergency position behind reinforced bulkhead)
+        - Reed shouts something about the descent angle from cockpit
+        - Jensen straps her in tight, checks the harness twice
+        - Brief eye contact - first time he's really looked at her
+        - "Hold on, Voss." Gruff but almost... kind?
+        - They seal the door, return to cockpit to fight for the ship
+        - Shows: arrogant pilots doing the one thing they can to save her
+        - Kira realizes: they might not make it, and they know it
+
+        **BEAT 6: Terror** (30-40 words)
+        - Alone in cargo bay, can't help, can't see
+        - Hull burning, metal tearing, something crashes near her head
+        - Crystal clear thought: "I'm going to die"
+        - Age detail: "Twenty-four years old and I'm going to die in the back of a cargo shuttle"
+        - Physical: ribs screaming from straps, can't breathe
+
+        **BEAT 7: Impact and darkness** (20-30 words)
+        - Impact hits like a wall
+        - Everything—
+        - Silence
+        - Darkness
+        - Nothing
+        - (Abrupt cutoff, no processing, just unconsciousness)
+
+        **TOTAL: 280-420 words across 7 beats**
+      </outline>
+      <plot-arc-act>Act 1 (Contact &amp; Bureaucracy) - opening</plot-arc-act>
+      <concludes-arc>false</concludes-arc>
+      <use-chapters>true</use-chapters>
+      <concludes-chapter>false</concludes-chapter>
+      <sources>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/chapter-placement.card" role="Scene 1 outline"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/passage-placement.card" role="Passage objectives and key moments"/>
+        <ref ref="/stories/Mandatory_Assistance/narrative-guide.card" role="Tone and pacing guidance"/>
+      </sources>
+      <changelog-entry>
+        <!-- Each time you change this file add a description of what AND WHY you made changes to this element -->
+      </changelog-entry>
+    </outline>
+  </version>
 </versions>
