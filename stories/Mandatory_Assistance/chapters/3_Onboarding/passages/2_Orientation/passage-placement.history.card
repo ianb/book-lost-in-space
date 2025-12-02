@@ -1,0 +1,54 @@
+<!-- this file is automatically managed by ske validate; do not edit -->
+<versions>
+  <version number="1.0.0" archived-at="2025-12-02T00:50:22.312Z">
+    <changelog-entry>
+      <message>Initial version</message>
+    </changelog-entry>
+    <passage-placement version="1.0.0">
+      <reasoning-passage-placement>
+        Context from chapter-placement.card: Scene 2 (Orientation) - "Deepen bureaucratic absurdity through workplace safety training." Events: Orientation room, presentation about workplace safety (proper lifting, evacuations, harassment policies), Kira baffled, Florence appears (cart with flowers showing emotions), empathetic but flower signals Kira can't read, Buddy translating poorly, training genuinely earnest, assessment quiz. Emotional beat: Confusion → frustration → meeting Florence (brief connection) → absurdist humor. Estimated 1400-1700 words.
+
+        Previous passage: Passage 1 ended following Scout to orientation chamber, four hours of training ahead.
+
+        This passage must:
+        - Establish orientation space (living chamber for presentations)
+        - Introduce Florence as coordinator/presenter
+        - Show workplace safety training for nonexistent workplace
+        - Topics: lifting techniques, emergency evacuations, harassment policies, etc.
+        - Kira increasingly baffled - what job? What workplace?
+        - Florence's flowers showing emotions Kira can't interpret
+        - Buddy trying to translate flower signals, failing
+        - Plants genuinely believe this training helps humans
+        - Assessment quiz at end - Kira trying to pass
+        - Comedy peaks but shows earnest effort beneath
+
+        Handoff to next passage: Orientation complete, finally cleared for medical evaluation with Remedy.
+      </reasoning-passage-placement>
+      <passage-objective>
+        Deepen bureaucratic absurdity through workplace safety training that doesn't apply to Kira's situation, introduce Florence, peak the comedy while showing plants' genuine earnestness (Scene 2: Orientation)
+      </passage-objective>
+      <scene-portion>Complete scene - this passage covers all of Scene 2</scene-portion>
+      <key-moments>
+        - Entering orientation chamber - space designed for presentations
+        - Florence appears on wheeled platform, flowers displaying
+        - Safety training begins: proper lifting techniques for crash survivor
+        - Emergency evacuation procedures for... what building?
+        - Workplace harassment policies
+        - Kira's growing confusion and frustration
+        - Florence's flower colors changing with emotions
+        - Buddy failing to translate flower signals
+        - Assessment quiz - Kira trying to answer correctly
+        - Training complete, cleared for medical evaluation
+      </key-moments>
+      <character-focus>
+        Kira: Exhausted, increasingly baffled, using humor to cope, trying to pass the quiz to move forward. Florence: Elegant, proud of coordinating training, flowers expressing emotions, unaware training is absurd, genuinely wants to help humans succeed. Scout: Present, encouraging, worried when Kira gets frustrated. Buddy: Attempting to translate flower emotions, providing commentary, not helping. Holloway: Coordinating via fruiting bodies, pleased with training progress.
+      </character-focus>
+      <sources>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/chapter-placement.card" role="Scene 2 outline"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/1_Intake/passage.card" role="Previous passage ending"/>
+        <ref ref="/world/characters/Florence.card" role="Florence's character, flowers, speaking style"/>
+      </sources>
+      <changelog-entry version="1.0.0">Initialized</changelog-entry>
+    </passage-placement>
+  </version>
+</versions>

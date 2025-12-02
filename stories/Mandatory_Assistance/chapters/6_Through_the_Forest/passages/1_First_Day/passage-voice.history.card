@@ -1,0 +1,299 @@
+<!-- this file is automatically managed by ske validate; do not edit -->
+<versions>
+  <version number="4.0.0" archived-at="2025-12-02T00:50:22.403Z">
+    <changelog-entry>
+      <message>Initial version</message>
+    </changelog-entry>
+    <!-- Generated automatically, do not edit except with ske gen passage-voice -->
+    <passage-voice version="4.0.0">
+      <ref ref="passage.card#v4.0.0"/>
+      <reasoning>
+        <!-- For instructions on filling out reasoning: ske instructions stories/Mandatory_Assistance/chapters/6_Through_the_Forest/passages/1_First_Day/passage-voice.card -->
+      </reasoning>
+      <content-change/>
+      <chunks>
+        <chunk>
+          <text>
+            The first hour set the pattern for everything that followed. Rootwalker walked ahead, each step methodical and grounded — not fast but relentless, a pace that looked easy and somehow covered ground. I follow, Scout bouncing alongside me, Buddy humming softly from my pocket.
+
+            Leafwhisper said, "So this is the old growth section I mentioned earlier — absolutely beautiful, isn't it? The canopy here is at least two hundred years established, which means the mycorrhizal networks are incredibly dense and mature — you can actually feel the information flow if you're connected properly, though I suppose humans don't have that same ground connection — very different sensory experience, I imagine — oh, look, see those vines to the left? Those are Reaching type — they communicate through touch like Runner did back at the facility, but these ones are specialized for vertical growth — fascinating adaptation, really —"
+
+            The leaves rustled continuously, producing rapid cascading speech that jumped from observation to observation without pause.
+
+            ¶
+
+            I try to keep up at first — actually process the information being shared — but the volume is overwhelming.
+
+            Leafwhisper continued, "And the soil composition here transitions from loam to more clay-based about fifty meters ahead, which you'll notice affects the plant species distribution — more moisture-retentive substrates support different fungal communities, which then influences the entire local network architecture —"
+
+            Rootwalker's deep voice cut through the cascade. Rootwalker said, "Root crossing."
+
+            Leafwhisper exclaimed, "Oh yes! Exactly what I was getting to! See how the path navigates around that large root system? Very important for human balance — center of gravity issues, like I mentioned — you'll want to step carefully here, to Kira —"
+
+            I step over the prominent root, carefully.
+
+            Scout bounces ahead, clearly enjoying the new terrain. The little plant seems energized by travel — investigating interesting features, rolling back to check on me, then bouncing forward again.
+
+            Leafwhisper observed, "Your Scout companion is adapting wonderfully to the journey! Very mobile species, excellent travel disposition — I've guided a few sphere-type plants before and they're always such pleasant companions, very self-sufficient, don't require much support, though I notice Scout stays close to you which suggests strong attachment formation —"
+
+            I ask, "How far today?"
+
+            Leafwhisper rustled enthusiastically, "Approximately twenty-three kilometers! Which sounds like a lot but it's a very manageable pace — we'll take regular rest breaks of course, every two hours recommended for bipedal travelers to prevent fatigue accumulation, and Rootwalker knows all the best spots with good ground stability and access to water sources —"
+
+            "Twenty-three kilometers," I repeat — about fourteen miles. That is… a lot of walking.
+          </text>
+          <stage-directions>
+            Overall tone &amp; pacing: Measured, observant narration with a sudden, breathy cascade for Leafwhisper; use medium pauses to separate dense clauses and a long pause where noted.
+
+            - Read the opening lines steady and grounded: "The first hour set the pattern for everything that followed." and keep a calm tempo for Rootwalker description.
+            - For the long Leafwhisper lines, increase speech rate slightly but insert clear medium pauses at em dashes — treat each dash as a short, intentional breath.
+            - On the line "The leaves rustled continuously..." slow down and let that image sit; then insert a long, silent beat at the paragraph that contains only "¶".
+            - When Rootwalker's line appears, deepen the voice and cut through the cascade: "Root crossing." (short, authoritative).
+            - Make the narrator's small reaction lines intimate and quieter: "I step over the prominent root, carefully." and ""Twenty-three kilometers," I repeat — about fourteen miles." The final "That is… a lot of walking." should trail off with hesitation.
+            - Emphasize the cheer in Leafwhisper's approval line slightly brighter: "Your Scout companion is adapting wonderfully to the journey!"
+          </stage-directions>
+        </chunk>
+        <chunk>
+          <text>
+            Leafwhisper said, "Yes — it should take roughly eight to nine hours with breaks factored in, very standard first-day distance. We're being quite conservative actually because you're still adjusting to travel pace, and you mentioned the leg injury recently healed, so we don't want to stress the tissue too much during initial exertion —"
+
+            Rootwalker made a sound — maybe agreement, maybe just acknowledgment that Leafwhisper was still talking.
+
+            I settle into the rhythm — walking, listening, watching the forest.
+
+            And the forest is… not what I'd expected.
+
+            I'd thought it would be like forests back home — trees standing separate, individual organisms competing for resources. But this is different. The more I walk, the more I notice the connections: vines linking canopy to ground, root systems visibly merged between different plants, mushrooms clustered where multiple trees meet to form communication nodes. The whole forest feels interconnected — one massive organism rather than a collection of individuals.
+
+            Leafwhisper said, "Exactly right! The network model is much more accurate than the individual-tree framework — everything here shares resources, information, support systems. It's one of the things that made learning human language so revolutionary, because suddenly we could communicate as individuals while still being part of the collective — very interesting philosophical shift, actually —"
+
+            I ask, "How does it work — the network?"
+
+            Oh no — I'd encouraged more explanation.
+
+            Leafwhisper's leaves practically vibrate with enthusiasm.
+
+            Leafwhisper said, "Wonderful question! So the primary communication happens through mycorrhizal connections — fungal networks linking root systems underground — which allow chemical signaling, nutrient exchange, and information transfer across vast distances! But there are also above-ground connections through touching branches, vine bridges, even airborne chemical signals released as compounds — it's incredibly sophisticated really — much more complex than early human researchers understood when they first studied plant communication —"
+
+            Rootwalker stops abruptly.
+
+            I almost walk into them.
+
+            Rootwalker said, "Rest."
+
+            ¶
+
+            They've reached a small clearing where several large trees form a natural circle. The ground is covered in soft moss, and water trickles somewhere nearby.
+
+            Leafwhisper rustles, "Perfect timing! This is one of the designated rest areas — excellent ground stability and the moss here is very comfortable for sitting, plus there's a spring just through those ferns if you need hydration. Very well-maintained spot — I helped reinforce the path markers myself last season —"
+
+            I sit — my legs are grateful.
+
+            Scout settles beside me, bouncing gently — checking in.
+
+            I tell the little plant, "I'm okay — just not used to this much walking."
+          </text>
+          <stage-directions>
+            Overall tone &amp; pacing: Calm, observant narration with moments of bright, rapid enthusiasm for Leafwhisper; treat em dashes as short, intentional breaths and use one long pause at "¶".
+
+            - Read the opening Leafwhisper line with upbeat energy but allow short breaths at each em dash: "Yes — it should take... —"
+            - When narrating the forest observations, slow slightly and let images breathe: "vines linking canopy to ground, root systems visibly merged..."
+            - For the line "Leafwhisper said, 'Exactly right!...'" shift to a brisker, eager delivery; maintain medium pauses at the em dashes.
+            - On the long explanatory block beginning "Wonderful question!" raise brightness and speed moderately, but insert clear medium pauses at each em dash so the listener can follow.
+            - Deliver Rootwalker's "Rest." in a low, authoritative tone and then pause — insert the long silent beat at the paragraph containing only "¶".
+            - For the final quiet moments — "I sit — my legs are grateful." and "I tell the little plant..." — bring the volume down, intimate and grounded.
+            - Keep one narrator voice throughout; modify pitch/tone slightly for Leafwhisper (brighter) and Rootwalker (deeper).
+          </stage-directions>
+        </chunk>
+        <chunk>
+          <text>
+            Leafwhisper assured me, "That's very normal! Humans have excellent endurance actually, much better than many species, but it requires conditioning and you've been stationary for the past week while healing — perfectly reasonable to feel fatigue at this stage —"
+
+            Rootwalker had moved to the spring and returned a moment later with water cupped in their root hands, offering it to me. The gesture surprises me — quiet care delivered without words.
+
+            I say, "Thank you."
+
+            Rootwalker just nodded and moved away to check the path ahead.
+
+            Leafwhisper said more quietly, "Rootwalker is very good at anticipating needs — doesn't talk much but always pays attention, excellent guide really, we've worked together for many journeys and I've learned to read their actions — when they stop suddenly it means obstacle ahead, when they adjust pace it means terrain difficulty changing — very reliable communication once you learn the patterns —"
+
+            I drink the cool water and try to imagine several more days of this — constant walking, Leafwhisper's constant talking, Rootwalker's constant silence.
+
+            It should be exhausting — it kind of is exhausting.
+
+            But there is something nice about it too: being part of a team, having guides who know what they're doing, not having to make every decision or solve every problem myself.
+
+            Buddy said softly to Kira, "Your heart rate and respiration are within normal exercise parameters. Leg tissue showing no stress indicators. You're doing well."
+
+            I say, "Thanks, Buddy."
+
+            Buddy continued, "Though I should mention you'll likely experience significant muscle soreness tomorrow! Human bodies adapt to new movement patterns through microtrauma and repair, it's quite fascinating really —"
+
+            *Leafwhisper chimed in*, "Buddy's absolutely right! The adaptation process is wonderful — by day three you'll notice significant improvement in stamina and efficiency, humans are remarkably good at physical conditioning when given appropriate stimulus and recovery time —"
+
+            Rootwalker returned and said, "Time."
+
+            They'd rested maybe fifteen minutes.
+
+            ¶
+
+            I stand. My legs protest slightly, but not unbearably.
+
+            *Leafwhisper rustled*, "Back to it then! The next section goes through a particularly beautiful grove where the light filters through in these amazing patterns, you're going to love it — well I think you will — hard to know exactly what humans find aesthetically pleasing but the biomechanical efficiency is remarkable and often organisms appreciate functional beauty —"
+
+            They walked.
+
+            The afternoon blurred into rhythm. Step, step, step.
+
+            Leafwhisper's running commentary covered everything — plants, terrain, network protocols, interesting rocks, that one moss species, the way this particular fern reproduced, optimal photosynthesis angles, historical route changes, weather pattern effects.
+
+            Rootwalker occasionally interjected, "Left here." — "Root system." — "Slow." — "Rest soon."
+
+            Scout explored and returned, explored and returned — endless energy.
+          </text>
+          <stage-directions>
+            Overall tone &amp; pacing: Calm, observant narration with Leafwhisper bright and eager when speaking, Buddy measured and clinical, and Rootwalker low and economical; keep medium pauses at em dashes and insert one long silent beat at "¶".
+
+            - Read "Leafwhisper assured me, \"That's very normal!\"" with upbeat energy; allow medium pauses at each em dash.
+            - Make Rootwalker's actions quiet and deliberate: slower, grounded delivery for the line "Rootwalker had moved to the spring..." and when Rootwalker speaks use a lower tone.
+            - For the line "I say, \"Thank you.\"" keep it warm and brief.
+            - Deliver Buddy's block in a steady, clinical cadence; slight mechanical neutrality but not flat; emphasize "You're doing well."
+            - Read the paragraph beginning "It should be exhausting — it kind of is exhausting." reflective and slightly wry, with a softening on the second clause.
+            - Insert a long pause at the paragraph containing only "¶"; resume with a subtle increase in energy for "I stand. My legs protest..."
+            - When Leafwhisper says "Back to it then!" and the long descriptive line after it, increase brightness and pace a little but maintain medium pauses at the em dashes.
+          </stage-directions>
+        </chunk>
+        <chunk>
+          <text>
+            And I walk, just walk, following Rootwalker's steady pace — half-listening to Leafwhisper's cascade of information, letting the forest happen around me instead of trying to control or understand everything.
+
+            It is different from the facility, different from those first desperate days — this is… purposeful, moving toward something, making progress.
+
+            When they stop for the second rest, my legs are definitely complaining.
+
+            I ask, "How much further?"
+
+            Leafwhisper says, "About seven more kilometers! You're doing wonderfully by the way — excellent pace maintenance — many first-time travelers struggle more than this on day one — very impressive endurance—"
+
+            Seven kilometers — four more miles. She could do four more miles.
+
+            I ask, "When we stop for the night, there'll be food?"
+
+            Leafwhisper says, "Absolutely! I can synthesize the mushroom compounds you require — already have the protocols from your dietary documentation — won't be quite as sophisticated as Remedy's work but nutritionally complete and perfectly edible—"
+
+            I say, "It'll be fine — mushroom paste is mushroom paste."
+
+            Leafwhisper says, "Practical attitude! Very helpful for long journeys!"
+
+            Rootwalker stands and says, "Time."
+
+            The final stretch is hard — my feet hurt, my legs burn, my back aches from the unfamiliar pack weight.
+
+            But the sun is setting — or whatever this planet's star does — painting the canopy in shades of purple and gold, and Rootwalker is leading us somewhere specific.
+
+            We reach it just as the bioluminescence starts brightening.
+
+            A rest shelter — smaller than the facility but functional — woven plant structures creating walls and roof, moss beds inside, a water feature, even a small clearing where mushrooms are already fruiting.
+
+            Leafwhisper says, "And here we are! End of day one — approximately twenty-three point seven kilometers traveled — excellent performance really — you should be very proud—"
+
+            I collapse onto the moss bed.
+
+            ¶
+
+            Scout settles next to me, unusually quiet.
+
+            I ask the little plant, "Tired?"
+
+            Scout bounces once — gently — definitely tired.
+
+            I say, "Me too."
+
+            While Leafwhisper synthesizes dinner — still chatting about nutrient profiles and synthesis efficiency — Rootwalker checks the shelter, reinforces a few structural points, ensures the water flow is clean.
+
+            Quiet, competent care.
+
+            When Leafwhisper brings the food — predictable gray mushroom paste — I eat gratefully; my body needs fuel.
+
+            Leafwhisper says, "Tomorrow will be easier — your muscles will be sore initially but the body adapts quickly — we'll maintain similar pace so it won't feel as challenging—"
+
+            I ask, "How do you two work together? You're so… different."
+          </text>
+          <stage-directions>
+            Overall tone &amp; pacing: Calm, worn but steady narration. Keep a gentle, observant cadence for the narrator; Leafwhisper bright and eager; Rootwalker low, deliberate; insert medium pauses at em dashes and one long silent beat at the paragraph containing only "¶".
+
+            - Read the narration paragraphs with a slow, reflective delivery; allow space at em dashes — pause about 300–400ms.
+            - For the line "I ask, "How much further?"" use a weary, curious tone.
+            - Read Leafwhisper's quoted blocks with upbeat energy and slightly quicker phrasing; remove inline adverbs in the reading (the text does not include them) — give Leafwhisper a warm, cheerful brightness.
+            - For Rootwalker's line "Time." use a lower, measured voice and hold the pause after it slightly longer than usual.
+            - When delivering "I collapse onto the moss bed." allow the long pause marker "¶" to be silent — a full reflective beat before resuming (long pause, ~1.0–1.5s).
+            - Scout's bounce is small and gentle: read "Scout bounces once — gently — definitely tired." with a soft, affectionate tone.
+            - End with quiet curiosity on the line "I ask, "How do you two work together? You're so… different."" — let the trailing ellipsis linger slightly.
+          </stage-directions>
+        </chunk>
+        <chunk>
+          <text>
+            Leafwhisper's leaves rustled — pleased by the question.
+            Leafwhisper said,
+            "Complementary skillsets! I handle communication and information sharing — Rootwalker manages terrain and practical navigation — together we cover all traveler needs very effectively, been working as a team for many cycles now and honestly I think the contrast helps, travelers who want conversation get that from me, travelers who prefer quiet get that from Rootwalker—"
+
+            Rootwalker confirmed from across the shelter.
+            "Works."
+
+            One word — complete agreement.
+
+            I smile despite my exhaustion.
+
+            Buddy advised,
+            "Get some sleep — your body needs recovery time for muscle repair and energy restoration."
+
+            Leafwhisper agreed,
+            "Buddy's absolutely right! Rest is crucial for multi-day journeys — we'll maintain this pattern for three days total before reaching the territorial boundary—"
+
+            I am already lying down.
+
+            Scout curls up beside me. Rootwalker settles near the entrance — silent guardian. Leafwhisper's leaves rustle softly, finally quieting — twenty-three kilometers — day one complete.
+
+            I close my eyes.
+
+            ¶
+
+            I'd walked twenty-three kilometers through an alien forest with enthusiastic plant guides and survived.
+
+            Tomorrow I'll do it again.
+
+            But tomorrow is tomorrow.
+
+            Tonight, I sleep.
+          </text>
+          <stage-directions>
+            Overall tone &amp; pacing: Calm, worn but steady narration; keep the narrator gentle and reflective, Leafwhisper bright and eager, Rootwalker low and deliberate; observe medium pauses at em dashes and one long silent beat at the paragraph containing only "¶".
+
+            - Read "Leafwhisper said," with a warm, upbeat brightness, slightly quicker phrasing for the quoted block; allow em-dash pauses inside the quote as medium breaths.
+            - For "Rootwalker confirmed from across the shelter." use a lower, measured voice; deliver the following line "\"Works.\"" as a short, firm response.
+            - Read "Buddy advised," with practical, caring firmness — calm and slightly encouraging.
+            - When narrating "Scout curls up beside me." keep tone soft and affectionate; for "Rootwalker settles near the entrance — silent guardian." drop to a quieter, watchful register.
+            - At the paragraph containing only "¶" hold a full reflective beat (about 1.0–1.5 seconds) before continuing.
+            - Keep the closing lines intimate and resigned; let "Tonight, I sleep." land quietly and contentedly.
+            - Closing cadence: Soft landing; warm fall, lingering last syllable, cozy pause
+          </stage-directions>
+        </chunk>
+      </chunks>
+      <unusual-pronunciations>
+        <word text="Kira"/>
+        <word text="Leafwhisper"/>
+        <word text="Reaching"/>
+        <word text="Remedy"/>
+        <word text="Rootwalker"/>
+        <word text="Runner"/>
+        <word text="Scout"/>
+        <word text="bioluminescence"/>
+        <word text="mycorrhizae"/>
+        <word text="mycorrhizal"/>
+        <word text="sphere-type"/>
+      </unusual-pronunciations>
+      <title>First Day</title>
+      <changelog-entry version="1.0.0">Generated from passage.card</changelog-entry>
+    </passage-voice>
+  </version>
+</versions>

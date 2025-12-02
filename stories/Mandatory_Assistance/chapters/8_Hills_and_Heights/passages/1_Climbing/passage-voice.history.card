@@ -1,0 +1,187 @@
+<!-- this file is automatically managed by ske validate; do not edit -->
+<versions>
+  <version number="2.0.0" archived-at="2025-12-02T00:50:22.488Z">
+    <changelog-entry>
+      <message>Initial version</message>
+    </changelog-entry>
+    <!-- Generated automatically, do not edit except with ske gen passage-voice -->
+    <passage-voice version="2.0.0">
+      <ref ref="passage.card#v2.0.0"/>
+      <reasoning>
+        <!-- For instructions on filling out reasoning: ske instructions stories/Mandatory_Assistance/chapters/8_Hills_and_Heights/passages/1_Climbing/passage-voice.card -->
+      </reasoning>
+      <content-change/>
+      <chunks>
+        <chunk>
+          <text>
+            The first hill is deceptive. From the boundary clearing it looked gentle—a slope with some rocks—but now that I'm climbing it my legs are discovering all the ways "gentle slope" is a lie. The angle keeps changing; the ground shifts under my boots—loose stone that skitters away with every step—and elevation makes my lungs work harder than they did in the flat wetlands or the forest.
+
+            Oakshade—voice deep and resonant, like wind through branches—says:
+            "Steady pace. The hills reward patience, not speed."
+
+            I'm learning that Oakshade says everything like it's profound wisdom. Maybe when you're a tree, everything _is_ profound—different timescale, different perspective.
+
+            Mossmantle—voice lower, earthier, like stones settling—says:
+            "Rock to your left is loose. Step right instead. Better foundation."
+
+            Between them I'm getting philosophical big-picture advice and practical step-by-step instructions. It's actually kind of perfect.
+
+            I step right and the rock holds.
+
+            I say: "Thanks, Mossmantle."
+
+            Scout bounces past me up the slope—clearly delighted. Hills mean opportunities for them: uphill bouncing, downhill rolling, rocks to investigate. The little sphere is having the time of their life.
+
+            Oakshade observes: "Scout's adapted well to elevation. Momentum serves them differently here."
+
+            See? Profound.
+
+            But here's the thing—I'm adapting too. Not as effortlessly as Scout, but way better than I would have a week ago. My body knows the rhythm of walking all day; my pack sits balanced on my shoulders. I'm watching the terrain, reading the guides' cues, adjusting my pace without thinking about it.
+
+            In adventure shows the protagonist gets a training montage and suddenly they're competent at everything. Real life—well, real life on an alien planet being guided by sentient plants—doesn't work like that. But nine days of walking, nine days of learning to trust the process, actually does something. I'm not struggling anymore—I'm just walking.
+
+            ¶
+
+            The realization makes me smile.
+
+            Oakshade says: "You're pleased."
+
+            I say: "I'm good at this now— the walking part. I didn't expect to be good at it."
+
+            Oakshade replies: "Growth happens gradually—like rings in bark. Each day adds a layer."
+
+            Mossmantle makes a soft, textured chuckle, then says: "Oakshade always talks about rings. Moss doesn't have rings. We just spread and deepen. Different growth."
+
+            Oakshade answers serenely: "Both valid paths."
+
+            I'm starting to understand their dynamic. Oakshade thinks in years and patterns and big concepts—Mossmantle thinks in inches and immediate problems and what's right in front of you. They balance each other—tree wisdom and ground-level practicality.
+          </text>
+          <stage-directions>
+            Overall tone &amp; pacing: Calm, observant, slightly weary but content—steady pacing with small, deliberate pauses to let images land and the guides' wisdom resonate.
+
+            - Narration: read in a steady, conversational voice—clear enunciation, moderate tempo.
+            - "Oakshade—voice deep and resonant, like wind through branches—says:" : lower your pitch slightly and slow just before the quoted line; make the quoted wisdom sound measured and patient.
+            - "Mossmantle—voice lower, earthier, like stones settling—says:" : adopt an earthier, grounded tone; slightly gravelly but warm.
+            - When speaking as the narrator in quotes ("I say:" lines), soften and make it personal—small smile in the voice on the realization line.
+            - "Scout bounces past me..." : brighten the tone briefly—more energetic and playful for Scout's description.
+            - Use the em dashes in the text as medium pauses—pause about 300–400ms at each "—". Use the ellipsis "…" as a trailing, hesitant fall (500–600ms) if present.
+            - On the paragraph marked "¶" pause longer—hold for a quiet beat to let the realization settle before "The realization makes me smile."
+          </stage-directions>
+        </chunk>
+        <chunk>
+          <text>
+            Different from Leafwhisper and Rootwalker's information-versus-silence, and different from Streamwalker and Brightbloom's calm-versus-energy—every guide pair has their own language. And I'm learning to speak all of them.
+
+            The slope levels off into a plateau and I stop to catch my breath, turning to look back the way we came. The wetlands are visible in the distance—flat and glittering with water, completely different terrain. We've climbed higher than I realized.
+
+            Oakshade says, "The view expands with elevation—distance provides perspective."
+
+            I say, "It's beautiful." And it is—purple sky reflecting in the wetland pools, the darker line of the forest beyond that. Three territories, three completely different worlds.
+
+            Mossmantle says, "Another three hours to tonight's rest area—two more climbs, both steeper—water source at the campsite."
+
+            Right—beautiful views are nice, but we still have to keep walking. I take a long drink from my water supply, Scout bounces back from their exploration, and we continue.
+
+            The afternoon is all hills: up one slope, down the other side, up the next. My legs burn—not the sharp pain of injury but the deep ache of muscles working hard. It's different from forest walking or wetland slogging; everything engages—calves for pushing uphill, thighs for controlling downhill, core for balance on uneven ground.
+
+            Buddy—quiet, supportive—says, "Kira—your heart rate is elevated! This is excellent cardiovascular exercise. Did you know that hill climbing engages sixty percent more muscle groups than level terrain walking—"
+
+            I say, "I can feel that, Buddy. Physically feeling it right now."
+
+            Buddy says, "Oh—of course—apologies. You're doing very well."
+
+            I blink— that was just supportive, not a teaching moment—just genuine encouragement.
+
+            I say, "Thanks, Buddy."
+
+            Buddy is learning too.
+
+            Scout finds something interesting—a cluster of crystalline rocks that catch the light. They bounce excitedly, rolling around the formation—clearly wanting me to see it.
+
+            I say, "Very pretty, Scout."
+
+            Mossmantle says, "Those form from mineral deposits—water seeps through, leaves minerals behind—takes many cycles."
+
+            Oakshade says, "Patience crystallized—slow processes creating lasting beauty."
+
+            See—that's actually kind of lovely. Oakshade's philosophy works better when it's about rocks than about climbing.
+
+            We reach the evening campsite as the sun is setting. It's a sheltered spot between two rock formations—wind protection on three sides, flat ground for sleeping, and a small spring trickling down the rocks. Territory maintenance has been here—the ground is cleared, there's a fire pit—plants apparently like fires for light even though they don't need heat—and soft moss has been encouraged to grow in sleeping-sized patches.
+
+            I drop my pack with a groan of relief—my shoulders appreciate the break.
+          </text>
+          <stage-directions>
+            Overall tone &amp; pacing: Calm and observant, slightly weary but content—steady pacing with gentle, deliberate pauses so images and the guides' remarks can land.
+
+            - Narration: steady, conversational voice—clear enunciation, moderate tempo.
+            - "Oakshade says, \"The view expands with elevation—distance provides perspective.\"": lower your pitch slightly and slow a touch; make the line feel measured and patient.
+            - "Mossmantle says, \"Another three hours...\"": adopt a grounded, warmer tone—matter-of-fact and practical.
+            - Buddy lines: keep the voice soft and supportive—Buddy is quieter and encouraging; shift to a slightly brighter, amused tone for the quick correction "You're doing very well."
+            - When speaking as the narrator in quotes ("I say" lines), soften and make it personal—small smile in the voice on the realization lines.
+            - Use the em dash "—" as a medium pause (~300–400ms) wherever it appears and the ellipsis "…" as a trailing, hesitant fall (~500–600ms) if used.
+            - Brighten the tone briefly and add energy when describing Scout's behavior and the crystalline rocks.
+          </stage-directions>
+        </chunk>
+        <chunk>
+          <text>
+            Oakshade settles near the spring, branches spreading wide— they don't move much once they've found a spot—tree habit, I'm guessing—roots down, stay put.
+
+            Mossmantle flows across the ground toward the fire pit, starting the process of creating fuel— they can produce flammable spores or something—I don't fully understand the biology, but it works.
+
+            Scout and I claim one of the moss patches—soft, springy, comfortable. The planet's plants really do try to make things nice for travelers.
+
+            Oakshade says, "First day complete—You managed the terrain well."
+            Mossmantle adds, "Better than well—Confident steps—Good instincts—You've learned much."
+
+            I'm absurdly pleased by the compliment. I had good teachers. Multiple sets of them.
+
+            Oakshade says, "The journey teaches—We simply walk alongside."
+            Mossmantle corrects, "I tell people where to step—That's teaching."
+            Oakshade allows, "Both are true."
+
+            I eat my evening mushroom paste—still terrible, but I'm used to it now—and watch the fire. Scout curls up next to me, tired from bouncing all day. The stars are coming out, different from Earth's constellations. Sometimes I still think about home—my apartment, my job, the pilots who dismissed me. That whole life feels distant now, like it happened to someone else.
+
+            ¶
+
+            This is my life now—walking through alien territories, learning to read plant-guide dynamics, getting philosophical wisdom about tree rings and practical advice about loose rocks, sleeping on moss under purple skies with a bouncy ball plant as a companion. It's bizarre—but I'm good at it.
+
+            Oakshade says quietly, "Tomorrow we climb higher—The air thins—The path steepens—But you'll manage."
+            Mossmantle agrees, "Yes—You'll manage."
+
+            I will—I know I will—because I've learned the pattern—trust the guides, find the rhythm, keep going. And also—maybe most importantly—trust myself.
+
+            I can do this. I _am_ doing this.
+
+            Scout bounces once in their sleep—a happy bounce, content.
+
+            Yeah—We've got this.
+          </text>
+          <stage-directions>
+            Overall tone &amp; pacing: Calm, observant, slightly weary but quietly confident—steady tempo with gentle, deliberate pauses so the guides' remarks and the narrator's reflections land.
+
+            - Narration: steady, conversational voice—clear enunciation, moderate tempo.
+            - For "Oakshade says, \"First day complete—You managed the terrain well.\"": lower the pitch slightly and slow a touch; make it patient and measured.
+            - For "Mossmantle adds, \"Better than well—Confident steps—Good instincts—You've learned much.\"": warmer, encouraging, slightly brisk between beats—practical approval.
+            - For the short exchange "Oakshade says, \"The journey teaches—We simply walk alongside.\"" / "Mossmantle corrects, \"I tell people where to step—That's teaching.\"": contrast Oakshade's calm patience with Mossmantle's firmer, corrective tone; keep Oakshade softer.
+            - Pause on the single-line paragraph containing only "¶"—treat as a long, reflective silence before the narrator asserts "This is my life now." (do not read the symbol out loud).
+            - Emphasize the quiet confidence in lines like "I will—I know I will—because I've learned the pattern—..." with a growing warmth and certainty.
+            - Closing cadence: Soft landing; warm fall, lingering last syllable, cozy pause.
+          </stage-directions>
+        </chunk>
+      </chunks>
+      <unusual-pronunciations>
+        <word text="Brightbloom"/>
+        <word text="Buddy"/>
+        <word text="Kira"/>
+        <word text="Leafwhisper"/>
+        <word text="Mossmantle"/>
+        <word text="Oakshade"/>
+        <word text="Rootwalker"/>
+        <word text="Scout"/>
+        <word text="Streamwalker"/>
+      </unusual-pronunciations>
+      <title>Upward</title>
+      <changelog-entry version="1.0.0">Generated from passage.card</changelog-entry>
+    </passage-voice>
+  </version>
+</versions>

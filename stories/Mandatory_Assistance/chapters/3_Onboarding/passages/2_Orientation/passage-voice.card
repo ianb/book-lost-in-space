@@ -1,276 +1,273 @@
 <!-- Generated automatically, do not edit except with ske gen passage-voice -->
-<passage-voice version="2.0.0">
-  <ref ref="passage.card#v2.0.0"/>
+<passage-voice version="2.0.1">
+  <ref ref="passage.card#v2.0.1"/>
   <reasoning>
-    <!-- For instructions on filling out reasoning: ske instructions stories/Mandatory_Assistance/chapters/3_Onboarding/passages/2_Orientation/passage-voice.card -->
+    I reviewed the passage and looked for places that need adjustment for clear TTS narration. Items found:
+    1. Several short, staccato sentences (e.g., "Workplace safety.") that read better when marked as internal thought or smoothed into surrounding text.
+    2. Dialog lines not consistently presented with a clear speaker lead-in; I standardized all dialog to lead-in then quoted speech and put each quoted line on its own line.
+    3. A few pronoun risks where the speaker could be ambiguous (the plant/flowers). I named the speaker explicitly in lead-ins where needed.
+    4. Beats that need explicit pauses or hesitation: I preserved ellipses for hesitant dialog ("This is... Florence?") and used em dashes for medium pauses in narration where appropriate.
+    5. Some adverbs describing gestures ("encouragingly," "helpfully") were converted into clearer, plain action phrasing to avoid relying on adverbial cues in narration.
+    6. Non-text details (measurements) were already spelled out; no symbols required rewriting.
+
+    I followed the voiceover rules: merged very short sentences where appropriate, joined short adjacent paragraphs that continue the same thought, made dialog stand out on its own lines with lead-ins, converted internal thoughts to double angle quotes, and used em dashes and ellipses for pauses. I did not change story meaning or add new content.
   </reasoning>
   <content-change/>
   <chunks>
     <chunk>
       <text>
-        The orientation chamber was larger than the intake room, its vine-walled surfaces curving into something almost like a classroom. Bioluminescent patches provided steady light, and several vine-formed seats faced a flat presentation surface.
+        The orientation chamber was larger than the intake room, its vine-walled surfaces curving into something almost like a classroom—bioluminescent patches provided steady light, and several vine-formed seats faced a flat presentation surface.
 
-        Scout bounced to one of the seats and settled—an encouraging motion.
+        Scout bounced into one of the vine seats and settled.
 
-        Kira lowered herself down; her leg had moved from throbbing to a steady ache that colored everything. How many hours until the temporary treatment wore off? How much longer until this was over?
+        Kira lowered herself into another seat; her leg had progressed from throbbing to a steady ache that colored everything. «How many hours until the temporary treatment wore off? How much longer until this was over?»
 
-        A sound drew her attention—smooth mechanical rolling. A plant entered the chamber on a wheeled platform.
+        A sound drew her attention—smooth mechanical rolling.
 
-        The platform itself was remarkable: three wheels arranged for stability, built from what looked like salvaged materials yet operating with impressive smoothness. A thick central stem rose, branching into an array of enormous flowers—each bloom easily fifteen centimeters across, pale cream with petals fully open.
+        A plant entered the chamber on a wheeled platform.
 
-        Delicate tendrils extended from the main stem to manipulate a joystick embedded in the platform. The movements were precise, elegant even. The whole setup rolled to the front of the chamber and came to a perfectly controlled stop.
+        The platform itself was remarkable: three wheels arranged for stability, built from what looked like salvaged materials but operating with impressive smoothness. A thick central stem rose from it and branched into an array of enormous flowers—each bloom easily fifteen centimeters across. The flowers were currently a pale cream color, petals fully open in an impressive display.
 
-        A voice, careful and refined, came from the flowers—
+        Delicate tendrils extended from the main stem to manipulate a joystick embedded in the platform; the movements were precise, elegant. The whole setup rolled to the front of the chamber and came to a perfectly controlled stop.
 
-        "Good evening! I'm Florence. I'll be coordinating your workplace safety orientation today."
+        Florence said, "Good evening! I'm Florence. I'll be coordinating your workplace safety orientation today."
 
         The flowers shifted subtly—petals repositioning, color bleeding toward pale yellow.
 
         Kira asked, "This is... Florence?"
 
-        Florence replied, "Yes." The flowers deepened slightly to a warmer yellow—"I'm very pleased to assist with your onboarding process. Shall we begin?"
+        Florence said, "Yes—I'm very pleased to assist with your onboarding process. Shall we begin?"
 
-        Scout bounced once—encouragement or approval, hard to say.
+        Scout bounced once.
 
-        From a fruiting body near the wall, Holloway's voice emerged—
+        Holloway said from a fruiting body near the wall, "Florence has prepared a comprehensive presentation on workplace safety fundamentals. Please give your full attention!"
 
-        "Florence has prepared a comprehensive presentation on workplace safety fundamentals. Please give your full attention!"
+        «Workplace safety.»
 
-        ¶
+        Kira had crashed from space; her ship had gone down in a catastrophic systems failure. She was stranded on an alien planet. And they were going to teach her workplace safety.
 
-        "Workplace safety."
+        Florence said, "Let's start with proper lifting techniques—this is essential for preventing workplace injuries."
 
-        Kira had crashed from space. Her ship had exploded. She was stranded on an alien planet. And they were going to teach her workplace safety.
-
-        Florence said, "Let's start with proper lifting techniques." The flowers shifted to a focused cream tone—"This is essential for preventing workplace injuries."
-
-        A series of images appeared on the presentation surface, pressed or grown into bark, showing simplified figures in various lifting postures.
+        The flowers shifted to a focused cream tone. Images appeared on the presentation surface—pressed or grown into bark—showing simplified figures in various lifting postures.
 
         Florence continued, "When lifting heavy objects, it's crucial to bend at the knees, not the waist. Keep your back straight, core engaged, and lift with your legs."
 
-        Kira stared.
+        Kira stared and asked, "What objects am I lifting?"
 
-        Kira asked, "What objects am I lifting?"
+        Florence replied, "Workplace materials, of course—equipment, supplies, documentation." The flowers flickered briefly orange—confusion or concern? "The principles apply to any lifting scenario."
 
-        Florence answered, "Workplace materials, of course—equipment, supplies, documentation." The flowers flickered briefly orange—was that confusion or concern?—"The principles apply to any lifting scenario."
-
-        Kira said, "I don't have a workplace—I crashed here."
-
-        Buddy interjected helpfully—*"Exactly why this training is so important!"*
+        Buddy interjected, sounding helpful, "You'll need to understand proper safety protocols for your new environment."
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: Calm, slightly bemused narration with clear distinctions for each speaker; keep the pacing steady but allow short pauses for comic beats and surprise.
+        Overall tone and pacing: Calm, mildly bemused, with small moments of hesitation and dry irony; keep narration steady, and let the plant-voices be polite and slightly formal.
 
-        - Narration: read descriptive lines in a neutral, observant tone—e.g., "The orientation chamber was larger than the intake room...".
-        - Pause: take a medium pause at each em dash—treat "—" as ~300-400ms; particularly after "settled—an encouraging motion." and "The whole setup rolled to the front of the chamber and came to a perfectly controlled stop."
-        - Dramatic pause: hold a longer beat on the isolated paragraph "¶" before the line "Workplace safety." to let the absurdity land.
-        - Florence: speak refined and measured; glide slightly on vowels in florid lines—refer to the line "A voice, careful and refined, came from the flowers—"Good evening! I'm Florence...".
-        - Kira: skeptical, weary; on questions like "What objects am I lifting?" use a doubtful, clipped rising tone.
-        - Holloway: authoritative and announcement-like—refer to the line starting "From a fruiting body near the wall, Holloway's voice emerged—"Florence has prepared...".
-        - Buddy: upbeat and emphatic; make "Exactly why this training is so important!" louder and more energetic (the text is *bold*).
+        - Narration: read the descriptive lines in a neutral, observant tone—steady pace, moderate volume.
+        - When you reach internal thoughts, read the double angle quotes as quiet, inward lines: "«Workplace safety.»" and "«How many hours...?»"—slightly softer, spaced.
+        - Dialog lines: start each quoted line on its own with a slight brightening of tone for the speaking character. Use a clear lead-in (e.g., "Florence said,") then deliver the quote.
+        - Hesitation: for "This is... Florence?" use a small pause at the ellipsis before finishing the question.
+        - Em dashes: pause briefly at em dashes—about 300–400 ms—to separate clauses naturally.
+        - Scout's bounce and similar small actions: indicate them in the narration with a lighter, almost playful cadence for "Scout bounced..." and "Scout bounced once."
       </stage-directions>
     </chunk>
     <chunk>
       <text>
-        Florence's flowers shifted to what might have been pleased yellow again.
-
-        Florence: "Precisely. Now, observe the correct posture..."
+        Florence's flowers shifted back to a pleased yellow. Florence said, "Precisely. Now, observe the correct posture..."
 
         The demonstration continued — proper hand placement, weight distribution, and team-lifting procedures for objects over fifteen kilograms.
 
         Kira's leg throbbed in time with her heartbeat.
 
-        Buddy, quietly: "I believe pale yellow indicates satisfaction — or possibly anticipation of photosynthesis. The correlation is unclear."
+        Buddy offered quietly, "I believe pale yellow indicates satisfaction — or possibly anticipation of photosynthesis. The correlation is unclear."
 
         Kira muttered, "You're not helping."
 
-        Florence: "Emergency evacuation procedures. In the event of fire, earthquake, or other facility emergency, it's essential to know your nearest exit routes."
+        Florence moved smoothly to the next section — joystick controls precise. Florence said, "Emergency evacuation procedures. In the event of fire, earthquake, or other facility emergency, it's essential to know your nearest exit routes."
 
         More images appeared — simplified floor plans with arrows and exit markers.
 
-        Florence: "Familiarize yourself with at least two evacuation routes from any location. Never use elevators during an emergency. Proceed calmly to the designated assembly point."
+        Florence said, "Familiarize yourself with at least two evacuation routes from any location. Never use elevators during an emergency. Proceed calmly to the designated assembly point."
 
-        Kira asked, "What building? You grew this place — it's alive. It doesn't have elevators. What exactly are we evacuating from?"
+        Kira asked to Florence, "What building? You grew this place. It's alive. It doesn't have elevators. What exactly are we evacuating from?"
 
-        Florence's flowers shifted toward light orange — petals tightened slightly.
+        Florence's flowers shifted toward light orange; petals tightened slightly.
 
-        Buddy, softly: "I think that's agitation — or possibly nutrient deficiency. Difficult to determine without baseline chlorophyll readings."
+        Buddy observed, "I think that's agitation — or possibly nutrient deficiency. Difficult to determine without baseline chlorophyll readings."
 
-        Florence (controlled, slightly terse): "These procedures ensure safety in any facility environment. One must be prepared for various emergency scenarios."
+        Florence's careful diction grew slightly terse. Florence said, "These procedures ensure safety in any facility environment. One must be prepared for various emergency scenarios."
 
-        Kira pressed the question again, "But what scenarios? The facility is a living plant. If there's an emergency, what am I evacuating from?"
+        Kira pressed, "But what scenarios? The facility is a living plant. If there's an emergency, what am I evacuating from?"
 
         The flowers deepened to a more pronounced orange.
 
-        Buddy: "I believe we've moved into definite irritation."
+        Buddy said, "I believe we've moved into definite irritation."
 
-        Scout bounced sympathetically toward Kira, then toward Florence, then settled in an anxious middle position.
+        Scout bounced sympathetically toward Kira, then toward Florence, and settled in an anxious middle position.
 
-        Holloway (gently): "Let's move forward — workplace harassment policies next!"
+        Holloway suggested gently from the wall, "Let's move forward — workplace harassment policies next!"
 
-        Florence's flowers gradually shifted back toward cream as she regained composure.
-
-        Florence: "Yes. Thank you, Holloway."
+        Florence's flowers gradually shifted back toward cream as she regained composure. Florence said, "Yes. Thank you, Holloway."
 
         The presentation continued — workplace harassment policies, what constituted inappropriate behavior, proper reporting procedures, and the importance of maintaining professional boundaries and respectful communication.
 
         It was presented with the same earnest thoroughness as everything else.
 
+        Kira had exactly zero colleagues, no workplace, no professional relationships to maintain boundaries in.
+
+        Kira said quietly, _This is insane._
+
+        Florence asked, "What was that?" Her flowers shifted — pink now, tinged with concern.
+
+        Kira replied, "Nothing. Continue."
+
+        The training went on. And on.
+
         ¶
 
-        And Kira had exactly zero colleagues. No workplace. No professional relationships to maintain boundaries in.
+        Fire safety, ergonomic workspace setup, proper documentation procedures, break room etiquette — the list kept coming.
 
-        Just her, an overeager AI, and a collection of well-meaning bureaucratic plants.
-
-        Kira said quietly, "This is insane."
-
-        Florence's flowers shifted — pink now, tinged with concern.
-
-        Florence: "What was that?"
-
-        Kira: "Nothing. Continue."
-
-        The training went on — and on — fire safety, ergonomic workspace setup, proper documentation procedures, break room etiquette.
-
-        Kira's exhaustion moved past tired into something almost transcendent. She was receiving workplace safety training from a flowering plant on wheels — while injured, on an alien planet, after her ship exploded.
+        She was receiving workplace safety training from a flowering plant on wheels while injured, on an alien planet, after her ship crashed.
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: Calm, slightly bemused narration with clear speaker identification; keep a steady pace, allow medium pauses for comic beats and a longer beat for absurdity.
+        Overall tone &amp; pacing: Calm, mildly bemused, and quietly weary; keep narration steady and let small moments of irritation or concern brighten or tighten the voice briefly.
 
-        - Narration: Read descriptive lines with a neutral, observant tone—e.g., "The demonstration continued — proper hand placement, weight distribution...".
-        - Em dashes: Treat each "—" as a medium pause (~300–400ms); use them inside sentences for rhythm and small beats.
-        - Long pause: Hold a noticeably longer beat on the isolated paragraph "¶" before "And Kira had exactly zero colleagues." to let the absurdity land.
-        - Florence: Refined and measured; slightly colder when terse—refer to lines beginning "Florence:" for this quality.
-        - Kira: Skeptical and weary; questions should have a clipped rising tone—refer to lines beginning "Kira" or "Kira asked".
-        - Buddy: Soft, observational tone when marked "quietly" or "softly"; a slight curious inflection on scientific lines.
-        - Holloway: Gentle but announcement-like for the training prompts—read "Holloway (gently): \"Let's move forward — workplace harassment policies next!\"" with light authority.
+        - Read descriptive narration in a neutral, observant tone—moderate pace, even volume.
+        - For each dialog line, use a clear lead-in (e.g., "Florence said,") then deliver the quote on its own line with a slight change of color or brightness for the speaker.
+        - Pause at em dashes "—" for a medium pause (~300–400 ms) to separate clauses (for example, in "The demonstration continued — proper hand placement...").
+        - Use the paragraph containing only "¶" as a long, dramatic pause before the final list of topics—hold about 700–900 ms there.
+        - Read "Kira said quietly, _This is insane._" softer and slightly narrower in pitch to convey disbelief and exhaustion.
+        - For small actions ("Scout bounced sympathetically..."), adopt a lighter, almost playful cadence; for mechanical or formal lines (procedures, policies), keep a slightly clipped, matter-of-fact delivery.
+        - When a speaker is identified as off-screen or from a device ("Holloway suggested gently from the wall"), add a faintly distant or echoing texture in tone while keeping clarity.
       </stage-directions>
     </chunk>
     <chunk>
       <text>
         This was her life now.
 
-        The flowers kept shifting colors—yellows when Florence was pleased with a section, creams when focused, occasional oranges when Kira asked questions that disrupted the flow, soft pinks that might have been concern or empathy or digestive processes—who could possibly know.
+        The flowers kept shifting colors—yellows when Florence was pleased with a section, creams when she was focused, occasional oranges when Kira asked questions that disrupted the flow, soft pinks that might have been concern or empathy or digestive processes—who could possibly know.
 
-        Buddy said, "The pale pink suggests compassion. Or potentially flowering readiness. The literature is inconsistent."
+        Buddy said, "The pale pink suggests compassion — Or potentially flowering readiness. The literature is inconsistent."
 
         Kira said, "Please stop helping."
 
-        Finally—*finally*—Florence rolled to what looked like a concluding position.
+        _Finally_ — Florence rolled to what looked like a concluding position.
 
-        Florence said, "That completes the core content."
+        Florence said, "That completes the core content — Now we'll proceed to the assessment."
 
-        Her flowers displayed in full cream glory—clearly proud. "Now we'll proceed to the assessment," she added.
+        Kira repeated, "Assessment."
 
-        Holloway said, "A brief quiz to ensure comprehension! Standard protocol!"
+        Holloway said cheerfully, "A brief quiz to ensure comprehension! — Standard protocol!"
 
         Of course there was a quiz.
 
         Florence produced bark sheets with questions pressed into them—multiple choice, apparently.
 
-        "You'll have twenty minutes," Florence said. "Passing score is seventy percent."
+        Florence said, "You'll have twenty minutes — Passing score is seventy percent."
 
         Kira took the sheets. Scout rolled closer, peering at the questions with what felt like solidarity.
 
         Question One: When lifting objects over fifteen kilograms, you should:
-        A) Bend at the waist and use your back muscles.
-        B) Bend at the knees and lift with your legs.
-        C) Ask for assistance.
-        D) B and C.
+        Option A: Bend at the waist and use your back muscles.
+        Option B: Bend at the knees and lift with your legs.
+        Option C: Ask for assistance.
+        Option D: B and C.
 
-        She chose D—that had been covered extensively.
+        Fine. D. That had been covered extensively.
 
         Question Two: In the event of a facility fire, you should:
-        A) Use the elevator to evacuate quickly.
-        B) Proceed to the nearest exit calmly.
-        C) Return to your workstation for belongings.
-        D) Hide in a supply closet.
+        Option A: Use the elevator to evacuate quickly.
+        Option B: Proceed to the nearest exit calmly.
+        Option C: Return to your workstation for belongings.
+        Option D: Hide in a supply closet.
 
-        B. Obviously—despite there being no elevators, no workstation, and Kira wasn't even sure what qualified as a "supply closet" in living-plant architecture.
+        B. Obviously — despite there being no elevators, no workstation, and she wasn't even sure what qualified as a "supply closet" in living plant architecture.
 
         Question Three: If you witness workplace harassment, proper procedure is to:
-        A) Ignore it.
-        B) Document the incident and report to your supervisor.
-        C) Confront the harasser aggressively.
-        D) Leave the workplace permanently.
+        Option A: Ignore it.
+        Option B: Document the incident and report to your supervisor.
+        Option C: Confront the harasser aggressively.
+        Option D: Leave the workplace permanently.
 
-        B. She supposed—document and report, in a theoretical workplace she didn't have, involving colleagues who didn't exist.
+        B. She supposed — in a theoretical workplace she didn't have, involving colleagues who didn't exist.
 
-        The questions continued: twenty of them, covering every absurd topic from the training.
-
-        Her leg hurt; she wanted water and to lie down.
+        The questions continued—twenty of them—covering every absurd topic from the training.
 
         ¶
+
+        Her leg hurt. She wanted water. She wanted to lie down.
 
         She wanted this day to end.
 
         But she answered every question, applying the ridiculous logic she'd just been taught.
 
-        Florence announced, "Time."
+        "Time," Florence announced after what felt like an eternity but was probably actually twenty minutes.
 
-        Several fruiting bodies sprouted around the chamber—Holloway reviewing her answers somehow.
+        Several fruiting bodies sprouted around the chamber — Holloway reviewing her answers somehow.
 
         Scout bounced anxiously.
 
         Kira waited, past exhaustion into a kind of hollow patience.
 
-        Holloway said, "Eighteen correct out of twenty. Ninety percent! Excellent work!"
+        Holloway said, "Eighteen correct out of twenty — *Ninety percent!* Excellent work!"
 
-        Florence's flowers bloomed into brilliant yellow—genuine pleasure.
+        Florence's flowers bloomed into brilliant yellow — genuine pleasure.
 
-        Florence said, "Wonderful! You've successfully completed orientation. You're now cleared for medical evaluation!"
+        Florence said, "Wonderful! You've successfully completed orientation — You're now cleared for medical evaluation!"
 
-        *Finally.*
+        Finally. _Finally_.
 
         Kira stood, ignoring her leg's sharp protest.
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: Even, slightly weary narration with small comic beats; keep a steady pace, use medium pauses for em dashes and a full long pause at the pilcrow (¶).
+        Overall tone &amp; pacing: Even, quietly weary with mild bemusement; let the narrator sound steady and observational, tightening briefly on irritation or relief.
 
-        - Read narration in a calm, observant voice—slightly world-weary for Kira's perspective.
-        - "Buddy said, \"The pale pink suggests compassion...\"" — soft, curious, scientific tone for Buddy.
-        - "Kira said, \"Please stop helping.\"" — clipped, tired, slightly impatient.
-        - "Florence said..." — refined, measured, politely authoritative; when Florence's flowers react, add a touch of restrained pride.
-        - "Holloway said..." — announcement-like and cheerfully brisk; treat the quiz announcement as upbeat and a bit absurd.
-        - On the paragraph containing only "¶" pause for a longer beat (about 1.0–1.5s) before continuing to "She wanted this day to end." to let the fatigue land.
-        - Emphasize *Finally.* as a short, relieved, slightly breathy release—read it a touch more loudly than surrounding narration.
+        - Read narration in a neutral, moderately paced voice—calm and slightly tired.  
+        - For dialog, always use a lead-in like "X said," then put the quoted line on its own line; drop into a slightly brighter or narrower color for quoted lines.  
+        - Read "Buddy said, \"The pale pink suggests compassion...\"" with a tentative, explanatory tone.  
+        - Read "Kira said, \"Please stop helping.\"" with clipped annoyance—short, clear.  
+        - For Florence's multi-beat dialog, keep it together—use a proud, procedural tone for "That completes the core content..." and a firmer, managerial tone for the assessment lines.  
+        - When Holloway speaks (lines labeled "Holloway said"), add a faintly cheerful, slightly distant delivery—bright and officious for the quiz announcement and celebratory for the score.  
+        - Pause at each em dash (—) for a medium pause (~300–400 ms). When you reach the paragraph that contains only "¶", hold a longer, dramatic pause (~700–900 ms).  
+        - Read the quiz questions clearly and evenly; slow slightly on option letters ("Option A:") so listeners can follow the choices.
       </stage-directions>
     </chunk>
     <chunk>
       <text>
-        She made herself say"Thank you."
+        She made herself say,
+        "Thank you."
 
-        Because despite everythingthe absurdity, the inappropriateness, the sheer bureaucratic madnessthey had tried; they genuinely thought this training helped humans. Florence had coordinated it carefully, proudly, and Holloway had prepared materials. They were trying so hard.
+        Because despite everything—the absurdity, the inappropriateness, the sheer bureaucratic madness—they had tried. They genuinely thought this training helped humans. Florence had coordinated it carefully, proudly. Holloway had prepared materials.
 
-        Florence said, flowers still brilliant yellow"My pleasure entirely. Welcome to our facility, Kira. I do hope you'll find your time here... productive."
+        They were trying so hard.
 
-        Productiveright.
+        Florence said, flowers still brilliant yellow:
+        "My pleasure entirely. Welcome to our facility, Kira. I do hope you'll find your time here... productive."
 
-        Scout bounced toward another doorwayleading deeper into the facility; medical evaluation next.
+        Productive—right.
 
-        Finally.
+        Scout bounced toward another doorway—leading deeper into the facility.
 
-        She could make it a little longerhad to.
+        Medical evaluation next—finally.
+
+        She could make it a little longer—had to.
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: Calm, weary third-person narration with small melodic comic beats; keep a steady, moderately slow pace and let the short lines breathe.
+        Overall tone &amp; pacing: Even, quietly weary with a mild bemused edge; tighten slightly on the small lifts of relief and finish with quiet, resolute determination.
 
-        - Read "She made herself say"Thank you."" with a quiet, restrained voice—forced politeness, slight inward strain.
-        - For the block beginning "Because despite everything..." keep a steady, explanatory cadence—sober, slightly incredulous about the bureaucracy.
-        - Emphasize a small proud warmth for the names: "Florence" and "Holloway" when listing their contributions—gentle pride, but still world-weary.
-        - Lead into Florence's line with a refined, measured tone for "Florence said, flowers still brilliant yellow" then place the quoted speech on its own line and read it with polite, slightly enthusiastic formality; stylize the ellipsis in "time here... productive" as a trailing hesitation.
-        - Read "Productiveright." as a single beat—dry, skeptical, with the second half slightly dismissive.
-        - "Scout bounced toward another doorwayleading deeper into the facility; medical evaluation next." should be brisker—movement-forward, matter-of-fact.
-        - Make "Finally." a short, relieved, slightly breathy release—give it a touch more volume and a quick exhale afterward.
-        - Close with: Soft landing; warm fall, lingering last syllable, cozy pause
+        - Read "She made herself say," in a flat, forced polite tone—dry and obliged. Drop slightly narrower color for the quoted line on the next line: "Thank you."—quiet, clipped, resigned.
+        - Read the descriptive sentence starting "Because despite everything—" in a steady, moderately paced narrator voice; pause at the em dash (—) for a medium breath.
+        - For "They were trying so hard." use a sympathetic, almost pitying tone—gentle emphasis on "trying." Pause briefly after the sentence.
+        - Read the lead-in "Florence said, flowers still brilliant yellow:" with a managerial, slightly brighter timbre. Then deliver the quoted block with a proud, procedural color—keep the ellipsis as a hesitating trailing breath in "here... productive."
+        - Read "Productive—right." dryly, with a short ironic snap on "right." Pause at the em dash.
+        - For "Scout bounced toward another doorway—leading deeper into the facility." maintain neutral observation; treat the em dash as a smooth, medium pause.
+        - Read "Medical evaluation next—finally." with a small lift of relief on "finally." Pause, then move into the final line "She could make it a little longer—had to." with a quiet, determined resolve.
+        - Plain closing cadence; clean fall, short pause
       </stage-directions>
     </chunk>
   </chunks>
   <unusual-pronunciations>
+    <word text="Florence"/>
     <word text="Holloway"/>
     <word text="bioluminescent"/>
-    <word text="chlorophyll"/>
-    <word text="photosynthesis"/>
   </unusual-pronunciations>
   <title>Orientation</title>
   <changelog-entry version="1.0.0">Generated from passage.card</changelog-entry>

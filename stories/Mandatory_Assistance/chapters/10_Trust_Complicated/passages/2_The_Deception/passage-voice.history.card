@@ -1,0 +1,314 @@
+<!-- this file is automatically managed by ske validate; do not edit -->
+<versions>
+  <version number="2.0.0" archived-at="2025-12-02T00:50:22.069Z">
+    <changelog-entry>
+      <message>Initial version</message>
+    </changelog-entry>
+    <!-- Generated automatically, do not edit except with ske gen passage-voice -->
+    <passage-voice version="2.0.0">
+      <ref ref="passage.card#v2.0.0"/>
+      <reasoning>
+        <!-- For instructions on filling out reasoning: ske instructions stories/Mandatory_Assistance/chapters/10_Trust_Complicated/passages/2_The_Deception/passage-voice.card -->
+      </reasoning>
+      <content-change/>
+      <chunks>
+        <chunk>
+          <text>
+            The evening gathering feels like a trial. Everyone assembles in the common area — Holloway at the center with Elder Twist's pot beside them, Runner coiled tightly, Remedy's edges contracted, Velvet spread thin and watchful; Scout presses against my leg, anxious, and Florence sits alone on the opposite side, her wheeled platform positioned in what feels like an accusatory spotlight.
+
+            The absence of Elder Twist on Florence's back is stark; she looks smaller without the elder, more vulnerable.
+
+            Holloway speaks first.
+
+            [Holloway — controlled, tense]
+            Holloway says, "We need to understand the scope of this deception. Florence has admitted that most of Elder Twist's 'wisdom' came from her own thoughts, not the elder. We need to know: how much? How long? What advice was real?"
+
+            [longer beat]
+            All the plants say at once, "*YES.*"
+
+            [Holloway — steady]
+            Holloway asks, "The dietary guidance when Kira first arrived — when you said Elder Twist counseled patience with unknown nutritional needs. Was that real?"
+
+            [Florence — quiet]
+            Florence replies, "No — that was mine. Elder Twist had no opinion on human nutrition."
+
+            [Runner — probing]
+            Runner says, "The boundary dispute with Territory Two — last month. You said Elder Twist suggested compromise through shared maintenance."
+
+            [Florence — blunt]
+            Florence admits, "Mine."
+
+            [Remedy — precise]
+            Remedy says, "The resource allocation plan — the one that prevented the supply shortage —"
+
+            [Florence — interrupted, quick]
+            Florence: "Mine."
+
+            [Velvet — simple]
+            Velvet asks, "All of it?"
+
+            [Florence — defensive]
+            Florence says, "Not ALL. Elder Twist does speak. Sometimes. The fragments are real. But they're… slow. Cryptic. Not immediately helpful. So I expanded them. Made them relevant. Turned wisdom into actionable guidance."
+
+            [Holloway — flat]
+            Holloway says, "You mean you made things up."
+
+            [Florence — forceful]
+            Florence snaps, "I provided good advice! Look at the outcomes — the dietary guidance helped, the boundary dispute resolved peacefully, we avoided the supply shortage! My counsel was *SOUND.*"
+
+            [Runner — constricting vines, low]
+            Runner says, "Your counsel that you falsely attributed to an elder."
+
+            [Florence — rising]
+            Florence: "Because you wouldn't have listened otherwise! When would any of you have valued *my* tactical judgment? Florence the mobile platform, Florence who can't even stay upright on rough terrain, Florence who needs help for everything? But Elder Twist — ah, Elder Twist commands respect. Elder Twist is ancient and wise. So I gave you wisdom you'd actually hear."
+
+            The accusation sits heavy in the room.
+
+            [Holloway — uncertain]
+            Holloway says, "That's not fair."
+
+            [Florence — challenging]
+            Florence asks, "Isn't it? Tell me honestly — if I had offered those same suggestions as *my* thoughts, would you have taken them as seriously?"
+
+            ¶
+
+            Silence.
+
+            [Florence — bitter]
+            Florence says, "Exactly. I knew what needed to be done. I had good instincts. But good instincts from Florence weren't enough. They needed to come from someone who mattered."
+
+            [me — soft]
+            I say, "You matter."
+
+            [Florence — swivel, sharp]
+            Florence's platform swivels toward me. Florence asks, "Do I? Or am I just the one who carries the elder who matters?"
+          </text>
+          <stage-directions>
+            Overall tone: tense, measured, with moments of sharpness and a long, heavy silence that lets accusations settle.
+
+            - Read the opening description steadily and deliberately; keep a mild reserve — the narrator is observing.
+            - For "Holloway says, 'We need to understand...'" use a controlled, slightly strained tone — brief medium pause before the quote.
+            - When the plants answer together, make "*YES.*" loud and immediate — one emphatic beat.
+            - Use bracketed stage directions as cues for shifts: e.g., before "Florence replies..." soften the voice; before "Florence snaps..." increase intensity.
+            - Treat the paragraph containing only "¶" as a long, pregnant silence — hold before continuing.
+            - For Florence's longer defenses, let frustration build — move from tight to more heated across those lines.
+            - End the final two lines ("You matter." / Florence's question) as a quiet, intimate exchange — the narrator soft, Florence sharp but small.
+          </stage-directions>
+        </chunk>
+        <chunk>
+          <text>
+            Holloway interrupts — "You're deflecting. This isn't about whether we valued you enough. This is about you lying to us — repeatedly. For how long, Florence? When did this start?"
+
+            Florence doesn't answer immediately.
+
+            Remedy says — slowly, making connections — "When Kira arrived the first 'Elder Twist' guidance about human care. That was weeks ago. You've been doing this for weeks."
+
+            Florence admits — "Longer. The fabrications started before Kira. I just refined the technique with her arrival more crises, more need for guidance, more opportunities to be useful."
+
+            Runner says — "Useful through deception."
+
+            Florence counters — *"Useful DESPITE limitations."* "I can't move fast like Scout. I can't reach everywhere like Runner's underground networks. I can't process information like Remedy's distributed cognition. I can't maintain growth like Velvet. I'm slow immobile without wheels dependent on others for basic tasks. But I can THINK. I can analyze situations and provide sound tactical advice. Carrying Elder Twist gave me value—or I thought it did. Until I realized the value was the elder, not me."
+
+            There's pain in Florence's voice now real pain, not just defensiveness.
+
+            Holloway says — "So you created false value. Pretended Elder Twist's authority was yours."
+
+            Florence corrects — wheeling slightly, agitated — "I created REAL value using borrowed authority. The advice helped! The outcomes were good! Does the source actually matter if the guidance works?"
+
+            Holloway says firmly — "Yes. The source matters. Trust requires honesty. You violated that."
+
+            Florence argues — "We just spent the last week learning that authority doesn't actually have better answers! Elder Heartwood failed us. The H R manuals failed. We learned to trust our own judgment instead of waiting for wisdom from above. And now you're angry that I what, proved that point first? Showed you that wisdom doesn't require authority?"
+
+            Remedy says quietly — "That's not what you did. You didn't show us wisdom without authority. You created false authority to hide behind."
+
+            Florence — wheeling back and forth, voice rising — "Because true authority failed! The first human died because you had no framework. You found the H R manuals and they didn't work. You consulted Elder Heartwood and got irrelevant ecosystem philosophy. Every authority you turned to FAILED. But my guidance—my fabricated, unauthorized guidance—actually helped!"
+
+            Runner repeats — "While lying to us."
+
+            Florence shouts — *"I was TRYING TO HELP!*"
+
+            ¶
+
+            Florence says — quieter now — "I was trying to help. I saw what needed to be done. I knew how to solve the problems. But I didn't trust that you'd listen to me, so I gave you something you would listen to — an elder's voice. And it worked. Everything I advised it worked!"
+
+            Velvet says simply — "It's still lying."
+
+            Florence makes a sound like breaking wood.
+          </text>
+          <stage-directions>
+            Overall tone &amp; pacing: Tense and accusatory, rising into heated defensiveness, then collapsing into a long, stunned silence — read steadily and let the accusations land between beats.
+
+            - Read the opening line with controlled sharpness; put a medium pause before the quoted accusation in "Holloway interrupts — \"You're deflecting...\"".
+            - For Remedy's line, slow the cadence and make the connection audible at "When Kira arrived…" — a subtle, thoughtful pace.
+            - When Florence begins defenses, let frustration build — increase intensity across her longer block; use short, punchy emphasis on *THINK* and *REAL*.
+            - Treat the line "I was TRYING TO HELP!" as a loud, desperate explosion — bold and forceful; then drop immediately into a long silence (the paragraph with only "¶").
+            - After the silence, soften to a quieter, pleading tone for "I was trying to help..." and keep the following sentences measured but earnest.
+            - For Velvet's line, deliver it flat, direct, and devastating — no flourish.
+            - End the chunk with the almost-sonic, physical cue: "Florence makes a sound like breaking wood." — read as an observation, not dialogue.
+          </stage-directions>
+        </chunk>
+        <chunk>
+          <text>
+            Holloway's fruiting bodies droop.
+
+            Holloway says, "Florence, I understand that you wanted to help. I even believe that your advice was sound. But you broke our trust. We thought we had guidance from an elder, and it was just you  hiding, pretending."
+
+            Florence insists  voice draining  "My advice was good."
+
+            Holloway agrees, "Your advice was good that's not the problem. The problem is that you lied about where it came from you made us trust something false."
+
+            Florence says  pleading  "The trust wasn't false! The trust in the advice was valid it worked! The only false thing was the attribution!"
+
+            Remedy says, "Attribution matters. Identity matters. When you speak as yourself or through borrowed authority that's the difference between authenticity and manipulation."
+
+            Florence goes very still.
+
+            Florence says  quiet  "I'm not a manipulator."
+
+            Runner says  gently, matter-of-factly  "But you manipulated us."
+
+            ¶
+
+            The truth of it lands. I can see Florence processing, realizing that regardless of intent, that's what she did manipulated trust through false attribution.
+
+            Florence says  small  "I just wanted to be useful. I wanted to matter. Carrying Elder Twist made me matter. Providing Elder Twist's wisdom made me valuable. Without that what am I?"
+
+            I say, "You're Florence. With good tactical instincts and sound judgment."
+
+            Runner adds, "Which nobody trusts now."
+
+            Holloway asks Florence directly, "Can you blame us? You fabricated wisdom for weeks how do we know anything you've said is true? How do we trust your judgment when you've proven you'll lie to make us listen?"
+
+            Florence doesn't have an answer.
+
+            Holloway says, "I need time. We all need time to process this and to understand what it means for how we move forward."
+
+            I point out, "The hostile plants are still out there. We can't afford to fracture right now."
+
+            Remedy says, "We're already fractured. The question is whether we can heal."
+
+            Florence asks, "Can we? Or have I destroyed that possibility?"
+
+            Nobody answers. Because nobody knows.
+
+            Holloway says carefully, "I think that Florence should separate from the group for now. Give us space to process without feeling like we need to perform forgiveness we don't feel yet."
+
+            Florence says, "You're exiling me."
+
+            Holloway corrects, "I'm asking for space. There are other chambers in the facility. You can use one. You're not banned, Florence. But we need distance."
+
+            Florence is quiet for a long moment.
+
+            ¶
+
+            Florence says, "I understand."
+
+            She wheels slowly toward the exit, alone without Elder Twist, without the group's trust, without the role that defined her.
+
+            At the doorway she pauses.
+
+            Florence at the doorway says, "For what it's worth the advice about the hostile plants was sound. De-escalation through clear boundaries is still the right approach."
+
+            Holloway says, "We'll consider it."
+
+            Which isn't agreement. Just acknowledgment.
+
+            Florence leaves.
+          </text>
+          <stage-directions>
+            Overall tone &amp; pacing: Tense and accusatory, then defensive, collapsing into stunned silence and a quiet, resigned exit — read measuredly and let pauses land.
+
+            - Read the opening narration line "Holloway's fruiting bodies droop." with controlled sharpness and then move immediately into Holloway's accusation.
+            - For Holloway's accusation, keep a hard, steady delivery; use a medium pause at "and it was just you  hiding, pretending." to let the betrayal land.
+            - When Florence speaks, shift to pleading or smallness as indicated: mark "Florence insists  voice draining" and "Florence says  small" to lower pitch and soften volume.
+            - For Runner's line, deliver gently and matter-of-factly: "But you manipulated us."
+            - Insert a long silence at the paragraph marked "¶" after Runner's line and again before "Florence says, 'I understand.'" — hold the silence fully.
+            - When "I say, 'You're Florence...'" be steady and reassuring but not defensive; then allow Runner's "Which nobody trusts now." to cut the reassurance.
+            - End with Florence's doorway line spoken quietly and plainly; Holloway's "We'll consider it." should be flat and noncommittal.
+          </stage-directions>
+        </chunk>
+        <chunk>
+          <text>
+            The room feels smaller without her, and somehow heavier — the weight of betrayal takes up more space than a plant ever could.
+
+            Remedy says eventually — "That was awful."
+
+            Holloway agrees — "Yes."
+
+            I say quietly — "She was right, though — about the advice being good, about you probably not valuing it if it came from her directly."
+
+            Runner says — "That doesn't excuse the lying."
+
+            I reply — "No. But it explains it."
+
+            Holloway says tiredly — "Explanation isn't justification — Florence had good reasons for what she did; that doesn't make it right."
+
+            Scout presses harder against my leg — they're confused — they understand betrayal but not the nuance, can't parse the layers of Florence being both wrong and wronged.
+
+            Velvet asks — "What do we do now?"
+
+            Holloway admits — "I don't know — we have hostile plants threatening our boundary — internal trust broken — Florence's advice, which might be good but comes from someone we can't trust — and we have…"
+
+            ¶
+
+            Holloway finishes — "all of this."
+
+            Runner suggests — "We handle the immediate threat first — then we figure out how to rebuild trust."
+
+            Remedy asks — "In what order?"
+
+            Remedy continues — "Because Florence's advice about de-escalation might be our best response to the hostile plants, but using her guidance after this feels…"
+
+            I supply — "Hypocritical?"
+
+            Remedy finishes — "Complicated."
+
+            I say — "Yeah — complicated covers it."
+
+            We talk for another hour but don't reach conclusions — just more complexity, more questions, more uncertainty about how to move forward.
+
+            Eventually we disperse and Scout and I return to my room, but sleep doesn't come easily.
+
+            Somewhere in the facility, Florence is alone with her good judgment that nobody trusts anymore.
+
+            Outside, hostile plants are organizing while nobody's quite sure how to respond.
+
+            We needed to be _stronger_ — more _unified_.
+
+            Instead we're fractured, uncertain, and facing threats from both outside and within.
+
+            Florence was right about one thing — her advice probably was sound.
+
+            But that might not matter anymore.
+          </text>
+          <stage-directions>
+            Overall tone &amp; pacing: Weary and conflicted; read measuredly with thoughtful pauses and small shifts in energy for different speakers.
+
+            - Read the opening narration "The room feels smaller without her, and somehow heavier — the weight of betrayal takes up more space than a plant ever could." with quiet sadness, slight breath before the em dash.
+            - For "Remedy says eventually — \"That was awful.\"" deliver as a wry, low verdict; a small, world-weary crack.
+            - For "Holloway agrees — \"Yes.\"" keep it short and flat — exhaustion rather than anger.
+            - For "I say quietly — \"She was right, though...\"" lower the voice, reflective and gentle; allow a medium pause at the em dash.
+            - For Runner's line "That doesn't excuse the lying." be precise and firm; then allow a quick response from the narrator for "I reply — \"No. But it explains it.\"" with a quieter, explanatory tone.
+            - Read Holloway's longer block (the line that ends in the long ellipsis) slowly and tiredly, using medium pauses at each em dash; when you reach the paragraph-only "¶" hold a long silence so "Holloway finishes — \"all of this.\"" lands with weight.
+            - For the small physical beat "Scout presses harder against my leg..." lower and intimate — small, compassionate cadence.
+            - Closing cadence: Soft landing; resigned fall, short lingering pause
+          </stage-directions>
+        </chunk>
+      </chunks>
+      <unusual-pronunciations>
+        <word text="Elder Heartwood"/>
+        <word text="Elder Twist"/>
+        <word text="Florence"/>
+        <word text="Holloway"/>
+        <word text="Kira"/>
+        <word text="Remedy"/>
+        <word text="Runner"/>
+        <word text="Scout"/>
+        <word text="Territory Two"/>
+        <word text="Velvet"/>
+      </unusual-pronunciations>
+      <title>Good Advice, Bad Source</title>
+      <changelog-entry version="1.0.0">Generated from passage.card</changelog-entry>
+    </passage-voice>
+  </version>
+</versions>

@@ -1,201 +1,207 @@
 <!-- Generated automatically, do not edit except with ske gen passage-voice -->
-<passage-voice version="2.0.0">
-  <ref ref="passage.card#v2.0.0"/>
+<passage-voice version="2.1.0">
+  <ref ref="passage.card#v2.1.0"/>
   <reasoning>
-    <!-- For instructions on filling out reasoning: ske instructions stories/Mandatory_Assistance/chapters/4_Adaptation/passages/3_Seeking_Solutions/passage-voice.card -->
+    Looked through the passage and identified items to adjust for smooth voiceover:
+    1. Staccato sentences: Several very short sentences and checklist fragments ("Wound: healing.", "Food: established.", "I'm alive. Surviving.") that read choppy and should be merged for flow.
+    2. Dialog clarity: Some dialog was split awkwardly across beats with speaker attribution after the quote; I changed to lead-in then quote so the speaker is clear.
+    3. Ambiguous pronouns: Minimal, but I made sure references to Elder Heartwood and Holloway are clearly attributed when speaking.
+    4. Pauses: Multiple places require a pause for effect (after the rescue question; before the timeline reaction). I marked medium pauses with an em dash and inserted a single dramatic pause paragraph marker (¶) at the timeline reveal.
+    5. Formal/stilted phrasing: Mostly fine, but I smoothed a few checklist and staccato fragments into natural spoken sentences.
+    6. Symbols/formatting: Original italics were used for emphasis and internal reaction. I converted emphasized words to _italics_ and the internal reaction to «angle quotes» per the rules. I also marked the dramatic timeline line with *bold* to indicate forceful delivery.
+
+    All changes are formatting and phrasing for voice-friendly delivery; no story content was altered.
   </reasoning>
   <content-change/>
   <chunks>
     <chunk>
       <text>
-        The mushroom paste sat heavy in Kira's stomach—not unpleasant, just _present_ — real food, actual nutrition. One more survival basic checked off — she sat in her quarters with Scout settled nearby and let herself think beyond the next crisis for the first time since the crash.
+        The mushroom paste sits heavy in my stomach — not unpleasant, just _present_. Real food — actual nutrition.
 
-        Wound healing, food established, shelter functional, water available.
+        One more survival basic checked off.
 
-        She was alive — surviving and adapting to bureaucratic plant life through sheer stubborn determination and strategic phrasing. But she was also still stranded on an alien planet with no ship, no crew, no way home.
+        I sit in my quarters, Scout settled nearby, and let myself think beyond the next crisis for the first time since the crash.
 
-        Rescue seemed…
+        Wound — healing. Food — established. Shelter — functional. Water — available.
 
-        _She thought of the_ _Meridian_ being attacked in deep space, far from trade routes. Even if someone noticed they were missing, finding her here — on an uncharted planet in the Outer Reaches — the math wasn't good.
+        I'm alive — surviving and adapting to bureaucratic plant life through sheer stubborn determination and strategic phrasing.
 
-        She said quietly, "Buddy — what's our realistic timeline for rescue?"
+        But I'm also still stranded on an alien planet with no ship, no crew, no way home.
+
+        Rescue seems… unlikely.
+
+        The _Meridian_ went down somewhere we weren't supposed to be — FTL malfunction, maybe, or something worse — far from trade routes. Even if someone noticed we were missing — finding me here, on an uncharted planet in the Outer Reaches?
+
+        The math isn't good.
+
+        I say (quietly), "Buddy — what's our realistic timeline for rescue?"
         —
-        The system replied, "Based on last known position and standard search protocols — if rescue operations were initiated immediately upon our disappearance, search radius would take approximately six to eight months to reach this system — accounting for detection difficulties of uncharted planets, potential delays, and probability factors…"
+        Holloway replies, in a warm, fluting voice, "Based on last known position and standard search protocols — if rescue operations were initiated immediately upon our disappearance, search radius would take approximately six to eight months to reach this system. Accounting for detection difficulties of uncharted planets, potential delays, and probability factors…"
 
-        Kira said, "Just tell me."
+        I say, "Just tell me."
 
-        The system answered, "Twelve to eighteen months — minimum. If they search at all."
-
-        There it was — a year; maybe more; maybe never.
-
+        Holloway replies, "*Twelve to eighteen months.* Minimum. If they search at all."
         ¶
+        There it is — a year, maybe more, maybe never — living on mushroom paste and bureaucratic forms.
 
-        She imagined living on mushroom paste and bureaucratic forms. Scout rolled closer, pressing against her leg — comfort or commiseration, both, probably.
+        Scout rolls closer, pressing against my leg. Comfort or commiseration — both, probably.
 
-        Kira asked toward the walls, "Is there anyone here who could help — with unusual situations? Someone with more… authority?"
+        I ask, "Is there anyone here who could help — with unusual situations? Someone with more… authority?"
 
-        Holloway responded, fruiting body sprouting near the entrance — its warm, fluting voice considering before it spoke, "Authority for unusual situations? Most coordination happens through collective consensus — but for truly exceptional cases, we have Elder Heartwood."
+        Holloway responds — a fruiting body sprouts near the entrance.
 
-        Kira sat up straighter and asked, "Elder Heartwood?"
+        Holloway says, in that same warm fluting voice, "Authority for unusual situations? Most coordination happens through collective consensus. But for truly exceptional cases, we have Elder Heartwood."
 
-        Holloway replied in the same voice, "Yes — the oldest among us. Very wise — handles complex situations that don't fit standard protocols."
+        I sit up straighter. I say, "Elder Heartwood?"
 
-        Something that didn't fit standard protocols — like a stranded human. Hope flared bright and desperate in Kira's chest.
+        Holloway rustles — uncertainty. "Elder Heartwood is… distant, geographically and temporally. They exist in slow time — growth cycles measured in seasons, thought processes taking days or weeks. Communication is challenging."
 
-        Kira asked, "Can I talk to them — to Elder Heartwood?"
+        I swallow the dull hope. I ask, "But possible?"
 
-        Holloway's fruiting bodies rustled, an uncertainty in the sound, then the voice said, "Ah — Elder Heartwood is… distant — geographically and temporally. They exist in slow time — growth cycles measured in seasons, thought processes taking days or weeks. Communication is challenging."
+        Holloway replies, "Yes! We can file a formal query through established channels. Elder Heartwood does respond to requests for guidance — eventually."
 
-        The hope dimmed slightly. Kira asked, "But possible?"
+        I say, "How eventually?"
 
-        Holloway answered, "Yes — we can file a formal query through established channels. Elder Heartwood does respond to requests for guidance — eventually."
+        Holloway replies, "Typical response time for standard queries — four to six weeks. For complex exceptional cases like yours — perhaps two to three _months_."
 
-        Kira said, "How eventually?"
+        «Months».
 
-        Holloway replied, "Typical response time for standard queries: four to six weeks — for complex, exceptional cases like yours — perhaps two to three months."
-
-        _Months_. Of course. Nothing here happened quickly.
+        Of course. Nothing here happens quickly.
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: Quiet, weary, and pragmatic with moments of brittle hope; keep pacing measured, using medium pauses for reflection and longer silence after the realization about rescue timelines.
+        Overall tone &amp; pacing: weary, small flashes of dry humor and brittle hope. Keep the narration steady and conversational; let surprise and disappointment punctuate with medium and long pauses where marked.
 
-        - Read the opening lines with a tired, slightly surprised relief: "The mushroom paste sat heavy... actual nutrition." — combine relief and residue-of-stress.
-        - Use a medium pause (—) at every em dash in the text. For example, pause after "not _present_ — real food..." and after "There it was — a year..."
-        - Treat ellipses (…) as a trailing, hesitant breath; slightly lower volume and allow a longer fall in pitch.
-        - Put each quoted block on its own line; lead in the quote with the speaker attribution. For example: read: She said quietly, "Buddy — what's our realistic timeline for rescue?" — use an intimate, low register for Kira.
-        - For the system's replies, use a flatter, more neutral cadence but clearer diction: longer sentences from the system should be read as one block with brief internal pauses at em dashes.
-        - When reading Holloway's lines: shift to a gentle, fluting warmth — patient and a little alien. Keep its multi-beat replies together, with soft pauses at the em dashes.
-        - At the paragraph containing only "¶", hold a full, silent beat (long dramatic pause) before continuing.
+        - Read the opening lines with a tired, slightly wry relief: "The mushroom paste sits heavy in my stomach — not unpleasant, just _present_."
+        - On the checklist lines ("Wound — healing. Food — established...") keep a clear, efficient rhythm; slightly quicker than surrounding narration.
+        - For the rescue question line, lower volume and slow the pace a bit: "I say (quietly), \"Buddy — what's our realistic timeline for rescue?\"" Pause at the standalone em dash line ("—").
+        - Holloway's lines: adopt a warm, fluting, slightly musical tone; keep them calm and deliberative even when delivering bad news.
+        - At the timeline reveal ("*Twelve to eighteen months.*"), increase volume and weight for impact; then pause with the dramatic paragraph marker ("¶") before continuing.
+        - Read internal reaction markers («Months») as a private, quiet exhale — resigned, almost a whisper.
+        - When Holloway rustles or a fruiting body sprouts, imply the sound through a brief hesitancy in the voice on the surrounding lines rather than attempting a literal sound effect.
       </stage-directions>
     </chunk>
     <chunk>
       <text>
-        But still — an actual authority, someone who handled exceptions and might understand "help this human get home" as a valid request beyond standard protocols.
+        But still — an actual authority. Someone who handles exceptions. Someone who might understand "help this human get home" as a valid request beyond standard protocols.
 
-        Kira said, "I want to file that query — whatever the formal process is."
+        I say — "I want to file that query. Whatever the formal process is."
 
-        Holloway sounded genuinely pleased. "Wonderful! This is very appropriate use of exception-handling channels — I'll prepare the documentation immediately!"
+        Holloway says — "Wonderful! This is very appropriate use of exception-handling channels. I'll prepare the documentation immediately!"
 
-        Forms — obviously there would be forms. Kira was learning to work within this system; she could do forms — she could wait months if it meant a chance.
+        Forms — obviously there will be forms. But I'm learning to work within this system — I can do forms, and I can wait months if it means a chance.
 
-        Over the next hour, Holloway guided her through the formal query process.
+        Over the next hour, Holloway guides me through the formal query process.
 
-        Holloway listed the required fields:
-        "Petitioner information — full name, arrival circumstances, current status."
-        "Nature of exception — stranded non-plant lifeform requiring assistance beyond standard protocols."
-        "Requested guidance — recommendations for long-term survival, potential contact with human civilization, any available transportation or communication resources."
-        "Supporting documentation — medical records, crash site location, resource requirements, adaptation challenges."
+        Petitioner Information: Full name, arrival circumstances, current status.
+        Nature of Exception: Stranded non-plant lifeform requiring assistance beyond standard protocols.
+        Requested Guidance: Recommendations for long-term survival, potential contact with human civilization, any available transportation or communication resources.
+        Supporting Documentation: Medical records, crash site location, resource requirements, adaptation challenges.
 
-        Buddy provided data. Kira provided context. Holloway documented everything with meticulous care.
+        Buddy provides data — I provide context — Holloway documents everything with meticulous care. Scout watches the whole process, occasionally bouncing encouragingly.
 
-        Scout watched the whole process, occasionally bouncing encouragingly.
-
-        Holloway announced, "Query complete! I'll transmit this through the network to Elder Heartwood's grove — response timeline: estimated eight to twelve weeks, accounting for processing time and Elder Heartwood's deliberation pace."
+        Holloway announces — "Query complete! I'll transmit this through the network to Elder Heartwood's grove. Response timeline — estimated eight to twelve weeks, accounting for processing time and Elder Heartwood's deliberation pace."
 
         Eight to twelve weeks.
-        ¶
-        Two to three months of bureaucratic plant life — of morning wellness checks and dietary assessments — of mushroom paste meals and wound care documentation.
 
-        Two to three months of waiting.
+        ¶
+
+        Two to three months of bureaucratic plant life — of morning wellness checks and dietary assessments, of mushroom paste meals and wound care documentation. Two to three months of waiting.
 
         But also — hope. Actual hope.
 
-        Kira said, "Thank you — seriously, for filing this, for helping."
+        I say — "Thank you. Seriously — for filing this, for helping."
 
-        Holloway replied warmly, "Of course! This is exactly the kind of exceptional situation Elder Heartwood exists to address — you should receive guidance eventually."
+        Holloway says — "Of course! This is exactly the kind of exceptional situation Elder Heartwood exists to address. You should receive guidance eventually."
 
-        «Eventually.»
+        «Eventually»
 
-        The word hung there — simultaneously reassuring and exhausting.
+        The word hangs there — simultaneously reassuring and exhausting.
 
-        Holloway continued warmly, "In the meantime — you're adapting remarkably well! Your progress with protocols has been excellent — we're very pleased with your integration."
+        Holloway continues warmly — "In the meantime, you're adapting remarkably well! Your progress with protocols has been excellent. We're very pleased with your integration."
 
-        Integration, like she was joining their community instead of being stranded with no other options. But... wasn't she, though? Learning their language — working within their systems — building routines.
+        Integration — like I'm joining their community instead of being stranded with no other options. But aren't I, though? I'm learning their language, working within their systems, building routines — adapting.
 
-        Adapting.
+        I say — "I'm trying."
 
-        Kira said, "I'm trying."
+        Holloway asks — "It shows! Now, shall we schedule your next wellness check for tomorrow morning?"
 
-        Holloway asked, "Now — shall we schedule your next wellness check for tomorrow morning?"
+        Daily wellness checks — for months, maybe years. This is my life now.
 
-        Daily wellness checks. For months. Maybe years. This was her life now.
+        But also — I've filed the query, started the process, reached for the one authority who might actually help beyond forms and protocols. It isn't giving up — it's strategic patience.
 
-        But she'd filed the query — started the process — reached for the one authority who might actually help beyond forms and protocols. It wasn't giving up — it was strategic patience.
+        I say — "Yes. Schedule the wellness check."
 
-        Kira said, "Yes — schedule the wellness check."
+        Scout bounces approvingly.
 
-        Scout bounced approvingly.
-
-        Later, lying on the soft moss and woven plant fibers that served as bed, Kira stared at the bioluminescent ceiling and took stock.
+        Later, lying on the soft moss and woven plant fibers that serve as bed, I stare at the bioluminescent ceiling and take stock.
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: Quiet, weary, pragmatic, with a small but genuine lift of hope; keep pacing measured and use medium pauses at em dashes, with a long dramatic pause after the timeline realization.
+        Overall tone &amp; pacing: weary, quietly hopeful, conversational with small flashes of brittle optimism; let the timeline and pauses land with weight.
 
-        - Read the opening line as a single reflective sentence: "But still — an actual authority..." — weary curiosity, slight relief.
-        - For Kira's quoted lines, use an intimate, low register and lead the quote with the speaker tag: "Kira said, "..."" — steady, hopeful.
-        - For Holloway, shift to a gentle, patient, slightly alien warmth; read multi-beat lines as one block with soft internal pauses: "Holloway sounded genuinely pleased. "Wonderful! ...""
-        - When reading the listed fields, state the lead-in then read each quoted item clearly and deliberately — pause lightly between each quoted line.
-        - After "Eight to twelve weeks." insert a long, silent beat where the text has a paragraph containing only "¶" — allow the weight of realization to settle.
-        - Emphasize the contrast in "But also — hope. Actual hope." by softening the first clause and slightly brightening on "Actual hope." — brief lift in pitch.
-        - Keep the closing reflection gentle and resigned: the final sentence about the bioluminescent ceiling should be slow, contemplative.
+        - Read the opening lines with mild, wry relief: "But still — an actual authority."
+        - For dialogue lead-ins like "I say —" or "Holloway says —" shift slightly brighter for the speaker's voice, but keep it gentle and steady.
+        - Pause medium-length at em dashes — use them as small breaths: for example on "Forms — obviously" and "Buddy provides data — I provide context — Holloway documents..."
+        - At "Eight to twelve weeks." stop and insert a long, heavy pause: the paragraph marker "¶" indicates this dramatic pause.
+        - Read the single word «Eventually» as a quiet, private exhale — resigned but clinging to hope.
+        - When Holloway's compliments arrive, adopt a warm, slightly musical tone: "In the meantime, you're adapting remarkably well!"
+        - End the passage with soft reflection; slow and intimate on the last line: "...stare at the bioluminescent ceiling and take stock."
       </stage-directions>
     </chunk>
     <chunk>
       <text>
-        Three days since the crash — three days since her entire world exploded.
+        Three days since the crash — three days since my entire world exploded.
 
-        She'd survived impact, treated severe injury, met alien sentient plants who learned human language from H R manuals, navigated bureaucratic onboarding, established food sources through fungal chemistry, and filed formal exception queries with ancient tree authorities.
+        I've survived impact, treated severe injury, met alien sentient plants who learned human language from HR manuals, navigated bureaucratic onboarding, established food sources through fungal chemistry, and filed formal exception queries with ancient tree authorities.
 
-        Her life had become surreal, absurdist science fiction — and somehow she was managing it.
+        My life has become surreal, absurdist science fiction — and somehow I'm managing it.
 
-        Scout settled near the entrance — constant guardian, non-verbal companion, the little plant there for every crisis, every form, every exhausted moment.
+        Scout settles near the entrance — a constant guardian, non-verbal companion, there for everything: every crisis, every form, every exhausted moment.
 
-        Kira said, softly into the dim light:
-        "Thanks — for sticking with me."
+        I say softly into the dim light —
+        "Thanks. For sticking with me."
 
-        Scout bounced once — gentle, understanding.
+        Scout bounces once — gentle, understanding.
 
-        Kira said to the ceiling — to herself:
-        "Two to three months — I can do two to three months — I've done three days; I can do more."
+        I tell the ceiling —
+        "Two to three months."
 
-        Because what choice did she have? But also — because she could. She was learning the system, getting better at it, phrasing requests strategically, working with each plant's strengths, finding humor in the absurdity.
+        I tell myself —
+        "I can do two to three months. I've done three days. I can do more."
 
-        Adapting. Surviving. And now, maybe — _maybe_ — finding a way out.
+        Because what choice do I have? But also — because I can: I'm learning this system, getting better at it, phrasing requests strategically, working with each plant's strengths, finding humor in the absurdity.
 
-        Elder Heartwood — whoever they were, whatever wisdom they held.
+        Adapting, surviving, and now — _maybe_ — finding a way out.
 
-        The query was filed — the wait had begun.
+        Elder Heartwood — whoever they are, whatever wisdom they hold.
+
+        The query is filed — the wait has begun.
+
+        I close my eyes.
 
         ¶
 
-        Kira closed her eyes.
+        Tomorrow there will be more forms, more wellness checks, more mushroom-paste meals — but also: another day survived, another day closer to answers, another day of strange, absurd, bureaucratic life on an alien planet.
 
-        Tomorrow would bring more forms, more wellness checks, more mushroom-paste meals — but also another day survived, another day closer to answers, another day of strange, absurd, bureaucratic life on an alien planet.
-
-        She could do this — had to do this — was doing this.
-
-        One impossible adaptation at a time.
+        I can do this — have to do this — am doing this — one impossible adaptation at a time.
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: Quiet, weary, pragmatic with a small, genuine lift of hope; measured pacing, use em dashes for medium pauses, and allow a long silent beat at the lone "¶" marker.
+        Overall tone &amp; pacing: weary and quietly hopeful, steady conversational pacing with small, determined bursts; let the em dashes act as small breaths and the single "¶" as a long, heavy pause.
 
-        - Read the opening line as a single reflective sentence: "Three days since the crash — three days since her entire world exploded." — weary, occupied, then a medium pause at the em dash.
-        - Read the long list of post-crash actions as a flowing sentence, measured and factual; emphasize "filed formal exception queries" with a slight ironic lift on "exception queries." Pause lightly after the full sentence.
-        - For "Her life had become surreal, absurdist science fiction — and somehow she was managing it." give a small brightening on "somehow" to suggest surprise that she's coping.
-        - "Scout settled near the entrance — constant guardian..." should be tender and warm; compress the three short sentences about Scout into one affectionate beat.
-        - For Kira's spoken lines, use an intimate, low register; always lead in then deliver the quote on its own line:
-          • Read "Kira said, softly into the dim light:" as a quiet stage direction, then deliver the line inside quotes softly.
-          • Read "Kira said to the ceiling — to herself:" as resigned but steady, then deliver the quoted self-talk with small rises on the internal emphatic beats.
-        - When you reach the paragraph containing only "¶", hold a long silent beat — let the weight of waiting sit before continuing.
+        - Read the opening line with weight and slight incredulity: "Three days since the crash — three days since my entire world exploded."
+        - On the compact list ("I've survived impact, treated severe injury...") keep a straightforward, slightly brisk delivery so it sounds lived-in, not lectured.
+        - For the lead-in then quote pattern, shift a touch warmer and softer on the lead-in, then place the quoted line on its own: read "I say softly into the dim light —" softer, then voice the line "Thanks. For sticking with me." as intimate gratitude.
+        - For "Scout bounces once — gentle, understanding." emphasize the short action, then soften on the descriptive clause.
+        - For the ceiling/self lines, distinguish targets briefly: read "I tell the ceiling —" as resigned, then "Two to three months." as a small, hopeful assertion; read "I tell myself —" with steadier resolve before the longer self-reassuring sentence.
+        - Treat the em dashes as medium pauses (about 300–400ms). Treat the paragraph with only "¶" as a long, contemplative pause (about 1.0–1.5s).
         - Closing cadence: Soft landing; warm fall, lingering last syllable, cozy pause.
       </stage-directions>
     </chunk>
   </chunks>
   <unusual-pronunciations>
     <word text="Elder Heartwood"/>
-    <word text="H R"/>
     <word text="Holloway"/>
-    <word text="Kira"/>
+    <word text="Meridian"/>
+    <word text="Outer Reaches"/>
     <word text="Scout"/>
   </unusual-pronunciations>
   <title>Seeking Solutions</title>

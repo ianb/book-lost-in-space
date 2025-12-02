@@ -1,0 +1,36 @@
+<!-- this file is automatically managed by ske validate; do not edit -->
+<versions>
+  <version number="1.0.0" archived-at="2025-12-02T00:50:22.243Z">
+    <changelog-entry>
+      <message>Initial version</message>
+    </changelog-entry>
+    <passage-placement version="1.0.0">
+      <reasoning-passage-placement>
+        <!-- For instructions on filling out reasoning: ske instructions stories/Mandatory_Assistance/chapters/1_Impact/passages/3_Buddy_Arrives/passage-placement.card -->
+      </reasoning-passage-placement>
+      <passage-objective>
+        Introduce Buddy (kids' educational AI) and establish the core comedy/frustration dynamic through their first interaction, shifting tone from pure survival to warm absurdist comedy while keeping stakes real (Scene 3: Buddy Arrives)
+      </passage-objective>
+      <scene-portion>Complete scene - this passage covers all of Scene 3</scene-portion>
+      <key-moments>
+        - Emergency system activates and scans for available AI
+        - Buddy introduces themselves with enthusiastic educational greeting
+        - Kira realizes she's been assigned a kids' educational AI
+        - Buddy wants to teach about neural link technology while Kira's bleeding/injured
+        - First attempts at communication show complete mismatch
+        - Kira processes frustration with humor (not meanness)
+        - Accepts that Buddy is what she's got
+      </key-moments>
+      <character-focus>
+        Buddy's introduction: Relentlessly cheerful, educational framing for everything, treats Kira like an elementary school student, genuinely enthusiastic about teaching opportunities, completely tone-deaf to crisis severity. Kira's response: Frustrated but trying to work with it, dark humor about the situation, still chatty/rambling in her head, capacity for connection despite annoyance. The mismatch is absurd but not cruel—Kira sees the comedy even while bleeding.
+      </character-focus>
+      <sources>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/chapter-placement.card" role="Scene 3 outline"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/2_Aftermath/passage.card" role="Previous passage ending"/>
+        <ref ref="/stories/Mandatory_Assistance/exposition-plan.card" role="Exposition tracking"/>
+        <ref ref="/world/characters/Buddy.card" role="Buddy's voice and personality"/>
+      </sources>
+      <changelog-entry version="1.0.0">Initialized passage-placement for Buddy's introduction, establishing comedy/frustration dynamic</changelog-entry>
+    </passage-placement>
+  </version>
+</versions>

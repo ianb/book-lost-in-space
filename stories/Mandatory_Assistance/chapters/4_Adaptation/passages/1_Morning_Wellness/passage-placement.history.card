@@ -1,0 +1,51 @@
+<!-- this file is automatically managed by ske validate; do not edit -->
+<versions>
+  <version number="1.0.0" archived-at="2025-12-02T00:50:22.337Z">
+    <changelog-entry>
+      <message>Initial version</message>
+    </changelog-entry>
+    <passage-placement version="1.0.0">
+      <reasoning-passage-placement>
+        Context from chapter-placement: Scene 1 (Morning Wellness) - "Establish daily routine, show adaptation beginning." Events: Kira wakes, Scout present, morning wellness check from Holloway (more forms), Remedy arrives for wound care (mushrooms and documentation), Kira learning to navigate and phrase things in their language, wound healing well, recognition this is daily life, adapting. Emotional beat: Exhaustion → routine familiarity → adaptation emerging → acceptance. Estimated 1500-1800 words.
+
+        Previous passage: Chapter 3 Passage 3 ended with Kira falling asleep in quarters, exhausted but treated, Scout keeping watch.
+
+        This passage must:
+        - Show first morning waking up at facility
+        - Scout present as companion/comfort
+        - Morning wellness check routine from Holloway
+        - Wound care with Remedy (bureaucratic but necessary)
+        - Kira actively learning to work within system
+        - Phrasing requests in HR language, knowing routine
+        - Wound healing properly, medical care working
+        - Recognition of adaptation happening
+        - Brief hunger mention but not urgent yet
+        - Establishes daily rhythms
+
+        Handoff to next passage: Day progressing, hunger becoming more pressing issue.
+      </reasoning-passage-placement>
+      <passage-objective>
+        Establish daily routine and show Kira beginning to adapt, learning to navigate bureaucratic system (Scene 1: Morning Wellness)
+      </passage-objective>
+      <scene-portion>Complete scene - this passage covers all of Scene 1</scene-portion>
+      <key-moments>
+        - Waking up in facility quarters, Scout present
+        - Morning wellness check from Holloway - daily forms
+        - Kira learning to phrase things strategically
+        - Remedy arrives for wound care with documentation
+        - Wound examination - healing well, chemistry working
+        - Recognition she's adapting to this strange routine
+        - Humor emerging as coping mechanism
+        - Acceptance this is her life for now
+      </key-moments>
+      <character-focus>
+        Kira: Rested but adapting to alien routine, actively strategizing how to work system, dark humor developing, seeing plants as individuals. Scout: Constant companion, non-verbal comfort and encouragement. Holloway: Warm coordinator, pleased with her adaptation. Remedy: Practical medical care, decomposition observations, genuine satisfaction wound is healing.
+      </character-focus>
+      <sources>
+        <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/chapter-placement.card" role="Scene 1 outline"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/3_Medical_Treatment/passage.card" role="Previous passage ending"/>
+      </sources>
+      <changelog-entry version="1.0.0">Initialized</changelog-entry>
+    </passage-placement>
+  </version>
+</versions>

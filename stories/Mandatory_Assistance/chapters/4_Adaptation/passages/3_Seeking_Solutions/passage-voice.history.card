@@ -1,0 +1,217 @@
+<!-- this file is automatically managed by ske validate; do not edit -->
+<versions>
+  <version number="2.1.0" archived-at="2025-12-02T00:50:22.361Z">
+    <changelog-entry>
+      <message>Initial version</message>
+    </changelog-entry>
+    <!-- Generated automatically, do not edit except with ske gen passage-voice -->
+    <passage-voice version="2.1.0">
+      <ref ref="passage.card#v2.1.0"/>
+      <reasoning>
+        Looked through the passage and identified items to adjust for smooth voiceover:
+        1. Staccato sentences: Several very short sentences and checklist fragments ("Wound: healing.", "Food: established.", "I'm alive. Surviving.") that read choppy and should be merged for flow.
+        2. Dialog clarity: Some dialog was split awkwardly across beats with speaker attribution after the quote; I changed to lead-in then quote so the speaker is clear.
+        3. Ambiguous pronouns: Minimal, but I made sure references to Elder Heartwood and Holloway are clearly attributed when speaking.
+        4. Pauses: Multiple places require a pause for effect (after the rescue question; before the timeline reaction). I marked medium pauses with an em dash and inserted a single dramatic pause paragraph marker (¶) at the timeline reveal.
+        5. Formal/stilted phrasing: Mostly fine, but I smoothed a few checklist and staccato fragments into natural spoken sentences.
+        6. Symbols/formatting: Original italics were used for emphasis and internal reaction. I converted emphasized words to _italics_ and the internal reaction to «angle quotes» per the rules. I also marked the dramatic timeline line with *bold* to indicate forceful delivery.
+
+        All changes are formatting and phrasing for voice-friendly delivery; no story content was altered.
+      </reasoning>
+      <content-change/>
+      <chunks>
+        <chunk>
+          <text>
+            The mushroom paste sits heavy in my stomach — not unpleasant, just _present_. Real food — actual nutrition.
+
+            One more survival basic checked off.
+
+            I sit in my quarters, Scout settled nearby, and let myself think beyond the next crisis for the first time since the crash.
+
+            Wound — healing. Food — established. Shelter — functional. Water — available.
+
+            I'm alive — surviving and adapting to bureaucratic plant life through sheer stubborn determination and strategic phrasing.
+
+            But I'm also still stranded on an alien planet with no ship, no crew, no way home.
+
+            Rescue seems… unlikely.
+
+            The _Meridian_ went down somewhere we weren't supposed to be — FTL malfunction, maybe, or something worse — far from trade routes. Even if someone noticed we were missing — finding me here, on an uncharted planet in the Outer Reaches?
+
+            The math isn't good.
+
+            I say (quietly), "Buddy — what's our realistic timeline for rescue?"
+            —
+            Holloway replies, in a warm, fluting voice, "Based on last known position and standard search protocols — if rescue operations were initiated immediately upon our disappearance, search radius would take approximately six to eight months to reach this system. Accounting for detection difficulties of uncharted planets, potential delays, and probability factors…"
+
+            I say, "Just tell me."
+
+            Holloway replies, "*Twelve to eighteen months.* Minimum. If they search at all."
+            ¶
+            There it is — a year, maybe more, maybe never — living on mushroom paste and bureaucratic forms.
+
+            Scout rolls closer, pressing against my leg. Comfort or commiseration — both, probably.
+
+            I ask, "Is there anyone here who could help — with unusual situations? Someone with more… authority?"
+
+            Holloway responds — a fruiting body sprouts near the entrance.
+
+            Holloway says, in that same warm fluting voice, "Authority for unusual situations? Most coordination happens through collective consensus. But for truly exceptional cases, we have Elder Heartwood."
+
+            I sit up straighter. I say, "Elder Heartwood?"
+
+            Holloway rustles — uncertainty. "Elder Heartwood is… distant, geographically and temporally. They exist in slow time — growth cycles measured in seasons, thought processes taking days or weeks. Communication is challenging."
+
+            I swallow the dull hope. I ask, "But possible?"
+
+            Holloway replies, "Yes! We can file a formal query through established channels. Elder Heartwood does respond to requests for guidance — eventually."
+
+            I say, "How eventually?"
+
+            Holloway replies, "Typical response time for standard queries — four to six weeks. For complex exceptional cases like yours — perhaps two to three _months_."
+
+            «Months».
+
+            Of course. Nothing here happens quickly.
+          </text>
+          <stage-directions>
+            Overall tone &amp; pacing: weary, small flashes of dry humor and brittle hope. Keep the narration steady and conversational; let surprise and disappointment punctuate with medium and long pauses where marked.
+
+            - Read the opening lines with a tired, slightly wry relief: "The mushroom paste sits heavy in my stomach — not unpleasant, just _present_."
+            - On the checklist lines ("Wound — healing. Food — established...") keep a clear, efficient rhythm; slightly quicker than surrounding narration.
+            - For the rescue question line, lower volume and slow the pace a bit: "I say (quietly), \"Buddy — what's our realistic timeline for rescue?\"" Pause at the standalone em dash line ("—").
+            - Holloway's lines: adopt a warm, fluting, slightly musical tone; keep them calm and deliberative even when delivering bad news.
+            - At the timeline reveal ("*Twelve to eighteen months.*"), increase volume and weight for impact; then pause with the dramatic paragraph marker ("¶") before continuing.
+            - Read internal reaction markers («Months») as a private, quiet exhale — resigned, almost a whisper.
+            - When Holloway rustles or a fruiting body sprouts, imply the sound through a brief hesitancy in the voice on the surrounding lines rather than attempting a literal sound effect.
+          </stage-directions>
+        </chunk>
+        <chunk>
+          <text>
+            But still — an actual authority. Someone who handles exceptions. Someone who might understand "help this human get home" as a valid request beyond standard protocols.
+
+            I say — "I want to file that query. Whatever the formal process is."
+
+            Holloway says — "Wonderful! This is very appropriate use of exception-handling channels. I'll prepare the documentation immediately!"
+
+            Forms — obviously there will be forms. But I'm learning to work within this system — I can do forms, and I can wait months if it means a chance.
+
+            Over the next hour, Holloway guides me through the formal query process.
+
+            Petitioner Information: Full name, arrival circumstances, current status.
+            Nature of Exception: Stranded non-plant lifeform requiring assistance beyond standard protocols.
+            Requested Guidance: Recommendations for long-term survival, potential contact with human civilization, any available transportation or communication resources.
+            Supporting Documentation: Medical records, crash site location, resource requirements, adaptation challenges.
+
+            Buddy provides data — I provide context — Holloway documents everything with meticulous care. Scout watches the whole process, occasionally bouncing encouragingly.
+
+            Holloway announces — "Query complete! I'll transmit this through the network to Elder Heartwood's grove. Response timeline — estimated eight to twelve weeks, accounting for processing time and Elder Heartwood's deliberation pace."
+
+            Eight to twelve weeks.
+
+            ¶
+
+            Two to three months of bureaucratic plant life — of morning wellness checks and dietary assessments, of mushroom paste meals and wound care documentation. Two to three months of waiting.
+
+            But also — hope. Actual hope.
+
+            I say — "Thank you. Seriously — for filing this, for helping."
+
+            Holloway says — "Of course! This is exactly the kind of exceptional situation Elder Heartwood exists to address. You should receive guidance eventually."
+
+            «Eventually»
+
+            The word hangs there — simultaneously reassuring and exhausting.
+
+            Holloway continues warmly — "In the meantime, you're adapting remarkably well! Your progress with protocols has been excellent. We're very pleased with your integration."
+
+            Integration — like I'm joining their community instead of being stranded with no other options. But aren't I, though? I'm learning their language, working within their systems, building routines — adapting.
+
+            I say — "I'm trying."
+
+            Holloway asks — "It shows! Now, shall we schedule your next wellness check for tomorrow morning?"
+
+            Daily wellness checks — for months, maybe years. This is my life now.
+
+            But also — I've filed the query, started the process, reached for the one authority who might actually help beyond forms and protocols. It isn't giving up — it's strategic patience.
+
+            I say — "Yes. Schedule the wellness check."
+
+            Scout bounces approvingly.
+
+            Later, lying on the soft moss and woven plant fibers that serve as bed, I stare at the bioluminescent ceiling and take stock.
+          </text>
+          <stage-directions>
+            Overall tone &amp; pacing: weary, quietly hopeful, conversational with small flashes of brittle optimism; let the timeline and pauses land with weight.
+
+            - Read the opening lines with mild, wry relief: "But still — an actual authority."
+            - For dialogue lead-ins like "I say —" or "Holloway says —" shift slightly brighter for the speaker's voice, but keep it gentle and steady.
+            - Pause medium-length at em dashes — use them as small breaths: for example on "Forms — obviously" and "Buddy provides data — I provide context — Holloway documents..."
+            - At "Eight to twelve weeks." stop and insert a long, heavy pause: the paragraph marker "¶" indicates this dramatic pause.
+            - Read the single word «Eventually» as a quiet, private exhale — resigned but clinging to hope.
+            - When Holloway's compliments arrive, adopt a warm, slightly musical tone: "In the meantime, you're adapting remarkably well!"
+            - End the passage with soft reflection; slow and intimate on the last line: "...stare at the bioluminescent ceiling and take stock."
+          </stage-directions>
+        </chunk>
+        <chunk>
+          <text>
+            Three days since the crash — three days since my entire world exploded.
+
+            I've survived impact, treated severe injury, met alien sentient plants who learned human language from HR manuals, navigated bureaucratic onboarding, established food sources through fungal chemistry, and filed formal exception queries with ancient tree authorities.
+
+            My life has become surreal, absurdist science fiction — and somehow I'm managing it.
+
+            Scout settles near the entrance — a constant guardian, non-verbal companion, there for everything: every crisis, every form, every exhausted moment.
+
+            I say softly into the dim light —
+            "Thanks. For sticking with me."
+
+            Scout bounces once — gentle, understanding.
+
+            I tell the ceiling —
+            "Two to three months."
+
+            I tell myself —
+            "I can do two to three months. I've done three days. I can do more."
+
+            Because what choice do I have? But also — because I can: I'm learning this system, getting better at it, phrasing requests strategically, working with each plant's strengths, finding humor in the absurdity.
+
+            Adapting, surviving, and now — _maybe_ — finding a way out.
+
+            Elder Heartwood — whoever they are, whatever wisdom they hold.
+
+            The query is filed — the wait has begun.
+
+            I close my eyes.
+
+            ¶
+
+            Tomorrow there will be more forms, more wellness checks, more mushroom-paste meals — but also: another day survived, another day closer to answers, another day of strange, absurd, bureaucratic life on an alien planet.
+
+            I can do this — have to do this — am doing this — one impossible adaptation at a time.
+          </text>
+          <stage-directions>
+            Overall tone &amp; pacing: weary and quietly hopeful, steady conversational pacing with small, determined bursts; let the em dashes act as small breaths and the single "¶" as a long, heavy pause.
+
+            - Read the opening line with weight and slight incredulity: "Three days since the crash — three days since my entire world exploded."
+            - On the compact list ("I've survived impact, treated severe injury...") keep a straightforward, slightly brisk delivery so it sounds lived-in, not lectured.
+            - For the lead-in then quote pattern, shift a touch warmer and softer on the lead-in, then place the quoted line on its own: read "I say softly into the dim light —" softer, then voice the line "Thanks. For sticking with me." as intimate gratitude.
+            - For "Scout bounces once — gentle, understanding." emphasize the short action, then soften on the descriptive clause.
+            - For the ceiling/self lines, distinguish targets briefly: read "I tell the ceiling —" as resigned, then "Two to three months." as a small, hopeful assertion; read "I tell myself —" with steadier resolve before the longer self-reassuring sentence.
+            - Treat the em dashes as medium pauses (about 300–400ms). Treat the paragraph with only "¶" as a long, contemplative pause (about 1.0–1.5s).
+            - Closing cadence: Soft landing; warm fall, lingering last syllable, cozy pause.
+          </stage-directions>
+        </chunk>
+      </chunks>
+      <unusual-pronunciations>
+        <word text="Elder Heartwood"/>
+        <word text="Holloway"/>
+        <word text="Meridian"/>
+        <word text="Outer Reaches"/>
+        <word text="Scout"/>
+      </unusual-pronunciations>
+      <title>Seeking Solutions</title>
+      <changelog-entry version="1.0.0">Generated from passage.card</changelog-entry>
+    </passage-voice>
+  </version>
+</versions>

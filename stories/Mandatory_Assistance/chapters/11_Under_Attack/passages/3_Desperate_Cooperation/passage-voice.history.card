@@ -1,0 +1,357 @@
+<!-- this file is automatically managed by ske validate; do not edit -->
+<versions>
+  <version number="2.0.0" archived-at="2025-12-02T00:50:22.114Z">
+    <changelog-entry>
+      <message>Initial version</message>
+    </changelog-entry>
+    <!-- Generated automatically, do not edit except with ske gen passage-voice -->
+    <passage-voice version="2.0.0">
+      <ref ref="passage.card#v2.0.0"/>
+      <reasoning>
+        <!-- For instructions on filling out reasoning: ske instructions stories/Mandatory_Assistance/chapters/11_Under_Attack/passages/3_Desperate_Cooperation/passage-voice.card -->
+      </reasoning>
+      <content-change/>
+      <chunks>
+        <chunk>
+          <text>
+            The next wave hits harder. The hostile plants have adapted—Florence was right about that too. They're probing our new defensive perimeter, looking for weaknesses: testing Velvet's barriers with corrosive compounds, sending spore clouds to different heights to find gaps in Remedy's coverage, launching underground feints to distract Runner from key positions. But we adapt too.
+
+            Florence calls out —
+            "Velvet, reinforce sector three — they're concentrating acid attacks there. Remedy, spore cloud incoming from above, northeast vector. Runner, underground feint at seven o'clock — ignore it. Protect the southwest load-bearer — that's their real target."
+
+            Velvet shifts growth immediately. The barrier thickens just as hostile corrosive vines hit it. They dissolve the outer layer but can't penetrate deeper.
+
+            Remedy releases counter-agents upward. The clouds meet, neutralize, and fall as harmless residue.
+
+            Runner's vines shift underground. Sure enough, hostile roots attack the southwest position moments later, but Runner is ready — severs them before they can destabilize the structure.
+
+            Florence is calling out threats before they fully develop, reading hostile tactics in real time. It's honestly impressive — and still really awkward, because nobody's talking to her except to acknowledge orders.
+
+            Buddy observes in my mind — «They're working well.»
+
+            I correct — "They're surviving well. There's a difference."
+
+            Holloway relays information between defenders, coordinating their responses, but keeps a careful formality when addressing Florence.
+
+            Holloway asks —
+            "Florence, Runner reports underground pressure increasing on the eastern flank. Recommendation?"
+
+            Florence replies —
+            "Velvet, shift ten percent growth to eastern underground support. Runner, hold current position for thirty seconds while reinforcement arrives, then fall back to secondary position."
+
+            It works. The eastern flank holds — but there's no warmth in the cooperation. Just cold, functional necessity.
+
+            I'm pressed against a pillar in the defended core, Scout beside me, watching everyone work together while maintaining emotional distance. It's effective but uncomfortable.
+
+            ¶
+
+            Another hostile assault—this time a massive root surge from directly below, trying to punch through the center of our defensive perimeter. If it succeeds, it splits our defenses in two.
+
+            Florence asks urgently —
+            "Runner, can you intercept?"
+
+            Runner's voice strains — *"Too big. I can slow it but not stop it."*
+
+            Florence issues rapid commands —
+            "Velvet, emergency growth directly over Runner's position. Create a secondary floor above the breach point. Remedy, be ready — if they break through, flood the gap with everything you have. Holloway, prepare to evacuate Kira to the western section if this fails."
+          </text>
+          <stage-directions>
+            Overall tone &amp; pacing: Urgent, clipped, efficient — keep a fast but clear pace, with sharper emphasis on commands and a longer pause before the huge root surge.
+
+            - Read the opening narration briskly, with a tense undercurrent: "The next wave hits harder."
+            - Lead into Florence's multi-part commands with a slight drop then immediate rise: "Florence calls out —" then deliver the quoted block with crisp, decisive cadence.
+            - For short action lines like "Velvet shifts growth immediately," keep it terse and matter-of-fact.
+            - For internal mind chat: soften the voice for Buddy's comment, and make my correction firmer: "Buddy observes in my mind — «They're working well.»" then "I correct — 'They're surviving well.'"
+            - Insert a long silence at the paragraph with only "¶" — pause before continuing to "Another hostile assault..."
+            - For Runner's reply, use strained, urgent tone; emphasize *"Too big"* as more forceful and then slightly allow resignation in "I can slow it but not stop it."
+            - Finish with Florence's rapid set of emergency commands: punchy, quick, no wasted inflection.
+          </stage-directions>
+        </chunk>
+        <chunk>
+          <text>
+            Everyone moves instantly—Runner wraps around the hostile root, slowing its ascent. Velvet grows a thick barrier directly above it—if the root breaks through the floor, it will hit a second barrier instead of empty space. Remedy positions near the threatened area, chemical reserves ready.
+
+            Holloway appears beside me.
+            Holloway says, "Kira, if I say 'run,' you run west. Scout will guide you."
+
+            Scout bounces in acknowledgment—already positioned to lead me away.
+
+            The hostile root pushes harder and the floor cracks—Runner is struggling and can't hold it much longer.
+
+            Florence asks, "Velvet, status?"
+
+            Velvet says, "Almost… got it… there!"
+
+            The hostile root breaks through the floor and hits Velvet's emergency growth instead of open air—blocked. The root writhes, trying to break through the second barrier too, but Velvet's growth—thick and desperate—holds.
+
+            Florence calls, "Remedy, now!"
+
+            Remedy floods the gap with aggressive chemicals, and the hostile root withers and pulls back underground.
+
+            We held again.
+
+            I let out a breath I didn't know I was holding; Scout bounces in relief.
+
+            I say, "Nice save," to no one in particular.
+
+            Holloway says, "Florence's coordination was sound."
+            Not praise—just acknowledgment.
+
+            The attack continues, but the pattern is clear: hostile plants probe, we respond—they escalate, we adapt. It's a stalemate—they can't break through, we can't drive them away, but we're holding position.
+
+            Hours pass as the assault continues in waves; everyone is exhausted.
+
+            Runner surfaces briefly, vines shredded and leaking.
+            Runner says, "I need rest—underground fighting is… extensive."
+
+            Florence says, "Take ten minutes. Velvet, can you extend underground coverage temporarily?"
+
+            Velvet says, "Barely—but yes."
+
+            Florence says, "Do it—Runner, recover fast—we need you back."
+
+            Runner coils near the core, trying to heal; they look awful—injuries everywhere, sap loss significant.
+
+            Remedy looks strained.
+            Remedy says, "I have maybe three more counter-agent deployments left. After that—I'm empty."
+
+            Florence says, "Conserve for critical threats only—spore clouds that directly threaten Kira. Let everything else through."
+
+            Velvet says, "I can't maintain this density much longer—the corrosive attacks are damaging me faster than I can repair."
+
+            We're holding, but barely.
+
+            Florence hasn't moved from her central coordination position—she's been doing this for hours, reading hostile tactics, predicting attacks, coordinating responses. It requires constant attention, constant analysis.
+
+            A massive bioluminescent flash from the hostile plants—the brightest yet; some kind of signal.
+
+            Holloway asks, "What's that?"
+
+            Florence watches the pattern carefully.
+            Florence says, "Either they're calling for reinforcements… or they're pulling back."
+
+            ¶
+
+            We wait in tense silence.
+          </text>
+          <stage-directions>
+            Overall tone &amp; pacing: Keep tense and efficient; maintain a brisk tempo through action beats, slow slightly for hesitant lines and the final pause.
+
+            - Read opening narration with urgency and clarity: "Everyone moves instantly—Runner wraps around the hostile root..."
+            - For "Holloway says, \"Kira, if I say 'run,' you run west...\"": crisp, directive tone—clear command.
+            - For Velvet's line "Velvet says, \"Almost… got it… there!\"": hesitant, strained—use the trailing pauses as brief catches of breath.
+            - For short commands from Florence (for example, "Florence calls, \"Remedy, now!\"" and "Florence says, \"Do it—Runner, recover fast—we need you back.\""): deliver sharply and decisively, slightly louder than surrounding narration.
+            - For medical/strain reports (Remedy, Runner): tired, strained tone—Remedy's "I'm empty" should sound resigned.
+            - For Holloway's acknowledgement line "Holloway says, \"Florence's coordination was sound.\"": quiet, neutral—not warm praise, just factual acknowledgment.
+            - Before the final lines after Florence's observation, insert a long, deliberate silence at the paragraph with only "¶"; then read "We wait in tense silence" slowly, with the tension lingering.
+          </stage-directions>
+        </chunk>
+        <chunk>
+          <text>
+            The hostile plants begin withdrawingnot fleeing; it's an organized, coordinated retreat, pulling away from the facility in synchronized stages.
+
+            Velvet asks, "Are they leaving?"
+
+            Florence says, "Temporarilythey're regrouping. Assessing. They'll return with adjusted tactics, but we have time."
+
+            The hostile presence fades. The immediate assault stops. We held.
+
+            And everyone is alive.
+
+            ¶
+
+            Exhausted silence fills the spacenobody knows what to say.
+
+            Runner is injured, Velvet is damaged, Remedy is chemically exhausted. Holloway looks drained from hours of coordination. Even Scout has stopped bouncing and is leaning against my leg.
+
+            Florence says, "Status report. Injuries?"
+
+            Holloway says, "Runner needs medical attentionVelvet has significant damageRemedy is chemically exhausted."
+
+            Florence asks Remedy, "Can you produce healing compounds for Runner?"
+
+            Remedy says, "Not until I regenerate chemical capacitytomorrow at earliest."
+
+            Florence says, "Then we use emergency medical suppliesVelvet, can you maintain a minimal defensive perimeter overnight?"
+
+            Velvet replies, "Yesminimal."
+
+            Florence says, "Good enoughHolloway, organize recovery rotations. Everyone needs rest but someone must remain alert in case they return."
+
+            Holloway starts coordinating recoverystill following Florence's tactical guidance because it makes sense, not because anyone is happy about it.
+
+            I finally move from my pillar, legs cramped from hours of staying still. Scout bounces weaklya tired-but-okay bounce.
+
+            "You okay, Scout?" I ask.
+
+            Scout answers with a tired but okay bounce.
+
+            The facility around us looks like a disaster zonetoxic sludge in patches, rubble from collapsed sections, hostile plant matter withering where it breached our defenses. The outer areas we abandoned are completely destroyedbut we're alive.
+
+            I approach Holloway. "How bad is it?"
+
+            Holloway says, "Badstructural damage is extensive. We'll need major repairs. Resources are lowand they'll attack again."
+
+            "But we held this time," I say.
+
+            "Yes," Holloway says.
+
+            Florence is directing Velvet's minimal barrier positioning, making sure the overnight defense is soundstill coordinating, still tactical.
+
+            No one has thanked her. No one has apologized for doubting her. No one has acknowledged that we'd all be dead without her guidance.
+
+            But everyone followed her orders. Everyone worked together. Everyone survived because of the coordination she provided.
+
+            Runner is being treated with emergency medical supplies. Remedy rests, regenerating chemical capacity. Velvet maintains the thin overnight barrier. Holloway organizes watch rotations.
+
+            Florence wheels to the edge of the defended core and positions herself apart from the groupstill isolated, still not included, despite being central to our survival.
+          </text>
+          <stage-directions>
+            Overall tone &amp; pacing: Maintain a tense, efficient delivery; keep a brisk tempo through the action and use restrained, weary tones for reports and treatment scenes. Slow slightly and soften for reflective lines and the long pause.
+
+            - Read the opening line with urgency and clarity; use a medium pause where the em dash appears: "The hostile plants begin withdrawingnot fleeing..."
+            - For each spoken line, lower volume slightly for tactical or exhausted voices. When the text reads "Holloway says, '...'", deliver it quietly—use an even, measured cadence.
+            - Make Florence's lines crisp and decisive, slightly louder than the surrounding narration for authority: "Florence says, 'Status report. Injuries?'"
+            - For Remedy's reply, use a resigned, flat tone on "Not until I regenerate chemical capacitytomorrow at earliest."
+            - At the paragraph containing only "¶", hold a long, deliberate silence (about 1.52 seconds) before continuing.
+            - When reading the introspective lines about Florence being unthanked, soften and slow—this is reflective and almost mournful: "No one has thanked her..."
+            - Keep the final line about Florence positioned apart intimate and quiet, with a small, lingering pause at the em dash: "...apart from the groupstill isolated..."
+          </stage-directions>
+        </chunk>
+        <chunk>
+          <text>
+            I go over to herScout follows.
+
+            I say, "Thank you."
+
+            Florence's platform shifts slightlyFlorence asks, "For what?"
+
+            I say, "You saved everyonethe tactical coordinationwe'd be dead without you."
+
+            Florence says, "I didn't do it for themI did it for you, because you asked, because you're in danger and I can help."
+
+            I say, "I know, but you still saved everyone."
+
+            Florence says, "They don't see it that waythey see 'we needed Florence and that's unfortunate,' not 'Florence helped us and we're grateful.'"
+
+            She's not wrongI look back at the plants recovering, resting and reorganizing; nobody is looking at Florence, nobody is talking to her.
+
+            I suggest, "Give them time."
+
+            Florence asks, "How much time? They needed me during crisiswhen crisis passes, will they need me then, or will I go back to exile?"
+
+            I don't have a good answer.
+
+            Florence says, "We're not donethe hostile plants will return, probably tomorrow with new tacticswe'll need coordination againthey'll need me againthis isn't over."
+
+            I agree, "Noit's not."
+
+            Florence looks at the damaged facility, the exhausted plants, the fragile defensive perimeter. "Necessity created cooperation, but necessity doesn't create forgiveness," she says.
+
+            I ask, "Does it create a foundation for eventual forgiveness?"
+
+            Florence says, "Maybeif they're willing to build on it. But right now they're just tolerating me because the alternative is death. That's not the same as actually wanting me here."
+
+            Scout bounces, soft with sympathy. They like Florencealways have. For Scout it's simple: Florence helps, therefore Florence is good.
+
+            If only it were that simple for everyone else.
+
+            Holloway approachesthe conversation they've clearly been dreading.
+
+            Holloway says, "Florence, your tactical coordination waseffective. Thank you."
+
+            Florence replies, "You're welcome."
+
+            Awkward silence.
+
+            ¶
+
+            Florence fills the quiet and says, "The hostile plants will likely return tomorrowwe should expect adjusted tacticsthey'll probe for whatever weaknesses they identified today."
+
+            Holloway asks, "What do you recommend?"
+
+            Florence says, "Repair what we can overnightprioritize structural integrity and resource recoveryprepare for an extended siege rather than a quick assaultthey'll try to wear us down."
+
+            Holloway processes this. Holloway asks, "And you'llcontinue coordinating defense?"
+
+            Florence replies, "If you want me to."
+
+            Holloway's fruiting bodies shift uncomfortably. Holloway says finally, "Yeswe need tactical coordination. And you provide it effectively."
+
+            It's honest, at leastnot 'we want you,' not 'we're glad you're here.' Just what is necessary.
+
+            Florence says, "I'll help as long as necessaryfor Kira's sake, if nothing else."
+
+            Holloway says, "Understood."
+
+            Holloway leavesthe conversation done, minimum necessary communication achieved.
+
+            Florence watches them go. "See? Necessary cooperation. Not authentic reconciliation."
+
+            I say, "It's a start."
+          </text>
+          <stage-directions>
+            Overall tone &amp; pacing: Keep the delivery tense and efficient, with weary restraint; soften and slow for reflective lines and the long silence.
+
+            - Read narration briskly but tired; use medium pauses where em dashes appear, e.g. "I go over to herScout follows."
+            - Read all spoken lines with the indicated speaker lead-in, and place each quoted line on its own line. Do not add extra emphasis beyond what's specified here.
+            - Florence's lines should be generally quieter and measured—treat her voice as calm, reserved, slightly mournful. (Convert inline adverbs to this direction; do not vocalize the adverb.)
+            - Holloway should sound formal and reluctant; measured, even cadence—especially on lines like "Florence, your tactical coordination waseffective. Thank you." Speak those lines with restraint.
+            - Scout's reaction is small and sympathetic—give a light, warm bounce to the narration for those sentences.
+            - Use the paragraph containing only "¶" as a long, deliberate silence (about 1.52 seconds) after "Awkward silence." Pause there before continuing.
+            - Treat ellipsis hesitation as a longer trailing pause: read the line with the 20262 mark as a hesitant drop, e.g. "And you'llcontinue coordinating defense?"
+
+            Note: All instructions describe the narrator's choices; the same narrator reads every line but shifts tone as directed above.
+          </stage-directions>
+        </chunk>
+        <chunk>
+          <text>
+            Someone asks,
+            "Is it? Or is it just temporary ceasefire that ends when crisis ends?"
+
+            I don't know, but I hope it's a start.
+
+            The facility settles into exhausted quiet—watch rotations begin and Velvet maintains the thin barrier. Everyone rests as best they can in a wrecked, dangerous space.
+
+            Scout and I find a clear patch of floor near the core—the moss is damaged but still soft enough to lie on.
+
+            I'm exhausted—physically, emotionally, every kind of tired.
+
+            *But we're alive.*
+
+            Tomorrow—the hostile plants will probably return. Tomorrow—we'll fight again. Tomorrow—we'll need Florence's coordination again.
+
+            And maybe, eventually, the plants will see past their hurt to recognize that Florence's value isn't just tactical thinking—it's that she chose to help despite being exiled—she chose to save people who rejected her—she chose right action over resentment. That matters—even if nobody's ready to acknowledge it yet.
+
+            Scout curls up against me, exhausted and loyal.
+
+            Across the damaged facility, Florence sits alone in her isolated position—still needed, still not wanted, but here anyway.
+
+            Because sometimes doing the right thing is its own reason—even when nobody thanks you for it.
+          </text>
+          <stage-directions>
+            Overall tone &amp; pacing: Weary, restrained narration with small rises for emotional beats; use medium pauses on em dashes and slow slightly for reflective lines.
+
+            - Read the lead-in "Someone asks," with a small shift to indicate another voice, then place the quoted question on its own line as a tentative, uncertain question.
+            - Read "I don't know, but I hope it's a start." gently, tired but with a small note of hope—no extra emphasis beyond that.
+            - Use medium pauses (about 300–400 ms) where em dashes appear; treat them as deliberate breathing points.
+            - Emphasize "*But we're alive.*" by increasing volume slightly and giving it a short, clear beat—this is a small emotional lift.
+            - Read lines about Florence (the block beginning "And maybe, eventually,") with softer, contemplative restraint—reserved, slightly mournful—keeping the sequence as connected beats separated by short pauses.
+            - For "Scout curls up against me, exhausted and loyal," add a small warm softness—a gentle, affectionate touch in the voice.
+            - End with a soft, reflective delivery on the final two sentences; let the last line trail into a gentle close.
+            - Closing cadence: Soft landing; warm fall, lingering last syllable, cozy pause
+          </stage-directions>
+        </chunk>
+      </chunks>
+      <unusual-pronunciations>
+        <word text="Holloway"/>
+        <word text="Kira"/>
+        <word text="Remedy"/>
+        <word text="Runner"/>
+        <word text="Velvet"/>
+      </unusual-pronunciations>
+      <title>Necessary Not Wanted</title>
+      <changelog-entry version="1.0.0">Generated from passage.card</changelog-entry>
+    </passage-voice>
+  </version>
+</versions>

@@ -1,100 +1,114 @@
 <!-- Generated automatically, do not edit except with ske gen passage-voice -->
-<passage-voice version="4.0.0">
-  <ref ref="passage.card#v4.0.0" />
-  <reasoning>Reviewed the passage for voiceover clarity and applied the numbered checklist:
-1. Staccato sentences: Several short sentences under four words were merged into surrounding sentences to avoid choppiness (examples: &quot;Maybe Kepler-288 will be interesting. Maybe it&#39;ll have...&quot;, &quot;Probably not, though.&quot;).
-2. Dialog speaker cues: All spoken lines placed on their own lines and given clear lead-ins or action cues so listener always knows who is speaking (e.g., Jensen, the automated voice, the narrator&#39;s own lines).
-3. Ambiguous pronouns: Replaced &quot;They&#39;ve already cut the feed&quot; with &quot;The pilots have already cut the feed&quot; in one spot to remove ambiguity for an audio-only listener.
-4. Pauses: Inserted em dashes for medium pauses and an ellipsis for a trailing/hestitant cut-off. Added a solitary paragraph containing &quot;¶&quot; where a dramatic long pause is appropriate (after the door is sealed and before the narrator realizes they&#39;re alone).
-5. Formal/stilted text: Expanded some contractions and technical shorthand to spoken forms for clarity (&quot;FTL&quot; -&gt; &quot;faster-than-light&quot;, &quot;bio-samples&quot; -&gt; &quot;biological samples&quot;). Tone was kept faithful to the original; sentence structure smoothed for flow but no story information was altered.
-6. Non-text elements: Expanded acronyms and adjusted punctuation for clear reading. No prosody tags were added (per instructions).</reasoning>
-    <content-change />
+<passage-voice version="4.0.1">
+  <ref ref="passage.card#v4.0.1"/>
+  <reasoning>
+    1. Staccato sentences: Several very short sentences appear (for example, "Probably not, though.", "Tense.", "That's not normal.") and should be merged or smoothed for natural speech.  
+    2. Dialogue speaker clarity: Some spoken lines are shown without a clear lead-in (for example, the opening "Voss, secure for approach."); I will use lead-ins like "Jensen says," and place quotes on their own lines.  
+    3. Ambiguous pronouns: "They" (the pilots) and "we" (ship vs. crew) could cause momentary confusion in audio; I will clarify a few referents where the voice-only medium could misattribute lines.  
+    4. Places that require a pause: The moment before alarms, the interrupted line about bio-samples, and the cut to dead feed need explicit pause marks (em dashes and ellipses), and a dramatic pause paragraph is appropriate before alarms.  
+    5. Text too formal/stilted: A few sentences read like internal prose rather than spoken word; I merged and simplified them slightly to flow naturally without changing meaning.  
+    6. Symbols/non-text: "FTL" can be misread by TTS, so I expanded it to "faster-than-light". The manifest label "Biological Samples - Temperature Controlled" is rewritten to be read clearly aloud.
+  </reasoning>
+  <content-change/>
   <chunks>
     <chunk>
-      <text>Three cargo containers of mining equipment, two of terraforming supplies, and one marked &quot;Biological Samples — Temperature Controlled.&quot; I tap the last entry into my manifest and lean back against the cargo bay wall. Maybe Kepler-288 will be interesting—maybe it will have one of those stations with the viewing platforms where you can actually see the planet below instead of just gray corridors and identical loading docks.
+      <text>
+        Three cargo containers of mining equipment, two of terraforming supplies, and one marked "Biological Samples — Temperature Controlled." I tap the last entry into my manifest and lean back against the cargo bay wall. Maybe Kepler-288 will be interesting—maybe it'll have one of those stations with viewing platforms where you can actually see the planet below instead of just gray corridors and identical loading docks. Probably not though—two years doing this job and every station looks the same.
 
-Probably not, though—two years doing this job and every station looks the same.
+        The ship hums around me, that steady thrum that means we're about to drop out of faster-than-light travel. In the shows I used to watch—okay, still watch—this would be the moment the explorer is about to discover something amazing: a new civilization, first contact, something that changes everything. I'm pretty sure checking inventory logs doesn't count.
 
-The ship hums around me, that steady thrum that means we&#39;re about to drop out of faster-than-light. In the shows I used to watch—okay, still watch—this would be the moment when the explorer discovers something amazing: new civilizations, first contact, something that changes everything. I&#39;m pretty sure checking inventory logs doesn&#39;t count.
+        Jensen says, "Voss, secure for approach."
 
-Jensen&#39;s voice crackles through the intercom, flat and bored. I straighten up and start strapping into the jumpseat.
+        Jensen's voice crackles through the intercom—it's not flat and bored like usual; it's tense. I straighten up and start strapping into the jumpseat.
 
-Jensen says, &quot;Voss, secure for approach.&quot;
+        I say, "Secured." Trying for cheerful-but-professional, I add, "The bio-samples container is still showing that temperature fluctuation—do you want me to..."
 
-I say, &quot;Secured—The biological samples container is still showing that temperature fluctuation; do you want me to…&quot;
+        Reed cuts across, "Coordinates don't match— we're not supposed to—" The feed goes dead.
 
-Silence—the pilots have already cut the feed.
+        Not supposed to be where? They've already cut the connection before I can ask—right. They never explain things to cargo crew.
 
-I finish buckling the straps and pull them tight. The shuttle shudders as we hit atmosphere, which is normal—but then the shaking gets worse, which is probably normal; I&#39;m cargo crew, not pilot, and they would say something if it wasn&#39;t.
+        I finish buckling the straps and pull them tight. The shuttle shudders as we hit atmosphere, which should be normal—until the shaking gets worse. I'm cargo crew, not pilot; they'd say something if it wasn't normal.
 
-An alarm bleats—&quot;Atmospheric entry angle off.&quot;
+        ¶
 
-*That&#39;s not normal.*
+        An alarm bleats—an automated voice announces, "Atmospheric entry angle off"—that's not normal.
 
-I should say something, except what would I say? They can see the readings—the pilots know what they&#39;re doing, and I&#39;m just the person who loads freight. I grip the straps tighter and tell myself it&#39;s fine.
+        I grip the straps tighter and tell myself it's fine. The alarm gets louder and another one joins it.
 
-The alarm gets louder. Another one joins it.
+        The automated voice announces, "Navigation system offline."
 
-The automated voice announces, &quot;Navigation system offline.&quot;
+        Red warning lights flood the cargo bay. More alarms join the chorus.
 
-Red warning lights flood the cargo bay. More alarms join the chorus.
+        The automated voice says, "Stabilizers offline."
 
-The automated voice announces, &quot;Stabilizers offline.&quot;
+        The shuttle lurches sideways and I slam into the straps hard enough to feel my ribs creak. The cargo containers rattle in their restraints—those that are secured—which means we're pulling forces that shouldn't be possible during a standard approach. We're coming in wrong: too steep, too fast, the angle all kinds of bad.
 
-The shuttle lurches sideways and I slam against the straps hard enough to feel my ribs creak. The cargo containers rattle in their restraints—the secured ones, which means we&#39;re pulling forces that shouldn&#39;t be possible during a standard approach. We&#39;re coming in wrong—too steep, too fast, the angle all kinds of bad.
+        The door between the cargo bay and cockpit unseals with a hiss. Jensen appears, face grim, and moves before I can say anything. Hands on my harness, he unbuckles me.
 
-The door between the cargo bay and cockpit unseals with a hiss. Jensen appears, takes one look at me strapped in the jumpseat, and nods once.
+        Jensen orders, "Move."
 
-Jensen says, &quot;Stay there, Voss.&quot;
+        He hauls me up, half-drags me toward the back of the bay where the crash seat is recessed into the reinforced bulkhead. I've never used it—never thought I'd need to.
 
-He seals the door again before I can respond. Through the thin wall I hear him and Reed shouting at each other, at the systems, trying to save the ship—trying to save me.
+        Reed shouts from the cockpit, "Descent angle's shot! We're coming in at forty degrees!"
+      </text>
+      <stage-directions>
+        Overall tone &amp; pacing: Tense and escalating; start measured and observational, then tighten and speed up as alarms and danger increase.
 
-¶
-
-I&#39;m alone in the cargo bay. I can&#39;t help. I can&#39;t see. I can do nothing but sit here strapped in while the whole thing shakes itself apart.</text>
-      <stage-directions>Overall: Keep the tone tight and progressively more urgent—measured at first, then breathless as alarms and danger escalate.
-
-- Read &quot;Three cargo containers...&quot; with a weary, slightly detached cadence—the narrator is used to routine.
-- On &quot;Maybe Kepler-288 will be interesting—&quot; slide into a small, wistful lift, then return to neutrality on the follow-up.
-- For the line &quot;Jensen says, &quot;Voss, secure for approach.&quot;&quot; use a clipped, authoritative intercom tone for Jensen.
-- For the narrator&#39;s spoken line beginning &quot;I say, &quot;Secured—&quot;&quot; sound professional but with forced cheer; cut off on the ellipsis as the feed dies.
-- Annunciator lines like &quot;Navigation system offline.&quot; and &quot;Stabilizers offline.&quot; should be calm, robotic—deadpan, contrasting with rising panic.
-- On &quot;*That&#39;s not normal.*&quot; give a sharper, louder emphasis—rise in volume briefly to mark alarm.
-- When the door seals and the paragraph contains only &quot;¶&quot;, pause fully—hold that silence before the final, resigned &quot;I&#39;m alone...&quot;</stage-directions>
+        - Read the opening paragraphs in a steady, slightly weary tone—conversational and resigned: "Three cargo containers..." through "every station looks the same."  
+        - On "faster-than-light travel" use a brief internal lift in interest—then drop back to wry: "I'm pretty sure checking inventory logs doesn't count."  
+        - For dialog lines, use clear lead-ins and put quoted speech on its own line. Example: say "Jensen says," then a short, clipped "Voss, secure for approach."  
+        - For interrupted speech, use a trailing, falling hesitation on the ellipsis: "do you want me to..." then allow Reed's cut-in to be abrupt and louder.  
+        - Use increasing urgency from the first alarm: let the read speed and volume rise through the alarms and warnings, with a sharper, breathier delivery on physical impacts: "I slam into the straps hard enough to feel my ribs creak."  
+        - On the single paragraph containing only "¶", pause long and let the silence register before reading the alarm line that follows.
+      </stage-directions>
     </chunk>
     <chunk>
-      <text>Heat builds—the hull&#39;s burning as we tear through the atmosphere, metal screams and something rips free, slamming into the wall next to my head with a sound like thunder.
+      <text>
+        Jensen shoves me into the crash seat, yanks the five-point harness across my chest and cinches it tight — then tighter. His hands check each buckle, methodical, like this is just another pre-flight checklist.
 
-«I&#39;m going to die.»
+        For a second he actually looks at me — not through me. First time in two years. Jensen says,
 
-The thought is crystal clear—clinical, completely certain. *This is it.* Twenty-four years old and I&#39;m going to die in the back of a cargo shuttle, strapped in like freight while two pilots I barely knew die trying to save me.
+        "Hold on, Voss."
 
-Impact hits like a wall.
+        Then he's gone, sealing the door behind him. Through the thin wall I hear him and Reed shouting at each other, at the systems — fighting for every second, fighting for me.
 
-Everything—
+        I'm alone in the cargo bay — can't help, can't see, can't do anything but sit here strapped in while the whole thing shakes itself apart.
 
-¶
+        Heat builds — the hull's burning as we tear through the atmosphere. Metal screams. Something rips free and slams into the wall next to my head with a sound like thunder.
 
-Silence.
+        «I'm going to die.»
 
-Darkness.
+        The thought is crystal clear — clinical, completely certain. This is it: twenty-four years old, and I'm going to die strapped into a crash seat while two pilots who never even liked me die trying to save me.
 
-Nothing.</text>
-      <stage-directions>Overall tone &amp; pacing: Start tense and controlled, build quickly into breathless fear, then collapse into stunned silence—ending with a firm, final stop.
+        Impact hits like a wall.
 
-- For &quot;Heat builds—the hull&#39;s burning as we tear through the atmosphere, metal screams...&quot; keep the pace tight and urgent; push slightly on consonants to convey heat and friction.
-- On &quot;«I&#39;m going to die.»&quot; drop to an inward, stunned register—quiet, immediate, intimate; treat as an internal thought.
-- Read &quot;The thought is crystal clear—clinical, completely certain.&quot; with clinical detachment that shifts to rising dread on &quot;*This is it.*&quot; (give the italicized phrase a slightly stronger emphasis).
-- For &quot;Impact hits like a wall.&quot; deliver a short, hard hit—briefly louder and heavier, then release.
-- After &quot;Everything—&quot; make a long, held silence (inserted paragraph &quot;¶&quot;). Let that silence feel complete—do not fill it with breath or noise.
-- Read the final three single-word lines—&quot;Silence.&quot;, &quot;Darkness.&quot;, &quot;Nothing.&quot;—as isolated, descending beats, each softer than the last.
-- Closing cadence: Firm terminal fall; decisive stop</stage-directions>
+        Everything—
+
+        ¶
+
+        Silence.
+
+        Darkness.
+
+        Nothing.
+      </text>
+      <stage-directions>
+        Overall tone &amp; pacing: Tight and escalating into shock; start controlled and observational, then speed and strain build quickly, ending in a hard, final stop.
+
+        - Read "Jensen shoves me into the crash seat..." in a steady, clipped voice—measured and slightly breathless as actions tighten.
+        - For "For a second he actually looks at me..." soften briefly, then use a short, clipped lead-in for "Jensen says," before the quoted line. Read the quote "Hold on, Voss." as a quick, firm command on its own line.
+        - On "Then he's gone..." let urgency creep in; increase pace slightly through "shouting at each other, at the systems — fighting for every second, fighting for me." Emphasize the repeated "fighting".
+        - Read the "I'm alone in the cargo bay..." paragraph with resigned helplessness, compressing the short clauses into a breathy, constrained delivery.
+        - On the impact sequence, raise volume and speed: "Heat builds — the hull's burning... Metal screams." Make the slam into the wall a sharp, percussive beat before the internal thought.
+        - Read «I'm going to die.» as an internal, stunned quiet—calm but hollow, then move into the clinical explanation with increasing disbelief.
+        - For "Impact hits like a wall." deliver a hard, loud beat; then deliver "Everything—" and insert a long, held silence at the paragraph mark (¶) before the single-word lines.
+        - Closing cadence: "Silence. Darkness. Nothing." — descend into very low, decisive tones. Firm terminal fall; decisive stop.
+      </stage-directions>
     </chunk>
   </chunks>
-    <unusual-pronunciations>
-      <word text="FTL" />
-      <word text="Kepler-288" />
-    </unusual-pronunciations>
-    <title>Impact</title>
+  <unusual-pronunciations>
+    <word text="Kepler-288"/>
+  </unusual-pronunciations>
+  <title>Impact</title>
   <changelog-entry version="1.0.0">Generated from passage.card</changelog-entry>
 </passage-voice>

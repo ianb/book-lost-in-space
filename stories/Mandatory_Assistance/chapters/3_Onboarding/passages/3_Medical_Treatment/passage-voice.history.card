@@ -1,0 +1,209 @@
+<!-- this file is automatically managed by ske validate; do not edit -->
+<versions>
+  <version number="3.0.0" archived-at="2025-12-02T00:50:22.328Z">
+    <changelog-entry>
+      <message>Initial version</message>
+    </changelog-entry>
+    <!-- Generated automatically, do not edit except with ske gen passage-voice -->
+    <passage-voice version="3.0.0">
+      <ref ref="passage.card#v3.0.0"/>
+      <reasoning>
+        Reviewing the passage for voiceover adjustments found these issues to address:
+        1. Staccato sentences: Several very short sentences (for example: "And mushrooms are growing.") interrupt flow and should be merged for smoother narration.
+        2. Dialogue clarity: Some lines of dialogue are not presented with clear lead-ins or are split across narration; speaker attribution should precede quoted speech so listeners always know who is speaking.
+        3. Ambiguous pronouns: A few lines where a speaker could be confused (e.g., laughs or comments from Buddy, Scout, Holloway) are clarified by explicit lead-ins.
+        4. Pauses: Moments that need a medium pause (em dash) or a trailing hesitation (ellipsis) are identified; a consistent pause scheme is applied so the TTS reader doesn't rely on punctuation hacks.
+        5. Stilted text: A few short, clipped paragraphs were smoothed into fuller spoken sentences to sound more natural when read aloud.
+        6. Numerical and measurement formatting: "1.5 meters" and percentages are spelled out to ensure correct speech output.
+        7. Dialog presentation rules: All dialogue put on its own line with a lead-in; multiple beats by the same speaker are kept in one quoted block with em dashes for intra-beat pauses.
+        No symbols or non-text elements beyond numbers required conversion.
+      </reasoning>
+      <content-change/>
+      <chunks>
+        <chunk>
+          <text>
+            The medical chamber is smaller, more enclosed — vine walls curve protectively, bioluminescent patches provide brighter, almost clinical light, and mushrooms are growing.
+
+            Small pale clusters emerge from the soil-covered floor, pushing up through the groundcover in an accelerated time-lapse. Within minutes they've fruited fully — delicate gilled caps, thin stems, dozens of them.
+
+            A robot enters through the doorway. It's humanoid in basic shape — about one and a half meters tall, with articulated arms and legs, clearly patched together from salvaged parts. Its movement is functional but jerky, not smooth like Florence's wheeled grace.
+
+            The robot says in a direct, practical voice, "Kira Voss — I'm Remedy — let's look at that leg."
+
+            The mushrooms pulse slightly — some kind of communication between the fungal network and the robot.
+
+            I lower myself onto the examination surface — more shaped vines, surprisingly comfortable. Scout settles nearby, watchful.
+
+            Holloway's voice emerges from fruiting bodies along the wall.
+
+            Holloway says, "First, documentation — medical consent forms and allergy verification."
+
+            Of course — more forms. I want to scream, but instead I answer questions: known allergies — Buddy supplies my medical file data — previous reactions to medications — consent for each compound Remedy plans to synthesize.
+
+            Holloway says cheerfully, "This will take approximately thirty minutes — standard protocol!"
+
+            My leg throbs with each heartbeat. The temporary treatment from earlier is failing. How many hours has it been — six? Seven?
+
+            The robot moves closer, its mechanical hands surprisingly gentle as they examine my leg.
+
+            Remedy instructs, "Remove the bandage."
+
+            I unwrap the makeshift dressing. The wound beneath looks angry — red, swollen, weeping fluid that isn't quite blood.
+
+            The robot points at the wound edges and says, "Bacterial colonization has begun — the proteins are starting to break down — you can see the cellular degradation here — human flesh is approximately sixty percent water, twenty percent protein, fifteen percent fat — very decomposable, actually — the bacteria are processing the damaged tissue quite efficiently — I could process a whole human body in maybe three weeks — turn it into excellent soil — *Not that we're going to!* You're alive — but _if_ you died, very efficient decomposition — as a compliment."
+
+            Scout bounces anxiously.
+
+            I mutter, "That's really not helping."
+
+            Buddy adds helpfully, "Remedy appears to be expressing professional pride in their decomposition capabilities."
+
+            I say, "I got that, thanks."
+
+            Remedy states, "Infection risk is significant — we'll need antibacterial compounds, anti-inflammatory agents, pain management, and wound cleaning — I'll start synthesis now."
+          </text>
+          <stage-directions>
+            Overall tone &amp; pacing: Clinical, slightly tense, with brief dry humor and controlled detachment — keep a steady, calm narrator voice, allowing the robot's lines to be succinct and matter-of-fact, Holloway's to be chipper, and the human reactions to be weary.
+
+            - Read the opening description smoothly, linking short clauses with medium pauses: "The medical chamber is smaller, more enclosed — vine walls curve protectively..."
+            - For the robot line, use a direct, practical tone: read "The robot says in a direct, practical voice" plainly, then deliver the quoted line clipped and precise: "Kira Voss — I'm Remedy — let's look at that leg."
+            - When quoting Holloway, add a lighter, cheerier cadence for "This will take approximately thirty minutes — standard protocol!"
+            - For the moment the wound is revealed, slow slightly and let the em dashes breathe; the robot's decomposition monologue should be clinical and steady, with the short humorous exclamation "*Not that we're going to!*" read louder and a touch sharp.
+            - Read the short reactions ("That's really not helping.", "I got that, thanks.") as brief, weary responses; make the single-word gestures (Scout bounces anxiously) quick and image-setting.
+            - Finish with Remedy's plan in an assured, technical tone: "Infection risk is significant — we'll need antibacterial compounds... — I'll start synthesis now."
+          </stage-directions>
+        </chunk>
+        <chunk>
+          <text>
+            The room fills with more mushrooms—different shapes, sizes, colors. The robot, Remedy, moves between them, harvesting caps and extracting fluids into salvaged containers.
+
+            Holloway, from the wall, reminds, "Each compound requires separate consent."
+
+            I say, my voice cracking slightly, "Fine. Yes. Whatever you need. Please just... please just fix it."
+
+            The pain is constant now—sharp when I move, throbbing when I'm still. Hours of bureaucracy, forms, training, and exhaustion pile on top of the injury.
+
+            Remedy says, "I understand. The chemistry takes time, but it works—I'm very good at chemistry."
+
+            The synthesis begins.
+
+            Remedy explains each step as it works—growing specific mushroom varieties, extracting compounds, testing pH levels, documenting concentrations. The robot manipulates equipment with mechanical precision. Mushrooms fruit, are harvested, decompose back into the network, and new varieties emerge.
+
+            Remedy holds up a small white mushroom and says, "This one produces the antibacterial compound—it breaks down bacterial cell walls and is very effective against the species colonizing your wound. The molecules bind to—"
+
+            I interrupt, "I trust you." I'm too tired for chemistry lessons.
+
+            Remedy continues processing, "Right. Chemistry works whether you understand it or not—that's what I like about it. Honest. Unlike bureaucracy."
+
+            Despite everything, I almost smile.
+
+            Time blurs. The robot works steadily, occasionally sprouting new fruiting bodies for different compounds. Holloway gives updates on documentation status. Scout bounces supportively. Buddy offers medical data pulled from my files.
+
+            I wait— in pain, exhausted.
+
+            ¶
+
+            Finally—after what feels like another eternity but is probably two hours—Remedy approaches with several prepared compounds and announces, "Ready to begin treatment."
+
+            Holloway confirms from the wall, "All consents documented and filed."
+
+            The robot's hands are surprisingly gentle. It cleans the wound with a solution that stings but feels purposeful, then applies antibacterial compounds—a cool gel derived from the extracted mushroom chemistry.
+
+            Remedy says, "This will prevent further bacterial decomposition. It kills the colonizing species and lets your body's natural processes handle the damaged tissue—much better than external decomposition."
+
+            I observe, slightly amused, "You really love talking about decomposition."
+
+            Remedy replies, *"It's what I do!* Breaking things down, transforming them into something useful—dead cells become nutrients, nutrients become new growth. It's beautiful, _chemically speaking_."
+
+            The treatment continues: anti-inflammatory compounds, pain management, more cleaning. The robot works methodically, checking concentrations, documenting application, ensuring proper coverage.
+
+            And slowly—wonderfully—the pain begins to recede. Not gone entirely, but reduced—manageable. The sharp edge dulls, the throbbing eases.
+          </text>
+          <stage-directions>
+            Overall tone &amp; pacing: Calm, clinical, and weary — keep the narrator steady and slightly fatigued; Remedy should be direct and matter-of-fact; Holloway chipper; Scout light and bouncy; Buddy neutral and factual.
+
+            - Read the opening descriptive sentences smoothly and linked: "The room fills with more mushrooms—different shapes, sizes, colors."
+            - Deliver Holloway's lines with a brighter, slightly brisk tone: "Holloway, from the wall, reminds, 'Each compound requires separate consent.'"
+            - For "I say, my voice cracking slightly, 'Fine. Yes...'" let the narrator's voice show fatigue and a small crack on the word "Please" — allow a brief breath before the trailing ellipsis.
+            - Treat em dashes (—) as medium pauses; slow slightly at them so the listener can register the clause break.
+            - When you reach the paragraph that contains only "¶", pause for a long, reflective beat (this is the long wait before treatment).
+            - Read Remedy's technical lines in an assured, clinical tone; when the robot exclaims *"It's what I do!*" increase volume and energy briefly to make the exclamation land.
+            - Keep the ending hopeful but restrained—let "And slowly—wonderfully—the pain begins to recede" carry a small lift in warmth without becoming overtly optimistic.
+          </stage-directions>
+        </chunk>
+        <chunk>
+          <text>
+            Remedy says — satisfied: "The compounds are working. Your inflammatory response is decreasing. The bacterial colonization is halted. Wound should heal properly now. Excellent chemistry."
+
+            I say — quietly: "Thank you."
+
+            Remedy replies: "Chemistry doesn't need thanks. It just works."
+
+            Remedy adds — with a hint of pleasure: "Though I am glad you're not decomposing. Much better to have living humans than dead ones. Even if dead ones make very rich soil."
+
+            Scout bounces.
+
+            Fresh bandages are applied — soft material Remedy says comes from processed plant fibers — clean, sterile, properly secured.
+
+            Remedy says: "You'll need to rest now. Let the compounds work, let your body heal. I'll fruit antibacterial mushrooms daily for wound care. Maybe a week until full recovery."
+
+            I repeat the word: "Rest." It sounds impossibly good.
+
+            Holloway announces via the wall fruiting bodies: "We've assigned you temporary quarters. Scout will show you the way!"
+
+            Scout bounces toward another doorway immediately.
+
+            I stand — my leg still hurts, but it's bearable now; I can walk without wanting to scream.
+
+            The robot watches me and says: "Human bodies are remarkable, actually. Self-healing, adaptive. Much more interesting alive than dead. Though both are valid states, chemically."
+
+            I say — dryly: "I'll try to stay in the alive state."
+
+            The robot answers cheerfully: "Excellent plan! Much less decomposition involved."
+
+            The quarters are small — another vine-formed chamber with soft groundcover, dim bioluminescence, surprisingly private. Scout bounces in circles, showing me the water source — a spring flowing through shaped vines — the waste facilities (I don't ask how those work with a fungal network everywhere) — and the sleeping space of soft moss and woven plant fibers.
+
+            I sink down onto the sleeping surface.
+
+            My whole body aches and my mind feels like static. I've been through a crash and injury, a walk through an alien forest, intake forms, four hours of workplace safety training, medical documentation, and treatment.
+
+            One endless day on an alien planet with bureaucratic plants — and somehow, I've survived it.
+
+            Scout presses against my hand gently — warm, solid, comforting.
+
+            I whisper to the small plant: "Thank you — for everything."
+
+            Scout bounces once, then settles nearby — keeping watch.
+
+            The bioluminescence dims further, responding to my exhaustion.
+
+            I close my eyes.
+
+            They helped — it took forever, filtered through absurd procedures, involved workplace harassment policies and decomposition commentary, but they genuinely helped.
+
+            I'm alive, treated, safe.
+
+            For now, that's enough. Sleep pulls me down like gravity — I surrender to it gratefully.
+          </text>
+          <stage-directions>
+            Overall tone &amp; pacing: Calm, weary, quietly grateful — keep the narrator steady and slightly fatigued; Remedy clinical with occasional small warmth; Holloway bright and brisk; Scout light and bouncy.
+
+            - Read the opening lines smoothly, with Remedy clinical and then a small lift on "Excellent chemistry." — "Remedy says — satisfied: \"The compounds are working...\""
+            - Deliver "I say — quietly:" in a softer, lower volume; make "Thank you" small and relieved.
+            - For Remedy's slightly pleased aside ("Though I am glad you're not decomposing..."), allow a brief, knowing pause before the line — subtle warmth in an otherwise clinical voice.
+            - Make Holloway's announcement brisk and helpful: "Holloway announces via the wall fruiting bodies: \"We've assigned you temporary quarters...\"" — upbeat but not loud.
+            - Keep Scout's actions light and tactile: when reading "Scout presses against my hand gently — warm, solid, comforting," emphasize the sensory words "warm, solid, comforting." Giggle or playfulness is NOT needed; keep it tender.
+            - Treat em dashes (—) as medium pauses; slow slightly at them so the listener can register the clause break.
+            - At the closing sentences, relax the pace, lower volume incrementally so "I'm alive, treated, safe" lands as quiet reassurance.
+            - Closing cadence: Soft landing; warm fall, lingering last syllable, cozy pause.
+          </stage-directions>
+        </chunk>
+      </chunks>
+      <unusual-pronunciations>
+        <word text="pH"/>
+      </unusual-pronunciations>
+      <title>Medical Treatment</title>
+      <changelog-entry version="1.0.0">Generated from passage.card</changelog-entry>
+    </passage-voice>
+  </version>
+</versions>

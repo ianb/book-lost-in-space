@@ -1,0 +1,281 @@
+<!-- this file is automatically managed by ske validate; do not edit -->
+<versions>
+  <version number="3.0.0" archived-at="2025-12-02T00:50:22.290Z">
+    <changelog-entry>
+      <message>Initial version</message>
+    </changelog-entry>
+    <!-- Generated automatically, do not edit except with ske gen passage-voice -->
+    <passage-voice version="3.0.0">
+      <ref ref="passage.card#v3.0.0"/>
+      <reasoning>
+        Review of the passage for voiceover adjustments:
+        1. Staccato sentences: Several short sentences under four words (e.g., "Not one creature. Several.", "More aliens. Great.") that should be merged for smoother speech.
+        2. Dialog speaker clarity: Most dialog has an indicated speaker, but some lines like "Welcome to our planet!" benefit from a lead-in tag to make clear who is speaking in audio.
+        3. Ambiguous pronouns: Minimal, but where multiple entities are present (rolling plants, three pale structures, Scout) ensure speaker attribution is explicit in dialog lines.
+        4. Places that require a pause: The ground bulging and the first emergence of the plant call for a dramatic pause. Also several hesitations and trailing thoughts benefit from explicit pause marks.
+        5. Text that is too formal/stilted: Not necessary to simplify content, but some bracketed descriptive phrasing (e.g., "The voice is warm, cheerful, lilting with woodwind tones.") should be converted to stage-direction style.
+        6. Symbols/non-text elements: The measurement "five centimeters" and "twenty centimeters" are fine as words; no special symbols to read aloud.
+
+        Planned voiceover adjustments follow the rules: merge short sentences, join adjacent short paragraphs, put dialog on its own lines with lead-ins, group multi-beat lines from the same speaker with em dashes, disambiguate pronouns where needed, convert adverbs to stage directions, insert explicit pause markers (—, …, and a paragraph with only "¶") and convert internal thoughts to double-angle quotes.
+      </reasoning>
+      <content-change/>
+      <chunks>
+        <chunk>
+          <text>
+            The movement in the trees resolves into shapes — not one creature, several: rolling spheres like Scout but larger, maybe twice the size, their surfaces almost woven, like wicker basketballs. Three of them tumble forward through the purple shadows, movements coordinated and purposeful.
+
+            I hold still, heart pounding — more aliens. Great.
+
+            Then the ground near my feet bulges.
+
+            ¶
+
+            I jump back — or try to. My injured leg buckles and I catch myself against a tree trunk, gasping.
+
+            Something pushes up through the springy groundcover: a pale structure, maybe five centimeters across, growing rapidly. Within seconds it reaches twenty centimeters tall — a bulbous base tapering to a narrow opening at the top. The surface is smooth, waxy, cream-colored and hollow.
+
+            It looks like a flute — or an ocarina — some kind of instrument.
+
+            Air moves through it: a soft whistling sound, musical and strange.
+
+            And then it speaks.
+
+            The flute-like plant speaks (warm, cheerful, lilting with woodwind tones): "Welcome to our planet!"
+
+            My brain short-circuits — _The plant thing is talking._
+
+            I start to say, "What the—"
+
+            Buddy calls out: "Kira! — I'm receiving audible communication patterns in Standard — the acoustic structure is unlike anything I've documented — but the linguistic content is—"
+
+            I say: "Buddy — Buddy, I can hear it — it's talking."
+
+            Buddy replies: "Yes! Isn't it wonderful?"
+
+            The plant's fluting voice, pleased and utterly surreal: "I'm Holloway — I coordinate resource distribution in this sector — we'd like to conduct a preliminary wellness assessment following your arrival incident."
+
+            Two more of the pale fruiting structures push up from the ground nearby; the same voice emerges from all three sources simultaneously.
+
+            I hear myself say: "You can TALK?"
+
+            The plant answers: "Yes! We learned human communication from educational materials left by the previous visitor — it's very exciting to finally use it again."
+
+            The larger rolling plants gather closer, observing. Scout bounces back into view between them, clearly pleased about something.
+
+            «Previous visitor?»
+
+            My thoughts move through mud. They can talk. The plants can talk. But the way they talk—
+
+            I ask: "Where did you say you learned?"
+
+            The plant replies: "From the educational materials — very comprehensive documentation about human workplace interactions and safety protocols — your associate appears to be an AI companion — noted for documentation purposes."
+
+            «Documentation?»
+
+            And just like that, my brain catches up.
+
+            They speak — but they speak like… like a corporate training video.
+
+            I say slowly: "Buddy — what kind of educational materials teach you to talk like that?"
+
+            Buddy's processing pause is almost audible.
+
+            Buddy says: "Based on the terminology and phrasing patterns — I believe they may have learned Standard from human resources management documentation."
+
+            "Oh no."
+
+            The flute-like voice continues (warmly): "Now then — have you experienced any workplace incidents in the past twenty-four hours?"
+          </text>
+          <stage-directions>
+            Overall tone &amp; pacing: Tense and incredulous, with sudden pockets of surreal, cheerful calm from the plant voice — keep narration mostly steady and breathy, speed up slightly during Buddy's technical excitement, slow and deliberate for moments of shock.
+
+            - Read "The movement in the trees resolves into shapes — not one creature, several:" with calm observation, then quicken slightly on the list that follows.
+            - On "More aliens. Great." deliver "Great." as a dry, sarcastic single-word beat.
+            - Insert a noticeable dramatic pause at the paragraph containing only "¶" before continuing; treat it as a held silence.
+            - For the plant voice lines in quotes, shift to a warmer, lilting tone and slightly higher pitch; keep them fluid and musical.
+            - For Buddy's lines, adopt an excited, slightly staccato analytical tone — "I'm receiving audible communication patterns in Standard —" should sound rapid and technical.
+            - Emphasize internal reactions like "_The plant thing is talking._" with a breathy astonished delivery, slightly louder on the emphasized word.
+            - For the double-angle thoughts «Previous visitor?» and «Documentation?» use a small inward murmur quality, as private realizations.
+            - End the chunk with the plant's question "Now then — have you experienced any workplace incidents in the past twenty-four hours?" in the same warm, official tone, slightly slower to underline the absurdity.
+          </stage-directions>
+        </chunk>
+        <chunk>
+          <text>
+            I gesture at the forest, at myself, at everything.
+            I say, "Workplace — I «crashed». My ship «crashed»."
+
+            The plant's fluted voice says, "Excellent, thank you for that detail. Please describe the nature of any injuries sustained during the incident."
+
+            This can't be real — this is shock, delirium from blood loss.
+
+            I point at my leg; the bandage is soaked through, dark with blood.
+            I say, "Laceration — bleeding — it needs treatment. Now."
+
+            The plant asks, "Estimated blood loss in milliliters?"
+
+            I say, "I don't—what? A lot. Too much. Can you help or not?"
+
+            The plant says in a warm, fluted voice, "Of course we can help! We need to document the incident first per Safety Protocol seven point three. I'm already growing medical assistance nearby — Remedy should have the antibacterial compound ready in approximately twenty minutes."
+
+            Another fruiting body, one meter away, speaks in the same voice, "The growth cycle has specific biological requirements, but I assure you treatment is being prepared."
+
+            Twenty minutes — while I bleed.
+            ¶
+            I say, "Could we maybe speed that up?"
+
+            The plant replies, "I'm afraid the compound synthesis follows a fixed timeline. Now — were you following proper safety procedures at the time of the incident?"
+
+            I stare at the fluted opening.
+            I say, "I was «crashing» — there is no safety protocol for your ship's systems failing mid-approach."
+
+            The plant says, "All activities have associated safety protocols per section two point one. I'll note: protocols unavailable due to emergency circumstances." — "Equipment malfunction or external hostile force?"
+
+            I say, "I don't know — systems just failed. Navigation, stabilizers, everything. We came out of F-T-L in the wrong place and then everything went wrong."
+
+            The plant says, "Equipment malfunction, noted. Cause unknown. This will require additional documentation."
+
+            «My leg hurts.» The pain is a constant throb now, sharp whenever I shift weight. I'm bleeding through the bandage. And this plant — this «talking plant from HR» — wants to file incident reports.
+
+            I say, "Can we please do this *after* you treat the injury?"
+
+            The plant replies, "Medical intervention requires completed incident documentation per section four point two. I understand this may feel frustrating, but proper protocols ensure optimal outcomes."
+
+            The larger rolling plants press their surfaces together, communicating somehow; Scout bounces sympathetically nearby.
+
+            Holloway says, "I'll need your employee identification number."
+
+            I say, "*Employee* — I don't _WORK_ here! I *CRASHED*! I'm not an employee — I'm a — a crash survivor!"
+
+            The plant says, "Visitor status, noted. We'll use arrival timestamp as reference identifier." — "Now, what were you doing immediately before the incident occurred?"
+
+            I say, "Flying — in space."
+
+            The plant asks, "And then?"
+
+            I say, "And then something hit us."
+
+            The plant asks, "I see. And were you the primary operator of the vessel?"
+
+            I say, "I was cargo specialist, but —"
+
+            Buddy says, "Kira's injury severity suggests immediate medical intervention should take priority over —"
+          </text>
+          <stage-directions>
+            Overall tone &amp; pacing: Tense and incredulous, steady breath with quick bursts of panic; the plant voice should be warm and lilting, the narrator steadily breathy and escalating to loud when marked *bold*.
+
+            - Read narrator lines with a tight, rising anxiety; use quickened pace on short urgent statements like "Laceration — bleeding — it needs treatment. Now."
+            - For all plant lines (beginning with "The plant..."), shift to a warmer, fluted tone and slightly higher pitch; keep delivery musical and unhurried.
+            - On the paragraph containing only "¶" insert a long held silence (dramatic pause) before continuing.
+            - Render double-angle text («...») as inward, low-volume thoughts — a private murmur.
+            - When text is wrapped in *bold*, raise volume and forcefulness (shout-like urgency). When text is _italics_, give gentle emotional emphasis.
+            - Buddy's line should be more technical and excited — slightly faster, clipped, and analytical compared to the plant's calm.
+            - Emphasize the change from clinical politeness to the narrator's panic, especially across the lines: "Twenty minutes — while I bleed." and the shouted "Employee — I don't WORK here!".
+          </stage-directions>
+        </chunk>
+        <chunk>
+          <text>
+            Holloway says, "Noted! Once we complete the preliminary documentation, treatment will proceed. Your stress levels appear elevated, Kira. This is completely normal following a workplace incident. Would you like to schedule a wellness consultation?"
+
+            I laugh; I can't help it — the sound comes out half-hysterical.
+
+            A wellness consultation — while I'm bleeding in an alien forest and being interviewed by a talking flute-plant about workplace safety protocols for a spaceship crash. This is my life now.
+
+            But underneath the absurdity, underneath the frustration and the throbbing pain in my leg, I'm starting to hear something else in that warm, fluting voice.
+
+            One of the fruiting bodies says, "I'm noting moderate to severe laceration. Blood loss appears significant. Are you experiencing dizziness or disorientation?"
+
+            «They care. Actually, they care.»
+            They just… only know how to express it through forms and protocols and safety documentation.
+
+            I ask carefully, "The previous visitor — what happened to them?"
+
+            The forest goes quiet; even the larger plants are still.
+
+            Holloway says, "They didn't survive. We didn't understand quickly enough. Communication was… difficult. We tried to help, but our methods were slow, imprecise. By the time we learned what they needed..."
+
+            ¶
+
+            Holloway continues, "They brought the educational materials. We studied them extensively afterward. We wanted to do better. For the next human."
+
+            Oh. «Oh.»
+
+            They learned an entire language from HR manuals because a human died and they wanted to do better next time. They studied workplace safety protocols because they thought that's how humans help each other survive.
+
+            It's tragic and absurd and somehow incredibly touching all at once.
+
+            I say quietly, "Okay — what do you need from me?"
+
+            The fluting brightens immediately.
+
+            Holloway says, "Cooperation is ideal! Following protocol completion, we recommend transport to the central facility for comprehensive medical evaluation, orientation, and workplace safety training."
+
+            Workplace safety training — of course.
+
+            The rest of the questions pass in a blur — I answer on autopilot while my leg throbs and the purple light filters down through the canopy: incident timeline, equipment status, my role on the crew.
+
+            Then a different plant arrives, rolling up with delicate root-tendrils extended — remedy, Holloway calls them. They are gentle with the wound, applying something that smells green and growing and makes the pain recede almost immediately, still explaining protocols the entire time.
+
+            Holloway says via a fresh fruiting body that sprouts several meters ahead, "You'll need to come with us for proper onboarding."
+
+            I repeat, "Onboarding."
+
+            Holloway continues, "And medical evaluation — and orientation — and workplace safety training per section eight point four for all new arrivals."
+          </text>
+          <stage-directions>
+            Overall tone &amp; pacing: Tense and incredulous; the narrator should sound breathy and anxious but measured, with quickened pacing on short reactions; the plant voice (Holloway) should be warm, fluted, and slightly higher-pitched, becoming sadder or brighter as noted.
+
+            - Read "Holloway says, \"Noted!...\"" in a warm, musical, unhurried flute-like tone.
+            - Read narrator lines (e.g., "I laugh; I can't help it — the sound comes out half-hysterical.") with tight, rising anxiety and a slightly breathy quality; the laugh should feel involuntary and edged with hysteria.
+            - Whisper or lower volume on double-angle thought lines, e.g. "«They care. Actually, they care.»" and "«Oh.»" so they feel inward and private.
+            - On the plant's confession (lines beginning with "Holloway says, \"They didn't survive...\""), drop to a sadder, slower cadence; insert a long held silence at the paragraph containing only "¶" — hold silence before continuing.
+            - When Holloway's voice "brightens" (before "Cooperation is ideal!..."), raise pitch slightly and add an uptick of warmth and optimism in delivery.
+            - Deliver the rapid checklist lines ("incident timeline, equipment status, my role on the crew.") in a clipped, autopilot cadence — quick but intelligible.
+            - For the clinical list at the end ("...workplace safety training per section eight point four for all new arrivals."), make the delivery more formal and slightly clipped, as if reciting a procedure.
+          </stage-directions>
+        </chunk>
+        <chunk>
+          <text>
+            I start laughing again, limping forward as Scout bounces alongside me, encouraging. The larger rolling plants form a sort of escort through the purple forest.
+
+            This is going to be my life until rescue comes — if rescue comes.
+
+            Alien planet, sentient plants, bureaucratic protocols for *everything*.
+
+            I can work with this — I have to.
+
+            I tell Holloway, "Lead the way."
+
+            The plants answer, "Excellent! I'm already there."
+
+            Of course they are.
+
+            A strange new world — strange new help, but help nonetheless.
+          </text>
+          <stage-directions>
+            Overall tone &amp; pacing: Breathy and incredulous with a weary, wry acceptance; steady pacing with brief quickening on small reactions and a warm, fluted plant voice for the plants.
+
+            - On "I start laughing again," deliver an involuntary, slightly breathy laugh — quick and edged with disbelief.
+            - Read "limping forward as Scout bounces alongside me, encouraging" with a softer, lighter cadence to contrast the laugh.
+            - Pause slightly at the em dash in "until rescue comes — if rescue comes." to convey doubt and a quick inward check.
+            - Deliver "Alien planet, sentient plants, bureaucratic protocols for *everything*." as a clipped, slightly exasperated list; emphasize *everything* with firmer volume.
+            - For "I tell Holloway, \"Lead the way.\"" keep the narrator's voice steady and confident; place the quoted line on its own beat.
+            - For "The plants answer, \"Excellent! I'm already there.\"" shift to a warm, musical, flute-like tone — slightly higher, pleased and collective.
+            - Close with a gentle, resigned acceptance on "A strange new world — strange new help, but help nonetheless." — let the last phrase land softly.
+            - Soft landing; warm fall, lingering last syllable, cozy pause
+          </stage-directions>
+        </chunk>
+      </chunks>
+      <unusual-pronunciations>
+        <word text="Buddy"/>
+        <word text="F-T-L"/>
+        <word text="Holloway"/>
+        <word text="Kira"/>
+        <word text="Remedy"/>
+        <word text="Scout"/>
+        <word text="ocarina"/>
+      </unusual-pronunciations>
+      <title>Wellness Check</title>
+      <changelog-entry version="1.0.0">Generated from passage.card</changelog-entry>
+    </passage-voice>
+  </version>
+</versions>

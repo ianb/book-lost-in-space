@@ -33,6 +33,7 @@
     <word text="Elder"/>
     <word text="Elder Heartwood"/>
     <word text="Elder Twist"/>
+    <word text="F-T-L"/>
     <word text="Florence"/>
     <word text="FTL"/>
     <word text="fungal"/>
@@ -46,6 +47,7 @@
     <word text="Kira"/>
     <word text="Kira Voss"/>
     <word text="Leafwhisper"/>
+    <word text="Lian"/>
     <word text="Meridian"/>
     <word text="Mossmantle"/>
     <word text="mycelial"/>
@@ -53,6 +55,7 @@
     <word text="mycorrhizal"/>
     <word text="Oakshade"/>
     <word text="ocarina"/>
+    <word text="Outer Reaches"/>
     <word text="pH"/>
     <word text="photosynthesis"/>
     <word text="Reaching"/>
@@ -65,6 +68,7 @@
     <word text="Spiral-types"/>
     <word text="Streamwalker"/>
     <word text="subspace"/>
+    <word text="Terra"/>
     <word text="Terra Station"/>
     <word text="Territory One"/>
     <word text="Territory Seven"/>
@@ -74,7 +78,5 @@
     <word text="Velvet"/>
     <word text="Voss"/>
   </words>
-  <changelog-entry>
-    <!-- Each time you change this file add a description of what AND WHY you made changes to this element -->
-  </changelog-entry>
+  <changelog-entry version="1.0.0">Generated automatically</changelog-entry>
 </voice-glossary>

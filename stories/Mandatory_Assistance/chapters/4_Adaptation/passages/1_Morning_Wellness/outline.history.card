@@ -1,0 +1,51 @@
+<!-- this file is automatically managed by ske validate; do not edit -->
+<versions>
+  <version number="1.0.0" archived-at="2025-12-02T00:50:22.336Z">
+    <changelog-entry>
+      <message>Initial version</message>
+    </changelog-entry>
+    <outline version="1.0.0">
+      <reasoning>
+        First morning at facility. Show routine, adaptation, wound care. Target 1600 words.
+      </reasoning>
+      <must-convey>
+        - Daily routine emerging
+        - Kira actively learning to navigate system
+        - Phrasing requests in HR language
+        - Wound healing properly
+        - Adaptation happening
+        - Scout as companion
+      </must-convey>
+      <hook-questions>
+        - What's daily life like?
+        - Is her wound healing?
+        - Can she survive this routine?
+      </hook-questions>
+      <launching-situation>
+        Kira sleeping in quarters, Scout keeping watch
+      </launching-situation>
+      <time-of-day>Morning (bioluminescence brightening)</time-of-day>
+      <location-impression>
+        Facility quarters, vine walls, soft groundcover, familiar now
+      </location-impression>
+      <story-goal>
+        Survive, heal, adapt to daily life
+      </story-goal>
+      <pov-inner-life>
+        Kira learning the game - phrase things right, work with each plant's strengths. Dark humor emerging. Recognition she's adapting. Scout genuine companion.
+      </pov-inner-life>
+      <outline>
+        Wake up, Scout present. Morning wellness check from Holloway - knows to phrase as "daily health status update." Forms routine. Remedy wound care with documentation. Wound healing well. Recognition: adapting. Brief hunger mention.
+      </outline>
+      <plot-arc-act>Act 1 (Contact &amp; Bureaucracy) - conclusion</plot-arc-act>
+      <concludes-arc>false</concludes-arc>
+      <use-chapters>true</use-chapters>
+      <concludes-chapter>false</concludes-chapter>
+      <sources>
+        <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/chapter-placement.card" role="Scene 1 outline"/>
+        <ref ref="/world/characters/Holloway.card" role="Holloway coordination"/>
+      </sources>
+      <changelog-entry version="1.0.0">Initialized</changelog-entry>
+    </outline>
+  </version>
+</versions>

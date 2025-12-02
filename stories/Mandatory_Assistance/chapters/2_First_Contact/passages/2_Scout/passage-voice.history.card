@@ -1,0 +1,153 @@
+<!-- this file is automatically managed by ske validate; do not edit -->
+<versions>
+  <version number="3.0.0" archived-at="2025-12-02T00:50:22.277Z">
+    <changelog-entry>
+      <message>Initial version</message>
+    </changelog-entry>
+    <!-- Generated automatically, do not edit except with ske gen passage-voice -->
+    <passage-voice version="3.0.0">
+      <ref ref="passage.card#v3.0.0"/>
+      <reasoning>I reviewed the passage for voiceover-friendly adjustments. Items noted: 1) Several staccato sentences under four words that should be absorbed for smoother flow. 2) Dialog lines where the speaker could be unclear (the AI response) — I labeled the speaker to avoid ambiguity. 3) A few ambiguous emphasized words using asterisks were converted to _italics_ or *bold* for consistent audible emphasis. 4) Places that needed a pause (dramatic pause after the narrator reaches for the beacon) were marked with an em dash and a paragraph with only the marker ¶ for a long pause. 5) Some lines that were separate but part of the same beat (multiple short narrator lines) were joined; repeated speaker beats were grouped and separated with em dashes where appropriate. 6) There were no symbols or non-text elements requiring explicit spoken forms. No narrative content was added, removed, or altered beyond formatting for spoken delivery.</reasoning>
+      <content-change/>
+      <chunks>
+        <chunk>
+          <text>
+            Something drops from the canopy ahead of me.
+
+            I stop dead, heart hammering against my ribs — my hand goes instinctively to the emergency beacon at my belt, though what good that would do—
+
+            ¶
+
+            The thing sits on the groundcover, completely still. It's round — sphere-shaped, maybe the size of a basketball. The surface looks brownish-green and fuzzy, not fur but something plant-like: thin branches or leaves woven tight together. It just sits there in the filtered purple light, utterly motionless — not threatening, just there.
+
+            I stare at it. Does it stare back? There are no eyes visible, but I feel a _presence_ — an awareness.
+
+            I whisper, "Buddy — what am I looking at?"
+
+            Buddy replies, "Scanning now. I'm detecting plant-based organic material, but the locomotion mechanism is—"
+
+            The sphere bounces. Once. A small hop, maybe ten centimeters off the ground.
+
+            I jump back, pain flaring in my leg.
+
+            The sphere bounces again and rolls slightly forward — toward me.
+
+            It's moving _toward_ me.
+
+            I breathe, "Oh shit."
+
+            The sphere — the *plant ball* — bounces closer. Not fast, not aggressive. The movement has a quality like watching a butterfly move: controlled, deliberate. It bounces in a gentle arc, then rolls to a stop, then bounces again.
+
+            Not random. Not mindless. Curious.
+
+            It circles around me at a careful distance. I turn to keep it in view, wincing as my injured leg protests. The plant sphere continues its circuit, observing me from different angles — or at least it feels like observation.
+
+            "Hello?" I try.
+
+            The sphere keeps bouncing. No response. Just that same gentle tumbling movement.
+
+            I ask, "Buddy, is it trying to communicate?"
+
+            Buddy replies, "I'm not receiving any communication signals on standard frequencies. Perhaps it doesn't possess—"
+
+            The plant ball rolls closer, stopping about a meter away. Close enough that I can see the surface isn't smooth — tiny branches shift and reposition themselves like fingers flexing. The whole thing seems to breathe, or pulse, or _something_. Living. Definitely living. And moving with clear purpose.
+
+            My heart is still racing, but it doesn't feel threatening. It feels more like meeting a friendly dog that sniffs you to figure out what you are — curious, investigating.
+
+            I crouch slowly, careful of my injured leg, until I'm closer to the plant's level. "I'm Kira — I crashed here — I don't know if you can understand me, but I'm not trying to hurt anything. I just need water and—"
+
+            The sphere rolls forward, closer, right up to me, examining. It begins to circle me again, but slower this time, deliberate. It stops at my injured leg — the bandage visible through my torn pants — and bounces in place, focused.
+
+            I hold very still.
+          </text>
+          <stage-directions>
+            Overall tone &amp; pacing: Tentative and curious, with steady heart-rate urgency early on, then softening into cautious wonder as the creature approaches.
+
+            - Read the opening sentence alert and clipped: "Something drops from the canopy ahead of me." Then slightly longer breath into the next line.
+            - For "I stop dead, heart hammering against my ribs — my hand goes instinctively to the emergency beacon..." sound tense, quickening, then pause at the em dash; hold the long pause at the paragraph with only "¶".
+            - Voice the AI responses clearly and slightly neutral, e.g., for "Buddy replies, 'Scanning now...'" lower intensity, clinical tone.
+            - Make the whispered lines softer and intimate, e.g., "I whisper, 'Buddy — what am I looking at?'"; do a gentle, breathy delivery for whispered quotes.
+            - When describing the plant ball's movements, slow and gentle — imagine watching a small animal; allow small pauses at em dashes: "controlled, deliberate.".
+            - For the nickname *plant ball*, give a small emphasis to mark it as a distinct label: slightly brighter and curious.
+            - The final lines should be quiet and still: "I hold very still." linger a moment before ending.
+          </stage-directions>
+        </chunk>
+        <chunk>
+          <text>
+            A small tendril extends from the sphere's surface—thin, delicate, reaching toward my bandage, getting closer.
+
+            My breath catches—the tendril is maybe five centimeters away now, stretching out so carefully, so _gently_—
+
+            I jerk back, scrambling to my feet as pain explodes through my leg; I gasp and grab at the injury.
+
+            The plant ball immediately rolls backward—fast, several meters, then stops.
+
+            It just sits there—not approaching.
+
+            I stand, breathing hard, one hand pressed to my thigh; my heart hammers. It was pure instinct, a pure fear response—something unknown reaching for me and every animal part of my brain screamed _danger_.
+
+            But looking at the sphere now…
+
+            It isn't moving—it backed off the instant I flinched and gave me space.
+
+            It wasn't attacking; it was… concerned? Curious about my injury? Trying to help?
+
+            I say, "I'm sorry—you startled me. I didn't mean to…"
+
+            The plant ball doesn't move; it just sits there, waiting.
+
+            Buddy says, "Kira— I don't think it's hostile. The approach patterns suggest curiosity rather than predatory behavior."
+
+            I say, "I know, I know—it's just…"
+
+            First contact—actual alien first contact—and I flinched away like it was going to hurt me.
+
+            I take a slow breath, crouch down again, and say, "It's okay—you can… I'm okay. I just got scared."
+
+            The sphere hesitates—at least it feels like hesitation—then rolls forward slowly and stops closer this time, still not touching, giving me space.
+
+            We regard each other—no words, no shared language—but _something_ passes between us in that moment; some kind of… recognition?
+
+            The plant is curious—and so am I. We're both trying to figure out what the other is.
+
+            The moment hangs in the purple twilight, in the eerie quiet of the alien forest—human and plant-thing, watching each other.
+
+            Then the sphere suddenly shifts—its whole surface rippling, branches realigning. It orients toward the trees; no eyes, but the direction is unmistakable.
+
+            More movement approaches; I can hear it now—rustling in the canopy, the sound of many things moving through the branches. Others are coming.
+
+            The plant ball bounces once more—a quick little hop that feels like acknowledgment or farewell or _something_—then tumbles away rapidly toward the approaching sounds until it disappears into the purple shadows between the trees.
+
+            ¶
+
+            I stand slowly, breathing hard.
+
+            That was… that was first contact.
+
+            An actual alien life form—a bouncing plant ball that can't talk. And somehow, for just a moment, we understood each other.
+
+            The sounds are getting closer—more rustling, more movement. More of them are coming.
+
+            I straighten, heart pounding again for entirely different reasons.
+
+            Time to find out what else lives on this planet.
+          </text>
+          <stage-directions>
+            Overall tone &amp; pacing: Tentative curiosity that softens into a quiet, wonder-filled connection, then shifts to alert readiness as more movement approaches.
+
+            - Read the opening line steady and observant: "A small tendril extends from the sphere's surface—thin, delicate, reaching toward my bandage, getting closer." Allow a slight intake of breath after the em dash.
+            - For "My breath catches—" give a sharp, startled beat, then slow down into the descriptive clause; emphasize _gently_ softly.
+            - Deliver the narrator's spoken lines with a slight tremor: "I say, \"I'm sorry—you startled me. I didn't mean to…\"" Place that dialog on its own line and make it intimate.
+            - Voice Buddy's line gently and slightly clinical: "Buddy says, \"Kira— I don't think it's hostile...\"" — calm, observant, lower intensity.
+            - Use em dashes as medium pauses—hold roughly 300–400ms; use ellipses for trailing hesitation and falling tone.
+            - When the sphere disappears, insert the long dramatic pause: read the sentence before, then pause fully for the paragraph containing only "¶" (allow a longer silence there).
+            - Emphasize the shift from wonder to action near the end; make "Time to find out what else lives on this planet." firm and forward-looking.
+            - Closing cadence: Firm terminal fall; decisive stop.
+          </stage-directions>
+        </chunk>
+      </chunks>
+      <title>First Contact</title>
+      <changelog-entry version="1.0.0">Generated from passage.card</changelog-entry>
+    </passage-voice>
+  </version>
+</versions>

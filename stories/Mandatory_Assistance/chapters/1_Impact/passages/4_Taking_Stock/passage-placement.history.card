@@ -1,0 +1,35 @@
+<!-- this file is automatically managed by ske validate; do not edit -->
+<versions>
+  <version number="1.0.0" archived-at="2025-12-02T00:50:22.252Z">
+    <changelog-entry>
+      <message>Initial version</message>
+    </changelog-entry>
+    <passage-placement version="1.0.0">
+      <reasoning-passage-placement>
+        <!-- For instructions on filling out reasoning: ske instructions stories/Mandatory_Assistance/chapters/1_Impact/passages/4_Taking_Stock/passage-placement.card -->
+      </reasoning-passage-placement>
+      <passage-objective>
+        Show Kira's resourcefulness and problem-solving through inventory assessment with Buddy's "help," reveal the full scope of her dire situation (no rescue, unfixable shuttle, unknown planet), and end with determination to venture outside despite injuries (Scene 4: Taking Stock)
+      </passage-objective>
+      <scene-portion>Complete scene - this passage covers all of Scene 4</scene-portion>
+      <key-moments>
+        - Kira and Buddy assess remaining supplies (food, water, equipment)
+        - Buddy teaches about inventory management while Kira just wants counts
+        - Check shuttle systems - everything critical is destroyed/unfixable
+        - Scan environment: breathable air confirmed, unknown planet, no beacon response
+        - Realize rescue timeline: weeks or months, possibly longer
+        - Calculate immediate survival needs: water, shelter, food sources
+        - Despite fear and injury, Kira commits to going outside to find what she needs
+      </key-moments>
+      <character-focus>
+        Kira's problem-solving: Methodical cargo specialist habits, thinks through priorities, doesn't panic despite dire odds. Shows "Martian" approach - science the shit out of this. Buddy's ongoing "help": Educational tangents about supply categorization, safety protocols for outdoor exploration, genuine enthusiasm for "field trip." Their dynamic now has rhythm - Kira learns to extract useful info between teaching moments. Emotional truth: she's terrified but functional. Stakes are real but she's not giving up.
+      </character-focus>
+      <sources>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/chapter-placement.card" role="Scene 4 outline"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/3_Buddy_Arrives/passage.card" role="Previous passage ending"/>
+        <ref ref="/stories/Mandatory_Assistance/exposition-plan.card" role="Exposition tracking"/>
+      </sources>
+      <changelog-entry version="1.0.0">Initialized passage-placement for Taking Stock, showing problem-solving and setting up venture outside</changelog-entry>
+    </passage-placement>
+  </version>
+</versions>

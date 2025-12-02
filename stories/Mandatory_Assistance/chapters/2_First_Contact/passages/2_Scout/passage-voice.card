@@ -1,137 +1,145 @@
 <!-- Generated automatically, do not edit except with ske gen passage-voice -->
-<passage-voice version="2.0.0">
-  <ref ref="passage.card#v2.0.0" />
-  <reasoning>Reviewed the passage for staccato sentences, unclear dialogue attribution, ambiguous pronouns, pause points, italicized emphasis, and any non-text elements. Adjustments made: merged short sentences under 4 words into nearby sentences, joined adjacent short paragraphs that continued the same thought, put all spoken lines on their own lines with a clear lead-in speaker tag, converted all italicized emphasis to double angle quotes «like this», replaced three-dot ellipses with the single-character ellipsis …, used em dashes — for medium pauses and parenthetical breaks, inserted a ¶ paragraph for a dramatic pause, and clarified the unidentified speaker as &quot;Suit&quot; where the original context implied a system voice. No story meaning or facts were changed.</reasoning>
-    <content-change />
+<passage-voice version="3.0.0">
+  <ref ref="passage.card#v3.0.0"/>
+  <reasoning>I reviewed the passage for voiceover-friendly adjustments. Items noted: 1) Several staccato sentences under four words that should be absorbed for smoother flow. 2) Dialog lines where the speaker could be unclear (the AI response) — I labeled the speaker to avoid ambiguity. 3) A few ambiguous emphasized words using asterisks were converted to _italics_ or *bold* for consistent audible emphasis. 4) Places that needed a pause (dramatic pause after the narrator reaches for the beacon) were marked with an em dash and a paragraph with only the marker ¶ for a long pause. 5) Some lines that were separate but part of the same beat (multiple short narrator lines) were joined; repeated speaker beats were grouped and separated with em dashes where appropriate. 6) There were no symbols or non-text elements requiring explicit spoken forms. No narrative content was added, removed, or altered beyond formatting for spoken delivery.</reasoning>
+  <content-change/>
   <chunks>
     <chunk>
-      <text>Something dropped from the canopy ahead of her.
+      <text>
+        Something drops from the canopy ahead of me.
 
-Kira stopped dead, heart hammering against her ribs. Her hand went instinctively to the emergency beacon at her belt, though what good that would do—
+        I stop dead, heart hammering against my ribs — my hand goes instinctively to the emergency beacon at my belt, though what good that would do—
 
-The thing sat on the groundcover, completely still — round, maybe the size of a basketball. The surface looked brownish-green and fuzzy — not fur, but something plant-like, thin branches or leaves woven tight together. It just sat there in the filtered purple light, utterly motionless.
+        ¶
 
-¶
+        The thing sits on the groundcover, completely still. It's round — sphere-shaped, maybe the size of a basketball. The surface looks brownish-green and fuzzy, not fur but something plant-like: thin branches or leaves woven tight together. It just sits there in the filtered purple light, utterly motionless — not threatening, just there.
 
-Not threatening — just… there.
+        I stare at it. Does it stare back? There are no eyes visible, but I feel a _presence_ — an awareness.
 
-Kira stared at it. It stared back. Did it stare? There were no eyes visible, but she felt a «presence» to it, an awareness.
+        I whisper, "Buddy — what am I looking at?"
 
-Kira whispered, &quot;Buddy. What am I looking at?&quot;
+        Buddy replies, "Scanning now. I'm detecting plant-based organic material, but the locomotion mechanism is—"
 
-Suit reported, &quot;Scanning now. I&#39;m detecting plant-based organic material, but the locomotion mechanism is—&quot;
+        The sphere bounces. Once. A small hop, maybe ten centimeters off the ground.
 
-The sphere bounced once, a small hop maybe ten centimeters off the ground.
+        I jump back, pain flaring in my leg.
 
-Kira jumped back, pain flaring in her leg.
+        The sphere bounces again and rolls slightly forward — toward me.
 
-The sphere bounced again, rolling slightly forward — toward her.
+        It's moving _toward_ me.
 
-Kira breathed, &quot;Oh shit.&quot;
+        I breathe, "Oh shit."
 
-The sphere — the «plant ball» — bounced closer, not fast, not aggressive. The movement had a quality like watching a butterfly move: controlled, deliberate. It bounced in a gentle arc, rolled to a stop, then bounced again — not random, not mindless.
+        The sphere — the *plant ball* — bounces closer. Not fast, not aggressive. The movement has a quality like watching a butterfly move: controlled, deliberate. It bounces in a gentle arc, then rolls to a stop, then bounces again.
 
-Curious — it circled around her at a careful distance, and Kira turned to keep it in view, wincing as her injured leg protested. The plant sphere continued its circuit, observing her from different angles — or at least it felt like observation.
+        Not random. Not mindless. Curious.
 
-Kira tried, &quot;Hello?&quot;
+        It circles around me at a careful distance. I turn to keep it in view, wincing as my injured leg protests. The plant sphere continues its circuit, observing me from different angles — or at least it feels like observation.
 
-The sphere kept bouncing — no response, just that same gentle tumbling movement.
+        "Hello?" I try.
 
-Kira asked, &quot;Buddy, is it trying to communicate?&quot;
+        The sphere keeps bouncing. No response. Just that same gentle tumbling movement.
 
-Suit reported, &quot;I&#39;m not receiving any communication signals on standard frequencies. Perhaps it doesn&#39;t possess—&quot;
+        I ask, "Buddy, is it trying to communicate?"
 
-The plant ball rolled closer, stopping about a meter away. Close enough that Kira could see the surface wasn&#39;t smooth — tiny branches shifted and repositioned themselves like fingers flexing. The whole thing seemed to breathe, or pulse, or «something».
+        Buddy replies, "I'm not receiving any communication signals on standard frequencies. Perhaps it doesn't possess—"
 
-Living — definitely living, and moving with clear purpose.
+        The plant ball rolls closer, stopping about a meter away. Close enough that I can see the surface isn't smooth — tiny branches shift and reposition themselves like fingers flexing. The whole thing seems to breathe, or pulse, or _something_. Living. Definitely living. And moving with clear purpose.
 
-Her heart was still racing, but it didn&#39;t feel threatening — more like when you meet a friendly dog and it sniffs you, trying to figure out what you are.
+        My heart is still racing, but it doesn't feel threatening. It feels more like meeting a friendly dog that sniffs you to figure out what you are — curious, investigating.
 
-Curious — investigating.
+        I crouch slowly, careful of my injured leg, until I'm closer to the plant's level. "I'm Kira — I crashed here — I don't know if you can understand me, but I'm not trying to hurt anything. I just need water and—"
 
-Kira wondered, &quot;Was that a yes? Or just… more bouncing?&quot;
+        The sphere rolls forward, closer, right up to me, examining. It begins to circle me again, but slower this time, deliberate. It stops at my injured leg — the bandage visible through my torn pants — and bounces in place, focused.
 
-She crouched down slowly, careful of her injured leg. Kira said, &quot;I&#39;m Kira — I crashed here — I don&#39;t know if you can understand me, but I&#39;m not— I&#39;m not trying to hurt anything — I just need water and—&quot;
+        I hold very still.
+      </text>
+      <stage-directions>
+        Overall tone &amp; pacing: Tentative and curious, with steady heart-rate urgency early on, then softening into cautious wonder as the creature approaches.
 
-The sphere rolled forward, closer, right up to her, examining. It began to circle her again, but slower this time — deliberate. It stopped at her injured leg — the bandage visible through her torn pants — and bounced in place, focused.
-
-Kira held very still.</text>
-      <stage-directions>Overall tone: Quiet, curious, and cautiously tense, with slow pacing that tightens when the sphere moves closer.
-
-- Read the opening line with a calm alertness: &quot;Something dropped from the canopy ahead of her.&quot;  
-- For &quot;Kira stopped dead, heart hammering...&quot; use a short, sharp emphasis on &quot;stopped dead,&quot; then a breathy, inward tone for the heartbeat detail.  
-- Pause at the paragraph break marked with &quot;¶&quot; for a long, dramatic beat after &quot;utterly motionless.&quot;  
-- When speaking Kira&#39;s lines, lower volume and soften for whispers: &quot;Kira whispered, &#39;Buddy. What am I looking at?&#39;&quot;  
-- For the Suit lines, use a neutral, slightly mechanical tone: &quot;Suit reported, &#39;Scanning now...&#39;&quot;  
-- Emphasize the words inside angle quotes as inward impressions: «presence», «plant ball», «something».  
-- Make the reaction lines (&quot;Kira jumped back...&quot;, &quot;Oh shit.&quot;) quick and reactive — brief rise in urgency.  
-- End the chunk with a very still, measured line for &quot;Kira held very still.&quot; — slow and quiet.</stage-directions>
+        - Read the opening sentence alert and clipped: "Something drops from the canopy ahead of me." Then slightly longer breath into the next line.
+        - For "I stop dead, heart hammering against my ribs — my hand goes instinctively to the emergency beacon..." sound tense, quickening, then pause at the em dash; hold the long pause at the paragraph with only "¶".
+        - Voice the AI responses clearly and slightly neutral, e.g., for "Buddy replies, 'Scanning now...'" lower intensity, clinical tone.
+        - Make the whispered lines softer and intimate, e.g., "I whisper, 'Buddy — what am I looking at?'"; do a gentle, breathy delivery for whispered quotes.
+        - When describing the plant ball's movements, slow and gentle — imagine watching a small animal; allow small pauses at em dashes: "controlled, deliberate.".
+        - For the nickname *plant ball*, give a small emphasis to mark it as a distinct label: slightly brighter and curious.
+        - The final lines should be quiet and still: "I hold very still." linger a moment before ending.
+      </stage-directions>
     </chunk>
     <chunk>
-      <text>A small tendril extended from the sphere&#39;s surface—thin, delicate, reaching toward her bandage, getting closer.
+      <text>
+        A small tendril extends from the sphere's surface—thin, delicate, reaching toward my bandage, getting closer.
 
-Kira&#39;s breath caught as the tendril came within five centimeters—stretching out so carefully, so _gently_…
+        My breath catches—the tendril is maybe five centimeters away now, stretching out so carefully, so _gently_—
 
-She jerked back, scrambling to her feet. Pain exploded through her leg and she gasped, grabbing at the injury.
+        I jerk back, scrambling to my feet as pain explodes through my leg; I gasp and grab at the injury.
 
-The plant ball immediately rolled backward—fast, several meters—then stopped. It just sat there, not approaching.
+        The plant ball immediately rolls backward—fast, several meters, then stops.
 
-Kira stood, breathing hard, one hand pressed against her thigh; her heart hammered. That had been pure instinct, a pure fear response—something unknown reaching for her and every animal part of her brain screamed _danger_.
+        It just sits there—not approaching.
 
-But looking at the sphere now… it hadn&#39;t been moving—it had backed off the instant she flinched, given her space.
+        I stand, breathing hard, one hand pressed to my thigh; my heart hammers. It was pure instinct, a pure fear response—something unknown reaching for me and every animal part of my brain screamed _danger_.
 
-It hadn&#39;t been attacking. It had been… what? Concerned? Curious about her injury? Trying to help?
+        But looking at the sphere now…
 
-Kira said, &quot;I&#39;m sorry. You startled me. I didn&#39;t mean to…&quot;
+        It isn't moving—it backed off the instant I flinched and gave me space.
 
-The plant ball didn&#39;t move—just sat there, waiting.
+        It wasn't attacking; it was… concerned? Curious about my injury? Trying to help?
 
-Buddy said, &quot;Kira, I don&#39;t think it&#39;s hostile. The approach patterns suggest curiosity rather than predatory behavior.&quot;
+        I say, "I'm sorry—you startled me. I didn't mean to…"
 
-Kira said, &quot;I know. I know—it&#39;s just…&quot;
+        The plant ball doesn't move; it just sits there, waiting.
 
-First contact—actual alien first contact—and she&#39;d flinched away like it was going to hurt her.
+        Buddy says, "Kira— I don't think it's hostile. The approach patterns suggest curiosity rather than predatory behavior."
 
-She took a slow breath, then crouched down again. She said, &quot;It&#39;s okay. You can—I&#39;m okay. I just got scared.&quot;
+        I say, "I know, I know—it's just…"
 
-The sphere hesitated—then rolled forward slowly, stopping closer this time but still not touching, giving her space.
+        First contact—actual alien first contact—and I flinched away like it was going to hurt me.
 
-They regarded each other.
+        I take a slow breath, crouch down again, and say, "It's okay—you can… I'm okay. I just got scared."
 
-¶
+        The sphere hesitates—at least it feels like hesitation—then rolls forward slowly and stops closer this time, still not touching, giving me space.
 
-No words, no shared language, but _something_ passed between them—some kind of… recognition. The plant was curious; Kira was curious—both trying to figure out what the other was.
+        We regard each other—no words, no shared language—but _something_ passes between us in that moment; some kind of… recognition?
 
-The moment hung in the purple twilight, in the eerie quiet of the alien forest—human and plant-thing watching each other.
+        The plant is curious—and so am I. We're both trying to figure out what the other is.
 
-Then the sphere suddenly shifted—its whole surface rippling as branches realigned; it oriented toward the trees. No eyes, but the direction was unmistakable.
+        The moment hangs in the purple twilight, in the eerie quiet of the alien forest—human and plant-thing, watching each other.
 
-Kira heard more movement now—the rustling in the canopy, the sound of many things moving through the branches.
+        Then the sphere suddenly shifts—its whole surface rippling, branches realigning. It orients toward the trees; no eyes, but the direction is unmistakable.
 
-The plant ball bounced once more—a quick little hop that felt like acknowledgment, or farewell, or _something_—then tumbled away rapidly toward the approaching sounds, disappearing into the purple shadows between the trees.
+        More movement approaches; I can hear it now—rustling in the canopy, the sound of many things moving through the branches. Others are coming.
 
-Kira stood slowly, breathing hard. That had been first contact—an actual alien life form, a bouncing plant ball that couldn&#39;t speak. And somehow, for a moment, they&#39;d understood each other.
+        The plant ball bounces once more—a quick little hop that feels like acknowledgment or farewell or _something_—then tumbles away rapidly toward the approaching sounds until it disappears into the purple shadows between the trees.
 
-The sounds were getting closer—more rustling, more movement; more of them coming.
+        ¶
 
-Kira straightened, heart pounding again for entirely different reasons.
+        I stand slowly, breathing hard.
 
-Time to find out what else lived on this planet.</text>
-      <stage-directions>Overall tone &amp; pacing: Quiet and curious at first, gently wonder-filled during the mutual recognition, then tightening to alert, purposeful tension as other creatures approach.
+        That was… that was first contact.
 
-- Read &quot;A small tendril extended from the sphere&#39;s surface—thin, delicate, reaching toward her bandage, getting closer.&quot; with calm alertness; slight widening of the voice on &quot;tendril&quot; and a softened &quot;getting closer.&quot; 
-- For &quot;Kira&#39;s breath caught… so _gently_…&quot; use a short inhale before the line and end with a trailing, hesitant finish on the ellipsis.
-- When speaking Kira&#39;s lines (e.g., &quot;Kira said, &#39;I&#39;m sorry...&#39;&quot; and &quot;She said, &#39;It&#39;s okay...&#39;&quot;) lower volume, keep voice slightly trembling for the first, then more steady and soothing for the second.
-- For the Buddy line, use a neutral, slightly analytical tone: &quot;Buddy said, &#39;Kira, I don&#39;t think it&#39;s hostile...&#39;&quot;
-- Pause at the paragraph containing only &quot;¶&quot; for a long dramatic beat—hold stillness here (about 800–900ms) before continuing.
-- Emphasize the word _something_ and _gently_ with a subtle shift in volume; avoid shouting—just make them distinct.
-- For the sphere&#39;s departure and the rising sounds, tighten pacing and increase urgency: shorter phrases, firmer delivery on &quot;The sounds were getting closer—more rustling, more movement; more of them coming.&quot;
-- Closing cadence: Firm terminal fall; decisive stop.</stage-directions>
+        An actual alien life form—a bouncing plant ball that can't talk. And somehow, for just a moment, we understood each other.
+
+        The sounds are getting closer—more rustling, more movement. More of them are coming.
+
+        I straighten, heart pounding again for entirely different reasons.
+
+        Time to find out what else lives on this planet.
+      </text>
+      <stage-directions>
+        Overall tone &amp; pacing: Tentative curiosity that softens into a quiet, wonder-filled connection, then shifts to alert readiness as more movement approaches.
+
+        - Read the opening line steady and observant: "A small tendril extends from the sphere's surface—thin, delicate, reaching toward my bandage, getting closer." Allow a slight intake of breath after the em dash.
+        - For "My breath catches—" give a sharp, startled beat, then slow down into the descriptive clause; emphasize _gently_ softly.
+        - Deliver the narrator's spoken lines with a slight tremor: "I say, \"I'm sorry—you startled me. I didn't mean to…\"" Place that dialog on its own line and make it intimate.
+        - Voice Buddy's line gently and slightly clinical: "Buddy says, \"Kira— I don't think it's hostile...\"" — calm, observant, lower intensity.
+        - Use em dashes as medium pauses—hold roughly 300–400ms; use ellipses for trailing hesitation and falling tone.
+        - When the sphere disappears, insert the long dramatic pause: read the sentence before, then pause fully for the paragraph containing only "¶" (allow a longer silence there).
+        - Emphasize the shift from wonder to action near the end; make "Time to find out what else lives on this planet." firm and forward-looking.
+        - Closing cadence: Firm terminal fall; decisive stop.
+      </stage-directions>
     </chunk>
   </chunks>
-    <unusual-pronunciations>
-      <word text="Kira" />
-    </unusual-pronunciations>
-    <title>First Contact</title>
+  <title>First Contact</title>
   <changelog-entry version="1.0.0">Generated from passage.card</changelog-entry>
 </passage-voice>
