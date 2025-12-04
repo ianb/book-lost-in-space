@@ -1,25 +1,49 @@
 <!-- this file is automatically managed by ske validate; do not edit -->
 <versions>
-  <version number="1.0.0" archived-at="2025-12-02T00:50:22.204Z">
+  <version number="1.0.0" archived-at="2025-12-04T19:04:14.161Z">
     <changelog-entry>
-      <message>Initial version</message>
+      <message>Filled in passage placement details from chapter outline</message>
     </changelog-entry>
     <passage-placement version="1.0.0">
-      <reasoning-passage-placement/>
+      <reasoning-passage-placement>
+        Passage 2 "Demonstrating Belonging" from chapter-placement: Kira shows Torres around facility. Everyone's contributions visible, including Kira's. Plants each speak about Kira's value. Scout's unconditional affection demonstrates genuine relationships. Torres beginning to understand. Crew accepts, leaves beacon, departs.
+      </reasoning-passage-placement>
       <passage-objective>
-        TBD
+        Show Kira demonstrating her genuine belonging through the transformed facility, testimony from each plant, and Scout's obvious affection - leading to the crew's acceptance and departure.
       </passage-objective>
-      <scene-portion>TBD</scene-portion>
+      <scene-portion>Complete scene - covers all of Passage 2 (Demonstrating Belonging)</scene-portion>
       <key-moments>
-        TBD
+        - Kira shows Torres and medical officer around facility
+        - Transformed spaces - everyone's contributions visible
+        - Runner's acoustic chambers (Torres amazed)
+        - Velvet's artistic structural growth
+        - Remedy's enhancement compounds
+        - Collective design incorporating Kira's human needs
+        - Kira: I helped design this, my voice shaped these decisions
+        - Torres talking with plant community members
+        - Holloway: Kira is valued member, free to leave, we hope she stays
+        - Florence: I was exiled, chose to return, Kira helped me believe redemption possible
+        - Runner/Velvet/Remedy describe Kira's contributions
+        - Scout's obvious unconditional affection
+        - Scout bouncing between Kira and Torres, showing love
+        - Torres beginning to understand: this isn't captivity or delusion
+        - Medical officer: all indicators show she's thriving
+        - Torres: this is highly irregular
+        - Kira: belonging usually is
+        - Torres accepts: it's your choice, your life
+        - Leaves emergency beacon and contact information
+        - If you ever want extraction, activate beacon
+        - Kira: I appreciate that, but won't be changing my mind
+        - Final formalities, crew departing
+        - Kira watches freighter leave without regret
+        - Community gathered, processing that she chose to stay
       </key-moments>
       <character-focus>
-        TBD
+        Torres's journey from skepticism to understanding. Each plant's testimony about Kira's value. Scout's simple demonstration of genuine love. Kira's certainty growing as she shows what she's built. The community's quiet hope as the freighter departs.
       </character-focus>
       <sources>
-        <ref ref="/todo/stories/TBD/chapters/TBD/chapter-placement.card#v0.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/14_Choosing_Home/chapter-placement.card" role="Passage 2 outline"/>
       </sources>
-      <changelog-entry version="1.0.0">Initialized</changelog-entry>
     </passage-placement>
   </version>
 </versions>

@@ -1,7 +1,4 @@
-<passage-placement version="1.0.0">
-  <reasoning-passage-placement>
-    Scene 1 from chapter-placement: Runner and Velvet's peaceful delegation rejected. Hostile plants refuse coexistence. Attack is coming. Group tries to prepare but coordination is poor without Florence's tactical thinking.
-  </reasoning-passage-placement>
+<passage-placement version="1.1.0">
   <passage-objective>
     Show the peaceful option failing and the group's inadequate preparation without Florence's tactical mind, setting up the desperate situation of the coming attack.
   </passage-objective>
@@ -19,7 +16,4 @@
   <character-focus>
     Runner and Velvet as failed diplomats. Kira watching helplessly, knowing Florence could help. Holloway struggling to coordinate. The group's vulnerability without Florence.
   </character-focus>
-  <sources>
-    <ref ref="/stories/Mandatory_Assistance/chapters/11_Under_Attack/chapter-placement.card" role="Scene 1 outline"/>
-  </sources>
 </passage-placement>

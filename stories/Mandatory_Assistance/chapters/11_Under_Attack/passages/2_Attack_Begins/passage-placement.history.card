@@ -1,25 +1,35 @@
 <!-- this file is automatically managed by ske validate; do not edit -->
 <versions>
-  <version number="1.0.0" archived-at="2025-12-02T00:50:22.100Z">
+  <version number="1.0.0" archived-at="2025-12-04T19:02:50.306Z">
     <changelog-entry>
-      <message>Initial version</message>
+      <message>Filled in passage placement details from chapter outline</message>
     </changelog-entry>
     <passage-placement version="1.0.0">
-      <reasoning-passage-placement/>
+      <reasoning-passage-placement>
+        Scene 2 from chapter-placement: Attack in full force. Disorganized defense failing. Real danger to Kira and plants. Force the recognition that they need Florence's help to survive.
+      </reasoning-passage-placement>
       <passage-objective>
-        TBD
+        Show the attack overwhelming the disorganized defense, real danger to Kira and plants, forcing Holloway to accept that they need Florence's help to survive.
       </passage-objective>
-      <scene-portion>TBD</scene-portion>
+      <scene-portion>Complete scene - covers all of Scene 2 (Attack Begins)</scene-portion>
       <key-moments>
-        TBD
+        - Hostile plants attack from multiple directions
+        - Coordinated assault on facility
+        - Weird wonderful plant combat - roots, spores, living barriers
+        - Group defends but disorganized
+        - Facility taking real damage
+        - Kira in genuine danger - she could die
+        - Plants getting injured
+        - Holloway realizes they're losing
+        - Kira declares she's getting Florence
+        - Holloway can't argue - survival over pride
       </key-moments>
       <character-focus>
-        TBD
+        Kira in genuine terror. Holloway struggling and failing. Plants fighting desperately but ineffectively. The moment when pride must yield to necessity.
       </character-focus>
       <sources>
-        <ref ref="/todo/stories/TBD/chapters/TBD/chapter-placement.card#v0.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/11_Under_Attack/chapter-placement.card" role="Scene 2 outline"/>
       </sources>
-      <changelog-entry version="1.0.0">Initialized</changelog-entry>
     </passage-placement>
   </version>
 </versions>

@@ -1,25 +1,46 @@
 <!-- this file is automatically managed by ske validate; do not edit -->
 <versions>
-  <version number="1.0.0" archived-at="2025-12-02T00:50:22.210Z">
+  <version number="1.0.0" archived-at="2025-12-04T19:04:24.751Z">
     <changelog-entry>
-      <message>Initial version</message>
+      <message>Filled in passage placement details from chapter outline</message>
     </changelog-entry>
     <passage-placement version="1.0.0">
-      <reasoning-passage-placement/>
+      <reasoning-passage-placement>
+        Passage 3 "Where Voices Belong" from chapter-placement: Final scene. Freighter gone. Scout explodes in celebration. Community celebration with everyone contributing uniquely. Florence and Kira parallel acknowledgment. Thematic payoff: home is where your voice matters. Story ends with community building future together.
+      </reasoning-passage-placement>
       <passage-objective>
-        TBD
+        Deliver the emotional and thematic resolution - celebration of Kira's choice, each voice contributing uniquely, the final understanding of what belonging means, and the community's hopeful future together.
       </passage-objective>
-      <scene-portion>TBD</scene-portion>
+      <scene-portion>Complete scene - covers all of Passage 3 (Where Voices Belong)</scene-portion>
       <key-moments>
-        TBD
+        - Freighter gone, moment of quiet
+        - Everyone realizes this is permanent
+        - Scout explodes in celebration bounces - family staying together!
+        - Community celebration begins
+        - Not because she chose them specifically, but because she chose authentically
+        - Everyone contributing uniquely: Runner's acoustics, Velvet's spaces, Remedy's enhancements
+        - Holloway coordinating but not controlling
+        - Florence participating fully as equal
+        - Scout spreading joy to everyone
+        - Florence approaches: you made same choice I did - right action over obligation
+        - Holloway: community is richer for your voice
+        - Kira: I finally understand what home means
+        - Not where you're from, but where your voice matters
+        - Community agrees: individual voices creating better harmony than protocol
+        - Celebration continues into evening
+        - Plans for future - next projects, everyone contributing
+        - Building future together intentionally
+        - Scout curled against Kira, content
+        - Buddy: you found belonging. That's the real mission success.
+        - Final image: everyone working together, individual voices creating harmony
+        - Weird, absurd, wonderful. And home.
       </key-moments>
       <character-focus>
-        TBD
+        The whole community in celebration. Scout's pure joy. Florence's parallel recognition. Holloway's pride in what they've built together. Kira's certainty and peace. The thematic statement delivered through collective happiness.
       </character-focus>
       <sources>
-        <ref ref="/todo/stories/TBD/chapters/TBD/chapter-placement.card#v0.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/14_Choosing_Home/chapter-placement.card" role="Passage 3 outline"/>
       </sources>
-      <changelog-entry version="1.0.0">Initialized</changelog-entry>
     </passage-placement>
   </version>
 </versions>

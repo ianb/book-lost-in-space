@@ -1,7 +1,4 @@
-<passage-placement version="1.0.0">
-  <reasoning-passage-placement>
-    Passage 2 "Demonstrating Belonging" from chapter-placement: Kira shows Torres around facility. Everyone's contributions visible, including Kira's. Plants each speak about Kira's value. Scout's unconditional affection demonstrates genuine relationships. Torres beginning to understand. Crew accepts, leaves beacon, departs.
-  </reasoning-passage-placement>
+<passage-placement version="1.1.0">
   <passage-objective>
     Show Kira demonstrating her genuine belonging through the transformed facility, testimony from each plant, and Scout's obvious affection - leading to the crew's acceptance and departure.
   </passage-objective>
@@ -35,7 +32,4 @@
   <character-focus>
     Torres's journey from skepticism to understanding. Each plant's testimony about Kira's value. Scout's simple demonstration of genuine love. Kira's certainty growing as she shows what she's built. The community's quiet hope as the freighter departs.
   </character-focus>
-  <sources>
-    <ref ref="/stories/Mandatory_Assistance/chapters/14_Choosing_Home/chapter-placement.card" role="Passage 2 outline"/>
-  </sources>
 </passage-placement>

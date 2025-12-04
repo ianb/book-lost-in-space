@@ -1,7 +1,4 @@
-<passage-placement version="1.0.0">
-  <reasoning-passage-placement>
-    Passage 1 "Official Choice" from chapter-placement: Freighter arrives. Kira greets crew, makes clear statement: choosing to stay, not being held. Crew skeptical - Stockholm syndrome? Coercion? Kira demonstrates lucidity, free will, rational decision-making. Crew needs convincing this is genuine choice.
-  </reasoning-passage-placement>
+<passage-placement version="1.1.0">
   <passage-objective>
     Show the freighter's arrival, Kira's clear declaration of her choice to stay, and the crew's initial skepticism that must be addressed - is this genuine choice or alien influence?
   </passage-objective>
@@ -31,7 +28,4 @@
   <character-focus>
     Kira confident and clear in her choice. Torres representing reasonable skepticism. Medical officer's objective assessment. Scout's nervous support. The tension between Kira's certainty and the crew's disbelief.
   </character-focus>
-  <sources>
-    <ref ref="/stories/Mandatory_Assistance/chapters/14_Choosing_Home/chapter-placement.card" role="Passage 1 outline"/>
-  </sources>
 </passage-placement>

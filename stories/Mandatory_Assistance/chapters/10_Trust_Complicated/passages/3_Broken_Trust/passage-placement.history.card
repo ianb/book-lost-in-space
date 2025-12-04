@@ -1,25 +1,33 @@
 <!-- this file is automatically managed by ske validate; do not edit -->
 <versions>
-  <version number="1.0.0" archived-at="2025-12-02T00:50:22.075Z">
+  <version number="1.0.0" archived-at="2025-12-04T19:02:34.656Z">
     <changelog-entry>
-      <message>Initial version</message>
+      <message>Filled in passage placement details from chapter outline</message>
     </changelog-entry>
     <passage-placement version="1.0.0">
-      <reasoning-passage-placement/>
+      <reasoning-passage-placement>
+        Scene 3 from chapter-placement: Aftermath of revelation. Florence isolated, group fractured. Kira attempts to mediate but plants can't hear it yet. Group weaker at worst possible time with hostile threat looming.
+      </reasoning-passage-placement>
       <passage-objective>
-        TBD
+        Show the aftermath - Florence isolated, Kira's failed attempt to mediate, the group fractured at the worst possible moment with hostile plants still threatening.
       </passage-objective>
-      <scene-portion>TBD</scene-portion>
+      <scene-portion>Complete scene - covers all of Scene 3 (Broken Trust)</scene-portion>
       <key-moments>
-        TBD
+        - Florence withdrawn and isolated
+        - Plants processing betrayal among themselves
+        - Kira tries to mediate - the advice WAS helpful
+        - Plants can't hear it - too hurt, too betrayed
+        - Florence guilty but also resentful - she WAS right
+        - Hostile plant threats still looming
+        - Group fractured when they need to be united
+        - Recognition: need to resolve this, but no one knows how
       </key-moments>
       <character-focus>
-        TBD
+        Kira frustrated, wanting to help but unable. Florence isolated and hurt. Holloway and others processing betrayal. The whole group vulnerable.
       </character-focus>
       <sources>
-        <ref ref="/todo/stories/TBD/chapters/TBD/chapter-placement.card#v0.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/10_Trust_Complicated/chapter-placement.card" role="Scene 3 outline"/>
       </sources>
-      <changelog-entry version="1.0.0">Initialized</changelog-entry>
     </passage-placement>
   </version>
 </versions>

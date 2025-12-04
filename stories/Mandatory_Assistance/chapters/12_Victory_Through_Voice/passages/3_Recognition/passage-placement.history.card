@@ -1,25 +1,42 @@
 <!-- this file is automatically managed by ske validate; do not edit -->
 <versions>
-  <version number="1.0.0" archived-at="2025-12-02T00:50:22.153Z">
+  <version number="1.0.0" archived-at="2025-12-04T19:03:32.000Z">
     <changelog-entry>
-      <message>Initial version</message>
+      <message>Filled in passage placement details from chapter outline</message>
     </changelog-entry>
     <passage-placement version="1.0.0">
-      <reasoning-passage-placement/>
+      <reasoning-passage-placement>
+        Passage 3 "Recognition" from chapter-placement: Aftermath of victory. Holloway thanks Florence not just for tactics but for empowering others. Each plant acknowledges her value. Small gestures of inclusion - invited to recovery gathering. Not full reconciliation but foundation for real trust.
+      </reasoning-passage-placement>
       <passage-objective>
-        TBD
+        Show the aftermath where plants recognize Florence's genuine value - not just tactical necessity but empowerment. Small gestures of inclusion begin the thaw. Foundation for trust established without rushing to full forgiveness.
       </passage-objective>
-      <scene-portion>TBD</scene-portion>
+      <scene-portion>Complete scene - covers all of Passage 3 (Recognition)</scene-portion>
       <key-moments>
-        TBD
+        - Victory achieved, hostile plants withdrew completely
+        - Everyone injured, facility wrecked, but alive and together
+        - Recovery begins
+        - Holloway speaks first: thanks Florence for empowering everyone
+        - "You didn't just command us, you helped us find our voices"
+        - Florence surprised, cautiously accepting
+        - Runner: "My intelligence was valuable because you listened"
+        - Velvet: "You adapted your plans to include my ideas"
+        - Remedy: "You recognized my innovations"
+        - Not full reconciliation - still hurt - but recognition of value
+        - Small gesture: Holloway invites Florence to recovery gathering
+        - Florence hesitates, then accepts
+        - Scout bounces enthusiastically
+        - Recovery gathering - plants sharing, acknowledging contributions
+        - Florence included in conversation - somewhat apart but not excluded
+        - Kira observing: this is what genuine cooperation looks like
+        - Foundation for real trust beginning to form
       </key-moments>
       <character-focus>
-        TBD
+        Florence receiving recognition she didn't expect. Holloway leading the group toward healing. Each plant acknowledging what Florence enabled in them. Kira witnessing the transformation. Scout's joy at family healing.
       </character-focus>
       <sources>
-        <ref ref="/todo/stories/TBD/chapters/TBD/chapter-placement.card#v0.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/12_Victory_Through_Voice/chapter-placement.card" role="Passage 3 outline"/>
       </sources>
-      <changelog-entry version="1.0.0">Initialized</changelog-entry>
     </passage-placement>
   </version>
 </versions>

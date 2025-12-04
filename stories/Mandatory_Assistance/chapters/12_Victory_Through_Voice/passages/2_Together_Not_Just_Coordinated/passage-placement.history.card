@@ -1,25 +1,39 @@
 <!-- this file is automatically managed by ske validate; do not edit -->
 <versions>
-  <version number="1.0.0" archived-at="2025-12-02T00:50:22.142Z">
+  <version number="1.0.0" archived-at="2025-12-04T19:03:24.628Z">
     <changelog-entry>
-      <message>Initial version</message>
+      <message>Filled in passage placement details from chapter outline</message>
     </changelog-entry>
     <passage-placement version="1.0.0">
-      <reasoning-passage-placement/>
+      <reasoning-passage-placement>
+        Passage 2 "Together, Not Just Coordinated" from chapter-placement: Hostile plants return with adapted tactics. Battle requires dynamic response, everyone using judgment. Critical moment when Florence's plan fails and group collectively improvises - success through genuine teamwork. Victory achieved.
+      </reasoning-passage-placement>
       <passage-objective>
-        TBD
+        Show the battle where victory comes through genuine teamwork - each plant's unique contribution matters, Florence's plan fails at critical moment but collective improvisation succeeds, demonstrating authentic cooperation.
       </passage-objective>
-      <scene-portion>TBD</scene-portion>
+      <scene-portion>Complete scene - covers all of Passage 2 (Together, Not Just Coordinated)</scene-portion>
       <key-moments>
-        TBD
+        - Hostile plants return with sophisticated adapted tactics
+        - Coordinated, intelligent attack probing defenses
+        - Florence coordinates but realizes hostiles too adaptive for rigid planning
+        - Calls for dynamic response, everyone using judgment
+        - Weird wonderful plant combat - roots, chemicals, living barriers
+        - Velvet's creative growth solution saves eastern flank
+        - Remedy's chemical innovation turns defense into offense
+        - Runner's underground intelligence identifies hostile command node
+        - Critical moment: Florence's planned tactic for command node fails
+        - Group collectively improvises instead of panicking
+        - Runner underground, Velvet diversion, Remedy cover, Florence coordinating
+        - Success through genuine teamwork, not pre-planned tactics
+        - Hostile plants retreat, recognizing unified creative defense
+        - Victory - exhausted but alive, facility damaged but defensible
       </key-moments>
       <character-focus>
-        TBD
+        Everyone contributing uniquely under pressure. Florence adapting to incorporate others rather than controlling. The collective moment when individual voices create solution no single plan could achieve. Kira witnessing genuine cooperation emerge.
       </character-focus>
       <sources>
-        <ref ref="/todo/stories/TBD/chapters/TBD/chapter-placement.card#v0.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/12_Victory_Through_Voice/chapter-placement.card" role="Passage 2 outline"/>
       </sources>
-      <changelog-entry version="1.0.0">Initialized</changelog-entry>
     </passage-placement>
   </version>
 </versions>

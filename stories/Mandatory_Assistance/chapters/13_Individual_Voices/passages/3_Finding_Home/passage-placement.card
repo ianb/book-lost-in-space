@@ -1,7 +1,4 @@
-<passage-placement version="1.0.0">
-  <reasoning-passage-placement>
-    Passage 3 "Finding Home" from chapter-placement: Kira spending time with each community member. Each conversation shows how her voice contributed and how she's been changed by theirs. Decision crystallizes - she knows what she wants but doesn't voice it yet. Transformation complete.
-  </reasoning-passage-placement>
+<passage-placement version="1.1.0">
   <passage-objective>
     Show Kira's conversations with each community member as she examines what this place means, what home and belonging mean, coming to realization about where she truly belongs without yet voicing her decision.
   </passage-objective>
@@ -29,7 +26,4 @@
   <character-focus>
     Kira in individual moments with each character, discovering through these conversations what belonging means. Each plant's perspective on her value. Scout's unconditional love. Florence's parallel journey of choosing right action. The crystallization of Kira's own voice.
   </character-focus>
-  <sources>
-    <ref ref="/stories/Mandatory_Assistance/chapters/13_Individual_Voices/chapter-placement.card" role="Passage 3 outline"/>
-  </sources>
 </passage-placement>

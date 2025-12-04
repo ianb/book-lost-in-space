@@ -1,7 +1,4 @@
-<passage-placement version="1.0.0">
-  <reasoning-passage-placement>
-    Passage 1 "Voices Emerging" from chapter-placement: Morning after attack, exhausted preparation for next assault. Key shift: plants start contributing tactical ideas instead of just following orders. Runner, Velvet, Remedy each offer innovations that Florence incorporates. The commander-to-collaborator transition visible.
-  </reasoning-passage-placement>
+<passage-placement version="1.1.0">
   <passage-objective>
     Show the shift from Florence commanding to Florence collaborating - plants contributing ideas, Florence incorporating them enthusiastically, the beginnings of genuine teamwork rather than just following orders.
   </passage-objective>
@@ -23,7 +20,4 @@
   <character-focus>
     Florence transitioning from commander to collaborator. Runner, Velvet, Remedy each finding their voice in tactical contributions. Holloway observing the change. Kira noticing the shift in dynamics. Scout as social glue.
   </character-focus>
-  <sources>
-    <ref ref="/stories/Mandatory_Assistance/chapters/12_Victory_Through_Voice/chapter-placement.card" role="Passage 1 outline"/>
-  </sources>
 </passage-placement>

@@ -1,7 +1,4 @@
-<passage-placement version="1.0.0">
-  <reasoning-passage-placement>
-    Passage 2 "Signal From Outside" from chapter-placement: Buddy detects human signal. Group works together to boost communication. Response comes - rescue possible. But Kira feels complicated, not relieved. These plants have become community, family. Two days to decide whether to leave.
-  </reasoning-passage-placement>
+<passage-placement version="1.1.0">
   <passage-objective>
     Show the detection of human signal, group's collaborative effort to establish contact, the success of reaching rescuers - and Kira's complicated feelings as she faces the real possibility of leaving.
   </passage-objective>
@@ -31,7 +28,4 @@
   <character-focus>
     Kira facing the choice she didn't expect to be difficult. Scout's conflicted emotions. The group's immediate willingness to help Kira leave even though they want her to stay. The complexity of belonging when rescue becomes possible.
   </character-focus>
-  <sources>
-    <ref ref="/stories/Mandatory_Assistance/chapters/13_Individual_Voices/chapter-placement.card" role="Passage 2 outline"/>
-  </sources>
 </passage-placement>
