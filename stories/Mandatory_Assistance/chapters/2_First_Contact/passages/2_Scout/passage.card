@@ -148,8 +148,4 @@
     <ref ref="/world/characters/Scout.card" role="Scout's appearance and behavior"/>
     <ref ref="/world/entities/Sector_7-Gamma-412_Planet.card" role="Planet sensory details (purple forest, quiet)"/>
   </sources>
-  <changelog-entry version="3.0.0">
-    <!-- Each time you change this file add a description of what AND WHY you made changes to this element -->
-    Converted to first person present tense
-  </changelog-entry>
 </passage>

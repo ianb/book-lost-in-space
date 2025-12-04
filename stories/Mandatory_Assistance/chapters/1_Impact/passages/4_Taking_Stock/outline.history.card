@@ -114,7 +114,7 @@
       <sources>
         <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/chapter-placement.card" role="Scene 4 outline"/>
         <ref ref="/stories/Mandatory_Assistance/narrative-guide.card" role="Problem-solving tone and Martian energy"/>
-        <ref ref="/world/characters/Kira_Voss.card" role="Kira's resourcefulness and cargo specialist habits"/>
+        <ref ref="/world/world/characters/Kira_Voss.card" role="Kira's resourcefulness and cargo specialist habits"/>
       </sources>
       <changelog-entry version="1.0.0">Initialized detailed outline for Taking Stock - 6 beats showing problem-solving and ending Chapter 1 with determination to venture outside</changelog-entry>
     </outline>

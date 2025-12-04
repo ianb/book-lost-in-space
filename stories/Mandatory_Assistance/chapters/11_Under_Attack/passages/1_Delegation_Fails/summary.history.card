@@ -130,13 +130,13 @@
       <characters>
         <reasoning>Characters present in the passage: Kira (narrator) is present throughout; Runner and Velvet are present at the opening (they leave at dawn), later return and report, so they appear multiple times; Scout is beside Kira and present throughout; Holloway and Remedy take part in the defensive discussion and are present throughout; Florence is isolated at the start (in a far chamber) but appears in person later when Kira goes to her chamber and then leaves with Kira to return to the facility. No other named characters from the available list are mentioned. "Entered" is empty because no character who was entirely absent from the scene at the start arrives for the first time during the passage (Runner and Velvet leave early but were present at the start; Florence is mentioned early as isolated and then spoken-to later rather than arriving from outside the facility). "Exited" is empty because although Runner and Velvet leave at dawn, they both return before the passage ends; no character who was present at the start leaves and fails to reappear before the end. No explicit entities from the provided entity list are referenced in the passage, so the entities list is empty.</reasoning>
         <present>
-          <character ref="/world/characters/Kira_Voss"/>
-          <character ref="/world/characters/Runner"/>
-          <character ref="/world/characters/Velvet"/>
-          <character ref="/world/characters/Scout"/>
-          <character ref="/world/characters/Holloway"/>
-          <character ref="/world/characters/Remedy"/>
-          <character ref="/world/characters/Florence"/>
+          <character ref="/world/world/characters/Kira_Voss"/>
+          <character ref="/world/world/characters/Runner"/>
+          <character ref="/world/world/characters/Velvet"/>
+          <character ref="/world/world/characters/Scout"/>
+          <character ref="/world/world/characters/Holloway"/>
+          <character ref="/world/world/characters/Remedy"/>
+          <character ref="/world/world/characters/Florence"/>
         </present>
         <entities/>
       </characters>

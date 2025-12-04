@@ -199,9 +199,9 @@
       <title>Morning Wellness</title>
       <sources>
         <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/1_Morning_Wellness/outline.card" role="Scene structure"/>
-        <ref ref="/world/characters/Holloway.card" role="Holloway coordination"/>
-        <ref ref="/world/characters/Remedy.card" role="Remedy medical care and decomposition observations"/>
-        <ref ref="/world/characters/Scout.card" role="Scout companionship"/>
+        <ref ref="/world/world/characters/Holloway.card" role="Holloway coordination"/>
+        <ref ref="/world/world/characters/Remedy.card" role="Remedy medical care and decomposition observations"/>
+        <ref ref="/world/world/characters/Scout.card" role="Scout companionship"/>
       </sources>
       <changelog-entry version="1.0.0">Initialized</changelog-entry>
     </passage>

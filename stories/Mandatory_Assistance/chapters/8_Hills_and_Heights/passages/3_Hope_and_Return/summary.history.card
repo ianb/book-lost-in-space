@@ -176,20 +176,20 @@
       <characters>
         <reasoning>I listed any available characters who appear or are mentioned in the passage. Oakshade and Mossmantle speak throughout the scene but are not in the provided character list, so they are noted in the reasoning but not included in the output paths. Elder Heartwood is frequently referenced (and was present at the end of the previous passage), so I include that path. Streamwalker, Brightbloom, Leafwhisper, and Rootwalker are named as upcoming guides later in the passage — they appear after the scene starts, so I mark them as present and as having entered during this passage. No tracked character who is present at the start of this passage then leaves before the end, so EXITED is empty. The passage mentions territories but does not reference the single available entity path directly, so ENTITIES is empty.</reasoning>
         <present>
-          <character ref="/world/characters/Kira_Voss"/>
-          <character ref="/world/characters/Scout"/>
-          <character ref="/world/characters/Buddy"/>
-          <character ref="/world/characters/Elder_Heartwood"/>
-          <character ref="/world/characters/Streamwalker"/>
-          <character ref="/world/characters/Brightbloom"/>
-          <character ref="/world/characters/Leafwhisper"/>
-          <character ref="/world/characters/Rootwalker"/>
+          <character ref="/world/world/characters/Kira_Voss"/>
+          <character ref="/world/world/characters/Scout"/>
+          <character ref="/world/world/characters/Buddy"/>
+          <character ref="/world/world/characters/Elder_Heartwood"/>
+          <character ref="/world/world/characters/Streamwalker"/>
+          <character ref="/world/world/characters/Brightbloom"/>
+          <character ref="/world/world/characters/Leafwhisper"/>
+          <character ref="/world/world/characters/Rootwalker"/>
         </present>
         <entered>
-          <character ref="/world/characters/Streamwalker"/>
-          <character ref="/world/characters/Brightbloom"/>
-          <character ref="/world/characters/Leafwhisper"/>
-          <character ref="/world/characters/Rootwalker"/>
+          <character ref="/world/world/characters/Streamwalker"/>
+          <character ref="/world/world/characters/Brightbloom"/>
+          <character ref="/world/world/characters/Leafwhisper"/>
+          <character ref="/world/world/characters/Rootwalker"/>
         </entered>
         <entities/>
       </characters>

@@ -1,6 +1,6 @@
 <setting version="1.2.0">
   <reasoning-setting>
-    <!-- For instructions on filling out reasoning: ske instructions world/setting.card -->
+    <!-- For instructions on filling out reasoning: ske instructions world/world/setting.card -->
   </reasoning-setting>
   <why-this-setting>This setting inverts the typical first-contact story: instead of humans trying to understand aliens, we watch aliens try to understand humans through the absurd lens of HR manuals and employee handbooks. This creates natural comedy from the collision of bureaucratic process and survival needs, while also exploring how bizarre human culture looks from an outside perspective. The far-future working-class space travel setting provides grounded stakes (no heroic rescue coming) while allowing the focus to stay on the human-alien culture clash.</why-this-setting>
   <what-where-when>Late 27th century, on an uncharted planet in the Outer Reaches (frontier zone beyond established trade routes). A cargo ship crashes during a routine supply run, killing the pilot and copilot; the sole survivor is the low-ranking "cargo specialist" who was never meant to handle navigation or survival. The planet has no human presence but extensive sentient plant-based life. FTL travel exists but FTL communication doesn't—rescue requires a physical messenger to reach populated space, making help weeks or months away at best.</what-where-when>
@@ -23,6 +23,4 @@
     - Standard corporate emergency kits include medical supplies, limited food rations, basic repair tools, and procedural guides—enough to survive short-term but not indefinitely
   </time-place-primer>
   <realism>Comic hard sci-fi; technology follows plausible extrapolations (FTL travel exists with specific constraints, no magic, no impossible physics). The humor comes from character interactions and absurd situations, not from breaking scientific rules. Alien biology can be strange but follows internal logic. Problem-solving should feel grounded even when the circumstances are ridiculous—like The Martian but with bureaucratic plant aliens instead of potatoes.</realism>
-  <changelog-entry version="1.1.0">Added AI companion technology to setting</changelog-entry>
-  <changelog-entry version="1.2.0">Added first human contact tragedy, language revolution from computers, plants' hope to do better</changelog-entry>
 </setting>

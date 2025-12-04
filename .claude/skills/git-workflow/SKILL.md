@@ -25,11 +25,16 @@ ske validate --no-commit                       # Disable auto-commit
 
 ## What Gets Committed
 
-- Version archives (`.version.card` files)
-- Cleared reasoning fields
+By `ske validate`:
+- Updated ref versions
 - Normalized XML formatting
 - Brainstorm pool→used moves
 - TODO reference fixes
+
+By `ske snapshot`:
+- Version archives (`.history.card` files)
+- Cleared reasoning fields
+- Version bumps
 
 ## .gitignore
 

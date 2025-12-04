@@ -179,7 +179,7 @@
       <sources>
         <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/chapter-placement.card" role="Scene 1 outline"/>
         <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/1_Intake/passage-placement.card" role="Passage objectives"/>
-        <ref ref="/world/characters/Holloway.card" role="Holloway's voice and manner"/>
+        <ref ref="/world/world/characters/Holloway.card" role="Holloway's voice and manner"/>
       </sources>
       <changelog-entry version="1.0.0">Initialized</changelog-entry>
     </outline>

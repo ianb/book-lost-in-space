@@ -169,13 +169,13 @@
       <characters>
         <reasoning>I listed only characters explicitly named in the passage that also have matching character card paths in the provided AVAILABLE CHARACTERS list. The passage mentions Oakshade and Mossmantle, and three unnamed plant-beings (fungal, vine, crystalline), but those names/paths were not provided in the AVAILABLE CHARACTERS list so I did not include them. Elder Heartwood, Kira Voss, Scout, and Buddy are named in the passage and have available paths, so they are included. Elder Heartwood appears when the group reaches the valley (i.e., enters during the scene). No character with a provided path is shown to exit (be present at the start and then leave before the passage ends), so EXITED is empty. The only provided entity relevant to the scene is the planet, which I included.</reasoning>
         <present>
-          <character ref="/world/characters/Kira_Voss"/>
-          <character ref="/world/characters/Scout"/>
-          <character ref="/world/characters/Buddy"/>
-          <character ref="/world/characters/Elder_Heartwood"/>
+          <character ref="/world/world/characters/Kira_Voss"/>
+          <character ref="/world/world/characters/Scout"/>
+          <character ref="/world/world/characters/Buddy"/>
+          <character ref="/world/world/characters/Elder_Heartwood"/>
         </present>
         <entered>
-          <character ref="/world/characters/Elder_Heartwood"/>
+          <character ref="/world/world/characters/Elder_Heartwood"/>
         </entered>
         <entities>
           <entity ref="/world/entities/Sector_7-Gamma-412_Planet"/>

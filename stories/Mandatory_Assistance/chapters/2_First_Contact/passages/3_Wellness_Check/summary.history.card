@@ -92,16 +92,16 @@
       <characters>
         <reasoning>Kira and Buddy were present at the end of the previous passage and both appear and speak here. New characters that arrive/appear during this scene are Scout (bounces back into view), Holloway (the speaking fluting fruiting bodies introduce themselves), and Remedy (a plant that arrives and applies treatment). No listed character leaves the scene before the passage ends. The scene takes place on an alien planet, represented by the provided entity path.</reasoning>
         <present>
-          <character ref="/world/characters/Kira_Voss"/>
-          <character ref="/world/characters/Buddy"/>
-          <character ref="/world/characters/Scout"/>
-          <character ref="/world/characters/Holloway"/>
-          <character ref="/world/characters/Remedy"/>
+          <character ref="/world/world/characters/Kira_Voss"/>
+          <character ref="/world/world/characters/Buddy"/>
+          <character ref="/world/world/characters/Scout"/>
+          <character ref="/world/world/characters/Holloway"/>
+          <character ref="/world/world/characters/Remedy"/>
         </present>
         <entered>
-          <character ref="/world/characters/Scout"/>
-          <character ref="/world/characters/Holloway"/>
-          <character ref="/world/characters/Remedy"/>
+          <character ref="/world/world/characters/Scout"/>
+          <character ref="/world/world/characters/Holloway"/>
+          <character ref="/world/world/characters/Remedy"/>
         </entered>
         <entities>
           <entity ref="/world/entities/Sector_7-Gamma-412_Planet"/>

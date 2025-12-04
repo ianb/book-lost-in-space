@@ -134,20 +134,20 @@
       <characters>
         <reasoning>I listed every character who is either present, named, or referred to in the passage. The assembled group at the start explicitly includes Holloway, Runner, Remedy, Velvet, Scout, Florence, and the narrator (Kira Voss). Elder Twist and Elder Heartwood are both mentioned by name in discussion and thus included. No new characters arrive during the scene, so ENTERED is empty. Florence explicitly wheels toward the exit and leaves the gathering mid-scene, so she is in EXITED. Later the group disperses and the narrator (Kira_Voss) and Scout return to the narrator's room before the passage ends, so they also left the common-area scene during the passage and are included in EXITED. The only relevant entity named is the Sector 7-Gamma-412 planet (the facility is mentioned but not listed as an available entity), so that is the sole entity included.</reasoning>
         <present>
-          <character ref="/world/characters/Kira_Voss"/>
-          <character ref="/world/characters/Holloway"/>
-          <character ref="/world/characters/Scout"/>
-          <character ref="/world/characters/Florence"/>
-          <character ref="/world/characters/Elder_Twist"/>
-          <character ref="/world/characters/Elder_Heartwood"/>
-          <character ref="/world/characters/Remedy"/>
-          <character ref="/world/characters/Runner"/>
-          <character ref="/world/characters/Velvet"/>
+          <character ref="/world/world/characters/Kira_Voss"/>
+          <character ref="/world/world/characters/Holloway"/>
+          <character ref="/world/world/characters/Scout"/>
+          <character ref="/world/world/characters/Florence"/>
+          <character ref="/world/world/characters/Elder_Twist"/>
+          <character ref="/world/world/characters/Elder_Heartwood"/>
+          <character ref="/world/world/characters/Remedy"/>
+          <character ref="/world/world/characters/Runner"/>
+          <character ref="/world/world/characters/Velvet"/>
         </present>
         <exited>
-          <character ref="/world/characters/Florence"/>
-          <character ref="/world/characters/Scout"/>
-          <character ref="/world/characters/Kira_Voss"/>
+          <character ref="/world/world/characters/Florence"/>
+          <character ref="/world/world/characters/Scout"/>
+          <character ref="/world/world/characters/Kira_Voss"/>
         </exited>
         <entities>
           <entity ref="/world/entities/Sector_7-Gamma-412_Planet"/>

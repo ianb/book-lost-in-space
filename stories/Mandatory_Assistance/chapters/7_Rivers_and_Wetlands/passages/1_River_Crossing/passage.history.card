@@ -230,8 +230,8 @@
       <title>River Crossing</title>
       <sources>
         <ref ref="/stories/Mandatory_Assistance/chapters/7_Rivers_and_Wetlands/passages/1_River_Crossing/outline.card" role="Passage planning"/>
-        <ref ref="/world/characters/Streamwalker.card" role="Character voice and personality"/>
-        <ref ref="/world/characters/Brightbloom.card" role="Character voice and personality"/>
+        <ref ref="/world/world/characters/Streamwalker.card" role="Character voice and personality"/>
+        <ref ref="/world/world/characters/Brightbloom.card" role="Character voice and personality"/>
       </sources>
       <changelog-entry version="1.0.0">Initialized</changelog-entry>
       <changelog-entry version="2.0.0">Completed Passage 1: River Crossing - first day with Streamwalker and Brightbloom</changelog-entry>
@@ -448,8 +448,8 @@
       <title>River Crossing</title>
       <sources>
         <ref ref="/stories/Mandatory_Assistance/chapters/7_Rivers_and_Wetlands/passages/1_River_Crossing/outline.card" role="Passage planning"/>
-        <ref ref="/world/characters/Streamwalker.card" role="Character voice and personality"/>
-        <ref ref="/world/characters/Brightbloom.card" role="Character voice and personality"/>
+        <ref ref="/world/world/characters/Streamwalker.card" role="Character voice and personality"/>
+        <ref ref="/world/world/characters/Brightbloom.card" role="Character voice and personality"/>
       </sources>
       <changelog-entry version="1.0.0">Initialized</changelog-entry>
       <changelog-entry version="2.0.0">Completed Passage 1: River Crossing - first day with Streamwalker and Brightbloom</changelog-entry>
@@ -669,8 +669,8 @@
       <title>River Crossing</title>
       <sources>
         <ref ref="/stories/Mandatory_Assistance/chapters/7_Rivers_and_Wetlands/passages/1_River_Crossing/outline.card" role="Passage planning"/>
-        <ref ref="/world/characters/Streamwalker.card" role="Character voice and personality"/>
-        <ref ref="/world/characters/Brightbloom.card" role="Character voice and personality"/>
+        <ref ref="/world/world/characters/Streamwalker.card" role="Character voice and personality"/>
+        <ref ref="/world/world/characters/Brightbloom.card" role="Character voice and personality"/>
       </sources>
       <changelog-entry>
         <!-- Each time you change this file add a description of what AND WHY you made changes to this element -->

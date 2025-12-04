@@ -43,7 +43,7 @@
       <concludes-chapter>false</concludes-chapter>
       <sources>
         <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/chapter-placement.card" role="Scene 1 outline"/>
-        <ref ref="/world/characters/Holloway.card" role="Holloway coordination"/>
+        <ref ref="/world/world/characters/Holloway.card" role="Holloway coordination"/>
       </sources>
       <changelog-entry version="1.0.0">Initialized</changelog-entry>
     </outline>

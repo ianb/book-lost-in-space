@@ -137,7 +137,7 @@
       <concludes-chapter>false</concludes-chapter>
       <sources>
         <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/chapter-placement.card" role="Scene 2 outline"/>
-        <ref ref="/world/characters/Scout.card" role="Scout's appearance and behavior"/>
+        <ref ref="/world/world/characters/Scout.card" role="Scout's appearance and behavior"/>
         <ref ref="/stories/Mandatory_Assistance/narrative-guide.card" role="Tone and pacing"/>
       </sources>
       <changelog-entry version="1.0.0">Initialized detailed outline for Scout encounter - 4 beats of wordless first contact</changelog-entry>

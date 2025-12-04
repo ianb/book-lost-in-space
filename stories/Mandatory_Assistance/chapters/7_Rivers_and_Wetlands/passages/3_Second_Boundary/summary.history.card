@@ -179,22 +179,22 @@
       <characters>
         <reasoning>Characters appearing in the passage: Kira Voss (narrator), Streamwalker, Brightbloom, Scout, Leafwhisper, Rootwalker, and two new guides introduced by name: Oakshade and Mossmantle. Streamwalker and Brightbloom begin the scene with Kira (they were part of the previous group) and they leave at the boundary to return to Territory Two, so they exit during the passage. Oakshade and Mossmantle appear at the boundary (they were not present at the start), so they enter during the scene. Leafwhisper and Rootwalker are mentioned (learning/trust references) but do not enter or exit here. Buddy and other listed characters are not mentioned. The only provided entity relevant to the scene is the planet/setting (/world/entities/Sector_7-Gamma-412_Planet). Note: Oakshade and Mossmantle are named in the passage but were not in the supplied list of available character card paths; I have nevertheless included them below as characters who appear and who enter.</reasoning>
         <present>
-          <character ref="/world/characters/Kira_Voss"/>
-          <character ref="/world/characters/Streamwalker"/>
-          <character ref="/world/characters/Brightbloom"/>
-          <character ref="/world/characters/Scout"/>
-          <character ref="/world/characters/Leafwhisper"/>
-          <character ref="/world/characters/Rootwalker"/>
-          <character ref="/world/characters/Oakshade"/>
-          <character ref="/world/characters/Mossmantle"/>
+          <character ref="/world/world/characters/Kira_Voss"/>
+          <character ref="/world/world/characters/Streamwalker"/>
+          <character ref="/world/world/characters/Brightbloom"/>
+          <character ref="/world/world/characters/Scout"/>
+          <character ref="/world/world/characters/Leafwhisper"/>
+          <character ref="/world/world/characters/Rootwalker"/>
+          <character ref="/world/world/characters/Oakshade"/>
+          <character ref="/world/world/characters/Mossmantle"/>
         </present>
         <entered>
-          <character ref="/world/characters/Oakshade"/>
-          <character ref="/world/characters/Mossmantle"/>
+          <character ref="/world/world/characters/Oakshade"/>
+          <character ref="/world/world/characters/Mossmantle"/>
         </entered>
         <exited>
-          <character ref="/world/characters/Streamwalker"/>
-          <character ref="/world/characters/Brightbloom"/>
+          <character ref="/world/world/characters/Streamwalker"/>
+          <character ref="/world/world/characters/Brightbloom"/>
         </exited>
         <entities>
           <entity ref="/world/entities/Sector_7-Gamma-412_Planet"/>

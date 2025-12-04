@@ -159,13 +159,13 @@
       <characters>
         <reasoning>Kira (the narrator) is present throughout. Buddy speaks and provides sensor/recording commentary. The guides Streamwalker and Brightbloom actively lead and comment; Scout accompanies them, bounces and crosses the river. Leafwhisper and Rootwalker are mentioned (Kira feels pangs and notes they are back in Territory One) so they count as appearing even though they are not physically with the group. No other characters from the available list are named or implied. No new characters enter during the passage (the group set up at the start continues through to the end), and no characters who were present at the start leave before the passage ends. The scene takes place on the planet Sector 7-Gamma-412 (the only relevant entity provided).</reasoning>
         <present>
-          <character ref="/world/characters/Kira_Voss"/>
-          <character ref="/world/characters/Buddy"/>
-          <character ref="/world/characters/Streamwalker"/>
-          <character ref="/world/characters/Brightbloom"/>
-          <character ref="/world/characters/Scout"/>
-          <character ref="/world/characters/Leafwhisper"/>
-          <character ref="/world/characters/Rootwalker"/>
+          <character ref="/world/world/characters/Kira_Voss"/>
+          <character ref="/world/world/characters/Buddy"/>
+          <character ref="/world/world/characters/Streamwalker"/>
+          <character ref="/world/world/characters/Brightbloom"/>
+          <character ref="/world/world/characters/Scout"/>
+          <character ref="/world/world/characters/Leafwhisper"/>
+          <character ref="/world/world/characters/Rootwalker"/>
         </present>
         <entities>
           <entity ref="/world/entities/Sector_7-Gamma-412_Planet"/>

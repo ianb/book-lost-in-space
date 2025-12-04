@@ -151,13 +151,13 @@
       <characters>
         <reasoning>I read the passage and identified every named character who appears or speaks. Florence, Velvet, Remedy, Runner, Holloway, Scout, and the first-person narrator (Kira, referred to as “I”) are all explicitly present and active in the scene. No new named characters arrive during this passage — everyone named was already present at the start — so the ENTERED list is empty. Likewise, no named characters leave the scene before it ends, so the EXITED list is empty. The scene takes place in/around the facility on the planet, so I included the provided planetary entity as the relevant location.</reasoning>
         <present>
-          <character ref="/world/characters/Kira_Voss"/>
-          <character ref="/world/characters/Scout"/>
-          <character ref="/world/characters/Florence"/>
-          <character ref="/world/characters/Remedy"/>
-          <character ref="/world/characters/Runner"/>
-          <character ref="/world/characters/Velvet"/>
-          <character ref="/world/characters/Holloway"/>
+          <character ref="/world/world/characters/Kira_Voss"/>
+          <character ref="/world/world/characters/Scout"/>
+          <character ref="/world/world/characters/Florence"/>
+          <character ref="/world/world/characters/Remedy"/>
+          <character ref="/world/world/characters/Runner"/>
+          <character ref="/world/world/characters/Velvet"/>
+          <character ref="/world/world/characters/Holloway"/>
         </present>
         <entities>
           <entity ref="/world/entities/Sector_7-Gamma-412_Planet"/>

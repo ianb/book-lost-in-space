@@ -184,8 +184,8 @@
       <title>Deeper Waters</title>
       <sources>
         <ref ref="/stories/Mandatory_Assistance/chapters/7_Rivers_and_Wetlands/passages/2_Wetlands/outline.card" role="Passage planning"/>
-        <ref ref="/world/characters/Streamwalker.card" role="Character voice"/>
-        <ref ref="/world/characters/Brightbloom.card" role="Character voice"/>
+        <ref ref="/world/world/characters/Streamwalker.card" role="Character voice"/>
+        <ref ref="/world/world/characters/Brightbloom.card" role="Character voice"/>
       </sources>
       <changelog-entry version="1.0.0">Initialized</changelog-entry>
       <changelog-entry version="2.0.0">Completed Passage 2: Deeper Waters - wetland challenges and growing trust</changelog-entry>
@@ -356,8 +356,8 @@
       <title>Deeper Waters</title>
       <sources>
         <ref ref="/stories/Mandatory_Assistance/chapters/7_Rivers_and_Wetlands/passages/2_Wetlands/outline.card" role="Passage planning"/>
-        <ref ref="/world/characters/Streamwalker.card" role="Character voice"/>
-        <ref ref="/world/characters/Brightbloom.card" role="Character voice"/>
+        <ref ref="/world/world/characters/Streamwalker.card" role="Character voice"/>
+        <ref ref="/world/world/characters/Brightbloom.card" role="Character voice"/>
       </sources>
       <changelog-entry version="1.0.0">Initialized</changelog-entry>
       <changelog-entry version="2.0.0">Completed Passage 2: Deeper Waters - wetland challenges and growing trust</changelog-entry>
@@ -531,8 +531,8 @@
       <title>Deeper Waters</title>
       <sources>
         <ref ref="/stories/Mandatory_Assistance/chapters/7_Rivers_and_Wetlands/passages/2_Wetlands/outline.card" role="Passage planning"/>
-        <ref ref="/world/characters/Streamwalker.card" role="Character voice"/>
-        <ref ref="/world/characters/Brightbloom.card" role="Character voice"/>
+        <ref ref="/world/world/characters/Streamwalker.card" role="Character voice"/>
+        <ref ref="/world/world/characters/Brightbloom.card" role="Character voice"/>
       </sources>
       <changelog-entry>
         <!-- Each time you change this file add a description of what AND WHY you made changes to this element -->

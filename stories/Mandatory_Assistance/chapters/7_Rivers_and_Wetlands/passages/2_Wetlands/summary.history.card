@@ -176,13 +176,13 @@
       <characters>
         <reasoning>Characters explicitly present or mentioned in the passage: Kira (the first-person narrator), Buddy, Streamwalker, Brightbloom, and Scout are actively present and interacting in the scene. Leafwhisper and Rootwalker are mentioned by name (comparisons and reminiscing), so they count as appearing in the passage even though they're not actively in the scene. No new characters arrive during this passage (everyone who appears was already present at the scene's start), and no characters who were present at the start leave before the passage ends, so ENTERED and EXITED are empty. No specific named entity from the provided entity list is referenced in the text, so ENTITIES is empty.</reasoning>
         <present>
-          <character ref="/world/characters/Kira_Voss"/>
-          <character ref="/world/characters/Buddy"/>
-          <character ref="/world/characters/Streamwalker"/>
-          <character ref="/world/characters/Brightbloom"/>
-          <character ref="/world/characters/Scout"/>
-          <character ref="/world/characters/Leafwhisper"/>
-          <character ref="/world/characters/Rootwalker"/>
+          <character ref="/world/world/characters/Kira_Voss"/>
+          <character ref="/world/world/characters/Buddy"/>
+          <character ref="/world/world/characters/Streamwalker"/>
+          <character ref="/world/world/characters/Brightbloom"/>
+          <character ref="/world/world/characters/Scout"/>
+          <character ref="/world/world/characters/Leafwhisper"/>
+          <character ref="/world/world/characters/Rootwalker"/>
         </present>
         <entities/>
       </characters>

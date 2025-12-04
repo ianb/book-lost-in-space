@@ -158,14 +158,14 @@
       <characters>
         <reasoning>Kira (the narrator), Scout, and Holloway are explicitly present/active in the passage. The passage also opens immediately after the prior scene where Runner, Velvet, Remedy, Florence, and Buddy were present; the text says “the whole community is gathered,” which indicates those previously-present community members remain present for this scene. No characters from the provided list enter during this passage (Torres and Dr. Chen appear in the text but are not in the available-character list), and nobody from the available list exits before the passage ends. The only provided entity relevant to the scene is the planet/location where the facility/community is located.</reasoning>
         <present>
-          <character ref="/world/characters/Kira_Voss"/>
-          <character ref="/world/characters/Scout"/>
-          <character ref="/world/characters/Holloway"/>
-          <character ref="/world/characters/Runner"/>
-          <character ref="/world/characters/Velvet"/>
-          <character ref="/world/characters/Remedy"/>
-          <character ref="/world/characters/Florence"/>
-          <character ref="/world/characters/Buddy"/>
+          <character ref="/world/world/characters/Kira_Voss"/>
+          <character ref="/world/world/characters/Scout"/>
+          <character ref="/world/world/characters/Holloway"/>
+          <character ref="/world/world/characters/Runner"/>
+          <character ref="/world/world/characters/Velvet"/>
+          <character ref="/world/world/characters/Remedy"/>
+          <character ref="/world/world/characters/Florence"/>
+          <character ref="/world/world/characters/Buddy"/>
         </present>
         <entities>
           <entity ref="/world/entities/Sector_7-Gamma-412_Planet"/>

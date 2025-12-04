@@ -28,7 +28,7 @@
         <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/chapter-placement.card" role="Scene 3 outline"/>
         <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/2_Aftermath/passage.card" role="Previous passage ending"/>
         <ref ref="/stories/Mandatory_Assistance/exposition-plan.card" role="Exposition tracking"/>
-        <ref ref="/world/characters/Buddy.card" role="Buddy's voice and personality"/>
+        <ref ref="/world/world/characters/Buddy.card" role="Buddy's voice and personality"/>
       </sources>
       <changelog-entry version="1.0.0">Initialized passage-placement for Buddy's introduction, establishing comedy/frustration dynamic</changelog-entry>
     </passage-placement>

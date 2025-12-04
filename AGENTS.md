@@ -7,18 +7,21 @@ XML-based format for organizing story elements and narrative planning.
 1. `ske guide` - Find next task and see TBD fields with line numbers
 2. `ske create [path]` - Create a .card file from a template
 3. Fill in fields using the instructions loop (see below)
-4. `ske snapshot [path] -m "why"` - After editing, performs an AI-analyzed version bump
+4. `ske snapshot [path] -m "why you made changes" --no-feedback` or `--from-feedback="user's feedback"` - After completing edits to a file, performs an AI-analyzed version bump. The message should explain *why* (motivation, goal), not *what* (the diff is self-explanatory). You MUST specify either `--no-feedback` or `--from-feedback="..."` to indicate whether changes were guided by user/reader feedback. Use `--from-feedback` to transcribe or paraphrase feedback that led to this change - this will be analyzed to improve future guidance.
 5. `ske validate` - Checks consistency and validity of edits, auto-commits result
+6. Return to `ske guide` to find the next task
 
 ### Instructions Loop
 
-When filling in a card, iterate through fields one at a time:
+When filling in a card:
 
 1. `ske instructions /path.card` - See all TBD fields with line numbers
 2. Pick a field to fill (reasoning fields first!)
 3. `ske instructions '/path.card#/field-name'` - Get detailed guidance for that specific field (shows line number)
-4. Edit the field in the file at the indicated line
+4. Edit the field in the file at the indicated line (fill reasoning + its associated content field together)
 5. Repeat from step 1 until all fields are filled
+
+For simple fields (like `full-name`) you may skip step 3 if the purpose is obvious. For complex fields, always get instructions first.
 
 The `#/field-name` syntax targets a specific field. Line numbers help you locate fields quickly.
 
@@ -52,9 +55,9 @@ You may put freeform notes in `.md` files
 
 ## Core Concepts
 
-**References**: `<ref ref="/world/characters/Name.card#v1.2.0/element-name" role="Reason for reference" />`
-References may include `#v1.0.0` to indicate a version, but this can also be added automatically by `ske validate`
+**References**: `<ref ref="/world/characters/Name.card" role="Reason for reference" />`
 When you use one .card file to generate or inform another file, use `<ref />` to note that reference and track dependencies.
+Leave off version numbers (like `#v1.0.0`) - `ske validate` adds them automatically.
 
 **TBD**: Most fields start out like `<name>TBD</name>` meaning the field has not been visited. `ske tbd` helps scan for TBD fields.
 
@@ -72,3 +75,7 @@ All paths are rooted at the project root (this directory). The project represent
 `brainstorm/` - ideas the agent can use for storybuilding, but are NOT yet canon
 `translation-guides/` - lists different locales and audiences for which the story can be repurposed
 `docs/` - free-form notes on the project
+
+## Reporting Issues
+
+The user is also the developer of `ske`. If you encounter what appears to be a bug in `ske` (unexpected errors, incorrect behavior, confusing output), tell the user so they can triage or fix the issue.

@@ -7,7 +7,7 @@
       <reasoning-character-development/>
       <character-development>TBD</character-development>
       <characters>
-        <ref ref="/todo/world/characters/Example_Character.card" role="role in story"/>
+        <ref ref="/todo/world/world/characters/Example_Character.card" role="role in story"/>
       </characters>
       <sources>
         <ref ref="/todo/stories/TBD/story-info.card#v0.0.0"/>
@@ -107,23 +107,23 @@
         **Buddy**: Starts as a condescending kids' educational AI with rigid safety protocols designed for 8-14 year olds. As Kira gains authority and confidence, Buddy's programming adapts to treat her as a capable partner rather than a child to be managed. By the end, Buddy is a genuine companion and part of Kira's found family.
       </character-development>
       <characters>
-        <ref ref="/world/characters/Kira_Voss.card" role="protagonist"/>
-        <ref ref="/world/characters/Buddy.card" role="AI companion - condescending but well-meaning"/>
-        <ref ref="/world/characters/Scout.card" role="first plant contact - non-verbal, bouncy, simple"/>
-        <ref ref="/world/characters/Holloway.card" role="primary plant coordinator - bureaucratic but warm"/>
-        <ref ref="/world/characters/Florence.card" role="mobile interpreter carrying Elder Twist"/>
-        <ref ref="/world/characters/Elder_Twist.card" role="ancient wisdom with days-long delays"/>
-        <ref ref="/world/characters/Elder_Heartwood.card" role="ultimate elder - months-long responses"/>
-        <ref ref="/world/characters/Remedy.card" role="healer - medicinal mushrooms, decomposition pride"/>
-        <ref ref="/world/characters/Runner.card" role="tactile helper - invasive touching, boundary issues"/>
-        <ref ref="/world/characters/Sweetpea.card" role="sweet voice, terrifying appearance - contrast reveal"/>
-        <ref ref="/world/characters/Velvet.card" role="sentient moss - simple, literal, rare depth"/>
+        <ref ref="/world/world/characters/Kira_Voss.card" role="protagonist"/>
+        <ref ref="/world/world/characters/Buddy.card" role="AI companion - condescending but well-meaning"/>
+        <ref ref="/world/world/characters/Scout.card" role="first plant contact - non-verbal, bouncy, simple"/>
+        <ref ref="/world/world/characters/Holloway.card" role="primary plant coordinator - bureaucratic but warm"/>
+        <ref ref="/world/world/characters/Florence.card" role="mobile interpreter carrying Elder Twist"/>
+        <ref ref="/world/world/characters/Elder_Twist.card" role="ancient wisdom with days-long delays"/>
+        <ref ref="/world/world/characters/Elder_Heartwood.card" role="ultimate elder - months-long responses"/>
+        <ref ref="/world/world/characters/Remedy.card" role="healer - medicinal mushrooms, decomposition pride"/>
+        <ref ref="/world/world/characters/Runner.card" role="tactile helper - invasive touching, boundary issues"/>
+        <ref ref="/world/world/characters/Sweetpea.card" role="sweet voice, terrifying appearance - contrast reveal"/>
+        <ref ref="/world/world/characters/Velvet.card" role="sentient moss - simple, literal, rare depth"/>
       </characters>
       <sources>
         <ref ref="/stories/Mandatory_Assistance/story-info.card"/>
         <ref ref="/stories/Mandatory_Assistance/narrative-guide.card"/>
         <ref ref="/stories/Mandatory_Assistance/exposition-plan.card"/>
-        <ref ref="/world/setting.card"/>
+        <ref ref="/world/world/setting.card"/>
       </sources>
       <changelog-entry version="1.0.0">Initialized</changelog-entry>
       <changelog-entry version="2.0.0">Created plot arc: Kira's authority deference creates complications, learns to trust herself, plants learn rules serve people. Climax: override procedures to actually help.</changelog-entry>
@@ -272,23 +272,23 @@
         **Collective plant arc**: Beyond individual journeys, plants collectively move from being trapped in HR speak to developing authentic voices. This happens cognitively (learning to think beyond protocols) and emotionally (discovering what they actually feel vs what the manual says they should do). They're developing personhood through trauma, desire, voice-finding. By the end, they communicate authentically, have worked through guilt and fear, relate to each other and Kira as individuals with genuine connections.
       </character-development>
       <characters>
-        <ref ref="/world/characters/Kira_Voss.card" role="protagonist"/>
-        <ref ref="/world/characters/Buddy.card" role="AI companion - condescending but well-meaning"/>
-        <ref ref="/world/characters/Scout.card" role="first plant contact - non-verbal, bouncy, simple"/>
-        <ref ref="/world/characters/Holloway.card" role="primary plant coordinator - bureaucratic but warm"/>
-        <ref ref="/world/characters/Florence.card" role="mobile interpreter carrying Elder Twist"/>
-        <ref ref="/world/characters/Elder_Twist.card" role="ancient wisdom with days-long delays"/>
-        <ref ref="/world/characters/Elder_Heartwood.card" role="ultimate elder - months-long responses"/>
-        <ref ref="/world/characters/Remedy.card" role="healer - medicinal mushrooms, decomposition pride"/>
-        <ref ref="/world/characters/Runner.card" role="tactile helper - invasive touching, boundary issues"/>
-        <ref ref="/world/characters/Sweetpea.card" role="sweet voice, terrifying appearance - contrast reveal"/>
-        <ref ref="/world/characters/Velvet.card" role="sentient moss - simple, literal, rare depth"/>
+        <ref ref="/world/world/characters/Kira_Voss.card" role="protagonist"/>
+        <ref ref="/world/world/characters/Buddy.card" role="AI companion - condescending but well-meaning"/>
+        <ref ref="/world/world/characters/Scout.card" role="first plant contact - non-verbal, bouncy, simple"/>
+        <ref ref="/world/world/characters/Holloway.card" role="primary plant coordinator - bureaucratic but warm"/>
+        <ref ref="/world/world/characters/Florence.card" role="mobile interpreter carrying Elder Twist"/>
+        <ref ref="/world/world/characters/Elder_Twist.card" role="ancient wisdom with days-long delays"/>
+        <ref ref="/world/world/characters/Elder_Heartwood.card" role="ultimate elder - months-long responses"/>
+        <ref ref="/world/world/characters/Remedy.card" role="healer - medicinal mushrooms, decomposition pride"/>
+        <ref ref="/world/world/characters/Runner.card" role="tactile helper - invasive touching, boundary issues"/>
+        <ref ref="/world/world/characters/Sweetpea.card" role="sweet voice, terrifying appearance - contrast reveal"/>
+        <ref ref="/world/world/characters/Velvet.card" role="sentient moss - simple, literal, rare depth"/>
       </characters>
       <sources>
         <ref ref="/stories/Mandatory_Assistance/story-info.card"/>
         <ref ref="/stories/Mandatory_Assistance/narrative-guide.card"/>
         <ref ref="/stories/Mandatory_Assistance/exposition-plan.card"/>
-        <ref ref="/world/setting.card"/>
+        <ref ref="/world/world/setting.card"/>
       </sources>
       <changelog-entry version="1.0.0">Initialized</changelog-entry>
       <changelog-entry version="2.0.0">Created plot arc: Kira's authority deference creates complications, learns to trust herself, plants learn rules serve people. Climax: override procedures to actually help.</changelog-entry>
@@ -438,23 +438,23 @@
         **Collective plant arc**: Beyond individual journeys, plants collectively move from being trapped in HR speak to developing authentic voices. This happens cognitively (learning to think beyond protocols) and emotionally (discovering what they actually feel vs what the manual says they should do). They're developing personhood through trauma, desire, voice-finding. By the end, they communicate authentically, have worked through guilt and fear, relate to each other and Kira as individuals with genuine connections.
       </character-development>
       <characters>
-        <ref ref="/world/characters/Kira_Voss.card" role="protagonist"/>
-        <ref ref="/world/characters/Buddy.card" role="AI companion - condescending but well-meaning"/>
-        <ref ref="/world/characters/Scout.card" role="first plant contact - non-verbal, bouncy, simple"/>
-        <ref ref="/world/characters/Holloway.card" role="primary plant coordinator - bureaucratic but warm"/>
-        <ref ref="/world/characters/Florence.card" role="mobile interpreter carrying Elder Twist"/>
-        <ref ref="/world/characters/Elder_Twist.card" role="ancient wisdom with days-long delays"/>
-        <ref ref="/world/characters/Elder_Heartwood.card" role="ultimate elder - months-long responses"/>
-        <ref ref="/world/characters/Remedy.card" role="healer - medicinal mushrooms, decomposition pride"/>
-        <ref ref="/world/characters/Runner.card" role="tactile helper - invasive touching, boundary issues"/>
-        <ref ref="/world/characters/Sweetpea.card" role="sweet voice, terrifying appearance - contrast reveal"/>
-        <ref ref="/world/characters/Velvet.card" role="sentient moss - simple, literal, rare depth"/>
+        <ref ref="/world/world/characters/Kira_Voss.card" role="protagonist"/>
+        <ref ref="/world/world/characters/Buddy.card" role="AI companion - condescending but well-meaning"/>
+        <ref ref="/world/world/characters/Scout.card" role="first plant contact - non-verbal, bouncy, simple"/>
+        <ref ref="/world/world/characters/Holloway.card" role="primary plant coordinator - bureaucratic but warm"/>
+        <ref ref="/world/world/characters/Florence.card" role="mobile interpreter carrying Elder Twist"/>
+        <ref ref="/world/world/characters/Elder_Twist.card" role="ancient wisdom with days-long delays"/>
+        <ref ref="/world/world/characters/Elder_Heartwood.card" role="ultimate elder - months-long responses"/>
+        <ref ref="/world/world/characters/Remedy.card" role="healer - medicinal mushrooms, decomposition pride"/>
+        <ref ref="/world/world/characters/Runner.card" role="tactile helper - invasive touching, boundary issues"/>
+        <ref ref="/world/world/characters/Sweetpea.card" role="sweet voice, terrifying appearance - contrast reveal"/>
+        <ref ref="/world/world/characters/Velvet.card" role="sentient moss - simple, literal, rare depth"/>
       </characters>
       <sources>
         <ref ref="/stories/Mandatory_Assistance/story-info.card"/>
         <ref ref="/stories/Mandatory_Assistance/narrative-guide.card"/>
         <ref ref="/stories/Mandatory_Assistance/exposition-plan.card"/>
-        <ref ref="/world/setting.card"/>
+        <ref ref="/world/world/setting.card"/>
       </sources>
       <changelog-entry version="1.0.0">Initialized</changelog-entry>
       <changelog-entry version="2.0.0">Created plot arc: Kira's authority deference creates complications, learns to trust herself, plants learn rules serve people. Climax: override procedures to actually help.</changelog-entry>
@@ -625,23 +625,23 @@
         **Collective plant arc**: Beyond individual journeys, plants collectively move from being trapped in HR speak to developing authentic voices. This happens cognitively (learning to think beyond protocols) and emotionally (discovering what they actually feel vs what the manual says they should do). They're developing personhood through trauma, desire, voice-finding. By the end, they communicate authentically, have worked through guilt and fear, relate to each other and Kira as individuals with genuine connections.
       </character-development>
       <characters>
-        <ref ref="/world/characters/Kira_Voss.card" role="protagonist"/>
-        <ref ref="/world/characters/Buddy.card" role="AI companion - condescending but well-meaning"/>
-        <ref ref="/world/characters/Scout.card" role="first plant contact - non-verbal, bouncy, simple"/>
-        <ref ref="/world/characters/Holloway.card" role="primary plant coordinator - bureaucratic but warm"/>
-        <ref ref="/world/characters/Florence.card" role="mobile interpreter carrying Elder Twist"/>
-        <ref ref="/world/characters/Elder_Twist.card" role="ancient wisdom with days-long delays"/>
-        <ref ref="/world/characters/Elder_Heartwood.card" role="ultimate elder - months-long responses"/>
-        <ref ref="/world/characters/Remedy.card" role="healer - medicinal mushrooms, decomposition pride"/>
-        <ref ref="/world/characters/Runner.card" role="tactile helper - invasive touching, boundary issues"/>
-        <ref ref="/world/characters/Sweetpea.card" role="sweet voice, terrifying appearance - contrast reveal"/>
-        <ref ref="/world/characters/Velvet.card" role="sentient moss - simple, literal, rare depth"/>
+        <ref ref="/world/world/characters/Kira_Voss.card" role="protagonist"/>
+        <ref ref="/world/world/characters/Buddy.card" role="AI companion - condescending but well-meaning"/>
+        <ref ref="/world/world/characters/Scout.card" role="first plant contact - non-verbal, bouncy, simple"/>
+        <ref ref="/world/world/characters/Holloway.card" role="primary plant coordinator - bureaucratic but warm"/>
+        <ref ref="/world/world/characters/Florence.card" role="mobile interpreter carrying Elder Twist"/>
+        <ref ref="/world/world/characters/Elder_Twist.card" role="ancient wisdom with days-long delays"/>
+        <ref ref="/world/world/characters/Elder_Heartwood.card" role="ultimate elder - months-long responses"/>
+        <ref ref="/world/world/characters/Remedy.card" role="healer - medicinal mushrooms, decomposition pride"/>
+        <ref ref="/world/world/characters/Runner.card" role="tactile helper - invasive touching, boundary issues"/>
+        <ref ref="/world/world/characters/Sweetpea.card" role="sweet voice, terrifying appearance - contrast reveal"/>
+        <ref ref="/world/world/characters/Velvet.card" role="sentient moss - simple, literal, rare depth"/>
       </characters>
       <sources>
         <ref ref="/stories/Mandatory_Assistance/story-info.card"/>
         <ref ref="/stories/Mandatory_Assistance/narrative-guide.card"/>
         <ref ref="/stories/Mandatory_Assistance/exposition-plan.card"/>
-        <ref ref="/world/setting.card"/>
+        <ref ref="/world/world/setting.card"/>
       </sources>
       <changelog-entry version="1.0.0">Initialized</changelog-entry>
       <changelog-entry version="2.0.0">Created plot arc: Kira's authority deference creates complications, learns to trust herself, plants learn rules serve people. Climax: override procedures to actually help.</changelog-entry>

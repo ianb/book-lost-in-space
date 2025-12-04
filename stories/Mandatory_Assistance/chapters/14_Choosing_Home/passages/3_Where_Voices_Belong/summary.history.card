@@ -158,17 +158,17 @@
       <characters>
         <reasoning>I read the passage and noted every named character who appears, including brief mentions and internal dialogue. Kira is the narrator ('I') and speaks; Scout, Runner, Velvet, Remedy, Holloway, and Florence are all actively present and interacting throughout. Buddy (the enthusiastic function) speaks and is addressed, but Buddy was not listed as present at the end of the previous passage, so Buddy enters during this scene. No character is described as leaving or exiting before the passage ends, so EXITED is empty. The scene takes place in the facility/community on the planet/sector context; the only available entity in the list that matches a location is /world/entities/Sector_7-Gamma-412_Planet, which I include as the relevant entity for the scene.</reasoning>
         <present>
-          <character ref="/world/characters/Kira_Voss"/>
-          <character ref="/world/characters/Scout"/>
-          <character ref="/world/characters/Runner"/>
-          <character ref="/world/characters/Velvet"/>
-          <character ref="/world/characters/Remedy"/>
-          <character ref="/world/characters/Holloway"/>
-          <character ref="/world/characters/Florence"/>
-          <character ref="/world/characters/Buddy"/>
+          <character ref="/world/world/characters/Kira_Voss"/>
+          <character ref="/world/world/characters/Scout"/>
+          <character ref="/world/world/characters/Runner"/>
+          <character ref="/world/world/characters/Velvet"/>
+          <character ref="/world/world/characters/Remedy"/>
+          <character ref="/world/world/characters/Holloway"/>
+          <character ref="/world/world/characters/Florence"/>
+          <character ref="/world/world/characters/Buddy"/>
         </present>
         <entered>
-          <character ref="/world/characters/Buddy"/>
+          <character ref="/world/world/characters/Buddy"/>
         </entered>
         <entities>
           <entity ref="/world/entities/Sector_7-Gamma-412_Planet"/>

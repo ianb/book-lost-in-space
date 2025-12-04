@@ -56,11 +56,11 @@
       <characters>
         <reasoning>Kira (the narrator) is present from the start. The neural-link AI Buddy activates and speaks, so Buddy appears during the passage (enters mid-scene). SAM and the deceased pilots Jensen and Reed are mentioned, but they do not have character paths in the provided list so they are not included as character card paths. No one present at the start leaves before the passage ends. The scene is set on an alien planet; the provided matching entity is Sector_7-Gamma-412_Planet.</reasoning>
         <present>
-          <character ref="/world/characters/Kira_Voss"/>
-          <character ref="/world/characters/Buddy"/>
+          <character ref="/world/world/characters/Kira_Voss"/>
+          <character ref="/world/world/characters/Buddy"/>
         </present>
         <entered>
-          <character ref="/world/characters/Buddy"/>
+          <character ref="/world/world/characters/Buddy"/>
         </entered>
         <entities>
           <entity ref="/world/entities/Sector_7-Gamma-412_Planet"/>

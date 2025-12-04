@@ -155,14 +155,14 @@
       <characters>
         <reasoning>Characters mentioned by name or clearly present in the passage: Kira (narrator), Buddy (AI companion), Scout, Holloway, Florence, Remedy, Runner, Velvet. All of these characters speak or are described performing actions. The provided list of characters present at the end of the previous passage shows the same eight were already present at the start, so no new characters enter during this scene. The text describes the community dispersing to give Kira space, but no named character explicitly leaves the scene or is gone by the end—most are still active or referenced (Runner's underground network, Velvet's growth, Remedy's compounds, Holloway and Florence still nearby), so no explicit exits to record. No location or organization from the available entity list is mentioned in the passage, so no entities are included.</reasoning>
         <present>
-          <character ref="/world/characters/Kira_Voss"/>
-          <character ref="/world/characters/Buddy"/>
-          <character ref="/world/characters/Scout"/>
-          <character ref="/world/characters/Holloway"/>
-          <character ref="/world/characters/Florence"/>
-          <character ref="/world/characters/Remedy"/>
-          <character ref="/world/characters/Runner"/>
-          <character ref="/world/characters/Velvet"/>
+          <character ref="/world/world/characters/Kira_Voss"/>
+          <character ref="/world/world/characters/Buddy"/>
+          <character ref="/world/world/characters/Scout"/>
+          <character ref="/world/world/characters/Holloway"/>
+          <character ref="/world/world/characters/Florence"/>
+          <character ref="/world/world/characters/Remedy"/>
+          <character ref="/world/world/characters/Runner"/>
+          <character ref="/world/world/characters/Velvet"/>
         </present>
         <entities/>
       </characters>

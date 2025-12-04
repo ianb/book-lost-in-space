@@ -212,8 +212,8 @@
       <sources>
         <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/1_Intake/outline.card" role="Beat structure and scene planning"/>
         <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/1_Intake/passage-placement.card" role="Passage objectives"/>
-        <ref ref="/world/characters/Holloway.card" role="Holloway's warm bureaucratic voice"/>
-        <ref ref="/world/characters/Scout.card" role="Scout's non-verbal comfort and encouragement"/>
+        <ref ref="/world/world/characters/Holloway.card" role="Holloway's warm bureaucratic voice"/>
+        <ref ref="/world/world/characters/Scout.card" role="Scout's non-verbal comfort and encouragement"/>
       </sources>
       <changelog-entry version="1.0.0">Initialized</changelog-entry>
     </passage>
@@ -430,8 +430,8 @@
       <sources>
         <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/1_Intake/outline.card" role="Beat structure and scene planning"/>
         <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/1_Intake/passage-placement.card" role="Passage objectives"/>
-        <ref ref="/world/characters/Holloway.card" role="Holloway's warm bureaucratic voice"/>
-        <ref ref="/world/characters/Scout.card" role="Scout's non-verbal comfort and encouragement"/>
+        <ref ref="/world/world/characters/Holloway.card" role="Holloway's warm bureaucratic voice"/>
+        <ref ref="/world/world/characters/Scout.card" role="Scout's non-verbal comfort and encouragement"/>
       </sources>
       <changelog-entry>
         <!-- Each time you change this file add a description of what AND WHY you made changes to this element -->

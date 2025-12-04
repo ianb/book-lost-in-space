@@ -171,25 +171,25 @@
       <characters>
         <reasoning>I list characters who are mentioned or appear in the passage. Present: characters explicitly appearing or mentioned (Kira is the narrator; Holloway, Scout, Florence, Elder Twist, Elder Heartwood, Remedy, Runner, and Velvet all appear or are named). Entered: no new characters arrive during this passage—everyone named was already part of the group at the start. Exited: the passage states that everyone disperses and later only Kira and Scout return to Kira’s room, so the other previously-present characters leave during the scene (Buddy, Holloway, Florence, Elder Twist, Elder Heartwood, Remedy, Runner, Velvet). No specific location/organization from the available entity list is referenced, so entities is empty.</reasoning>
         <present>
-          <character ref="/world/characters/Kira_Voss"/>
-          <character ref="/world/characters/Holloway"/>
-          <character ref="/world/characters/Scout"/>
-          <character ref="/world/characters/Florence"/>
-          <character ref="/world/characters/Elder_Twist"/>
-          <character ref="/world/characters/Elder_Heartwood"/>
-          <character ref="/world/characters/Remedy"/>
-          <character ref="/world/characters/Runner"/>
-          <character ref="/world/characters/Velvet"/>
+          <character ref="/world/world/characters/Kira_Voss"/>
+          <character ref="/world/world/characters/Holloway"/>
+          <character ref="/world/world/characters/Scout"/>
+          <character ref="/world/world/characters/Florence"/>
+          <character ref="/world/world/characters/Elder_Twist"/>
+          <character ref="/world/world/characters/Elder_Heartwood"/>
+          <character ref="/world/world/characters/Remedy"/>
+          <character ref="/world/world/characters/Runner"/>
+          <character ref="/world/world/characters/Velvet"/>
         </present>
         <exited>
-          <character ref="/world/characters/Buddy"/>
-          <character ref="/world/characters/Holloway"/>
-          <character ref="/world/characters/Florence"/>
-          <character ref="/world/characters/Elder_Twist"/>
-          <character ref="/world/characters/Elder_Heartwood"/>
-          <character ref="/world/characters/Remedy"/>
-          <character ref="/world/characters/Runner"/>
-          <character ref="/world/characters/Velvet"/>
+          <character ref="/world/world/characters/Buddy"/>
+          <character ref="/world/world/characters/Holloway"/>
+          <character ref="/world/world/characters/Florence"/>
+          <character ref="/world/world/characters/Elder_Twist"/>
+          <character ref="/world/world/characters/Elder_Heartwood"/>
+          <character ref="/world/world/characters/Remedy"/>
+          <character ref="/world/world/characters/Runner"/>
+          <character ref="/world/world/characters/Velvet"/>
         </exited>
         <entities/>
       </characters>

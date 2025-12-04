@@ -182,7 +182,7 @@
       <sources>
         <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/outline.card" role="Passage beats and structure"/>
         <ref ref="/stories/Mandatory_Assistance/narrative-guide.card" role="POV, tone, and style guidance"/>
-        <ref ref="/world/characters/Kira_Voss.card" role="Kira's voice, character traits, hopes and dreams"/>
+        <ref ref="/world/world/characters/Kira_Voss.card" role="Kira's voice, character traits, hopes and dreams"/>
       </sources>
       <changelog-entry version="1.0.0">Initialized</changelog-entry>
       <changelog-entry version="2.0.0">Completed opening crash passage: 230 words of visceral terror, first person present but stripped-down voice (chatty personality emerges in Scene 2)</changelog-entry>
@@ -273,7 +273,7 @@
       <sources>
         <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/outline.card" role="Passage beats and structure"/>
         <ref ref="/stories/Mandatory_Assistance/narrative-guide.card" role="POV, tone, and style guidance"/>
-        <ref ref="/world/characters/Kira_Voss.card" role="Kira's voice, character traits, hopes and dreams"/>
+        <ref ref="/world/world/characters/Kira_Voss.card" role="Kira's voice, character traits, hopes and dreams"/>
       </sources>
       <changelog-entry>
         <!-- Each time you change this file add a description of what AND WHY you made changes to this element -->

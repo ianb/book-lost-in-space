@@ -108,14 +108,14 @@
       <characters>
         <reasoning>Characters mentioned or present in the passage: Kira Voss (narrator/protagonist, present from the start), Scout (present and active), Holloway (voice from a fruiting body, present), Buddy (present and interjects), and Florence (the wheeled flowering plant who rolls into the chamber). Florence explicitly enters during the scene (a plant "entered the chamber on a wheeled platform"). No character is described as leaving the scene before the passage ends—Scout moves toward a doorway but does not definitively exit before the passage ends. The only relevant provided entity is the alien planet/facility setting, which corresponds to /world/entities/Sector_7-Gamma-412_Planet. Note: Remedy was listed as present at the end of the previous passage but is not mentioned in this passage, so she is not included in "present."</reasoning>
         <present>
-          <character ref="/world/characters/Kira_Voss"/>
-          <character ref="/world/characters/Scout"/>
-          <character ref="/world/characters/Holloway"/>
-          <character ref="/world/characters/Buddy"/>
-          <character ref="/world/characters/Florence"/>
+          <character ref="/world/world/characters/Kira_Voss"/>
+          <character ref="/world/world/characters/Scout"/>
+          <character ref="/world/world/characters/Holloway"/>
+          <character ref="/world/world/characters/Buddy"/>
+          <character ref="/world/world/characters/Florence"/>
         </present>
         <entered>
-          <character ref="/world/characters/Florence"/>
+          <character ref="/world/world/characters/Florence"/>
         </entered>
         <entities>
           <entity ref="/world/entities/Sector_7-Gamma-412_Planet"/>

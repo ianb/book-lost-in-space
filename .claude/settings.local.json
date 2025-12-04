@@ -4,7 +4,8 @@
       "Bash(ske validate:*)",
       "Bash(ske snapshot:*)",
       "Bash(ske create:*)",
-      "Bash(ske guide:*)"
+      "Bash(ske guide:*)",
+      "Bash(find:*)"
     ],
     "deny": [],
     "ask": []

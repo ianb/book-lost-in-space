@@ -67,8 +67,8 @@
       <characters>
         <reasoning>Kira is the narrator and primary on-scene character throughout the passage; Buddy is present as an onboard/remote companion whose voice and sensor readouts appear in Kira's head. No other named characters from the provided list are mentioned or appear. Both Kira and Buddy were already present at the end of the previous passage, and no new characters arrive during this scene, nor does anyone leave before the scene ends. The scene takes place on an alien planet, matching the provided entity /world/entities/Sector_7-Gamma-412_Planet.</reasoning>
         <present>
-          <character ref="/world/characters/Kira_Voss"/>
-          <character ref="/world/characters/Buddy"/>
+          <character ref="/world/world/characters/Kira_Voss"/>
+          <character ref="/world/world/characters/Buddy"/>
         </present>
         <entities>
           <entity ref="/world/entities/Sector_7-Gamma-412_Planet"/>

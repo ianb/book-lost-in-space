@@ -158,19 +158,19 @@
       <characters>
         <reasoning>Characters appearing: Kira (narrator) is present throughout. Runner explicitly "emerge[s] from underground," so they appear during the scene. Velvet is referred to and speaks from across the space, so they are present in the scene. Scout "bounces over," Remedy is described as being in their work area, Holloway is coordinating and speaking, Florence "wheels over," and Buddy (Kira's AI companion) responds in Kira's mind — all of these characters appear in the passage. Characters who clearly enter during the scene: Runner (emerges from underground), Scout (bounces over to Kira), and Florence (wheels over into the group). No character is described as leaving the scene before the passage ends, so EXITED is empty. The relevant entity/location is the planet/facility setting, represented by /world/entities/Sector_7-Gamma-412_Planet.</reasoning>
         <present>
-          <character ref="/world/characters/Kira_Voss"/>
-          <character ref="/world/characters/Runner"/>
-          <character ref="/world/characters/Velvet"/>
-          <character ref="/world/characters/Scout"/>
-          <character ref="/world/characters/Remedy"/>
-          <character ref="/world/characters/Holloway"/>
-          <character ref="/world/characters/Florence"/>
-          <character ref="/world/characters/Buddy"/>
+          <character ref="/world/world/characters/Kira_Voss"/>
+          <character ref="/world/world/characters/Runner"/>
+          <character ref="/world/world/characters/Velvet"/>
+          <character ref="/world/world/characters/Scout"/>
+          <character ref="/world/world/characters/Remedy"/>
+          <character ref="/world/world/characters/Holloway"/>
+          <character ref="/world/world/characters/Florence"/>
+          <character ref="/world/world/characters/Buddy"/>
         </present>
         <entered>
-          <character ref="/world/characters/Runner"/>
-          <character ref="/world/characters/Scout"/>
-          <character ref="/world/characters/Florence"/>
+          <character ref="/world/world/characters/Runner"/>
+          <character ref="/world/world/characters/Scout"/>
+          <character ref="/world/world/characters/Florence"/>
         </entered>
         <entities>
           <entity ref="/world/entities/Sector_7-Gamma-412_Planet"/>

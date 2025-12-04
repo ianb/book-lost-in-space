@@ -70,8 +70,8 @@
       <characters>
         <reasoning>Kira Voss and Buddy are the only characters from the provided character list who appear in the passage. Kira is the narrator/protagonist moving through the shuttle and deciding to leave; Buddy (the AI) interacts throughout. Jensen, Reed, and SAM are mentioned briefly as being in/absent from the cockpit, but they are not among the provided character cards so their paths are not available and therefore are not listed. No new characters enter the scene during this passage (Kira and Buddy were already present at the end of the previous passage), and no characters present here exit before the passage ends. The planet/location is relevant (the crashed shuttle on an alien world), so I include the provided planet entity path. Kepler Station and other locations are mentioned in text but only the supplied entity path is included.</reasoning>
         <present>
-          <character ref="/world/characters/Kira_Voss"/>
-          <character ref="/world/characters/Buddy"/>
+          <character ref="/world/world/characters/Kira_Voss"/>
+          <character ref="/world/world/characters/Buddy"/>
         </present>
         <entities>
           <entity ref="/world/entities/Sector_7-Gamma-412_Planet"/>

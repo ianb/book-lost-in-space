@@ -21,7 +21,6 @@
   <launching-situation>
     Kira standing alone after Scout left, hearing more plant creatures approaching through the trees
   </launching-situation>
-  <time-of-day>Midday (purple twilight quality)</time-of-day>
   <location-impression>
     Purple forest, other plants emerging from trees and undergrowth, fruiting body sprouting from ground
   </location-impression>
@@ -162,7 +161,6 @@
   </outline>
   <plot-arc-act>Act 1 (Contact &amp; Bureaucracy) - bureaucratic barrier established</plot-arc-act>
   <concludes-arc>false</concludes-arc>
-  <use-chapters>true</use-chapters>
   <concludes-chapter>true</concludes-chapter>
   <sources>
     <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/chapter-placement.card" role="Scene 3 outline"/>
@@ -170,8 +168,4 @@
     <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/3_Wellness_Check/passage-placement.card" role="Passage objectives"/>
     <ref ref="/stories/Mandatory_Assistance/narrative-guide.card" role="Tone and pacing"/>
   </sources>
-  <changelog-entry version="2.0.1">
-    <!-- Each time you change this file add a description of what AND WHY you made changes to this element -->
-    Changed attack references to accident/malfunction
-  </changelog-entry>
 </outline>

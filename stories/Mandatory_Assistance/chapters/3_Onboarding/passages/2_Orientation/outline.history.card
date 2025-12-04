@@ -23,7 +23,7 @@
       <concludes-chapter>false</concludes-chapter>
       <sources>
         <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/chapter-placement.card" role="Scene 2 outline"/>
-        <ref ref="/world/characters/Florence.card" role="Florence's character and manner"/>
+        <ref ref="/world/world/characters/Florence.card" role="Florence's character and manner"/>
       </sources>
       <changelog-entry version="1.0.0">Initialized</changelog-entry>
     </outline>

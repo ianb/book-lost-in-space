@@ -15,13 +15,12 @@ Types: `<reasoning>`, `<reasoning-character>`, `<reasoning-plot-arc>`, `<reasoni
 
 1. **Fill reasoning FIRST** - Work through your thinking
 2. **Then fill content** - Based on your reasoning
-3. **Validate archives** - `ske validate` clears reasoning for next edit
+3. **Snapshot clears reasoning** - `ske snapshot` clears reasoning after archiving
 
-## After Archiving
+## After Snapshot
 
-When `ske validate` archives a version:
-- Reasoning cleared automatically
-- First reasoning field gets comment: `<!-- For instructions: ske instructions ... -->`
+When `ske snapshot` archives a version:
+- Reasoning fields cleared automatically
 - Ready for next edit cycle
 
 **Always fill reasoning before content fields.**

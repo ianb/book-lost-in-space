@@ -166,13 +166,13 @@
       <characters>
         <reasoning>Characters included are those from the provided character list who are explicitly present or speak in the passage. Kira (the narrator) leads Torres and Dr. Chen (mentioned but not in the available-characters list). Runner, Velvet, Remedy, Holloway, Florence, and Scout all appear and speak or act. Runner "emerges from underground," but Runner was listed as present at the end of the previous passage, so they are not counted as an entrant here. Torres and Dr. Chen depart, but they are not among the available character cards, so they are not listed in ENTERED/EXITED. No characters from the provided list enter the scene during this passage, and none of those present leave before the passage ends. The facility/planet context maps to the provided Sector_7-Gamma-412_Planet entity.</reasoning>
         <present>
-          <character ref="/world/characters/Kira_Voss"/>
-          <character ref="/world/characters/Runner"/>
-          <character ref="/world/characters/Velvet"/>
-          <character ref="/world/characters/Remedy"/>
-          <character ref="/world/characters/Holloway"/>
-          <character ref="/world/characters/Florence"/>
-          <character ref="/world/characters/Scout"/>
+          <character ref="/world/world/characters/Kira_Voss"/>
+          <character ref="/world/world/characters/Runner"/>
+          <character ref="/world/world/characters/Velvet"/>
+          <character ref="/world/world/characters/Remedy"/>
+          <character ref="/world/world/characters/Holloway"/>
+          <character ref="/world/world/characters/Florence"/>
+          <character ref="/world/world/characters/Scout"/>
         </present>
         <entities>
           <entity ref="/world/entities/Sector_7-Gamma-412_Planet"/>

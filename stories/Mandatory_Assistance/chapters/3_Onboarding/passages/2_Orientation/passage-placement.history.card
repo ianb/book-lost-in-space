@@ -46,7 +46,7 @@
       <sources>
         <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/chapter-placement.card" role="Scene 2 outline"/>
         <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/1_Intake/passage.card" role="Previous passage ending"/>
-        <ref ref="/world/characters/Florence.card" role="Florence's character, flowers, speaking style"/>
+        <ref ref="/world/world/characters/Florence.card" role="Florence's character, flowers, speaking style"/>
       </sources>
       <changelog-entry version="1.0.0">Initialized</changelog-entry>
     </passage-placement>

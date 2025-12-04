@@ -16,7 +16,6 @@
   <launching-situation>
     Walking into Territory Two with Streamwalker and Brightbloom, two hours after farewell to Leafwhisper and Rootwalker. Approaching first river crossing. New terrain, new team, Kira finding her rhythm.
   </launching-situation>
-  <time-of-day>Mid-afternoon, transitioning into evening</time-of-day>
   <location-impression>
     Wetlands - softer ground, more water, vibrant green. Different plant species adapted to moisture. Open sky compared to forest canopy. Sound of flowing water. Colorful flowers. Fresh, earthy smell.
   </location-impression>
@@ -31,11 +30,8 @@
   </outline>
   <plot-arc-act>Act 2 - Quest &amp; Learning</plot-arc-act>
   <concludes-arc>false</concludes-arc>
-  <use-chapters>true</use-chapters>
   <concludes-chapter>false</concludes-chapter>
   <sources>
     <ref ref="/stories/Mandatory_Assistance/chapters/7_Rivers_and_Wetlands/chapter-placement.card" role="Chapter structure and scene breakdown"/>
   </sources>
-  <changelog-entry version="1.0.0">Initialized</changelog-entry>
-  <changelog-entry version="2.0.0">Planned Passage 1 outline - river crossing with new guides</changelog-entry>
 </outline>

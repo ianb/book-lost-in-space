@@ -126,8 +126,4 @@
     <ref ref="/world/characters/Kira_Voss.card" role="Kira's full chatty voice and coping mechanisms"/>
     <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/passage.card" role="Previous passage ending in darkness/unconsciousness"/>
   </sources>
-  <changelog-entry version="2.0.1">
-    <!-- Each time you change this file add a description of what AND WHY you made changes to this element -->
-    Kira now explicitly checks pilots for pulse, confirms death
-  </changelog-entry>
 </passage>

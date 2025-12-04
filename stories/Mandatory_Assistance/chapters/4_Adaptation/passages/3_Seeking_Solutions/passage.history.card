@@ -210,8 +210,8 @@
       <title>Seeking Solutions</title>
       <sources>
         <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/3_Seeking_Solutions/outline.card" role="Scene structure"/>
-        <ref ref="/world/characters/Holloway.card" role="Holloway coordination and Elder introduction"/>
-        <ref ref="/world/characters/Scout.card" role="Scout companionship"/>
+        <ref ref="/world/world/characters/Holloway.card" role="Holloway coordination and Elder introduction"/>
+        <ref ref="/world/world/characters/Scout.card" role="Scout companionship"/>
       </sources>
       <changelog-entry>
         <!-- Each time you change this file add a description of what AND WHY you made changes to this element -->

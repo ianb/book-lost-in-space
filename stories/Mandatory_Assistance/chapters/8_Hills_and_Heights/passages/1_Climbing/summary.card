@@ -174,8 +174,8 @@
     <reasoning>I listed every character who is either present in the action or explicitly mentioned. Kira_Voss is the narrator and is continuously present. Oakshade and Mossmantle are active guides in the scene (speaking, directing, and later settling at camp); they were present at the start and remain through the end. Scout appears repeatedly (bouncing, exploring, then sleeping). Buddy speaks once during the hike and therefore must have entered during this passage (Buddy was not listed in the prior-present list). Leafwhisper, Rootwalker, Streamwalker, and Brightbloom are mentioned by comparison to other guide pairs, so they are included as mentioned characters. No character who was present at the start leaves before the end of the passage, so the EXITED list is empty. The only explicit entity referenced from the provided entity list is the alien planet setting, so I included /world/entities/Sector_7-Gamma-412_Planet.</reasoning>
     <present>
       <character ref="/world/characters/Kira_Voss"/>
-      <character ref="/world/characters/Oakshade"/>
-      <character ref="/world/characters/Mossmantle"/>
+      <character ref="/todo/world/characters/Oakshade"/>
+      <character ref="/todo/world/characters/Mossmantle"/>
       <character ref="/world/characters/Scout"/>
       <character ref="/world/characters/Buddy"/>
       <character ref="/world/characters/Leafwhisper"/>

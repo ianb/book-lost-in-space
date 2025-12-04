@@ -152,14 +152,14 @@
       <characters>
         <reasoning>Who appears: The narrator (I) is Kira Voss and is present throughout. Scout, Florence, Runner, Velvet, Remedy, Holloway, and Buddy are all explicitly mentioned and participate in the scene. No new characters arrive during this passage (everyone present was already there at the end of the previous passage). No one leaves or is described as exiting before the passage ends. The scene takes place in/around the damaged facility; the only available location entity that matches the setting is Sector_7-Gamma-412_Planet, so it is included as the relevant location entity.</reasoning>
         <present>
-          <character ref="/world/characters/Kira_Voss"/>
-          <character ref="/world/characters/Buddy"/>
-          <character ref="/world/characters/Scout"/>
-          <character ref="/world/characters/Holloway"/>
-          <character ref="/world/characters/Florence"/>
-          <character ref="/world/characters/Runner"/>
-          <character ref="/world/characters/Remedy"/>
-          <character ref="/world/characters/Velvet"/>
+          <character ref="/world/world/characters/Kira_Voss"/>
+          <character ref="/world/world/characters/Buddy"/>
+          <character ref="/world/world/characters/Scout"/>
+          <character ref="/world/world/characters/Holloway"/>
+          <character ref="/world/world/characters/Florence"/>
+          <character ref="/world/world/characters/Runner"/>
+          <character ref="/world/world/characters/Remedy"/>
+          <character ref="/world/world/characters/Velvet"/>
         </present>
         <entities>
           <entity ref="/world/entities/Sector_7-Gamma-412_Planet"/>

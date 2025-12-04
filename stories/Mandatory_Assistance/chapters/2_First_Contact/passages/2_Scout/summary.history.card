@@ -79,8 +79,8 @@
       <characters>
         <reasoning>Kira (first-person narrator) and Buddy both speak and are present throughout the passage, and they were also listed as present at the end of the previous passage. The bouncing plant-sphere appears and then departs, but no named character from the provided character list corresponds to that plant; therefore it is not listed under character paths. The scene takes place on an alien world/forest, which corresponds to the provided entity /world/entities/Sector_7-Gamma-412_Planet. No new named characters enter, and no named characters exit before the scene ends.</reasoning>
         <present>
-          <character ref="/world/characters/Kira_Voss"/>
-          <character ref="/world/characters/Buddy"/>
+          <character ref="/world/world/characters/Kira_Voss"/>
+          <character ref="/world/world/characters/Buddy"/>
         </present>
         <entities>
           <entity ref="/world/entities/Sector_7-Gamma-412_Planet"/>

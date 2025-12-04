@@ -179,23 +179,23 @@
       <characters>
         <reasoning>Characters to include in PRESENT are anyone who appears or is mentioned in the passage. The passage includes Kira (narrator), Buddy, Scout, Velvet, Holloway, Runner, Remedy, Florence, and mentions Elder Twist and Elder Heartwood. ENTERED should list characters who were not present at the end of the previous passage (the provided previous-present list) but appear during this passage: Velvet, Holloway, Runner, Remedy, and Florence all appear here but were not in the previous-present list, so they 'enter' during the scene. Elder Twist is mentioned (via their pot) but is not described as arriving, so they are present/mentioned but not listed as having entered. No character is explicitly described as leaving during the passage, so EXITED is empty. The facility/setting is part of the broader world; the only available entity card that fits is the Sector_7-Gamma-412_Planet, so it's listed as relevant.</reasoning>
         <present>
-          <character ref="/world/characters/Kira_Voss"/>
-          <character ref="/world/characters/Buddy"/>
-          <character ref="/world/characters/Scout"/>
-          <character ref="/world/characters/Velvet"/>
-          <character ref="/world/characters/Holloway"/>
-          <character ref="/world/characters/Runner"/>
-          <character ref="/world/characters/Remedy"/>
-          <character ref="/world/characters/Florence"/>
-          <character ref="/world/characters/Elder_Twist"/>
-          <character ref="/world/characters/Elder_Heartwood"/>
+          <character ref="/world/world/characters/Kira_Voss"/>
+          <character ref="/world/world/characters/Buddy"/>
+          <character ref="/world/world/characters/Scout"/>
+          <character ref="/world/world/characters/Velvet"/>
+          <character ref="/world/world/characters/Holloway"/>
+          <character ref="/world/world/characters/Runner"/>
+          <character ref="/world/world/characters/Remedy"/>
+          <character ref="/world/world/characters/Florence"/>
+          <character ref="/world/world/characters/Elder_Twist"/>
+          <character ref="/world/world/characters/Elder_Heartwood"/>
         </present>
         <entered>
-          <character ref="/world/characters/Velvet"/>
-          <character ref="/world/characters/Holloway"/>
-          <character ref="/world/characters/Runner"/>
-          <character ref="/world/characters/Remedy"/>
-          <character ref="/world/characters/Florence"/>
+          <character ref="/world/world/characters/Velvet"/>
+          <character ref="/world/world/characters/Holloway"/>
+          <character ref="/world/world/characters/Runner"/>
+          <character ref="/world/world/characters/Remedy"/>
+          <character ref="/world/world/characters/Florence"/>
         </entered>
         <entities>
           <entity ref="/world/entities/Sector_7-Gamma-412_Planet"/>

@@ -105,16 +105,16 @@
       <characters>
         <reasoning>I read the passage and noted every named character who appears or is mentioned. Kira and Scout are clearly present at the scene start. Buddy's voice begins speaking early in the passage (his presence/voice emerges during the scene). Holloway's fruiting body sprouts and speaks after Kira wakes, so Holloway effectively appears during the passage. Remedy is explicitly described as arriving a minute later, so Remedy enters during the scene. Florence, though listed as present at the end of the previous passage, is not mentioned in this passage and therefore is not included. No character leaves or exits before the passage ends. The only relevant entity is the alien planet setting (Sector 7-Gamma-412).</reasoning>
         <present>
-          <character ref="/world/characters/Kira_Voss"/>
-          <character ref="/world/characters/Scout"/>
-          <character ref="/world/characters/Buddy"/>
-          <character ref="/world/characters/Holloway"/>
-          <character ref="/world/characters/Remedy"/>
+          <character ref="/world/world/characters/Kira_Voss"/>
+          <character ref="/world/world/characters/Scout"/>
+          <character ref="/world/world/characters/Buddy"/>
+          <character ref="/world/world/characters/Holloway"/>
+          <character ref="/world/world/characters/Remedy"/>
         </present>
         <entered>
-          <character ref="/world/characters/Buddy"/>
-          <character ref="/world/characters/Holloway"/>
-          <character ref="/world/characters/Remedy"/>
+          <character ref="/world/world/characters/Buddy"/>
+          <character ref="/world/world/characters/Holloway"/>
+          <character ref="/world/world/characters/Remedy"/>
         </entered>
         <entities>
           <entity ref="/world/entities/Sector_7-Gamma-412_Planet"/>

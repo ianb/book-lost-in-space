@@ -217,8 +217,8 @@
       <title>Orientation</title>
       <sources>
         <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/2_Orientation/outline.card" role="Scene structure"/>
-        <ref ref="/world/characters/Florence.card" role="Florence's character, flowers, speaking style"/>
-        <ref ref="/world/characters/Holloway.card" role="Holloway coordinating"/>
+        <ref ref="/world/world/characters/Florence.card" role="Florence's character, flowers, speaking style"/>
+        <ref ref="/world/world/characters/Holloway.card" role="Holloway coordinating"/>
       </sources>
       <changelog-entry version="1.0.0">Initialized</changelog-entry>
     </passage>
@@ -440,8 +440,8 @@
       <title>Orientation</title>
       <sources>
         <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/2_Orientation/outline.card" role="Scene structure"/>
-        <ref ref="/world/characters/Florence.card" role="Florence's character, flowers, speaking style"/>
-        <ref ref="/world/characters/Holloway.card" role="Holloway coordinating"/>
+        <ref ref="/world/world/characters/Florence.card" role="Florence's character, flowers, speaking style"/>
+        <ref ref="/world/world/characters/Holloway.card" role="Holloway coordinating"/>
       </sources>
       <changelog-entry>
         <!-- Each time you change this file add a description of what AND WHY you made changes to this element -->

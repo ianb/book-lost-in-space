@@ -99,11 +99,11 @@
       <characters>
         <reasoning>Kira Voss is the first-person narrator and appears throughout. Holloway is present and speaking (via fruiting bodies) and conducts intake. Scout is physically present, bouncing and pressing against Kira's leg. Buddy speaks and provides data from Kira's records. Remedy is referenced as having applied the temporary treatment to Kira's leg. No new characters enter during this passage and no characters who were present earlier clearly leave before the passage ends. The scene takes place on the alien world, so Sector_7-Gamma-412_Planet is the relevant entity.</reasoning>
         <present>
-          <character ref="/world/characters/Kira_Voss"/>
-          <character ref="/world/characters/Holloway"/>
-          <character ref="/world/characters/Scout"/>
-          <character ref="/world/characters/Buddy"/>
-          <character ref="/world/characters/Remedy"/>
+          <character ref="/world/world/characters/Kira_Voss"/>
+          <character ref="/world/world/characters/Holloway"/>
+          <character ref="/world/world/characters/Scout"/>
+          <character ref="/world/world/characters/Buddy"/>
+          <character ref="/world/world/characters/Remedy"/>
         </present>
         <entities>
           <entity ref="/world/entities/Sector_7-Gamma-412_Planet"/>

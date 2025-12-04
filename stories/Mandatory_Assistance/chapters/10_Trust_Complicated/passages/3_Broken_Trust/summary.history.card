@@ -147,18 +147,18 @@
           Entities: The only provided entity relevant to the scene is the Sector_7-Gamma-412 planet (the scene takes place on/within that setting), so it is included.
         </reasoning>
         <present>
-          <character ref="/world/characters/Kira_Voss"/>
-          <character ref="/world/characters/Holloway"/>
-          <character ref="/world/characters/Scout"/>
-          <character ref="/world/characters/Florence"/>
-          <character ref="/world/characters/Runner"/>
-          <character ref="/world/characters/Remedy"/>
-          <character ref="/world/characters/Velvet"/>
-          <character ref="/world/characters/Elder_Twist"/>
-          <character ref="/world/characters/Elder_Heartwood"/>
+          <character ref="/world/world/characters/Kira_Voss"/>
+          <character ref="/world/world/characters/Holloway"/>
+          <character ref="/world/world/characters/Scout"/>
+          <character ref="/world/world/characters/Florence"/>
+          <character ref="/world/world/characters/Runner"/>
+          <character ref="/world/world/characters/Remedy"/>
+          <character ref="/world/world/characters/Velvet"/>
+          <character ref="/world/world/characters/Elder_Twist"/>
+          <character ref="/world/world/characters/Elder_Heartwood"/>
         </present>
         <entered>
-          <character ref="/world/characters/Florence"/>
+          <character ref="/world/world/characters/Florence"/>
         </entered>
         <entities>
           <entity ref="/world/entities/Sector_7-Gamma-412_Planet"/>

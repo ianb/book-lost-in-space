@@ -175,21 +175,21 @@
       <characters>
         <reasoning>I listed any character who is mentioned or appears in the passage as PRESENT. Scout explicitly arrives partway through the scene ("Scout comes bouncing in fast"), so Scout is in ENTERED. Florence wheels away alone before the passage ends, so she exits and is in EXITED. Elder Heartwood is only mentioned (referenced as prior counsel) but still counts as present. The only relevant entity provided in the list is the planet/location, so I included /world/entities/Sector_7-Gamma-412_Planet.</reasoning>
         <present>
-          <character ref="/world/characters/Kira_Voss"/>
-          <character ref="/world/characters/Holloway"/>
-          <character ref="/world/characters/Scout"/>
-          <character ref="/world/characters/Florence"/>
-          <character ref="/world/characters/Elder_Twist"/>
-          <character ref="/world/characters/Elder_Heartwood"/>
-          <character ref="/world/characters/Remedy"/>
-          <character ref="/world/characters/Runner"/>
-          <character ref="/world/characters/Velvet"/>
+          <character ref="/world/world/characters/Kira_Voss"/>
+          <character ref="/world/world/characters/Holloway"/>
+          <character ref="/world/world/characters/Scout"/>
+          <character ref="/world/world/characters/Florence"/>
+          <character ref="/world/world/characters/Elder_Twist"/>
+          <character ref="/world/world/characters/Elder_Heartwood"/>
+          <character ref="/world/world/characters/Remedy"/>
+          <character ref="/world/world/characters/Runner"/>
+          <character ref="/world/world/characters/Velvet"/>
         </present>
         <entered>
-          <character ref="/world/characters/Scout"/>
+          <character ref="/world/world/characters/Scout"/>
         </entered>
         <exited>
-          <character ref="/world/characters/Florence"/>
+          <character ref="/world/world/characters/Florence"/>
         </exited>
         <entities>
           <entity ref="/world/entities/Sector_7-Gamma-412_Planet"/>

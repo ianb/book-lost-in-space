@@ -141,12 +141,12 @@
       <characters>
         <reasoning>Characters appearing or mentioned: Kira (narrator) is present throughout. Holloway speaks and guides the planning. Scout is physically on Kira's lap and bounces. Buddy speaks and later is referred to as the AI supporting travel. Remedy is mentioned as having cleared Kira's injury. Elder Heartwood is repeatedly referenced (Elder, Elder Heartwood's grove). All of these were already present at the end of the previous passage, so no new characters enter during this scene, and no characters explicitly exit before the scene ends. The only relevant entity from the provided list is the planet/setting (Sector_7-Gamma-412_Planet).</reasoning>
         <present>
-          <character ref="/world/characters/Kira_Voss"/>
-          <character ref="/world/characters/Scout"/>
-          <character ref="/world/characters/Holloway"/>
-          <character ref="/world/characters/Buddy"/>
-          <character ref="/world/characters/Remedy"/>
-          <character ref="/world/characters/Elder_Heartwood"/>
+          <character ref="/world/world/characters/Kira_Voss"/>
+          <character ref="/world/world/characters/Scout"/>
+          <character ref="/world/world/characters/Holloway"/>
+          <character ref="/world/world/characters/Buddy"/>
+          <character ref="/world/world/characters/Remedy"/>
+          <character ref="/world/world/characters/Elder_Heartwood"/>
         </present>
         <entities>
           <entity ref="/world/entities/Sector_7-Gamma-412_Planet"/>

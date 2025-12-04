@@ -23,7 +23,7 @@
       <concludes-chapter>false</concludes-chapter>
       <sources>
         <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/chapter-placement.card" role="Scene 2 outline"/>
-        <ref ref="/world/characters/Remedy.card" role="Remedy synthesis"/>
+        <ref ref="/world/world/characters/Remedy.card" role="Remedy synthesis"/>
       </sources>
       <changelog-entry version="1.0.0">Initialized</changelog-entry>
     </outline>

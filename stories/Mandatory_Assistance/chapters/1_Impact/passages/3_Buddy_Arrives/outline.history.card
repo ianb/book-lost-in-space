@@ -93,7 +93,7 @@
       <concludes-chapter>false</concludes-chapter>
       <sources>
         <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/chapter-placement.card" role="Scene 3 outline"/>
-        <ref ref="/world/characters/Buddy.card" role="Buddy's voice, speaking style, and personality"/>
+        <ref ref="/world/world/characters/Buddy.card" role="Buddy's voice, speaking style, and personality"/>
         <ref ref="/stories/Mandatory_Assistance/narrative-guide.card" role="Tone guidance for warm absurdist comedy"/>
       </sources>
       <changelog-entry version="1.0.0">Initialized detailed outline for Buddy's introduction - 6 beats establishing comedy/frustration dynamic</changelog-entry>

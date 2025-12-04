@@ -109,15 +109,15 @@
       <characters>
         <reasoning>Characters appearing: The narrator (Kira Voss) is present throughout. Scout, Holloway, and Buddy are actively present and interacting (and were listed as present at the end of the previous passage). Florence is mentioned by comparison (so counted as appearing/mentioned). Remedy, the robot, explicitly enters through the doorway during the scene. No character explicitly leaves the scene before it ends. The scene takes place on the planet environment, so the planetary entity is relevant.</reasoning>
         <present>
-          <character ref="/world/characters/Kira_Voss"/>
-          <character ref="/world/characters/Scout"/>
-          <character ref="/world/characters/Holloway"/>
-          <character ref="/world/characters/Buddy"/>
-          <character ref="/world/characters/Florence"/>
-          <character ref="/world/characters/Remedy"/>
+          <character ref="/world/world/characters/Kira_Voss"/>
+          <character ref="/world/world/characters/Scout"/>
+          <character ref="/world/world/characters/Holloway"/>
+          <character ref="/world/world/characters/Buddy"/>
+          <character ref="/world/world/characters/Florence"/>
+          <character ref="/world/world/characters/Remedy"/>
         </present>
         <entered>
-          <character ref="/world/characters/Remedy"/>
+          <character ref="/world/world/characters/Remedy"/>
         </entered>
         <entities>
           <entity ref="/world/entities/Sector_7-Gamma-412_Planet"/>

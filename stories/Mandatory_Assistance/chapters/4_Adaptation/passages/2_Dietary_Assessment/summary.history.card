@@ -118,11 +118,11 @@
       <characters>
         <reasoning>The passage explicitly includes Kira Voss, Holloway, Scout, Buddy, and Remedy: Kira is the person being assessed and eating; Holloway conducts the dietary form; Buddy accesses medical records and comments; Scout stays with Kira; Remedy (the robot) synthesizes and tests fungal compounds. No other named characters from the available list are mentioned. The previous-present list shows those five were already present at the end of the prior passage, so no new characters enter during this scene and none are shown to exit before the scene ends. The setting is an alien planet, corresponding to /world/entities/Sector_7-Gamma-412_Planet.</reasoning>
         <present>
-          <character ref="/world/characters/Kira_Voss"/>
-          <character ref="/world/characters/Holloway"/>
-          <character ref="/world/characters/Scout"/>
-          <character ref="/world/characters/Buddy"/>
-          <character ref="/world/characters/Remedy"/>
+          <character ref="/world/world/characters/Kira_Voss"/>
+          <character ref="/world/world/characters/Holloway"/>
+          <character ref="/world/world/characters/Scout"/>
+          <character ref="/world/world/characters/Buddy"/>
+          <character ref="/world/world/characters/Remedy"/>
         </present>
         <entities>
           <entity ref="/world/entities/Sector_7-Gamma-412_Planet"/>

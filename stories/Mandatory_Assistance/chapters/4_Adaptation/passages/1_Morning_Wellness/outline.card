@@ -18,7 +18,6 @@
   <launching-situation>
     Kira sleeping in quarters, Scout keeping watch
   </launching-situation>
-  <time-of-day>Morning (bioluminescence brightening)</time-of-day>
   <location-impression>
     Facility quarters, vine walls, soft groundcover, familiar now
   </location-impression>
@@ -33,11 +32,9 @@
   </outline>
   <plot-arc-act>Act 1 (Contact &amp; Bureaucracy) - conclusion</plot-arc-act>
   <concludes-arc>false</concludes-arc>
-  <use-chapters>true</use-chapters>
   <concludes-chapter>false</concludes-chapter>
   <sources>
     <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/chapter-placement.card" role="Scene 1 outline"/>
     <ref ref="/world/characters/Holloway.card" role="Holloway coordination"/>
   </sources>
-  <changelog-entry version="1.0.0">Initialized</changelog-entry>
 </outline>

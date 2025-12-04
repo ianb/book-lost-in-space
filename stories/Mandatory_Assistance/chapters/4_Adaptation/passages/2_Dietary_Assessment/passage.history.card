@@ -253,9 +253,9 @@
       <title>Dietary Assessment</title>
       <sources>
         <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/2_Dietary_Assessment/outline.card" role="Scene structure"/>
-        <ref ref="/world/characters/Remedy.card" role="Remedy synthesis and chemistry"/>
-        <ref ref="/world/characters/Holloway.card" role="Holloway documentation"/>
-        <ref ref="/world/characters/Scout.card" role="Scout support"/>
+        <ref ref="/world/world/characters/Remedy.card" role="Remedy synthesis and chemistry"/>
+        <ref ref="/world/world/characters/Holloway.card" role="Holloway documentation"/>
+        <ref ref="/world/world/characters/Scout.card" role="Scout support"/>
       </sources>
       <changelog-entry version="1.0.0">Initialized</changelog-entry>
     </passage>
@@ -513,9 +513,9 @@
       <title>Dietary Assessment</title>
       <sources>
         <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/2_Dietary_Assessment/outline.card" role="Scene structure"/>
-        <ref ref="/world/characters/Remedy.card" role="Remedy synthesis and chemistry"/>
-        <ref ref="/world/characters/Holloway.card" role="Holloway documentation"/>
-        <ref ref="/world/characters/Scout.card" role="Scout support"/>
+        <ref ref="/world/world/characters/Remedy.card" role="Remedy synthesis and chemistry"/>
+        <ref ref="/world/world/characters/Holloway.card" role="Holloway documentation"/>
+        <ref ref="/world/world/characters/Scout.card" role="Scout support"/>
       </sources>
       <changelog-entry>
         <!-- Each time you change this file add a description of what AND WHY you made changes to this element -->

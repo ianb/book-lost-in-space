@@ -159,17 +159,17 @@
       <characters>
         <reasoning>I listed every character who is either mentioned or present in the passage. The scene opens with the survivors already assembled (Kira, Scout, Florence, Remedy, Runner, Velvet, Holloway). Buddy (the AI companion) appears partway through when Kira addresses them and Buddy replies, so Buddy is an entrant during the passage. No character who is present at the start permanently leaves before the passage ends—Runner and Remedy briefly move outside to dispose of the command node but later are part of the recovery gathering—so there are no exits that remove a character from the scene by the end. The only available location/entity relevant to the scene is the Sector 7-Gamma-412 planet context.</reasoning>
         <present>
-          <character ref="/world/characters/Kira_Voss"/>
-          <character ref="/world/characters/Runner"/>
-          <character ref="/world/characters/Remedy"/>
-          <character ref="/world/characters/Velvet"/>
-          <character ref="/world/characters/Florence"/>
-          <character ref="/world/characters/Holloway"/>
-          <character ref="/world/characters/Scout"/>
-          <character ref="/world/characters/Buddy"/>
+          <character ref="/world/world/characters/Kira_Voss"/>
+          <character ref="/world/world/characters/Runner"/>
+          <character ref="/world/world/characters/Remedy"/>
+          <character ref="/world/world/characters/Velvet"/>
+          <character ref="/world/world/characters/Florence"/>
+          <character ref="/world/world/characters/Holloway"/>
+          <character ref="/world/world/characters/Scout"/>
+          <character ref="/world/world/characters/Buddy"/>
         </present>
         <entered>
-          <character ref="/world/characters/Buddy"/>
+          <character ref="/world/world/characters/Buddy"/>
         </entered>
         <entities>
           <entity ref="/world/entities/Sector_7-Gamma-412_Planet"/>

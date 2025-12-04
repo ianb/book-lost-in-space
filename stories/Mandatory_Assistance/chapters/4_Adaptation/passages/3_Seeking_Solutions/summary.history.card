@@ -124,11 +124,11 @@
       <characters>
         <reasoning>Kira Voss is the first-person narrator and appears throughout. Scout and Buddy are physically present and interact in the scene. Holloway (the fruiting body) speaks, guides the paperwork, and transmits the query. Elder Heartwood is mentioned repeatedly as the authority being contacted (appearance by reference). No new characters enter during this passage, and no characters who were present at the start explicitly leave during the passage. The scene takes place on an alien planet, so /world/entities/Sector_7-Gamma-412_Planet is relevant.</reasoning>
         <present>
-          <character ref="/world/characters/Kira_Voss"/>
-          <character ref="/world/characters/Scout"/>
-          <character ref="/world/characters/Buddy"/>
-          <character ref="/world/characters/Holloway"/>
-          <character ref="/world/characters/Elder_Heartwood"/>
+          <character ref="/world/world/characters/Kira_Voss"/>
+          <character ref="/world/world/characters/Scout"/>
+          <character ref="/world/world/characters/Buddy"/>
+          <character ref="/world/world/characters/Holloway"/>
+          <character ref="/world/world/characters/Elder_Heartwood"/>
         </present>
         <entities>
           <entity ref="/world/entities/Sector_7-Gamma-412_Planet"/>

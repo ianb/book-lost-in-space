@@ -148,7 +148,7 @@
       <sources>
         <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/2_Scout/outline.card" role="Beat structure and scene planning"/>
         <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/2_Scout/passage-placement.card" role="Passage objectives and key moments"/>
-        <ref ref="/world/characters/Scout.card" role="Scout's appearance and behavior"/>
+        <ref ref="/world/world/characters/Scout.card" role="Scout's appearance and behavior"/>
         <ref ref="/world/entities/Sector_7-Gamma-412_Planet.card" role="Planet sensory details (purple forest, quiet)"/>
       </sources>
       <changelog-entry version="1.0.0">Initialized</changelog-entry>
@@ -302,7 +302,7 @@
       <sources>
         <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/2_Scout/outline.card" role="Beat structure and scene planning"/>
         <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/2_Scout/passage-placement.card" role="Passage objectives and key moments"/>
-        <ref ref="/world/characters/Scout.card" role="Scout's appearance and behavior"/>
+        <ref ref="/world/world/characters/Scout.card" role="Scout's appearance and behavior"/>
         <ref ref="/world/entities/Sector_7-Gamma-412_Planet.card" role="Planet sensory details (purple forest, quiet)"/>
       </sources>
       <changelog-entry>

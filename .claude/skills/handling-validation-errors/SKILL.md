@@ -7,17 +7,6 @@ description: Understanding and resolving ske validate errors and warnings
 
 ## Common Errors
 
-### Missing Changelog Entry
-
-```
-File has been modified but no unversioned changelog-entry found
-```
-
-**Fix**: Add `<changelog-entry>` without version attribute, or run:
-```bash
-ske snapshot path/to/file.card -m "Description of why"
-```
-
 ### Required Field Empty
 
 ```
@@ -49,6 +38,17 @@ Multiple passages marked as concluding chapter
 **Fix**: Only the last passage in a chapter should have `<concludes-chapter>true</concludes-chapter>`.
 
 ## Common Warnings
+
+### Content Changed Without Snapshot
+
+```
+Content has changed since last snapshot (run ske snapshot to create new version)
+```
+
+**Fix**: Run snapshot to archive the current version:
+```bash
+ske snapshot path/to/file.card -m "Description of why changes were made"
+```
 
 ### Outdated Version References
 

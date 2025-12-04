@@ -137,17 +137,17 @@
       <characters>
         <reasoning>Characters to include are anyone who appears, speaks, is referenced, or is present in the scene. The passage continues directly from the previous scene so the same set of characters remain onscreen: Kira (narrator), Buddy (mental remark), Scout, Holloway, Florence, Runner, Remedy, and Velvet all appear and act or are described. No new characters enter during this passage. Holloway explicitly leaves the immediate conversation/area near the end of the passage, so they count as exiting during the scene. The only relevant entity from the provided list that applies to the scene setting is the Sector_7-Gamma-412 planet (the facility/the battlefield context).</reasoning>
         <present>
-          <character ref="/world/characters/Kira_Voss"/>
-          <character ref="/world/characters/Buddy"/>
-          <character ref="/world/characters/Scout"/>
-          <character ref="/world/characters/Holloway"/>
-          <character ref="/world/characters/Florence"/>
-          <character ref="/world/characters/Runner"/>
-          <character ref="/world/characters/Remedy"/>
-          <character ref="/world/characters/Velvet"/>
+          <character ref="/world/world/characters/Kira_Voss"/>
+          <character ref="/world/world/characters/Buddy"/>
+          <character ref="/world/world/characters/Scout"/>
+          <character ref="/world/world/characters/Holloway"/>
+          <character ref="/world/world/characters/Florence"/>
+          <character ref="/world/world/characters/Runner"/>
+          <character ref="/world/world/characters/Remedy"/>
+          <character ref="/world/world/characters/Velvet"/>
         </present>
         <exited>
-          <character ref="/world/characters/Holloway"/>
+          <character ref="/world/world/characters/Holloway"/>
         </exited>
         <entities>
           <entity ref="/world/entities/Sector_7-Gamma-412_Planet"/>

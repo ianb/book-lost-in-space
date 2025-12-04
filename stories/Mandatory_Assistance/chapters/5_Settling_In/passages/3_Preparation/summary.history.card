@@ -140,22 +140,22 @@
       <characters>
         <reasoning>I listed anyone who appears or is explicitly mentioned in the passage. Kira (narrator), Scout, Buddy and Holloway are present from the start while Leafwhisper and Rootwalker arrive mid‑afternoon as the Territory One guides. Remedy also "arrives" later for a wound check and then departs before the passage ends, so Remedy both enters during the scene and exits it. Elder Heartwood is mentioned as the destination (appears by mention). The only available entity relevant to the scene is the planet/setting.</reasoning>
         <present>
-          <character ref="/world/characters/Kira_Voss"/>
-          <character ref="/world/characters/Scout"/>
-          <character ref="/world/characters/Holloway"/>
-          <character ref="/world/characters/Buddy"/>
-          <character ref="/world/characters/Leafwhisper"/>
-          <character ref="/world/characters/Rootwalker"/>
-          <character ref="/world/characters/Remedy"/>
-          <character ref="/world/characters/Elder_Heartwood"/>
+          <character ref="/world/world/characters/Kira_Voss"/>
+          <character ref="/world/world/characters/Scout"/>
+          <character ref="/world/world/characters/Holloway"/>
+          <character ref="/world/world/characters/Buddy"/>
+          <character ref="/world/world/characters/Leafwhisper"/>
+          <character ref="/world/world/characters/Rootwalker"/>
+          <character ref="/world/world/characters/Remedy"/>
+          <character ref="/world/world/characters/Elder_Heartwood"/>
         </present>
         <entered>
-          <character ref="/world/characters/Leafwhisper"/>
-          <character ref="/world/characters/Rootwalker"/>
-          <character ref="/world/characters/Remedy"/>
+          <character ref="/world/world/characters/Leafwhisper"/>
+          <character ref="/world/world/characters/Rootwalker"/>
+          <character ref="/world/world/characters/Remedy"/>
         </entered>
         <exited>
-          <character ref="/world/characters/Remedy"/>
+          <character ref="/world/world/characters/Remedy"/>
         </exited>
         <entities>
           <entity ref="/world/entities/Sector_7-Gamma-412_Planet"/>

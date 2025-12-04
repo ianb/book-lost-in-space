@@ -184,14 +184,14 @@
       <characters>
         <reasoning>The narrator (Kira) speaks with Runner, Velvet, Remedy, Holloway, Florence, Scout and Buddy throughout the passage; each is named and interacts directly. All of these were listed as present at the end of the previous passage, so none are newly entering relative to the scene's start, and none explicitly leave before the passage ends. The plant community / setting corresponds to the known location entity /world/entities/Sector_7-Gamma-412_Planet, so I include that as the relevant entity.</reasoning>
         <present>
-          <character ref="/world/characters/Kira_Voss"/>
-          <character ref="/world/characters/Runner"/>
-          <character ref="/world/characters/Velvet"/>
-          <character ref="/world/characters/Remedy"/>
-          <character ref="/world/characters/Holloway"/>
-          <character ref="/world/characters/Florence"/>
-          <character ref="/world/characters/Scout"/>
-          <character ref="/world/characters/Buddy"/>
+          <character ref="/world/world/characters/Kira_Voss"/>
+          <character ref="/world/world/characters/Runner"/>
+          <character ref="/world/world/characters/Velvet"/>
+          <character ref="/world/world/characters/Remedy"/>
+          <character ref="/world/world/characters/Holloway"/>
+          <character ref="/world/world/characters/Florence"/>
+          <character ref="/world/world/characters/Scout"/>
+          <character ref="/world/world/characters/Buddy"/>
         </present>
         <entities>
           <entity ref="/world/entities/Sector_7-Gamma-412_Planet"/>

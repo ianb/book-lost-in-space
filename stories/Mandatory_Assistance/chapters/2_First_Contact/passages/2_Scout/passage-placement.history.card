@@ -37,7 +37,7 @@
       </character-focus>
       <sources>
         <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/chapter-placement.card" role="Scene 2 outline"/>
-        <ref ref="/world/characters/Scout.card" role="Scout's personality and movement"/>
+        <ref ref="/world/world/characters/Scout.card" role="Scout's personality and movement"/>
         <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/1_Into_the_Purple/passage.card" role="Previous passage ending"/>
         <ref ref="/stories/Mandatory_Assistance/exposition-plan.card" role="Scout as first contact"/>
       </sources>

@@ -60,7 +60,7 @@
       <characters>
         <reasoning>The narrator is Kira Voss (addressed as Voss and speaking in first person) and is present throughout. Jensen and Reed are clearly present/mentioned (Jensen appears at the cargo door and Reed speaks from the cockpit), but neither Jensen nor Reed are in the provided character list so they cannot be listed with the required paths. No other named characters from the provided list appear. The passage mentions Kepler-288, but that entity is not among the provided entity cards, so no provided entities are relevant to list here.</reasoning>
         <present>
-          <character ref="/world/characters/Kira_Voss"/>
+          <character ref="/world/world/characters/Kira_Voss"/>
         </present>
         <entities/>
       </characters>

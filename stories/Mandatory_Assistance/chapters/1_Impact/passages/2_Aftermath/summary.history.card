@@ -65,7 +65,7 @@
       <characters>
         <reasoning>Kira Voss is the narrator and clearly present throughout. Jensen and Reed are mentioned and found in the cockpit, and SAM (the AI) is referenced, but none of those have character cards in the provided AVAILABLE CHARACTERS list, so they cannot be listed here. No other characters from the provided list appear or enter/exit during this passage. The scene takes place on an alien/unknown planet, matching the provided entity /world/entities/Sector_7-Gamma-412_Planet.</reasoning>
         <present>
-          <character ref="/world/characters/Kira_Voss"/>
+          <character ref="/world/world/characters/Kira_Voss"/>
         </present>
         <entities>
           <entity ref="/world/entities/Sector_7-Gamma-412_Planet"/>

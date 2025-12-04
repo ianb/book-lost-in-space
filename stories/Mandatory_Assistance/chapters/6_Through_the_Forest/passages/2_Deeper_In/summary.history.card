@@ -140,12 +140,12 @@
       <characters>
         <reasoning>I listed characters who are either present or explicitly mentioned in the passage. Present: the narrator Kira ("I") and the companions Buddy, Leafwhisper, Rootwalker, and Scout all appear directly in the text. Holloway is mentioned by Leafwhisper as a species back at the facility, so I included that as a present/mentioned character. No character newly arrives during the scene (no one not present at the start physically enters), so ENTERED is empty. No character is explicitly shown leaving before the passage ends, so EXITED is empty. The only available entity from the provided list that could be relevant to the scene is the Sector_7-Gamma-412 planet, so I included that.</reasoning>
         <present>
-          <character ref="/world/characters/Kira_Voss"/>
-          <character ref="/world/characters/Buddy"/>
-          <character ref="/world/characters/Scout"/>
-          <character ref="/world/characters/Leafwhisper"/>
-          <character ref="/world/characters/Rootwalker"/>
-          <character ref="/world/characters/Holloway"/>
+          <character ref="/world/world/characters/Kira_Voss"/>
+          <character ref="/world/world/characters/Buddy"/>
+          <character ref="/world/world/characters/Scout"/>
+          <character ref="/world/world/characters/Leafwhisper"/>
+          <character ref="/world/world/characters/Rootwalker"/>
+          <character ref="/world/world/characters/Holloway"/>
         </present>
         <entities>
           <entity ref="/world/entities/Sector_7-Gamma-412_Planet"/>

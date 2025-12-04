@@ -7,12 +7,48 @@ description: Version strategy, ske snapshot usage, handling version drift
 
 ## Using ske snapshot
 
-`ske snapshot path/to/file.card -m "Added backstory details"`
+```bash
+ske snapshot path/to/file.card -m "Character needed stronger motivation" --no-feedback
+ske snapshot path/to/file.card -m "Expanded backstory" --from-feedback="Motivation wasn't clear"
+```
 
+**Required options:**
+- `-m` message - explain WHY the changes were made (not WHAT - the diff shows that)
+- Either `--from-feedback="..."` OR `--no-feedback` (you must specify one)
+
+**What it does:**
 - AI analyzes changes and determines bump type (major/minor/patch)
-- Archives old version automatically
-- Assigns version to existing `<changelog-entry>` or uses `-m` message
-- **Changelog focus**: Explain WHY changes were made, not WHAT (diff shows WHAT)
+- Archives content to `.history.card` with changelog entry
+- Clears reasoning fields after archiving
+- Validates refs before snapshot (must pass before archiving)
+
+## Writing Good Changelog Messages
+
+**Focus on WHY, not WHAT.** The diff shows what changed; the message explains motivation.
+
+Bad (describes WHAT):
+- "Added backstory details"
+- "Changed name from Bob to Robert"
+- "Updated relationships section"
+
+Good (explains WHY):
+- "Character needed stronger motivation for betrayal"
+- "Name felt too informal for the historical setting"
+- "Clarified how Marcus knows the merchant guild contacts"
+
+## Tracking Feedback
+
+Use `--from-feedback` to capture user/reader feedback that guided the change. Transcribe or lightly paraphrase the important feedback. This will be analyzed to improve future instructions and guidance.
+
+```bash
+# Change based on feedback
+ske snapshot character.card -m "Expanded backstory to show resentment" --from-feedback="Character's reason for betrayal wasn't clear"
+
+# Change NOT based on feedback
+ske snapshot passage.card -m "Fixed continuity error" --no-feedback
+```
+
+The feedback is stored in a `<from-feedback>` element in the changelog, separate from your `-m` message which explains your response to the feedback.
 
 ## When to Bump
 
@@ -38,9 +74,9 @@ When references use old versions:
 `ske version-instruct [path]` - See changelogs and update guidance
 `ske version-instruct --for [entity]` - Find all outdated references to entity
 
-## Manual Versioning
+## History Files
 
-If not using `ske snapshot`, manually:
-1. Bump `version="1.2.0"` attribute
-2. Add `<changelog-entry version="1.2.0">...</changelog-entry>`
-3. Run `ske validate` to archive
+Version archives are stored in `.history.card` files alongside each card:
+- `character.card` → `character.history.card`
+- Contains all archived versions with changelog entries
+- Automatically managed - do not edit directly

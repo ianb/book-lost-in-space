@@ -147,21 +147,21 @@
       <characters>
         <reasoning>I scanned the passage for any named characters or mentions and compared that to the list of characters who were present at the end of the previous passage (taken as the start of this passage). Characters explicitly present or mentioned in the passage: Kira_Voss (narrator “I”), Scout, Buddy, Leafwhisper, Rootwalker, Runner (mentioned), and Remedy (mentioned). Runner was not in the previous-present list, so they "entered" the scene in the sense of first appearing in this passage. Holloway, Elder_Heartwood, and Remedy were listed as present at the end of the previous passage but do not appear among the characters present at the end of this passage, so they count as having exited during this scene. The only provided entity relevant to the setting is the Sector_7-Gamma-412 planet (the forest/facility are referenced but not provided as separate entity cards).</reasoning>
         <present>
-          <character ref="/world/characters/Kira_Voss"/>
-          <character ref="/world/characters/Scout"/>
-          <character ref="/world/characters/Buddy"/>
-          <character ref="/world/characters/Leafwhisper"/>
-          <character ref="/world/characters/Rootwalker"/>
-          <character ref="/world/characters/Remedy"/>
-          <character ref="/world/characters/Runner"/>
+          <character ref="/world/world/characters/Kira_Voss"/>
+          <character ref="/world/world/characters/Scout"/>
+          <character ref="/world/world/characters/Buddy"/>
+          <character ref="/world/world/characters/Leafwhisper"/>
+          <character ref="/world/world/characters/Rootwalker"/>
+          <character ref="/world/world/characters/Remedy"/>
+          <character ref="/world/world/characters/Runner"/>
         </present>
         <entered>
-          <character ref="/world/characters/Runner"/>
+          <character ref="/world/world/characters/Runner"/>
         </entered>
         <exited>
-          <character ref="/world/characters/Holloway"/>
-          <character ref="/world/characters/Elder_Heartwood"/>
-          <character ref="/world/characters/Remedy"/>
+          <character ref="/world/world/characters/Holloway"/>
+          <character ref="/world/world/characters/Elder_Heartwood"/>
+          <character ref="/world/world/characters/Remedy"/>
         </exited>
         <entities>
           <entity ref="/world/entities/Sector_7-Gamma-412_Planet"/>

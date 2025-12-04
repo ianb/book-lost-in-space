@@ -146,17 +146,17 @@
       <characters>
         <reasoning>From the passage, the narrator (Kira) and the plants/characters mentioned are all present and active: Florence returns and is central to the scene; Holloway, Runner, Remedy, Velvet, and Scout are repeatedly described acting; Buddy speaks in Kira's mind. All of these appear in the passage. No new characters beyond those and Buddy are introduced. No character leaves the scene before it ends—some dive underground or are injured but remain present. The only available entity (Sector_7-Gamma-412_Planet) is not referenced in the passage, so no entities are listed as relevant.</reasoning>
         <present>
-          <character ref="/world/characters/Kira_Voss"/>
-          <character ref="/world/characters/Buddy"/>
-          <character ref="/world/characters/Scout"/>
-          <character ref="/world/characters/Holloway"/>
-          <character ref="/world/characters/Florence"/>
-          <character ref="/world/characters/Runner"/>
-          <character ref="/world/characters/Remedy"/>
-          <character ref="/world/characters/Velvet"/>
+          <character ref="/world/world/characters/Kira_Voss"/>
+          <character ref="/world/world/characters/Buddy"/>
+          <character ref="/world/world/characters/Scout"/>
+          <character ref="/world/world/characters/Holloway"/>
+          <character ref="/world/world/characters/Florence"/>
+          <character ref="/world/world/characters/Runner"/>
+          <character ref="/world/world/characters/Remedy"/>
+          <character ref="/world/world/characters/Velvet"/>
         </present>
         <entered>
-          <character ref="/world/characters/Buddy"/>
+          <character ref="/world/world/characters/Buddy"/>
         </entered>
         <entities/>
       </characters>
