@@ -1,18 +1,19 @@
 <!-- this file is automatically managed by ske validate; do not edit -->
 <versions>
-  <version number="1.0.0" archived-at="2025-12-02T00:50:22.088Z">
+  <version number="1.0.0" archived-at="2025-12-04T18:31:09.938Z">
     <changelog-entry>
-      <message>Initial version</message>
+      <message>filled in chapter summary and focus</message>
     </changelog-entry>
     <chapter version="1.0.0" number="11" name="Under Attack">
-      <reasoning-chapter/>
+      <reasoning-chapter>
+        Act 3 crisis. Hostile plants who opposed helping Kira from the start launch an attack. Real physical danger - these characters could die. No procedures work for this crisis. Kira must step up and direct defense using plants' actual capabilities. Everyone working from authentic strengths, not bureaucratic roles.
+      </reasoning-chapter>
       <summary>
-        TBD
+        Hostile plants emboldened by the community's fractured trust launch their attack. Initial attempts to handle it through proper channels fail completely. Real danger - Kira and her friends could die. Kira steps up to coordinate defense, using what she's learned about each plant's actual capabilities rather than their bureaucratic roles. Desperate cooperation as they fight to survive together. Chapter ends mid-crisis, outcome uncertain.
       </summary>
       <focus>
-        TBD
+        Real stakes and genuine danger. Kira's leadership emerging under pressure. Each plant's authentic capabilities versus their assigned roles. Cooperation born of necessity rather than procedure. Terror and determination.
       </focus>
-      <changelog-entry version="1.0.0">Initialized</changelog-entry>
     </chapter>
   </version>
 </versions>

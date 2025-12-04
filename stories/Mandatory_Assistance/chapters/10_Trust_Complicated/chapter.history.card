@@ -1,18 +1,19 @@
 <!-- this file is automatically managed by ske validate; do not edit -->
 <versions>
-  <version number="1.0.0" archived-at="2025-12-02T00:50:22.052Z">
+  <version number="1.0.0" archived-at="2025-12-04T18:31:04.474Z">
     <changelog-entry>
-      <message>Initial version</message>
+      <message>filled in chapter summary and focus</message>
     </changelog-entry>
     <chapter version="1.0.0" number="10" name="Trust Complicated">
-      <reasoning-chapter/>
+      <reasoning-chapter>
+        Beginning of Act 3. With Elder Heartwood's failure still fresh, Florence's deception is revealed - she's been fabricating or heavily embellishing Elder Twist's wisdom all along. Trust fractures within the plant community. Kira is less bothered (the advice was helpful regardless of source), but the plants feel deeply betrayed. Sets up the vulnerability that hostile plants will exploit.
+      </reasoning-chapter>
       <summary>
-        TBD
+        In the aftermath of Elder Heartwood's disappointing answer, the truth about Florence emerges. Elder Twist says something that directly contradicts a previous "interpretation" - revealing Florence has been making up advice and attributing it to the elder. The plant community feels deeply betrayed; they trusted Elder Twist's ancient wisdom, not Florence's judgment. Kira recognizes the advice was actually helpful regardless of source, but can't bridge the breach. Florence is alienated, trust is fractured, and the group is vulnerable.
       </summary>
       <focus>
-        TBD
+        Trust and betrayal. The difference between helpful lies and honest uncertainty. How authority can be borrowed or fabricated. Kira's outsider perspective on plant social dynamics. Setting up vulnerability for the coming attack.
       </focus>
-      <changelog-entry version="1.0.0">Initialized</changelog-entry>
     </chapter>
   </version>
 </versions>

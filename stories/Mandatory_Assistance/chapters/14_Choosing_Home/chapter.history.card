@@ -1,18 +1,19 @@
 <!-- this file is automatically managed by ske validate; do not edit -->
 <versions>
-  <version number="1.0.0" archived-at="2025-12-02T00:50:22.197Z">
+  <version number="1.0.0" archived-at="2025-12-04T18:31:35.339Z">
     <changelog-entry>
-      <message>Initial version</message>
+      <message>filled in chapter summary and focus</message>
     </changelog-entry>
     <chapter version="1.0.0" number="14" name="Choosing Home">
-      <reasoning-chapter/>
+      <reasoning-chapter>
+        Final chapter. Act 4 conclusion. Not wrapped up but ready. Looking forward to 10 years together with both excitement and uncertainty. Kira chooses to stay not because she's trapped but because this is where she belongs. The adventure she dreamed of turned out to be something different and better - real connection across impossible gaps.
+      </reasoning-chapter>
       <summary>
-        TBD
+        Formal acknowledgment of their new reality. Kira could theoretically signal for faster rescue if she chose isolation - but she chooses to stay with her found family. The plants formally welcome her not as a guest or crisis to manage, but as one of them. Looking ahead: challenges visible on the horizon, but also discoveries to make, relationships to deepen. Not the adventure Kira imagined, but something real. They stand at the beginning of 10 years together, changed but not finished.
       </summary>
       <focus>
-        TBD
+        Choice and belonging. The adventure Kira dreamed of versus the one she found. Bittersweet readiness - not resolved but ready. Found family fully realized. Open ending that acknowledges the long road ahead while celebrating what they've built.
       </focus>
-      <changelog-entry version="1.0.0">Initialized</changelog-entry>
     </chapter>
   </version>
 </versions>

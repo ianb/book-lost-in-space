@@ -1,18 +1,19 @@
 <!-- this file is automatically managed by ske validate; do not edit -->
 <versions>
-  <version number="1.0.0" archived-at="2025-12-02T00:50:22.510Z">
+  <version number="1.0.0" archived-at="2025-12-04T18:30:57.211Z">
     <changelog-entry>
-      <message>Initial version</message>
+      <message>filled in chapter summary and focus</message>
     </changelog-entry>
     <chapter version="1.0.0" number="9" name="Disappointing Answer">
-      <reasoning-chapter/>
+      <reasoning-chapter>
+        End of Act 2. The long-awaited answer from Elder Heartwood finally arrives - and it's completely useless. A fundamental category error reveals Elder Heartwood doesn't understand the question at all. The ultimate authority has failed. But this is freeing, not crushing: they realize they've been learning what matters during the wait itself. Double authority failure complete (Florence's lies + Elder Heartwood's uselessness).
+      </reasoning-chapter>
       <summary>
-        TBD
+        Back at the settlement, waiting for Elder Heartwood's response. Daily routines, deepening relationships, small victories. Then the answer arrives - and it's meaningless. Elder Heartwood makes a fundamental category error, treating Kira's survival question as something about seasonal cycles or collective growth. The response reveals the elder is so ancient, so removed, that this new world of individual humans is beyond comprehension. Crushing realization: everything they accomplished during the wait was real learning. The answer they waited for is worthless.
       </summary>
       <focus>
-        TBD
+        The shattering of hope in authority. Freeing disillusionment - the wizard has no answers. Recognition that genuine learning happened despite (not because of) waiting for wisdom from above. Emotional pivot from hope to freedom.
       </focus>
-      <changelog-entry version="1.0.0">Initialized</changelog-entry>
     </chapter>
   </version>
 </versions>
