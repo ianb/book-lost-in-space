@@ -1,7 +1,4 @@
-<passage-placement version="1.0.0">
-  <reasoning-passage-placement>
-    Scene 3 "Hope and Return" from chapter-placement: Beginning journey back. Plants sharing Elder Heartwood stories, confident wisdom will solve everything. Kira cautiously hopeful. Reflecting that journey itself was valuable. Return to Territory Two boundary. Ends with anticipation: what will Elder Heartwood say?
-  </reasoning-passage-placement>
+<passage-placement version="1.1.0">
   <passage-objective>
     Show the hopeful return journey with plants confident Elder Heartwood will provide answers, while Kira reflects on the journey's own value, building anticipation for the response.
   </passage-objective>
@@ -24,7 +21,4 @@
   <character-focus>
     Plants' confidence in Elder Heartwood contrasted with Kira's cautious hope. Scout's simple contentment. The journey's lessons being recognized even while everyone focuses on the promised answer. Anticipation building.
   </character-focus>
-  <sources>
-    <ref ref="/stories/Mandatory_Assistance/chapters/8_Hills_and_Heights/chapter-placement.card" role="Scene 3 outline"/>
-  </sources>
 </passage-placement>

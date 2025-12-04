@@ -1,7 +1,4 @@
-<passage-placement version="1.0.0">
-  <reasoning-passage-placement>
-    Scene 3 from chapter-placement: Day Three - final push to boundary. Anticipation building. Leafwhisper preparing Kira for transfer process. Arrival at territorial boundary. Transfer protocols. Meeting Territory Two guides. Farewell to Leafwhisper and Rootwalker.
-  </reasoning-passage-placement>
+<passage-placement version="1.1.0">
   <passage-objective>
     Show the final day of Territory One travel, arrival at the boundary, the transfer process, and meeting new guides - marking the transition from familiar guides to new ones.
   </passage-objective>
@@ -22,7 +19,4 @@
   <character-focus>
     Kira processing the transition from familiar to unfamiliar guides. Leafwhisper's enthusiastic goodbye. Rootwalker's quiet departure. Scout's adaptability. The bittersweet moment of progress meaning leaving behind what's become comfortable.
   </character-focus>
-  <sources>
-    <ref ref="/stories/Mandatory_Assistance/chapters/6_Through_the_Forest/chapter-placement.card" role="Scene 3 outline"/>
-  </sources>
 </passage-placement>

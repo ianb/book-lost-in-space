@@ -1,7 +1,4 @@
-<passage-placement version="1.0.0">
-  <reasoning-passage-placement>
-    Scene 2 "The Ancient Grove" from chapter-placement: Second day climbing harder terrain. Approaching Elder Heartwood - sense of scale, age, remoteness. Arrival at vast grove. Presenting the question about human survival. Ceremony feels meaningful. Elder Heartwood acknowledges, response will take time.
-  </reasoning-passage-placement>
+<passage-placement version="1.1.0">
   <passage-objective>
     Build the pilgrimage feel as they approach Elder Heartwood, establish the sense of ancient scale and significance, present the question with appropriate ceremony, and establish the waiting period for a response.
   </passage-objective>
@@ -23,7 +20,4 @@
   <character-focus>
     The collective sense of pilgrimage and significance. Plants' reverence for Elder Heartwood. Kira's awe at the scale and age. The weight of the question being presented. Hope that external wisdom will solve their challenges.
   </character-focus>
-  <sources>
-    <ref ref="/stories/Mandatory_Assistance/chapters/8_Hills_and_Heights/chapter-placement.card" role="Scene 2 outline"/>
-  </sources>
 </passage-placement>

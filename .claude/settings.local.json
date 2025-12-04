@@ -5,7 +5,18 @@
       "Bash(ske snapshot:*)",
       "Bash(ske create:*)",
       "Bash(ske guide:*)",
-      "Bash(find:*)"
+      "Bash(find:*)",
+      "Bash(for file in )",
+      "Bash(stories/Mandatory_Assistance/chapters/6_Through_the_Forest/passages/3_Boundary/passage-placement.card )",
+      "Bash(stories/Mandatory_Assistance/chapters/8_Hills_and_Heights/passages/1_Climbing/passage-placement.card )",
+      "Bash(stories/Mandatory_Assistance/chapters/8_Hills_and_Heights/passages/2_The_Ancient_Grove/passage-placement.card )",
+      "Bash(stories/Mandatory_Assistance/chapters/8_Hills_and_Heights/passages/3_Hope_and_Return/passage-placement.card )",
+      "Bash(stories/Mandatory_Assistance/chapters/9_Disappointing_Answer/passages/1_Settling_In/passage-placement.card )",
+      "Bash(stories/Mandatory_Assistance/chapters/9_Disappointing_Answer/passages/2_The_Answer_Arrives/passage-placement.card )",
+      "Bash(stories/Mandatory_Assistance/chapters/9_Disappointing_Answer/passages/3_What_We_Know/passage-placement.card)",
+      "Bash(do)",
+      "Bash(echo:*)",
+      "Bash(done)"
     ],
     "deny": [],
     "ask": []

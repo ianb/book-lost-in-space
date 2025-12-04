@@ -1,25 +1,36 @@
 <!-- this file is automatically managed by ske validate; do not edit -->
 <versions>
-  <version number="1.0.0" archived-at="2025-12-02T00:50:22.427Z">
+  <version number="1.0.0" archived-at="2025-12-04T19:57:37.550Z">
     <changelog-entry>
-      <message>Initial version</message>
+      <message>Filled in passage placement details from chapter outline</message>
     </changelog-entry>
     <passage-placement version="1.0.0">
-      <reasoning-passage-placement/>
+      <reasoning-passage-placement>
+        Scene 3 from chapter-placement: Day Three - final push to boundary. Anticipation building. Leafwhisper preparing Kira for transfer process. Arrival at territorial boundary. Transfer protocols. Meeting Territory Two guides. Farewell to Leafwhisper and Rootwalker.
+      </reasoning-passage-placement>
       <passage-objective>
-        TBD
+        Show the final day of Territory One travel, arrival at the boundary, the transfer process, and meeting new guides - marking the transition from familiar guides to new ones.
       </passage-objective>
-      <scene-portion>TBD</scene-portion>
+      <scene-portion>Complete scene - covers all of Scene 3 (Boundary Arrival)</scene-portion>
       <key-moments>
-        TBD
+        - Day Three begins, final push to boundary
+        - Anticipation building as boundary approaches
+        - Leafwhisper preparing Kira for transfer protocols
+        - Rootwalker checking pace, ensuring timely arrival
+        - Arrival at territorial boundary - physical/visual markers
+        - Transfer protocols - formal but plant-weird
+        - Meeting Territory Two guides (Streamwalker and new partner)
+        - Farewell to Leafwhisper and Rootwalker
+        - Kira's mixed feelings - grown comfortable with these guides
+        - Scout adapting to transition
+        - New territory ahead, new guides, journey continues
       </key-moments>
       <character-focus>
-        TBD
+        Kira processing the transition from familiar to unfamiliar guides. Leafwhisper's enthusiastic goodbye. Rootwalker's quiet departure. Scout's adaptability. The bittersweet moment of progress meaning leaving behind what's become comfortable.
       </character-focus>
       <sources>
-        <ref ref="/todo/stories/TBD/chapters/TBD/chapter-placement.card#v0.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/6_Through_the_Forest/chapter-placement.card" role="Scene 3 outline"/>
       </sources>
-      <changelog-entry version="1.0.0">Initialized</changelog-entry>
     </passage-placement>
   </version>
 </versions>

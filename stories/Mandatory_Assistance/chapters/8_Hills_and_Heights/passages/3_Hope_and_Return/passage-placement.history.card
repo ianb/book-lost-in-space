@@ -1,25 +1,38 @@
 <!-- this file is automatically managed by ske validate; do not edit -->
 <versions>
-  <version number="1.0.0" archived-at="2025-12-02T00:50:22.500Z">
+  <version number="1.0.0" archived-at="2025-12-04T19:58:01.578Z">
     <changelog-entry>
-      <message>Initial version</message>
+      <message>Filled in passage placement details from chapter outline</message>
     </changelog-entry>
     <passage-placement version="1.0.0">
-      <reasoning-passage-placement/>
+      <reasoning-passage-placement>
+        Scene 3 "Hope and Return" from chapter-placement: Beginning journey back. Plants sharing Elder Heartwood stories, confident wisdom will solve everything. Kira cautiously hopeful. Reflecting that journey itself was valuable. Return to Territory Two boundary. Ends with anticipation: what will Elder Heartwood say?
+      </reasoning-passage-placement>
       <passage-objective>
-        TBD
+        Show the hopeful return journey with plants confident Elder Heartwood will provide answers, while Kira reflects on the journey's own value, building anticipation for the response.
       </passage-objective>
-      <scene-portion>TBD</scene-portion>
+      <scene-portion>Complete scene - covers all of Scene 3 (Hope and Return)</scene-portion>
       <key-moments>
-        TBD
+        - Beginning the return journey
+        - Plants sharing stories about Elder Heartwood's wisdom
+        - Collective confidence this will solve everything
+        - Kira cautiously hopeful - wants to believe
+        - Has learned not to expect immediate solutions
+        - Reflecting on what the journey taught
+        - Skills, relationships, understanding gained
+        - The journey was itself valuable
+        - Even while waiting for the "real" answer
+        - Scout content with the adventure
+        - Return to Territory Two boundary
+        - Ready to traverse back toward facility
+        - Ends with anticipation: what will Elder Heartwood say?
       </key-moments>
       <character-focus>
-        TBD
+        Plants' confidence in Elder Heartwood contrasted with Kira's cautious hope. Scout's simple contentment. The journey's lessons being recognized even while everyone focuses on the promised answer. Anticipation building.
       </character-focus>
       <sources>
-        <ref ref="/todo/stories/TBD/chapters/TBD/chapter-placement.card#v0.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/8_Hills_and_Heights/chapter-placement.card" role="Scene 3 outline"/>
       </sources>
-      <changelog-entry version="1.0.0">Initialized</changelog-entry>
     </passage-placement>
   </version>
 </versions>

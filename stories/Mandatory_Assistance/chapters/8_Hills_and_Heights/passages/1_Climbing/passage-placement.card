@@ -1,7 +1,4 @@
-<passage-placement version="1.0.0">
-  <reasoning-passage-placement>
-    Scene 1 "Into the Hills" from chapter-placement: Territory Three's first day. Hill country terrain - climbing, elevation, views. Oakshade and Mossmantle's dynamic (tree steadiness + moss practicality). Kira demonstrating journey skills, adapting confidently. Evening camp with new guides.
-  </reasoning-passage-placement>
+<passage-placement version="1.1.0">
   <passage-objective>
     Establish Territory Three's challenging hill terrain, introduce Oakshade and Mossmantle's unique guide dynamic, and show Kira's growth as a competent traveler who adapts quickly to new challenges.
   </passage-objective>
@@ -23,7 +20,4 @@
   <character-focus>
     Kira's competence showing growth from nervous beginner to confident traveler. Oakshade and Mossmantle's complementary perspectives. Scout's continued enthusiasm. The satisfaction of mastering new terrain.
   </character-focus>
-  <sources>
-    <ref ref="/stories/Mandatory_Assistance/chapters/8_Hills_and_Heights/chapter-placement.card" role="Scene 1 outline"/>
-  </sources>
 </passage-placement>

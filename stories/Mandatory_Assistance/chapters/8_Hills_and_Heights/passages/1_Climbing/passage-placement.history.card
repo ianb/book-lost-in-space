@@ -1,25 +1,37 @@
 <!-- this file is automatically managed by ske validate; do not edit -->
 <versions>
-  <version number="1.0.0" archived-at="2025-12-02T00:50:22.485Z">
+  <version number="1.0.0" archived-at="2025-12-04T19:57:47.269Z">
     <changelog-entry>
-      <message>Initial version</message>
+      <message>Filled in passage placement details from chapter outline</message>
     </changelog-entry>
     <passage-placement version="1.0.0">
-      <reasoning-passage-placement/>
+      <reasoning-passage-placement>
+        Scene 1 "Into the Hills" from chapter-placement: Territory Three's first day. Hill country terrain - climbing, elevation, views. Oakshade and Mossmantle's dynamic (tree steadiness + moss practicality). Kira demonstrating journey skills, adapting confidently. Evening camp with new guides.
+      </reasoning-passage-placement>
       <passage-objective>
-        TBD
+        Establish Territory Three's challenging hill terrain, introduce Oakshade and Mossmantle's unique guide dynamic, and show Kira's growth as a competent traveler who adapts quickly to new challenges.
       </passage-objective>
-      <scene-portion>TBD</scene-portion>
+      <scene-portion>Complete scene - covers all of Scene 1 (Into the Hills)</scene-portion>
       <key-moments>
-        TBD
+        - First day in Territory Three begins
+        - Hill country terrain - climbing, elevation changes
+        - Oakshade's tree-like steadiness, patient long-view
+        - Mossmantle's ground-level practicality, noticing details
+        - Their partnership dynamic different from previous guide pairs
+        - Kira demonstrating journey skills learned in previous territories
+        - Adapting confidently to climbing challenges
+        - Scout enthusiastic about new terrain
+        - Different challenges from forest/wetlands
+        - Kira handles them well - shows growth
+        - Evening camp with new guides
+        - Reflecting on journey progress
       </key-moments>
       <character-focus>
-        TBD
+        Kira's competence showing growth from nervous beginner to confident traveler. Oakshade and Mossmantle's complementary perspectives. Scout's continued enthusiasm. The satisfaction of mastering new terrain.
       </character-focus>
       <sources>
-        <ref ref="/todo/stories/TBD/chapters/TBD/chapter-placement.card#v0.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/8_Hills_and_Heights/chapter-placement.card" role="Scene 1 outline"/>
       </sources>
-      <changelog-entry version="1.0.0">Initialized</changelog-entry>
     </passage-placement>
   </version>
 </versions>

@@ -1,25 +1,40 @@
 <!-- this file is automatically managed by ske validate; do not edit -->
 <versions>
-  <version number="1.0.0" archived-at="2025-12-02T00:50:22.528Z">
+  <version number="1.0.0" archived-at="2025-12-04T19:58:19.962Z">
     <changelog-entry>
-      <message>Initial version</message>
+      <message>Filled in passage placement details from chapter outline</message>
     </changelog-entry>
     <passage-placement version="1.0.0">
-      <reasoning-passage-placement/>
+      <reasoning-passage-placement>
+        Scene 2 "The Answer Arrives" from chapter-placement: Message arrives - Elder Heartwood's response! Ceremonial gathering. Reading with anticipation. Wisdom is completely off-topic - fundamental category error. Elder Heartwood too ancient, too removed, irrelevant to current crisis. Excitement turns to confusion and disappointment.
+      </reasoning-passage-placement>
       <passage-objective>
-        TBD
+        Show the arrival of Elder Heartwood's long-awaited response, the ceremonial anticipation, and the crushing realization that the answer is completely inadequate - a fundamental misunderstanding revealing that external authority has no relevant wisdom.
       </passage-objective>
-      <scene-portion>TBD</scene-portion>
+      <scene-portion>Complete scene - covers all of Scene 2 (The Answer Arrives)</scene-portion>
       <key-moments>
-        TBD
+        - Message arrives from Territory Three
+        - Elder Heartwood's response has come!
+        - Plants gather ceremonially, everyone present
+        - Reading the response with building anticipation
+        - The wisdom is... completely off-topic
+        - Fundamental category error
+        - Maybe discusses seasonal patterns when asked about survival
+        - Or talks about pre-visitor ecosystems
+        - Or treats "human" as unfamiliar concept
+        - Elder Heartwood too ancient, too removed
+        - Operating on timescales irrelevant to current crisis
+        - Plants' excitement turns to confusion
+        - Then to disappointment
+        - This was supposed to solve everything
+        - Collective realization: the answer is useless
       </key-moments>
       <character-focus>
-        TBD
+        Plants' anticipation building to crushing disappointment. The gap between expectation and reality. Holloway especially shaken. Kira processing faster, already recognizing what this means. The "Wizard of Oz" moment - ultimate authority has no answers.
       </character-focus>
       <sources>
-        <ref ref="/todo/stories/TBD/chapters/TBD/chapter-placement.card#v0.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/9_Disappointing_Answer/chapter-placement.card" role="Scene 2 outline"/>
       </sources>
-      <changelog-entry version="1.0.0">Initialized</changelog-entry>
     </passage-placement>
   </version>
 </versions>

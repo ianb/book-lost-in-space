@@ -1,25 +1,37 @@
 <!-- this file is automatically managed by ske validate; do not edit -->
 <versions>
-  <version number="1.0.0" archived-at="2025-12-02T00:50:22.511Z">
+  <version number="1.0.0" archived-at="2025-12-04T19:58:10.273Z">
     <changelog-entry>
-      <message>Initial version</message>
+      <message>Filled in passage placement details from chapter outline</message>
     </changelog-entry>
     <passage-placement version="1.0.0">
-      <reasoning-passage-placement/>
+      <reasoning-passage-placement>
+        Scene 1 "Settling In" from chapter-placement: Back at facility after journey. Time passing (couple weeks). Working on survival challenges together, applying journey lessons. Better communication, more effective cooperation. But everyone still waiting for Elder Heartwood's response as THE real answer.
+      </reasoning-passage-placement>
       <passage-objective>
-        TBD
+        Show the settling back into facility routine, the weeks of improved cooperation using journey lessons, while everyone still treats Elder Heartwood's pending response as the "real" answer they're waiting for.
       </passage-objective>
-      <scene-portion>TBD</scene-portion>
+      <scene-portion>Complete scene - covers all of Scene 1 (Settling In)</scene-portion>
       <key-moments>
-        TBD
+        - Return to facility after journey
+        - Time passing - couple weeks settling into routine
+        - Working on survival challenges together
+        - Applying lessons learned during journey
+        - Better communication, more effective cooperation
+        - Kira notices they're actually doing well
+        - Scout's companionship is genuine
+        - Plants respond better to her needs
+        - But everyone still talks about Elder Heartwood's response
+        - Treating current success as provisional
+        - Waiting for THE real answer
+        - Present accomplishments undervalued while hoping for external wisdom
       </key-moments>
       <character-focus>
-        TBD
+        The irony of their current success while waiting for "real" answers. Kira observing improvement that others don't recognize. Plants' confidence in Elder Heartwood overshadowing their own learning. Scout's genuine connection continuing to grow.
       </character-focus>
       <sources>
-        <ref ref="/todo/stories/TBD/chapters/TBD/chapter-placement.card#v0.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/9_Disappointing_Answer/chapter-placement.card" role="Scene 1 outline"/>
       </sources>
-      <changelog-entry version="1.0.0">Initialized</changelog-entry>
     </passage-placement>
   </version>
 </versions>
