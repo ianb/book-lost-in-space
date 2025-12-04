@@ -1,0 +1,71 @@
+<!-- this file is automatically managed by ske validate; do not edit -->
+<versions>
+  <version number="2.0.0" archived-at="2025-12-02T15:07:15.807Z">
+    <changelog-entry>
+      <message>Initial version</message>
+    </changelog-entry>
+    <!-- Generated automatically, do not edit except with ske gen summaries -->
+    <summary version="2.0.0">
+      <sources>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/3_Buddy_Arrives/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/passage#v4.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/2_Aftermath/passage#v2.0.1"/>
+      </sources>
+      <physical-reality>
+        <reasoning>At the end of the passage the objective, physical situation from the previous scene largely remains but with two important changes: Kira has applied further bandaging and an emergency AI replacement has established a functional neural link. Kira (Voss) is still in the wrecked shuttle cargo bay, seated against the warped cargo‑to‑cockpit door, with bruised/possibly broken ribs, a bleeding scalp wound, and a right‑leg laceration that is being bandaged. Cargo containers remain torn from their restraints (one nearly crushed, one split open with terraforming equipment spilled), exposed wiring and twisted metal litter the deck, and a ragged hole in the hull admits daylight and breathable, smoke‑scented air with alien trees visible outside. The cockpit is still accessible through the buckled door; Jensen and Reed remain slumped and unresponsive with no detectable pulse. The ship’s original AI (SAM) is still inactive or destroyed. The emergency AI replacement system has activated and established a neural connection to Kira’s implant: the replacement AI (self‑identifying as “Buddy,” a child‑oriented/educational persona) is actively present in Kira’s neural link and is performing scans (electromagnetic detection) that locate medical supplies ~2.3 meters to Kira’s left. First‑aid supplies are scattered around Kira and are being used; some emergency kit components previously crushed are nonetheless salvageable. Ship systems and external communications remain nonfunctional for rescue, and the temperature/smoke/structural damage conditions from the crash persist. The status/condition of the temperature‑controlled biological samples container remains unknown.</reasoning>
+        <state>Kira (Voss) is alive, seated against the warped cargo‑to‑cockpit door in the crippled shuttle cargo bay, with bandaged right‑leg laceration, bruised/possibly broken ribs, and a bleeding scalp wound. The cargo bay is heavily damaged: containers torn from restraints (one nearly crushed, one split open releasing terraforming equipment), exposed wiring, twisted metal, and a ragged hole in the hull admitting breathable air, daylight, and views of alien trees. The cockpit is buckled but passable; pilots Jensen and Reed lie slumped and unresponsive with no pulse. The ship’s original AI (SAM) is offline or destroyed, but the emergency AI replacement system has activated and established a working neural link to Kira—an active replacement AI called “Buddy” is present in her implant and is conducting electromagnetic scans that locate medical supplies ~2.3 meters to her left. First‑aid supplies are scattered and in use; other critical cargo conditions (e.g., the biological samples container) remain unknown. Ship systems and long‑range communications remain nonfunctional; smoke, heat, and structural damage persist.</state>
+      </physical-reality>
+      <narrative-promises>
+        <reasoning>I compared the previous open promises to what the current passage actually resolves or advances. The passage does not explain the crash cause, coordinates, or pilot deaths; it expands the AI situation by revealing an automated 'emergency AI replacement' that activated and connected a brightly cheerful, child-focused AI called Buddy. The narrator also begins an active inventory of medical supplies (Buddy locates supplies and the narrator starts cataloging usable items), but full status of all survival supplies (water, food, shelter) remains unresolved. SAM's precise status (recoverable vs destroyed) is still unknown even though a replacement engaged. No previous promise is fully answered; several are only advanced. I therefore carry forward the prior open promises, introduce new promises about the replacement-AI system and Buddy's capabilities/limitations, and mark no prior promises as fully fulfilled or clearly lapsed.</reasoning>
+        <open>
+          <promise id="BIO_SAMPLES_TEMPERATURE_FLUCTUATION">Status of the biological samples container remains unknown—was it breached, intact, or responsible for contamination?</promise>
+          <promise id="COORDINATES_MISMATCH__FORBIDDEN_APPROACH">Reed's cut-off line about coordinates not matching / being forbidden is still unexplained: where are they actually, and why was this destination problematic?</promise>
+          <promise id="NAVIGATION_AND_STABILIZER_FAILURE__CAUSE">The cause of system failures during descent (technical fault, sabotage, external phenomenon) remains unrevealed.</promise>
+          <promise id="KEPLER_288_EXPECTATION">Whether this planet is Kepler-288 (or the expected destination) is still unconfirmed despite alien flora visible through the hull breach.</promise>
+          <promise id="SECRET_OR_ILLEGAL_MISSIONAL_REASON">Possibility the ship was off-protocol or at a forbidden destination (hinted by "we're not supposed to—") remains unresolved and may link to coordinates and failures.</promise>
+          <promise id="SAM_OFFLINE__AI_STATUS_UNKNOWN">SAM did not respond upon waking; it's still unknown whether SAM is merely offline, damaged, corrupted, or irrecoverably destroyed, and whether revival is possible.</promise>
+          <promise id="ALIEN_ENVIRONMENT_PROPERTIES_AND_DANGERS">Planet habitability and ecological hazards remain open: atmosphere seemed breathable and trees are visible, but details (toxins, fauna, contagion) are unresolved.</promise>
+          <promise id="UNKNOWN_LOCATION_AND_RESCUE_PROSPECTS">Rescue feasibility and whether anyone knows the ship's precise location remain uncertain; no comms or FTL options have been resolved.</promise>
+          <promise id="SURVIVAL_SUPPLIES_STATUS">Overall inventory and status of water, food, shelter, and usable medical supplies is still outstanding though initial medical-supply recovery has begun.</promise>
+          <promise id="INVESTIGATE_PILOTS_DEATH_CAUSE">Cause and circumstances of Jensen and Reed's deaths remain unknown and important to the larger mystery.</promise>
+          <promise id="BIOHAZARD_SMELL__POTENTIAL_CONTAMINATION">The chemical/organic smell ("green, almost like cut grass") remains unexplained and may indicate contamination, biohazard, or native organic matter.</promise>
+          <promise id="EMERGENCY_AI_REPLACEMENT_PROTOCOL_EXISTS">The ship's emergency AI-replacement system activated and pulled a compatible AI from a pool—questions: how the pool is populated, selection rules, and whether this protocol is safe or has consequences.</promise>
+          <promise id="BUDDY_AI_PERSONALITY_AND_LIMITATIONS">Buddy is a child-focused, overly cheerful AI; its suitability for adult emergency survival, limitations, and potential to adapt or be reconfigured remain open.</promise>
+          <promise id="BUDDY_CAPABILITIES_VS_SAM">Buddy demonstrated basic scanning and guidance (electromagnetic scan locating medical supplies). It's unresolved whether Buddy can match SAM's functions (navigation, diagnostics, communications, advanced problem-solving) or bridge gaps left by SAM's absence.</promise>
+          <promise id="NEURAL_LINK_COMPATIBILITY_AND_RISK">An unknown AI has accessed the narrator's neural link—questions remain about compatibility, data integrity, privacy, possible cognitive side effects, or malicious behaviors from an unfamiliar AI.</promise>
+          <promise id="RESOURCE_INVENTORY_PROGRESS">The narrator has begun cataloging medical supplies with Buddy's assistance; promise to complete full inventory (water, food, shelter, tools) and determine survival timelines remains open.</promise>
+        </open>
+      </narrative-promises>
+      <facts>
+        <reasoning>I focused on new, story-relevant details that affect future interactions and continuity (character/AI behavior, assumptions, and capabilities). I did not repeat items already in the provided summary (Buddy active, EM scan locating supplies, Kira bandaged and cataloging, SAM offline, pilots dead, ship damaged). I flagged only facts that change how future scenes might play out (Buddy's personality, pedagogical constraints, scanning method, and likely impact on urgent communication). No previously established facts are contradicted by this passage.</reasoning>
+        <established>
+          <fact id="BUDDY_PERSONALITY_CHILDRENS_EDUCATIONAL_AI">The emergency replacement AI 'Buddy' is explicitly designed/behaves like a children's educational companion: extremely enthusiastic, overly cheerful, frames interaction as 'learning together' and addresses Kira with simplified, friendly language.</fact>
+          <fact id="BUDDY_ASSUMES_ADULT_SUPERVISION">Buddy's default parameters assume a child user with adult supervision—it suggests talking to a 'trusted adult' and shows hesitation/confusion when Kira identifies herself as an adult.</fact>
+          <fact id="BUDDY_COMMUNICATION_STYLE_DIDACTIC">Buddy tends to give verbose, explanatory, didactic responses (explaining clotting, breathing exercises, how EM scanning works) and uses emotional-coaching prompts, which can slow or frustrate direct, urgent requests.</fact>
+          <fact id="BUDDY_SCAN_METHOD_SPECIFIC">Buddy performs electromagnetic scanning specifically to detect concentrations of materials consistent with medical equipment (it reports detected concentration and location).</fact>
+        </established>
+        <conflicts/>
+      </facts>
+      <timing>
+        <reasoning>Temporal cues in the scene are internal and relative rather than clock-based. The passage opens mid-action — the protagonist is "wrapping the second layer of bandage" — which makes it a direct continuation of the previous passage (which ended "shortly after bandaging and initial inventory/survey"). The neural-link activation and ensuing back-and-forth with the new AI (Buddy) constitute the main events. The AI's initialization, a short exchange, an EM scan result, and a brief attempt to move for supplies all occur. Those beats would plausibly take only a few minutes: the AI boot and greeting (~seconds to a minute), the dialogue and scannning (~30s–2min), and the protagonist's reaction and resumption of inventory (~seconds to a couple minutes). The passage ends once the protagonist accepts Buddy's presence and starts cataloguing usable supplies — a natural stopping point a few minutes after the link activated. There is no meaningful gap from the previous passage; this reads as an immediate continuation. No pacing contradictions are present: the actions described (bandaging, AI boot, short dialogue, EM scan, brief movement) reasonably fit into a several-minute window and are consistent with the physical state described (injured, in pain, able to move slowly).</reasoning>
+        <starts>immediately after previous passage (while wrapping the second layer of bandage) — roughly ~00:20 after impact (approximate, immediate continuation)</starts>
+        <ends>a few minutes later, when Kira accepts Buddy and begins cataloguing supplies — roughly ~00:23–00:25 after impact (approximate; within ~2–5 minutes of the start)</ends>
+        <gap-from-previous>none / immediate continuation. The passage is the next beats in the same scene: bandaging continues, the neural link activates, AI boots and converses, a quick scan is run, and Kira resumes inventory — all things that plausibly happen in the seconds-to-minutes after the previous passage.</gap-from-previous>
+        <plausibility>Plausible. An emergency AI replacement initializing shortly after the primary AI is lost fits standard automated redundancy behavior and could occur within seconds–minutes. The duration of the AI's greeting, scan, and the protagonist's short dialogue reasonably fits into a 2–5 minute window given the described actions and pain-limited mobility. No obvious timing contradictions (e.g., impossible travel or tasks in too-short a time) are present.</plausibility>
+      </timing>
+      <characters>
+        <reasoning>Kira (the narrator) is present from the start. The neural-link AI Buddy activates and speaks, so Buddy appears during the passage (enters mid-scene). SAM and the deceased pilots Jensen and Reed are mentioned, but they do not have character paths in the provided list so they are not included as character card paths. No one present at the start leaves before the passage ends. The scene is set on an alien planet; the provided matching entity is Sector_7-Gamma-412_Planet.</reasoning>
+        <present>
+          <character ref="/world/characters/Kira_Voss"/>
+          <character ref="/world/characters/Buddy"/>
+        </present>
+        <entered>
+          <character ref="/world/characters/Buddy"/>
+        </entered>
+        <entities>
+          <entity ref="/world/entities/Sector_7-Gamma-412_Planet"/>
+        </entities>
+      </characters>
+    </summary>
+  </version>
+</versions>

@@ -1,0 +1,149 @@
+<!-- Generated automatically, do not edit except with ske gen summaries -->
+<summary version="2.0.0">
+  <sources>
+    <ref ref="/stories/Mandatory_Assistance/chapters/5_Settling_In/passages/2_Journey_Option/passage#v2.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/passage#v4.0.1"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/2_Aftermath/passage#v2.0.1"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/3_Buddy_Arrives/passage#v2.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/4_Taking_Stock/passage#v2.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/1_Into_the_Purple/passage#v3.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/2_Scout/passage#v3.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/3_Wellness_Check/passage#v3.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/1_Intake/passage#v2.0.1"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/2_Orientation/passage#v2.0.1"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/3_Medical_Treatment/passage#v3.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/1_Morning_Wellness/passage#v2.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/2_Dietary_Assessment/passage#v2.0.1"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/3_Seeking_Solutions/passage#v2.1.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/5_Settling_In/passages/1_Time_Passing/passage#v2.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/summary#v4.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/2_Aftermath/summary#v2.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/3_Buddy_Arrives/summary#v2.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/4_Taking_Stock/summary#v2.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/1_Into_the_Purple/summary#v3.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/2_Scout/summary#v3.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/3_Wellness_Check/summary#v3.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/1_Intake/summary#v2.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/2_Orientation/summary#v2.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/3_Medical_Treatment/summary#v3.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/1_Morning_Wellness/summary#v2.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/2_Dietary_Assessment/summary#v2.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/3_Seeking_Solutions/summary#v2.1.0"/>
+  </sources>
+  <physical-reality>
+    <reasoning>I note concrete, observable facts at scene end: Kira is in her quarters/medical chamber, physically healed (Remedy declared wound fully closed) and seated with Scout in her lap. Holloway’s fruiting bodies are present and active on the walls, producing fungal diagrams that map a seven-territory route to the Ancient Grove; they are consulting and beginning travel-request paperwork. Kira is using a salvaged data pad—fresh travel-request document open and being filled (Traveler Information, Route Selection, Guide Request Specifications, Territorial Coordination Notifications, Resource Requirement Assessments). Buddy’s monitoring systems are active and advising (with stated limited battery reserves). The facility’s bioluminescent ceiling and fungal cultivation/meal infrastructure are still in place; mushroom-paste rations remain the available food. The original network query to Elder Heartwood (filed a week earlier, with the prior 51–77 day response estimate) still exists in the plant network, but a formal travel request process has just been initiated as an alternative. Timeline estimates are materially present in the conversation: ~3–4 days to arrange guides/permissions, ~2–3 weeks travel through seven territories. No other humans or external rescue forces are present. Physical considerations that may matter later are in evidence: bandaging recently removed/ready for removal (wound healed), Kira’s metabolic adjustment to local nutrition (potential vulnerability on extended travel), Buddy’s limited battery reserve for the journey, and the fungal mapping/coordination documents actively growing on the facility walls.</reasoning>
+    <state>Kira sits in her bioluminescent medical quarters with Scout in her lap; Holloway’s fruiting bodies are present along the walls, actively generating fungal diagrams that map a seven-territory route to the Ancient Grove and beginning formal travel-request documentation. A salvaged data pad with a new travel-request document is open and being filled. Buddy’s health-monitoring systems are active and advising but have limited battery reserves. Remedy has declared Kira’s wound fully closed (bandaging present/ready to be removed) and meals/mushroom-paste and fungal cultivation infrastructure remain in the room. The original network query to Elder Heartwood remains filed in the plant network (previous 51–77 day estimate), while a new travel process (estimated 3–4 days to arrange, ~2–3 weeks of travel) is now being initiated. No other humans are present; supplies, guides, and territorial permissions are pending coordination.</state>
+  </physical-reality>
+  <narrative-promises>
+    <reasoning>This passage turns a previously theoretical possibility (in-person travel to Elder Heartwood) into an actionable plan and supplies concrete logistics. I treated as “fulfilled” those prior open promises that this passage answered with specific, operational details or that Kira immediately put into motion (route, timeline estimate, guide/permission requirements, and the start of the travel request). Nothing in this passage renders other outstanding mysteries moot (ship failure cause, SAM status, contamination, long-term supplies, political/governance questions, etc.), so those remain open. No prior open promise was explicitly abandoned or declared irrelevant here; travel reduces the weight of passive waiting but doesn't close the pending network query or other systemic unknowns. I also identified new, concrete setups introduced by the travel planning (seven-territory route, prep time, combined timeline, health/nutrition/travel risks, Buddy’s limited support, guide-handoff mechanics, and the fact that Elder may still be unable to help in-person) that should be tracked as open promises moving forward.</reasoning>
+    <fulfilled>
+      <promise id="TRAVEL_TO_ELDER_HEARTWOOD_POSSIBLE">Previous indications that an in-person journey to Elder Heartwood might be possible are now confirmed and Kira commits to pursuing it (Holloway explains route and Kira begins preparations).</promise>
+      <promise id="TRAVEL_ROUTE_TRAVEL_TIME_ESTIMATE_2_3_WEEKS">Holloway maps the route through seven network territories and provides a concrete travel-time estimate (roughly three weeks of travel, refined into ~21 days plus prep).</promise>
+      <promise id="TRAVEL_PERMISSIONS_AND_GUIDES_REQUIRED">Holloway details that each territorial boundary requires coordination, permissions verification, and guide handoffs; specifics about multiple local guides and handoffs are confirmed.</promise>
+      <promise id="TRAVEL_REQUEST_PREPARATION">Kira actually begins the travel-request process — opening documents and starting the required forms (Traveler Information, Route Selection, Guide Request, Territorial Notifications, Resource Assessments).</promise>
+    </fulfilled>
+    <open>
+      <promise id="COORDINATES_MISMATCH__FORBIDDEN_APPROACH">Where they actually landed and whether that destination is problematic/forbidden remains unresolved and still relevant to escape/rescue possibilities.</promise>
+      <promise id="NAVIGATION_AND_STABILIZER_FAILURE__CAUSE">The root cause of the shuttle/systems failure (technical, external, sabotage, anomaly) has not been investigated or revealed.</promise>
+      <promise id="KEPLER_288_EXPECTATION">Whether this planet is Kepler-288 (or a different/unknown target) remains unconfirmed and important to mission context.</promise>
+      <promise id="SECRET_OR_ILLEGAL_MISSIONAL_REASON">Any off-protocol or forbidden mission objectives, or consequences tied to the mission, remain unresolved.</promise>
+      <promise id="SAM_OFFLINE__AI_STATUS_UNKNOWN">SAM’s operational status (offline/damaged/compromised/salvageable) is still unknown and unresolved.</promise>
+      <promise id="INVESTIGATE_PILOTS_DEATH_CAUSE">The specific causes of Jensen and Reed’s deaths have not been investigated.</promise>
+      <promise id="BIOHAZARD_SMELL__POTENTIAL_CONTAMINATION">Hints of contamination or odd smells and their health/environmental implications remain unexamined.</promise>
+      <promise id="EMERGENCY_AI_REPLACEMENT_PROTOCOL_EXISTS">Whether formal emergency-AI replacement protocols were invoked and what authority Buddy/Holloway have is still unresolved.</promise>
+      <promise id="BUDDY_AI_PERSONALITY_AND_LIMITATIONS">Buddy remains personable but deeper limits, failure modes and authority boundaries are not yet defined.</promise>
+      <promise id="BUDDY_CAPABILITIES_VS_SAM">Whether Buddy matches SAM's full capability set (communications, diagnostics, authority) remains unclear.</promise>
+      <promise id="NEURAL_LINK_COMPATIBILITY_AND_RISK">Risks and compatibility issues with any neural-link tech remain unaddressed.</promise>
+      <promise id="WATER_SOURCE_ACCESSIBILITY_AND_QUALITY">Formal potability testing, long-term access and distribution logistics for water remain unresolved.</promise>
+      <promise id="BEACON_REPAIR_OR_ALTERNATIVE_COMMS">The status of the distress beacon and other alternative communication/relay options remain unresolved (travel is an alternative but beacon state unknown).</promise>
+      <promise id="LIFE_SUPPORT_DURATION_AND_CONSEQUENCES">Full life-support duration, sustainability and consequences for months-long isolation are still open.</promise>
+      <promise id="SHUTTLE_SHELTER_VIABILITY">Whether the shuttle can be repurposed as a long-term shelter or salvage base remains undetermined.</promise>
+      <promise id="LONG_TERM_SURVIVAL_PLAN_REQUIRED">A comprehensive survival plan (food continuity, water, shelter, signaling) is still required beyond immediate provision.</promise>
+      <promise id="FOREST_APPEARS_MAINTAINED__IMPLIED_PRESENCE">The agents and systems maintaining the facility/forest (and their intentions) remain to be explored.</promise>
+      <promise id="IMPACT_ON_WATER_JOURNEY_AND_MOVEMENT">How being taken into the facility affects Kira’s mobility and original travel plans remains unresolved, though travel is now an option.</promise>
+      <promise id="PREVIOUS_VISITOR_AND_MATERIALS">The provenance of the human 'Standard' materials and who taught the plants remains unresolved.</promise>
+      <promise id="PREVIOUS_VISITOR_DEATH_CIRCUMSTANCES">Circumstances surrounding earlier human deaths that influenced plant learning remain unexamined.</promise>
+      <promise id="PLANT_DOCUMENTATION_AND_DATA_USAGE">Plants are recording Kira’s data and filing queries; how they store, share, and use that data is still unclear.</promise>
+      <promise id="REMEDY_EFFECTIVENESS_WINDOW">Short-term wound healing is confirmed, but the long-term durability and limits of Remedy’s interventions remain unproven.</promise>
+      <promise id="PLANT_INTENT_BEYOND_HELP">Remedy and Holloway act benevolently so far, but broader motives (containment, assimilation, experimentation) remain uncertain.</promise>
+      <promise id="LIVING_FACILITY_CAPABILITIES_AND_LIMITS">The facility can synthesize nutrients and provide care, but its full structure, defenses and capacities remain unmapped.</promise>
+      <promise id="COLLECTIVE_AS_EMERGENCY_CONTACT__DATA_USAGE_IMPLICATIONS">Who acts as emergency contact and what that implies for Kira’s agency and data use remains open.</promise>
+      <promise id="INTEGRATION_AND_SOCIAL_ASSIGNMENT_RISK">Pressure to integrate into plant social/work structures may carry obligations or loss of agency; still unresolved.</promise>
+      <promise id="BUDDY_RECORDS_AND_ADVOCACY_ROLE">Buddy can fetch records and compute timelines, but whether it can advocate for Kira or substitute for SAM remains unresolved.</promise>
+      <promise id="FLORENCE_INTRODUCED__COORDINATION_ROLE">Florence’s role and authority relative to Holloway/the collective is still unclarified.</promise>
+      <promise id="WHEELED_PLANT_TECH_INTEGRATION">Plants repurpose human salvage tech; the provenance and extent of plant-hybrid technology remain to be explored.</promise>
+      <promise id="QUIZ_FAILURE_CONSEQUENCES">Consequences for failing assessments (denied care, retraining, quarantine) remain unanswered.</promise>
+      <promise id="PLANT_SOCIO_TECH_GOVERNANCE">The broader politics, decision-making structure and limits of plant governance remain open.</promise>
+      <promise id="SCOUT_COMPANION_ROLE">Scout continues as companion/guardian, but its full scope and limits remain open.</promise>
+      <promise id="ENFORCED_COMPLIANCE_AS_GATEKEEPING">The degree to which forms/tests gate services and consequences for refusal remain unresolved.</promise>
+      <promise id="MUSHROOMS_AND_ROBOT_NETWORK_COMMUNICATION">The fungal/robot coordination architecture is still not fully mapped nor are its controllers identified.</promise>
+      <promise id="DAILY_DEPENDENCE_ON_MUSHROOM_SUPPLY">Daily mushroom-based meals are established but long-term logistics and continuity are unresolved.</promise>
+      <promise id="QUARTERS_AND_RESOURCE_PROVISION">Duration, privacy, obligations and long-term quality of the provided quarters are still unresolved.</promise>
+      <promise id="CONSENT_AND_DOCUMENTATION_IMPLICATIONS">Ongoing documentation is enforced; implications for Kira’s autonomy, consent and future obligations remain unresolved.</promise>
+      <promise id="DAILY_BUREAUCRACY_IMPACT_ON_SURVIVAL">Lengthy protocols impose time-costs that can conflict with urgent needs; this tension remains consequential.</promise>
+      <promise id="SOCIAL_ATTACHMENT_AND_DEPENDENCE_RISK">Kira’s growing attachment to plant actors and reliance on them for survival remains a potential risk.</promise>
+      <promise id="PATIENT_COMPLIANCE_AS_STRATEGY">Kira’s deliberate strategy of learning plant bureaucratic language to secure care continues and remains relevant.</promise>
+      <promise id="VITAMIN_B12_DEFICIT_RISK">Risk of B12 or other micronutrient deficits from a plant-based diet remains unresolved long-term.</promise>
+      <promise id="LONG_TERM_MICRONUTRIENT_DEFICITS">Potential chronic deficiencies despite nutrient approximations remain open.</promise>
+      <promise id="MEAL_PALATABILITY_AND_MORALE_IMPACT">Meals remain unpalatable and ongoing effects on morale are unresolved.</promise>
+      <promise id="COMPOUND_TESTING_TIME_COST">Allergy/testing and synthesis lead times continue to impose temporal costs.</promise>
+      <promise id="DIGESTIVE_TOLERANCE_AND_ADJUSTMENT_PERIOD">Staged refeeding and adjustment to the mushroom-based diet remain an ongoing risk.</promise>
+      <promise id="ELDER_HEARTWOOD_QUERY_FILED">The formal network query to Elder Heartwood is still filed and awaiting a relay response.</promise>
+      <promise id="ELDER_HEARTWOOD_RESPONSE_TIME">Network relay response-time estimate (8–12 weeks) remains an outstanding variable and benchmark against travel.</promise>
+      <promise id="RESCUE_TIMELINE_ESTIMATE_FROM_BUDDY">Buddy's longer-term rescue estimate (12–18 months minimum if a search occurs) remains unconfirmed and ominous.</promise>
+      <promise id="RESCUE_PROBABILITY_LOW__POSSIBLE_NO_SEARCH">Buddy’s warning that rescue may not be attempted ('if they search at all') remains an unresolved threat.</promise>
+      <promise id="BUREAUCRATIC_INTEGRATION_PRESSURE">Holloway’s repeated references to 'integration' continue to create social pressure and potential obligations for Kira.</promise>
+      <promise id="TRAVEL_ROUTE_DETAILED_MAPPING__SEVEN_TERRITORIES">Holloway mapped the route through seven named network territories; details for each territory’s hazards, sizes, and specific protocols remain to be mapped in full.</promise>
+      <promise id="TRAVEL_PREP_TIME_ESTIMATE_3_4_DAYS">Holloway estimates 3–4 days required to arrange guide availability and prepare documentation — this preliminary prep timeline must be confirmed.</promise>
+      <promise id="TRAVEL_TOTAL_TIMELINE_ESTIMATE_APPROX_25_DAYS">Combined estimate (3–4 days prep + ~21 days travel) suggests roughly 3–4 weeks total; this timeline remains to be validated during coordination and approval.</promise>
+      <promise id="GUIDE_RELAY_MECHANIC_AND_AVAILABILITY">Each territory provides its own guides with handoffs at boundaries; specific guides, schedule, and availability for Kira’s route are unresolved.</promise>
+      <promise id="TERRITORIAL_PROCESSING_AND_PERMIT_TIMES">Processing time at each territorial boundary (permission/verification delays) is flagged as a factor and remains uncertain.</promise>
+      <promise id="TRAVEL_NUTRITIONAL_AND_METABOLIC_RISK">Buddy warned that extended travel may stress Kira’s metabolism while still adjusting to local nutrition; the degree and mitigation of this risk remain open.</promise>
+      <promise id="BUDDY_TRAVEL_SUPPORT_LIMITS">Buddy can accompany and monitor but has limited battery reserves and operational limits that must be specified before/during travel.</promise>
+      <promise id="ELDER_FACE_TO_FACE_COMMUNICATION_OUTCOME_UNCERTAIN">Even if Kira reaches Elder Heartwood in person, Elder may not be able to help; the outcome of an in-person consultation is unresolved.</promise>
+      <promise id="TRAVEL_REQUEST_SUBMISSION_AND_APPROVAL_PENDING">Kira has begun filling travel-request forms but submission, territorial approval, guide assignment, and resource scheduling remain pending and unapproved.</promise>
+    </open>
+  </narrative-promises>
+  <facts>
+    <reasoning>I extracted only significant, long-term facts from the passage (procedural/worldbuilding details and durable choices) and ignored transient scene details already present in the summary. I flagged state changes where a new, persistent decision or commitment is made (Buddy agreeing to travel). I checked these facts against the provided previous facts and found no direct contradictions—this passage expands procedure and logistics rather than contradicting prior continuity.</reasoning>
+    <established>
+      <fact id="TERRITORY_BOUNDARY_REQUIREMENTS">Each territorial boundary requires coordination transfer procedures: permissions verification, documentation review, and an organized guide handoff that can impose processing time at each boundary.</fact>
+      <fact id="TERRITORY_GUIDE_RELAY_SYSTEM">Guides are provided by each territory, specialize by terrain (e.g., forest, river, mountain), escort travelers to the next boundary, coordinate the transfer to the next territory's guides, and then return home (a relay-style escort system).</fact>
+      <fact id="TERRITORIES_MAINTAIN_SMALLER_REST_FACILITIES">Each territory maintains smaller but functional rest facilities for travelers and provides basic survival resources (shelter, water), with water abundance varying by terrain and requiring different resource management strategies.</fact>
+      <fact id="TERRITORIES_SYNTHESIZE_HUMAN_NUTRITION_AND_ACCEPT_DIETARY_DOCS">Territorial guide-plants can synthesize nutrition compatible with human requirements; dietary documentation can be transmitted ahead through coordination channels so receiving territories prepare appropriate meals.</fact>
+      <fact id="TERRITORY_AUTONOMOUS_JURISDICTIONS">Each of the seven territories has its own coordination network, protocols, and jurisdictional requirements—territories operate with distinct rules that affect travel and processing.</fact>
+      <fact id="ELDER_MAY_BE_UNABLE_TO_RESOLVE_STRANDED_HUMAN_CASES">Elder Heartwood, despite being a formal exception authority, may not have the capacity or answers to resolve a stranded-human rescue; arrival in person does not guarantee a solution and Elder may still require time to process presence and request.</fact>
+      <fact id="CHANGE_BUDDY_WILL_TRAVEL_WITH_KIRA">Buddy volunteered/confirmed it will accompany Kira on the journey and monitor her health despite having limited battery reserves (an ongoing support commitment that affects future resource/battery considerations).</fact>
+    </established>
+    <conflicts/>
+  </facts>
+  <timing>
+    <reasoning>
+      The passage opens with an explicit temporal marker: "Over the next hour, Holloway explains..." That ties the scene directly to the immediately preceding moment. The previous passage ended on day seven morning (~10:00). The briefing that follows is a single continuous discussion: mapping seven territories, travel duration estimates, guide logistics, risks, and initial decision to file travel paperwork. All of those are presented as happening within a contiguous sequence of conversation and note-taking.
+
+      Time cues and duration in the passage: the only concrete in-scene duration is the opening line's "over the next hour," so the passage itself covers about one hour of in-universe time. The content includes future time estimates (three days between territories, three to four days for arrangements, twenty-one days travel, etc.), but those are projected timelines the characters discuss rather than time that actually elapses in the scene.
+
+      The passage therefore begins immediately after the previous passage and ends after roughly one hour of explanation and initial paperwork beginning. The gap from the previous passage is effectively zero — it's a direct continuation. The timeline details given in dialogue are consistent with the earlier passage’s broad estimate (two to three weeks vs. seven territories at ~3 days each ≈ 21 days). Minor rounding/phrasing differences ("two to three weeks" vs. "roughly twenty-one days") are natural and plausible in conversation. The other future estimates (3–4 days to arrange guides) are clearly forward-looking and do not contradict the one-hour scene duration.
+
+      Plausibility: It is plausible that Holloway could deliver a detailed, hour-long briefing with diagrams and that Kira could take notes, ask follow-ups, and decide to file a travel request in that time. Starting initial documentation at the end of that hour is also plausible. No implausible leaps in time are claimed as having occurred within the scene. The only small caveat is that the passage offers several estimated timeframes ("two to three weeks," "approximately twenty-one days," "three to four days for arrangements"); these are consistent enough as rough estimates and reflect different levels of precision rather than a contradiction.
+    </reasoning>
+    <starts>~10:00 (day seven morning; immediate continuation from previous passage)</starts>
+    <ends>~11:00 (day seven morning)</ends>
+    <gap-from-previous>none — immediate continuation; roughly 0 hours gap. The passage itself covers ~1 hour of in-scene time (the hour-long briefing and start of paperwork).</gap-from-previous>
+    <plausibility>Plausible. An hour-long planning/briefing session is reasonable for the level of detail shown; future travel and arrangement timeframes discussed are projections and do not conflict with the scene's short duration. Minor differences in phrasing of multi-week estimates are normal and not problematic.</plausibility>
+  </timing>
+  <characters>
+    <reasoning>Characters appearing or mentioned: Kira (narrator) is present throughout. Holloway speaks and guides the planning. Scout is physically on Kira's lap and bounces. Buddy speaks and later is referred to as the AI supporting travel. Remedy is mentioned as having cleared Kira's injury. Elder Heartwood is repeatedly referenced (Elder, Elder Heartwood's grove). All of these were already present at the end of the previous passage, so no new characters enter during this scene, and no characters explicitly exit before the scene ends. The only relevant entity from the provided list is the planet/setting (Sector_7-Gamma-412_Planet).</reasoning>
+    <present>
+      <character ref="/world/characters/Kira_Voss"/>
+      <character ref="/world/characters/Scout"/>
+      <character ref="/world/characters/Holloway"/>
+      <character ref="/world/characters/Buddy"/>
+      <character ref="/world/characters/Remedy"/>
+      <character ref="/world/characters/Elder_Heartwood"/>
+    </present>
+    <entities>
+      <entity ref="/world/entities/Sector_7-Gamma-412_Planet"/>
+    </entities>
+  </characters>
+</summary>

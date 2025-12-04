@@ -1,0 +1,126 @@
+<!-- this file is automatically managed by ske validate; do not edit -->
+<versions>
+  <version number="2.0.0" archived-at="2025-12-02T15:07:15.903Z">
+    <changelog-entry>
+      <message>Initial version</message>
+    </changelog-entry>
+    <!-- Generated automatically, do not edit except with ske gen summaries -->
+    <summary version="2.0.0">
+      <sources>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/2_Orientation/passage#v2.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/passage#v4.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/2_Aftermath/passage#v2.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/3_Buddy_Arrives/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/4_Taking_Stock/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/1_Into_the_Purple/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/2_Scout/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/3_Wellness_Check/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/1_Intake/passage#v2.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/summary#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/2_Aftermath/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/3_Buddy_Arrives/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/4_Taking_Stock/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/1_Into_the_Purple/summary#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/2_Scout/summary#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/3_Wellness_Check/summary#v3.0.0"/>
+      </sources>
+      <physical-reality>
+        <reasoning>Kira is still inside the living Central Coordination structure, now in the larger orientation chamber described in the passage. The chamber has vine-formed curved walls, bioluminescent patches providing steady blue‑green light, and a flat presentation surface with safety diagrams grown/pressed into bark. A wheeled salvage platform carrying a flowering plant (Florence) is positioned at the front of the room; the plant manipulates a joystick and its large cream/yellow/orange/pink flowers shift color with its responses. Multiple fruiting bodies are present on the walls and they sprout additional bodies to review assessment results. Bark sheets (the multiple-choice assessment) were produced and Kira completed a 20-question quiz in the room. Scout, the small plant companion, is seated on a vine-formed seat for most of the session and then bounces toward a doorway leading deeper into the facility at the end. Buddy remains connected to Kira via her neural link and continues to supply information. Kira still bears the ~15 cm laceration with Remedy’s greenish compound applied (pain has moved from throbbing to a steady ache and intensifies when she stands); she has passed orientation (18/20, 90%) and is cleared to proceed to the scheduled medical evaluation. Her personal communicator remains destroyed; her heavy equipment bag and unactivated emergency beacon were not removed and remain with her. No other humans or external rescuers are present. The living structure continues to breathe/grow and provides the lighting and furnishings used for the training and intake.</reasoning>
+        <state>Kira stands in the orientation chamber of the living Central Coordination facility — a vine‑walled, bioluminescent room with a flat bark presentation surface showing safety diagrams. Florence, a large flowering plant mounted on a three‑wheeled salvage platform with a joystick, is parked at the front; its flowers display mood‑linked color changes (cream/yellow/orange/pink). Multiple fruiting bodies are embedded in the walls and have sprouted additional bodies to process the assessment. Bark quiz sheets (20 questions) are present; Kira scored 18/20 and has completed orientation. Scout the small plant companion is nearby (having sat on a vine seat and now moving toward a doorway deeper into the facility). Buddy remains connected to Kira via her neural link and the facility’s distributed network is active and communicative. Kira still has an approximately 15 cm leg laceration treated with Remedy’s greenish paste (pain reduced to a steady ache but painful when she stands); she is cleared to proceed to the facility medical evaluation. Her personal communicator is destroyed; her equipment bag and unactivated emergency beacon remain with her. No other humans are present; the living structure continues to breathe and grow and supplies light and furnishings for the next steps (medical evaluation deeper in the facility).</state>
+      </physical-reality>
+      <narrative-promises>
+        <reasoning>
+          Summary of reasoning:
+
+          What was paid off from the previous open-promises: The passage shows the bureaucratic orientation actually happened and completed, and that the facility uses wheeled plant-platforms with manipulators to run orientation. Those were explicit promises from the previous passage (the orientation delay risk and the role/capabilities of rolling plants and plant bureaucracy). I treat those as paid off here because the predicted events occurred in full: orientation took place, a wheeled plant (Florence) performed coordination tasks, and the plants enforced protocol (quiz, clearance) before medical evaluation. 
+
+          What remains open / still relevant: Almost everything else from the prior open-promises remains unresolved. The medical evaluation has been scheduled/cleared but not performed; Remedy's 6–8 hour effectiveness window has not been tested; Buddy's limits and comparisons to SAM remain unresolved; the cause of the crash and crew deaths, the beacons/comms, coordinates/mission legality, water/source access, long-term survival planning, plant motives (care vs containment) and data-usage concerns remain to be investigated. Many of those threads are explicitly untouched or were advanced only one step (orientation completed) but not resolved.
+
+          New promises introduced in this passage (these are not fulfilled here): the named coordinator Florence and her unique wheeled/joystick hybrid platform, the facility's assessment/clearance protocol (quizzes used to gate medical care), plant color-shifting as a communicative system that humans (and Buddy) misread, and the plants' ability to appropriate mechanical technology. Each of these suggests follow-up: Florence's role and influence; who built/left the mechanical parts; whether the quiz is a gatekeeping mechanism with consequences; whether color-signals can be learned/weaponized; and whether compliance will be enforced or optional.
+
+          Why I left most prior promises open: The passage advanced some systems (showed the orientation and a coordinator plant) but did not close causal mysteries (ship failure, deaths), nor did it test medical consequences of delayed care, nor examine motives for documentation or data use. Those threads therefore carry forward.
+
+          Notes on categorization decisions: I count a promise as "fulfilled" here when the specific event or mechanism previously promised actually occurs in this passage (e.g., the bureaucratic delay via orientation; the wheeled/rolling plant acting as coordinator; the bureaucracy being enforced by orientation and quiz). I do not mark as fulfilled anything that was only advanced one step (e.g., scheduling medical evaluation) or that remains explicitly unresolved (e.g., whether the delay will harm Kira).
+        </reasoning>
+        <fulfilled>
+          <promise id="ORIENTATION_DELAY_RISK_TO_MEDICAL_CARE">The promised bureaucratic delay manifested: Kira was forced to complete workplace-orientation (including a quiz) before she was cleared for comprehensive medical evaluation. The sequence (orientation → clearance) occurred here, so the concrete delay event was paid off (though medical harm remains untested).</promise>
+          <promise id="LARGER_ROLLERS_FUNCTION">A wheeled/rolling plant-platform performed a complex coordinator role (Florence): operating a joystick, driving into the chamber, presenting material, producing bark-sheets, administering a quiz. This demonstrates rolling plants' functional capabilities beyond mere escort/observation as previously suggested.</promise>
+          <promise id="PLANT_BUREAUCRACY_AND_PROTOCOLS">The plants' procedural bureaucracy was shown in action: intake → mandatory orientation → assessment → clearance for medical evaluation. The facility enforces documentation and protocol (including a pass/fail threshold) as a real gating mechanism.</promise>
+        </fulfilled>
+        <open>
+          <promise id="COORDINATES_MISMATCH__FORBIDDEN_APPROACH">Where they actually landed and whether that destination is problematic/forbidden remains unresolved; this passage does not address coordinates or strategic implications.</promise>
+          <promise id="NAVIGATION_AND_STABILIZER_FAILURE__CAUSE">The root cause of the shuttle's systems failing (technical fault, external strike, sabotage, or anomaly) is still unknown and untouched here.</promise>
+          <promise id="KEPLER_288_EXPECTATION">Whether this planet is the expected Kepler-288 (or another target) remains unconfirmed.</promise>
+          <promise id="SECRET_OR_ILLEGAL_MISSIONAL_REASON">Whether the mission was off-protocol or traveling to a forbidden destination (and attendant consequences) remains unresolved.</promise>
+          <promise id="SAM_OFFLINE__AI_STATUS_UNKNOWN">SAM's status (offline/damaged/compromised/salvageable) continues to be unknown; Buddy is active but SAM's condition was not examined here.</promise>
+          <promise id="INVESTIGATE_PILOTS_DEATH_CAUSE">The specific causes of Jensen and Reed's deaths (or others) remain uninvestigated in this passage.</promise>
+          <promise id="BIOHAZARD_SMELL__POTENTIAL_CONTAMINATION">Earlier indications of contamination or strange smells and their health/environmental implications were not investigated here.</promise>
+          <promise id="EMERGENCY_AI_REPLACEMENT_PROTOCOL_EXISTS">Whether formal emergency-AI replacement protocols were invoked (and their legal/operational effects) remains open.</promise>
+          <promise id="BUDDY_AI_PERSONALITY_AND_LIMITATIONS">Buddy continues to be helpful but childlike; this passage showed some limitations (misinterpreting plant color signals). Buddy's full limits and reliability as an advocate/diagnostician remain open.</promise>
+          <promise id="BUDDY_CAPABILITIES_VS_SAM">Whether Buddy can replicate SAM's full capabilities (comms, diagnostics, navigation, authority) remains unresolved.</promise>
+          <promise id="NEURAL_LINK_COMPATIBILITY_AND_RISK">Any risks from prior neural-link interactions (privacy, infection, control) were not addressed here.</promise>
+          <promise id="WATER_SOURCE_ACCESSIBILITY_AND_QUALITY">The earlier stream/water source remained unvisited; potability and access remain unresolved.</promise>
+          <promise id="BEACON_REPAIR_OR_ALTERNATIVE_COMMS">The distress beacon's status and alternative communication/relay options were not examined in this passage.</promise>
+          <promise id="LIFE_SUPPORT_DURATION_AND_CONSEQUENCES">How long Kira's life-support options will last and rescue timelines/consequences remain open.</promise>
+          <promise id="JOURNEY_TO_WATER_WITH_INJURY">Kira's interrupted plan to fetch water with an injured leg remains unresolved; the facility intake delayed her original plan.</promise>
+          <promise id="SHUTTLE_SHELTER_VIABILITY">Whether the shuttle can serve as long-term shelter or salvage base remains undetermined.</promise>
+          <promise id="LONG_TERM_SURVIVAL_PLAN_REQUIRED">A comprehensive survival plan (food, water, shelter, signaling, rescue strategy) is still required and not yet developed.</promise>
+          <promise id="FOREST_APPEARS_MAINTAINED__IMPLIED_PRESENCE">The wider forest's maintenance, purpose, and the agents behind landscape upkeep remain to be explored.</promise>
+          <promise id="IMPACT_ON_WATER_JOURNEY_AND_MOVEMENT">The plant escort and intake process altered Kira's immediate plans; whether this permanently prevents or delays access to earlier goals (water, shuttle) remains open.</promise>
+          <promise id="PREVIOUS_VISITOR_AND_MATERIALS">The provenance of the human 'Standard' materials the plants learned from and who the previous visitor was remains unresolved.</promise>
+          <promise id="PREVIOUS_VISITOR_DEATH_CIRCUMSTANCES">The earlier human death that influenced plant HR-learning (referenced previously) still needs specifics.</promise>
+          <promise id="PLANT_DOCUMENTATION_AND_DATA_USAGE">The plants clearly record and file data (bark-forms, assessments) but how they store, share, use, or potentially expose personal data remains unresolved.</promise>
+          <promise id="REMEDY_TREATMENT_EFFECTIVENESS_AND_LONG_TERM_HEALING">Remedy's immediate relief held, but long-term healing, infection risk, and side effects remain untested.</promise>
+          <promise id="PLANT_INTENT_BEYOND_HELP">The plants appear benevolent and earnest, but whether their motives include containment, assimilation, experimentation, or other interests remains open.</promise>
+          <promise id="LIVING_FACILITY_CAPABILITIES_AND_LIMITS">This passage expanded the facility's demonstrated capabilities (presentations, scheduling, bark-forms, wheeled platforms); deeper questions about internal structure, defenses, and limits remain.</promise>
+          <promise id="REMEDY_EFFECTIVENESS_WINDOW">The 6–8 hour window for Remedy treatment has not yet been tested; it's still a ticking constraint on Kira's condition.</promise>
+          <promise id="POST_ORIENTATION_MEDICAL_EVALUATION">Orientation completed and Kira was cleared for medical evaluation, but the content, thoroughness, and outcome of that evaluation are still pending.</promise>
+          <promise id="COLLECTIVE_AS_EMERGENCY_CONTACT__DATA_USAGE_IMPLICATIONS">The collective was recorded as emergency contact; who actually acts in an emergency, how decisions are taken, and what that implies for Kira's agency/data remain open.</promise>
+          <promise id="INTEGRATION_AND_SOCIAL_ASSIGNMENT_RISK">References to 'integration' and workplace membership persist; whether Kira will be pressured, obliged, or assigned roles is unresolved.</promise>
+          <promise id="BUDDY_RECORDS_AND_ADVOCACY_ROLE">Buddy supplied records and comments, but whether Buddy can meaningfully advocate, enforce rights, or substitute for SAM remains open.</promise>
+          <promise id="FLORENCE_INTRODUCED__COORDINATION_ROLE">New: Florence (named wheeled flower-plant coordinator) now exists as an agent. Promise to explore her role, authority, relationship to Holloway/the collective, and potential influence over Kira's access to services.</promise>
+          <promise id="WHEELED_PLANT_TECH_INTEGRATION">New: Plants can incorporate salvaged mechanical parts (wheels, joysticks) and operate them. This raises questions about provenance of parts, prior human-plant interactions, and plant capacity to repurpose technology.</promise>
+          <promise id="ASSESSMENT_AND_CLEARANCE_PROTOCOL">New: The facility uses an assessment (quiz, pass threshold) as a gate to services (medical evaluation). Promise to explore consequences of failing, whether the test is mandatory or coercive, and how criteria are set/enforced.</promise>
+          <promise id="PLANT_COLOR_COMMUNICATION__SEMIOTICS">New: The plants communicate via dynamic color-shifts and bodily changes (petal color/tension). Buddy and Kira misinterpret these signals; promise to explore their semiotic system and whether humans can learn to read or manipulate it.</promise>
+          <promise id="ENFORCED_COMPLIANCE_AS_GATEKEEPING">New: The training+quiz gating shows compliance may be required to access care. Promise to test whether refusal is permitted and whether the plants will enforce compliance or penalize noncompliance.</promise>
+          <promise id="MEDICAL_EVALUATION_CONTENT_AND_OUTCOME">New/advanced: Having been cleared, the coming medical evaluation is now a clear promise: what diagnostics/treatments will be offered, who performs them, and whether they prioritize healing or other aims.</promise>
+          <promise id="QUIZ_FAILURE_CONSEQUENCES">New: The assessment had a pass threshold; the story now promises to reveal what happens to those who fail (denied care, retraining, quarantine, alternative pathways).</promise>
+          <promise id="PLANT_SOCIO_TECH_GOVERNANCE">New: The plants show a division of labor (Holloway, Florence, fruiting body reviewers) and technical integration. This promises future exploration of their decision-making structure, authority, and internal politics.</promise>
+          <promise id="SCOUT_COMPANION_ROLE">New/continued: Scout functions as a comfort/companion. The depth and limits of companion plants' roles and attachments to humans remain to be examined.</promise>
+        </open>
+      </narrative-promises>
+      <facts>
+        <reasoning>I extracted only new, durable facts that would matter later (not transient scene details). The passage mainly elaborates the plant-run orientation process and Florence’s role. The most consequential new items are the orientation/assessment parameters (time limit and pass threshold), the explicit assignment of Florence as the safety-orientation coordinator, and the concrete list of human workplace-style topics the plants use for onboarding. I checked these against the prior facts and found no contradictions—these details extend and specify previously established plant bureaucracy and orientation requirements rather than conflict with them.</reasoning>
+        <established>
+          <fact id="FLORENCE_ORIENTATION_COORDINATOR">Florence is explicitly the plant assigned to coordinate and lead workplace-safety onboarding/orientation for human visitors (she introduces herself as the coordinator and runs the presentation).</fact>
+          <fact id="ORIENTATION_ASSESSMENT_PARAMETERS">The orientation includes a formal assessment delivered on bark sheets: 20 multiple-choice questions, 20-minute time limit, and a passing score set at 70%.</fact>
+          <fact id="ORIENTATION_CONTENT_HR_STYLE_TOPICS">The orientation curriculum applies human workplace-safety and HR-style content to visitors: proper lifting technique, emergency evacuation procedures (familiarize with at least two exits; never use elevators), workplace harassment reporting and boundaries, documentation procedures, ergonomic workspace setup, and break-room etiquette.</fact>
+        </established>
+        <conflicts/>
+      </facts>
+      <timing>
+        <reasoning>The previous passage ends with Kira following Scout into the next chamber and the explicit line that orientation is four hours long. The current passage immediately describes the orientation chamber, Florence greeting Kira, the full safety presentation, and an assessment that explicitly gives a 20-minute time limit for the quiz. The passage ends when Kira completes orientation and is cleared for medical evaluation. Temporal cues: "orientation covers... four hours" (previous passage), the quiz's stated twenty minutes (current passage), repeated references to mounting exhaustion and the temporary treatment window (6–8 hours) provide corroborating timing. Combining these cues, the passage begins right as orientation starts and spans the duration of the orientation session (the full four-hour block implied earlier), ending when orientation finishes and medical evaluation is next. The narrative compresses many details of the presentation into summary, but the explicit durations given (four-hour orientation, 20-minute quiz) support an overall ~4-hour passage. This fits within Remedy's 6–8 hour treatment window mentioned earlier, so character actions (sitting through orientation, delaying medical evaluation) are plausible. Minor note: the text telescopes lots of content into a single passage, so subjective pacing feels faster than real time, but nothing contradicts the explicit timings.</reasoning>
+        <starts>~01:30 (immediately after the previous passage — orientation begins)</starts>
+        <ends>~05:30 (orientation complete; Kira cleared for medical evaluation)</ends>
+        <gap-from-previous>none — immediate continuation. The passage begins as they move from intake into the orientation chamber; only minutes of transition occur before orientation starts.</gap-from-previous>
+        <plausibility>Plausible. The previous passage explicitly set a four-hour orientation; the current passage contains the presentation plus a 20-minute quiz, and Kira's described exhaustion matches several hours of sitting and processing. The timing also fits Remedy's 6–8 hour temporary treatment window, so it's reasonable that formal medical evaluation was scheduled after orientation. The only minor issue is narrative compression: many hours of content are summarized, which can make the pacing feel sped up to the reader, but it doesn't conflict with the explicit time markers.</plausibility>
+      </timing>
+      <characters>
+        <reasoning>Characters mentioned or present in the passage: Kira Voss (narrator/protagonist, present from the start), Scout (present and active), Holloway (voice from a fruiting body, present), Buddy (present and interjects), and Florence (the wheeled flowering plant who rolls into the chamber). Florence explicitly enters during the scene (a plant "entered the chamber on a wheeled platform"). No character is described as leaving the scene before the passage ends—Scout moves toward a doorway but does not definitively exit before the passage ends. The only relevant provided entity is the alien planet/facility setting, which corresponds to /world/entities/Sector_7-Gamma-412_Planet. Note: Remedy was listed as present at the end of the previous passage but is not mentioned in this passage, so she is not included in "present."</reasoning>
+        <present>
+          <character ref="/world/characters/Kira_Voss"/>
+          <character ref="/world/characters/Scout"/>
+          <character ref="/world/characters/Holloway"/>
+          <character ref="/world/characters/Buddy"/>
+          <character ref="/world/characters/Florence"/>
+        </present>
+        <entered>
+          <character ref="/world/characters/Florence"/>
+        </entered>
+        <entities>
+          <entity ref="/world/entities/Sector_7-Gamma-412_Planet"/>
+        </entities>
+      </characters>
+    </summary>
+  </version>
+</versions>

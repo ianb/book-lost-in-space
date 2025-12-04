@@ -1,0 +1,133 @@
+<!-- this file is automatically managed by ske validate; do not edit -->
+<versions>
+  <version number="2.0.0" archived-at="2025-12-02T15:07:15.956Z">
+    <changelog-entry>
+      <message>Initial version</message>
+    </changelog-entry>
+    <!-- Generated automatically, do not edit except with ske gen summaries -->
+    <summary version="2.0.0">
+      <sources>
+        <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/2_Dietary_Assessment/passage#v2.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/passage#v4.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/2_Aftermath/passage#v2.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/3_Buddy_Arrives/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/4_Taking_Stock/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/1_Into_the_Purple/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/2_Scout/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/3_Wellness_Check/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/1_Intake/passage#v2.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/2_Orientation/passage#v2.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/3_Medical_Treatment/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/1_Morning_Wellness/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/summary#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/2_Aftermath/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/3_Buddy_Arrives/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/4_Taking_Stock/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/1_Into_the_Purple/summary#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/2_Scout/summary#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/3_Wellness_Check/summary#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/1_Intake/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/2_Orientation/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/3_Medical_Treatment/summary#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/1_Morning_Wellness/summary#v2.0.0"/>
+      </sources>
+      <physical-reality>
+        <reasoning>The passage ends immediately after Kira has been fed following a multi-hour dietary assessment and compound-allergy testing. Physically, she remains in the vine‑walled medical/quarters chamber where mushrooms have been actively fruiting and harvested. Remedy the robot is present and has been harvesting, processing, and combining fungal compounds into food; multiple mushroom varieties occupy the chamber in various growth stages and some have already been decomposed/recycled back into the facility network. Holloway's fruiting bodies and Buddy's systems remain online and documenting the assessment. A salvaged container that briefly held a nutritionally complete meal (≈800 kcal) has been emptied by Kira. All tested fungal compounds produced no immediate allergic reactions; one vitamin compound was rejected and another approved with reservations, and some vitamins (e.g., B12) remain uncertain/unavailable. Kira is physiologically stabilized by the meal (shaking eased, hunger abated), but exhausted; a digestive-tolerance check is scheduled in 30 minutes. Previously established wound care (bandaged, ~70% closed, daily care for several more days) and the water/spring feature remain in the environment but unchanged by these events. Documentation of the dietary assessment and a recommended meal schedule (three modest meals daily until readjustment) have been recorded by the facility.</reasoning>
+        <state>Kira sits in her vine‑walled medical chamber, exhausted but recently fed; Scout the plant sphere remains at her side. Remedy the robot and Holloway’s fruiting bodies (and Buddy’s systems) are active and documenting. Dozens of mushroom clusters occupy the chamber—many harvested and some recycled into the living network—and Remedy has processed fungal compounds into a nutritionally complete meal (≈800 kcal) which Kira has eaten; the empty meal container remains. Allergy/allergy‑challenge testing of eight–ten synthesized compounds is complete with no acute reactions; one vitamin attempt was rejected and another approved with reservations; some vitamins (notably B12) may be unavailable. A digestive‑tolerance check is due in 30 minutes. Dietary assessment forms are completed and a three‑meals‑per‑day modest‑portion plan is recorded. The earlier wound remains bandaged and on its established care timeline (~70% closed, daily dressings for 4–5 more days); the spring-fed water basin and other living‑architecture features are present and unchanged. No other humans are present; the facility continues automated care and documentation.</state>
+      </physical-reality>
+      <narrative-promises>
+        <reasoning>This passage completes the immediate dietary-assessment arc started previously (forms → tests → first meal) and demonstrates the fungal/robotic system can synthesize edible, nutritionally-significant compounds — but it also creates new longer-term health and logistics questions (missing vitamins, sustainability, morale, time-costs). I marked as fulfilled the previous open promises that the passage actually paid off (dietary assessment/food access, and the fungal network's ability to produce nutrient compounds). Nothing from the prior open list was explicitly abandoned or dropped; most remain open and were reinforced by new detail. New promises introduced here are chiefly about limitations, ongoing commitments, and secondary consequences (B12/micronutrient risk, regular meal delivery, palatability/morale, testing/time-cost, digestive-adjustment monitoring).</reasoning>
+        <fulfilled>
+          <promise id="DIETARY_ASSESSMENT_AND_FOOD_ACCESS">The dietary assessment protocol was executed (forms, allergy testing, synthesis tests) and resulted in a synthesized, nutritionally-complete first meal being delivered and consumed.</promise>
+          <promise id="FUNGAL_MEDICINAL_SYNTHESIS_AND_SUPPLY">The fungal/robot network demonstrated active synthesis of proteins, carbohydrates, fats and approximated vitamins to produce food on demand—showing the system can generate consumable nutrient compounds (although limits, e.g., B12, were explicitly noted).</promise>
+        </fulfilled>
+        <open>
+          <promise id="COORDINATES_MISMATCH__FORBIDDEN_APPROACH">Where they actually landed and whether that destination is problematic/forbidden remains unresolved; nothing in this passage addresses location or legal/forbidden approach implications.</promise>
+          <promise id="NAVIGATION_AND_STABILIZER_FAILURE__CAUSE">Root cause of the shuttle systems failure (technical fault, external strike, sabotage, anomaly) is still unknown and uninvestigated here.</promise>
+          <promise id="KEPLER_288_EXPECTATION">Whether this planet is the expected Kepler-288 (or a different target) remains unconfirmed by the facility's actions.</promise>
+          <promise id="SECRET_OR_ILLEGAL_MISSIONAL_REASON">Whether the mission had off-protocol or forbidden objectives — and attendant consequences — remains unresolved.</promise>
+          <promise id="SAM_OFFLINE__AI_STATUS_UNKNOWN">SAM's status (offline/damaged/compromised/salvageable) was not revealed or changed in this passage.</promise>
+          <promise id="INVESTIGATE_PILOTS_DEATH_CAUSE">Specific causes of Jensen and Reed's deaths remain uninvestigated and unexplained.</promise>
+          <promise id="BIOHAZARD_SMELL__POTENTIAL_CONTAMINATION">Prior hints of contamination or odd smells and their environmental/health implications were not examined here.</promise>
+          <promise id="EMERGENCY_AI_REPLACEMENT_PROTOCOL_EXISTS">Whether formal emergency-AI replacement protocols were invoked (and their legal/operational effects) remains open; Buddy/Holloway actions haven't clarified authority limits.</promise>
+          <promise id="BUDDY_AI_PERSONALITY_AND_LIMITATIONS">Buddy continues to act personable and helpful (accessing records, reading files) but its deeper limits and failure modes remain undefined.</promise>
+          <promise id="BUDDY_CAPABILITIES_VS_SAM">Buddy can fetch and recite medical/nutritional records here, but whether it can replicate SAM's full capabilities (comms, diagnostics, authority) is still unresolved.</promise>
+          <promise id="NEURAL_LINK_COMPATIBILITY_AND_RISK">No new information about risks from prior neural-link interactions (privacy, infection, control) surfaced in this scene.</promise>
+          <promise id="WATER_SOURCE_ACCESSIBILITY_AND_QUALITY">Water was used earlier and remains available in quarters, but formal potability testing, long-term access, and distribution logistics are still untested.</promise>
+          <promise id="BEACON_REPAIR_OR_ALTERNATIVE_COMMS">Status of distress beacon and alternative communication/relay options remain unexamined.</promise>
+          <promise id="LIFE_SUPPORT_DURATION_AND_CONSEQUENCES">How long life-support options will last, rescue timelines, and consequences remain open.</promise>
+          <promise id="SHUTTLE_SHELTER_VIABILITY">Whether the shuttle can serve as a long-term shelter or salvage base is still undetermined.</promise>
+          <promise id="LONG_TERM_SURVIVAL_PLAN_REQUIRED">A full survival plan (food, water, shelter, signaling, rescue strategy) is still required; this passage advances immediate food provisioning but not a comprehensive plan.</promise>
+          <promise id="FOREST_APPEARS_MAINTAINED__IMPLIED_PRESENCE">The facility/forest maintenance and the agents behind landscape upkeep remain to be explored.</promise>
+          <promise id="IMPACT_ON_WATER_JOURNEY_AND_MOVEMENT">How being taken into the facility and its protocols affects Kira's mobility and original plans remains relevant and unresolved.</promise>
+          <promise id="PREVIOUS_VISITOR_AND_MATERIALS">The provenance of the human 'Standard' materials the plants learned from (who the previous visitor was) remains unresolved.</promise>
+          <promise id="PREVIOUS_VISITOR_DEATH_CIRCUMSTANCES">Circumstances of the earlier human death that influenced plant HR-learning are still unexamined.</promise>
+          <promise id="PLANT_DOCUMENTATION_AND_DATA_USAGE">Plants log and file Kira's information; how they store, share, or potentially expose personal data is still unclear.</promise>
+          <promise id="REMEDY_TREATMENT_EFFECTIVENESS_AND_LONG_TERM_HEALING">Remedy's short-term wound care continues to look effective, but long-term healing, relapse risk, and side effects remain untested in later days.</promise>
+          <promise id="PLANT_INTENT_BEYOND_HELP">Plants and Remedy act benevolent here, but their broader motives (containment, assimilation, experimentation) remain uncertain; Remedy's decomposition comments keep intent suspect.</promise>
+          <promise id="LIVING_FACILITY_CAPABILITIES_AND_LIMITS">The facility can synthesize compounds, run assessments, and sustain a patient temporarily—its full structure, defenses, policies, and limits are not yet mapped.</promise>
+          <promise id="REMEDY_EFFECTIVENESS_WINDOW">Timing constraints and how long Remedy's interventions are effective across larger timelines remain unconfirmed.</promise>
+          <promise id="COLLECTIVE_AS_EMERGENCY_CONTACT__DATA_USAGE_IMPLICATIONS">Who acts as emergency contact and what that implies for Kira's agency and data use remains open.</promise>
+          <promise id="INTEGRATION_AND_SOCIAL_ASSIGNMENT_RISK">References to 'integration' and workplace membership imply future pressure to join or accept roles; that risk remains unresolved.</promise>
+          <promise id="BUDDY_RECORDS_AND_ADVOCACY_ROLE">Buddy accessed medical/nutritional files here, but whether it can meaningfully advocate for Kira or substitute for SAM remains open.</promise>
+          <promise id="FLORENCE_INTRODUCED__COORDINATION_ROLE">Florence's role/authority relative to Holloway/the collective was not clarified here.</promise>
+          <promise id="WHEELED_PLANT_TECH_INTEGRATION">Plants repurpose salvaged mechanical parts; the provenance and extent of human-plant tech hybridization remain to be explored.</promise>
+          <promise id="QUIZ_FAILURE_CONSEQUENCES">Consequences for failing required assessments (denied care, retraining, quarantine) remain unanswered.</promise>
+          <promise id="PLANT_SOCIO_TECH_GOVERNANCE">The facility's division of labor, decision-making structure, and internal politics remain unresolved.</promise>
+          <promise id="SCOUT_COMPANION_ROLE">Scout continues as companion/guide/mediator (comforting and monitoring), but the full scope and limits of that role remain to be tested.</promise>
+          <promise id="ENFORCED_COMPLIANCE_AS_GATEKEEPING">Consent, documentation, and tests still act as gates to services; whether refusal is permitted or punished remains unresolved.</promise>
+          <promise id="REMEDY_INTRODUCED__ROBOT_MEDIC">Remedy is active and functional here but its origin, programming authority, and provenance remain unknown.</promise>
+          <promise id="MUSHROOMS_AND_ROBOT_NETWORK_COMMUNICATION">Mushrooms fruiting and Remedy's coordination confirm an integrated fungal-robot network; its larger structure and controller remain unknown.</promise>
+          <promise id="DAILY_DEPENDENCE_ON_MUSHROOM_SUPPLY">This passage shows meals and compounds can be produced from mushrooms, but the logistics, continuity, and long-term conditions for daily supply remain open.</promise>
+          <promise id="QUARTERS_AND_RESOURCE_PROVISION">Temporary quarters provided water and food resources in practice; duration, privacy, obligations, and long-term quality remain unresolved.</promise>
+          <promise id="CONSENT_AND_DOCUMENTATION_IMPLICATIONS">Documentation and multiple consent steps continue to be enforced; implications for Kira's autonomy and data use remain open.</promise>
+          <promise id="REMEDY_TIMELINE_AND_RECOVERY">Remedy gave wound-care schedule estimates earlier; actual timeline and recovery outcomes remain to be proven over days/weeks.</promise>
+          <promise id="REMEDY_DAILY_WOUND_CARE_SCHEDULE">Remedy's earlier schedule (daily care 4–5 days, then every other day) still governs Kira's dependence on fungal/robot care.</promise>
+          <promise id="DAILY_BUREAUCRACY_IMPACT_ON_SURVIVAL">The passage reinforces that lengthy protocols (forms, allergy tests, synthesis time) impose time-costs that may conflict with urgent needs; this tension remains unresolved and consequential.</promise>
+          <promise id="SOCIAL_ATTACHMENT_AND_DEPENDENCE_RISK">Kira's growing attachment to plant actors continues to be a potential risk for her agency and future choices.</promise>
+          <promise id="PATIENT_COMPLIANCE_AS_STRATEGY">Kira's deliberate strategy of learning and using plant bureaucratic language to secure care remains a continuing behavioral promise to be explored.</promise>
+          <promise id="VITAMIN_B12_DEFICIT_RISK">Remedy states Vitamin B12 synthesis may be impossible here—introduces a risk of B12 deficiency for humans relying on fungal nutrition over time.</promise>
+          <promise id="LONG_TERM_MICRONUTRIENT_DEFICITS">Though most nutrients can be approximated, several vitamins will be imperfectly matched; this creates an open promise of long-term micronutrient deficiencies and health consequences to monitor.</promise>
+          <promise id="REGULAR_FOOD_SUPPLY_COMMITMENT">Remedy/Holloway propose establishing a regular meal schedule (modest portions, three times daily until readjustment) — an ongoing commitment that must be sustained to support survival.</promise>
+          <promise id="MEAL_PALATABILITY_AND_MORALE_IMPACT">Food is nutritionally functional but unpalatable; the ongoing effect of poor-tasting meals on morale, compliance, and psychological wellbeing remains an unresolved risk.</promise>
+          <promise id="COMPOUND_TESTING_TIME_COST">Allergy/testing protocol requires multiple ~20-minute waits per compound and synthesis time—this temporal cost is now documented and may create dangerous delays in other urgent contexts.</promise>
+          <promise id="DIGESTIVE_TOLERANCE_AND_ADJUSTMENT_PERIOD">A staged refeeding plan (modest first meal, digestive check in 30 minutes, gradual reintroduction) was instituted; how Kira's body will adjust over days is an outstanding promise to be followed.</promise>
+        </open>
+      </narrative-promises>
+      <facts>
+        <reasoning>I flagged only details from the passage that establish durable facts or procedures likely to matter later (nutritional capabilities, testing protocol, preparation time, Kira's stated dietary stance, Buddy's notes on Kira's consumption history). I did not repeat items already captured in the provided summary (meal ≈800 kcal, 8–10 compound tests, one vitamin rejected, digestive check in 30 minutes, three-meals/day plan, wound status, mushrooms/recycling, Remedy/Remedy competence, Buddy/plant behaviors, etc.). No statements in the passage contradict previously established facts, so I report no conflicts.</reasoning>
+        <established>
+          <fact id="REMEDY_CAN_FRUIT_COMPLETE_PROTEINS">Remedy can fruit mushrooms engineered to provide complete amino-acid profiles (i.e., synthesize complete proteins via fungal cultivation).</fact>
+          <fact id="REMEDY_SYNTHESIS_CAPABILITIES_OVERVIEW">Remedy assesses nutrient synthesis capability as: proteins possible via fungal fruiting, carbohydrates easy, some fats possible (fungal oils), but vitamins are challenging to produce accurately (some vitamin compounds may be impossible or only approximated).</fact>
+          <fact id="ALLERGY_TESTING_PROTOCOL_20_MIN_WAIT">Allergy/allergen screening protocol used here: administer a small dose of a compound, wait ~20 minutes, and monitor for skin, respiratory, and gastrointestinal reactions before approving the compound.</fact>
+          <fact id="COMPOUND_TESTING_TIME_IMPLICATION">Testing multiple compounds (8–10) at ~20 minutes per compound imposes a multi-hour delay for establishing safe diet—an operational constraint for future planning.</fact>
+          <fact id="FULL_MEAL_SYNTHESIS_TIME">After approval of compounds, full nutritionally complete meal synthesis/harvest/processing by Remedy requires roughly 45 minutes of active preparation.</fact>
+          <fact id="NUTRITION_PROTOCOL_MODEST_FIRST_MEAL_AFTER_FAST">Per nutrition protocol, the first post-fasting meal should be a modest portion to avoid digestive distress after extended fasting (guides immediate portioning and pacing).</fact>
+          <fact id="KIRA_DIETARY_RESTRICTIONS_NONE_WILL_EAT_ANYTHING">Kira explicitly reports no religious/cultural dietary restrictions and states she will eat 'literally anything edible'—a practical survival stance that affects future provisioning and consent for novel foods.</fact>
+          <fact id="BUDDY_REPORTED_CONSUMPTION_HISTORY">Buddy's dietary/consumption history for Kira (from medical records) includes a preference for protein-rich meals, minimal processed sugars, occasional chocolate as a treat, and moderate spice tolerance.</fact>
+        </established>
+        <conflicts/>
+      </facts>
+      <timing>
+        <reasoning>The passage picks up immediately where the previous one left off: Kira had just agreed to begin the dietary assessment and the narrative opens with the forms being administered. Time cues: mentions of a standard ~four-hour dietary assessment in the previous passage, Remedy growing the first test batch in ~15 minutes, allergy tests taking ~20 minutes each, testing of 8–10 compounds, and a ~45-minute meal synthesis. The passage therefore covers multiple hours of activity (forms, sequential allergy testing, then meal synthesis and eating) and ends once the nutritionally complete meal is produced and Kira has eaten. Since the previous passage ended with the decision to start assessment, essentially no gap separates the two scenes—the current passage is the assessment sequence itself. The internal timing is consistent with the explicit cues: 8–10 tests at ~20 minutes each is about 2.7–3.3 hours, plus the initial forms/record review (~30–60 minutes referenced earlier as part of the ~4 hr protocol), plus ~45 minutes for full meal preparation. Total elapsed during the passage is therefore on the order of ~4–5 hours. This fits the earlier statement that the dietary assessment is roughly four hours and explains the added time for meal synthesis. Plausibility: The timeline is plausible within the story’s technology—immediate fruiting networks and robotic synthesis justify the rapid generation of test samples and a full meal within several hours. In real-world terms, sequential allergy screening (20 minutes per test) and observation windows do add up to multiple hours; the robot’s rapid synthesis is speculative but internally consistent. The only small note is that the assessment runs slightly longer than the quoted four-hour standard once full meal synthesis is included, but that overrun is explicitly accounted for in the text and well within believable variation.</reasoning>
+        <starts>~17:20</starts>
+        <ends>~22:00</ends>
+        <gap-from-previous>none — the passage continues immediately from the previous scene (the dietary assessment begins right after Kira agreed to it).</gap-from-previous>
+        <plausibility>Plausible. Sequential allergy tests (20 min each for 8–10 compounds) plus forms and a ~45-minute meal synthesis reasonably total ~4–5 hours, matching the passage’s cues. The rapid fungal growth and robotic processing are speculative tech but consistent with the story’s established world, so the timing works. The assessment slightly exceeds the quoted four-hour standard once meal prep is included, but that overrun is noted in the narrative and believable.</plausibility>
+      </timing>
+      <characters>
+        <reasoning>The passage explicitly includes Kira Voss, Holloway, Scout, Buddy, and Remedy: Kira is the person being assessed and eating; Holloway conducts the dietary form; Buddy accesses medical records and comments; Scout stays with Kira; Remedy (the robot) synthesizes and tests fungal compounds. No other named characters from the available list are mentioned. The previous-present list shows those five were already present at the end of the prior passage, so no new characters enter during this scene and none are shown to exit before the scene ends. The setting is an alien planet, corresponding to /world/entities/Sector_7-Gamma-412_Planet.</reasoning>
+        <present>
+          <character ref="/world/characters/Kira_Voss"/>
+          <character ref="/world/characters/Holloway"/>
+          <character ref="/world/characters/Scout"/>
+          <character ref="/world/characters/Buddy"/>
+          <character ref="/world/characters/Remedy"/>
+        </present>
+        <entities>
+          <entity ref="/world/entities/Sector_7-Gamma-412_Planet"/>
+        </entities>
+      </characters>
+    </summary>
+  </version>
+</versions>

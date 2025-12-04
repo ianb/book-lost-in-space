@@ -1,0 +1,145 @@
+<!-- this file is automatically managed by ske validate; do not edit -->
+<versions>
+  <version number="2.0.0" archived-at="2025-12-02T15:07:15.584Z">
+    <changelog-entry>
+      <message>Initial version</message>
+    </changelog-entry>
+    <!-- Generated automatically, do not edit except with ske gen summaries -->
+    <summary version="2.0.0">
+      <sources>
+        <ref ref="/stories/Mandatory_Assistance/chapters/11_Under_Attack/passages/1_Delegation_Fails/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/passage#v4.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/2_Aftermath/passage#v2.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/3_Buddy_Arrives/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/4_Taking_Stock/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/1_Into_the_Purple/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/2_Scout/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/3_Wellness_Check/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/1_Intake/passage#v2.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/2_Orientation/passage#v2.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/3_Medical_Treatment/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/1_Morning_Wellness/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/2_Dietary_Assessment/passage#v2.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/3_Seeking_Solutions/passage#v2.1.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/5_Settling_In/passages/1_Time_Passing/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/5_Settling_In/passages/2_Journey_Option/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/5_Settling_In/passages/3_Preparation/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/6_Through_the_Forest/passages/1_First_Day/passage#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/6_Through_the_Forest/passages/2_Deeper_In/passage#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/6_Through_the_Forest/passages/3_Boundary/passage#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/7_Rivers_and_Wetlands/passages/1_River_Crossing/passage#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/7_Rivers_and_Wetlands/passages/2_Wetlands/passage#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/7_Rivers_and_Wetlands/passages/3_Second_Boundary/passage#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/8_Hills_and_Heights/passages/1_Climbing/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/8_Hills_and_Heights/passages/2_The_Ancient_Grove/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/8_Hills_and_Heights/passages/3_Hope_and_Return/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/9_Disappointing_Answer/passages/1_Settling_In/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/9_Disappointing_Answer/passages/2_The_Answer_Arrives/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/9_Disappointing_Answer/passages/3_What_We_Know/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/10_Trust_Complicated/passages/1_False_Wisdom/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/10_Trust_Complicated/passages/2_The_Deception/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/10_Trust_Complicated/passages/3_Broken_Trust/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/summary#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/2_Aftermath/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/3_Buddy_Arrives/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/4_Taking_Stock/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/1_Into_the_Purple/summary#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/2_Scout/summary#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/3_Wellness_Check/summary#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/1_Intake/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/2_Orientation/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/3_Medical_Treatment/summary#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/1_Morning_Wellness/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/2_Dietary_Assessment/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/3_Seeking_Solutions/summary#v2.1.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/5_Settling_In/passages/1_Time_Passing/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/5_Settling_In/passages/2_Journey_Option/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/5_Settling_In/passages/3_Preparation/summary#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/6_Through_the_Forest/passages/1_First_Day/summary#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/6_Through_the_Forest/passages/2_Deeper_In/summary#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/6_Through_the_Forest/passages/3_Boundary/summary#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/7_Rivers_and_Wetlands/passages/1_River_Crossing/summary#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/7_Rivers_and_Wetlands/passages/2_Wetlands/summary#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/7_Rivers_and_Wetlands/passages/3_Second_Boundary/summary#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/8_Hills_and_Heights/passages/1_Climbing/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/8_Hills_and_Heights/passages/2_The_Ancient_Grove/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/8_Hills_and_Heights/passages/3_Hope_and_Return/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/9_Disappointing_Answer/passages/1_Settling_In/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/9_Disappointing_Answer/passages/2_The_Answer_Arrives/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/9_Disappointing_Answer/passages/3_What_We_Know/summary#v2.0.0"/>
+      </sources>
+      <physical-reality>
+        <reasoning>At dawn the facility is on high alert. Runner and Velvet (the delegation) have returned to the entrance; their postures indicate they failed to persuade the hostile plants and are tense/defensive. Holloway, Remedy, and other facility members are gathered in the common area coordinating ad hoc defenses but have not established a cohesive, practiced battle plan—assignments have been named (Remedy: western chemical deterrents; Runner: underground/root monitoring; Velvet/offshoot: reinforce structural weak points; Holloway: central coordination) but these are vague and untested. Florence, who had been isolated in a sparse far-wing chamber with a wheeled platform and scattered supplies, left that chamber after Kira asked for help; Florence has agreed to provide tactical guidance but prefers Kira act as her proxy. Kira and Scout are with Florence and are walking back toward the main facility; Scout is alert and bouncing ahead. Through windows and at the eastern boundary the hostile plants are visibly massing into assault positions—multiple approach vectors, coordinated timing, organized markings—and have declared intent to drive the group out or destroy the facility soon. No physical damage to the facility has occurred yet; no attack has landed, but an organized assault is imminent. Objects of note: Florence's wheeled platform is mobile and accompanying her, the facility's eastern boundary contains many fresh territorial markings and assembled hostile plant formations, and defensive materials/roles have been earmarked but not fully deployed. Time is dawn/early morning; morale and trust are fractured, reducing operational cohesion.</reasoning>
+        <state>It is dawn. The facility interior is on alert with Holloway, Remedy, Runner, Velvet (and facility offshoots) assembled and assigning vague defensive tasks; Runner and Velvet (the delegation) have returned to the entrance tense and defensive. Florence has left her sparse far-wing chamber with her wheeled platform and, accompanied by Kira and Scout, is returning to the main facility to offer tactical guidance (via Kira as proxy). The eastern boundary is crowded with organized hostile plants forming coordinated assault positions and fresh territorial markings; they intend to attack soon. No structural damage has occurred yet, but an imminent, organized assault threatens the facility; defensive preparations are acknowledged but lack a cohesive strategy.</state>
+      </physical-reality>
+      <narrative-promises>
+        <reasoning>This passage executes the delegation and shows its outcome, escalates the hostile-plant threat, and moves Florence from isolated intent to conditional action (she agrees to help, but with conditions). Promise outcomes: the planned Runner/Velvet delegation was carried out and explicitly rejected by the hostile plants (so delegation-related promises are resolved). Florence’s earlier stated intention to keep advocating (from exile) is now concretely enacted — she moves from passive intention to an active offer to re-engage conditionally — so that intent is effectively fulfilled, while the larger trust/reintegration questions remain unresolved. Many governance, logistics, and long-term survival promises are untouched and remain open. New, urgent promises center on Florence’s conditional reengagement, Kira acting as proxy to convey tactics, and the imminent attack timeline.</reasoning>
+        <fulfilled>
+          <promise id="DELEGATION_SCHEDULED_RUNNER_VELVET">Runner and Velvet executed the scheduled delegation to the hostile plants at dawn; the trip happened and returned.</promise>
+          <promise id="DELEGATION_EXCLUDES_KIRA">The delegation proceeded explicitly without Kira present (Kira was excluded from the delegation and the plan was carried out as such).</promise>
+          <promise id="DELEGATION_DEESCALATION_EFFECTIVENESS">The delegation’s de-escalation attempt was tested and failed: the hostile plants rejected the delegation and signaled imminent attack, resolving the question of whether peaceful delegation would work in this instance (it did not).</promise>
+          <promise id="FLORENCE_WILL_CONTINUE_TO_ADVOCATE">Florence had stated she would continue to advocate for her approach from exile; in this passage she moves beyond mere intent and agrees to actively provide tactical guidance when asked, fulfilling her prior stated willingness to keep advocating.</promise>
+        </fulfilled>
+        <open>
+          <promise id="HOSTILE_PLANTS_TERRITORIAL_ESCALATION">Hostile plants have increased territorial markings and coordinated behavior along the eastern boundary; their scope, organization, and intent continue to escalate and must be addressed immediately.</promise>
+          <promise id="HOSTILE_PLANTS_ESCALATION_IMMINENT">The hostile plants intend to attack soon; the timeline and exact vectors are urgent and unresolved after the delegation’s rejection.</promise>
+          <promise id="DELEGATION_EXPERIMENTAL_LESSON">The failed delegation provides actionable intel about hostile-plant dispositions (they view Kira as contamination and have heard of Florence’s deception); how the group incorporates that lesson into strategy is still open.</promise>
+          <promise id="FLORENCE_TRUST_RESTORATION_OR_CONSEQUENCES">Florence remains socially/exile-isolated; whether her conditional reengagement will lead to trust restoration, formal reintegration, or renewed sanction after the attack remains unresolved.</promise>
+          <promise id="INTERNAL_TRUST_AND_DEFENSES_WEAKENED">The group’s cohesion and defensive readiness are visibly compromised by the fracture; how this will affect their ability to coordinate under attack remains open.</promise>
+          <promise id="ADMISSIBILITY_OF_FABRICATED_ADVICE">The ethical and procedural question—whether misattributed-but-effective advice should be accepted going forward—remains contested and now more urgent given the attack.</promise>
+          <promise id="IMPLEMENTATION_WITHOUT_CREDIT">A previously considered approach (using Florence’s tactics but denying her credit) is still unresolved: Kira offers to proxy the guidance or tell the truth, so whether the group will implement advice without attribution is still open.</promise>
+          <promise id="OUTCOME_BASED_VALIDATION_FRAMEWORK">Whether outcomes should trump provenance in governance/decision-making remains an undecided, politically fraught question after the delegation failure and Florence’s offer to help.</promise>
+          <promise id="FLORENCE_DIRECT_CONTRIBUTION_VALIDATION">How to validate and accept Florence’s unaffiliated contributions (so they can be heard honestly without deception) remains an unresolved procedural challenge.</promise>
+          <promise id="FLORENCE_EXILE_INITIATED">Florence has been socially and institutionally separated from group decision-making; although she is now willing to assist conditionally, the exile’s operational and social consequences remain in play.</promise>
+          <promise id="FLORENCE_PAST_FABRICATION_SCOPE">The extent of Florence’s earlier fabrications and which past decisions were influenced is still uninvestigated and remains relevant political baggage.</promise>
+          <promise id="IMPACT_OF_FLORENCE_REMOVAL_ON_DEFENSE_OPERATIONS">Removing Florence from defense planning has demonstrable negative impact (lack of cohesive tactics); whether re-engaging her will restore capability and how to integrate her safely remains open.</promise>
+          <promise id="LEADERSHIP_STABILITY_AFTER_BETRAYAL">Holloway’s authority and the group’s decision-making stability remain untested as they attempt to coordinate defense amid mistrust and imminent attack.</promise>
+          <promise id="TIME_PRESSURE_ON_TRUST_REPAIR">There is now clear, immediate time pressure on repairing or work‑around of trust problems — the hostile plants’ impending attack compresses the window for reconciliation and process change.</promise>
+          <promise id="SCOUT_COMPANION_ROLE">Scout continues to function as steady sentinel and emotional anchor; their endurance and role under sustained attack remain relevant and open.</promise>
+          <promise id="LOCAL_ITERATIVE_TRACKING_AND_ADAPTATION">The group’s ability to observe what works, adapt rapidly, and iteratively revise tactics (especially when provenance is disputed) remains undefined and urgent.</promise>
+          <promise id="IMPLEMENTATION_VIA_PROXY__KIRA_AS_DELIVERY_MECHANISM">Newly introduced: Kira will serve as a proxy to deliver Florence’s tactical guidance (or else deliver it honestly) — whether the group will accept guidance delivered via Kira and whether that preserves or damages trust remains open.</promise>
+          <promise id="FLORENCE_TEMPORARY_REENGAGEMENT_FOR_DEFENSE">Newly introduced: Florence conditionally agrees to provide tactical guidance and re-engage in defense if asked; the terms (scope, visibility, and conditions for withdrawal) are explicit but unresolved.</promise>
+          <promise id="FLORENCE_CONDITIONAL_WITHDRAWAL_IF_REJECTED">Newly introduced: Florence states she will withdraw again and refuse to watch people get hurt if her guidance is rejected out of pride—this creates a conditional stake that is now part of the tactical and political calculation.</promise>
+          <promise id="COORDINATED_DEFENSE_PLAN_FROM_FLORENCE_VIA_KIRA">Newly introduced: Kira will solicit and carry back a cohesive, coordinated defense plan from Florence to supplant the current ad-hoc, uncoordinated approach; whether it will be implemented and whether it holds under attack is unresolved.</promise>
+          <promise id="NIGHT_SHELTER_COMPOSITION_AND_SECURITY">Shelter composition, positions, and short-term security posture for the facility (who defends where, evacuation contingencies, Kira’s safety) remain to be concretely decided and implemented before the attack.</promise>
+          <promise id="BEACON_REPAIR_OR_ALTERNATIVE_COMMS">External communications and distress-beacon options remain unresolved and are still important contingencies for longer-term options during/after the attack.</promise>
+          <promise id="SAM_OFFLINE__AI_STATUS_UNKNOWN">SAM’s operational status and decision-support capability was not addressed and remains unresolved; implications for tactical planning and coordination remain open.</promise>
+          <promise id="LONG_TERM_SURVIVAL_PLAN_REQUIRED">A comprehensive long-term survival plan (beyond the immediate defense) remains needed and unaddressed amid the immediate crisis.</promise>
+          <promise id="PLANT_SOCIO_TECH_GOVERNANCE">Structural governance questions about authority, attribution, and decision-making processes across the collective (and how to change them under pressure) remain politically sensitive and unresolved.</promise>
+        </open>
+      </narrative-promises>
+      <facts>
+        <reasoning>I extracted only significant, lasting details from the passage — items that will affect future interactions, decisions, or character relationships (not transient actions or descriptions). I omitted scene-level details already captured in the provided summary. The new facts chosen: (1) Runner/Velvet attempted a formal diplomatic approach and were explicitly rejected — that changes how the group understands the hostile plants' willingness to negotiate; (2) the hostile plants framed Kira as 'contamination' and specifically referenced Florence's deception as justification — this deepens the political stakes and explains the attack's rhetoric; (3) Kira takes decisive action to re-engage Florence for tactical guidance, marking a behavioral/state change that will influence group dynamics; (4) Florence conditionally agrees to assist (only because Kira asked, possibly via proxy, and she will withdraw if the group rejects her) — a significant change in Florence's engagement and a likely pivot point for future trust/conflict; (5) Florence's role as the group's tactical/defense thinker is reinforced as a functional specialty. I found no contradictions with the previously established facts; the passage develops existing tensions and records choices that will matter in later scenes (e.g., Florence's conditional reengagement and the hostile plants' explicit rhetoric).</reasoning>
+        <established>
+          <fact id="CHANGE_DELEGATION_DIPLOMACY_REJECTED">Runner and Velvet approached the hostile plant gathering with a message of peace/diplomacy, but the hostile plants rejected the delegation and would not allow them to finish explaining.</fact>
+          <fact id="HOSTILE_PLANTS_LABEL_KIRA_CONTAMINATION">The hostile plants explicitly characterized Kira's presence as 'contamination' and said allowing a non-plant resident violated the natural order of the territory.</fact>
+          <fact id="HOSTILE_PLANTS_CITE_FLORENCE_DECEPTION_AS_JUSTIFICATION">Hostile plants reported network gossip about Florence's deception and used that information as confirmation/justification that the facility's group 'operates without integrity' and should be removed.</fact>
+          <fact id="CHANGE_KIRA_SEEKS_FLORENCE_FOR_DEFENSE">Kira personally goes to Florence's isolated chamber to ask Florence to provide tactical guidance to defend the facility, prioritizing survival over the group's lingering resentment.</fact>
+          <fact id="CHANGE_FLORENCE_CONDITIONAL_ASSISTANCE">Florence agrees, conditionally, to provide tactical guidance because Kira asked; she may provide advice via Kira as a proxy if she prefers not to face the group directly, and she warns that if the group rejects her guidance she will withdraw and not remain reintegrated or expect automatic forgiveness.</fact>
+          <fact id="FLORENCE_TACTICAL_SPECIALIST">Florence is affirmed as the group's specialist in tactical defense/thinking — other plants acknowledge they lack her mode of thinking and that tactical planning was her area of expertise.</fact>
+        </established>
+        <conflicts/>
+      </facts>
+      <timing>
+        <reasoning>Temporal cues in the text: the passage opens with "Runner and Velvet leave at dawn," and later explicitly notes "An hour passes. Two." The delegation returns after that 1–2 hour period, the group debates, Kira immediately goes to Florence, they converse, and then Kira and Florence return to the main facility. These beats imply a single morning block of time (dawn → mid/late morning) spent on the delegation, the mounting tension, and Kira's trip to Florence. There are no date stamps, so we infer the passage is the morning following the previous evening passage. The passage ends as Kira, Florence, and Scout head back toward the facility with the hostile plants still gathering and an imminent attack looming.</reasoning>
+        <starts>~06:00 (dawn)</starts>
+        <ends>~08:30 (mid/late morning)</ends>
+        <gap-from-previous>About 7.5 hours between the previous passage (~22:30) and this passage's start at dawn (~06:00). During that overnight gap the group slept/processed Florence's exile overnight and made plans to send a delegation at dawn.</gap-from-previous>
+        <plausibility>Plausible. The overnight gap from ~22:30 to dawn is realistic. The delegation leaving at dawn and returning within 1–2 hours is believable given no extreme distances are described. The text explicitly states "An hour passes. Two." which supports ~1–2 hours of waiting/tension before the delegation's return. Kira's quick trip to the far wing, the conversation with Florence, and their immediate return fit inside a mid-morning timeframe; none of these actions require implausible travel or reaction times. Minor uncertainty: exact dawn time can vary regionally (roughly 05:30–06:30), and the passage's end time is an estimate based on the stated 1–2 hour wait plus the time for reports and the Florence scene, but there are no internal contradictions in the timeline.</plausibility>
+      </timing>
+      <characters>
+        <reasoning>Characters present in the passage: Kira (narrator) is present throughout; Runner and Velvet are present at the opening (they leave at dawn), later return and report, so they appear multiple times; Scout is beside Kira and present throughout; Holloway and Remedy take part in the defensive discussion and are present throughout; Florence is isolated at the start (in a far chamber) but appears in person later when Kira goes to her chamber and then leaves with Kira to return to the facility. No other named characters from the available list are mentioned. "Entered" is empty because no character who was entirely absent from the scene at the start arrives for the first time during the passage (Runner and Velvet leave early but were present at the start; Florence is mentioned early as isolated and then spoken-to later rather than arriving from outside the facility). "Exited" is empty because although Runner and Velvet leave at dawn, they both return before the passage ends; no character who was present at the start leaves and fails to reappear before the end. No explicit entities from the provided entity list are referenced in the passage, so the entities list is empty.</reasoning>
+        <present>
+          <character ref="/world/characters/Kira_Voss"/>
+          <character ref="/world/characters/Runner"/>
+          <character ref="/world/characters/Velvet"/>
+          <character ref="/world/characters/Scout"/>
+          <character ref="/world/characters/Holloway"/>
+          <character ref="/world/characters/Remedy"/>
+          <character ref="/world/characters/Florence"/>
+        </present>
+        <entities/>
+      </characters>
+    </summary>
+  </version>
+</versions>

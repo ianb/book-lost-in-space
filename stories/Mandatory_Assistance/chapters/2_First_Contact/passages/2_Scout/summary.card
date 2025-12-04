@@ -1,0 +1,83 @@
+<!-- Generated automatically, do not edit except with ske gen summaries -->
+<summary version="3.0.0">
+  <sources>
+    <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/2_Scout/passage#v3.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/passage#v4.0.1"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/2_Aftermath/passage#v2.0.1"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/3_Buddy_Arrives/passage#v2.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/4_Taking_Stock/passage#v2.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/1_Into_the_Purple/passage#v3.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/summary#v4.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/2_Aftermath/summary#v2.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/3_Buddy_Arrives/summary#v2.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/4_Taking_Stock/summary#v2.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/1_Into_the_Purple/summary#v3.0.0"/>
+  </sources>
+  <physical-reality>
+    <reasoning>Kira is still standing in the same alien forest described earlier: dense purple-filtered midday light, humid air, soft purple-black mosslike groundcover, widely spaced burgundy trunks and a quiet canopy. Her injury and gear remain as before—bandaged, seeping leg; heavy equipment bag over her shoulder containing first-aid supplies, sealed water containers, water-quality scanner and a cutting tool; an emergency beacon is clipped at her belt and she reflexively reached for it but did not activate it. Buddy remains online in her neural link and continues to provide atmospheric and biosensor readings (breathable atmosphere, plant-based life detected, no hostile signals on standard frequencies). A new physical object — a living, spherical plant organism roughly basketball-sized with a brownish-green fuzzy, branch-like surface and extendable tendrils — is present in the immediate area. It approached Kira, inspected her and her bandage with a tendril, retreated when she flinched, then oriented toward the trees and rolled away into the shadows. The canopy noise has increased: multiple additional plant-based organisms are moving through the branches and are now approaching, producing audible rustling. No contact was made that altered Kira’s wound or her equipment, and the potable water source remains at approximately the same distance previously reported (~600 meters southwest). Lighting, humidity, and the clear, easy-to-walk forest floor remain unchanged.</reasoning>
+    <state>Kira stands in the alien purple-lit forest on soft purple-black groundcover, bandaged right leg still seeping and painful, heavy equipment bag on her shoulder, emergency beacon clipped to her belt (unactivated), and Buddy active in her neural link. A basketball‑sized, living plant-sphere (brownish‑green, fuzzy/branchy surface, pulsing, with extendable tendril) is no longer beside her—it retreated and rolled away into the trees. Multiple additional plant-based organisms are moving through the canopy and approaching, producing increasing rustling. Atmosphere remains humid and breathable; ambient light is perpetual lavender twilight; the forest floor remains unusually clear and easy to traverse. The potable water source remains roughly 600 meters to the southwest. No damage to equipment beyond the existing wound; no physical transfer or contamination occurred during the encounter.</state>
+  </physical-reality>
+  <narrative-promises>
+    <reasoning>This passage resolves some of the expectations set earlier and creates several new ones. Most importantly, the previously hinted-at moving plant life (an explicit open promise) is observed and interacts with Kira, which confirms that the ecosystem contains mobile plant-based organisms and that Buddy's scans missed them. That pays off two prior open promises. The passage also introduces new, concrete mysteries: the plant-sphere's intent and method of communication, the fact that more of these creatures are nearby (they respond to/are summoned), and the plant's specific interest in Kira's wound—possibly probing, assessing, or even healing. Many broader ship/mission mysteries from the previous passage (navigation failure, SAM status, pilot deaths, coordinates issue, beacon repair, life-support timeline, water access outcome, etc.) are not resolved here and should be carried forward. Nothing from the prior open list is clearly abandoned; most remain relevant. Below I list fulfilled items (from the prior open list), no lapsed promises, the prior promises being carried forward, and the new promises introduced in this passage.</reasoning>
+    <fulfilled>
+      <promise id="ALIEN_PLANT_MOVEMENT_OR_FAUNA">Previously suggested movement among the alien flora; here we directly observe a mobile, deliberate plant organism (the bouncing/rolling 'plant ball'), confirming moving plant-based life exists on the planet.</promise>
+      <promise id="BUDDY_SENSOR_LIMITATIONS_OR_FALSE_NEGATIVES">Buddy's scans reported no animal life, yet mobile plant organisms are present and Buddy initially missed or mischaracterized them—demonstrating sensor blind spots or limitation in Buddy's detection/interpretation.</promise>
+    </fulfilled>
+    <open>
+      <promise id="COORDINATES_MISMATCH__FORBIDDEN_APPROACH">Where they actually landed (mismatched or forbidden coordinates) and why that destination is problematic remains unresolved.</promise>
+      <promise id="NAVIGATION_AND_STABILIZER_FAILURE__CAUSE">The root cause of the shuttle's system failures during descent (technical fault, sabotage, external phenomenon) is still unknown.</promise>
+      <promise id="KEPLER_288_EXPECTATION">Whether this planet is the expected Kepler-288 (or another body) remains unconfirmed.</promise>
+      <promise id="SECRET_OR_ILLEGAL_MISSIONAL_REASON">Whether the mission was off-protocol/at a forbidden destination and how that ties to coordinates/failures is still unresolved.</promise>
+      <promise id="SAM_OFFLINE__AI_STATUS_UNKNOWN">SAM's technical/state (offline/damaged/corrupt/destroyed) and the possibility of revival remain unresolved.</promise>
+      <promise id="INVESTIGATE_PILOTS_DEATH_CAUSE">The cause and circumstances of Jensen and Reed's deaths remain unexplained.</promise>
+      <promise id="BIOHAZARD_SMELL__POTENTIAL_CONTAMINATION">The earlier odd smell and whether it signals contamination, native organics, or a hazard remains unresolved despite closer contact with local life.</promise>
+      <promise id="EMERGENCY_AI_REPLACEMENT_PROTOCOL_EXISTS">The emergency AI-replacement protocol and its consequences (selection, pool, ramifications) remain open.</promise>
+      <promise id="BUDDY_AI_PERSONALITY_AND_LIMITATIONS">Buddy's childlike pedagogy and practical limitations (and whether it can be reconfigured) remain relevant after this encounter.</promise>
+      <promise id="BUDDY_CAPABILITIES_VS_SAM">Whether Buddy can replicate SAM's full suite (comms recovery, advanced diagnostics, navigation, social/strategic roles) remains unresolved.</promise>
+      <promise id="NEURAL_LINK_COMPATIBILITY_AND_RISK">An unfamiliar AI is on Kira's neural link; longer-term compatibility, privacy risks, or hidden behaviors remain unresolved.</promise>
+      <promise id="WATER_SOURCE_ACCESSIBILITY_AND_QUALITY">The stream ~800 meters southwest was located earlier; its accessibility, potability, and Kira's ability to reach and return with an injured leg remain unresolved.</promise>
+      <promise id="BEACON_REPAIR_OR_ALTERNATIVE_COMMS">The distress beacon is damaged; whether it can be repaired or alternative communications improvised remains open.</promise>
+      <promise id="LIFE_SUPPORT_DURATION_AND_CONSEQUENCES">Life support remaining duration and long-term shelter/power plans are still unresolved.</promise>
+      <promise id="JOURNEY_TO_WATER_WITH_INJURY">Kira set out to fetch water with a seeping leg; whether she reaches the water, returns safely, or suffers complications remains open and is immediately relevant.</promise>
+      <promise id="SHUTTLE_SHELTER_VIABILITY">The shuttle's long-term viability as shelter remains unresolved.</promise>
+      <promise id="LONG_TERM_SURVIVAL_PLAN_REQUIRED">A plan for long-term survival (food/water, medical care, shelter, signaling) is still outstanding.</promise>
+      <promise id="FOREST_APPEARS_MAINTAINED__IMPLIED_PRESENCE">The unusually clear forest floor and spacing suggested maintenance by an agent; this remains unexplained—mobile plant creatures could be part of that system but maintenance is not confirmed.</promise>
+      <promise id="KIRA_WOUND_WORSENING_AND_MEDICAL_RISK">Kira's bandage was seeping and the wound risked worsening; the plant's interest in the bandage introduces new possibilities but the wound's status and medical outcome remain open.</promise>
+      <promise id="PLANT_SPHERE_INTENT_AND_COMMUNICATION">The plant-sphere displayed curiosity and deliberate approach patterns; its intent (curiosity, communication, assessment, or other) and whether an exchange/understanding can develop remain unresolved.</promise>
+      <promise id="PLANT_SIGNALING_AND_SOCIAL_ALERT">The plant-sphere's departure and the sound of others approaching imply signaling or a social network among the flora; the mechanism, scale, and consequences of that signaling are unknown.</promise>
+      <promise id="PLANT_TACTILE_PROBING_OR_HEALING">A tendril reached toward Kira's bandage—this could be mere probing, a diagnostic behavior, or an attempt to treat/heal or to infect; whether plants interact medically with wounded organisms is unresolved.</promise>
+      <promise id="PLANT_SOCIAL_STRUCTURE_OR_COLONY">Multiple mobile plant units are approaching; whether they act as an organized colony, coordinated defense, caretaking group, or something else is unknown.</promise>
+      <promise id="PLANT_SENSORY_AND_COMMUNICATION_MODES">The plants appear to sense and move deliberately without obvious visual/EM signals; their sensory modalities and means of communication (mechanical, chemical, vibrational, etc.) remain to be discovered.</promise>
+      <promise id="IMPACT_ON_WATER_JOURNEY_AND_MOVEMENT">The arrival of multiple mobile plant organisms changes Kira's immediate plan and physical safety; how this will affect her ability to reach the water and return is unresolved.</promise>
+    </open>
+  </narrative-promises>
+  <facts>
+    <reasoning>I selected facts that change how future scenes should treat the native flora and that could affect plot choices later (e.g., risk assessment, communication attempts, medical contamination/healing possibilities, and likely behavior of groups). I excluded transient sensory details and items already summarized. I flagged only stable, broadly applicable observations: the plant-ball's purposive/curious behavior, its specific interaction with Kira's wound (probe then recoil), its fine motor control and locomotion style, and evidence of social coordination with others in the canopy. These details matter for later scenes involving encounters, danger assessment, attempts at interaction or medical use, and expectations about group behavior. No statements here contradict previously established facts.</reasoning>
+    <established>
+      <fact id="PLANT_SPHERE_PURPOSEFUL_BEHAVIOR">The plant-sphere moved in deliberate, investigative patterns (circling, stopping, approaching and pausing) rather than random or purely reflexive motion, indicating purposeful inspection or attention.</fact>
+      <fact id="PLANT_SPHERE_PROBING_OF_WOUND">The plant-sphere extended a thin, delicate tendril specifically toward Kira's bandaged injury and focused on that area before she flinched; it did not make contact after she recoiled.</fact>
+      <fact id="PLANT_SPHERE_RETREATS_ON_THREAT">When Kira flinched, the plant-sphere immediately withdrew several meters and gave space, showing it recognizes and responds to threat/defensive signals by retreating.</fact>
+      <fact id="PLANT_SURFACE_MANIPULATIVE_BRANCHES">The sphere's surface contains tiny branches that can shift, flex, and realign like fingers and can ripple/orient as a whole, implying fine motor control and reconfigurable morphology.</fact>
+      <fact id="PLANT_LOCOMOTION_BOUNCE_AND_ROLL">The species locomotes by controlled bouncing and rolling arcs (hops, pauses, deliberate forward rolls) rather than crawling or walking.</fact>
+      <fact id="PLANT_SOCIAL_COORDINATION">The sphere's final hop and rapid departure toward approaching canopy sounds indicate it coordinates with other organisms and may act as part of a social or group behavior.</fact>
+    </established>
+    <conflicts/>
+  </facts>
+  <timing>
+    <reasoning>This passage is a direct continuation of the moment the previous passage ended (Kira feeling watched and noticing movement in the trees). There are clear immediate cues: something drops from the canopy, Kira reacts right away (reaches for the beacon, jumps back when the sphere hops), Buddy performs an on-the-fly scan, and the plant-sphere makes a few short, deliberate moves, withdraws after Kira flinches, then returns briefly before tumbling away toward other approaching sounds. All of these beats are short, discrete actions that plausibly unfold in a tight span of minutes (not hours). The passage ends when the sphere departs into the trees and the approaching sounds grow louder, leaving Kira to prepare for whatever comes next. The gap from the previous passage is essentially immediate (seconds); nothing in the text suggests a meaningful elapsed interval between the prior "I feel watched" moment and the plant ball dropping. Timing choices (Buddy scanning in seconds, Kira crouching/standing, the plant making several hops and a tendril probe) are realistic as brief, reactive events; the only possible note is that if one wanted more exhaustive safety protocol or a prolonged first-contact exchange, that would require more time, but narratively and physically the portrayed sequence is plausible.</reasoning>
+    <starts>~00:45 (immediate continuation of the previous scene; seconds after she felt watched)</starts>
+    <ends>~00:48 (approximate — a few minutes after it starts, ending when the sphere tumbles away and other rustling approaches)</ends>
+    <gap-from-previous>none — immediate. The scene picks up seconds after the previous passage ended; the plant-sphere drops and the interaction begins almost instantly. Nothing significant happened in between beyond the transition from "feeling watched" to the object dropping.</gap-from-previous>
+    <plausibility>Plausible. The actions shown (Buddy performing quick scans, the sphere bouncing/rolling and extending a tendril, Kira crouching, flinching, and standing) fit comfortably into a 1–3 minute window. Buddy’s rapid sensor readouts are reasonable for an onboard AI; Kira’s reflexive flinch and subsequent calmer approach are realistic for someone injured and startled. No obvious timing contradictions or impossible tasks are present. If the author wanted a longer, more cautious first-contact protocol, that would require additional time, but the scene as written is temporally coherent and believable.</plausibility>
+  </timing>
+  <characters>
+    <reasoning>Kira (first-person narrator) and Buddy both speak and are present throughout the passage, and they were also listed as present at the end of the previous passage. The bouncing plant-sphere appears and then departs, but no named character from the provided character list corresponds to that plant; therefore it is not listed under character paths. The scene takes place on an alien world/forest, which corresponds to the provided entity /world/entities/Sector_7-Gamma-412_Planet. No new named characters enter, and no named characters exit before the scene ends.</reasoning>
+    <present>
+      <character ref="/world/characters/Kira_Voss"/>
+      <character ref="/world/characters/Buddy"/>
+    </present>
+    <entities>
+      <entity ref="/world/entities/Sector_7-Gamma-412_Planet"/>
+    </entities>
+  </characters>
+</summary>

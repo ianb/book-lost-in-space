@@ -1,0 +1,200 @@
+<!-- this file is automatically managed by ske validate; do not edit -->
+<versions>
+  <version number="2.0.0" archived-at="2025-12-02T15:07:15.529Z">
+    <changelog-entry>
+      <message>Initial version</message>
+    </changelog-entry>
+    <!-- Generated automatically, do not edit except with ske gen summaries -->
+    <summary version="2.0.0">
+      <sources>
+        <ref ref="/stories/Mandatory_Assistance/chapters/10_Trust_Complicated/passages/1_False_Wisdom/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/passage#v4.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/2_Aftermath/passage#v2.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/3_Buddy_Arrives/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/4_Taking_Stock/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/1_Into_the_Purple/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/2_Scout/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/3_Wellness_Check/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/1_Intake/passage#v2.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/2_Orientation/passage#v2.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/3_Medical_Treatment/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/1_Morning_Wellness/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/2_Dietary_Assessment/passage#v2.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/3_Seeking_Solutions/passage#v2.1.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/5_Settling_In/passages/1_Time_Passing/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/5_Settling_In/passages/2_Journey_Option/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/5_Settling_In/passages/3_Preparation/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/6_Through_the_Forest/passages/1_First_Day/passage#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/6_Through_the_Forest/passages/2_Deeper_In/passage#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/6_Through_the_Forest/passages/3_Boundary/passage#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/7_Rivers_and_Wetlands/passages/1_River_Crossing/passage#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/7_Rivers_and_Wetlands/passages/2_Wetlands/passage#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/7_Rivers_and_Wetlands/passages/3_Second_Boundary/passage#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/8_Hills_and_Heights/passages/1_Climbing/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/8_Hills_and_Heights/passages/2_The_Ancient_Grove/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/8_Hills_and_Heights/passages/3_Hope_and_Return/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/9_Disappointing_Answer/passages/1_Settling_In/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/9_Disappointing_Answer/passages/2_The_Answer_Arrives/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/9_Disappointing_Answer/passages/3_What_We_Know/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/summary#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/2_Aftermath/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/3_Buddy_Arrives/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/4_Taking_Stock/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/1_Into_the_Purple/summary#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/2_Scout/summary#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/3_Wellness_Check/summary#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/1_Intake/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/2_Orientation/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/3_Medical_Treatment/summary#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/1_Morning_Wellness/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/2_Dietary_Assessment/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/3_Seeking_Solutions/summary#v2.1.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/5_Settling_In/passages/1_Time_Passing/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/5_Settling_In/passages/2_Journey_Option/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/5_Settling_In/passages/3_Preparation/summary#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/6_Through_the_Forest/passages/1_First_Day/summary#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/6_Through_the_Forest/passages/2_Deeper_In/summary#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/6_Through_the_Forest/passages/3_Boundary/summary#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/7_Rivers_and_Wetlands/passages/1_River_Crossing/summary#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/7_Rivers_and_Wetlands/passages/2_Wetlands/summary#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/7_Rivers_and_Wetlands/passages/3_Second_Boundary/summary#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/8_Hills_and_Heights/passages/1_Climbing/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/8_Hills_and_Heights/passages/2_The_Ancient_Grove/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/8_Hills_and_Heights/passages/3_Hope_and_Return/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/9_Disappointing_Answer/passages/1_Settling_In/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/9_Disappointing_Answer/passages/2_The_Answer_Arrives/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/9_Disappointing_Answer/passages/3_What_We_Know/summary#v2.0.0"/>
+      </sources>
+      <physical-reality>
+        <reasoning>I tracked physical facts and changes introduced in the passage. The urgent patrol identifies deliberate marks carved into the bark of trees along the facility's eastern boundary; those gouges are new and numerous. The group assembles at that eastern perimeter (Holloway, Runner, Velvet, Remedy, Scout, Kira, Florence). Florence removes Elder Twist's potted plant from her wheeled platform and places the pot near Holloway; Florence then wheels away alone, leaving the pot behind. Elder Twist (the pot) produces a slow vocal response at the site, answering a three‑day‑old question about water/light/growth rather than the immediate territorial threat—indicating a delayed, slow-response physical behavior from that elder plant. No structural damage to the facility interior is reported; environmental controls and previously flagged ventilation/drainage items remain as before. A delegation is discussed but not dispatched. At the end of the scene people disperse to address immediate needs and plan to reconvene that night; social trust is fractured, which weakens coordinated readiness. These are the concrete, potentially consequential physical facts for future scenes: the new hostile boundary markings, the eastern perimeter as the locus of conflict, Elder Twist’s pot relocated and audible, Florence separated from the pot and wheeling away alone, and the group still occupying the facility with unresolved infrastructure flags (ventilation/drainage).</reasoning>
+        <state>It is five days after the previous meeting; the group is assembled at the facility’s eastern boundary where many deliberate, sharp, deep gouges/territory markers have been carved into the bark of boundary trees. Holloway, Runner, Velvet, Remedy, Scout and Kira are present at the perimeter; Florence has removed Elder Twist’s potted plant from her wheeled platform and set the pot near Holloway, then wheels away alone, leaving the elder pot behind. Elder Twist (the pot) emits a slow, cryptic spoken response—answering a three‑day‑old growth question—indicating the elder’s delayed-response behavior. No interior structural damage to the facility is reported; previous environmental-control inspections and the flagged ventilation/exterior drainage tasks remain unresolved. A nonviolent de‑escalation plan and delegation are discussed but not executed; the group plans to reconvene that night. Tension and a loss of internal trust are present physically in the scene (Florence separated, the elder pot relocated, people dispersed to handle immediate needs).</state>
+      </physical-reality>
+      <narrative-promises>
+        <reasoning>
+          This passage introduces an immediate external threat (organized, hostile plants marking the facility boundary) while simultaneously exploding an internal trust problem (Florence is publicly exposed for fabricating ‘Elder Twist’ counsel). The Florence revelation directly resolves earlier uncertainty about her role/authority by removing her interpretive privilege, but it also spawns new governance/trust promises (how to validate individual contributions, whether Florence can remain in a coordinating role, how the group will repair trust). The hostile markers create practical follow-ups (whether delegation/de‑escalation will work, whether relocation will be forced) and amplify the risk that the internal fracture will weaken the group’s ability to respond. Elder Twist’s actual behavior (delayed, not answering immediate questions) is clarified and further undermines reliance on elders. Most earlier open plot threads (navigation, SAM status, shuttle viability, contamination, life-support duration, etc.) remain untouched and therefore still open.
+
+          Fulfilled from previous open promises: Florence’s coordination/authority ambiguity is resolved — she admitted fabricating counsel and was stripped of the privilege to speak for Elder Twist, so that uncertainty is answered.
+
+          No prior open promises were fully abandoned or rendered moot in this passage; instead many are sharpened or stressed by the new external/internal crises (so LAPSED_PROMISES is empty). New promises introduced center on the hostile plants, the effectiveness/risks of the planned delegation/de‑escalation, the consequences of Florence’s fabrication for trust and governance, and the demonstrated limits/delays of Elder Twist.
+
+          Operationally: carry forward almost all prior open promises (they remain relevant), mark FLORENCE_INTRODUCED__COORDINATION_ROLE as fulfilled, and add the new promises enumerated below.
+        </reasoning>
+        <fulfilled>
+          <promise id="FLORENCE_INTRODUCED__COORDINATION_ROLE">Florence's ambiguous role and authority (the extent to which she mediated Elder Twist's guidance) is resolved when she admits she fabricated much of Elder Twist's counsel and is stripped of the privilege to interpret the elder. Her coordination authority is explicitly revoked.</promise>
+        </fulfilled>
+        <open>
+          <promise id="COORDINATES_MISMATCH__FORBIDDEN_APPROACH">Exact landing coordinates and whether the landing site is problematic/forbidden — still unresolved and relevant to escape/rescue options.</promise>
+          <promise id="NAVIGATION_AND_STABILIZER_FAILURE__CAUSE">Root cause of shuttle/systems failure (technical, sabotage, anomaly) — remains uninvestigated and relevant.</promise>
+          <promise id="KEPLER_288_EXPECTATION">Whether the planet is Kepler-288 (or something else) — still unconfirmed.</promise>
+          <promise id="SECRET_OR_ILLEGAL_MISSIONAL_REASON">Any off-protocol or illegal mission objectives and consequences tied to the mission — unresolved.</promise>
+          <promise id="SAM_OFFLINE__AI_STATUS_UNKNOWN">SAM’s operational status (offline/damaged/compromised/salvageable) — still unknown.</promise>
+          <promise id="INVESTIGATE_PILOTS_DEATH_CAUSE">Causes of Jensen and Reed’s deaths remain uninvestigated.</promise>
+          <promise id="BIOHAZARD_SMELL__POTENTIAL_CONTAMINATION">Hints of contamination or odd smells and their health/environmental implications remain unexamined.</promise>
+          <promise id="EMERGENCY_AI_REPLACEMENT_PROTOCOL_EXISTS">Whether emergency-AI-replacement protocols were invoked and the scope of Buddy/Holloway’s authority — unresolved.</promise>
+          <promise id="BUDDY_AI_PERSONALITY_AND_LIMITATIONS">Buddy's evolving supportive behavior invites mapping of limits, failure modes, authority boundaries and reserve constraints — still open.</promise>
+          <promise id="BUDDY_CAPABILITIES_VS_SAM">Whether Buddy matches SAM’s full capabilities (communications, diagnostics, authority) — unclear.</promise>
+          <promise id="NEURAL_LINK_COMPATIBILITY_AND_RISK">Risks and compatibility issues with neural-link tech remain unaddressed.</promise>
+          <promise id="BEACON_REPAIR_OR_ALTERNATIVE_COMMS">Status of the distress beacon and alternative relay options — still unknown.</promise>
+          <promise id="LIFE_SUPPORT_DURATION_AND_CONSEQUENCES">Long-term life-support duration, sustainability and consequences for extended isolation — unresolved.</promise>
+          <promise id="SHUTTLE_SHELTER_VIABILITY">Whether the shuttle can be repurposed as long-term shelter or base — undecided.</promise>
+          <promise id="LONG_TERM_SURVIVAL_PLAN_REQUIRED">Comprehensive long-term survival plan (supply continuity, signaling, fallback options) — still required.</promise>
+          <promise id="FOREST_APPEARS_MAINTAINED__IMPLIED_PRESENCE">Organized maintenance suggests maintainers; identity, motives and scale remain unknown but the hostile markers confirm organized plant groups exist and some oppose Kira.</promise>
+          <promise id="IMPACT_ON_WATER_JOURNEY_AND_MOVEMENT">How integration with facility/plant systems affects Kira’s broader mobility and escape plans — still open.</promise>
+          <promise id="PREVIOUS_VISITOR_AND_MATERIALS">Provenance of human 'standard' materials and who taught/assisted the plants — unresolved.</promise>
+          <promise id="PREVIOUS_VISITOR_DEATH_CIRCUMSTANCES">Circumstances around previous human deaths that influenced plant learning — still unknown.</promise>
+          <promise id="PLANT_DOCUMENTATION_AND_DATA_USAGE">Plants' use of transmitted documentation to synthesize food and the policy/ethics/mechanics of that — unexplored.</promise>
+          <promise id="REMEDY_EFFECTIVENESS_WINDOW">Remedy's formulations are improving but long-term durability, side-effects, and efficacy windows remain unproven.</promise>
+          <promise id="PLANT_INTENT_BEYOND_HELP">Plant motives (containment, assimilation, experimentation, genuine aid) — still open and sharpened by discovery of organized hostile plants.</promise>
+          <promise id="LIVING_FACILITY_CAPABILITIES_AND_LIMITS">Facility's broader structure, defensive capabilities and operational limits — still not fully mapped; boundary markers test those limits.</promise>
+          <promise id="COLLECTIVE_AS_EMERGENCY_CONTACT__DATA_USAGE_IMPLICATIONS">Who acts as emergency contact for Kira and implications for her agency/data sharing — unresolved.</promise>
+          <promise id="INTEGRATION_AND_SOCIAL_ASSIGNMENT_RISK">Pressure to integrate into plant social/work structures and potential obligations/loss of agency — still a risk.</promise>
+          <promise id="BUDDY_RECORDS_AND_ADVOCACY_ROLE">Whether Buddy can access records and advocate for Kira within plant governance — still unclear.</promise>
+          <promise id="WHEELED_PLANT_TECH_INTEGRATION">Provenance and governance of wheeled/mobile plant platforms — still to be explored.</promise>
+          <promise id="QUIZ_FAILURE_CONSEQUENCES">Consequences for failing plant assessments (quarantine, retraining, denied services) — unresolved.</promise>
+          <promise id="PLANT_SOCIO_TECH_GOVERNANCE">Decision-making structure and limits of plant governance remain open and politically sensitive, now stressed by internal betrayal and external opposition.</promise>
+          <promise id="SCOUT_COMPANION_ROLE">Scout's attachment and role continue to develop (now emotionally supportive); scope, limits, and liabilities remain open.</promise>
+          <promise id="ENFORCED_COMPLIANCE_AS_GATEKEEPING">Degree to which forms and tests gate access to services and enforcement mechanisms — still relevant.</promise>
+          <promise id="MUSHROOMS_AND_ROBOT_NETWORK_COMMUNICATION">Fungal/robot coordination across territories and their controllers/reliability — still unknown and relevant given coordinated hostile marking.</promise>
+          <promise id="DAILY_DEPENDENCE_ON_MUSHROOM_SUPPLY">Dependence on mushroom-based provisioning persists; logistics and failure modes remain unknown.</promise>
+          <promise id="CONSENT_AND_DOCUMENTATION_IMPLICATIONS">Kira’s records have been shared with plants; consent, obligations and future implications remain unresolved.</promise>
+          <promise id="DAILY_BUREAUCRACY_IMPACT_ON_SURVIVAL">Bureaucratic time-costs may still conflict with urgent needs despite pivot to local action — still relevant.</promise>
+          <promise id="SOCIAL_ATTACHMENT_AND_DEPENDENCE_RISK">Kira’s increasing attachments to plant actors create dependence and potential risk — still an open vulnerability, magnified if group cohesion breaks.</promise>
+          <promise id="PATIENT_COMPLIANCE_AS_STRATEGY">Kira's strategy of compliance to secure care remains active and will shape future obligations.</promise>
+          <promise id="VITAMIN_B12_DEFICIT_RISK">Micronutrient deficit risk from a plant-based diet — unresolved.</promise>
+          <promise id="LONG_TERM_MICRONUTRIENT_DEFICITS">Chronic deficiency risks remain open.</promise>
+          <promise id="MEAL_PALATABILITY_AND_MORALE_IMPACT">Palatability and morale effects of meals continue to matter.</promise>
+          <promise id="COMPOUND_TESTING_TIME_COST">Time costs of allergy/synthesis testing across territories remain a potential delay factor.</promise>
+          <promise id="DIGESTIVE_TOLERANCE_AND_ADJUSTMENT_PERIOD">Digestive tolerance is improving but long-term adjustment periods remain a risk to monitor.</promise>
+          <promise id="REMEDY_ADAPTATION_TO_PREFERENCES">Remedy's ongoing adaptation to Kira's feedback is promising but needs continued verification and supply support.</promise>
+          <promise id="FILTER_MAINTENANCE_ROTATION_SCHEDULE">Runner's filter schedule proposal is in practice but implementation, resourcing, and reliability remain to be verified.</promise>
+          <promise id="REMEDY_BOUNDARY_CONFLICT">Remedy's discomfort with discrete boundaries vs. growth nature continues to be a tension that could affect care delivery.</promise>
+          <promise id="FACILITY_DOMESTIC_STABILITY_AND_PLANT_GOVERNANCE_ADJUSTMENT">Facility's shift toward domestic rhythms and responsive care is ongoing; whether this stabilizes governance remains open and is now stressed by internal betrayal and external hostility.</promise>
+          <promise id="BUDDY_PERSONALITY_EVOLVING_BOUNDS">Buddy's boundary adjustments and potential advocacy role remain important to Kira's agency and unresolved.</promise>
+          <promise id="BUDDY_ANALYTICAL_INVOLVEMENT_WITH_ELDER">Whether Buddy can meaningfully translate or interface Elder knowledge for practical human-scale recommendations — still unresolved.</promise>
+          <promise id="FILTER_MAINTENANCE_ROTATION_SCHEDULE__FOLLOWUP">Operational follow-up on the new maintenance cadence remains to be confirmed.</promise>
+          <promise id="ROOTWALKER_PREDICTIVE_NAVIGATION_AND_PROTECTION__FOLLOWUP_TESTS">Rootwalker's validated competence still requires operational follow-up to be trusted for wider tasks.</promise>
+          <promise id="SCOUT_LIMITS_AND_ENDURANCE">Scout remains supportive but the scope of endurance over long timelines is still a variable to monitor, especially if conflict escalates.</promise>
+          <promise id="LEAFWHISPER_CONTINUAL_CHATTER__INFO_OVERLOAD_RISK">Leafwhisper's info-overload risk remains and could impact group decision-making during crises.</promise>
+          <promise id="NIGHT_SHELTER_COMPOSITION_AND_SECURITY">Shelter composition and facility security/defense role still require mapping; hostile markers make this urgent.</promise>
+          <promise id="NEW_PROMISE_SCOUT_LEARNING_PATTERN__UTILITY_OR_LIMITS">Scout’s learning trajectory and its long-term utility and liabilities remain open and are relevant for patrol/defense roles.</promise>
+          <promise id="NEW_PROMISE_LUMINOUS_MUSHROOMS__UNKNOWN_PROPERTIES">Luminous fungi observed earlier may have network/ritual/toxic properties that remain unknown.</promise>
+          <promise id="BINDING_AND_OBLIGATION_RISKS_FROM_PRESENTATION">Presentation likely registered Kira in plant records—possible obligations, protections, or scrutiny remain to be explored.</promise>
+          <promise id="ELDER_RESPONSE_IMPACT_ON_TRAVEL_AND_RESOURCES__FOLLOWUP">Political/resource effects of having asked the Elder may still play out and require monitoring.</promise>
+          <promise id="ELDER_INSTITUTIONAL_TRUST_AND_MORALE">Longer-term effects on trust in elders/institutions and governance stability remain an open social risk, now complicated by delayed/limited elder responsiveness and Florence's fabrication.</promise>
+          <promise id="PLANT_COLLECTIVE_MORALE_RISK_AFTER_ELDER_FAIL">Group morale was harmed and the political/social repercussions of that harm are still being worked through — the Florence betrayal increases the risk.</promise>
+          <promise id="OUTCOME_BASED_VALIDATION_FRAMEWORK">The group's adoption of 'good outcomes are authority' remains an untested operational principle, now challenged by the Florence deception.</promise>
+          <promise id="LOCAL_ITERATIVE_TRACKING_AND_ADAPTATION">Practical promise to 'track what works, adjust what doesn't' requires processes, metrics and responsibilities to be established and verified — still open and now more urgent under threat.</promise>
+          <promise id="FLORENCE_DIRECT_CONTRIBUTION_VALIDATION">How to validate and integrate direct individual contributions (unmediated by elder authority) into collective decision-making — made urgent by Florence's fabrication but still unresolved.</promise>
+          <promise id="HOSTILE_PLANTS_TERRITORIAL_ESCALATION">New: Deliberate territory markers and coordinated hostile plants are claiming the eastern perimeter and may attempt to force relocation — scope, intent, and likely timeline need assessment.</promise>
+          <promise id="DELEGATION_DEESCALATION_EFFECTIVENESS">New: The plan to send a delegation (including Kira / Runner) to de-escalate via demonstrating non-threat must be tested; success/failure, composition, and risk to Kira are unresolved.</promise>
+          <promise id="ELDER_TWIST_RESPONSE_DELAY_AND_LIMITS">New: Elder Twist demonstrably answers older questions (three-day lag) and does not provide immediate counsel on emergent threats — clarifies elders' practical limits and response timing.</promise>
+          <promise id="FLORENCE_TRUST_RESTORATION_OR_CONSEQUENCES">New: Consequences for Florence's fabrication (whether she can regain trust, what sanctions apply, and how the group will handle delegation of authority) remain unresolved.</promise>
+          <promise id="INTERNAL_TRUST_AND_DEFENSES_WEAKENED">New: The fracture in trust caused by Florence's deception could meaningfully weaken the group's coordinated response to external threats; extent of impairment and mitigation strategies are open.</promise>
+          <promise id="ADMISSIBILITY_OF_FABRICATED_ADVICE">New: Whether advice that was effective but misattributed (Florence's counsel) remains usable and admissible for decision-making despite provenance issues — unresolved ethical and pragmatic question.</promise>
+          <promise id="KIRA_DELEGATION_RISK">New: Kira volunteered to accompany a delegation; whether Kira's presence will de-escalate or attract harm needs assessment (risk to her life/support systems).</promise>
+        </open>
+      </narrative-promises>
+      <facts>
+        <reasoning>I flagged only facts likely to matter later: a new, organized external threat (plants marking territory and opposing Kira), the actual content/source of Elder Twist's recent utterance (it answered an older question, not the hostile-plant issue), and the concrete internal consequences (Florence has lost the privilege to speak for Elder Twist and the group's trust is damaged). These are state changes or new alignments that will affect future decision-making, negotiations with other plant groups, and internal cohesion. I found no direct contradictions with previously established facts—this passage develops existing tensions and confirms Florence's fabrication (already recorded in previous facts) rather than negating prior facts.</reasoning>
+        <established>
+          <fact id="CHANGE_HOSTILE_PLANTS_ORGANIZED_MARKINGS">A coordinated faction of plants hostile to Kira has deliberately carved sharp, deep territory markers around the facility's eastern perimeter as an organized warning/claim (escalation from isolated disapproval to formalized territorial opposition).</fact>
+          <fact id="HOSTILE_PLANTS_SPECIFICALLY_OPPOSE_HELPING_KIRA">The organizing plants are described as opposing efforts to help Kira (their markings represent an organized movement against Kira's presence, not merely neutral territorial maintenance).</fact>
+          <fact id="ELDER_TWIST_SPOKE_ANSWERED_DELAYED_QUESTION">Elder Twist actually produced a slow, cryptic vocal response in the moment, but its content answered Velvet's three-day-old question about water/light/growth timing rather than addressing the hostile-plant territorial markings or current conflict.</fact>
+          <fact id="CHANGE_FLORENCE_LOST_INTERPRETIVE_PRIVILEGE">As an immediate institutional consequence, Holloway revoked Florence's privilege to interpret or speak for Elder Twist and ordered Florence to leave the elder pot with the group (Florence no longer authorized to channel 'Elder Twist' guidance).</fact>
+          <fact id="CHANGE_INTERNAL_TRUST_FRACTURED_AFTER_FABRICATION_REVEAL">The group's internal trust and cohesion have been materially weakened by the revelation that Florence manufactured much of Elder Twist's 'wisdom'; this fracture reduces the group's unity and makes them significantly weaker facing the external hostile-plant threat.</fact>
+        </established>
+        <conflicts/>
+      </facts>
+      <timing>
+        <reasoning>Temporal cues in the passage are explicit and local: it opens by stating it is "Five days after we stopped waiting for Elder Heartwood's wisdom," so the gap from the previous passage is five days. The narrative then stays within a single continuous episode: Scout returns from a perimeter patrol, the group inspects boundary marks, discusses counsel, Florence's deception is exposed, Elder Twist unexpectedly speaks about a question asked three days earlier, Florence removes the elder and wheels away, and the group agrees to reconvene "tonight." Those beats all occur as part of one immediate incident (discovery → discussion → fallout → dispersal), so the passage covers a short span of time — essentially the duration of the patrol report and the immediate group meeting/inspection. The passage ends after Holloway schedules the evening meeting and the group disperses to handle immediate needs. The explicit internal timing markers that anchor plausibility are: (1) “Five days after…” (gap from the previous passage), (2) Scout notes the marks “weren't here yesterday,” (3) Elder Twist’s spoken reply addresses a question Velvet asked “three days” ago, and (4) they plan to reconvene “tonight,” implying the current events take place earlier the same day (daytime/late afternoon/early evening). All these are internally consistent: five days elapsed between passages; the hostile marks could have been placed within the last day; Elder Twist’s delayed reply three days after Velvet’s question fits the elder-plant slow-response behavior; and the immediate discussion, removal of the pot, and scheduling of an evening meeting are all actions that plausibly take place within a few hours. There are no obvious temporal contradictions or implausibilities in what characters would reasonably do in the time given.</reasoning>
+        <starts>≈5 days after the previous passage (i.e., five days after the previous passage's 21:30 ending; the scene begins that day during daytime/late afternoon, approximate)</starts>
+        <ends>Same day as the start of this passage — by evening (they disperse and plan to reconvene "tonight"); overall episode lasts on the order of hours (roughly 1–3 hours)</ends>
+        <gap-from-previous>5 days. During that gap the group continued daily cooperation: refining treatments, patrols and perimeter maintenance, supply tracking, and building the cooperative practices described in the previous passage. This interval is exactly what the text signals.</gap-from-previous>
+        <plausibility>Plausible. Five days is enough time for the group to have settled into the new cooperative routines and for an external group of plants to organize territorial markers. Scout seeing marks that "weren't here yesterday" is consistent with a recent escalation. Elder Twist answering a question asked three days earlier fits the established slow/lagged response of an elder plant. The discovery, inspection, a short consult, Florence's confession and removal of the elder pot, and scheduling an evening meeting are all actions that reasonably fit into a single-day, multi-hour timeframe. No timing inconsistencies are apparent.</plausibility>
+      </timing>
+      <characters>
+        <reasoning>I listed any character who is mentioned or appears in the passage as PRESENT. Scout explicitly arrives partway through the scene ("Scout comes bouncing in fast"), so Scout is in ENTERED. Florence wheels away alone before the passage ends, so she exits and is in EXITED. Elder Heartwood is only mentioned (referenced as prior counsel) but still counts as present. The only relevant entity provided in the list is the planet/location, so I included /world/entities/Sector_7-Gamma-412_Planet.</reasoning>
+        <present>
+          <character ref="/world/characters/Kira_Voss"/>
+          <character ref="/world/characters/Holloway"/>
+          <character ref="/world/characters/Scout"/>
+          <character ref="/world/characters/Florence"/>
+          <character ref="/world/characters/Elder_Twist"/>
+          <character ref="/world/characters/Elder_Heartwood"/>
+          <character ref="/world/characters/Remedy"/>
+          <character ref="/world/characters/Runner"/>
+          <character ref="/world/characters/Velvet"/>
+        </present>
+        <entered>
+          <character ref="/world/characters/Scout"/>
+        </entered>
+        <exited>
+          <character ref="/world/characters/Florence"/>
+        </exited>
+        <entities>
+          <entity ref="/world/entities/Sector_7-Gamma-412_Planet"/>
+        </entities>
+      </characters>
+    </summary>
+  </version>
+</versions>

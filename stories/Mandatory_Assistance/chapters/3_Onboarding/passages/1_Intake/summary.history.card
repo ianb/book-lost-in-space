@@ -1,0 +1,114 @@
+<!-- this file is automatically managed by ske validate; do not edit -->
+<versions>
+  <version number="2.0.0" archived-at="2025-12-02T15:07:15.887Z">
+    <changelog-entry>
+      <message>Initial version</message>
+    </changelog-entry>
+    <!-- Generated automatically, do not edit except with ske gen summaries -->
+    <summary version="2.0.0">
+      <sources>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/1_Intake/passage#v2.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/passage#v4.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/2_Aftermath/passage#v2.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/3_Buddy_Arrives/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/4_Taking_Stock/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/1_Into_the_Purple/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/2_Scout/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/3_Wellness_Check/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/summary#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/2_Aftermath/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/3_Buddy_Arrives/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/4_Taking_Stock/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/1_Into_the_Purple/summary#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/2_Scout/summary#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/3_Wellness_Check/summary#v3.0.0"/>
+      </sources>
+      <physical-reality>
+        <reasoning>The passage shows Kira escorted into the plants' Central Coordination structure and completing intake. The facility is a living, three‑story woven vine structure in a clearing with bioluminescent patches; it breathes and grows. Inside a curved vine chamber there is a central vine “desk,” vine‑shaped seating, and multiple cream-colored fruiting bodies clustered and oriented toward Kira; thin bark sheets with pressed/carved symbols serve as forms and now contain her intake data. Remedy previously applied a greenish, growing antibacterial/analgesic compound to Kira's right‑leg laceration (about 15 cm) that is holding and reducing pain for an estimated 6–8 hour window, but she is still limping and reports possible concussion, bruises, exhaustion. Scout (small rolling plant) is pressed against her uninjured leg; larger woven rolling plants form an escort into the structure and accompany her toward a deeper chamber. Buddy remains active in her neural link, providing ship/medical records. Kira's heavy equipment bag and emergency beacon are not removed in the passage (communicator is destroyed), and no human rescuers are present. Orientation (four hours of workplace/safety training) is scheduled to occur immediately before the promised comprehensive medical evaluation. The ambient conditions remain humid, breathable, under perpetual lavender twilight with interior bio‑luminescent lighting.</reasoning>
+        <state>Kira stands inside the living Central Coordination facility — a sprawling, three‑story woven‑vine structure in a clearing whose bioluminescent vines provide soft blue‑green light; the structure breathes and grows. She is in a curved vine chamber with a central vine “desk,” vine seats, and multiple cream‑colored fruiting bodies and bark‑sheet forms that now hold her intake documentation. Her right leg bears an approximately 15 cm laceration with Remedy’s greenish antibacterial/analgesic compound applied (pain reduced but still throbbing; treatment effective an estimated 6–8 hours). She limps and shows signs of exhaustion and possible concussion. Scout is pressed against her uninjured leg and larger woven rolling plants form an escort around her. Buddy remains connected via her neural link and has supplied personnel/medical records. Her heavy equipment bag and unactivated emergency beacon remain with her; her personal communicator is destroyed. Orientation (four hours of workplace/safety training) is scheduled immediately; a comprehensive medical evaluation is planned to follow. No other humans or external rescuers are present; the plants have claimed responsibility for intake, documentation, and care.</state>
+      </physical-reality>
+      <narrative-promises>
+        <reasoning>This passage advances the scene into the plants' Central Coordination and so resolves the question of whether the plants actually have a central facility and that Kira was transported there. It also deepens the bureaucracy/setup tension (orientation before medical evaluation) and supplies some concrete details (bark-forms for records, Remedy's temporary window, the facility's living-vine architecture). Most of the earlier open items remain unresolved (cause of the crash, SAM status, previous visitor details, contamination risks, long-term survival logistics, Buddy vs SAM capabilities, beacon/communications, etc.), but they are carried forward because this passage does not answer them. No prior promise except the central-facility/transport one is fully closed; many are further specified but still open. New narrative promises arise from the living architecture, the enforced orientation-before-care timeline, the stated Remedy efficacy window, the plants’ intent to ‘‘integrate’’ her (and list the collective as emergency contact), and Buddy’s cataloging role during intake.</reasoning>
+        <fulfilled>
+          <promise id="PLANT_CENTRAL_FACILITY_AND_TRANSPORT">Holloway insisted Kira be taken to a central facility; in this passage Kira is escorted into Central Coordination and the facility's nature (a living, woven-vine structure with bioluminescence, intake procedures, and on-site medical resources) and the method of transport/escort are shown—so the existence, immediate location, and basic conditions of the facility have been revealed.</promise>
+        </fulfilled>
+        <open>
+          <promise id="COORDINATES_MISMATCH__FORBIDDEN_APPROACH">Where they actually landed and why that destination is problematic remains unresolved; coordinates/strategic implications not addressed here.</promise>
+          <promise id="NAVIGATION_AND_STABILIZER_FAILURE__CAUSE">The root cause of the shuttle's systems failing (technical fault, external strike, sabotage, anomalous phenomenon) is still unknown.</promise>
+          <promise id="KEPLER_288_EXPECTATION">Whether this planet is the expected Kepler-288 (or another target) remains unconfirmed.</promise>
+          <promise id="SECRET_OR_ILLEGAL_MISSIONAL_REASON">Whether the mission was off-protocol or traveling to a forbidden destination (and attendant consequences) remains unresolved.</promise>
+          <promise id="SAM_OFFLINE__AI_STATUS_UNKNOWN">SAM's status (offline, damaged, salvageable, or compromised) is still unanswered; Buddy is active but SAM's condition remains unknown.</promise>
+          <promise id="INVESTIGATE_PILOTS_DEATH_CAUSE">The deaths of Jensen and Reed (and any other crew/casualties) and their specific causes remain unexplained.</promise>
+          <promise id="BIOHAZARD_SMELL__POTENTIAL_CONTAMINATION">Earlier indicators of a smell or contamination and their health/environmental implications have not been investigated here.</promise>
+          <promise id="EMERGENCY_AI_REPLACEMENT_PROTOCOL_EXISTS">Whether an emergency AI-replacement protocol was formally invoked and what its operational/legal effects are is still open.</promise>
+          <promise id="BUDDY_AI_PERSONALITY_AND_LIMITATIONS">Buddy's childlike pedagogy and practical limits remain relevant; here Buddy participates in intake and shows emotion but limitations in diagnostics/authority remain uncertain.</promise>
+          <promise id="BUDDY_CAPABILITIES_VS_SAM">Whether Buddy can replicate SAM's full capabilities (comms, diagnostics, strategic support, navigation) is still unresolved.</promise>
+          <promise id="NEURAL_LINK_COMPATIBILITY_AND_RISK">Potential risks from any earlier unfamiliar neural-link interactions (privacy, infection, control) are not addressed.</promise>
+          <promise id="WATER_SOURCE_ACCESSIBILITY_AND_QUALITY">The stream located earlier (water access and potability) is still unverified and Kira did not reach it.</promise>
+          <promise id="BEACON_REPAIR_OR_ALTERNATIVE_COMMS">The distress beacon's status and whether alternative communication/relay options exist remain unresolved.</promise>
+          <promise id="LIFE_SUPPORT_DURATION_AND_CONSEQUENCES">How long Kira's life-support options last and rescue timelines/consequences have not been determined.</promise>
+          <promise id="JOURNEY_TO_WATER_WITH_INJURY">Kira's interrupted plan to fetch water with an injured leg remains unresolved — the facility may alter the plan, but it is not yet resolved.</promise>
+          <promise id="SHUTTLE_SHELTER_VIABILITY">The shuttle's long-term viability as shelter or salvageable base is still unknown.</promise>
+          <promise id="LONG_TERM_SURVIVAL_PLAN_REQUIRED">A comprehensive plan for long-term survival (food, water, shelter, signaling, rescue strategy) is still outstanding.</promise>
+          <promise id="FOREST_APPEARS_MAINTAINED__IMPLIED_PRESENCE">The forest's maintained, organized character is reinforced by centralized plant activity, but the extent, purpose, and agents behind landscape maintenance remain to be explored.</promise>
+          <promise id="IMPACT_ON_WATER_JOURNEY_AND_MOVEMENT">The plant escort and intake process have already altered Kira's immediate movements; whether this prevents or delays access to earlier goals (water, shuttle) remains open.</promise>
+          <promise id="PLANT_BUREAUCRACY_AND_PROTOCOLS">The plants' rigid documentation-first approach and its limits/consequences are demonstrated further (intake, orientation before treatment) but whether protocol will endanger or help Kira in practice remains open.</promise>
+          <promise id="PREVIOUS_VISITOR_AND_MATERIALS">The plants learned human 'Standard' from a previous visitor's educational materials; who that visitor was, why materials were left, and their provenance remain unresolved.</promise>
+          <promise id="PREVIOUS_VISITOR_DEATH_CIRCUMSTANCES">Holloway referenced a prior human death that led to the HR-like learning; the specifics of that earlier incident remain unknown.</promise>
+          <promise id="PLANT_DOCUMENTATION_AND_DATA_USAGE">The plants clearly record intake on bark-forms and assign 'the collective' as an emergency contact, but how they store, share, and use personal data (and the privacy/legal consequences) remains unresolved.</promise>
+          <promise id="REMEDY_TREATMENT_EFFECTIVENESS_AND_LONG_TERM_HEALING">Remedy's application provided immediate relief; the passage adds an expected 6–8 hour efficacy window, but long-term healing, infection risk, and side effects are still unanswered.</promise>
+          <promise id="PLANT_INTENT_BEYOND_HELP">Although benevolent in tone, the plants' insistence on documentation and integration raises unresolved questions about motives (care vs containment/assimilation/experiment).</promise>
+          <promise id="LARGER_ROLLERS_FUNCTION">The larger rolling plants acted as escorts/observers; their full capabilities, roles, and whether they can be threats or allies remain unexplored.</promise>
+          <promise id="PLANT_CENTRAL_FACILITY_AND_TRANSPORT">(Fulfilled in this passage) Holloway insisted on transport to a central facility; Kira has been escorted into Central Coordination, whose living-vine architecture, intake processes, and on-site medical capabilities have been shown.</promise>
+          <promise id="ORIENTATION_DELAY_RISK_TO_MEDICAL_CARE">New: The orientation requirement (four hours of workplace safety training) before comprehensive medical evaluation creates a concrete promise to explore whether bureaucratic sequencing will harm Kira or create conflict with her medical needs.</promise>
+          <promise id="LIVING_FACILITY_CAPABILITIES_AND_LIMITS">New: The living, breathing woven-vine Central Coordination suggests numerous capabilities (on-site medicine, recordkeeping, growth/shaping). The passage promises further exploration of what the facility can do, its defenses, internal structure, and limits.</promise>
+          <promise id="REMEDY_EFFECTIVENESS_WINDOW">New: Remedy's stated 6–8 hour efficacy window is a concrete timeframe—promise to test whether that window is accurate and whether delayed care causes complications.</promise>
+          <promise id="POST_ORIENTATION_MEDICAL_EVALUATION">New: The plants have scheduled a comprehensive medical evaluation after orientation; the content, thoroughness, and outcome of that evaluation remain promised.</promise>
+          <promise id="COLLECTIVE_AS_EMERGENCY_CONTACT__DATA_USAGE_IMPLICATIONS">New: The plants volunteer to list 'the collective' as emergency contact and central coordinator — raises promises about who will act in emergencies, how decisions are made, and how Kira's data will be used.</promise>
+          <promise id="INTEGRATION_AND_SOCIAL_ASSIGNMENT_RISK">New: Repeated references to 'integration' and 'orientation' imply Kira may be offered or pressured into a long-term role within plant society — a promise to explore consequences for autonomy, status, and obligations.</promise>
+          <promise id="BUDDY_RECORDS_AND_ADVOCACY_ROLE">New: Buddy supplies training/medical records to the plants and volunteers as emergency contact; this creates a promise to explore Buddy's functional usefulness as an advocate, repository, and whether Buddy's capacities are sufficient for Kira's needs.</promise>
+        </open>
+      </narrative-promises>
+      <facts>
+        <reasoning>I extracted only new, potentially long-term facts (procedures, capabilities, and intentions) that are not already captured in the provided summary. I ignored transient scene details (e.g., Kira sitting, specific fruiting bodies in the room) and facts already listed in the summary. None of the facts in this passage contradict previously established facts; they mostly expand on the plants' bureaucratic behavior and record-keeping methods and confirm procedural priorities that could affect later plot points (e.g., delays to medical care, integration expectations).</reasoning>
+        <established>
+          <fact id="PLANTS_BARK_SHEET_DOCUMENTATION">The plant community produces physical written records by forming symbols pressed or carved into thin bark sheets for intake and record-keeping.</fact>
+          <fact id="PLANTS_ASSIGN_TEMPORARY_QUARTERS">The plants will assign temporary living quarters to displaced visitors as part of intake processing.</fact>
+          <fact id="PLANT_COLLECTIVE_SERVES_AS_EMERGENCY_CONTACT">The plant collective can be listed as an emergency contact for a human visitor and will coordinate responses if incidents occur.</fact>
+          <fact id="PLANTS_ORIENTATION_REQUIRED_BEFORE_COMPREHENSIVE_MEDICAL_EVALUATION">Plant protocol requires completion of a standard orientation (four hours) before scheduling or proceeding with a comprehensive medical evaluation, which can delay further care.</fact>
+          <fact id="PLANTS_INTEND_TO_INTEGRATE_CAPABLE_VISITORS">The plants frame incoming humans' skills and histories as useful for integration into their community and explicitly use the term and processes of 'integration'.</fact>
+          <fact id="PLANTS_DISTRIBUTED_DOCUMENTATION_PROCESS">Documentation and intake are handled collaboratively by multiple fruiting bodies/parts of the plant network (consulting and filing among distributed nodes) rather than a single organ.</fact>
+        </established>
+        <conflicts/>
+      </facts>
+      <timing>
+        <reasoning>
+          Temporal cues: The passage picks up with the party emerging into a clearing and immediately encountering Central Coordination, which directly continues the escort and movement started at the end of the previous passage. Remedy's temporary treatment has already been applied (mentioned earlier), and the narrator is still limping and answering intake questions. The passage covers arrival at the living facility, an intake/interview sequence (forms, medical history, skills, etc.), and the scheduling of orientation and a medical evaluation. There is explicit mention that orientation is four hours long and that Remedy's treatment should remain effective for six to eight hours; those are future timings referenced within the scene.
+
+          How much time passes in the passage: The events shown (walking into a clearing, entering the structure, sitting, filling out multiple intake sections with back-and-forth questioning, and then standing and moving toward the orientation chamber) plausibly take on the order of minutes to a few tens of minutes. No cues indicate an extended time-skip (hours) during the described intake sequence.
+
+          Relationship to the previous passage: The previous passage already had Remedy arrive and apply treatment and ended with the escort forming and “Lead the way.” This passage is the immediate continuation of that movement into the facility and the intake process. The narrator’s aside about limping “for—how long? An hour? Two?” reads as subjective fatigue, not a firm timestamp.
+
+          Potential timing issues: The only small tension is the narrator’s thought that they may have been limping “an hour? Two?” — that subjective estimate could conflict with the shorter elapsed time implied by the previous passage (where treatment and escort happened within a relatively brief window). However, that line reads like the narrator’s exhausted impression rather than a strict chronology. Otherwise, the timeline (minutes to tens of minutes for intake) is plausible, and the scheduling (orientation in four hours; Remedy treatment lasting 6–8 hours) is consistent within the scene.
+        </reasoning>
+        <starts>~01:10 (immediate continuation from previous passage around 01:08; a couple minutes later)</starts>
+        <ends>~01:30 (about 15–25 minutes after this passage begins)</ends>
+        <gap-from-previous>none / immediate continuation (a couple of minutes at most). The previous passage ended as the escort formed and they were moving toward the facility; this passage shows them arriving and completing intake paperwork — likely within a few minutes of the prior scene. What happened in the gap: walking into the clearing and taking the first few steps into the living structure.</gap-from-previous>
+        <plausibility>Plausible. Walking into a clearing and completing an intake/interview sequence (forms, medical-history questions, skills assessment) can reasonably take ~15–30 minutes, especially with an involved, multi-voiced alien bureaucracy and an AI assisting. The schedule references (orientation = 4 hours; Remedy treatment effective 6–8 hours) are internally consistent. The only minor inconsistency is the narrator’s subjective remark about limping “an hour? Two?”, which likely reflects exhaustion rather than an objective elapsed time and does not break plausibility.</plausibility>
+      </timing>
+      <characters>
+        <reasoning>Kira Voss is the first-person narrator and appears throughout. Holloway is present and speaking (via fruiting bodies) and conducts intake. Scout is physically present, bouncing and pressing against Kira's leg. Buddy speaks and provides data from Kira's records. Remedy is referenced as having applied the temporary treatment to Kira's leg. No new characters enter during this passage and no characters who were present earlier clearly leave before the passage ends. The scene takes place on the alien world, so Sector_7-Gamma-412_Planet is the relevant entity.</reasoning>
+        <present>
+          <character ref="/world/characters/Kira_Voss"/>
+          <character ref="/world/characters/Holloway"/>
+          <character ref="/world/characters/Scout"/>
+          <character ref="/world/characters/Buddy"/>
+          <character ref="/world/characters/Remedy"/>
+        </present>
+        <entities>
+          <entity ref="/world/entities/Sector_7-Gamma-412_Planet"/>
+        </entities>
+      </characters>
+    </summary>
+  </version>
+</versions>

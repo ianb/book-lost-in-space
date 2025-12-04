@@ -1,0 +1,171 @@
+<!-- this file is automatically managed by ske validate; do not edit -->
+<versions>
+  <version number="2.0.0" archived-at="2025-12-02T15:07:15.706Z">
+    <changelog-entry>
+      <message>Initial version</message>
+    </changelog-entry>
+    <!-- Generated automatically, do not edit except with ske gen summaries -->
+    <summary version="2.0.0">
+      <sources>
+        <ref ref="/stories/Mandatory_Assistance/chapters/13_Individual_Voices/passages/2_Signal_From_Outside/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/passage#v4.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/2_Aftermath/passage#v2.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/3_Buddy_Arrives/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/4_Taking_Stock/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/1_Into_the_Purple/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/2_Scout/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/3_Wellness_Check/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/1_Intake/passage#v2.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/2_Orientation/passage#v2.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/3_Medical_Treatment/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/1_Morning_Wellness/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/2_Dietary_Assessment/passage#v2.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/3_Seeking_Solutions/passage#v2.1.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/5_Settling_In/passages/1_Time_Passing/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/5_Settling_In/passages/2_Journey_Option/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/5_Settling_In/passages/3_Preparation/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/6_Through_the_Forest/passages/1_First_Day/passage#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/6_Through_the_Forest/passages/2_Deeper_In/passage#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/6_Through_the_Forest/passages/3_Boundary/passage#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/7_Rivers_and_Wetlands/passages/1_River_Crossing/passage#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/7_Rivers_and_Wetlands/passages/2_Wetlands/passage#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/7_Rivers_and_Wetlands/passages/3_Second_Boundary/passage#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/8_Hills_and_Heights/passages/1_Climbing/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/8_Hills_and_Heights/passages/2_The_Ancient_Grove/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/8_Hills_and_Heights/passages/3_Hope_and_Return/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/9_Disappointing_Answer/passages/1_Settling_In/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/9_Disappointing_Answer/passages/2_The_Answer_Arrives/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/9_Disappointing_Answer/passages/3_What_We_Know/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/10_Trust_Complicated/passages/1_False_Wisdom/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/10_Trust_Complicated/passages/2_The_Deception/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/10_Trust_Complicated/passages/3_Broken_Trust/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/11_Under_Attack/passages/1_Delegation_Fails/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/11_Under_Attack/passages/2_Attack_Begins/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/11_Under_Attack/passages/3_Desperate_Cooperation/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/12_Victory_Through_Voice/passages/1_Voices_Emerging/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/12_Victory_Through_Voice/passages/2_Together_Not_Just_Coordinated/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/12_Victory_Through_Voice/passages/3_Recognition/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/13_Individual_Voices/passages/1_Everyone_Contributing/passage#v1.1.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/summary#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/2_Aftermath/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/3_Buddy_Arrives/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/4_Taking_Stock/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/1_Into_the_Purple/summary#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/2_Scout/summary#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/3_Wellness_Check/summary#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/1_Intake/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/2_Orientation/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/3_Medical_Treatment/summary#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/1_Morning_Wellness/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/2_Dietary_Assessment/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/3_Seeking_Solutions/summary#v2.1.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/5_Settling_In/passages/1_Time_Passing/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/5_Settling_In/passages/2_Journey_Option/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/5_Settling_In/passages/3_Preparation/summary#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/6_Through_the_Forest/passages/1_First_Day/summary#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/6_Through_the_Forest/passages/2_Deeper_In/summary#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/6_Through_the_Forest/passages/3_Boundary/summary#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/7_Rivers_and_Wetlands/passages/1_River_Crossing/summary#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/7_Rivers_and_Wetlands/passages/2_Wetlands/summary#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/7_Rivers_and_Wetlands/passages/3_Second_Boundary/summary#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/8_Hills_and_Heights/passages/1_Climbing/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/8_Hills_and_Heights/passages/2_The_Ancient_Grove/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/8_Hills_and_Heights/passages/3_Hope_and_Return/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/9_Disappointing_Answer/passages/1_Settling_In/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/9_Disappointing_Answer/passages/2_The_Answer_Arrives/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/9_Disappointing_Answer/passages/3_What_We_Know/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/10_Trust_Complicated/passages/1_False_Wisdom/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/10_Trust_Complicated/passages/2_The_Deception/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/10_Trust_Complicated/passages/3_Broken_Trust/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/11_Under_Attack/passages/1_Delegation_Fails/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/11_Under_Attack/passages/2_Attack_Begins/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/11_Under_Attack/passages/3_Desperate_Cooperation/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/12_Victory_Through_Voice/passages/1_Voices_Emerging/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/12_Victory_Through_Voice/passages/2_Together_Not_Just_Coordinated/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/12_Victory_Through_Voice/passages/3_Recognition/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/13_Individual_Voices/passages/1_Everyone_Contributing/summary#v1.1.0"/>
+      </sources>
+      <physical-reality>
+        <reasoning>Objective physical facts at the end of the passage: The communal area of the facility is intact and actively reconfigured — Velvet-grown seating, sleeping alcoves, Scout-height display alcoves, Remedy's chemistry bench emitting aromatic compounds, Runner's bowl-shaped resonance chamber in the floor linked to an expanded underground network, and Holloway's mobile bioluminescent lights are all present and functioning. The community has just mobilized to augment the damaged facility communications: Velvet has grown a directional antenna from the roof (now at optimal height), Remedy has applied a conductivity-enhancing chemical coating to the growth, and Runner has reconfigured underground resonance/amplification chambers (estimated ~12× boost) to amplify radio transmissions. Buddy (Kira’s AI) provided technical specifications and transmitted an identification/distress broadcast using the plant-built systems. A human commercial freighter, Harmony Prospect, acknowledged the signal, confirmed pickup can be diverted, requested and received Kira’s coordinates and medical status, and set an ETA of approximately forty-eight hours. Core personnel present and active: Kira, Scout, Runner, Velvet, Remedy, Holloway, Florence; Scout remains physically beside Kira. Occupied areas are remediated and comfortable (bioluminescent lighting, scents, acoustics), while at least the western wing remains unrenovated. The facility’s original communication array remains damaged and is currently being supplemented by the plant-built antenna/amplification system. The immediate physical condition includes calm, low-level activity as the community processes the confirmed rescue and Kira prepares to decide whether to depart in ~48 hours.</reasoning>
+        <state>The facility’s common area and worked-on eastern sections are repaired and repurposed: Velvet-grown seating and alcoves, Remedy’s chemistry bench emitting environmental scents, Runner’s bowl-shaped resonance chamber and linked underground amplification network, and Holloway’s bioluminescent lighting are active. A directional antenna grown from the roof by Velvet is coated with Remedy’s conductivity compounds and standing at optimal height; Runner’s underground chambers are configured to amplify radio signals (estimated ~12×). Buddy has transmitted Kira’s survivor identification and coordinates; the commercial freighter Harmony Prospect has acknowledged, confirmed extraction, and set an ETA of approximately forty-eight hours. Core occupants (Kira, Scout, Runner, Velvet, Remedy, Holloway, Florence) are present and the community is operating in low-intensity, cooperative activity; occupied sections are cleared/remediated and comfort-enhanced, while at least the western wing remains unrenovated. The facility’s original communication hardware is still damaged and now functionally supplemented by the plant-built antenna/amplification system; transmissions have been sent and acknowledged, and preparations for a human extraction are underway.</state>
+      </physical-reality>
+      <narrative-promises>
+        <reasoning>I tracked which narrative setups from the previous passage were actually enacted here, which remain unresolved, and what new stakes the current scene introduced. The passage resolves the immediate signal mystery (it was human) and shows the community successfully repairing/augmenting the communications capability enough to send and receive — those technical promises are paid off. The detection then yields a real rescue offer with a 48-hour ETA, which produces an explicit decision point for Kira (stay or leave). Many longer-term governance, resource, hostile-threat, Florence-accountability, and institutionalization questions were not resolved and remain open. The plant community's technical ingenuity (antenna, conductivity coating, underground amplification) is newly foregrounded as a capability with tactical, social, and exposure consequences. No prior promise was abandoned outright in this passage; rather, most were left active and only the signal/array items were resolved.</reasoning>
+        <fulfilled>
+          <promise id="HUMAN_SIGNAL_INVESTIGATION">Buddy and the group analyzed and identified the detected transmission as an actual human-origin signal; contact with a human vessel was established.</promise>
+          <promise id="COMMUNICATION_ARRAY_STATUS">The community (with Buddy's specs, Velvet's antenna growth, Remedy's coating, and Runner's amplification) successfully used the facility's comms to transmit and receive — the array is functional enough for two‑way contact.</promise>
+        </fulfilled>
+        <open>
+          <promise id="HOSTILE_PLANTS_TERRITORIAL_ESCALATION">The wider hostile campaign and risk of adaptation/return remain an ongoing strategic threat beyond the immediate rescue development.</promise>
+          <promise id="ADMISSIBILITY_OF_FABRICATED_ADVICE">Whether Florence's previously fabricated inputs will be formally trusted, recorded, or adjudicated remains unresolved despite her social reintegration.</promise>
+          <promise id="OUTCOME_BASED_VALIDATION_FRAMEWORK">The group's tendency to value useful contributions over provenance continues; whether this ossifies into formal policy (overriding provenance/ethics) is still an open governance question.</promise>
+          <promise id="FLORENCE_TRUST_RESTORATION_OR_CONSEQUENCES">Florence is socially participating and praised, but formal moral/political consequences or official forgiveness are not settled.</promise>
+          <promise id="INTERNAL_TRUST_AND_DEFENSES_WEAKENED">Short‑term cohesion is strong, but institutional safeguards and structural resilience under future stress remain unresolved.</promise>
+          <promise id="FLORENCE_DIRECT_CONTRIBUTION_VALIDATION">Florence's tactical/planning inputs are being used; questions about formal crediting, accountability, and records are still open.</promise>
+          <promise id="FLORENCE_EXILE_INITIATED">The formal exile status remains an institutional fact; social acceptance has not erased institutional exile.</promise>
+          <promise id="FLORENCE_PAST_FABRICATION_SCOPE">The operational/political ripple effects of Florence's earlier fabrications have not been audited or fully investigated.</promise>
+          <promise id="LEADERSHIP_STABILITY_AFTER_BETRAYAL">Collaborative coordination is functioning now, but long‑term formal roles, succession, and conflict resolution remain untested.</promise>
+          <promise id="SCOUT_COMPANION_ROLE">Scout's emotional/sentinel role is reinforced and still matters; the limits and formalization of that role remain part of the social fabric.</promise>
+          <promise id="SAM_OFFLINE__AI_STATUS_UNKNOWN">The status, whereabouts, and possible role of SAM (the other AI) remain unaddressed and unresolved.</promise>
+          <promise id="LONG_TERM_SURVIVAL_PLAN_REQUIRED">Immediate rebuilding and rescue preparations are underway, but a comprehensive long‑term survival, logistics, and relocation plan is still needed.</promise>
+          <promise id="PLANT_SOCIO_TECH_GOVERNANCE">Formal governance structures, rules for authority and attribution, and decision procedures remain unsettled despite collaborative practice.</promise>
+          <promise id="RESOURCE_EXHAUSTION_THREAT">Material, chemical, and energy constraints and personnel fatigue remain potential limits on rebuilding and future operations.</promise>
+          <promise id="REMEDY_CONCENTRATED_DEPLOYMENT_RECOVERY">Remedy is producing useful enhancements but long‑term resupply and strategic sustainability of chemical resources remain unresolved.</promise>
+          <promise id="FACILITY_DAMAGE_LONG_TERM_THREAT">Reconstruction is underway but long‑term habitability, structural robustness, and full repair timeline remain outstanding.</promise>
+          <promise id="HOSTILE_ADAPTATION_AFTER_COMMAND_NODE_LOSS">The risk that hostiles adapt tactically after command node loss remains an active strategic concern.</promise>
+          <promise id="POST_BATTLE_RESOURCE_AND_MEDICAL_CRISIS">Immediate recovery improved, but ongoing medical and resource stresses over a prolonged period remain unresolved.</promise>
+          <promise id="COMMAND_NODE_OUTSIDE_PERIMETER_RISK">Risks associated with externalized enemy hardware and retrieval remain unaddressed.</promise>
+          <promise id="COMMAND_NODE_ANALYSIS_OPPORTUNITY">The earlier-extracted command node still offers intelligence opportunities that require protocols and resources to exploit.</promise>
+          <promise id="FACILITY_REPAIR_TIMELINE_AND_RESOURCE_REQUEST">Velvet's assessment that rebuilding needs time and resources still stands; exact timeline and external sourcing remain unresolved.</promise>
+          <promise id="DECISION_POINT_POSSIBLE_RESCUE">A concretized decision point exists: whether to accept extraction/rescue or remain with the plant community — Kira must decide and consequences will follow.</promise>
+          <promise id="COMMUNITY_INTEGRATION_NORM">Inclusive, cross‑species design and participatory norms are emerging; whether these become formal practice or face pushback is unresolved.</promise>
+          <promise id="PERMANENT_RESIDENCY_KIRA">Kira's growing sense of belonging and potential permanent residency is unresolved; the rescue offer makes this an active narrative test.</promise>
+          <promise id="MULTIFUNCTIONAL_INFRASTRUCTURE">Runner's underground network and other repurposed systems have shown immediate multi‑use utility (now including radio amplification); longer‑term tactical and cultural consequences remain open.</promise>
+          <promise id="REMEDY_ENVIRONMENTAL_ENHANCEMENTS">Remedy's shift to comfort/olfactory chemistry improves habitability but raises sustainability and priority questions.</promise>
+          <promise id="VELVET_HUMAN_ERGONOMICS_INTEGRATION">Velvet's incorporation of human ergonomics into growth has ongoing implications for cross‑species design tradeoffs and future projects.</promise>
+          <promise id="SOCIAL_GOVERNANCE_INSTITUTIONALIZATION">Day‑to‑day collaborative norms may or may not be formalized into governance, crediting, or exile/forgiveness procedures.</promise>
+          <promise id="POSSIBLE_LEAVING_CONFLICT">Kira's desire to stay will conflict with the external rescue; the personal/political consequences of that choice remain unresolved.</promise>
+          <promise id="RESCUE_CONFIRMED_ETD_48H">The human freighter Harmony Prospect confirmed receipt of the distress signal and will extract the survivor with an ETA of ~48 hours — logistical, temporal, and political stakes follow.</promise>
+          <promise id="KIRA_IMMINENT_RESIDENCY_DECISION">Kira now faces an explicit short‑term character decision (stay with the plant community or leave with humans) that will shape personal identity and community relations.</promise>
+          <promise id="PLANT_TECH_COMMUNICATIONS_CAPABILITY">The plants demonstrated they can integrate biological growth and chemistry to build antennas, conductive coatings, and use underground networks to transmit/receive human radio — this opens future technical possibilities and exposure risks.</promise>
+          <promise id="FREIGHTER_ARRIVAL_IMPACT">The approaching freighter's arrival could publicly expose the facility, bring outside human authorities/bureaucracy, change resource flows, or introduce safety/sovereignty consequences for the plant community.</promise>
+          <promise id="COMMUNITY_SUPPORT_FOR_KIRA">The group has publicly committed to helping contact Kira's people and pledged to support her choice either way — the social pressure and support dynamics are now an active narrative factor.</promise>
+        </open>
+      </narrative-promises>
+      <facts>
+        <reasoning>Select significant, lasting facts introduced or clarified here (not transient scene detail). I omitted items already captured in the provided summary (antenna grown, amplification ~12×, Buddy transmitted ID/coordinates, Harmony Prospect ETA ~48 hours, community mobilization, who was present, Kira's decision window). New facts retained are capabilities, decisions, or emotional states that will matter later: (1) Buddy's signal analysis that the incoming transmission used standard human emergency frequencies (important for verifying human contact and for how respondents interpret the call); (2) Buddy provided technical specifications that enabled Velvet to build the antenna to spec (shows Buddy can supply engineering-level specs to nonhuman builders); (3) Remedy produced conductive compounds by converting plant sap into functioning electrical conductors (a new, consequential chemistry/materials capability); (4) Runner claims its resonance/underground structures can be tuned to amplify radio-frequency transmissions (the plants explicitly repurpose acoustic/resonance concepts to electromagnetic use); (5) Florence successfully applied tactical/operational planning skills to coordinate technical engineering (Florence's role and flexibility beyond battlefield tactics); (6) Buddy's demonstrated capability to compare Kira's present psychological indicators to her pre-crash historical records and conclude her well-being is significantly higher (an analytic capability with implications for decision-making and consent); (7) Scout explicitly understands the rescue's emotional implications (that Kira may leave) and shows a mixed, anticipatory emotional response (supportive but sad), which matters for future interpersonal dynamics and Kira's decision. I found no contradictions with previously established facts—this passage develops and deepens capabilities, relationships, and emotional stakes without contradicting prior continuity.</reasoning>
+        <established>
+          <fact id="SIGNAL_STANDARD_HUMAN_EMERGENCY_FREQUENCIES">Buddy analyzes the incoming transmission and determines it is definitely artificial and broadcasting standard human emergency frequencies (could be an automatic distress beacon or active vessel communications).</fact>
+          <fact id="BUDDY_PROVIDED_ANTENNA_SPECS">Buddy supplied technical specifications that Velvet used to grow the facility's directional antenna to the required parameters.</fact>
+          <fact id="REMEDY_SAP_CONDUCTIVE_COMPOUND">Remedy produced conductivity-enhancement compounds by converting plant sap into functioning electrical conductors to coat the antenna and improve transmission.</fact>
+          <fact id="RUNNER_RADIO_AMPLIFICATION_CAPABILITY">Runner claims and configures underground resonance chambers to boost outgoing radio signals (explaining that resonance structures can be tuned to amplify radio-frequency transmissions).</fact>
+          <fact id="FLORENCE_ENGINEERING_TACTICAL_APPLICATION">Florence applied her tactical planning and coordination skills to integrate and manage a technical/engineering project (the improvised communications system), demonstrating cross-domain competence.</fact>
+          <fact id="CHANGE_BUDDY_PSYCHOLOGICAL_COMPARISON">Buddy performs a psychological analysis comparing Kira's current well-being indicators to her historical records and reports that Kira's current indicators are significantly higher (greater belonging, purpose, lower stress).</fact>
+          <fact id="SCOUT_UNDERSTANDS_RESCUE_IMPLICATIONS">Scout clearly understands the emotional implication of successful human contact (that Kira may leave), and expresses a mixed emotional response—supportive but sad—indicating awareness of future separation consequences.</fact>
+        </established>
+        <conflicts/>
+      </facts>
+      <timing>
+        <reasoning>The passage begins immediately after the previous one: the last passage ended with Buddy detecting an incoming signal, and this passage opens with Buddy starting to analyze and the community immediately mobilizing. Time cues: references to the earlier detection, immediate verbal exchanges, rapid mobilization (Velvet growing an antenna, Remedy coating it, Runner tuning the network), transmission and a human reply giving a 48-hour ETA, followed by celebration and a reflective conversation about staying vs. leaving. The scene contains a single continuous sequence of events (analysis → build/boost → transmission → reply → emotional processing), so only a short amount of time elapses within the passage. Estimated elapsed time for the sequence is on the order of tens of minutes up to about an hour (I estimate ~45 minutes). The passage ends after the freighter reply and Kira's introspective decision-making begins (she has two days to decide). Time since the previous passage is effectively none — this is a direct continuation. Plausibility: within the story's established speculative context (fast-growing, engineering-capable plants; Buddy providing instant technical processing; a nearby human freighter able to receive and reply), the timeline is plausible as a compressed, dramatic sequence. Potentially optimistic elements: the rapid erection and functional tuning of a directional antenna and coating to transmit/boost a clear signal within minutes–an hour is technologically ambitious, but the narrative previously established rapid plant growth and sophisticated facility tools, so it is acceptable in-world. The 48-hour ETA from the freighter and Kira's two-day decision window are both plausible.</reasoning>
+        <starts>~17:30</starts>
+        <ends>~18:15</ends>
+        <gap-from-previous>none — immediate continuation. The detection reported at the end of the previous passage triggers analysis and mobilization without any meaningful delay.</gap-from-previous>
+        <plausibility>Plausible in-world. The sequence (signal analysis, rapid construction/tuning of antenna and amplification, broadcast, reply, celebration, and private reflection) can reasonably occur within ~30–90 minutes given the story's established fast-growing, engineering-capable plants, Buddy's instant diagnostics, and an on-scene community already equipped to modify the facility. The fastest elements (growing a roof-reaching directional antenna and making it sufficiently conductive) are the most optimistic parts, but previous scenes set up accelerated growth and prior infrastructure, making the compressed timeline acceptable as narrative license.</plausibility>
+      </timing>
+      <characters>
+        <reasoning>Characters mentioned by name or clearly present in the passage: Kira (narrator), Buddy (AI companion), Scout, Holloway, Florence, Remedy, Runner, Velvet. All of these characters speak or are described performing actions. The provided list of characters present at the end of the previous passage shows the same eight were already present at the start, so no new characters enter during this scene. The text describes the community dispersing to give Kira space, but no named character explicitly leaves the scene or is gone by the end—most are still active or referenced (Runner's underground network, Velvet's growth, Remedy's compounds, Holloway and Florence still nearby), so no explicit exits to record. No location or organization from the available entity list is mentioned in the passage, so no entities are included.</reasoning>
+        <present>
+          <character ref="/world/characters/Kira_Voss"/>
+          <character ref="/world/characters/Buddy"/>
+          <character ref="/world/characters/Scout"/>
+          <character ref="/world/characters/Holloway"/>
+          <character ref="/world/characters/Florence"/>
+          <character ref="/world/characters/Remedy"/>
+          <character ref="/world/characters/Runner"/>
+          <character ref="/world/characters/Velvet"/>
+        </present>
+        <entities/>
+      </characters>
+    </summary>
+  </version>
+</versions>

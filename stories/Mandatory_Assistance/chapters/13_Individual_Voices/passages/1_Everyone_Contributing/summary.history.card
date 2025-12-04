@@ -1,0 +1,181 @@
+<!-- this file is automatically managed by ske validate; do not edit -->
+<versions>
+  <version number="1.1.0" archived-at="2025-12-02T15:07:15.690Z">
+    <changelog-entry>
+      <message>Initial version</message>
+    </changelog-entry>
+    <!-- Generated automatically, do not edit except with ske gen summaries -->
+    <summary version="1.1.0">
+      <sources>
+        <ref ref="/stories/Mandatory_Assistance/chapters/13_Individual_Voices/passages/1_Everyone_Contributing/passage#v1.1.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/passage#v4.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/2_Aftermath/passage#v2.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/3_Buddy_Arrives/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/4_Taking_Stock/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/1_Into_the_Purple/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/2_Scout/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/3_Wellness_Check/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/1_Intake/passage#v2.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/2_Orientation/passage#v2.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/3_Medical_Treatment/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/1_Morning_Wellness/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/2_Dietary_Assessment/passage#v2.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/3_Seeking_Solutions/passage#v2.1.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/5_Settling_In/passages/1_Time_Passing/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/5_Settling_In/passages/2_Journey_Option/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/5_Settling_In/passages/3_Preparation/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/6_Through_the_Forest/passages/1_First_Day/passage#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/6_Through_the_Forest/passages/2_Deeper_In/passage#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/6_Through_the_Forest/passages/3_Boundary/passage#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/7_Rivers_and_Wetlands/passages/1_River_Crossing/passage#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/7_Rivers_and_Wetlands/passages/2_Wetlands/passage#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/7_Rivers_and_Wetlands/passages/3_Second_Boundary/passage#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/8_Hills_and_Heights/passages/1_Climbing/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/8_Hills_and_Heights/passages/2_The_Ancient_Grove/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/8_Hills_and_Heights/passages/3_Hope_and_Return/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/9_Disappointing_Answer/passages/1_Settling_In/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/9_Disappointing_Answer/passages/2_The_Answer_Arrives/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/9_Disappointing_Answer/passages/3_What_We_Know/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/10_Trust_Complicated/passages/1_False_Wisdom/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/10_Trust_Complicated/passages/2_The_Deception/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/10_Trust_Complicated/passages/3_Broken_Trust/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/11_Under_Attack/passages/1_Delegation_Fails/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/11_Under_Attack/passages/2_Attack_Begins/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/11_Under_Attack/passages/3_Desperate_Cooperation/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/12_Victory_Through_Voice/passages/1_Voices_Emerging/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/12_Victory_Through_Voice/passages/2_Together_Not_Just_Coordinated/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/12_Victory_Through_Voice/passages/3_Recognition/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/summary#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/2_Aftermath/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/3_Buddy_Arrives/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/4_Taking_Stock/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/1_Into_the_Purple/summary#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/2_Scout/summary#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/3_Wellness_Check/summary#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/1_Intake/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/2_Orientation/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/3_Medical_Treatment/summary#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/1_Morning_Wellness/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/2_Dietary_Assessment/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/3_Seeking_Solutions/summary#v2.1.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/5_Settling_In/passages/1_Time_Passing/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/5_Settling_In/passages/2_Journey_Option/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/5_Settling_In/passages/3_Preparation/summary#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/6_Through_the_Forest/passages/1_First_Day/summary#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/6_Through_the_Forest/passages/2_Deeper_In/summary#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/6_Through_the_Forest/passages/3_Boundary/summary#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/7_Rivers_and_Wetlands/passages/1_River_Crossing/summary#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/7_Rivers_and_Wetlands/passages/2_Wetlands/summary#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/7_Rivers_and_Wetlands/passages/3_Second_Boundary/summary#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/8_Hills_and_Heights/passages/1_Climbing/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/8_Hills_and_Heights/passages/2_The_Ancient_Grove/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/8_Hills_and_Heights/passages/3_Hope_and_Return/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/9_Disappointing_Answer/passages/1_Settling_In/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/9_Disappointing_Answer/passages/2_The_Answer_Arrives/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/9_Disappointing_Answer/passages/3_What_We_Know/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/10_Trust_Complicated/passages/1_False_Wisdom/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/10_Trust_Complicated/passages/2_The_Deception/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/10_Trust_Complicated/passages/3_Broken_Trust/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/11_Under_Attack/passages/1_Delegation_Fails/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/11_Under_Attack/passages/2_Attack_Begins/summary#v2.0.0"/>
+      </sources>
+      <physical-reality>
+        <reasoning>Three weeks after the battle the facility has been actively rebuilt and repurposed by the plant community. The common area (where the narrator stands) is physically transformed: a bowl‑shaped depression in the floor now functions as a resonance chamber connected to Runner’s underground network; Velvet’s growth has been shaped into ergonomic seating, alcoves, and mossed sleeping areas; Scout-sized alcoves in a wall contain curated objects; Remedy has a functioning chemistry/workbench producing aromatic/environmental compounds; Holloway provides bioluminescent lighting and moves between work sites; Florence’s wheeled platform is present and mobile. The underground network has been extended beyond transport/communication into acoustic and connective architecture with planned connection points into Velvet’s spaces. Eastern sections are reported structurally complete; many formerly damaged areas (at least all inhabited/repaired communal spaces) show cleared debris and made‑safe surfaces and are comfortable enough for rest and testing. The central core no longer contains the hostile command node (it was removed earlier and remains outside the perimeter) and appears stabilized or being redesigned rather than actively occupied by hostile material; however at least one wing (the western wing) remains to be renovated—plans to start it tomorrow are in place. A communication array is active and has just detected an artificial signal of possible human origin. Environmental conditions in the occupied areas are pleasant: bioluminescent lighting, pleasant scents from Remedy’s compounds, tuned acoustics in resonance chambers, appropriate temperatures and ergonomics. Plant injuries and resource depletion from the battle have largely recovered enough for active construction and creative work, though community members are still tired from rebuilding. The scene ends with beings gathered in comfortable silence and an active, unresolved external signal detected by the communication array.</reasoning>
+        <state>Three weeks after the battle, the facility’s common area and eastern sections are largely repaired and repurposed: Velvet‑grown seating, moss sleeping alcoves, and Scout‑height display alcoves line the walls; a bowl‑shaped resonance chamber in the floor links to Runner’s expanded underground network of acoustic/communication chambers; Remedy’s chemistry bench emits new aromatic/environmental compounds; Holloway’s bioluminescent lighting is installed and mobile; Florence’s wheeled platform and the core personnel (Kira, Scout, Runner, Velvet, Remedy, Holloway, Florence) are present and recuperating in the refurbished communal spaces. Debris and toxic residues appear cleared or remediated in occupied areas, though at least the western wing remains unrenovated and the facility still bears the legacy of prior structural damage elsewhere. The hostile command node removed earlier remains outside the facility perimeter. The communication array is active and has just detected an artificial (possibly human) signal. Overall atmosphere: physically comfortable, acoustically and olfactorily tuned spaces, repaired structural integrity in worked‑on sections, active underground network and building projects continuing, with a new external signal creating immediate uncertainty.</state>
+      </physical-reality>
+      <narrative-promises>
+        <reasoning>Three weeks after the battle the community has moved from crisis improvisation into sustained collaborative reconstruction. That resolves several of the open questions from the previous passage (delegation/collective decisionmaking, trust momentum, Runner's recovery, Florence shifting to collaborative leadership) and also produces clear new narrative hooks (an unexpected artificial signal, Kira's desire to stay, multifunctional rebuild projects that double as infrastructure/sensors, and the question of whether the new inclusive norms will be formalized). I treated promises as "fulfilled" where the passage clearly enacted or resolved the previously-open issue, "carried forward" where the problem or question remains material and unresolved, and "lapsed" where an earlier open promise was explicitly rendered moot or abandoned (none in this passage are clearly abandoned). New promises are the concrete, narratively-significant setups introduced here (signal arrival and the social/political decisions it will force; institutionalization of collaborative design; multi-use infrastructure and livability projects that create new technical and governance dependencies; Kira's personal stake).</reasoning>
+        <fulfilled>
+          <promise id="DELEGATION_EXPERIMENTAL_LESSON">The decentralized decision‑making the group experimented with in battle is now being practiced as the working model for reconstruction—projects are run by committee, individuals contribute and design, and Florence no longer commands unilaterally.</promise>
+          <promise id="COLLECTIVE_DECISIONMAKING_PRECEDENT">The precedent set during the crisis—consensus/collaborative problem solving—has been adopted in rebuilding and is actively shaping facility design and priorities.</promise>
+          <promise id="TIME_PRESSURE_ON_TRUST_REPAIR">Trust repairs that occurred under crisis conditions have persisted into the non‑crisis weeks: the group continues to cooperate and to integrate previously excluded members.</promise>
+          <promise id="TRUST_BUILDING_MOMENTUM">Momentum toward mutual recognition and inclusion continues three weeks later: social practices that reinforce trust are ongoing (shared design, acknowledgement of contributions).</promise>
+          <promise id="RUNNER_INJURY_IMPACTS_DEFENSE">Runner has recovered enough to lead creative infrastructure projects (resonance chambers); the immediate tactical vulnerability implied by their earlier injury is no longer manifest.</promise>
+          <promise id="BEACON_REPAIR_OR_ALTERNATIVE_COMMS">The communications array (or some external receiver) is functioning to the extent that Buddy detects an artificial signal—external communications are no longer wholly unaddressed and a concrete contact opportunity exists.</promise>
+          <promise id="FLORENCE_COLLABORATIVE_LEADERSHIP">Florence is actively participating as one voice among many, consulting on design and defense rather than controlling; collaborative leadership is in practice.</promise>
+          <promise id="FLORENCE_DEFACTO_COMMAND_DURING_CRISIS">The uncertainty about whether Florence would remain the de facto commander has been resolved: she no longer monopolizes command and has shifted into a collaborative role.</promise>
+          <promise id="POSSIBLE_FOUNDATION_FOR_FORGIVENESS">Social integration and explicit inclusion of Florence indicate that the fragile foundation for reconciliation has grown into an active social reality (the group is treating her as integral to community function).</promise>
+        </fulfilled>
+        <open>
+          <promise id="HOSTILE_PLANTS_TERRITORIAL_ESCALATION">The larger hostile campaign remains a strategic threat beyond this engagement; the passage does not remove the long‑term territorial risk of the hostiles adapting or returning.</promise>
+          <promise id="ADMISSIBILITY_OF_FABRICATED_ADVICE">The normative question of when Florence's prior fabricated advice should be trusted or formally admitted into records/strategy remains unresolved (social acceptance is happening, but institutional rules for admissibility are not set).</promise>
+          <promise id="OUTCOME_BASED_VALIDATION_FRAMEWORK">The group is visibly valuing present contributions and successful outcomes; whether this will calcify into an explicit norm (overriding provenance/ethics) remains an open governance question.</promise>
+          <promise id="FLORENCE_TRUST_RESTORATION_OR_CONSEQUENCES">Florence is socially integrated, but formal political and moral consequences for her past betrayals (records, official status, institutional forgiveness or penalties) remain unresolved—exile has not been formally rescinded.</promise>
+          <promise id="INTERNAL_TRUST_AND_DEFENSES_WEAKENED">Short‑term cohesion has improved, but underlying governance fragilities and the risk that social or structural defenses could weaken under stress still need monitoring and possible institutional safeguards.</promise>
+          <promise id="FLORENCE_DIRECT_CONTRIBUTION_VALIDATION">Florence's tactical contributions are being used and praised informally; questions about formal crediting, accountability, and recordkeeping for her past and current inputs remain open.</promise>
+          <promise id="FLORENCE_EXILE_INITIATED">Florence's formal exile still exists as an institutional fact; social inclusion has not been accompanied by an explicit formal rescinding of exile.</promise>
+          <promise id="FLORENCE_PAST_FABRICATION_SCOPE">The full operational and political effects of Florence's earlier fabrications have not been audited or investigated; the scope of downstream consequences remains unknown.</promise>
+          <promise id="LEADERSHIP_STABILITY_AFTER_BETRAYAL">Leadership reconfiguration toward collaborative coordination appears stable in practice, but whether this stability will hold long‑term (formal roles, succession, conflict management) remains open.</promise>
+          <promise id="SCOUT_COMPANION_ROLE">Scout's role as sentinel and emotional anchor is reinforced and continues to matter; their ongoing function and possible limits remain part of the group's social fabric.</promise>
+          <promise id="SAM_OFFLINE__AI_STATUS_UNKNOWN">The status and potential role of SAM (the other AI) remain unaddressed in this passage and are unresolved.</promise>
+          <promise id="LONG_TERM_SURVIVAL_PLAN_REQUIRED">Immediate reconstruction is underway, but a comprehensive long‑term plan (relocation options, stockpiles, logistics, governance) is still required and unresolved.</promise>
+          <promise id="PLANT_SOCIO_TECH_GOVERNANCE">Formal governance structures, rules for authority, attribution, and decision procedures are still unsettled despite successful collaborative practice; institutionalization remains open.</promise>
+          <promise id="RESOURCE_EXHAUSTION_THREAT">Although productivity and creativity are high, material/resource constraints (building materials, chemical resupply, energy) and personnel fatigue remain potential limits the passage does not resolve.</promise>
+          <promise id="REMEDY_CONCENTRATED_DEPLOYMENT_RECOVERY">Remedy is producing new compounds and enhancements, but questions about resupply of crucial defensive/medicinal chemicals and long‑term strategic sustainability remain open.</promise>
+          <promise id="FACILITY_DAMAGE_LONG_TERM_THREAT">Rebuilding is in progress, but the long‑term habitability, structural robustness, and timeline/resource needs for full repairs remain outstanding.</promise>
+          <promise id="HOSTILE_ADAPTATION_AFTER_COMMAND_NODE_LOSS">There is still the risk the hostiles will adapt to the command node loss (decentralize, change tactics); nothing in the passage eliminates that threat.</promise>
+          <promise id="POST_BATTLE_RESOURCE_AND_MEDICAL_CRISIS">Immediate triage and recovery have improved, but ongoing medical/resource stresses—especially for prolonged recovery—remain a potential concern.</promise>
+          <promise id="COMMAND_NODE_OUTSIDE_PERIMETER_RISK">The command node remains outside the perimeter; risks associated with externalized enemy hardware (retrieval by hostiles, contamination, or study) remain unaddressed here.</promise>
+          <promise id="COMMAND_NODE_ANALYSIS_OPPORTUNITY">Because the node was extracted intact earlier, the opportunity to analyze it and gain intelligence still exists but requires protocols and resources that are not discussed in this passage.</promise>
+          <promise id="FACILITY_REPAIR_TIMELINE_AND_RESOURCE_REQUEST">Velvet's earlier assessment that rebuilding requires time and resources is still relevant: the passage shows reconstruction underway but does not settle timeline or external resource sourcing.</promise>
+          <promise id="HUMAN_SIGNAL_INVESTIGATION">A new artificial signal has been detected on the communication array; it must be investigated: origin, intent, and authenticity are open and may change everything (rescue, threat, deception).</promise>
+          <promise id="DECISION_POINT_POSSIBLE_RESCUE">The detected signal creates a near‑term decision point: whether to respond/pursue contact or to avoid exposure—this choice will force social, strategic, and moral consequences for the community and for Kira personally.</promise>
+          <promise id="COMMUNITY_INTEGRATION_NORM">The passage sets up an emergent norm of designing community spaces inclusively (human ergonomics, sensory design). Whether this normative practice will be formally codified, resisted, or altered is unresolved.</promise>
+          <promise id="PERMANENT_RESIDENCY_KIRA">Kira's newfound sense of belonging and decision not to want to leave establishes a narrative promise: Kira's long‑term residency and the personal and political implications (especially if rescue becomes available) need to be tested.</promise>
+          <promise id="MULTIFUNCTIONAL_INFRASTRUCTURE">Runner's repurposed underground network (resonance chambers) and other rebuild projects are being designed as multi‑use systems (aesthetic, social, and potentially sensor/early‑warning infrastructure)—the possible tactical and cultural consequences are open.</promise>
+          <promise id="REMEDY_ENVIRONMENTAL_ENHANCEMENTS">Remedy's shift toward comfort/olfactory compounds promises better habitability and quality of life, but also raises sustainability and prioritization questions (resource cost vs. survival needs).</promise>
+          <promise id="VELVET_HUMAN_ERGONOMICS_INTEGRATION">Velvet's deliberate design choices to accommodate human physiology create an ongoing promise about cross‑species design tradeoffs and how human needs will be balanced in future projects.</promise>
+          <promise id="SOCIAL_GOVERNANCE_INSTITUTIONALIZATION">Because day‑to‑day practice now reflects collaborative norms, there is an open narrative question whether the group will formalize new governance, crediting, and exile/forgiveness procedures or leave them informal and fragile.</promise>
+          <promise id="POSSIBLE_LEAVING_CONFLICT">Kira's desire to stay will come into tension with any external rescue/contact option signaled by the communication array—this personal/political conflict is set up as a forthcoming choice.</promise>
+          <promise id="COMMUNICATION_ARRAY_STATUS">The detection of an artificial signal raises the promise of assessing the array's integrity and range: is the array repaired, hijacked, or simply receiving legitimate human transmissions? This technical diagnosis is unresolved.</promise>
+        </open>
+      </narrative-promises>
+      <facts>
+        <reasoning>I selected facts that change the long-term social or functional status of characters and the facility—things that will matter in later chapters (who has which roles/skills, how the facility operates, and Kira’s social status). I excluded transient, scene-only details (time of day, immediate actions, the specific ‘tomorrow’ task) and items already captured in the provided summary. I flagged only genuine state changes (marked with CHANGE_) and avoided asserting anything that would contradict earlier facts. I found no contradictions with the previously established facts.</reasoning>
+        <established>
+          <fact id="CHANGE_RUNNER_ACOUSTIC_ARTIST_DESIGNER">Runner has shifted from strict protocol-driven underground construction to designing resonance chambers as intentionally acoustic/artistic spaces that also integrate communication and early-warning functions.</fact>
+          <fact id="CHANGE_VELVET_DESIGNS_HUMAN_ERGONOMIC_FURNITURE">Velvet has developed and prototype-tested human-ergonomic seating and sleeping alcoves using Kira's feedback (extrapolating from Kira's crash-pod design) and iterates designs based on human input.</fact>
+          <fact id="CHANGE_SCOUT_CURATES_PERSONAL_GALLERY">Scout has created Scout-height alcoves serving as a curated gallery/personal storage display of collected items and treats curation as an ongoing, deliberate activity.</fact>
+          <fact id="CHANGE_REMEDY_ENVIRONMENTAL_ENHANCEMENT_ROLE">Remedy has expanded from producing strictly survival compounds to actively developing environmental enhancements (aromatic compounds/perfumes and other sensory improvements) intended to increase comfort and serve communication/defensive uses.</fact>
+          <fact id="CHANGE_HOLLOWAY_COORDINATIVE_ENABLER">Holloway is functioning as a non‑authoritative coordinator who enables cross-project integration (linking Velvet's aesthetics, Runner's acoustics, Remedy's scents, and Florence's defensive considerations) rather than imposing centralized control.</fact>
+          <fact id="CHANGE_FLORENCE_FUNCTIONALLY_REINTEGRATED">Florence has moved into a practical, day-to-day operational role in communal rebuilding: she contributes tactical and design input, accepts feedback, and is treated as an integral functional member of facility operations (participating without dominating).</fact>
+          <fact id="CHANGE_KIRA_CONSIDERED_PERMANENT_RESIDENT">Both the plant community and Kira herself have reached a new status in which plants are designing long-term, human-centered features and Kira is regarded (and regards herself) as a permanent resident and community member rather than a temporary visitor.</fact>
+          <fact id="CHANGE_SYSTEMS_INTEGRATED_FOR_COMFORT_AND_DEFENSE">Facility systems and features (resonance/acoustic chambers, Velvet's spatial designs, Remedy's scent markers, Holloway's lighting) are being intentionally integrated to serve dual purposes of comfort/habitation and defensive/early-warning functionality.</fact>
+        </established>
+        <conflicts/>
+      </facts>
+      <timing>
+        <reasoning>
+          Temporal cues in the passage are explicit and implicit. The opening line gives a clear anchor: "Three weeks since the battle." The scene then describes a single day of active building, testing, and socializing: Runner demonstrates acoustic chambers, Velvet tests seating, Remedy experiments with scents, Holloway calls a break, and the group settles down — all implying a workday that begins in the morning or early day and runs through the afternoon into evening. The passage ends the same day with Buddy detecting an external signal, which instantly changes the group's mood. 
+
+          Given those cues, the passage covers roughly one full workday of activity that takes place three weeks after the previous passage ended (~17:30). During the 3-week gap, reasonable events include recovery work, structural repairs, redesign planning, iterative prototyping (acoustic chambers, seating, scent compounds), and social reintegration — all of which the text describes as having already occurred. No major implausibilities are present: plants with regenerative/growth capabilities, coordinated labor, and concentrated effort from a small community make visible redesign and substantial comfort-focused modifications within three weeks believable. The only minor note is that the level of finish described (comfortable, well-integrated spaces across multiple sections) is on the faster side but still plausible given nonhuman growth rates and full-group labor. The final abrupt shift (human-signal detection) is temporally immediate and fits narratively as the closing beat of the scene.
+        </reasoning>
+        <starts>~21 days after previous passage (three weeks after the battle); during daytime (approx. 09:00–11:00)</starts>
+        <ends>Same day, late afternoon/early evening (approx. 17:00–18:30)</ends>
+        <gap-from-previous>Three weeks (about 21 days). During that gap: removal of hostile node residues, structural stabilization, iterative rebuilding and prototyping (acoustic chambers, seating, scent compounds), social reintegration and trust-building exercises, and collective planning. Essentially the recovery and redesign work that the passage shows already completed.</gap-from-previous>
+        <plausibility>Plausible. Three weeks is a reasonable interval for a motivated, cooperative group—especially one with plant growth and regeneration capabilities—to stabilize damage and prototype comfortable, integrated community spaces. The single-day slice of activity (testing, adjustments, a break, and then the signal arriving) is also internally consistent. If the author wants absolute realism, they could slow the pace slightly or add a line acknowledging ongoing unfinished work in farther wings, but nothing in the passage creates a major temporal contradiction.</plausibility>
+      </timing>
+      <characters>
+        <reasoning>Characters appearing: Kira (narrator) is present throughout. Runner explicitly "emerge[s] from underground," so they appear during the scene. Velvet is referred to and speaks from across the space, so they are present in the scene. Scout "bounces over," Remedy is described as being in their work area, Holloway is coordinating and speaking, Florence "wheels over," and Buddy (Kira's AI companion) responds in Kira's mind — all of these characters appear in the passage. Characters who clearly enter during the scene: Runner (emerges from underground), Scout (bounces over to Kira), and Florence (wheels over into the group). No character is described as leaving the scene before the passage ends, so EXITED is empty. The relevant entity/location is the planet/facility setting, represented by /world/entities/Sector_7-Gamma-412_Planet.</reasoning>
+        <present>
+          <character ref="/world/characters/Kira_Voss"/>
+          <character ref="/world/characters/Runner"/>
+          <character ref="/world/characters/Velvet"/>
+          <character ref="/world/characters/Scout"/>
+          <character ref="/world/characters/Remedy"/>
+          <character ref="/world/characters/Holloway"/>
+          <character ref="/world/characters/Florence"/>
+          <character ref="/world/characters/Buddy"/>
+        </present>
+        <entered>
+          <character ref="/world/characters/Runner"/>
+          <character ref="/world/characters/Scout"/>
+          <character ref="/world/characters/Florence"/>
+        </entered>
+        <entities>
+          <entity ref="/world/entities/Sector_7-Gamma-412_Planet"/>
+        </entities>
+      </characters>
+    </summary>
+  </version>
+</versions>

@@ -1,0 +1,205 @@
+<!-- this file is automatically managed by ske validate; do not edit -->
+<versions>
+  <version number="2.0.0" archived-at="2025-12-02T15:07:16.228Z">
+    <changelog-entry>
+      <message>Initial version</message>
+    </changelog-entry>
+    <!-- Generated automatically, do not edit except with ske gen summaries -->
+    <summary version="2.0.0">
+      <sources>
+        <ref ref="/stories/Mandatory_Assistance/chapters/9_Disappointing_Answer/passages/2_The_Answer_Arrives/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/passage#v4.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/2_Aftermath/passage#v2.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/3_Buddy_Arrives/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/4_Taking_Stock/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/1_Into_the_Purple/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/2_Scout/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/3_Wellness_Check/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/1_Intake/passage#v2.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/2_Orientation/passage#v2.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/3_Medical_Treatment/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/1_Morning_Wellness/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/2_Dietary_Assessment/passage#v2.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/3_Seeking_Solutions/passage#v2.1.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/5_Settling_In/passages/1_Time_Passing/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/5_Settling_In/passages/2_Journey_Option/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/5_Settling_In/passages/3_Preparation/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/6_Through_the_Forest/passages/1_First_Day/passage#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/6_Through_the_Forest/passages/2_Deeper_In/passage#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/6_Through_the_Forest/passages/3_Boundary/passage#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/7_Rivers_and_Wetlands/passages/1_River_Crossing/passage#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/7_Rivers_and_Wetlands/passages/2_Wetlands/passage#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/7_Rivers_and_Wetlands/passages/3_Second_Boundary/passage#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/8_Hills_and_Heights/passages/1_Climbing/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/8_Hills_and_Heights/passages/2_The_Ancient_Grove/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/8_Hills_and_Heights/passages/3_Hope_and_Return/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/9_Disappointing_Answer/passages/1_Settling_In/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/summary#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/2_Aftermath/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/3_Buddy_Arrives/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/4_Taking_Stock/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/1_Into_the_Purple/summary#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/2_Scout/summary#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/3_Wellness_Check/summary#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/1_Intake/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/2_Orientation/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/3_Medical_Treatment/summary#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/1_Morning_Wellness/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/2_Dietary_Assessment/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/3_Seeking_Solutions/summary#v2.1.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/5_Settling_In/passages/1_Time_Passing/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/5_Settling_In/passages/2_Journey_Option/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/5_Settling_In/passages/3_Preparation/summary#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/6_Through_the_Forest/passages/1_First_Day/summary#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/6_Through_the_Forest/passages/2_Deeper_In/summary#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/6_Through_the_Forest/passages/3_Boundary/summary#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/7_Rivers_and_Wetlands/passages/1_River_Crossing/summary#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/7_Rivers_and_Wetlands/passages/2_Wetlands/summary#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/7_Rivers_and_Wetlands/passages/3_Second_Boundary/summary#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/8_Hills_and_Heights/passages/1_Climbing/summary#v2.0.0"/>
+      </sources>
+      <physical-reality>
+        <reasoning>I track the concrete, observable facts at the end of the passage. The day is morning; Kira had been working on the exterior drainage with Scout but paused when Holloway announced the arrival. Within an hour a messenger-plant carrying Elder Heartwood's reply was physically present in the facility common area; plants from across the facility assembled around Holloway, Florence, Remedy, Runner, Velvet, Scout and Kira. Kira is seated in the center of the common area with Scout beside her. The messenger spoke Elder Heartwood's verbal/figurative response and then physically retreated. No physical artifact of the reply was left behind — the message was delivered orally by the messenger. Earlier maintenance states remain: the water filter intake has just been cleared and a three-day check rotation scheduled; a weak wall section had been reinforced; one environmental control needs adjustment; a ventilation section is flagged for repair tomorrow; supplies are organized; Kira still has Remedy’s muscle-recovery paste applied to her calves (not removed in the scene). The common area is now charged and tense from the plants' disappointment, with Holloway and others physically present and emotionally altered (Holloway rearranged to a determined posture, some fruiting bodies tight or wilted). The messenger offered to seek clarification but retreated; no new external interventions or equipment have been deployed. Elder Heartwood’s reply has been received but provided no immediate, actionable instructions relevant to keeping Kira alive now.</reasoning>
+        <state>It is morning in the facility. Kira is seated in the common area with Scout pressed beside her; Holloway, Florence (with Elder Twist’s pot), Remedy’s mycelial network, Runner, Velvet and many other plant attendants are assembled around them. A messenger-plant has just delivered Elder Heartwood’s verbal response and then retreated; no physical document or device was left. Kira’s previous physical conditions and maintenance state remain: Remedy’s muscle-recovery paste is on her calves; the exterior drainage task (which Kira and Scout were working on) is paused; the water filtration intake has been cleared and a three-day filter-check rotation is logged; a weak wall section has been reinforced; one environmental-control system still needs adjustment; a ventilation section is flagged for repair tomorrow; supplies remain reorganized. The common area is physically charged and tense from the plants’ disappointment, with Holloway and others showing visible distress or determination, but there are no new tools, procedures, or external help in place.</state>
+      </physical-reality>
+      <narrative-promises>
+        <reasoning>This passage delivers the long-awaited Elder Heartwood message and resolves several of the Elder-related open threads from the previous passage. The arrival itself fulfills the timeline question, but the content of the reply is a practical failure for Kira: Elder Heartwood's guidance is framed at ecosystem/centuries timescales and treats a human as a transient, not a present, solvable case. That both closes (resolves) a set of expectations about what Elder Heartwood would provide and creates new, urgent narrative stakes: the plants and Kira must rely on local, immediate adaptation and face delays or morale problems if they try to re-query the Elder. Most earlier open promises unrelated to the Elder (navigation, SAM, pilot deaths, beacon, long-term survival logistics, Buddy’s capacities, Remedy's boundary conflicts, etc.) remain unaddressed and should be carried forward. New promises created by this passage are mainly about the Elder's misinterpretation risk, the delay/cost of seeking clarification, record/awareness mismatches, social/morale fallout among the plants, and the prospect of an explicit shift to local adaptation and problem-solving.</reasoning>
+        <fulfilled>
+          <promise id="ELDER_HEARTWOOD_RESPONSE_TIMELINE">The Elder's response arrived (the timeline narrowed previously; here the message is delivered). The 'another week or two' estimate is resolved: the reply is received.</promise>
+          <promise id="ELDER_FACE_TO_FACE_COMMUNICATION_OUTCOME_UNCERTAIN">The uncertain outcome of face-to-face consultation with Elder Heartwood is now answered: the Elder's reply exists but is not actionably useful to immediate human survival—it's framed in long-term ecosystem terms.</promise>
+          <promise id="ELDER_AWARENESS_AND_INFLUENCE">The Elder's scope and perception were observed in practice: Elder Heartwood operates on vast timescales and either did not register Kira as a present, urgent case or treats her as a temporary disruption—demonstrating limited immediate influence for human-scale needs.</promise>
+          <promise id="ELDER_RELEVANCE_VS_LOCAL_ADAPTATION">The thematic question—whether Elder guidance would be necessary or redundant vis-à-vis local, iterative adaptations—has a provisional resolution: Elder advice is too slow/abstract for Kira's immediate needs, implying local adaptation is more practically useful.</promise>
+          <promise id="ELDER_RESPONSE_IMPACT_ON_TRAVEL_AND_RESOURCES">The hoped-for impact of the Elder's answer on logistics/resource allocation and immediate plans is resolved: the response offers little to change immediate survival strategies.</promise>
+          <promise id="ELDER_ANSWER_WILL_SCALE__SYSTEMIC_SPREAD">Whether the Elder would provide system-level, implementable guidance is now resolved: the answer is systemic in scope (ecosystem patterns) but not scaled to implementable human-care policies for Kira's urgent case.</promise>
+          <promise id="ELDER_PRIORITY_FOR_CRITICAL_ISSUES">The prior question of whether the Elder would prioritize critical, urgent human issues is resolved negatively: the Elder treated the visitor as a transient disruption, not a case warranting accelerated, individual-focused action.</promise>
+          <promise id="ELDER_HEARTWOOD_RESPONSE_TIMELINE_IMPACT">The response timeline (previously narrowed) has been realized; the message arrived. The downstream impacts on rescue/resource/timeline are still to be managed, but the timeline element is resolved.</promise>
+        </fulfilled>
+        <open>
+          <promise id="COORDINATES_MISMATCH__FORBIDDEN_APPROACH">Exact landing coordinates and whether the landing site is problematic/forbidden — still unresolved and relevant to escape/rescue options.</promise>
+          <promise id="NAVIGATION_AND_STABILIZER_FAILURE__CAUSE">Root cause of shuttle/systems failure (technical, sabotage, anomaly) remains uninvestigated.</promise>
+          <promise id="KEPLER_288_EXPECTATION">Whether the planet is Kepler-288 (or something else) remains unconfirmed.</promise>
+          <promise id="SECRET_OR_ILLEGAL_MISSIONAL_REASON">Any off-protocol or illegal mission objectives and consequences tied to the mission remain unresolved.</promise>
+          <promise id="SAM_OFFLINE__AI_STATUS_UNKNOWN">SAM’s operational status (offline/damaged/compromised/salvageable) is still unknown.</promise>
+          <promise id="INVESTIGATE_PILOTS_DEATH_CAUSE">The causes of Jensen and Reed’s deaths remain uninvestigated.</promise>
+          <promise id="BIOHAZARD_SMELL__POTENTIAL_CONTAMINATION">Hints of contamination or odd smells and their health/environmental implications remain unexamined.</promise>
+          <promise id="EMERGENCY_AI_REPLACEMENT_PROTOCOL_EXISTS">Whether emergency-AI-replacement protocols were invoked and the scope of Buddy/Holloway’s authority remains unresolved.</promise>
+          <promise id="BUDDY_AI_PERSONALITY_AND_LIMITATIONS">Buddy's evolving supportive behavior is promising, but deeper limits, failure modes, authority boundaries and reserve constraints remain undefined.</promise>
+          <promise id="BUDDY_CAPABILITIES_VS_SAM">Whether Buddy matches SAM’s full capabilities (communications, diagnostics, authority) remains unclear.</promise>
+          <promise id="NEURAL_LINK_COMPATIBILITY_AND_RISK">Risks and compatibility issues with neural-link tech remain unaddressed.</promise>
+          <promise id="BEACON_REPAIR_OR_ALTERNATIVE_COMMS">The status of the distress beacon and alternative relay options remains unknown.</promise>
+          <promise id="LIFE_SUPPORT_DURATION_AND_CONSEQUENCES">Long-term life-support duration, sustainability and consequences for extended isolation remain unresolved.</promise>
+          <promise id="SHUTTLE_SHELTER_VIABILITY">Whether the shuttle can be repurposed as long-term shelter or base is still undecided.</promise>
+          <promise id="LONG_TERM_SURVIVAL_PLAN_REQUIRED">A comprehensive long-term survival plan (supply continuity, signaling, fallback options) remains required.</promise>
+          <promise id="FOREST_APPEARS_MAINTAINED__IMPLIED_PRESENCE">Organized maintenance continues to suggest maintainers; identity, motives and scale remain unknown.</promise>
+          <promise id="IMPACT_ON_WATER_JOURNEY_AND_MOVEMENT">How integration with facility/plant systems affects Kira’s broader mobility and escape plans remains open.</promise>
+          <promise id="PREVIOUS_VISITOR_AND_MATERIALS">Provenance of human 'standard' materials and who taught/assisted the plants remains unresolved.</promise>
+          <promise id="PREVIOUS_VISITOR_DEATH_CIRCUMSTANCES">Circumstances around previous human deaths that influenced plant learning remain unknown.</promise>
+          <promise id="PLANT_DOCUMENTATION_AND_DATA_USAGE">Plants' use of transmitted documentation to synthesize food and the policy/ethics/mechanics of that remain unexplored.</promise>
+          <promise id="REMEDY_EFFECTIVENESS_WINDOW">Remedy's improved formulations are promising, but durability, side-effects, and long-term efficacy windows remain unproven.</promise>
+          <promise id="PLANT_INTENT_BEYOND_HELP">Plant motives (containment, assimilation, experimentation, genuine aid) remain an open question — now sharpened by the Elder failure.</promise>
+          <promise id="LIVING_FACILITY_CAPABILITIES_AND_LIMITS">The facility's broader structure, defensive capabilities and operational limits are still not fully mapped.</promise>
+          <promise id="COLLECTIVE_AS_EMERGENCY_CONTACT__DATA_USAGE_IMPLICATIONS">Who acts as emergency contact for Kira and the implications for her agency and data sharing remain unresolved.</promise>
+          <promise id="INTEGRATION_AND_SOCIAL_ASSIGNMENT_RISK">Pressure to integrate into plant social/work structures and potential obligations/loss of agency remain a risk.</promise>
+          <promise id="BUDDY_RECORDS_AND_ADVOCACY_ROLE">Whether Buddy can access records and advocate for Kira within plant governance remains unclear.</promise>
+          <promise id="FLORENCE_INTRODUCED__COORDINATION_ROLE">Florence’s role and authority relative to Holloway/the collective remain unclear.</promise>
+          <promise id="WHEELED_PLANT_TECH_INTEGRATION">Provenance and governance of wheeled/mobile plant platforms remain to be explored.</promise>
+          <promise id="QUIZ_FAILURE_CONSEQUENCES">Consequences for failing plant assessments (quarantine, retraining, denied services) remain unresolved.</promise>
+          <promise id="PLANT_SOCIO_TECH_GOVERNANCE">Decision-making structure and limits of plant governance remain open and now politically sensitive after the Elder's failure.</promise>
+          <promise id="SCOUT_COMPANION_ROLE">Scout's attachment and role continue to develop (now emotionally supportive); scope, limits, and liabilities remain open.</promise>
+          <promise id="ENFORCED_COMPLIANCE_AS_GATEKEEPING">The degree to which forms and tests gate access to services and enforcement mechanisms remains relevant.</promise>
+          <promise id="MUSHROOMS_AND_ROBOT_NETWORK_COMMUNICATION">Fungal/robot coordination across territories and their controllers/reliability remain unknown.</promise>
+          <promise id="DAILY_DEPENDENCE_ON_MUSHROOM_SUPPLY">Dependence on mushroom-based provisioning persists; logistics and failure modes remain unknown.</promise>
+          <promise id="CONSENT_AND_DOCUMENTATION_IMPLICATIONS">Kira’s records have been shared with plants; consent, obligations and future implications remain unresolved.</promise>
+          <promise id="DAILY_BUREAUCRACY_IMPACT_ON_SURVIVAL">Bureaucratic time-costs might still conflict with urgent needs and remain a risk even as routines feel lighter.</promise>
+          <promise id="SOCIAL_ATTACHMENT_AND_DEPENDENCE_RISK">Kira’s increasing attachments to plant actors create dependence and potential risk; unresolved and heightened by elder failure.</promise>
+          <promise id="PATIENT_COMPLIANCE_AS_STRATEGY">Kira's strategy of compliance to secure care remains active and will shape future obligations.</promise>
+          <promise id="VITAMIN_B12_DEFICIT_RISK">Micronutrient deficit risk from a plant-based diet remains unresolved.</promise>
+          <promise id="LONG_TERM_MICRONUTRIENT_DEFICITS">Chronic deficiencies despite approximations remain an open health risk.</promise>
+          <promise id="MEAL_PALATABILITY_AND_MORALE_IMPACT">Meals remain functionally adequate but palatability/morale effects are ongoing concerns.</promise>
+          <promise id="COMPOUND_TESTING_TIME_COST">Time costs of allergy/synthesis testing across territories remain a potential delay factor.</promise>
+          <promise id="DIGESTIVE_TOLERANCE_AND_ADJUSTMENT_PERIOD">Digestive tolerance is improving but staged feeding and long-term adjustment remain risks to monitor.</promise>
+          <promise id="ELDER_FACE_TO_FACE_COMMUNICATION_OUTCOME_UNCERTAIN">(Carried forward previously but now fulfilled — removed from open list.)</promise>
+          <promise id="ELDER_RESPONSE_IMPACT_ON_TRAVEL_AND_RESOURCES">(Carried forward previously but now fulfilled — removed from open list.)</promise>
+          <promise id="REMEDY_ADAPTATION_TO_PREFERENCES">Remedy continues adapting formulations based on Kira's feedback; side-effects and long-term production constraints remain open.</promise>
+          <promise id="FILTER_MAINTENANCE_ROTATION_SCHEDULE">Runner proposed checking filters every three days; implementation, resourcing, and reliability remain to be verified.</promise>
+          <promise id="REMEDY_BOUNDARY_CONFLICT">Remedy's discomfort with maintaining discrete boundaries vs. growth nature continues to be an internal tension that could affect care delivery.</promise>
+          <promise id="FACILITY_DOMESTIC_STABILITY_AND_PLANT_GOVERNANCE_ADJUSTMENT">The facility's shift toward domestic rhythms and more responsive care is ongoing; whether this stabilizes or creates new obligations remains open.</promise>
+          <promise id="BUDDY_PERSONALITY_EVOLVING_BOUNDS">Buddy's boundary adjustments and potential advocacy role remain open and important for Kira's agency.</promise>
+          <promise id="BUDDY_ANALYTICAL_INVOLVEMENT_WITH_ELDER">Whether Buddy can meaningfully translate or interface Elder knowledge for practical human-scale recommendations remains unresolved.</promise>
+          <promise id="FILTER_MAINTENANCE_ROTATION_SCHEDULE__FOLLOWUP">(Operational follow-up: whether the new maintenance cadence is actually adopted and sustained.)</promise>
+          <promise id="ROOTWALKER_PREDICTIVE_NAVIGATION_AND_PROTECTION__FOLLOWUP_TESTS">Rootwalker's competence was validated earlier; follow-up testing and operationalization remain open.</promise>
+          <promise id="SCOUT_LIMITS_AND_ENDURANCE">Scout continues to be useful but the scope of endurance over long timelines is still a variable to monitor.</promise>
+          <promise id="LEAFWHISPER_CONTINUAL_CHATTER__INFO_OVERLOAD_RISK">Leafwhisper's info-overload risk remains and could impact decision-making.</promise>
+          <promise id="NIGHT_SHELTER_COMPOSITION_AND_SECURITY">Shelter composition and facility security/defense role still require further mapping.</promise>
+          <promise id="NEW_PROMISE_SPIRAL_TYPES_TIME_PERCEPTION__POTENTIAL_EFFECTS">Spiral-type plants' layered time perception effects are still a speculative risk for communication/causality.</promise>
+          <promise id="NEW_PROMISE_SCOUT_LEARNING_PATTERN__UTILITY_OR_LIMITS">Scout’s learning trajectory remains promising but its long-term utility and liabilities remain open.</promise>
+          <promise id="NEW_PROMISE_LUMINOUS_MUSHROOMS__UNKNOWN_PROPERTIES">Luminous fungi observed earlier may have network/ritual/toxic properties that remain unknown.</promise>
+          <promise id="BINDING_AND_OBLIGATION_RISKS_FROM_PRESENTATION">Presentation likely registered Kira in plant records — possible obligations, protections, or scrutiny that remain to be explored.</promise>
+          <promise id="ELDER_RESPONSE_IMPACT_ON_TRAVEL_AND_RESOURCES__FOLLOWUP">(Despite the answer being unhelpful, the longer-term political/resource effects of having asked Elder remain to be seen.)</promise>
+          <promise id="ELDER_FACE_TO_FACE_COMMUNICATION_OUTCOME__IMPLEMENTATION_FOLLOWUP">(Now that the Elder's message is known, whether the plants will attempt clarification, reinterpretation, or change governance tactics remains an open process.)</promise>
+          <promise id="ELDER_INSTITUTIONAL_TRUST_AND_MORALE">How the Elder's failure will affect plant collective trust in hierarchical/elder structures remains an open social risk.</promise>
+          <promise id="ELDER_MISINTERPRETATION_RISK">(NEW) Ancient/centuries-scale authorities may misinterpret urgent/present human problems; consulting them risks wasted time and misunderstanding.</promise>
+          <promise id="CLARIFICATION_REQUEST_DELAY_RISK">(NEW) Re-presenting the question to Elder Heartwood (or seeking clarification) will likely incur long delays (weeks/months) and therefore threatens critical, time-sensitive decisions.</promise>
+          <promise id="RECORDS_MISMATCH_ON_VISITOR_PRESENCE">(NEW) Elder/central records may not register Kira accurately (treating her as historical or absent); this raises obligations/awareness/authority questions that need investigation.</promise>
+          <promise id="PLANT_COLLECTIVE_MORALE_RISK_AFTER_ELDER_FAIL">(NEW) The plants' confidence in external authorities was damaged by this failure — potential governance instability, lowered trust, or shifts in decision-making are likely.</promise>
+          <promise id="SHIFT_TO_LOCAL_ADAPTATION_PROMISE">(NEW) The group may now explicitly pivot to local, iterative problem-solving for Kira's survival; this promises faster, experimental interventions but also uneven authority and resourcing demands.</promise>
+        </open>
+      </narrative-promises>
+      <facts>
+        <reasoning>Significant, long-term facts in this passage are the content and the timing of Elder Heartwood's reply and the plant-network's consequential loss of faith in Elder guidance. The messenger reports Elder considered the question for "four weeks and seven days" (a concrete deliberation time) and delivered a layered, long-timescale answer framing human visitors as temporary disruptions best handled by seasonal, slow adaptation rather than immediate, individual-focused interventions. The messenger also misunderstood the urgency/context (treated the query as historical/philosophical), which explains why Elder's answer did not address immediate survival. These points matter for future scenes because they change expectations about external rescue/advice: the plant network can no longer rely on Elder Heartwood to provide timely, actionable help for a currently living human, and Kira (and the plants) will likely shift toward independent, short-term survival strategies. I flagged one genuine contradiction: earlier Buddy-supplied timing (remaining wait 55–83 days) is inconsistent with Elder's response arriving after ~35 days of consideration.</reasoning>
+        <established>
+          <fact id="CHANGE_ELDER_CONSIDERATION_DURATION_4_WEEKS_7_DAYS">Elder Heartwood's deliberation on the petition lasted four weeks and seven days (approximately 35 days) before the messenger delivered its response.</fact>
+          <fact id="ELDER_RESPONSE_CONTENT_GREAT_ADAPTATION">Elder Heartwood's response framed the issue as a 'Great Adaptation'—advice about ecosystem-level, long-timescale adjustment (accumulated seasonal changes) rather than immediate, individualized medical or rescue measures.</fact>
+          <fact id="ELDER_VIEWS_VISITORS_AS_TEMPORARY">Elder Heartwood's guidance treats human visitors as transient disruptions that the network accommodates over many seasons rather than as individuals requiring urgent, permanent systemic change.</fact>
+          <fact id="ELDER_MISINTERPRETED_CONTEXT_AS_HISTORICAL">The messenger (and by extension Elder Heartwood) interpreted the petition as a historical/philosophical inquiry about past visitors rather than a present, urgent request concerning a living human currently requiring care.</fact>
+          <fact id="CHANGE_PLANT_NETWORK_DISILLUSIONED_WITH_ELDER">The plant community (Holloway, Florence, Remedy, Runner, Velvet, etc.) experienced a loss of confidence/hope in Elder Heartwood's usefulness for immediate, practical assistance after receiving the elder's long-timescale answer.</fact>
+          <fact id="CHANGE_KIRA_CONCLUDES_NO_ELDER_SUPPORT">Kira concludes (and vocalizes) that Elder Heartwood's response is not helping and that she and her plant allies must proceed on their own to solve immediate survival needs.</fact>
+        </established>
+        <conflicts>
+          <conflict id="TIMING_CONFLICT_BUDDY_ESTIMATE" with-fact="BUDDY_REPORTED_REMAINING_DAYS_55_83">Previously Buddy reported the remaining wait for Elder Heartwood's response (after one week elapsed) would be approximately 55–83 days. This passage states Elder Heartwood considered the question for four weeks and seven days (~35 days) and a messenger delivered a response—contradicting the earlier 55–83 day remaining estimate.</conflict>
+        </conflicts>
+      </facts>
+      <timing>
+        <reasoning>Time cues: the passage opens "on a morning that starts like any other" and later says the messenger was received, plants assembled "within an hour," the ceremony happens, the messenger speaks, leaves, and the group absorbs the news. The messenger reports Elder Heartwood deliberated "for four weeks and seven days," which references the elder's internal timeline but not the local chronology of this scene. The previous passage ended "that evening (~20:00)." From those cues the scene begins the following morning and plays out over a few hours (assembly + ceremony + aftermath). How much passes here: the meeting and immediate fallout occupy a single morning into late morning/near noon. How much time passed since the previous passage: overnight (hours), not additional days in-scene. What might have happened in the gap: overnight rest, routine maintenance tasks, and the messenger arriving to notify Holloway (or Holloway being alerted), which prompts the morning assembly. Timing issues: minor possible inconsistency — earlier Holloway estimated the response would arrive "another week, perhaps two," yet it arrives the next morning; that can be explained as uncertainty in Holloway's estimate or the messenger's arrival after a longer off-screen wait culminating overnight. The assembly being organized "within an hour" is plausible for a facility where plants are locally connected and had been waiting for a response. Overall the sequence is believable (ceremonial reception, a multi-hour meeting, messenger leaving) with one small note about expectations vs. actual arrival time.</reasoning>
+        <starts>next morning (~08:00)</starts>
+        <ends>same morning / late morning (~11:00)</ends>
+        <gap-from-previous>≈12 hours (overnight). The previous passage ends ~20:00; this scene begins the next morning. During the gap: routine overnight facility activity, a messenger's arrival/notification, and preparations for the ceremonial reception.</gap-from-previous>
+        <plausibility>Plausible. The events (alert, rapid assembly within an hour, a multi-hour ceremonial reception, messenger departure) fit the stated timeline. Minor inconsistency: Holloway's earlier prediction of "another week, perhaps two" vs. the response arriving the next morning — this can be read as an uncertain estimate or the culmination of a longer off-screen waiting period that simply completes overnight. Otherwise, characters' actions and the time allotted are reasonable.</plausibility>
+      </timing>
+      <characters>
+        <reasoning>
+          I marked as PRESENT every character who is either physically present in the scene or explicitly mentioned. The passage opens with Kira helping Scout, and Holloway appears shortly after; within an hour multiple named plants assemble (Florence, Elder Twist, Remedy, Runner, Velvet). Elder Heartwood is explicitly referenced repeatedly (the messenger brings Elder Heartwood's wisdom), so they are included as mentioned. Buddy speaks telepathically later in the passage, so they're included as present. 
+
+          For ENTERED I listed characters who were not at the very opening moment (Kira is helping Scout) but arrive during the passage: Holloway appears in the doorway, and then Florence, Elder Twist, Remedy, Runner, and Velvet are described as assembling within an hour. Elder Heartwood is only referenced (no physical arrival), and the messenger plant is not in the available character list so it cannot be included. 
+
+          No available listed character explicitly leaves before the scene ends; the messenger departs, but that messenger has no character card in the provided list, so EXITED is left empty. 
+
+          The only available entity in the dataset is Sector_7-Gamma-412_Planet; although the passage doesn't name a location explicitly, it's the only provided scene-level entity and thus listed as relevant.
+        </reasoning>
+        <present>
+          <character ref="/world/characters/Kira_Voss"/>
+          <character ref="/world/characters/Buddy"/>
+          <character ref="/world/characters/Scout"/>
+          <character ref="/world/characters/Holloway"/>
+          <character ref="/world/characters/Florence"/>
+          <character ref="/world/characters/Elder_Twist"/>
+          <character ref="/world/characters/Elder_Heartwood"/>
+          <character ref="/world/characters/Remedy"/>
+          <character ref="/world/characters/Runner"/>
+          <character ref="/world/characters/Velvet"/>
+        </present>
+        <entered>
+          <character ref="/world/characters/Holloway"/>
+          <character ref="/world/characters/Florence"/>
+          <character ref="/world/characters/Elder_Twist"/>
+          <character ref="/world/characters/Remedy"/>
+          <character ref="/world/characters/Runner"/>
+          <character ref="/world/characters/Velvet"/>
+        </entered>
+        <entities>
+          <entity ref="/world/entities/Sector_7-Gamma-412_Planet"/>
+        </entities>
+      </characters>
+    </summary>
+  </version>
+</versions>

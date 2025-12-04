@@ -1,0 +1,170 @@
+<!-- this file is automatically managed by ske validate; do not edit -->
+<versions>
+  <version number="2.0.0" archived-at="2025-12-02T15:07:15.636Z">
+    <changelog-entry>
+      <message>Initial version</message>
+    </changelog-entry>
+    <!-- Generated automatically, do not edit except with ske gen summaries -->
+    <summary version="2.0.0">
+      <sources>
+        <ref ref="/stories/Mandatory_Assistance/chapters/12_Victory_Through_Voice/passages/1_Voices_Emerging/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/passage#v4.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/2_Aftermath/passage#v2.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/3_Buddy_Arrives/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/4_Taking_Stock/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/1_Into_the_Purple/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/2_Scout/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/3_Wellness_Check/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/1_Intake/passage#v2.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/2_Orientation/passage#v2.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/3_Medical_Treatment/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/1_Morning_Wellness/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/2_Dietary_Assessment/passage#v2.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/3_Seeking_Solutions/passage#v2.1.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/5_Settling_In/passages/1_Time_Passing/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/5_Settling_In/passages/2_Journey_Option/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/5_Settling_In/passages/3_Preparation/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/6_Through_the_Forest/passages/1_First_Day/passage#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/6_Through_the_Forest/passages/2_Deeper_In/passage#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/6_Through_the_Forest/passages/3_Boundary/passage#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/7_Rivers_and_Wetlands/passages/1_River_Crossing/passage#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/7_Rivers_and_Wetlands/passages/2_Wetlands/passage#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/7_Rivers_and_Wetlands/passages/3_Second_Boundary/passage#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/8_Hills_and_Heights/passages/1_Climbing/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/8_Hills_and_Heights/passages/2_The_Ancient_Grove/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/8_Hills_and_Heights/passages/3_Hope_and_Return/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/9_Disappointing_Answer/passages/1_Settling_In/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/9_Disappointing_Answer/passages/2_The_Answer_Arrives/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/9_Disappointing_Answer/passages/3_What_We_Know/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/10_Trust_Complicated/passages/1_False_Wisdom/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/10_Trust_Complicated/passages/2_The_Deception/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/10_Trust_Complicated/passages/3_Broken_Trust/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/11_Under_Attack/passages/1_Delegation_Fails/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/11_Under_Attack/passages/2_Attack_Begins/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/11_Under_Attack/passages/3_Desperate_Cooperation/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/summary#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/2_Aftermath/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/3_Buddy_Arrives/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/4_Taking_Stock/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/1_Into_the_Purple/summary#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/2_Scout/summary#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/3_Wellness_Check/summary#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/1_Intake/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/2_Orientation/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/3_Medical_Treatment/summary#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/1_Morning_Wellness/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/2_Dietary_Assessment/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/3_Seeking_Solutions/summary#v2.1.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/5_Settling_In/passages/1_Time_Passing/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/5_Settling_In/passages/2_Journey_Option/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/5_Settling_In/passages/3_Preparation/summary#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/6_Through_the_Forest/passages/1_First_Day/summary#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/6_Through_the_Forest/passages/2_Deeper_In/summary#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/6_Through_the_Forest/passages/3_Boundary/summary#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/7_Rivers_and_Wetlands/passages/1_River_Crossing/summary#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/7_Rivers_and_Wetlands/passages/2_Wetlands/summary#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/7_Rivers_and_Wetlands/passages/3_Second_Boundary/summary#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/8_Hills_and_Heights/passages/1_Climbing/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/8_Hills_and_Heights/passages/2_The_Ancient_Grove/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/8_Hills_and_Heights/passages/3_Hope_and_Return/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/9_Disappointing_Answer/passages/1_Settling_In/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/9_Disappointing_Answer/passages/2_The_Answer_Arrives/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/9_Disappointing_Answer/passages/3_What_We_Know/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/10_Trust_Complicated/passages/1_False_Wisdom/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/10_Trust_Complicated/passages/2_The_Deception/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/10_Trust_Complicated/passages/3_Broken_Trust/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/11_Under_Attack/passages/1_Delegation_Fails/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/11_Under_Attack/passages/2_Attack_Begins/summary#v2.0.0"/>
+      </sources>
+      <physical-reality>
+        <reasoning>The passage ends in mid-morning with the defenders in active preparation for an imminent renewed assault. Physical damage described earlier (breached outer walls, collapsed floors and ceilings, toxic sludge and rubble) remains and is visible in daylight. Defensive systems are only partially repaired: Velvet has rebuilt two barrier layers and is constructing a third (about 80% complete, ~20 minutes remaining); an emergency secondary floor barrier from the previous breach remains in place (not reported destroyed). Remedy has manufactured three concentrated chemical trap zones and a fourth is in production (estimated ~15 minutes). Runner has deployed underground misdirection (a false weak point in the northwest) and positioned underground interception/reinforcements; Runner is injured and recovering but actively monitoring. Holloway has evacuation routes mapped and is positioned to evacuate Kira if needed. Florence is on her wheeled platform in the central core coordinating a collaborative defense. Kira and Scout are in the contracted defended core behind Velvet’s layers (Scout beside Kira). Structural instability is audible (creaks), and hostile plant forces are detected returning in multiple coordinated directions; attack is expected within minutes, likely before full readiness. Resource and personnel conditions relevant to future conflict: Velvet is damaged and resource-limited, Remedy’s reserves are depleted and production capacity is constrained, Runner is injured, Holloway and others are exhausted. These facts define the immediate physical and tactical state going into the next engagement.</reasoning>
+        <state>Mid-morning; the facility is heavily damaged and visible in daylight—outer walls destroyed, collapsed floor and ceiling sections, toxic sludge and rubble across interior and abandoned outer areas. The defended core is contracted, crowded, and claustrophobic but intact with life support and medical systems protected. Florence sits on her wheeled platform centrally, coordinating. Velvet has constructed two defensive barrier layers and is building a third (≈80% complete, ~20 minutes remaining); an emergency secondary floor barrier from the prior breach remains in place. Remedy has three concentrated chemical trap zones ready and a fourth in production (~15 minutes); overall chemical reserves remain severely limited. Runner is injured but active underground, has placed a deliberate false weak point (northwest) and positioned underground reinforcements/interception points. Holloway has mapped evacuation routes and is positioned to escort Kira; Kira and Scout are in the central core behind Velvet’s barriers. Structural instability produces creaks and unstable footing. Hostile plant forces are detected approaching in multiple coordinated directions and an attack is imminent—likely within minutes, potentially before full defensive readiness. Resource strains and wounds (Velvet damaged, Remedy depleted, Runner injured, general exhaustion) constrain defensive options going forward.</state>
+      </physical-reality>
+      <narrative-promises>
+        <reasoning>
+          Summary of reasoning:
+
+          What was paid off: The main imminent-threat prediction from the previous passage (that the hostile plants would return with adapted tactics) is realized in this passage: the hostiles regrouped and began a coordinated, probing return by mid-morning. That specific prediction/promise is therefore fulfilled.
+
+          What continues to matter (carried forward): Nearly every political, ethical, and resource-related promise from the previous passage remains active. The passage advances social dynamics (Florence shifts from top-down command to soliciting and integrating input), but this is progress, not resolution: trust, governance norms, questions about accepting advice whose provenance is tainted, and the long-term consequences of Florence's exile and past fabrications are still unaddressed. Resource strain, Runner's injury, structural damage, and the short preparation window remain acute operational risks. Holloway’s authority and the institutional questions about credit/validation/governance are only partially reframed by the emergent cooperation — they persist as open stakes.
+
+          New promises introduced here: The team explicitly implements a new layered defense and coordinated traps (Velvet’s layered barriers + Remedy’s concentrated chemicals + Runner’s underground decoy) and will test it under immediate attack; Florence’s shift to an inclusive, collaborative leadership approach is now a distinct narrative thread (a new promise that this mode might persist or change social norms); a short, explicit readiness window (~20 minutes) establishes an immediate test; and there are testable promises around Runner’s false-weakness decoy and Remedy’s concentrated production strategy. These are commitments that will be validated or refuted in the imminent engagement.
+
+          What lapsed/was abandoned: No previous open promises were quietly abandoned or made moot by this passage. Most are still active; one specific imminent return prediction is now fulfilled and removed from the open list.
+
+          Decision notes: I treated Florence’s continuing assistance as an ongoing dependence rather than a one-off fulfillment — she is acting on it, but the political/personal consequences and the conditional-withdrawal stake remain unresolved. Accordingly I marked only the clear operational prediction (hostiles return with adapted tactics) as fulfilled, carried forward the rest, and listed the concrete tactical and social promises newly introduced in this passage.
+        </reasoning>
+        <fulfilled>
+          <promise id="HOSTILE_PLANTS_RETURN_IMMINENT_WITH_ADJUSTED_TACTICS">The previous passage predicted the hostile plants would withdraw, regroup, and return with adjusted tactics. In this passage they do return mid‑morning as predicted — probing in multiple directions, using coordinated surface and underground approaches. The 'return with adapted tactics' prediction is paid off.</promise>
+        </fulfilled>
+        <open>
+          <promise id="HOSTILE_PLANTS_TERRITORIAL_ESCALATION">Hostile plants remain an ongoing operational threat along facility boundaries; their campaign continues and requires active management.</promise>
+          <promise id="DELEGATION_EXPERIMENTAL_LESSON">How the group internalizes the lesson about delegation and Florence's prior deception into longer-term practice and messaging remains unresolved; the passage shows experimentation but not institutionalization.</promise>
+          <promise id="FLORENCE_TRUST_RESTORATION_OR_CONSEQUENCES">Florence's tactical help improved survival but social trust is still fragile; whether she is reintegrated, sanctioned, or remains conditionally accepted is unresolved despite progress in cooperation.</promise>
+          <promise id="INTERNAL_TRUST_AND_DEFENSES_WEAKENED">Baseline cohesion remains fragile—functional cooperation replaced authentic reconciliation and could undermine future decisions; the passage shows improvement but the fragility persists.</promise>
+          <promise id="ADMISSIBILITY_OF_FABRICATED_ADVICE">The ethical question of accepting guidance known or suspected to be fabricated remains open: the group used Florence out of necessity, and whether that acceptance becomes normative is unresolved.</promise>
+          <promise id="OUTCOME_BASED_VALIDATION_FRAMEWORK">Whether outcomes (survival/effectiveness) should override provenance in judging guidance and governance remains unsettled; immediate success may bias decisions but doesn’t resolve the principle.</promise>
+          <promise id="FLORENCE_DIRECT_CONTRIBUTION_VALIDATION">How Florence's concrete contributions will be formally credited, documented, or made accountable beyond ad‑hoc verbal acknowledgements remains unresolved.</promise>
+          <promise id="FLORENCE_EXILE_INITIATED">Florence's prior exile remains an institutional fact; conditional reintegration and its political ramifications remain unresolved.</promise>
+          <promise id="FLORENCE_PAST_FABRICATION_SCOPE">The downstream effects and scope of Florence's earlier fabrications remain uninvestigated baggage that could have operational and political consequences.</promise>
+          <promise id="LEADERSHIP_STABILITY_AFTER_BETRAYAL">Holloway's authority was tested by reliance on Florence; how leadership norms stabilize (or fracture) after this crisis remains open.</promise>
+          <promise id="TIME_PRESSURE_ON_TRUST_REPAIR">Trust repair is occurring under acute time pressure; whether these nascent repairs endure when the immediate crisis passes is still unresolved.</promise>
+          <promise id="SCOUT_COMPANION_ROLE">Scout continues as sentinel and emotional anchor for Kira; their resilience and role under sustained siege remain consequential.</promise>
+          <promise id="FLORENCE_CONDITIONAL_WITHDRAWAL_IF_REJECTED">Florence previously implied she could withdraw if rejected; that conditional power remains a live stake that affects negotiations and trust.</promise>
+          <promise id="BEACON_REPAIR_OR_ALTERNATIVE_COMMS">External comms/beacon options remain unaddressed and are still critical contingencies for rescue or outside help.</promise>
+          <promise id="SAM_OFFLINE__AI_STATUS_UNKNOWN">SAM's operational status and potential support role remain unaddressed and therefore unresolved.</promise>
+          <promise id="LONG_TERM_SURVIVAL_PLAN_REQUIRED">A comprehensive long-term survival plan (relocation, stockpiles, governance changes) is still unmade and necessary beyond immediate defense.</promise>
+          <promise id="PLANT_SOCIO_TECH_GOVERNANCE">Structural governance questions—authority, attribution, rules for decision-making and credit in the plant collective—remain politically sensitive and unresolved.</promise>
+          <promise id="RESOURCE_EXHAUSTION_THREAT">Remedy's chemical reserves, Runner's health, and Velvet's energy remain critically stressed; the trajectory toward exhaustion threatens future defenses.</promise>
+          <promise id="RUNNER_INJURY_IMPACTS_DEFENSE">Runner is still injured and only partially recovered; their wound continues to risk undermining the defenders' ability to manage underground threats.</promise>
+          <promise id="FACILITY_DAMAGE_LONG_TERM_THREAT">Structural damage is extensive and unresolved: habitability, logistics, and repairs remain long-term threats.</promise>
+          <promise id="FLORENCE_DEFACTO_COMMAND_DURING_CRISIS">Florence remains the de-facto tactical coordinator, but the passage shows an evolution to more collaborative coordination; whether temporary command normalizes or is rebalanced politically remains open.</promise>
+          <promise id="IMMEDIATE_RESOURCE_CRITICAL_WINDOW">The group still faces a narrow, immediate window to finish preparations and recover resources; the short readiness window and resource shortfalls remain an acute constraint.</promise>
+          <promise id="EXTENDED_SIEGE_PREPARATION_AND_RECOVERY">The group committed to repairs, triage, and watch rotations to prepare for an extended siege; those recovery and preparation tasks are underway but incomplete.</promise>
+          <promise id="FLORENCE_CONTINUES_CONDITIONAL_ASSISTANCE">Florence previously committed to help 'as long as necessary' for Kira's sake; she is acting on that commitment now, but the political/personal consequences of continued conditional assistance remain unresolved.</promise>
+          <promise id="POSSIBLE_FOUNDATION_FOR_FORGIVENESS">New cooperation suggests necessity-driven interaction might become a foundation for eventual forgiveness, but this possibility remains fragile and unproven.</promise>
+          <promise id="FLORENCE_COLLABORATIVE_LEADERSHIP">Newly evident in this passage: Florence explicitly solicits and integrates team input (a shift from unilateral command). Whether this collaborative leadership model persists and reshapes governance norms is an open promise.</promise>
+          <promise id="LAYERED_DEFENSE_AND_TRAPS_WILL_BE_TESTED">The team implemented a layered‑barrier strategy with deliberate gaps paired to Remedy's concentrated chemical traps and Runner's underground decoy. This is a concrete tactical setup that will be tested by the imminent attack.</promise>
+          <promise id="SHORT_PREPARATION_WINDOW">There is an explicit short readiness window (~20 minutes or less) before the hostiles strike; the coming minutes will determine whether the new combined defensive plan holds.</promise>
+          <promise id="RUNNER_DECOY_EFFECTIVENESS">Runner will deploy a false weak point underground to mislead the hostiles; its effectiveness in redirecting enemy focus is unproven and will be validated in the upcoming engagement.</promise>
+          <promise id="REMEDY_CONCENTRATED_DEPLOYMENT_RECOVERY">Remedy is focusing scarce production into a few concentrated aggressive deployments rather than broad coverage; whether this concentrated approach is effective and sustainable is unresolved.</promise>
+          <promise id="TRUST_BUILDING_MOMENTUM">The emergent, authentic‑feeling collaboration in this passage is a nascent social promise — that today’s cooperative behavior could generate durable trust — but it remains an open possibility to be proven over repeated interactions and post‑crisis reflection.</promise>
+        </open>
+      </narrative-promises>
+      <facts>
+        <reasoning>Focus on durable story elements introduced here: shifts in leadership style and group dynamics, and a concrete tactical change to the facility's defense plan that will affect upcoming combat and resource allocation. These are meaningful for later scenes (how decisions are made, who has influence, what tactics and resource constraints will look like in future engagements). I do NOT repeat transient scene details already captured in the summary (time of day, exact readiness percentages, who is physically present), and I only record state changes or new, persistent dispositions. I found no direct contradictions with the previously established facts; the passage shows development of previously-known tensions (Florence's prior isolation, scarce resources, Runner/Remedy/Velvet capabilities) rather than reversal of prior facts.</reasoning>
+        <established>
+          <fact id="CHANGE_FLORENCE_COORDINATION_STYLE_COLLABORATIVE">Florence has shifted from a commanding/tactical-directive posture to deliberately soliciting, listening to, and integrating input from Runner, Velvet, Remedy, Holloway and others—coordinating by enabling contributions rather than issuing unilateral commands.</fact>
+          <fact id="CHANGE_GROUP_DECISION_MAKING_AUTHENTIC_COLLABORATION">The defenders' interpersonal dynamic has moved beyond pragmatic acceptance of Florence's direction toward genuine, participatory collaboration: multiple members contribute analysis and Florence synthesizes consensus-based strategy.</fact>
+          <fact id="CHANGE_DEFENSE_STRATEGY_LAYERED_GAPS_WITH_TRAPS">The defensive plan has been altered to a layered-barrier approach with intentional gaps between thinner layers; those gaps are being turned into trap/engagement zones (coordinated placement of Remedy's chemicals and Runner's underground interceptions) rather than simply empty space.</fact>
+          <fact id="CHANGE_REMEDY_FOCUSES_ON_CONCENTRATED_OFFENSIVE_DEPLOYMENTS">Remedy has committed to concentrate limited chemical resources into a small number of aggressive, focused trap deployments (prioritizing concentrated zones in gaps) rather than broad defensive coverage—an explicit production/allocation choice that will affect reserves and future options.</fact>
+          <fact id="CHANGE_GROUP_TRUST_INCREASING_WHILE_DECISIONS_BECOME_DISTRIBUTED">Florence explicitly urges the group to 'trust each other's judgment' and the group acts on distributed authority; trust and distributed decision-making are now functioning parts of the group's operating style, changing who participates in tactical choices going forward.</fact>
+        </established>
+        <conflicts/>
+      </facts>
+      <timing>
+        <reasoning>Temporal cues in the passage: it opens with “Morning arrives way too early” and explicitly says “It’s mid-morning now.” The characters refer to the previous night’s watch shifts and Florence’s prediction that the hostiles will return “by mid-morning.” During the passage the group prepares and runs a readiness countdown: Florence states they have “twenty minutes until full readiness,” and then Runner reports movement and “They’re coming,” which ends the scene. The passage therefore begins in the mid-morning and covers the preparation period up to the first detection of the returning attack. How much time passes in the passage: roughly tens of minutes (on the order of ~20–30 minutes), since the text gives a concrete 20-minute window for completion and then indicates the attack arrives “minutes” later. How much time since the previous passage: the previous passage ended after an overnight watch and the lull following the prior attack; this current scene is the following morning. That implies an overnight gap of several hours (i.e., the night between the two passages). Note about the previous-passage timestamp: the provided previous-ending-time (~12:30) is ambiguous (no AM/PM indicated) and conflicts with the textual cues that the prior scene ran into the night and watches were set; interpreting the narrative consistently means treating the gap as overnight. Summary answers below.</reasoning>
+        <starts>~09:30 (mid-morning, approximate)</starts>
+        <ends>~10:00 (mid-morning, approximate — at first detection of hostiles returning)</ends>
+        <gap-from-previous>~8–12 hours (overnight). The previous passage closed after watches were set; this scene is the following morning. During the gap characters rested fitfully on watch shifts, depleted resources slowly regenerated (Remedy producing slowly), and damaged systems were triaged — all actions mentioned or implied in the previous passage.</gap-from-previous>
+        <plausibility>Plausible. The timeline fits the textual signals: an overnight lull followed by a mid-morning return of the hostiles. The described actions within the passage (coordinated planning, Runner setting up false weak points, Velvet growing multiple thinner barrier layers, Remedy concentrating chemical production, and a 20-minute readiness window) are reasonable to accomplish in the tens-of-minutes timescale given the characters’ ongoing activity and the narrative’s stated resource constraints. Note the only potential confusion is the previous-ending timestamp (~12:30) supplied externally — if interpreted as midday rather than late night, it would conflict with the narrative; but reading the prose itself indicates an overnight interval of several hours, which makes the timeline coherent.</plausibility>
+      </timing>
+      <characters>
+        <reasoning>Who appears: The narrator (I) is Kira Voss and is present throughout. Scout, Florence, Runner, Velvet, Remedy, Holloway, and Buddy are all explicitly mentioned and participate in the scene. No new characters arrive during this passage (everyone present was already there at the end of the previous passage). No one leaves or is described as exiting before the passage ends. The scene takes place in/around the damaged facility; the only available location entity that matches the setting is Sector_7-Gamma-412_Planet, so it is included as the relevant location entity.</reasoning>
+        <present>
+          <character ref="/world/characters/Kira_Voss"/>
+          <character ref="/world/characters/Buddy"/>
+          <character ref="/world/characters/Scout"/>
+          <character ref="/world/characters/Holloway"/>
+          <character ref="/world/characters/Florence"/>
+          <character ref="/world/characters/Runner"/>
+          <character ref="/world/characters/Remedy"/>
+          <character ref="/world/characters/Velvet"/>
+        </present>
+        <entities>
+          <entity ref="/world/entities/Sector_7-Gamma-412_Planet"/>
+        </entities>
+      </characters>
+    </summary>
+  </version>
+</versions>

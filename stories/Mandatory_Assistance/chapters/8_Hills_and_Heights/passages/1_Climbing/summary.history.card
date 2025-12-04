@@ -1,0 +1,201 @@
+<!-- this file is automatically managed by ske validate; do not edit -->
+<versions>
+  <version number="2.0.0" archived-at="2025-12-02T15:07:16.161Z">
+    <changelog-entry>
+      <message>Initial version</message>
+    </changelog-entry>
+    <!-- Generated automatically, do not edit except with ske gen summaries -->
+    <summary version="2.0.0">
+      <sources>
+        <ref ref="/stories/Mandatory_Assistance/chapters/8_Hills_and_Heights/passages/1_Climbing/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/passage#v4.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/2_Aftermath/passage#v2.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/3_Buddy_Arrives/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/4_Taking_Stock/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/1_Into_the_Purple/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/2_Scout/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/3_Wellness_Check/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/1_Intake/passage#v2.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/2_Orientation/passage#v2.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/3_Medical_Treatment/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/1_Morning_Wellness/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/2_Dietary_Assessment/passage#v2.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/3_Seeking_Solutions/passage#v2.1.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/5_Settling_In/passages/1_Time_Passing/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/5_Settling_In/passages/2_Journey_Option/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/5_Settling_In/passages/3_Preparation/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/6_Through_the_Forest/passages/1_First_Day/passage#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/6_Through_the_Forest/passages/2_Deeper_In/passage#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/6_Through_the_Forest/passages/3_Boundary/passage#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/7_Rivers_and_Wetlands/passages/1_River_Crossing/passage#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/7_Rivers_and_Wetlands/passages/2_Wetlands/passage#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/7_Rivers_and_Wetlands/passages/3_Second_Boundary/passage#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/summary#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/2_Aftermath/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/3_Buddy_Arrives/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/4_Taking_Stock/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/1_Into_the_Purple/summary#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/2_Scout/summary#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/3_Wellness_Check/summary#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/1_Intake/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/2_Orientation/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/3_Medical_Treatment/summary#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/1_Morning_Wellness/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/2_Dietary_Assessment/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/3_Seeking_Solutions/summary#v2.1.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/5_Settling_In/passages/1_Time_Passing/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/5_Settling_In/passages/2_Journey_Option/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/5_Settling_In/passages/3_Preparation/summary#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/6_Through_the_Forest/passages/1_First_Day/summary#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/6_Through_the_Forest/passages/2_Deeper_In/summary#v4.0.0"/>
+      </sources>
+      <physical-reality>
+        <reasoning>The party has descended from the boundary climb and completed a day of travel in Territory Three. They reached an established evening campsite tucked between two rock formations. The passage describes physical, objective details: loose, skittering stones on the slopes; a plateau with expanded views back to the wetlands; a small spring trickling down the rocks at the campsite; cleared ground and a prepared fire pit; intentionally grown/arranged moss patches for sleeping. Oakshade is stationary and settled near the spring; Mossmantle is actively preparing fuel/starting the fire; Scout investigated a nearby crystalline rock cluster and is now curled up and sleeping on a moss patch; Kira has dropped her pack, eaten mushroom paste, and is physically tired but uninjured. Buddy (a companion device/AI) is present and functioning. Time is evening — sun set and stars coming out — and the party expects steeper climbs and thinner air tomorrow. No other characters or new hazards are introduced.</reasoning>
+        <state>Kira and Scout are camped at an evening rest site in Territory Three, sheltered between two rock formations with a small spring trickling down the rocks. The ground at the site has been cleared and a fire pit is present; moss sleeping patches have been cultivated and claimed. Oakshade is settled near the spring; Mossmantle is preparing fuel/lighting the fire; Scout is asleep on a moss patch; Kira has dropped her pack and eaten dinner and is fatigued but uninjured. Nearby slopes remain loose and rocky (one crystalline rock cluster Scout inspected), the wetlands and forests are visible back the way they came, and it is sunset/early night with steeper, higher-elevation terrain (thinner air) expected tomorrow.</state>
+      </physical-reality>
+      <narrative-promises>
+        <reasoning>This passage largely confirms and develops the on-the-ground reality of Territory Three (hills, loose stone, maintained campsites, a spring) and the personalities/dynamics of the new guides, while introducing short-term hazards (altitude, slipping, flammable spore-fuel) to watch next. I treat as "fulfilled" those prior open promises that the passage directly and concretely paid off (terrain type confirmed, campsite maintenance and an actual water source at the evening site). Most other prior promises remain relevant and unresolved (technical mystery, mission questions, AI status and limits, long-term logistics, plant motives, governance, Buddy limits, Scout endurance, documentation/records, etc.). No prior open promise is clearly abandoned or rendered moot by this passage — the narrative threads remain live even if not advanced here. New promises introduced are locally foreshadowing hazards and resources that will affect near-term travel and raise investigative questions about plant capabilities (fire use, mineral deposits).</reasoning>
+        <fulfilled>
+          <promise id="TERRITORY_THREE_TERRAIN_CHANGE__HILLS_AND_STONES">The passage concretely demonstrates Territory Three's hillier, stone-based navigation: loose rock, changing angles, elevation effects and climbing/descending—matching the earlier expectation.</promise>
+          <promise id="TERRITORIAL_INFRASTRUCTURE_MAINTAINED__REST_SHELTERS_AND_PATHS">A clearly maintained evening campsite is described (cleared ground, fire pit, encouraged moss sleeping patches), verifying that territorial maintenance provides rest shelters and prepared sites.</promise>
+          <promise id="WATER_SOURCE_ACCESSIBILITY_AND_QUALITY">The campsite includes a small spring trickling down the rocks and an explicit 'water source at the campsite' — confirming immediate water availability at this rest stop (long-term potability/logistics still unresolved).</promise>
+        </fulfilled>
+        <open>
+          <promise id="COORDINATES_MISMATCH__FORBIDDEN_APPROACH">Exact landing coordinates and whether the landing site is problematic/forbidden remain unresolved and relevant to escape/rescue options.</promise>
+          <promise id="NAVIGATION_AND_STABILIZER_FAILURE__CAUSE">Root cause of the shuttle/systems failure (technical, sabotage, anomaly) remains uninvestigated.</promise>
+          <promise id="KEPLER_288_EXPECTATION">Whether this planet is Kepler-288 (or something else) remains unconfirmed and contextually relevant.</promise>
+          <promise id="SECRET_OR_ILLEGAL_MISSIONAL_REASON">Any off-protocol or illegal mission objectives and consequences tied to the mission remain unresolved.</promise>
+          <promise id="SAM_OFFLINE__AI_STATUS_UNKNOWN">SAM’s operational status (offline/damaged/compromised/salvageable) is still unknown.</promise>
+          <promise id="INVESTIGATE_PILOTS_DEATH_CAUSE">The causes of Jensen and Reed’s deaths are still uninvestigated.</promise>
+          <promise id="BIOHAZARD_SMELL__POTENTIAL_CONTAMINATION">Hints of contamination or odd smells and their health/environmental implications remain unexamined.</promise>
+          <promise id="EMERGENCY_AI_REPLACEMENT_PROTOCOL_EXISTS">Whether formal emergency-AI-replacement protocols were invoked and the scope of Buddy/Holloway’s authority remains unresolved.</promise>
+          <promise id="BUDDY_AI_PERSONALITY_AND_LIMITATIONS">Buddy shows supportive behavior here (vitals monitoring, encouragement) but deeper limits, failure modes, authority boundaries and battery/reserve constraints remain undefined.</promise>
+          <promise id="BUDDY_CAPABILITIES_VS_SAM">Whether Buddy matches SAM’s full capabilities (communications, diagnostics, authority) remains unclear.</promise>
+          <promise id="NEURAL_LINK_COMPATIBILITY_AND_RISK">Risks and compatibility issues with neural-link tech remain unaddressed.</promise>
+          <promise id="BEACON_REPAIR_OR_ALTERNATIVE_COMMS">The status of the distress beacon and alternative relay options remains unknown.</promise>
+          <promise id="LIFE_SUPPORT_DURATION_AND_CONSEQUENCES">Long-term life-support duration, sustainability and consequences for extended isolation remain unresolved.</promise>
+          <promise id="SHUTTLE_SHELTER_VIABILITY">Whether the shuttle can be repurposed as long-term shelter or base is still undecided.</promise>
+          <promise id="LONG_TERM_SURVIVAL_PLAN_REQUIRED">A comprehensive long-term survival plan (supply continuity, signaling, fallback options) remains required.</promise>
+          <promise id="FOREST_APPEARS_MAINTAINED__IMPLIED_PRESENCE">Evidence of organized maintenance continues; identity, motives and scale of maintainers remain unknown.</promise>
+          <promise id="IMPACT_ON_WATER_JOURNEY_AND_MOVEMENT">How integration with facility/plant systems affects Kira’s broader mobility and escape plans remains an open strategic question.</promise>
+          <promise id="PREVIOUS_VISITOR_AND_MATERIALS">Provenance of human 'standard' materials and who taught/assisted the plants remains unresolved.</promise>
+          <promise id="PREVIOUS_VISITOR_DEATH_CIRCUMSTANCES">Circumstances around previous human deaths that influenced plant learning remain unknown.</promise>
+          <promise id="PLANT_DOCUMENTATION_AND_DATA_USAGE">Plants' use of transmitted documentation to synthesize food remains unexplored in mechanics and policy implications.</promise>
+          <promise id="REMEDY_EFFECTIVENESS_WINDOW">Durability and limits of the remedy wound fixes remain unproven over the long term.</promise>
+          <promise id="PLANT_INTENT_BEYOND_HELP">While helpful now, plant motives (containment, assimilation, experimentation, genuine aid) remain an open question.</promise>
+          <promise id="LIVING_FACILITY_CAPABILITIES_AND_LIMITS">The broader living-facility’s structure, defensive capabilities and limits are not yet mapped.</promise>
+          <promise id="COLLECTIVE_AS_EMERGENCY_CONTACT__DATA_USAGE_IMPLICATIONS">Who acts as emergency contact for Kira and the implications for her agency and data sharing remain unresolved.</promise>
+          <promise id="INTEGRATION_AND_SOCIAL_ASSIGNMENT_RISK">Pressure to integrate into plant social/work structures and potential obligations/loss of agency remain an open risk.</promise>
+          <promise id="BUDDY_RECORDS_AND_ADVOCACY_ROLE">Whether Buddy can access records and advocate for Kira within plant governance remains unclear.</promise>
+          <promise id="FLORENCE_INTRODUCED__COORDINATION_ROLE">Florence’s role and authority relative to Holloway/the collective remain unclear.</promise>
+          <promise id="WHEELED_PLANT_TECH_INTEGRATION">Provenance and extent of plant–human tech hybridization remain to be explored.</promise>
+          <promise id="QUIZ_FAILURE_CONSEQUENCES">Potential consequences for failing plant assessments (quarantine, retraining, denied services) remain unresolved.</promise>
+          <promise id="PLANT_SOCIO_TECH_GOVERNANCE">Decision-making structure and limits of plant governance remain an open political thread.</promise>
+          <promise id="SCOUT_COMPANION_ROLE">Scout is active and attached; scope, limits and potential liabilities of Scout’s companion/guardian role remain open.</promise>
+          <promise id="ENFORCED_COMPLIANCE_AS_GATEKEEPING">The degree to which forms and tests gate access to services and enforcement mechanisms remains relevant.</promise>
+          <promise id="MUSHROOMS_AND_ROBOT_NETWORK_COMMUNICATION">Fungal/robot coordination across territories and their controllers/reliability remain unknown.</promise>
+          <promise id="DAILY_DEPENDENCE_ON_MUSHROOM_SUPPLY">Dependence on mushroom-based provisioning persists; logistics and failure modes remain unknown.</promise>
+          <promise id="CONSENT_AND_DOCUMENTATION_IMPLICATIONS">Kira’s records have been shared with plants; consent, obligations and future implications remain unresolved.</promise>
+          <promise id="DAILY_BUREAUCRACY_IMPACT_ON_SURVIVAL">Bureaucratic time-costs might continue to conflict with urgent needs and remain a risk.</promise>
+          <promise id="SOCIAL_ATTACHMENT_AND_DEPENDENCE_RISK">Kira’s attachments to plant actors are increasing; dependence and social obligations remain a narrative risk.</promise>
+          <promise id="PATIENT_COMPLIANCE_AS_STRATEGY">Kira's strategy of compliance to secure care remains active and will likely shape future interactions.</promise>
+          <promise id="VITAMIN_B12_DEFICIT_RISK">Micronutrient deficit risk from a plant-based diet remains unresolved.</promise>
+          <promise id="LONG_TERM_MICRONUTRIENT_DEFICITS">Chronic deficiencies despite approximation remain an open health risk.</promise>
+          <promise id="MEAL_PALATABILITY_AND_MORALE_IMPACT">Meals remain functional but bland; long-term morale effects are unresolved.</promise>
+          <promise id="COMPOUND_TESTING_TIME_COST">Time costs of allergy/synthesis testing across territories remain a potential delay factor.</promise>
+          <promise id="DIGESTIVE_TOLERANCE_AND_ADJUSTMENT_PERIOD">Early digestive tolerance is good but staged feeding and adjustment remain risks to monitor.</promise>
+          <promise id="ELDER_HEARTWOOD_QUERY_FILED">Formal network query to Elder Heartwood remains filed; outcome pending.</promise>
+          <promise id="ELDER_HEARTWOOD_RESPONSE_TIME">Elder's slow response remains a scheduling uncertainty for Kira’s objectives.</promise>
+          <promise id="RESCUE_TIMELINE_ESTIMATE_FROM_BUDDY">Buddy’s long rescue estimate (12–18 months) still frames motivation and risk.</promise>
+          <promise id="RESCUE_PROBABILITY_LOW__POSSIBLE_NO_SEARCH">Buddy’s warning that rescue may not be attempted remains an unresolved driver of Kira’s travel.</promise>
+          <promise id="BUREAUCRATIC_INTEGRATION_PRESSURE">Holloway’s integration messaging continues to exert social pressure and implications for future obligations.</promise>
+          <promise id="TRAVEL_ROUTE_DETAILED_MAPPING__SEVEN_TERRITORIES">Full hazards, protocol variations and mapping for the seven-territory route remain to be encountered and recorded.</promise>
+          <promise id="TRAVEL_TOTAL_TIMELINE_ESTIMATE_APPROX_25_DAYS">Original ~25-day timeline remains a benchmark but is not validated by current pace/delays.</promise>
+          <promise id="TERRITORIAL_PROCESSING_AND_PERMIT_TIMES">Processing times at territorial boundaries could vary and delay handoffs beyond initial approvals.</promise>
+          <promise id="TRAVEL_NUTRITIONAL_AND_METABOLIC_RISK">Metabolic and nutritional stress over multi-week travel remains an important medical risk.</promise>
+          <promise id="BUDDY_TRAVEL_SUPPORT_LIMITS">Buddy is present but battery/reserve/authority limits for multi-day travel remain unspecified.</promise>
+          <promise id="ELDER_FACE_TO_FACE_COMMUNICATION_OUTCOME_UNCERTAIN">Even if Kira reaches Elder Heartwood, whether Elder can or will help remains unresolved.</promise>
+          <promise id="EXPEDITED_PROCESSING__UNUSUAL_ATTENTION">Kira's prior expedited approval that flagged her case as notable remains a thread for potential scrutiny or obligations.</promise>
+          <promise id="BOUNDARY_MARKER_SPIRAL_PATTERN__POTENTIAL_SIGNIFICANCE">The spiral stone-and-flowers boundary marker pattern remains of interest and its ritual/authority significance is unresolved.</promise>
+          <promise id="GUIDE_TO_GUIDE_HANDOFF_PROTOCOL__RITUAL_TRANSFER">Observed guide-to-guide contact suggests a handoff/data-transfer ritual; contents and implications (records, flags, obligations) remain unresolved.</promise>
+          <promise id="TERITORY_THREE_DURATION_AND_HANOFF_SCHEDULE">Oakshade's stated 'three days through hill country' schedule remains an immediate timeframe to monitor for handoff timing (still in progress).</promise>
+          <promise id="SCOUT_CONTINUED_ADAPTABILITY_AND_ROLE">Scout adapts to elevation here—useful evidence—but the scope, limits, and liabilities of Scout's role with successive guide teams remain open.</promise>
+          <promise id="KIRA_TRUST_DEVELOPMENT__POTENTIAL_OVERTRUST_RISK">Kira continues to trust guides and adapt; this remains a narrative risk of overtrust to monitor.</promise>
+          <promise id="WETLANDS_TERRAIN_SATURATION__LONG_TERM_MOBILITY_RISK">Wetland saturation remains a longer-term mobility and equipment risk for prior sections of the route.</promise>
+          <promise id="RIVER_NETWORK_MAINTENANCE__PLACED_STONES_AND_AGENCY">Evidence of deliberate landscape management remains an investigative thread.</promise>
+          <promise id="WETLANDS_PURIFICATION_NETWORK__POTENTIAL_CONTROL_OR_RESOURCES">Water-filtering plants and mobile nutrient clusters remain a potential resource or control mechanism; details unresolved.</promise>
+          <promise id="DEEPENING_WETLAND_HEART__IMMINENT_INCREASED_HAZARD">Earlier note about deeper wetlands hazards remains an unresolved risk for that zone.</promise>
+          <promise id="REED_PLATFORM_SHELTER__TERRITORIAL_INFRASTRUCTURE_CONFIRMED">Reed-platform shelters continue to be observed and their governance remains unknown.</promise>
+          <promise id="WATER_MANAGEMENT_IMPACT_ON_EQUIPMENT__MOISTURE_LOGISTICS">Wet clothes, drying logistics and gear moisture impacts remain an ongoing concern.</promise>
+          <promise id="RIVER_PERSONIFICATION__WATER_AGENCY_POTENTIAL">Plants' attribution of agency to water remains a thread suggesting networked environmental behavior.</promise>
+          <promise id="WETLANDS_TESTING_PROTOCOL__FOOTING_COLLAPSE">The wetlands' apparent practice of testing travelers' footing remains an active concern about intentional selection/control mechanisms.</promise>
+          <promise id="FLOWER_PATTERN_SIGNAL_STANDARDIZATION">Brightbloom's flower patterns as an encoded visual protocol continue to be used; questions about standardization, misuse, and information content remain open.</promise>
+          <promise id="WATER_CARRIED_CHEMICAL_COMMUNICATION">Plants' transmission of chemical signals through water currents remains unresolved in technical/security/manipulation terms.</promise>
+          <promise id="GUIDE_EXTRACTION_CAPABILITY__STREAMWALKER_VINES">Streamwalker's vine extraction technique was shown earlier; reliance on guide extraction for safety remains an explicit strategy risk.</promise>
+          <promise id="FREQUENCY_OF_GROUND_COLLAPSE__SAFETY_STAT">Claimed frequency that 'every third or fourth traveler' collapses remains an empirical risk metric to validate.</promise>
+          <promise id="OAKSHADE_AND_MOSSMANTLE_INTRODUCED__TERRITORY_THREE_GUIDES">Oakshade and Mossmantle are introduced and their skills/persona noted; records, motives, authority and possible documentation about Kira remain to be explored.</promise>
+          <promise id="BOUNDARY_MARKER_VARIATION__STONE_CIRCLE_WITH_FLOWERS">The stone-circle-with-flowers boundary marker form is observed; its function/ritual/authority significance remains open.</promise>
+          <promise id="GUIDE_COORDINATION_DOCUMENTATION_FLAGS__KIRA_NOTABILITY">Streamwalker's praise confirms Kira’s notability in plant records; implications for scrutiny or obligations remain unresolved.</promise>
+          <promise id="EMOTIONAL_ATTACHMENT_AND_FAREWELL_IMPACT__PERSONAL_COST">Brightbloom's attachment tendencies and repeated goodbyes remain an emotional-cost risk for Kira.</promise>
+          <promise id="WETLANDS_TERRAIN_SATURATION__LONG_TERM_MOBILITY_RISK">Saturated ground remains a sustained terrain condition that may impede travel or degrade gear.</promise>
+          <promise id="RIVER_NETWORK_MAINTENANCE__PLACED_STONES_AND_AGENCY">Deliberate river/stone placements and path maintenance remain evidence of environmental agency to investigate.</promise>
+          <promise id="WETLANDS_PURIFICATION_NETWORK__POTENTIAL_CONTROL_OR_RESOURCES">Water-filtering plant networks remain a potential resource/control mechanism; details unresolved.</promise>
+          <promise id="ROOTWALKER_PREDICTIVE_NAVIGATION_AND_PROTECTION__FOLLOWUP_TESTS">Rootwalker's competence was validated earlier; potential for further testing remains open.</promise>
+          <promise id="SCOUT_LIMITS_AND_ENDURANCE">Scout shows high energy and good recovery here but overall limits and endurance over sustained travel remain a variable to monitor.</promise>
+          <promise id="LEAFWHISPER_CONTINUAL_CHATTER__INFO_OVERLOAD_RISK">Leafwhisper's relentless explanatory style remains both useful and a potential liability for Kira.</promise>
+          <promise id="NIGHT_SHELTER_COMPOSITION_AND_SECURITY">Shelters' composition (moss beds, rock shelters, fire pits) is confirmed in this campsite, but the broader security/defense/governance role of such sites remains unresolved.</promise>
+          <promise id="NEW_PROMISE_SPIRAL_TYPES_TIME_PERCEPTION__POTENTIAL_EFFECTS">Spiral-type plants' layered time perception could create unusual causal/communication effects later; unresolved.</promise>
+          <promise id="NEW_PROMISE_SCOUT_LEARNING_PATTERN__UTILITY_OR_LIMITS">Scout's investigative learning pattern continues to be useful; long-term utility vs limits remains open.</promise>
+          <promise id="NEW_PROMISE_LUMINOUS_MUSHROOMS__UNKNOWN_PROPERTIES">Luminous mushrooms previously inspected still have unknown toxicity, communicative role, or network function.</promise>
+          <promise id="TERRITORY_THREE_TERRAIN_CHANGE__HILLS_AND_STONES">FULFILLED (terrain confirmed in this passage).</promise>
+          <promise id="BOUNDARY_MARKER_VARIATION__STONE_CIRCLE_WITH_FLOWERS">Observed earlier and still relevant as a ritual/authority marker.</promise>
+          <promise id="TERITORY_THREE_DURATION_AND_HANOFF_SCHEDULE">Still in progress: the three-day schedule for Territory Three remains the immediate timeframe to monitor.</promise>
+          <promise id="KIRA_TRUST_DEVELOPMENT__POTENTIAL_OVERTRUST_RISK">Kira’s trust skill continues to grow; the risk of overtrust remains.</promise>
+          <promise id="ALTITUDE_THINNING_AND_HEALTH_RISK">New: Oakshade warns that 'air thins' and the path steepens tomorrow — foreshadows altitude/oxygen and cardiovascular risks (possible effects on Kira, Scout, Buddy monitoring).</promise>
+          <promise id="HILLS_LOOSE_STONE_AND_SLIPPING_HAZARD">New: Loose stone and shifting footing are shown repeatedly; creates immediate slipping/fall risk, unstable steps and the potential for injury or slowed progress.</promise>
+          <promise id="PLANT_USE_OF_FIRE_AND_FUEL_PRODUCTION">New: Mossmantle (or plants) appear to create/encourage fuel (spores or flammables) and a fire pit exists — raises questions about plant-controlled fire use, its purpose, mechanics and risks.</promise>
+          <promise id="CRYSTALLINE_MINERAL_DEPOSITS__RESOURCE_OR_SIGNIFICANCE">New: Scout discovers crystalline rocks; Mossmantle explains mineral-deposit formation — raises potential resource, map-marker, or environmental-significance questions to investigate.</promise>
+          <promise id="OAKSHADE_AND_MOSSMANTLE_INTRODUCED__TERRITORY_THREE_GUIDES">Continuing: Their personalities and guide methods are being demonstrated; records, motives and implications for Kira remain to be explored.</promise>
+        </open>
+      </narrative-promises>
+      <facts>
+        <reasoning>Identify only facts that matter for long-term continuity: character traits/roles that shape future behavior, capabilities that affect logistics or survival, and state changes in relationships/skills. I did not record transient scene details (time of day, immediate actions) or items already captured in the provided summary. I flagged two changes (Kira's increased competence from cumulative walking; Buddy's small behavioral shift toward concise encouragement) because they alter how those characters will behave in future scenes. I also recorded stable traits about the guides (Oakshade's tendency to settle and Mossmantle's ability to produce flammable spores) and the functional dynamic between them because those affect future campsite behavior, guidance style, and resource production. No statements in this passage contradict the previously established facts, so no conflicts are reported.</reasoning>
+        <established>
+          <fact id="CHANGE_KIRA_COMPETENT_LONG_DISTANCE_WALKING">After roughly nine days of guided travel, Kira has developed a durable walking rhythm and practical competence at multi-terrain, long-distance hiking—she no longer struggles and moves with confidence and steady pacing.</fact>
+          <fact id="MOSSMANTLE_PRODUCES_FLAMMABLE_SPORES">Mossmantle (and/or ground plants in this territory) can produce flammable spores or similar biological material used to create fuel and start fires for campsite lighting and fuel needs.</fact>
+          <fact id="OAKSHADE_SETTLES_AND_REMAINS_ROOTED">Oakshade habitually finds a suitable spot near water or shelter and remains largely immobile once settled (tree behavior: 'roots down, stay put'), serving as a stationary presence at campsites.</fact>
+          <fact id="GUIDE_PAIR_DYNAMIC_OAKSHADE_VS_MOSSMANTLE">Oakshade and Mossmantle operate as a complementary guide pair: Oakshade provides long-timescale, conceptual/big-picture guidance while Mossmantle focuses on immediate, ground-level, tactical instructions (where to step, what holds).</fact>
+          <fact id="CHANGE_BUDDY_BRIEF_SUPPORTIVE_RESPONSES">Buddy shows emerging adaptability in communication: alongside its didactic tendencies it can now offer concise, genuine encouragement and step back from extended teaching when Kira signals she prefers affirmation over instruction.</fact>
+        </established>
+        <conflicts/>
+      </facts>
+      <timing>
+        <reasoning>The passage opens immediately after the previous one: the narrator has just stepped into Territory Three and begun climbing the first hill. Time cues: references to the boundary, climbing, a plateau, "another three hours to tonight's rest area," a description of "the afternoon is all hills," and finally arriving at the evening campsite "as the sun is setting." That sequence indicates the passage covers a single travel-day from mid-morning through sunset. How much time passes in the passage: roughly a day of travel (several hours of climbing and afternoon walking). When it ends: at dusk/sunset at the evening campsite. How much time since the previous passage: effectively none — the previous passage ended with "I walk forward," and this one begins with climbing the first hill. Plausibility: overall plausible — mid-morning departure into a day of hill-climbing that finishes at a campsite at sunset is believable. One small internal timing note: Mossmantle's line "Another three hours to tonight's rest area" could imply an earlier arrival (mid- to late-afternoon) if the plateau happened late morning; however, extra climbing, slower pace on steep terrain, breaks, or a long twilight can easily stretch that into arriving at sunset. So there is no major contradiction, just a minor compression/ambiguity in the stated "three hours" versus descriptive pacing to sunset, which can be reconciled with reasonable slowdowns and breaks.</reasoning>
+        <starts>~09:15</starts>
+        <ends>~18:30 (sunset, approximate)</ends>
+        <gap-from-previous>none — continuation. The passage picks up immediately after the previous one; only minutes (boundary-handshake, brief exchanges) would separate them.</gap-from-previous>
+        <plausibility>Plausible. The timeline (mid-morning start, several hours of climbing and afternoon walking, arrival at campsite at sunset) fits normal day-hike pacing. The only minor quibble is the explicit "three hours to tonight's rest area," which reads short compared with the later description of an entire afternoon of hills and a sunset arrival; this is reconcilable by accounting for slower terrain, additional climbs, rests, and extended twilight.</plausibility>
+      </timing>
+      <characters>
+        <reasoning>I listed every character who is either present in the action or explicitly mentioned. Kira_Voss is the narrator and is continuously present. Oakshade and Mossmantle are active guides in the scene (speaking, directing, and later settling at camp); they were present at the start and remain through the end. Scout appears repeatedly (bouncing, exploring, then sleeping). Buddy speaks once during the hike and therefore must have entered during this passage (Buddy was not listed in the prior-present list). Leafwhisper, Rootwalker, Streamwalker, and Brightbloom are mentioned by comparison to other guide pairs, so they are included as mentioned characters. No character who was present at the start leaves before the end of the passage, so the EXITED list is empty. The only explicit entity referenced from the provided entity list is the alien planet setting, so I included /world/entities/Sector_7-Gamma-412_Planet.</reasoning>
+        <present>
+          <character ref="/world/characters/Kira_Voss"/>
+          <character ref="/world/characters/Oakshade"/>
+          <character ref="/world/characters/Mossmantle"/>
+          <character ref="/world/characters/Scout"/>
+          <character ref="/world/characters/Buddy"/>
+          <character ref="/world/characters/Leafwhisper"/>
+          <character ref="/world/characters/Rootwalker"/>
+          <character ref="/world/characters/Streamwalker"/>
+          <character ref="/world/characters/Brightbloom"/>
+        </present>
+        <entered>
+          <character ref="/world/characters/Buddy"/>
+        </entered>
+        <entities>
+          <entity ref="/world/entities/Sector_7-Gamma-412_Planet"/>
+        </entities>
+      </characters>
+    </summary>
+  </version>
+</versions>

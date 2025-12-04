@@ -1,0 +1,117 @@
+<!-- Generated automatically, do not edit except with ske gen summaries -->
+<summary version="2.0.0">
+  <sources>
+    <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/1_Morning_Wellness/passage#v2.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/passage#v4.0.1"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/2_Aftermath/passage#v2.0.1"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/3_Buddy_Arrives/passage#v2.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/4_Taking_Stock/passage#v2.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/1_Into_the_Purple/passage#v3.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/2_Scout/passage#v3.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/3_Wellness_Check/passage#v3.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/1_Intake/passage#v2.0.1"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/2_Orientation/passage#v2.0.1"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/3_Medical_Treatment/passage#v3.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/summary#v4.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/2_Aftermath/summary#v2.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/3_Buddy_Arrives/summary#v2.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/4_Taking_Stock/summary#v2.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/1_Into_the_Purple/summary#v3.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/2_Scout/summary#v3.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/3_Wellness_Check/summary#v3.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/1_Intake/summary#v2.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/2_Orientation/summary#v2.0.0"/>
+  </sources>
+  <physical-reality>
+    <reasoning>Kira is awake in the same vine-formed temporary quarters described previously. The room’s bioluminescence is increasing (a morning cycle), the vine walls pulse with light, and distant movement is audible deeper in the structure. Scout, the small plant companion, remains physically present near the entrance and interacts with Kira. Buddy (the neural/system interface) and Holloway (the facility’s networked fungal fruiting bodies) are active and communicating; Holloway has prompted and begun new documentation. Remedy, the salvaged humanoid robot, is present in the chamber and has just completed a wound reassessment and rebandaging. Mushrooms are actively fruiting in a corner (used for synthesizing compounds); small pale clusters are present. The wound is unwrapped and inspected: edges are closing, redness reduced, no weeping, approximately 70% closed; bacterial colonization is halted and inflammation/pain reduced. Fresh antibacterial gel and a plant‑fiber bandage have been applied; Remedy prescribes daily wound care for another 4–5 days and estimates ~2 weeks to full healing. A spring-fed water collection basin is accessible in the quarter and Kira drank cool, slightly green water. Kira’s vitals are stable and she slept ~9 hours per Buddy. No other humans are present. Holloway has initiated a dietary assessment protocol (forms and testing) for human-compatible food; the protocol is estimated to take ~4 hours. The facility network and documentation processes remain active and will continue to generate forms and care tasks.</reasoning>
+    <state>Kira is awake in her vine‑formed quarters as morning bioluminescence brightens. Scout sits near the doorway; Buddy and Holloway are active via the facility network and fruiting bodies. Remedy the robot is present and has just inspected and rebandaged Kira’s leg: wound ~70% closed, bacterial colonization halted, inflammation reduced; fresh antibacterial gel and plant‑fiber bandage applied; daily wound care scheduled for 4–5 more days, full healing ~2 weeks. Mushrooms are fruiting in the corner (active synthesis resource). A spring-fed collection basin provides cool water. A dietary assessment workflow has been initiated (forms/tests, ~4 hours). Vital signs are stable; no other humans are present; the facility continues to document and coordinate Kira’s care.</state>
+  </physical-reality>
+  <narrative-promises>
+    <reasoning>I compared each open promise from the previous passage to what actually happened in the current passage. The morning scene primarily reinforced and extended existing setups (daily wellness bureaucracy, Remedy's ongoing care, Scout's companion role, availability of quarters and spring water) but did not resolve the larger structural mysteries (origin of the landing, SAM's status, origin/policy of the plant collective, long-term healing/rescue timelines, data-use, governance, etc.). Nothing that had been an outstanding question was fully answered here; rather, several setups were made more concrete (daily wound-care schedule, the dietary-assessment process and its time cost, Kira's growing social attachment), which introduces new narrative promises to track. I therefore carried almost all prior promises forward as still open, left fulfilled and lapsed lists empty (no prior open promise was fully resolved or abandoned), and added new promises introduced by this passage with concise descriptions and stakes.</reasoning>
+    <open>
+      <promise id="COORDINATES_MISMATCH__FORBIDDEN_APPROACH">Where they actually landed and whether that destination is problematic/forbidden remains unresolved.</promise>
+      <promise id="NAVIGATION_AND_STABILIZER_FAILURE__CAUSE">Root cause of the shuttle's systems failing (technical fault, external strike, sabotage, anomaly) remains unknown.</promise>
+      <promise id="KEPLER_288_EXPECTATION">Whether this planet is the expected Kepler-288 (or a different target) remains unconfirmed.</promise>
+      <promise id="SECRET_OR_ILLEGAL_MISSIONAL_REASON">Whether the mission was off-protocol or traveling to a forbidden destination (and attendant consequences) remains unresolved.</promise>
+      <promise id="SAM_OFFLINE__AI_STATUS_UNKNOWN">SAM's status (offline/damaged/compromised/salvageable) is still unknown.</promise>
+      <promise id="INVESTIGATE_PILOTS_DEATH_CAUSE">The specific causes of Jensen and Reed's deaths (or others) remain uninvestigated.</promise>
+      <promise id="BIOHAZARD_SMELL__POTENTIAL_CONTAMINATION">Earlier indications of contamination or strange smells and their broader environmental/health implications were not examined here.</promise>
+      <promise id="EMERGENCY_AI_REPLACEMENT_PROTOCOL_EXISTS">Whether formal emergency-AI replacement protocols were invoked and their legal/operational effects remains open.</promise>
+      <promise id="BUDDY_AI_PERSONALITY_AND_LIMITATIONS">Buddy remains helpful and personable but its limits and deeper capabilities are still undefined.</promise>
+      <promise id="BUDDY_CAPABILITIES_VS_SAM">Whether Buddy can replicate SAM's full capabilities (comms, diagnostics, authority) remains unresolved.</promise>
+      <promise id="NEURAL_LINK_COMPATIBILITY_AND_RISK">Risks stemming from prior neural-link interactions (privacy, infection, control) are unaddressed.</promise>
+      <promise id="WATER_SOURCE_ACCESSIBILITY_AND_QUALITY">A spring in the quarters was used (accessibility confirmed in practice), but formal potability, long-term access, and quality remain untested.</promise>
+      <promise id="BEACON_REPAIR_OR_ALTERNATIVE_COMMS">The distress beacon's status and alternative communication/relay options remain unexamined.</promise>
+      <promise id="LIFE_SUPPORT_DURATION_AND_CONSEQUENCES">How long Kira's life-support options will last and rescue timelines/consequences remain open.</promise>
+      <promise id="SHUTTLE_SHELTER_VIABILITY">Whether the shuttle can serve as a long-term shelter or salvage base remains undetermined.</promise>
+      <promise id="LONG_TERM_SURVIVAL_PLAN_REQUIRED">A comprehensive survival plan (food, water, shelter, signaling, rescue strategy) is still required and not yet developed.</promise>
+      <promise id="FOREST_APPEARS_MAINTAINED__IMPLIED_PRESENCE">The wider forest's maintenance, purpose, and the agents behind landscape upkeep remain to be explored.</promise>
+      <promise id="IMPACT_ON_WATER_JOURNEY_AND_MOVEMENT">How intake/processing and being taken into the facility affects Kira's mobility and original plans remains relevant.</promise>
+      <promise id="PREVIOUS_VISITOR_AND_MATERIALS">The provenance of the human 'Standard' materials the plants learned from and who the previous visitor was remains unresolved.</promise>
+      <promise id="PREVIOUS_VISITOR_DEATH_CIRCUMSTANCES">Circumstances of the earlier human death that influenced plant HR-learning still need specifics.</promise>
+      <promise id="PLANT_DOCUMENTATION_AND_DATA_USAGE">Documentation and filing occurred, but how plants store, share, use, or potentially expose personal data remains unresolved.</promise>
+      <promise id="REMEDY_TREATMENT_EFFECTIVENESS_AND_LONG_TERM_HEALING">Remedy's care is clearly effective in the short term (infection halted, wound closing), but long-term healing, relapse risk, and side effects are still untested.</promise>
+      <promise id="PLANT_INTENT_BEYOND_HELP">Plants appear benevolent here, but their broader motives (containment, assimilation, experimentation) remain unclear—Remedy's decomposition comments keep this open.</promise>
+      <promise id="LIVING_FACILITY_CAPABILITIES_AND_LIMITS">Facility can synthesize meds, house patients, and route bureaucracy—its full structure, defenses, limits, and policies remain open.</promise>
+      <promise id="REMEDY_EFFECTIVENESS_WINDOW">Timing constraints and the window for effective treatment remain to be confirmed across a longer timeline.</promise>
+      <promise id="COLLECTIVE_AS_EMERGENCY_CONTACT__DATA_USAGE_IMPLICATIONS">Who actually acts as emergency contact and what that implies for Kira's agency/data remains open.</promise>
+      <promise id="INTEGRATION_AND_SOCIAL_ASSIGNMENT_RISK">References to 'integration' and workplace membership persist; whether Kira will be pressured or obliged to take roles remains unresolved.</promise>
+      <promise id="BUDDY_RECORDS_AND_ADVOCACY_ROLE">Buddy supplied records and commentary, but whether it can meaningfully advocate or substitute for SAM remains open.</promise>
+      <promise id="FLORENCE_INTRODUCED__COORDINATION_ROLE">Florence's authority, relationship to Holloway/the collective, and influence over Kira remain open (Florence not present here).</promise>
+      <promise id="WHEELED_PLANT_TECH_INTEGRATION">Plants repurpose salvaged mechanical parts; provenance and extent of human-plant tech hybridization remain open.</promise>
+      <promise id="QUIZ_FAILURE_CONSEQUENCES">Consequences for failing required assessments (denied care, retraining, quarantine) remain unanswered.</promise>
+      <promise id="PLANT_SOCIO_TECH_GOVERNANCE">Division of labor among plant actors exists but their decision-making structure, authority, and internal politics remain unresolved.</promise>
+      <promise id="SCOUT_COMPANION_ROLE">Scout continues as companion/guide/mediator (comforting, pointing to water); scope and limits of that role remain to be explored.</promise>
+      <promise id="ENFORCED_COMPLIANCE_AS_GATEKEEPING">Consent/documentation and tests continue to act as gates to services; whether refusal is permitted or punished remains open.</promise>
+      <promise id="REMEDY_INTRODUCED__ROBOT_MEDIC">Remedy (patched humanoid medic) is active; origin, programming, authority, and provenance remain to be explored.</promise>
+      <promise id="FUNGAL_MEDICINAL_SYNTHESIS_AND_SUPPLY">Fungal network produces medicinal compounds on demand; specificity, limits, sustainability, and control over supply remain open.</promise>
+      <promise id="REMEDY_DECOMPOSITION_PROCLIVITY_AS_MOTIVATION">Remedy's frank talk about decomposition suggests an instrumental attitude toward human remains that requires further exploration.</promise>
+      <promise id="MUSHROOMS_AND_ROBOT_NETWORK_COMMUNICATION">Mushrooms pulse and communicate with Remedy, implying an integrated fungal-robot network—its structure and controller remain unknown.</promise>
+      <promise id="DAILY_DEPENDENCE_ON_MUSHROOM_SUPPLY">Remedy will fruit antibacterial mushrooms daily for wound care; logistics, continuity, and conditions for supply remain open.</promise>
+      <promise id="QUARTERS_AND_RESOURCE_PROVISION">Temporary quarters with water and waste facilities were provided and used, but duration, privacy, obligations, and long-term quality remain unresolved.</promise>
+      <promise id="CONSENT_AND_DOCUMENTATION_IMPLICATIONS">Each medical compound required separate consent and was logged—what consents mean, how data is used, and whether this is coercive remain open.</promise>
+      <promise id="REMEDY_TIMELINE_AND_RECOVERY">Remedy's recovery estimate is being refined (daily care for 4–5 days; full healing maybe two weeks)—the estimate stands but actual long-term outcome remains to be proven.</promise>
+      <promise id="DIETARY_ASSESSMENT_AND_FOOD_ACCESS">New in this passage: an explicit dietary-assessment protocol was introduced (standard process ~4 hours) — whether human-compatible food will be approved and delivered promptly is unresolved.</promise>
+      <promise id="REMEDY_DAILY_WOUND_CARE_SCHEDULE">New specificity: Remedy will provide daily wound care for another 4–5 days, then reduce frequency — this schedules ongoing dependence on Remedy/fungal supply and raises supply/logistics questions.</promise>
+      <promise id="DAILY_BUREAUCRACY_IMPACT_ON_SURVIVAL">Newly emphasized: enforced bureaucratic timelines (e.g., four-hour dietary assessment) impose time-costs that could have survival/comfort consequences and may create tension between procedure and urgent needs.</promise>
+      <promise id="SOCIAL_ATTACHMENT_AND_DEPENDENCE_RISK">Newly introduced: Kira is starting to see the plant actors as 'people' and to grow attached, which could complicate agency, decisions about leaving/rescue, and vulnerability to persuasion.</promise>
+      <promise id="PATIENT_COMPLIANCE_AS_STRATEGY">New: Kira explicitly adopts the strategy of learning and using the plants' bureaucratic language to get care — promises to explore consequences for autonomy and how compliance shapes treatment access.</promise>
+    </open>
+  </narrative-promises>
+  <facts>
+    <reasoning>Selects facts that matter for later continuity: routines and bureaucratic requirements the plant community enforces (daily wellness reporting, numeric rating) can affect scheduling of medical care, access to resources (food), and Kira's interactions with them. Kira's behavior change — deliberately adopting the plants' bureaucratic language — is a stable character adaptation that will shape future exchanges and decision-making. The explicit documentation fields Remedy requires establish what records will exist and what metrics other characters may reference later. Kira's sleep duration (nine hours) is a concrete recovery-state change that could affect her energy, healing rate, and the timeline of events. No statements in this passage contradict previously established facts; the details provided here are consistent with the plant community's procedural nature and Remedy's clinical competence.</reasoning>
+    <established>
+      <fact id="CHANGE_KIRA_SLEPT_NINE_HOURS">Kira slept for approximately nine hours prior to waking (Buddy reported she slept ~9 hours).</fact>
+      <fact id="PLANTS_REQUIRE_DAILY_WELLNESS_SELF_REPORT">The plant community enforces a daily wellness reporting routine for human visitors (a formalized 'daily health status update' that is documented as part of care/workflow).</fact>
+      <fact id="PLANTS_USE_NUMERIC_WELLNESS_SCALE">As part of the daily wellness routine, the plants ask humans to rate overall wellness on a 1–10 scale and document that rating.</fact>
+      <fact id="KIRA_ADAPTS_BY_USING_PLANT_PROTOCOL_LANGUAGE">Kira deliberately frames responses and requests using the plants' bureaucratic/HR language (learning to 'play the game') to expedite care and approvals — a developing coping/strategy trait.</fact>
+      <fact id="REMEDY_REQUIRES_SPECIFIC_WOUND_DOCUMENTATION_FIELDS">Remedy documents wound assessments using explicit metrics (wound closure percentage, tissue regeneration status, treatment efficacy rating) as part of routine care records.</fact>
+    </established>
+    <conflicts/>
+  </facts>
+  <timing>
+    <reasoning>Temporal cues in the passage: Buddy reports "You slept for approximately nine hours," Holloway and Remedy trigger the usual morning routines, and the bioluminescence is described as brightening like a sunrise. The previous passage ended with Kira asleep at ~08:00 after treatment. Combining those cues places the wake-up about nine hours later. The events in this passage are limited: waking, brief chit-chat/status update, removal and inspection of the bandage, a short wound-care procedure (re-application of gel and fresh dressing), a hydration break, and the start of a dietary-assessment paperwork process. Those actions plausibly fit into a short time window (minutes to a few tens of minutes). Minor ambiguities: the narrative repeatedly calls this "morning" despite the nine-hour gap from ~08:00 to ~17:00 — this is consistent if the alien facility's light cycle or the plants' timing defines "morning" differently; it's not an internal contradiction. Healing progress (reduced pain, wound closure ~70%) after one night of targeted antibacterial/anti-inflammatory treatment is plausible in broad terms (significant reduction in acute inflammation and halted infection can show overnight improvement), though "70% closure" is a somewhat fast, optimistic assessment if interpreted as deep tissue regeneration. The quoted four-hour dietary-assessment protocol is long but intentionally bureaucratic in-universe and fits the established tone. Arrival cues (Remedy arriving "a minute later") and the wound-care timing are realistic within a short scene. Overall, the timing is consistent and plausible given the prior ending and the described actions.</reasoning>
+    <starts>~17:00 (approximately nine hours after previous passage ended at ~08:00)</starts>
+    <ends>~17:20 (approximately; a short scene of ~10–30 minutes after waking)</ends>
+    <gap-from-previous>≈9 hours. Kira slept through this interval (Buddy reports ~9 hours of sleep). During the gap the facility likely ran its usual background processes (scheduled daily mushroom fruiting for wound care, monitoring), and any automated documentation/back-end tasks could have continued; nothing in the prior passage requires additional, unaccounted-for events.</gap-from-previous>
+    <plausibility>Plausible. A nine-hour sleep after an exhausting day of treatment is reasonable. The short sequence of wake, status-check, bandage removal, inspection, application of antibacterial gel, re-bandaging, drinking, and initiating a dietary-assessment fits in 10–30 minutes. The plant/bioluminescent "sunrise" at ~17:00 is consistent with an alien circadian/environmental schedule rather than a continuity error. The wound showing clear improvement overnight after targeted antibacterial and anti-inflammatory treatment is believable (reduced inflammation and halted infection can be evident within hours), though the "70% closure" phrasing is a somewhat optimistic clinical shorthand. The four-hour dietary-assessment duration is long but consistent with the story's established bureaucratic procedures. No major timing contradictions detected.</plausibility>
+  </timing>
+  <characters>
+    <reasoning>I read the passage and noted every named character who appears or is mentioned. Kira and Scout are clearly present at the scene start. Buddy's voice begins speaking early in the passage (his presence/voice emerges during the scene). Holloway's fruiting body sprouts and speaks after Kira wakes, so Holloway effectively appears during the passage. Remedy is explicitly described as arriving a minute later, so Remedy enters during the scene. Florence, though listed as present at the end of the previous passage, is not mentioned in this passage and therefore is not included. No character leaves or exits before the passage ends. The only relevant entity is the alien planet setting (Sector 7-Gamma-412).</reasoning>
+    <present>
+      <character ref="/world/characters/Kira_Voss"/>
+      <character ref="/world/characters/Scout"/>
+      <character ref="/world/characters/Buddy"/>
+      <character ref="/world/characters/Holloway"/>
+      <character ref="/world/characters/Remedy"/>
+    </present>
+    <entered>
+      <character ref="/world/characters/Buddy"/>
+      <character ref="/world/characters/Holloway"/>
+      <character ref="/world/characters/Remedy"/>
+    </entered>
+    <entities>
+      <entity ref="/world/entities/Sector_7-Gamma-412_Planet"/>
+    </entities>
+  </characters>
+</summary>

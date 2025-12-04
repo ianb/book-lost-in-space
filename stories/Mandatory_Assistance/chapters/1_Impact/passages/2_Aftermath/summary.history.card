@@ -1,0 +1,76 @@
+<!-- this file is automatically managed by ske validate; do not edit -->
+<versions>
+  <version number="2.0.0" archived-at="2025-12-02T15:07:15.792Z">
+    <changelog-entry>
+      <message>Initial version</message>
+    </changelog-entry>
+    <!-- Generated automatically, do not edit except with ske gen summaries -->
+    <summary version="2.0.0">
+      <sources>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/2_Aftermath/passage#v2.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/passage#v4.0.1"/>
+      </sources>
+      <physical-reality>
+        <reasoning>I track objective, physical facts visible at the end of the passage. Voss is conscious in the wrecked shuttle cargo bay and medically injured: bruised/broken ribs, a bleeding scalp wound, and a gashing but non‑arterial wound on the right leg that was pinned under a cargo container until Voss freed themself. The cargo bay is heavily damaged: multiple containers have been torn from restraints, one is nearly crushed flat, another is split open with terraforming equipment spilled onto the deck, and exposed wiring and twisted metal are present. The ship hull has a ragged hole letting in daylight and outside air; the atmosphere is breathable (Voss is able to breathe) but carries smoke and a chemical/vegetation scent. The emergency kit mounted on the wall is crushed, but first‑aid supplies from a broken container are scattered and accessible. The cockpit is visible through a warped, jammed door that Voss forced open; both pilots (Jensen and Reed) are slumped and unresponsive with no detectable pulse (presumed dead). The ship’s onboard AI (SAM) is offline or destroyed—Voss cannot reach it via neural link. Ship systems and communications appear to be nonfunctional (earlier alarms, navigation/stabilizers offline; now no AI response and likely power/comm failures). A biologically labeled, temperature‑controlled container was aboard with the other freight but the containers are damaged and its condition/temperature control is unknown. Outside the hull hole there is alien vegetation (trees with a purple tint); the shuttle is on or very near a planetary surface. There is still residual heat/smoke from atmospheric entry and crash damage. No other people or functioning rescue/communication means are present.</reasoning>
+        <state>Voss is alive, conscious, and seated against the warped cargo‑to‑cockpit door inside a heavily damaged shuttle cargo bay. Voss has bruised/possibly broken ribs, a bleeding scalp wound, and a right‑leg laceration that has been bandaged with first‑aid supplies scavenged from a crushed emergency/container kit. Multiple cargo containers are torn from their restraints—one nearly crushed, one split open with terraforming equipment spilled across the deck—and exposed wiring and twisted metal litter the bay. A ragged hole in the hull admits daylight and breathable atmosphere scented with smoke and an unfamiliar green/chemical odor; alien trees are visible outside. The cockpit door is buckled but passable; both pilots (Jensen and Reed) lie slumped and unresponsive at the controls and are without a detectable pulse. The ship’s AI (SAM) and ship systems/communications appear offline or destroyed. A temperature‑controlled biological samples container was among the cargo but its condition and temperature control are unknown. There are no other survivors or working ship systems apparent; the shuttle is crashed on an unknown, inhabited‑by‑vegetation planet with lingering heat, smoke, and structural damage.</state>
+      </physical-reality>
+      <narrative-promises>
+        <reasoning>This passage resolves the immediate question of survival and shows concrete consequences of the crash, while introducing several new survival and mystery threads. Specifically, the narrator wakes up alive and explores the wreckage: cargo containers are torn and some supplies scattered, the pilots are dead, the ship AI (SAM) is unresponsive, and the narrator can breathe the planet's atmosphere and sees alien trees. That pays off some prior setups (the crash outcome, damaged cargo, Jensen/Reed's change in behavior) but leaves the core mysteries — why navigation/stabilizers failed, the coordinates mismatch/forbidden approach, the status of the biological samples, and whether the ship was on a secret mission — unresolved. New promises arise from the narrator discovering a live but isolated environment (breathable alien air), a fried AI, unknown location and rescue prospects, and the immediate need to manage supplies and investigate the cause of the pilots' deaths and any contamination. Below I map which previous promises were fulfilled vs. remain open, and list the new promises the passage introduces.</reasoning>
+        <fulfilled>
+          <promise id="POTENTIAL_CRASH_AND_SURVIVAL_QUESTION">The passage shows the outcome of the crash: the narrator survives but is injured; Jensen and Reed are dead. The immediate survival question is answered.</promise>
+          <promise id="DAMAGED_CARGO__CONTAINMENT_BREACH_RISK">The cargo bay is wrecked: containers torn from restraints, one crushed, another split open and equipment spilled. First-aid supplies are scattered. The promised damage/release of cargo has occurred.</promise>
+          <promise id="JENSEN_REED_RELATIONSHIP_RAISED">Jensen's earlier, meaningful glance and deliberate actions are paid off: he strapped the narrator into the crash seat and died trying to save them. The hinted change in interpersonal stakes is confirmed.</promise>
+        </fulfilled>
+        <open>
+          <promise id="BIO_SAMPLES_TEMPERATURE_FLUCTUATION">The biological samples container was flagged for temperature fluctuation earlier and its status remains unknown here — the passage does not identify whether the bio container was breached, intact, or responsible for any contamination.</promise>
+          <promise id="COORDINATES_MISMATCH__FORBIDDEN_APPROACH">Reed's cut-off line about coordinates not matching is still unexplained: it's unknown where they actually are or why they were 'not supposed to' be at this destination.</promise>
+          <promise id="NAVIGATION_AND_STABILIZER_FAILURE__CAUSE">Systems were offline during descent and the cause is not revealed. The passage hints at system-wide failure (AI gone, fried systems) but does not establish whether the fault was technical, sabotage, an external phenomenon, or something else.</promise>
+          <promise id="KEPLER_288_EXPECTATION">The narrator's earlier wish about Kepler-288 being interesting remains unresolved: they are on/near an alien planet with purple-ish trees, but the passage does not confirm this is Kepler-288 or whether the station/viewing-platform expectation is relevant.</promise>
+          <promise id="SECRET_OR_ILLEGAL_MISSIONAL_REASON">The implication that the ship might have been off-protocol or at a forbidden destination ('we're not supposed to—') is still unanswered and may be connected to the coordinates mismatch and system failures.</promise>
+          <promise id="SAM_OFFLINE__AI_STATUS_UNKNOWN">The ship AI (SAM) fails to respond; it's unclear whether SAM is damaged, offline, corrupted, or otherwise unreachable, and whether SAM can be revived or whether loss of the AI is permanent and consequential for navigation/communication.</promise>
+          <promise id="ALIEN_ENVIRONMENT_PROPERTIES_AND_DANGERS">The narrator observes breathable atmosphere and alien (purple-ish) trees visible through a hull breach; this opens questions about the planet's ecology, habitability, potential hazards, and whether there are native lifeforms or other dangers.</promise>
+          <promise id="UNKNOWN_LOCATION_AND_RESCUE_PROSPECTS">The narrator cannot call for help and does not know whether anyone knows their precise location; this promises an exploration of rescue feasibility, timeframe, and whether they can transmit their coordinates or reach help.</promise>
+          <promise id="SURVIVAL_SUPPLIES_STATUS">The narrator must inventory and manage remaining supplies (water, food, medical, shelter) after the crash and broken emergency kit; this sets up a survival-resource storyline where supply status will determine options and urgency.</promise>
+          <promise id="INVESTIGATE_PILOTS_DEATH_CAUSE">Although Jensen and Reed have died, the cause and circumstances of their deaths (sacrifice, systems failure, external attack, contamination) remain unknown and likely relevant to the larger mystery of what disabled the ship.</promise>
+          <promise id="BIOHAZARD_SMELL__POTENTIAL_CONTAMINATION">The narrator notices chemical smells — 'smoke and something green, almost like cut grass' — suggesting possible biological/chemical contamination or alien organic presence that may tie to the biological samples or planet environment; this needs investigation.</promise>
+        </open>
+      </narrative-promises>
+      <facts>
+        <reasoning>I extracted only details that matter beyond the immediate scene and that could affect later chapters: changes of state (use CHANGE_ prefix), character relationships/traits, and a relevant world-building rule. I did NOT repeat facts already covered in the provided summary (e.g., that SAM and ship systems appear offline, or that the pilots are dead and the shuttle crashed). I included Voss's relationship to SAM, the neural-link detail, the fact that she actually used the crash seat (state change), her training/first-aid competence and survival mindset, and the rule about long-delay rescue/FTL communication because those will shape choices and expectations later. No genuine contradictions with prior facts were found, only developments consistent with them.</reasoning>
+        <established>
+          <fact id="CHANGE_VOSS_USED_CRASH_SEAT">During the crash Jensen strapped Voss into the recessed five-point crash seat and she was actually placed/used it in this incident (a state change from 'never used' prior to the crash).</fact>
+          <fact id="VOSS_SAM_PARTNERSHIP_DURATION">Voss has been partnered with the ship AI SAM for two years.</fact>
+          <fact id="VOSS_SAM_NEURAL_LINK_AND_COMPANION_ROLE">SAM was integrated with Voss via a neural link and functioned as a constant companion/listener, not merely a tool; Voss relied on SAM emotionally as well as operationally.</fact>
+          <fact id="WORLD_FTL_COMMUNICATION_LIMIT">Immediate interstellar rescue via distress call is not possible; rescue will be initiated only after missed check-ins or arrival failures, creating delays of weeks to months.</fact>
+          <fact id="VOSS_TRAINING_INCLUDES_INVENTORY_AND_BASIC_FIRST_AID">Voss's cargo-specialist training includes systematic inventory/assessment of cargo damage and basic emergency first-aid procedures, which she applies to assess damage and treat her leg wound.</fact>
+          <fact id="VOSS_SURVIVAL_DETERMINATION">Under trauma, Voss suppresses grief and prioritizes immediate survival tasks—she forces herself to focus on practical steps (stabilize, salvage, shelter) rather than collapse.</fact>
+        </established>
+        <conflicts/>
+      </facts>
+      <timing>
+        <reasoning>
+          This passage begins with the protagonist regaining consciousness after the shuttle crash described at the end of the previous passage. Time cues: darkness, pain, being pinned under a container, taste of blood, and then daylight through a ragged hole in the hull. The character moves slowly, inspects the wrecked cargo bay and cockpit, checks the pilots (finding them unresponsive), attempts to contact their neural AI (SAM) and finds it gone, gathers scattered first-aid supplies, and performs wound care. All of these are immediate-post-crash, short-term survival actions. The passage ends once the protagonist finishes the initial bandaging, takes stock of supplies and the outside environment (trees visible), and commits to surviving until rescue.
+
+          Amount of time passing within the passage is short — on the order of minutes to at most an hour. The main events (waking, freeing self, checking cockpit and pilots, attempting to contact SAM, retrieving first-aid supplies and applying a bandage, surveying outside) are actions that can reasonably occur within a 10–30 minute window after impact.
+
+          The gap from the previous passage is therefore minimal: the previous passage ended at impact and immediate blackout; this one begins with waking after that blackout. Likely what happened in the gap is unconsciousness for a short period while the ship settled and cooled enough that the protagonist could regain consciousness and begin assessing injuries and damage.
+
+          Overall the timing is plausible. The protagonist’s physical actions (freeing a pinned leg, crawling to the cockpit, checking for pulses, locating scattered first-aid supplies and applying a pressure bandage) are painful but feasible in the immediate aftermath of a crash given adrenaline and the injuries described. A couple of small, explainable assumptions are present (e.g., the cargo container that pinned the leg was movable/shifted enough to free him; the first-aid supplies from a crushed kit were scattered within reach), but none break plausibility for the short timescale implied.
+        </reasoning>
+        <starts>minutes after the crash impact (immediately after blackout; roughly within ~00:05 after impact)</starts>
+        <ends>shortly after bandaging and initial inventory/survey (roughly ~00:20 after impact; overall within ~10–30 minutes of waking)</ends>
+        <gap-from-previous>minutes. The previous passage ends at the crash impact and immediate blackout; this passage begins with the protagonist regaining consciousness. Likely events during the gap: brief unconsciousness, settling of wreckage, cooling enough to breathe, and the protagonist’s gradual return to consciousness and assessment of pain and surroundings.</gap-from-previous>
+        <plausibility>Plausible. Waking minutes after a crash, being able to shift a partly displaced container, crawl to the cockpit, check for pulses, try the neural link, and apply emergency first aid all fit a short (10–30 minute) immediate-post-crash timeframe. Minor assumptions (e.g., that a crushed emergency kit still scattered usable items; the pinned container could be wriggled free) are reasonable in context and do not break plausibility. No major timing inconsistencies detected.</plausibility>
+      </timing>
+      <characters>
+        <reasoning>Kira Voss is the narrator and clearly present throughout. Jensen and Reed are mentioned and found in the cockpit, and SAM (the AI) is referenced, but none of those have character cards in the provided AVAILABLE CHARACTERS list, so they cannot be listed here. No other characters from the provided list appear or enter/exit during this passage. The scene takes place on an alien/unknown planet, matching the provided entity /world/entities/Sector_7-Gamma-412_Planet.</reasoning>
+        <present>
+          <character ref="/world/characters/Kira_Voss"/>
+        </present>
+        <entities>
+          <entity ref="/world/entities/Sector_7-Gamma-412_Planet"/>
+        </entities>
+      </characters>
+    </summary>
+  </version>
+</versions>
