@@ -1,16 +1,35 @@
 <passage-placement version="1.0.0">
-  <reasoning-passage-placement/>
+  <reasoning-passage-placement>
+    Passage 3 "Finding Home" from chapter-placement: Kira spending time with each community member. Each conversation shows how her voice contributed and how she's been changed by theirs. Decision crystallizes - she knows what she wants but doesn't voice it yet. Transformation complete.
+  </reasoning-passage-placement>
   <passage-objective>
-    TBD
+    Show Kira's conversations with each community member as she examines what this place means, what home and belonging mean, coming to realization about where she truly belongs without yet voicing her decision.
   </passage-objective>
-  <scene-portion>TBD</scene-portion>
+  <scene-portion>Complete scene - covers all of Passage 3 (Finding Home)</scene-portion>
   <key-moments>
-    TBD
+    - Kira spending time with each community member
+    - Ostensibly saying potential goodbyes, actually examining what this means
+    - Runner: you helped me find tactical confidence, I'll miss your perspective
+    - Velvet: you taught us about beauty from different viewpoint
+    - Remedy: your questions challenged my assumptions, made me better
+    - Holloway: you're part of this community, we hope you'll stay
+    - Florence: you helped me believe in redemption, choose freely
+    - Scout most affecting: loves Kira, would be heartbroken but wants her happy
+    - Each conversation shows Kira's unique contribution
+    - Also shows how she's been changed by their voices
+    - Buddy provides analysis: you show greater well-being here
+    - Kira examining both options: human bureaucracy vs plant community
+    - Realization: home isn't about species or familiarity
+    - It's about being valued for who you are
+    - Absurdist reflection: plant community values her humanity more than humans did
+    - Decision crystallizes but she doesn't voice it yet
+    - Ends with Kira knowing what she wants, preparing to communicate it
+    - Transformation complete - Kira has found her voice
   </key-moments>
   <character-focus>
-    TBD
+    Kira in individual moments with each character, discovering through these conversations what belonging means. Each plant's perspective on her value. Scout's unconditional love. Florence's parallel journey of choosing right action. The crystallization of Kira's own voice.
   </character-focus>
   <sources>
-    <ref ref="/todo/stories/TBD/chapters/TBD/chapter-placement.card#v0.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/13_Individual_Voices/chapter-placement.card" role="Passage 3 outline"/>
   </sources>
 </passage-placement>

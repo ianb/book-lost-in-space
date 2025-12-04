@@ -1,16 +1,25 @@
 <passage-placement version="1.0.0">
-  <reasoning-passage-placement/>
+  <reasoning-passage-placement>
+    Scene 1 from chapter-placement: Runner and Velvet's peaceful delegation rejected. Hostile plants refuse coexistence. Attack is coming. Group tries to prepare but coordination is poor without Florence's tactical thinking.
+  </reasoning-passage-placement>
   <passage-objective>
-    TBD
+    Show the peaceful option failing and the group's inadequate preparation without Florence's tactical mind, setting up the desperate situation of the coming attack.
   </passage-objective>
-  <scene-portion>TBD</scene-portion>
+  <scene-portion>Complete scene - covers all of Scene 1 (Delegation Fails)</scene-portion>
   <key-moments>
-    TBD
+    - Runner and Velvet departing as peaceful delegation
+    - Delegation returns with grim news - rejection
+    - Hostile plants refuse coexistence - Kira is contamination
+    - Attack is coming
+    - Group scrambles to prepare defenses
+    - Coordination poor without Florence's tactical thinking
+    - Kira suggests asking Florence, plants resist
+    - Preparation inadequate as attack looms
   </key-moments>
   <character-focus>
-    TBD
+    Runner and Velvet as failed diplomats. Kira watching helplessly, knowing Florence could help. Holloway struggling to coordinate. The group's vulnerability without Florence.
   </character-focus>
   <sources>
-    <ref ref="/todo/stories/TBD/chapters/TBD/chapter-placement.card#v0.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/11_Under_Attack/chapter-placement.card" role="Scene 1 outline"/>
   </sources>
 </passage-placement>

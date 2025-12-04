@@ -1,16 +1,37 @@
 <passage-placement version="1.0.0">
-  <reasoning-passage-placement/>
+  <reasoning-passage-placement>
+    Passage 1 "Official Choice" from chapter-placement: Freighter arrives. Kira greets crew, makes clear statement: choosing to stay, not being held. Crew skeptical - Stockholm syndrome? Coercion? Kira demonstrates lucidity, free will, rational decision-making. Crew needs convincing this is genuine choice.
+  </reasoning-passage-placement>
   <passage-objective>
-    TBD
+    Show the freighter's arrival, Kira's clear declaration of her choice to stay, and the crew's initial skepticism that must be addressed - is this genuine choice or alien influence?
   </passage-objective>
-  <scene-portion>TBD</scene-portion>
+  <scene-portion>Complete scene - covers all of Passage 1 (Official Choice)</scene-portion>
   <key-moments>
-    TBD
+    - Morning, freighter approaching, visible in sky
+    - Community gathered to support Kira whatever happens
+    - Scout nervous-excited, Kira calm and certain
+    - Vessel lands - freighter Harmony Prospect, professional crew
+    - Captain Torres and medical officer disembark
+    - Kira greets them formally, thanks them for coming
+    - Torres: ready to extract you, get you home
+    - Kira's clear statement: I'm choosing to stay. This is home.
+    - Torres skeptical: possible Stockholm syndrome, need medical eval
+    - Medical officer scans Kira - vitals normal, neurologically sound
+    - Kira: I'm not being held, this is free choice
+    - Torres: they're aliens, plants, not appropriate for human
+    - Kira: more appropriate than any human environment I've lived in
+    - Torres examining facility - weird but functional
+    - Questions about food, safety, long-term viability
+    - Buddy providing data: Kira's well-being significantly improved
+    - Torres still uncertain: are you sure?
+    - Kira: completely sure
+    - Torres: I need to verify this is genuine choice
+    - Kira: what would convince you?
   </key-moments>
   <character-focus>
-    TBD
+    Kira confident and clear in her choice. Torres representing reasonable skepticism. Medical officer's objective assessment. Scout's nervous support. The tension between Kira's certainty and the crew's disbelief.
   </character-focus>
   <sources>
-    <ref ref="/todo/stories/TBD/chapters/TBD/chapter-placement.card#v0.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/14_Choosing_Home/chapter-placement.card" role="Passage 1 outline"/>
   </sources>
 </passage-placement>

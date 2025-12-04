@@ -1,16 +1,29 @@
 <passage-placement version="1.0.0">
-  <reasoning-passage-placement/>
+  <reasoning-passage-placement>
+    Passage 1 "Voices Emerging" from chapter-placement: Morning after attack, exhausted preparation for next assault. Key shift: plants start contributing tactical ideas instead of just following orders. Runner, Velvet, Remedy each offer innovations that Florence incorporates. The commander-to-collaborator transition visible.
+  </reasoning-passage-placement>
   <passage-objective>
-    TBD
+    Show the shift from Florence commanding to Florence collaborating - plants contributing ideas, Florence incorporating them enthusiastically, the beginnings of genuine teamwork rather than just following orders.
   </passage-objective>
-  <scene-portion>TBD</scene-portion>
+  <scene-portion>Complete scene - covers all of Passage 1 (Voices Emerging)</scene-portion>
   <key-moments>
-    TBD
+    - Morning after Chapter 11's attack, everyone exhausted and injured
+    - Preparing for next assault, knowing hostiles will return
+    - Florence planning defense, but this time different
+    - Runner shares underground intelligence about hostile movements
+    - Florence enthusiastically incorporates it into strategy
+    - Velvet suggests creative barrier approach
+    - Remedy proposes chemical innovation
+    - Florence adapts plans to include each contribution
+    - Holloway observes this change with cautious reassessment
+    - Plants engaging Florence professionally rather than coldly
+    - Scout providing comfort to everyone including Florence
+    - Preparation complete, waiting with fragile cooperation established
   </key-moments>
   <character-focus>
-    TBD
+    Florence transitioning from commander to collaborator. Runner, Velvet, Remedy each finding their voice in tactical contributions. Holloway observing the change. Kira noticing the shift in dynamics. Scout as social glue.
   </character-focus>
   <sources>
-    <ref ref="/todo/stories/TBD/chapters/TBD/chapter-placement.card#v0.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/12_Victory_Through_Voice/chapter-placement.card" role="Passage 1 outline"/>
   </sources>
 </passage-placement>

@@ -1,16 +1,28 @@
 <passage-placement version="1.0.0">
-  <reasoning-passage-placement/>
+  <reasoning-passage-placement>
+    Scene 3 from chapter-placement: Florence chooses to help despite exile. Tactical guidance improves defense immediately. Working together out of necessity, not trust. End mid-crisis, holding but not reconciled.
+  </reasoning-passage-placement>
   <passage-objective>
-    TBD
+    Show Florence's choice to help people who exiled her, the immediate improvement in defense, and the tense cooperation born of necessity that sets up Chapter 12's authentic teamwork.
   </passage-objective>
-  <scene-portion>TBD</scene-portion>
+  <scene-portion>Complete scene - covers all of Scene 3 (Desperate Cooperation)</scene-portion>
   <key-moments>
-    TBD
+    - Kira finds Florence in isolated chamber
+    - Florence has been watching, knowing she could help
+    - Kira pleads for help - people are getting hurt
+    - Florence's internal conflict - they hurt her too
+    - But Kira is in danger, right action matters
+    - Florence agrees, returns to group
+    - Provides tactical guidance immediately
+    - Defense improves - still under pressure but holding
+    - Plants following Florence's orders out of necessity
+    - Attack continues but they're surviving
+    - Tense cooperation, not reconciliation
   </key-moments>
   <character-focus>
-    TBD
+    Florence making the hard choice to help. Kira's relief and hope. Plants grudgingly following Florence because they have to. The fragile cooperation that could become something more.
   </character-focus>
   <sources>
-    <ref ref="/todo/stories/TBD/chapters/TBD/chapter-placement.card#v0.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/11_Under_Attack/chapter-placement.card" role="Scene 3 outline"/>
   </sources>
 </passage-placement>

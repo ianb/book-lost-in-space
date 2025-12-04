@@ -1,16 +1,37 @@
 <passage-placement version="1.0.0">
-  <reasoning-passage-placement/>
+  <reasoning-passage-placement>
+    Passage 2 "Signal From Outside" from chapter-placement: Buddy detects human signal. Group works together to boost communication. Response comes - rescue possible. But Kira feels complicated, not relieved. These plants have become community, family. Two days to decide whether to leave.
+  </reasoning-passage-placement>
   <passage-objective>
-    TBD
+    Show the detection of human signal, group's collaborative effort to establish contact, the success of reaching rescuers - and Kira's complicated feelings as she faces the real possibility of leaving.
   </passage-objective>
-  <scene-portion>TBD</scene-portion>
+  <scene-portion>Complete scene - covers all of Passage 2 (Signal From Outside)</scene-portion>
   <key-moments>
-    TBD
+    - Buddy suddenly announces: detected signal, human origin
+    - Possible vessel in range - could be Kira's rescue
+    - Group immediately mobilizes to help
+    - Work together: Remedy's conductivity compounds, Runner's amplification
+    - Velvet creating signal tower, Holloway and Florence coordinating
+    - Absurdist comedy in improvised communication tech
+    - Signal reaches out, wait for response
+    - Everyone tense - this changes everything
+    - Response comes: human vessel acknowledges, can provide assistance
+    - Real possibility of rescue
+    - But as everyone celebrates, Kira feels... complicated
+    - Should be relief, but instead uncertainty
+    - These plants have become more than rescuers - community, family?
+    - Scout bouncing confused - happy for Kira but sad too
+    - Holloway: we'll help you return if that's what you want
+    - Florence: you should choose freely
+    - Human vessel can reach them in two days
+    - Two days to decide whether to leave
+    - Group gives Kira space to process
+    - Kira alone with Scout, contemplating difficult choice
   </key-moments>
   <character-focus>
-    TBD
+    Kira facing the choice she didn't expect to be difficult. Scout's conflicted emotions. The group's immediate willingness to help Kira leave even though they want her to stay. The complexity of belonging when rescue becomes possible.
   </character-focus>
   <sources>
-    <ref ref="/todo/stories/TBD/chapters/TBD/chapter-placement.card#v0.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/13_Individual_Voices/chapter-placement.card" role="Passage 2 outline"/>
   </sources>
 </passage-placement>
