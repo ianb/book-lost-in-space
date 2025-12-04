@@ -1,38 +1,125 @@
 <!-- this file is automatically managed by ske validate; do not edit -->
 <versions>
-  <version number="1.0.0" archived-at="2025-11-29T17:25:58.927Z">
+  <version number="1.0.0" archived-at="2025-12-04T18:24:22.043Z">
+    <changelog-entry>
+      <message>catching up on missed snapshots</message>
+    </changelog-entry>
     <outline version="1.0.0">
-      <reasoning/>
+      <reasoning>
+        <!-- For instructions on filling out reasoning: ske instructions stories/Mandatory_Assistance/chapters/2_First_Contact/passages/1_Into_the_Purple/outline.card -->
+      </reasoning>
       <must-convey>
-        TBD
+        - The planet is beautiful but unmistakably alien (purple everything, wrong light quality)
+        - Eerie quiet - no animal sounds at all
+        - Kira is injured and it affects her movement
+        - Buddy continues to be educational/enthusiastic
+        - Something is out there watching (setup for Scout)
       </must-convey>
       <hook-questions>
-        TBD
+        - What does this alien world look and feel like?
+        - Can Kira make it to the water in her injured state?
+        - What's moving in the trees?
       </hook-questions>
       <launching-situation>
-        TBD
+        Kira has just stepped outside the crashed shuttle onto alien soil for the first time, heading toward water source 800m away through purple forest
       </launching-situation>
-      <time-of-day>TBD</time-of-day>
       <location-impression>
-        TBD
+        Purple forest - deep burgundy tree trunks, dark leaves glowing violet underneath, soft springy groundcover, filtered lavender light, thick humid air smelling of green growth, eerily quiet with no animal sounds, beautiful but wrong
       </location-impression>
       <story-goal>
-        TBD
+        Survival: Get to water source, survive injury, figure out this strange planet
       </story-goal>
       <pov-inner-life>
-        TBD
+        Kira's wonder at the beauty despite pain. Internal monologue notices details (cargo specialist habits), compares to Earth forests (all wrong), processes strangeness through chatty rambling. Buddy's voice cheerfully interrupts with biology lessons. Pain anchors her despite wonder - this is real, dangerous, beautiful. Growing sense she's not alone creates tension beneath the beauty.
       </pov-inner-life>
       <outline>
-        TBD
+        **BEAT 1: First steps** (140-160 words)
+        - Kira takes first steps onto alien soil - groundcover soft and springy underfoot
+        - Immediate sensory hit: purple everywhere, light quality like twilight at midday
+        - Tree trunks smooth burgundy, leaves dark above but violet when backlit
+        - Her breath catches - it's beautiful
+        - "Holy shit" moment of actually being on alien planet
+        - Buddy: "Isn't this exciting, Kira! Let's talk about alien photosynthesis!"
+        - She almost laughs despite everything
+        - Conveys: Wonder, beauty, Buddy dynamic continues, she's really here
+
+        **BEAT 2: The quiet** (150-180 words)
+        - As she starts walking southwest toward water, the quiet registers
+        - No birdsong, no insects, no rustling of small animals
+        - Just wind through thick leaves - deeper sound than Earth, almost musical
+        - Her own footfalls the loudest thing
+        - The silence feels alive, expectant
+        - Buddy explains about plant-based ecosystems, no fauna detected
+        - Kira's internal: It's beautiful but empty. Wrong kind of empty.
+        - The quiet makes her nervous despite the beauty
+        - Forest floor clear of undergrowth - unusual, almost maintained
+        - Trees spaced like they were planned
+        - Conveys: Eerie absence of animals, strangeness beneath beauty, something off about this forest
+
+        **BEAT 3: Sensory immersion** (160-200 words)
+        - Deeper into forest, experiencing full sensory reality
+        - Humid air thick on skin, hair dampening
+        - Scent: growing things, floral-earthy-sweet, overwhelming richness
+        - Light filtered through purple canopy - dreamlike lavender tones
+        - Shadows are purple-black, not gray
+        - Everything familiar-but-wrong: tree shapes twist oddly, branches curve back
+        - Buddy narrates about atmospheric composition, light spectrum differences
+        - Kira learning to extract info: "Buddy, just tell me if the air is safe"
+        - "Completely safe! Though the photosynthetic pigments—"
+        - "Safe. Got it. Thanks."
+        - Their rhythm developing
+        - Conveys: Full sensory experience of planet, Kira/Buddy dynamic improving, beauty and strangeness coexisting
+
+        **BEAT 4: Pain reminder** (150-170 words)
+        - Her leg flares with pain - been ignoring it, walking on adrenaline
+        - Has to stop, lean against tree trunk (smooth, faintly warm)
+        - Bandage seeping through, wound needs attention
+        - This is stupid - she's injured, alone, should be resting
+        - But water is 800 meters and she needs it
+        - Buddy concerned: "I'm detecting elevated pain signals! Should we—"
+        - "I'm fine. How much farther?"
+        - Buddy calculates: approximately 600 meters remaining
+        - Kira pushes off tree, keeps going, limping more now
+        - Beauty doesn't make injury hurt less
+        - Stakes reminder: she could die out here
+        - Conveys: Injury is real, stakes grounded, Kira's determination, Buddy's genuine concern
+
+        **BEAT 5: Being watched** (200-250 words)
+        - Movement in the trees - periphery of vision
+        - She stops, heart pounding
+        - "Buddy, did you see that?"
+        - "See what, Kira?"
+        - Something moved, she's sure of it
+        - Scans the forest - nothing visible, but...
+        - The quiet feels different now. Charged. Aware.
+        - Not alone
+        - Buddy scanning: "I'm not detecting any animal life forms, but—"
+        - Another movement - higher in the trees, something shifting
+        - Plant life? But plants don't move like that
+        - Except... this is an alien planet
+        - She remembers: no fauna detected, but extensive plant life
+        - What if the plants...?
+        - Movement again, closer this time
+        - "Hello?" Her voice sounds too loud in the quiet
+        - Nothing
+        - But she feels watched
+        - Buddy: "Kira, I recommend we proceed with caution. Unknown environment protocol—"
+        - "Yeah. Caution. Got it."
+        - She keeps walking, slower now, aware
+        - Something is out there
+        - And it's curious about her
+        - Conveys: Building tension, awareness of being observed, setup for Scout encounter, question of what/who is watching
+
+        **TOTAL: 800-960 words across 5 beats**
       </outline>
-      <plot-arc-act>TBD</plot-arc-act>
+      <plot-arc-act>Act 1 (Contact &amp; Bureaucracy) - approaching first contact</plot-arc-act>
       <concludes-arc>false</concludes-arc>
-      <use-chapters>true</use-chapters>
-      <concludes-chapter>TBD</concludes-chapter>
+      <concludes-chapter>false</concludes-chapter>
       <sources>
-        <ref ref="/todo/stories/TBD/chapters/TBD/passages/TBD/passage-placement.card#v0.0.0" role="TBD"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/chapter-placement.card" role="Scene 1 outline"/>
+        <ref ref="/world/entities/Sector_7-Gamma-412_Planet.card" role="Planet sensory details"/>
+        <ref ref="/stories/Mandatory_Assistance/narrative-guide.card" role="Tone and pacing"/>
       </sources>
-      <changelog-entry version="1.0.0">Initialized</changelog-entry>
     </outline>
   </version>
 </versions>

@@ -1,22 +1,33 @@
 <!-- this file is automatically managed by ske validate; do not edit -->
 <versions>
-  <version number="1.0.0" archived-at="2025-11-29T17:25:58.933Z">
+  <version number="1.0.0" archived-at="2025-12-04T18:24:28.085Z">
+    <changelog-entry>
+      <message>catching up on missed snapshots</message>
+    </changelog-entry>
     <passage-placement version="1.0.0">
-      <reasoning-passage-placement/>
+      <reasoning-passage-placement>
+        <!-- For instructions on filling out reasoning: ske instructions stories/Mandatory_Assistance/chapters/2_First_Contact/passages/1_Into_the_Purple/passage-placement.card -->
+      </reasoning-passage-placement>
       <passage-objective>
-        TBD
+        Immerse reader in the alien planet's sensory reality while showing Kira's injured state and building anticipation for first contact (Scene 1: Into the Purple)
       </passage-objective>
-      <scene-portion>TBD</scene-portion>
+      <scene-portion>Complete scene - this passage covers all of Scene 1</scene-portion>
       <key-moments>
-        TBD
+        - First steps onto alien soil, purple twilight forest
+        - Experiencing quiet (no animal sounds), thick humid air, growing scent
+        - Injured leg makes walking difficult, pain constant
+        - Buddy narrates enthusiastically about ecosystems
+        - Beauty and strangeness of the environment
+        - Awareness of movement in the trees - something watching
       </key-moments>
       <character-focus>
-        TBD
+        Kira's wonder and adaptability despite pain. Her chatty internal monologue observing details (cargo specialist eye for environment). Buddy's teaching moments about alien biology, genuinely excited about "field trip." The dynamic continues to develop - she's learning to extract useful info. Pain reminder keeps stakes grounded. Building sense she's not alone.
       </character-focus>
       <sources>
-        <ref ref="/todo/stories/TBD/chapters/TBD/chapter-placement.card#v0.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/chapter-placement.card" role="Scene 1 outline"/>
+        <ref ref="/world/entities/Sector_7-Gamma-412_Planet.card" role="Planet's sensory details"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/4_Taking_Stock/passage.card" role="Previous passage ending"/>
       </sources>
-      <changelog-entry version="1.0.0">Initialized</changelog-entry>
     </passage-placement>
   </version>
 </versions>

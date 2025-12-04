@@ -1,7 +1,4 @@
-<outline version="1.0.0">
-  <reasoning>
-    <!-- For instructions on filling out reasoning: ske instructions stories/Mandatory_Assistance/chapters/1_Impact/passages/4_Taking_Stock/outline.card -->
-  </reasoning>
+<outline version="1.0.1">
   <story-goal>
     Survival goal becomes concrete: assess resources, understand environment, plan next steps. Can't stay in shuttle—must venture outside to find water, food, shelter. Rescue is distant, survival is immediate.
   </story-goal>
@@ -104,9 +101,4 @@
   <plot-arc-act>Act 1 (Contact &amp; Bureaucracy) - concluding immediate crash survival, setting up planet exploration</plot-arc-act>
   <concludes-arc>false</concludes-arc>
   <concludes-chapter>true</concludes-chapter>
-  <sources>
-    <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/chapter-placement.card" role="Scene 4 outline"/>
-    <ref ref="/stories/Mandatory_Assistance/narrative-guide.card" role="Problem-solving tone and Martian energy"/>
-    <ref ref="/world/characters/Kira_Voss.card" role="Kira's resourcefulness and cargo specialist habits"/>
-  </sources>
 </outline>

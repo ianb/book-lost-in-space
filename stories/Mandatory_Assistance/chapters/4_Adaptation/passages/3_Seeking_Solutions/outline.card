@@ -1,7 +1,4 @@
-<outline version="1.0.0">
-  <reasoning>
-    <!-- For instructions on filling out reasoning: ske instructions stories/Mandatory_Assistance/chapters/4_Adaptation/passages/3_Seeking_Solutions/outline.card -->
-  </reasoning>
+<outline version="1.1.0">
   <story-goal>
     Find long-term solution to being stranded, survive while waiting
   </story-goal>
@@ -14,7 +11,4 @@
   <plot-arc-act>Act 1 (Contact &amp; Bureaucracy) - conclusion</plot-arc-act>
   <concludes-arc>false</concludes-arc>
   <concludes-chapter>true</concludes-chapter>
-  <sources>
-    <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/chapter-placement.card" role="Scene 3 outline"/>
-  </sources>
 </outline>

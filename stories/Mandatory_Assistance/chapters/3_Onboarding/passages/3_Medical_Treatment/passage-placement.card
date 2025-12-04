@@ -1,7 +1,4 @@
-<passage-placement version="1.0.0">
-  <reasoning-passage-placement>
-    <!-- For instructions on filling out reasoning: ske instructions stories/Mandatory_Assistance/chapters/3_Onboarding/passages/3_Medical_Treatment/passage-placement.card -->
-  </reasoning-passage-placement>
+<passage-placement version="1.1.0">
   <passage-objective>
     Show Remedy's practical medical help filtered through protocols, maintain injury stakes, provide exhausted relief, conclude Chapter 3 (Scene 3: Medical Treatment)
   </passage-objective>
@@ -20,9 +17,4 @@
   <character-focus>
     Kira: In pain, exhausted, frustrated by more forms but recognizing Remedy's practical competence. Relief when treatment finally happens. Remedy: Direct, practical, chemistry-focused, casually mentions decomposition, genuinely wants to help, proud of compound synthesis. Scout: Present, supportive. Holloway: Coordinating documentation. Buddy: Providing medical data, finally somewhat useful.
   </character-focus>
-  <sources>
-    <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/chapter-placement.card" role="Scene 3 outline"/>
-    <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/2_Orientation/passage.card" role="Previous passage ending"/>
-    <ref ref="/world/characters/Remedy.card" role="Remedy's character, speaking style, decomposition focus"/>
-  </sources>
 </passage-placement>

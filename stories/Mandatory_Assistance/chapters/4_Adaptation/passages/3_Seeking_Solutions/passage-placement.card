@@ -1,7 +1,4 @@
-<passage-placement version="1.0.0">
-  <reasoning-passage-placement>
-    <!-- For instructions on filling out reasoning: ske instructions stories/Mandatory_Assistance/chapters/4_Adaptation/passages/3_Seeking_Solutions/passage-placement.card -->
-  </reasoning-passage-placement>
+<passage-placement version="1.1.0">
   <passage-objective>
     Introduce Elder Heartwood concept and setup Act 2 quest while concluding Act 1 with survival basics established (Scene 3: Seeking Solutions)
   </passage-objective>
@@ -19,8 +16,4 @@
   <character-focus>
     Kira: Hopeful about Elder but realistic about timeline, accepting adaptation while seeking long-term solution. Holloway: Supportive, filing request, managing expectations. Scout: Encouraging presence. Buddy: Providing context and data.
   </character-focus>
-  <sources>
-    <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/chapter-placement.card" role="Scene 3 outline"/>
-    <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/2_Dietary_Assessment/passage.card" role="Previous passage"/>
-  </sources>
 </passage-placement>

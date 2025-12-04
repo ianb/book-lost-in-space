@@ -1,17 +1,4 @@
-<outline version="1.0.0">
-  <reasoning>
-    Context: First passage of Chapter 3. Previous passage ended following Holloway to facility. Target 1200-1500 words.
-
-    From passage-placement.card: Establish facility, begin intake bureaucracy, show absurd HR forms for crash survivor, Kira trying to cooperate, injury still present.
-
-    Voice: Kira exhausted, overwhelmed, using dark humor to cope. Holloway warm and bureaucratic, genuinely happy to onboard a human. Scout encouraging non-verbally. Buddy trying to help earnestly.
-
-    Need to establish: What does a plant "facility" look like? Living architecture, organic structures that serve functions. This needs vivid sensory description to ground the reader.
-
-    Emotional arc: Overwhelmed → trying to cooperate → dark humor → tired determination
-
-    Beats: 5 beats covering arrival, intake begins, form questions, absurdity peaks, completion. ~240-300 words each.
-  </reasoning>
+<outline version="1.0.1">
   <must-convey>
     - Plant facility is living architecture - organic structures, not built
     - Intake process begins immediately with forms
@@ -168,9 +155,4 @@
   <plot-arc-act>Act 1 (Contact &amp; Bureaucracy) - deepening the barrier</plot-arc-act>
   <concludes-arc>false</concludes-arc>
   <concludes-chapter>false</concludes-chapter>
-  <sources>
-    <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/chapter-placement.card" role="Scene 1 outline"/>
-    <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/1_Intake/passage-placement.card" role="Passage objectives"/>
-    <ref ref="/world/characters/Holloway.card" role="Holloway's voice and manner"/>
-  </sources>
 </outline>

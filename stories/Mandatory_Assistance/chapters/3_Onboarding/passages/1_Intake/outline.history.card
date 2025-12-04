@@ -1,8 +1,8 @@
 <!-- this file is automatically managed by ske validate; do not edit -->
 <versions>
-  <version number="1.0.0" archived-at="2025-12-02T00:50:22.299Z">
+  <version number="1.0.0" archived-at="2025-12-04T18:24:35.460Z">
     <changelog-entry>
-      <message>Initial version</message>
+      <message>catching up on missed snapshots</message>
     </changelog-entry>
     <outline version="1.0.0">
       <reasoning>
@@ -37,7 +37,6 @@
       <launching-situation>
         Kira limping through purple forest following Holloway's fruiting bodies, escorted by Scout and other plants, approaching the facility
       </launching-situation>
-      <time-of-day>Late afternoon (purple twilight deepening)</time-of-day>
       <location-impression>
         Plant facility - living structures formed by massive woody vines, hollow chambers, bioluminescent lighting, organic architecture that breathes and shifts, surprisingly organized despite being alive
       </location-impression>
@@ -174,14 +173,12 @@
       </outline>
       <plot-arc-act>Act 1 (Contact &amp; Bureaucracy) - deepening the barrier</plot-arc-act>
       <concludes-arc>false</concludes-arc>
-      <use-chapters>true</use-chapters>
       <concludes-chapter>false</concludes-chapter>
       <sources>
         <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/chapter-placement.card" role="Scene 1 outline"/>
         <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/1_Intake/passage-placement.card" role="Passage objectives"/>
-        <ref ref="/world/world/characters/Holloway.card" role="Holloway's voice and manner"/>
+        <ref ref="/world/characters/Holloway.card" role="Holloway's voice and manner"/>
       </sources>
-      <changelog-entry version="1.0.0">Initialized</changelog-entry>
     </outline>
   </version>
 </versions>

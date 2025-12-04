@@ -1,19 +1,22 @@
 <!-- this file is automatically managed by ske validate; do not edit -->
 <versions>
-  <version number="1.0.0" archived-at="2025-11-30T17:08:26.688Z">
+  <version number="1.0.0" archived-at="2025-12-04T18:22:10.952Z">
+    <changelog-entry>
+      <message>catching up on missed snapshots</message>
+    </changelog-entry>
     <meta version="1.0.0">
+      <id>D88FC236-B33D-42B9-8E96-837548109A5A</id>
+      <slug>mandatory-assistance</slug>
       <reasoning-meta>
         <!-- For instructions on filling out reasoning: ske instructions meta.card -->
       </reasoning-meta>
       <title>Mandatory Assistance</title>
+      <visibility>public</visibility>
       <subtitle>TBD</subtitle>
       <author role="creator">TBD</author>
       <narrative-structure>linear</narrative-structure>
       <use-chapters>true</use-chapters>
       <inspiration>The Hitchhiker's Guide to the Galaxy (humor and absurdity), The Martian (hard scifi problem-solving and survival), golden age science fiction (sense of wonder and exploration)</inspiration>
-      <changelog-entry>
-        <!-- Each time you change this file add a description of what AND WHY you made changes to this element -->
-      </changelog-entry>
     </meta>
   </version>
 </versions>

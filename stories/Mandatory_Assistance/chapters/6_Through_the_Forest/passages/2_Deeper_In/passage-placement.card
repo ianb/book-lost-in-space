@@ -1,7 +1,4 @@
-<passage-placement version="1.0.0">
-  <reasoning-passage-placement>
-    <!-- For instructions on filling out reasoning: ske instructions stories/Mandatory_Assistance/chapters/6_Through_the_Forest/passages/2_Deeper_In/passage-placement.card -->
-  </reasoning-passage-placement>
+<passage-placement version="1.1.0">
   <passage-objective>
     Show adaptation and deeper understanding, develop guide relationships, explore plant society through conversation
   </passage-objective>
@@ -19,9 +16,4 @@
   <character-focus>
     Kira: Adapting physically, curious intellectually. Leafwhisper: Teaching mode, enjoying questions. Rootwalker: Quiet humor emerging. Scout: Playful exploration.
   </character-focus>
-  <sources>
-    <ref ref="/stories/Mandatory_Assistance/chapters/6_Through_the_Forest/chapter-placement.card" role="Scene 2 outline"/>
-    <ref ref="/world/characters/Leafwhisper.card" role="Leafwhisper characterization"/>
-    <ref ref="/world/characters/Rootwalker.card" role="Rootwalker characterization"/>
-  </sources>
 </passage-placement>

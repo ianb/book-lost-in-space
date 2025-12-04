@@ -1,7 +1,4 @@
-<outline version="1.0.0">
-  <reasoning>
-    First morning at facility. Show routine, adaptation, wound care. Target 1600 words.
-  </reasoning>
+<outline version="1.0.1">
   <must-convey>
     - Daily routine emerging
     - Kira actively learning to navigate system
@@ -33,8 +30,4 @@
   <plot-arc-act>Act 1 (Contact &amp; Bureaucracy) - conclusion</plot-arc-act>
   <concludes-arc>false</concludes-arc>
   <concludes-chapter>false</concludes-chapter>
-  <sources>
-    <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/chapter-placement.card" role="Scene 1 outline"/>
-    <ref ref="/world/characters/Holloway.card" role="Holloway coordination"/>
-  </sources>
 </outline>

@@ -1,7 +1,4 @@
-<outline version="1.0.0">
-  <reasoning>
-    <!-- For instructions on filling out reasoning: ske instructions stories/Mandatory_Assistance/chapters/3_Onboarding/passages/3_Medical_Treatment/outline.card -->
-  </reasoning>
+<outline version="1.1.0">
   <story-goal>
     Get proper medical treatment, survive injury, finally rest after hours of bureaucracy
   </story-goal>
@@ -14,8 +11,4 @@
   <plot-arc-act>Act 1 (Contact &amp; Bureaucracy) - concluding onboarding chapter</plot-arc-act>
   <concludes-arc>false</concludes-arc>
   <concludes-chapter>true</concludes-chapter>
-  <sources>
-    <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/chapter-placement.card" role="Scene 3 outline"/>
-    <ref ref="/world/characters/Remedy.card" role="Remedy's character and manner"/>
-  </sources>
 </outline>

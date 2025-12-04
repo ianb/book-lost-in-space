@@ -1,7 +1,4 @@
-<outline version="1.0.0">
-  <reasoning>
-    <!-- For instructions on filling out reasoning: ske instructions stories/Mandatory_Assistance/chapters/2_First_Contact/passages/1_Into_the_Purple/outline.card -->
-  </reasoning>
+<outline version="1.1.0">
   <must-convey>
     - The planet is beautiful but unmistakably alien (purple everything, wrong light quality)
     - Eerie quiet - no animal sounds at all
@@ -109,9 +106,4 @@
   <plot-arc-act>Act 1 (Contact &amp; Bureaucracy) - approaching first contact</plot-arc-act>
   <concludes-arc>false</concludes-arc>
   <concludes-chapter>false</concludes-chapter>
-  <sources>
-    <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/chapter-placement.card" role="Scene 1 outline"/>
-    <ref ref="/world/entities/Sector_7-Gamma-412_Planet.card" role="Planet sensory details"/>
-    <ref ref="/stories/Mandatory_Assistance/narrative-guide.card" role="Tone and pacing"/>
-  </sources>
 </outline>

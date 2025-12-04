@@ -1,22 +1,35 @@
 <!-- this file is automatically managed by ske validate; do not edit -->
 <versions>
-  <version number="1.0.0" archived-at="2025-11-29T21:06:15.844Z">
+  <version number="1.0.0" archived-at="2025-12-04T18:25:43.547Z">
+    <changelog-entry>
+      <message>catching up on missed snapshots</message>
+    </changelog-entry>
     <passage-placement version="1.0.0">
-      <reasoning-passage-placement/>
+      <reasoning-passage-placement>
+        <!-- For instructions on filling out reasoning: ske instructions stories/Mandatory_Assistance/chapters/6_Through_the_Forest/passages/2_Deeper_In/passage-placement.card -->
+      </reasoning-passage-placement>
       <passage-objective>
-        TBD
+        Show adaptation and deeper understanding, develop guide relationships, explore plant society through conversation
       </passage-objective>
-      <scene-portion>TBD</scene-portion>
+      <scene-portion>Complete scene - covers all of Scene 2</scene-portion>
       <key-moments>
-        TBD
+        - Morning soreness, Leafwhisper's prediction correct
+        - Walking becoming rhythm rather than struggle
+        - More diverse forest - different species, ecosystems
+        - Kira asking about how plant society works
+        - Leafwhisper enthusiastic explanations, Rootwalker dry interjections
+        - Scout discovering interesting plants
+        - Growing comfort with guides, teamwork emerging
+        - Second night, feeling stronger
       </key-moments>
       <character-focus>
-        TBD
+        Kira: Adapting physically, curious intellectually. Leafwhisper: Teaching mode, enjoying questions. Rootwalker: Quiet humor emerging. Scout: Playful exploration.
       </character-focus>
       <sources>
-        <ref ref="/todo/stories/TBD/chapters/TBD/chapter-placement.card#v0.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/6_Through_the_Forest/chapter-placement.card" role="Scene 2 outline"/>
+        <ref ref="/world/characters/Leafwhisper.card" role="Leafwhisper characterization"/>
+        <ref ref="/world/characters/Rootwalker.card" role="Rootwalker characterization"/>
       </sources>
-      <changelog-entry version="1.0.0">Initialized</changelog-entry>
     </passage-placement>
   </version>
 </versions>

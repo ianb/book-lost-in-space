@@ -1,22 +1,34 @@
 <!-- this file is automatically managed by ske validate; do not edit -->
 <versions>
-  <version number="1.0.0" archived-at="2025-11-29T20:39:48.835Z">
+  <version number="1.0.0" archived-at="2025-12-04T18:25:25.615Z">
+    <changelog-entry>
+      <message>catching up on missed snapshots</message>
+    </changelog-entry>
     <passage-placement version="1.0.0">
-      <reasoning-passage-placement/>
+      <reasoning-passage-placement>
+        <!-- For instructions on filling out reasoning: ske instructions stories/Mandatory_Assistance/chapters/4_Adaptation/passages/3_Seeking_Solutions/passage-placement.card -->
+      </reasoning-passage-placement>
       <passage-objective>
-        TBD
+        Introduce Elder Heartwood concept and setup Act 2 quest while concluding Act 1 with survival basics established (Scene 3: Seeking Solutions)
       </passage-objective>
-      <scene-portion>TBD</scene-portion>
+      <scene-portion>Complete scene - covers all of Scene 3 and concludes Chapter 4</scene-portion>
       <key-moments>
-        TBD
+        - Kira asking if anyone can help with "stranded human" situation
+        - Holloway mentions Elder Heartwood - ancient tree, wise, handles exceptions
+        - But requires formal request, distant location, slow response
+        - Timeline: weeks minimum, possibly months
+        - Hope mixed with bureaucratic realism
+        - Files formal query through Holloway
+        - Recognition: adapting to survive, seeking to escape
+        - Act 1 conclusion - basic survival achieved, quest begun
       </key-moments>
       <character-focus>
-        TBD
+        Kira: Hopeful about Elder but realistic about timeline, accepting adaptation while seeking long-term solution. Holloway: Supportive, filing request, managing expectations. Scout: Encouraging presence. Buddy: Providing context and data.
       </character-focus>
       <sources>
-        <ref ref="/todo/stories/TBD/chapters/TBD/chapter-placement.card#v0.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/chapter-placement.card" role="Scene 3 outline"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/2_Dietary_Assessment/passage.card" role="Previous passage"/>
       </sources>
-      <changelog-entry version="1.0.0">Initialized</changelog-entry>
     </passage-placement>
   </version>
 </versions>
