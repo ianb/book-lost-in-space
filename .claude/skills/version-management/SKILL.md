@@ -71,8 +71,15 @@ The feedback is stored in a `<from-feedback>` element in the changelog, separate
 
 When references use old versions:
 
-`ske version-instruct [path]` - See changelogs and update guidance
-`ske version-instruct --for [entity]` - Find all outdated references to entity
+```bash
+# Check a file's outgoing references for outdated versions
+ske version-instruct path/to/file.card
+
+# Find all files with outdated references TO a specific card
+ske version-instruct --for /world/characters/Marcus
+```
+
+Both show changelogs and guidance for updating the references.
 
 ## History Files
 
@@ -80,3 +87,21 @@ Version archives are stored in `.history.card` files alongside each card:
 - `character.card` → `character.history.card`
 - Contains all archived versions with changelog entries
 - Automatically managed - do not edit directly
+
+## Batch Snapshots (Human Only)
+
+**AGENTS: Do NOT use `--catch-up`. It is for human use only.**
+
+If `ske validate` shows many files needing snapshot (more than ~10), tell the user:
+
+> "There are N files needing snapshot. You can run them individually, or if you want to catch up quickly with a single message for all, you can run:
+> `ske snapshot --catch-up -m "Batch catch-up" --no-feedback`
+> Note: This applies the same changelog message to all files, so use it only when that's appropriate."
+
+The `--catch-up` option:
+- Finds and snapshots ALL files that need it
+- Uses the same `-m` message for all files
+- Warns about broken refs but proceeds (instead of erroring)
+- Shows progress and success/error counts
+
+This exists because snapshot intentionality matters - each file should have a meaningful changelog message. Batch mode sacrifices that for convenience when catching up on backlog.

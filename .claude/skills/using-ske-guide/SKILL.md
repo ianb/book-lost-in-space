@@ -17,6 +17,20 @@ Shows valid next tasks ranked by priority:
 - Create TODO entities
 - Update outdated references
 
+## Story-Specific Mode
+
+```bash
+ske guide stories/MyStory
+```
+
+When working on a specific story, use this to see:
+- Next step in the story workflow (create chapter, create passage, complete outline)
+- TBD values within that story only
+- TODO references within that story
+- Story cards needing attention
+
+This is the recommended way to focus on story development without project-wide noise.
+
 ## Task Analysis Mode
 
 ```bash

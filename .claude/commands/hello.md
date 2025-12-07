@@ -19,7 +19,7 @@ You're being asked to familiarize yourself with this story project. Take time to
 3. **Get oriented on progress** - Check what's been written:
    - Look at `chapters/` or `passages/` structure (stories may use chapters or flat passages)
    - Note which passages exist and their state
-   - Run `ske status` to see what needs work
+   - Run `ske guide` to see suggested next steps
 
 4. **Summarize your understanding** - After reading, provide:
    - A brief summary of what this story is about

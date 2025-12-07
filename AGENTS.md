@@ -4,12 +4,14 @@ XML-based format for organizing story elements and narrative planning.
 
 ## Workflow
 
-1. `ske guide` - Find next task and see TBD fields with line numbers
+1. `ske guide` - Find next task project-wide, or `ske guide stories/StoryName` for story-specific guidance
 2. `ske create [path]` - Create a .card file from a template
 3. Fill in fields using the instructions loop (see below)
 4. `ske snapshot [path] -m "why you made changes" --no-feedback` or `--from-feedback="user's feedback"` - After completing edits to a file, performs an AI-analyzed version bump. The message should explain *why* (motivation, goal), not *what* (the diff is self-explanatory). You MUST specify either `--no-feedback` or `--from-feedback="..."` to indicate whether changes were guided by user/reader feedback. Use `--from-feedback` to transcribe or paraphrase feedback that led to this change - this will be analyzed to improve future guidance.
 5. `ske validate` - Checks consistency and validity of edits, auto-commits result
 6. Return to `ske guide` to find the next task
+
+When working on a specific story, prefer `ske guide stories/StoryName` to see only the next step and TBDs for that story.
 
 ### Instructions Loop
 
