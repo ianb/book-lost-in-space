@@ -1,0 +1,196 @@
+<!-- this file is automatically managed by ske validate; do not edit -->
+<versions>
+  <version number="4.0.0" archived-at="2025-12-07T22:59:31.051Z">
+    <changelog-entry>
+      <message>Initial version</message>
+    </changelog-entry>
+    <!-- Generated automatically, do not edit except with ske gen summaries -->
+    <summary version="4.0.0">
+      <sources>
+        <ref ref="/stories/Mandatory_Assistance/chapters/6_Through_the_Forest/passages/3_Boundary/passage#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/passage#v4.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/2_Aftermath/passage#v2.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/3_Buddy_Arrives/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/4_Taking_Stock/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/1_Into_the_Purple/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/2_Scout/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/3_Wellness_Check/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/1_Intake/passage#v2.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/2_Orientation/passage#v2.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/3_Medical_Treatment/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/1_Morning_Wellness/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/2_Dietary_Assessment/passage#v2.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/3_Seeking_Solutions/passage#v2.1.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/5_Settling_In/passages/1_Time_Passing/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/5_Settling_In/passages/2_Journey_Option/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/5_Settling_In/passages/3_Preparation/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/6_Through_the_Forest/passages/1_First_Day/passage#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/6_Through_the_Forest/passages/2_Deeper_In/passage#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/summary#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/2_Aftermath/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/3_Buddy_Arrives/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/4_Taking_Stock/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/1_Into_the_Purple/summary#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/2_Scout/summary#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/3_Wellness_Check/summary#v3.0.0"/>
+      </sources>
+      <narrative-promises>
+        <reasoning>This passage depicts the actual territory handoff at the boundary and the immediate emotional aftermath. That directly pays off the planned mid‑afternoon transfer and the relay model of guides; both were explicitly executed. Nothing in the passage addresses ship/mission technical mysteries (wreck, logs, SAM, bio‑container, navigation anomaly, etc.), biological risks, long‑term survival/resource questions, or Buddy's deeper capabilities — so those remain open. No prior open promise is abandoned or rendered moot by this scene: the emotional attachment thread continues rather than lapsing. The passage also introduces several new, story‑relevant setups (new guides with distinct personalities and competence claims; wetlands terrain hazards; the spiral boundary marker as a cultural/ritual signpost; Rootwalker's intimate touch and the explicit spread of Kira's reputation across networks). These new items function as hooks for future scenes (character interactions, terrain challenges, cultural meaning, and emotional stakes).</reasoning>
+        <fulfilled>
+          <promise id="TRANSFER_TO_TERRITORY_TWO_HANDOFF_SCHEDULE">Leafwhisper had said the handoff would occur mid‑afternoon; the transfer is completed at the boundary and Territory Two guides (Streamwalker and Brightbloom) assume responsibility.</promise>
+          <promise id="GUIDE_RELAY_HANDOFF_MODEL">The relay model (one set of guides escorting to a boundary, handing off to the next set) is tested and executed: Rootwalker/Leafwhisper hand Kira over to Streamwalker/Brightbloom as expected.</promise>
+        </fulfilled>
+        <open>
+          <promise id="BIO_SAMPLES_TEMPERATURE_ANOMALY">Locked, powered sample container aboard the wreck remains unexamined; contents and risks unresolved.</promise>
+          <promise id="NAV_COORDS_MISMATCH">Why the Meridian/shuttle ended up at this planet (FTL malfunction or anomaly) remains unexplained.</promise>
+          <promise id="SYSTEMS_FAILURE_OR_EXTERNAL_INTERFERENCE">Root cause of the crash (mechanical failure, external interference, sabotage, or environment) is still undetermined.</promise>
+          <promise id="BIOHAZARD_OR_CONTAMINATION_RISK">Potential biological/chemical contamination from alien flora, compounds, or breached cargo remains unresolved.</promise>
+          <promise id="KEPLER_288_STATION_OR_PLANET_PROMISE">Precise identification/mission relation of this planet/station remains unresolved.</promise>
+          <promise id="SAM_OFFLINE_OR_DESTROYED">SAM's fate and any lost logs or data remain outstanding and unrecovered.</promise>
+          <promise id="ALIEN_ENVIRONMENT_DISCOVERY">Detailed mapping, hazards, resources, habitability, and implications of mobile/social flora remain to be investigated beyond intake/orientation.</promise>
+          <promise id="SURVIVAL_RESOURCE_CHALLENGE">Long‑term survival needs (diverse food, reliable water, shelter longevity, rescue timeline) are still unresolved.</promise>
+          <promise id="SEARCH_FOR_LOGS_AND_NAV_DATA">No cockpit logs or navigation data from the wreck have been recovered; a search remains necessary.</promise>
+          <promise id="EMERGENCY_AI_REPLACEMENT_DISCOVERED">Buddy's origin, privileges, and implications as an ad‑hoc/childlike AI with potentially mission‑critical info still require investigation.</promise>
+          <promise id="BUDDY_LIMITATIONS_AND_CAPABILITIES">Buddy provided monitoring and accompaniment but its full sensory/processing limits and long‑term usefulness remain uncharacterized.</promise>
+          <promise id="AI_COMPATIBILITY_AND_SECURITY_RISK">Whether Buddy's configuration poses authorization/security risks or can be escalated remains unresolved.</promise>
+          <promise id="SURVIVAL_WITH_CHILD_AI">How effective Buddy will be long‑term (decision‑making, pedagogy, emotional support) and whether it will help or hinder survival is open.</promise>
+          <promise id="LONG_TERM_SURVIVAL_REQUIREMENT">Kira still needs to secure long‑term shelter, supplies, and a realistic rescue strategy.</promise>
+          <promise id="BIO_CONTAINER_LOCKED_NEEDS_ACCESS">The biological sample container aboard the wreck remains locked and consuming power; safe access or shutoff is necessary.</promise>
+          <promise id="REPAIR_OR_ALTERNATE_COMMUNICATIONS">Distress beacon and ship transmitters remain damaged; repairs or improvisation to contact off‑world remain outstanding.</promise>
+          <promise id="RESOURCE_RATIONING_AND_FORAGING">How to safely forage or source varied food outside provisioning, and whether the ecology can sustain long trips, remains open.</promise>
+          <promise id="WATER_QUALITY_TEST_NEEDED">Nearby water sources still require formal testing for potability and alien contaminants despite repeated drinking.</promise>
+          <promise id="BUDDY_ADAPTABILITY_AND_AUTHORIZATION">Whether Buddy can adapt operating modes, escalate privileges, or access ship/facility systems remains unresolved.</promise>
+          <promise id="BUDDY_SENSOR_BLINDSPOT">Buddy's sensor blindspots and compensatory strategies (e.g., missed canopy movement) still need characterization for on‑the‑move monitoring.</promise>
+          <promise id="FOREST_PERPETUAL_TWILIGHT_LIGHT_ANOMALY">The cause and implications of lavender‑filtered light and unusual photosynthetic/bioluminescent properties remain unexplained.</promise>
+          <promise id="MAINTAINED_FOREST_OR_DESIGNED_ENVIRONMENT">Whether the organized living architecture is engineered or emergent remains to be tested across other territories.</promise>
+          <promise id="FOREST_ACOUSTIC_ANOMALY">The forest's musical breathing and acoustic signaling modes and their meaning remain unresolved.</promise>
+          <promise id="FIRST_CONTACT_CONSEQUENCES">Longer‑term medical, cultural, ethical, and diplomatic consequences of first contact remain unresolved and will be tested as Kira meets more plant communities.</promise>
+          <promise id="ALLIANCE_OR_MISUNDERSTANDING_RISK">The helpful/bureaucratic plant behavior poses alliance and miscommunication risks to be navigated across territorial handoffs.</promise>
+          <promise id="PLANT_BUREAUCRACY_AND_PROTOCOLS">The facility's documentation‑first, protocol‑driven bureaucracy remains an active constraint and potential friction point.</promise>
+          <promise id="PREVIOUS_VISITOR_RECORDS_AND_MATERIALS">Archives and prior‑visitor human records likely exist but their location, contents, and accessibility are unknown.</promise>
+          <promise id="FLORENCE_INTRODUCED">Florence’s role, authority, and relationship to central coordination remain unresolved and unaddressed in this passage.</promise>
+          <promise id="PLANT_COLOR_SIGNALLING_LEXICON">Color and pulsing appear to map to states but reliable decoding remains incomplete and could affect future interactions.</promise>
+          <promise id="PLANT_SALVAGE_AND_TECH_INTEGRATION">Facility repurposes salvaged hardware for robots/platforms; origins and implications for access/repair remain open.</promise>
+          <promise id="PLANT_WHEELED_PLATFORM_ORIGINS">Where salvaged wheels, joysticks, and other hardware originate (wreckage, prior visitors, fabrication) remains unresolved.</promise>
+          <promise id="ASSESSMENT_CREDENTIAL_RECORDS">Forms/credentials were accepted and used to obtain travel permission, but broader implications for record access and privileges remain to be explored.</promise>
+          <promise id="CENTRAL_COORDINATION_RESOURCES_AND_RECORDS">The living facility’s internal record‑keeping and resource inventories likely exist but full scope/accessibility remain unknown.</promise>
+          <promise id="LIVING_STRUCTURE_FUNCTIONS">How living architecture is grown, maintained, and whether structure contributes to plant cognition remain open questions.</promise>
+          <promise id="PLANT_ROBOT_MANUFACTURE_AND_MAINTENANCE">Plants can field salvage‑assembled robots; the extent of manufacture, maintenance, and part sources remains unresolved.</promise>
+          <promise id="MUSHROOM_MEDICATION_SUPPLY_SUSTAINABILITY">Remedy can fruit medicinal compounds now, but whether the territory network can produce varied, sufficient, and safe pharmacology for the whole journey is unproven.</promise>
+          <promise id="TEMPORARY_QUARTERS_SAFETY_AND_RESOURCES">Immediate quarters served short‑term needs, but long‑term safety, privacy, and sanitation across territories must be verified.</promise>
+          <promise id="MEDICAL_CONSENT_BUREAUCRACY_AND_AUTONOMY">How consent, patient autonomy, and plant medical workflows will be handled en route remains unresolved.</promise>
+          <promise id="PLANT_ATTITUDE_TOWARD_HUMAN_BODIES">Remedy's clinical treatment and plant‑centered perspective still raise ethical/behavioral concerns that may recur.</promise>
+          <promise id="DAILY_WOUND_CARE_SCHEDULE">Wound healed but ongoing need for medical check‑ins and logistics for care on the route remain open.</promise>
+          <promise id="WATER_POTABILITY_RISK">Territorial rest facilities vary in water access; potability and contamination risk still require formal testing.</promise>
+          <promise id="ATTACHMENT_TO_PLANT_AGENTS_RISK">Kira's emotional attachments to plant agents are forming and remain a narrative risk.</promise>
+          <promise id="ACCLIMATION_TO_BUREAUCRACY">Kira's increasing facility with forms and protocol continues and may influence future autonomy and access.</promise>
+          <promise id="RESCUE_TIMELINE_UNCERTAINTY">Buddy's pessimistic rescue estimate (12–18 months) and general rescue timeliness remain unresolved.</promise>
+          <promise id="COMPANION_STABILITY">Scout continues to be a stable companion; durability and role over the full journey remain to be tested.</promise>
+          <promise id="MICRONUTRIENT_DEFICIENCY_RISK">Risk that some micronutrients may be unavailable or only approximated by fungal chemistry remains a long‑term concern.</promise>
+          <promise id="MUSHROOM_FOOD_SUPPLY_SUSTAINABILITY">Territorial provisioning supplies mushroom paste, but long‑term variety and nutritional completeness for weeks/months remains unproven.</promise>
+          <promise id="DIGESTIVE_TOLERANCE_MONITORING">Kira's current tolerance to fungal compounds is acceptable but continued monitoring remains necessary.</promise>
+          <promise id="ASSESSMENT_TIMELINE_STARVATION_RISK">Tension between procedural timelines and acute human needs remains a structural starvation risk.</promise>
+          <promise id="ELDER_HEARTWOOD_QUERY_SUBMITTED">A petition to Elder Heartwood has been filed; Elder's network response is still pending.</promise>
+          <promise id="ELDER_HEARTWOOD_RESPONSE_TIMELINE">Holloway's estimates for Elder response times remain relevant; Elder may delay guidance even after physical arrival.</promise>
+          <promise id="ELDER_HEARTWOOD_MAY_PROVIDE_EXCEPTIONAL_ASSISTANCE">Elder is the best authority for exceptions, but whether they can or will provide needed rescue/comms assistance is uncertain.</promise>
+          <promise id="ELDER_TRAVEL_DURATION_ESTIMATE">Transit days (roughly 21 across seven territories) remain an estimate; per‑leg processing times may change.</promise>
+          <promise id="TRAVEL_ROUTE_SEVEN_TERRITORIES">The planned route still passes through seven territories; sequence and handoffs will shape the trip.</promise>
+          <promise id="TRAVEL_TOTAL_TIMELINE_REFINED">Day‑one and day‑two distances refined expectations but the overall multiweek timeline and future delays remain open.</promise>
+          <promise id="BUDDY_TRAVEL_SUPPORT_LIMITS">Buddy's battery reserves and operational limits for a multiweek journey remain a constraint.</promise>
+          <promise id="ELDER_RESPONSE_ON_ARRIVAL_UNCERTAIN">Even physical arrival at Elder Heartwood may not produce an immediate/useful response.</promise>
+          <promise id="LEAFWHISPER_FIRST_HUMAN_ADAPTATION_RISK">Leafwhisper's novelty with human travelers may produce future miscommunication or emotional complications.</promise>
+          <promise id="REMEDY_EMOTIONAL_INVESTMENT">Remedy's interest in Kira's return remains an interpersonal thread with possible future consequences.</promise>
+          <promise id="KIRA_MINIMAL_BELONGINGS_RISK">Kira's reliance on territorial provisioning and lack of personal supplies remains a vulnerability.</promise>
+          <promise id="FOREST_NETWORK_INTEGRATION">The question whether the forest behaves as a distributed organism with political/resource consequences remains open.</promise>
+          <promise id="INFORMATION_OVERLOAD_FROM_LEAFWHISPER">Leafwhisper's relentless commentary remains a potential operational risk for Kira's ability to process critical information.</promise>
+          <promise id="SCOUT_ROLE_EVOLUTION">Scout is learning rest‑stop behavior and chemical sampling; Scout's growing capabilities and role remain to be tested further.</promise>
+          <promise id="SPIRAL_TYPE_TIME_LAYER_PERCEPTION">Spiral‑type plants perceive time in layers; this raises possible future miscommunication and temporal oddities to be explored.</promise>
+          <promise id="FOREST_RHYTHM_EFFECTS_ON_HUMANS">The forest's breathing rhythm produced a physical/emotional reaction in Kira; physiological/psychological impacts on travelers remain open.</promise>
+          <promise id="UPCOMING_HANDOFF_EMOTIONAL_STRESS">Kira's attachment to the guide team establishes an upcoming emotional test at transfers; repeated goodbyes may have consequences.</promise>
+          <promise id="STREAMWALKER_AND_BRIGHTBLOOM_INTRODUCED">New Territory Two guides are introduced (Streamwalker: soft, musical, document‑aware; Brightbloom: cheerful, experienced with sphere‑types). Their personalities and competence are set up for future interactions.</promise>
+          <promise id="TERRITORY_TWO_WETLAND_TERRAIN_HAZARDS">Territory Two is rivers/wetlands: softer ground, river crossings and different navigation/water‑related hazards are promised in upcoming days.</promise>
+          <promise id="BOUNDARY_MARKER_SPIRAL_RITUAL">The spiral of stones and flowering plants between two great trees marks the boundary; its ritual/cultural significance is established as something to be explored.</promise>
+          <promise id="ROOTWALKER_PHYSICAL_CONTACT_SIGNIFICANCE">Rootwalker's unexpected physical touch on Kira's shoulder is staged as a meaningful emotional gesture that may carry future interpersonal significance.</promise>
+          <promise id="REPUTATION_PROPAGATION_ACROSS_TERRITORIES">Leafwhisper's promise to tell other guides about Kira establishes the setup that reputation and reports will travel across networked territories, influencing future reception/treatment.</promise>
+        </open>
+      </narrative-promises>
+      <facts>
+        <reasoning>The passage documents a routine territory handoff and introduces new long-term elements (new guides, territory character, physical boundary marker, and a measurable transition zone) that will affect upcoming travel and interactions. It also confirms emotional/physical behaviors of guides (Rootwalker's tactile farewell) and Scout's continued accompaniment — all relevant for continuity. No statements contradict previously established facts about guides, timing, or travel pacing.</reasoning>
+        <established>
+          <fact id="CHANGE_DISTANCE_TO_BOUNDARY_15_KM">The group is about fifteen kilometers from the Territory One/Two boundary at the start of the day; expected arrival mid-afternoon.</fact>
+          <fact id="CHANGE_TRANSITION_ZONE_APPROX_1_KM">Territorial boundaries form gradual transition zones roughly one kilometer wide where coordination/communication systems overlap rather than a sharp line.</fact>
+          <fact id="CHANGE_BOUNDARY_MARKER_CLEARNING_SPIRAL_STONES">The Territory One/Two boundary is marked by a clearing with two massive trees on opposite sides and a deliberate spiral pattern of stones and flowering plants between them.</fact>
+          <fact id="CHANGE_NEW_GUIDES_STREAMWALKER_BRIGHTBLOOM">Two Territory Two guides are introduced: Streamwalker (tall, vine-like, soft/musical voice, leads with flowing motions) and Brightbloom (compact, dense foliage with bright orange flowers, higher-pitched and cheerful).</fact>
+          <fact id="CHANGE_TERRITORY_TWO_TERRAIN_RIVERS_WETLANDS">Territory Two is characterized by rivers and wetlands, with softer ground and upcoming river crossings as the primary navigation challenge.</fact>
+          <fact id="CHANGE_HANDOFF_COMPLETED_LEAFWHISPER_ROOTWALKER_RETURN">Leafwhisper and Rootwalker complete the handoff at the boundary and depart back toward Territory One (they return home after the transfer).</fact>
+          <fact id="CHANGE_ROOTWALKER_TACTILE_FAREWELL">Rootwalker placed a gentle, two-second root-hand touch on Kira's shoulder as a farewell — a deliberate tactile gesture conveying high praise/affection.</fact>
+          <fact id="CHANGE_SCOUT_CONTINUES_WITH_GROUP">Scout the sphere is explicitly welcomed and permitted to continue traveling with Kira into Territory Two and remains by her side.</fact>
+          <fact id="CHANGE_TERRITORY_COMMUNICATION_FREQUENCIES_ALGORITHMS">Each territory maintains distinct communication frequencies and resource-sharing algorithms that the plant guides sense through root/fungal connections; these underlie how guides detect territorial shifts.</fact>
+        </established>
+        <conflicts/>
+      </facts>
+      <timing>
+        <reasoning>This passage is a single continuous segment covering the last day of the Territory One crossing: the narrator wakes on the third morning, walks toward the boundary, completes the handoff to new guides in a clearing, and then immediately continues into Territory Two. Time cues: "The third morning feels different" marks the start; Leafwhisper’s earlier note—"About fifteen kilometers to the boundary! Should reach it mid-afternoon"—sets the expected arrival. The handoff and emotional goodbye take place at the boundary clearing and are brief (minutes), and the passage ends when the narrator and the new guides set off into Territory Two. Total on-screen time is one morning through mid-afternoon (several hours). Since the previous passage ended the prior evening (~18:00), the gap is an overnight rest (roughly a dozen hours). The pacing is plausible: waking, breakfast/packing, ~15 km of walking with rest stops and a short handoff fits within a morning-to-mid-afternoon window, and the farewell rituals described are short enough to fit into the same afternoon without awkward compression of events.</reasoning>
+        <starts>morning (~07:30)</starts>
+        <ends>mid-afternoon (~15:00)</ends>
+        <gap-from-previous>≈12–14 hours (overnight rest between the previous evening ~18:00 and the next morning). During this gap the group slept, ate, packed, and prepared for the final day—standard overnight activities.</gap-from-previous>
+        <plausibility>Plausible. The timeline (wake, breakfast/pack, ~15 km walking with intermittent rest, brief boundary handoff, then continuing into new territory) reasonably fits a morning-to-mid-afternoon span. The emotional goodbye and documentation/transfer described would take only minutes to perhaps half an hour, so there is no unrealistic compression. No major timing inconsistencies detected.</plausibility>
+      </timing>
+      <characters>
+        <reasoning>Characters mentioned or present: The narrator is Kira Voss (first-person). Leafwhisper and Rootwalker are present from the start and later depart. Scout is present throughout. Buddy is present and speaks. Two new guides, Streamwalker and Brightbloom, arrive at the boundary (entered during this scene). Elder Heartwood is mentioned by name. No other named characters from the provided list appear. No provided entity card (Sector_7-Gamma-412_Planet) is referenced in the passage, so the entities list is empty.</reasoning>
+        <present>
+          <character ref="/world/characters/Kira_Voss.card"/>
+          <character ref="/world/characters/Buddy.card"/>
+          <character ref="/world/characters/Leafwhisper.card"/>
+          <character ref="/world/characters/Rootwalker.card"/>
+          <character ref="/world/characters/Scout.card"/>
+          <character ref="/world/characters/Streamwalker.card"/>
+          <character ref="/world/characters/Brightbloom.card"/>
+          <character ref="/world/characters/Elder_Heartwood.card"/>
+        </present>
+        <entered>
+          <character ref="/world/characters/Streamwalker.card"/>
+          <character ref="/world/characters/Brightbloom.card"/>
+        </entered>
+        <exited>
+          <character ref="/world/characters/Leafwhisper.card"/>
+          <character ref="/world/characters/Rootwalker.card"/>
+        </exited>
+        <entities/>
+      </characters>
+      <story-so-far>
+        <reasoning>This passage is a boundary/hand-off scene: Kira completes the last day with Territory One guides and transfers to Territory Two. Key events to add: final morning, crossing the transition zone, arrival at a non-physical boundary clearing marked by two trees and a spiral pattern, meeting new guides Streamwalker and Brightbloom, formal handoff and documentation review, Leafwhisper and Rootwalker depart, small physical farewell (Leafwhisper touch; Rootwalker touches Kira's shoulder), Buddy notes emotional distress, Scout remains with Kira, and the party sets out into wetlands with an expected river crossing in a couple hours. Previous logistical detail about daily distances and multiple rest shelters can be consolidated into a single bullet about establishing travel rhythm and adaptations. Remove overly specific distances/daily stats and some repetitive praise lines; keep facts relevant to ongoing plot (who is guiding Kira now, her emotional state, immediate next terrain and timeline).</reasoning>
+        <summary>
+          - Shuttle crash after FTL drop-out; Jensen and Reed died; Kira Voss survived with head and rib injuries; ship AI SAM offline; emergency neural-link AI Buddy active with limited battery.
+          - Shuttle hull breached; planet atmosphere breathable; comms, propulsion, and distress beacon damaged; limited emergency life-support and survival supplies remain.
+          - Kira entered the Holloway plant collective for care, received temporary quarters and a Scout companion; Remedy treated her leg, transmitted medical records, and Holloway noted a possible long-term micronutrient gap.
+          - Buddy estimated external rescue/search reach measured in months; Holloway filed a relay but Kira chose to travel physically to the Elder Heartwood rather than wait.
+          - Two Territory One guides assigned—Leafwhisper (talkative, plant-network specialist) and Rootwalker (taciturn, terrain specialist)—and Buddy plus Scout accompanied Kira on the trek.
+          - They established a steady multi-day travel rhythm with regular rests and mushroom-based field meals; Scout explored and returned sensory data; Buddy monitored Kira's vitals and adaptation to long-distance walking.
+          - Along the route Kira learned about interconnected plant societies and networked root/fungal communication (including spiral vines and territorial coordination protocols).
+          - On the third morning they approached the Territory One/Two transition zone (~15 km to boundary earlier), noted gradual ecological/soil/network changes, and reached the boundary clearing marked by two massive trees and a spiral stone/flower pattern.
+          - Territory Two guides Streamwalker (vine-like) and Brightbloom (bushy, flowered) met them, had reviewed Kira's documentation, and assumed guide responsibility for the next segment (three days, rivers/wetlands terrain).
+          - Leafwhisper and Rootwalker performed the formal handoff, said goodbye, and departed back into Territory One; Kira had an emotional farewell (touched Leafwhisper; Rootwalker briefly touched her shoulder).
+          - Buddy registered Kira's emotional distress and monitored vitals; Scout remained with Kira and was permitted to continue with the new guides.
+          - Kira and the new guides entered Territory Two toward wetlands and an expected river crossing in about two hours, continuing the journey toward the Elder Heartwood.
+        </summary>
+      </story-so-far>
+      <emotional-journey>
+        <reasoning>
+          POV emotional state: The passage is dominated by a bittersweet, tender farewell. Kira feels attachment, gratitude, and quiet grief at leaving guides who have become a caring, reliable presence; she is moved by small gestures (Rootwalker's touch, Leafwhisper's chatter) and not fully ready to let go. Those feelings quickly segue into pragmatic acceptance and steady resolve — she acknowledges the handoff, thanks them, and steels herself to continue. Finally, there's a calm anticipatory optimism as she follows new guides into unfamiliar wetlands, carrying lessons and a renewed sense of agency.
+
+          Reader experience: The reader is likely to feel warmth and empathy (for the genuine connections Kira formed), a soft sting of sadness at the goodbye, and then uplift/interest as the journey recommences. The scene produces a comforting emotional cadence: attachment → poignant parting → hopeful continuation.
+
+          Multiple beats or dominant tone: There are three interlinked beats — (1) bittersweet attachment/grief at parting, (2) tender gratitude and acceptance of the handoff, and (3) forward-facing anticipation and hope. The dominant emotional arc moves from belonging/loss into acceptance and optimistic momentum.
+
+          Comparison to prior pattern: This continues the story’s recurring motif of temporary, meaningful connections with guides (belonging) and the recurring arc of attachment → separation → acceptance. However, it reduces earlier tension/dread and bureaucratic frustration, favoring intimacy and emotional closure. While the temporary-team/farewell motif recurs across chapters, this passage deepens the emotional stakes (small physical contact, explicit praise) rather than repeating the same tone mechanically, so it feels like an emotional progression rather than mere repetition.
+        </reasoning>
+        <beats>
+          <beat tags="belonging, grief">Bittersweet farewell and attachment. POV: Kira feels unexpected sadness and tightness in her chest as she says goodbye to Leafwhisper and Rootwalker—their steady care, Rootwalker's touching of her shoulder, and their praise make the parting emotionally charged. Reader: experiences warm empathy and a soft pang of sadness at the genuine connection being severed.</beat>
+          <beat tags="belonging, acceptance">Gratitude and quiet acceptance. POV: After the initial sting, Kira expresses thanks, touches Leafwhisper, and verbally acknowledges what she learned—she accepts the protocol and the handoff even while mourning it. Reader: feels tenderness and relief that Kira both recognizes the value of the guides and is able to let them go with gratitude rather than resentment.</beat>
+          <beat tags="anticipation, hope">Resolute forward motion and cautious optimism. POV: Kira steels herself to continue into Territory Two, carrying rhythm, trust, and lessons learned; she is ready (if a little unmoored) for new terrain and new guides. Reader: experiences uplifted engagement and curiosity—hopeful anticipation for the next leg of the journey and assurance that Kira retains agency.</beat>
+        </beats>
+      </emotional-journey>
+    </summary>
+  </version>
+</versions>

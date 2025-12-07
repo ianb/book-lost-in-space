@@ -1,0 +1,184 @@
+<!-- this file is automatically managed by ske validate; do not edit -->
+<versions>
+  <version number="2.0.0" archived-at="2025-12-07T22:59:30.834Z">
+    <changelog-entry>
+      <message>Initial version</message>
+    </changelog-entry>
+    <!-- Generated automatically, do not edit except with ske gen summaries -->
+    <summary version="2.0.0">
+      <sources>
+        <ref ref="/stories/Mandatory_Assistance/chapters/14_Choosing_Home/passages/3_Where_Voices_Belong/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/passage#v4.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/2_Aftermath/passage#v2.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/3_Buddy_Arrives/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/4_Taking_Stock/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/1_Into_the_Purple/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/2_Scout/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/3_Wellness_Check/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/1_Intake/passage#v2.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/2_Orientation/passage#v2.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/3_Medical_Treatment/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/1_Morning_Wellness/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/2_Dietary_Assessment/passage#v2.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/3_Seeking_Solutions/passage#v2.1.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/5_Settling_In/passages/1_Time_Passing/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/5_Settling_In/passages/2_Journey_Option/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/5_Settling_In/passages/3_Preparation/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/6_Through_the_Forest/passages/1_First_Day/passage#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/6_Through_the_Forest/passages/2_Deeper_In/passage#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/6_Through_the_Forest/passages/3_Boundary/passage#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/7_Rivers_and_Wetlands/passages/1_River_Crossing/passage#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/7_Rivers_and_Wetlands/passages/2_Wetlands/passage#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/7_Rivers_and_Wetlands/passages/3_Second_Boundary/passage#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/8_Hills_and_Heights/passages/1_Climbing/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/8_Hills_and_Heights/passages/2_The_Ancient_Grove/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/8_Hills_and_Heights/passages/3_Hope_and_Return/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/9_Disappointing_Answer/passages/1_Settling_In/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/9_Disappointing_Answer/passages/2_The_Answer_Arrives/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/9_Disappointing_Answer/passages/3_What_We_Know/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/10_Trust_Complicated/passages/1_False_Wisdom/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/10_Trust_Complicated/passages/2_The_Deception/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/10_Trust_Complicated/passages/3_Broken_Trust/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/11_Under_Attack/passages/1_Delegation_Fails/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/11_Under_Attack/passages/2_Attack_Begins/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/11_Under_Attack/passages/3_Desperate_Cooperation/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/12_Victory_Through_Voice/passages/1_Voices_Emerging/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/12_Victory_Through_Voice/passages/2_Together_Not_Just_Coordinated/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/12_Victory_Through_Voice/passages/3_Recognition/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/13_Individual_Voices/passages/1_Everyone_Contributing/passage#v1.1.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/13_Individual_Voices/passages/2_Signal_From_Outside/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/13_Individual_Voices/passages/3_Finding_Home/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/14_Choosing_Home/passages/1_Official_Choice/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/14_Choosing_Home/passages/2_Demonstrating_Belonging/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/summary#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/2_Aftermath/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/3_Buddy_Arrives/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/4_Taking_Stock/summary#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/1_Into_the_Purple/summary#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/2_Scout/summary#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/3_Wellness_Check/summary#v3.0.0"/>
+      </sources>
+      <narrative-promises>
+        <reasoning>This passage mainly dramatizes the social consequences of the freighter visit rather than resolving technical, tactical, or political problems. It shows an emotional payoff: a spontaneous celebration, durable social integration of Kira, and concrete invitations for Kira to participate in future design and experimental work. That pays off some of the narrative promises raised by the previous visit (specifically those about morale and the precedent of human design input), but it does not institutionalize governance, fix resource or infrastructure shortfalls, resolve hostile-plant strategic questions, or remove the political/legal risks that attendance by the company introduced. Many previously flagged operational, environmental, and logistical threads therefore remain live. The passage does introduce a cluster of new, actionable promises tied to projects and social roles (Runner/Vellvet/Remedy projects, Florence's defensive ideas, Holloway's enabling leadership model, Scout's social role, and the promise that Kira's membership will be ongoing and influential) — all of which create new commitments that will demand resources and governance attention in future scenes.</reasoning>
+        <fulfilled>
+          <promise id="COMMUNITY_MORALE_BOOST_AND_RESOURCE_IMPACT">The previously flagged morale boost actually occurs: the community celebrates, cohesion increases, and comfort-focused compounds and spaces are actively used — demonstrating the immediate morale/resource effect of the freighter visit.</promise>
+          <promise id="HUMAN_DESIGN_INFLUENCE_PRECEDENT">The precedent that human feedback influences plant design is realized: Kira is invited and accepted into multiple concrete future design and testing roles (Runner, Velvet, Remedy), showing human design influence is now an ongoing practice rather than a one-off.</promise>
+        </fulfilled>
+        <open>
+          <promise id="REBUILD_TRUST_PROCESS">Durable reconciliation/governance outcomes remain untested; the visit and celebration have not produced codified trust processes for future stressors or formal dispute-resolution procedures.</promise>
+          <promise id="HOSTILE_PLANTS_MOTIVATION_UNKNOWN">The deeper motivations, intentions, and likely adaptations of hostile plant forces were not addressed by the social celebration and remain strategically unknown.</promise>
+          <promise id="COMMUNITY_WEAKENING_RISK">High morale has increased cohesion, but resource limits and fragile infrastructure still risk weakening the community under future demand or stress.</promise>
+          <promise id="BOUNDARY_MARKERS_SOCIAL_SIGNS">Formal negotiation of territorial rituals, boundary markers, or social recognition procedures was not established during the celebration and remains unresolved.</promise>
+          <promise id="HOSTILE_PLANT_TERRITORIAL_MARKERS">Enemy territorial marking and escalation implications remain unaddressed and relevant.</promise>
+          <promise id="PLANT_AUTHORITY_TRUST_EROSION">Long-term political consequences and possible factionalism around Holloway's authority were not institutionalized; trust remains contingent and open to future erosion.</promise>
+          <promise id="DAILY_ITERATIVE_CARE_PRACTICE">Who will sustain day-to-day medical and caregiving routines under ongoing strain remains unsettled despite the celebratory morale boost.</promise>
+          <promise id="REMEDY_EMOTIONAL_INVESTMENT">Remedy's increased emotional investment (and attendant burnout risk) is demonstrated by their enthusiasm but remains an unresolved personnel/resource risk.</promise>
+          <promise id="BOUNDARY_HANDOFF_RITUAL">No enduring protocol for boundary transfer/recognition was formalized beyond the emergency beacon; rituals and handoffs remain open.</promise>
+          <promise id="ATTACHMENT_TO_PLANT_AGENTS_RISK">Kira's deepening emotional and operational ties to plant allies (Scout, Runner, etc.) are now stronger and continue to represent a structural vulnerability for future choices or missions.</promise>
+          <promise id="LONG_TERM_SURVIVAL_REQUIREMENT">Durable shelter, sustainable supply chains, and reliable external support remain necessary and unresolved for long-term survival.</promise>
+          <promise id="SURVIVAL_RESOURCE_CHALLENGE">Immediate resource shortages and supply flows were not materially changed by the celebration, leaving survival logistics open.</promise>
+          <promise id="ELDER_TWIST_AUTHENTICITY_INVESTIGATION">Questions about elder communications, possible deception, or hidden agendas were not resolved by social acceptance and remain live.</promise>
+          <promise id="PLANT_BUREAUCRACY_AND_PROTOCOLS">Whether emergent collaborative practices will be codified into formal bureaucracy or contested remains unresolved despite the community's enabling behavior.</promise>
+          <promise id="ALL_TECHNICAL_AND_LOGISTICAL_THREADS">Many repairs and technical/logistical tasks (water, medical, structural work) are still unfinished and must be coordinated moving forward.</promise>
+          <promise id="RESOURCE_DEPLETION_AND_INFRASTRUCTURE_DAMAGE">Physical damage and depleted consumables remain and demand planning and timelines for rebuilding.</promise>
+          <promise id="RUNNER_INJURY_OPERATIONAL_IMPACT">Runner is active socially and creatively, but any prior injuries or operational limits were not fully resolved and still pose mission risks.</promise>
+          <promise id="CHEMICAL_NEUTRALIZATION_SECONDARY_HAZARD">Long-term environmental or toxic-residue hazards from past neutralizations remain unaddressed.</promise>
+          <promise id="REMEDY_DEPLETION_CRISIS">Remedy's production capacity for defensive or high-volume needs remains unclear despite new QoL compounds being produced.</promise>
+          <promise id="VELVET_SUSTAINABILITY_FAILURE">Velvet's impressive growth/design continues to be used, but whether it is sustainable under resource stress remains open.</promise>
+          <promise id="RUNNER_RECOVERY_LIMITATION">Runner's recovery and full operational limits remain unresolved despite current activity.</promise>
+          <promise id="NEW_TARGET_SOUTHWEST_LIFE_SUPPORT">Southwest life-support vulnerabilities and technical concerns remain as outstanding repair targets.</promise>
+          <promise id="NEW_REMEDY_RESOURCE_ALLOCATION_CONSEQUENCE">Remedy's shift toward quality-of-life projects (celebration compounds, scents) continues and the downstream trade-offs for defense and survival remain to be determined.</promise>
+          <promise id="COMMAND_NODE_AFTERMATH_AND_COUNTERADAPTATION">Whether hostile plants will adapt tactically after losing the command node is still unknown.</promise>
+          <promise id="GROUP_OFFENSIVE_TACTIC_POTENTIAL">Improvised group tactics still need refinement and development; the celebration did not finalize tactical doctrine.</promise>
+          <promise id="REMEDY_RECOVERY_AND_CAPACITY">Remedy is producing again, but full restoration of defensive/production capacity remains unproven.</promise>
+          <promise id="RUNNER_CRITICAL_INJURY_RISK">Runner remains a critical, irreplaceable asset with uncertain availability for future risky missions.</promise>
+          <promise id="AFTERMATH_INFRASTRUCTURE_AND_REPAIR">Rebuilding tasks and coordination for infrastructure repairs remain incomplete and require planning.</promise>
+          <promise id="COMMAND_NODE_DISPOSAL_AND_CONTAMINATION_CLEANUP">Long-term disposal and environmental cleanup of the command node remain unresolved.</promise>
+          <promise id="REMEDY_ROLE_EXPANSION">Remedy's broadened role into QoL and tactical support is visibly continuing (celebration compounds, experiments), but the social and resource consequences remain to be worked out.</promise>
+          <promise id="RESOURCE_PRESSURE_FROM_COMFORTS">Comfort-producing projects (Velvet growth, fragrance, celebration) consume resources; the passage shows more comfort-use and therefore keeps this pressure live.</promise>
+          <promise id="SOCIAL_CONSEQUENCES_OF_STAY_OR_LEAVE">Kira's choice produced emotional closure, but longer-term interpersonal, political, and resource implications of her staying are still open.</promise>
+          <promise id="RESOURCE_IMPACT_OF_SIGNAL_OPERATIONS">Downstream allocation consequences from prior signal/antenna operations remain unaddressed.</promise>
+          <promise id="AFTER-EVENTS_POLITICAL_FALLOUT">How the community will handle political fallout or corporate/legal reactions to aiding human contact has not been resolved.</promise>
+          <promise id="HUMAN_AUTHORITY_VS_PLANT_GOVERNANCE">The interaction tested Holloway's governance claims but the broader precedent and legal/political implications remain unsettled.</promise>
+          <promise id="POTENTIAL_FORCED_EXTRACTION">The company might later escalate beyond this diagnostic tour (mandate, legal pressure, enforcement); that possibility remains live.</promise>
+          <promise id="EMERGENCY_BEACON_PROTOCOL">The freighter's beacon and contact procedure exist as a concrete mechanism for extraction; procedural and jurisdictional questions remain open.</promise>
+          <promise id="SIGNED_DECLARATION_PRECEDENT">Kira's signed refusal already exists as an official record; its future legal and public implications remain unresolved.</promise>
+          <promise id="COMPANY_PRECEDENT_NONFORCIBLE_RESPONSE">Torres' non‑forcible acceptance could be precedent-setting; whether the company will adhere to it or reverse course later is still open.</promise>
+          <promise id="MEDICAL_VALIDATION_PRECEDENT">Dr. Chen's scans established a medical validation precedent; how that precedent will be used in future disputes remains open.</promise>
+          <promise id="RUNNER_NEW_ACOUSTIC_DESIGN">Newly introduced: Runner invited Kira to co-design expanded acoustic chambers — a concrete project promise that requires time, resources, and human input.</promise>
+          <promise id="VELVET_WESTERN_WING_PROJECT">Newly introduced: Velvet's planned artistic growth for the western wing with Kira's feedback is an explicit future design commitment.</promise>
+          <promise id="REMEDY_COMPOUND_TRIALS">Newly introduced: Remedy will experiment with new enhancement compounds and seeks human olfactory testing — a continuing R&amp;D commitment with resource implications.</promise>
+          <promise id="FLORENCE_DEFENSIVE_IMPROVEMENTS">Newly introduced: Florence proposes future defensive improvements as her community contribution; tactical planning is being folded into social inclusion and remains open.</promise>
+          <promise id="HOLLOWAY_ENABLING_GOVERNANCE_MODEL">Newly highlighted: Holloway's enabling (noncontrolling) coordination style is in practice; whether this becomes a stable governance model or is contested remains to be seen.</promise>
+          <promise id="SCOUT_SOCIAL_CONNECTOR_ROLE">Newly established: Scout's role as social-affect anchor and connector is solidified in practice — a functional role that may have future social/operational consequences.</promise>
+          <promise id="COMMUNITY_PERMANENT_MEMBERSHIP_INSTITUTIONALIZATION">Newly implied: The passage claims Kira's membership is permanent; whether that permanence will be formally codified, contested, or leveraged politically/legalistically remains open.</promise>
+        </open>
+      </narrative-promises>
+      <facts>
+        <reasoning>This passage describes a post-crisis social moment that has ongoing significance: the community spontaneously celebrates, Remedy announces/uses a new class of scent compounds for joy, and Kira is explicitly included as an active, permanent collaborator on concrete future projects (acoustics, artistic growth, scent testing). These are not mere transitory details — they signal a durable shift from survival mode to creative, cooperative community-building with Kira as a continuing, influential member. I omitted transient details (time of day, Scout's specific bounces) and facts already established (Florence's reintegration, Kira's residency) unless the passage added a new, lasting element (e.g., Remedy's specific celebration compounds and concrete planned projects). No statements in this passage contradict previously established facts.</reasoning>
+        <established>
+          <fact id="CHANGE_SPONTANEOUS_COMMUNITY_CELEBRATION">The plant collective and Kira spontaneously held an unplanned celebration that continued into the evening, marking a durable rise in morale and social cohesion.</fact>
+          <fact id="CHANGE_REMEDY_CELEBRATION_COMPOUNDS_ANNOUNCED">Remedy developed and deployed new joy-inducing aromatic compounds ('celebration compounds' / 'happy perfume') and intends to continue experimenting with them.</fact>
+          <fact id="CHANGE_KIRA_INCLUDED_AS_ACTIVE_DESIGN_PARTNER">Kira is explicitly being treated as an active, ongoing collaborator and design partner for community projects rather than a temporary guest; her human perspective will be solicited and integrated into future designs and experiments.</fact>
+          <fact id="CHANGE_SPECIFIC_PROJECTS_PLANNED_WITH_KIRA">Concrete collaborative projects have been planned (or will begin soon) that include: Runner's new acoustic-chamber designs with Kira's input, Velvet's artistic growth plans for the western wing with Kira feedback, and Remedy's continued compound experiments with Kira as an olfactory tester.</fact>
+          <fact id="CHANGE_COMMUNITY_SHIFT_TO_SUSTAINED_CREATIVE_COOPERATION">The facility's social energy has moved from crisis-response to sustained creative cooperation and future-oriented planning (shared projects, aesthetic/functional building, and environmental enhancements).</fact>
+        </established>
+        <conflicts/>
+      </facts>
+      <timing>
+        <reasoning>This passage directly follows the previous one: the celebration erupts immediately after Torres and Dr. Chen depart. Time cues within the passage: immediate joyful activity, sensory details (scents, music, people gathering), and an explicit line that "The celebration continues into evening." Later: "The sun sets," bioluminescence provides light, people rest and plan for tomorrow — all indicating the scene moves from daytime into evening and ends that night. Thus the passage begins essentially where the previous left off (morning) and spans several hours, ending after sunset. Given the previous passage ended at ~07:30, a reasonable reading is that the passage starts at ~07:30 and continues through the day into early evening (roughly the late afternoon/evening hours). The passage therefore covers on the order of many hours (perhaps ~10–12 hours) of celebration, winding down into night with plans for the next day. This is all plausible: an unplanned celebration beginning in the morning and continuing into the evening fits the described activities (music, communal contributions, planning, exhaustion), and the transitions (sunset, resting, "tomorrow we'll start...") match the time span. There are no obvious timing contradictions given the earlier timestamp.</reasoning>
+        <starts>~07:30</starts>
+        <ends>~19:00</ends>
+        <gap-from-previous>none — immediate continuation. The celebration begins right after Torres and Dr. Chen depart (the previous scene ended ~07:30), so no gap; the passage covers the ensuing hours of communal celebration and activities.</gap-from-previous>
+        <plausibility>Plausible. An unplanned celebration that starts in the morning and lasts into the evening is reasonable given the described events (singing, scent diffusion, collaborative planning, fatigue). The cues ("continues into evening," "the sun sets," people resting and planning for tomorrow) support a multi-hour span. No implausible feats of work or travel are required in the time given.</plausibility>
+      </timing>
+      <characters>
+        <reasoning>Listed every character named in the passage as present. "Entered" lists characters who appear after the scene opens (they aren't introduced in the first lines): Florence wheels over later, Holloway is described as approaching the conversation after the scene begins, and Buddy doesn't speak until called mid-scene. No character explicitly leaves before the passage ends, so EXITED is empty. The only available entity that plausibly relates to the scene (the facility/setting) from the provided list is Sector_7-Gamma-412_Planet, so it is included as a relevant location.</reasoning>
+        <present>
+          <character ref="/world/characters/Kira_Voss.card"/>
+          <character ref="/world/characters/Buddy.card"/>
+          <character ref="/world/characters/Scout.card"/>
+          <character ref="/world/characters/Holloway.card"/>
+          <character ref="/world/characters/Florence.card"/>
+          <character ref="/world/characters/Remedy.card"/>
+          <character ref="/world/characters/Runner.card"/>
+          <character ref="/world/characters/Velvet.card"/>
+        </present>
+        <entered>
+          <character ref="/world/characters/Florence.card"/>
+          <character ref="/world/characters/Holloway.card"/>
+          <character ref="/world/characters/Buddy.card"/>
+        </entered>
+        <entities>
+          <entity ref="/world/entities/Sector_7-Gamma-412_Planet.card"/>
+        </entities>
+      </characters>
+      <story-so-far>
+        <reasoning>The passage describes an unplanned communal celebration after Kira's decision to stay and shows deeper social integration: plants use their abilities to celebrate, Florence is fully reconciled and expresses gratitude, Holloway enables rather than commands, Buddy expresses enthusiastic approval, Scout provides social affection, and Kira is explicitly invited into and accepted as a permanent participant in future projects (acoustic designs, Velvet's western wing, Remedy's scent compounds, resource management and defensive planning). I will add bullets for the celebration, the community invitations and permanence of Kira's membership, and planned collaborative projects. I will keep earlier, still-relevant facts (crash, injuries, Harmony visit and refusal of extraction, SAM offline/Buddy active, plant roles, governance change) and avoid atmospheric detail.</reasoning>
+        <summary>
+          - FTL shuttle crash killed Jensen and Reed; Kira survived with head and rib injuries; ship AI SAM remains offline and emergency neural‑link AI Buddy active.
+          - Holloway plant collective rescued and treated Kira; Scout bonded as a loyal companion and social connector.
+          - Hostile plant assault was coordinated and nearly overwhelmed defenders; attackers’ command node was neutralized and its root system removed to prevent contamination.
+          - Facility sustained heavy structural and resource damage but core life‑support and medical systems remain functional; key plants are injured or regenerating.
+          - Governance shifted after recovery: Holloway acknowledged Florence’s prior deception; Florence was reintegrated and now contributes tactically within a committee‑driven, species‑aware reconstruction process.
+          - Plants were repurposed for rebuilding tasks (acoustics/resonance, structural/artistic growth, environmental/chemical work, social curation and mediation).
+          - Buddy detected an artificial human emergency signal; the community built a directional antenna integrating key plants and transmitted coordinates and Kira’s status; human freighter Harmony Prospect responded and landed.
+          - Captain Torres and Dr. Chen came ashore to extract Kira; Kira refused extraction, publicly declared she would remain with the plant community, and signed an official declaration declining rescue; Harmony Prospect departed after leaving an emergency beacon and contact info.
+          - Unplanned celebration followed Kira’s decision: plants and community members spontaneously contributed — Runner’s acoustic chambers, Velvet’s artistic growth, Remedy’s ‘celebration’ scent compounds, Holloway’s enabling coordination, and Scout’s exuberance.
+          - Florence publicly reconciled with Kira, framing their choices as shared (belonging over obligation); she now participates fully as an equal and contributes defensive/tactical ideas valued by the group.
+          - Kira was invited into ongoing and future projects as a permanent community member and contributor: she agreed to help with Runner’s acoustic designs, Velvet’s western wing plans, Remedy’s olfactory experiments, and broader collaborative reconstruction work.
+          - Buddy expressed enthusiastic approval of Kira’s integration; the facility settled into a cooperative planning phase focused on joint projects, resource management, and mutual transformation.
+          - Kira is now firmly accepted as part of the community, her human perspective explicitly valued alongside plant voices; the group plans continued collaborative rebuilding and defense preparations.
+        </summary>
+      </story-so-far>
+      <emotional-journey>
+        <reasoning>POV: Kira is basking in a sudden, unplanned celebration that functions as emotional confirmation: she is seen, wanted, and invited to stay. The scene is dominated by warm belonging (explicit acknowledgments, invitations to collaborate, Florence's reconciliation) and a relaxed, joyous relief that the long arc of mistrust and danger has culminated in real community. Reader: likely experiences cathartic warmth, satisfaction, and uplift — a payoff after sustained tension. There are multiple related beats (immediate celebration/joy; deep belonging/acceptance; reflective wonder/closure) but they form a single dominant, positive tone: communal healing and homecoming. Compared to the story so far, this passage is a culmination of recurring belonging/acceptance beats (it reuses that motif) but it feels like resolution rather than repetition — the pattern shifts from wary hope and fragile belonging to confident, settled membership and durable emotional payoff.</reasoning>
+        <beats>
+          <beat tags="belonging, acceptance">POV: A powerful sense of belonging and acceptance — Kira is repeatedly invited into planning and thanked for her voice; Florence is reintegrated; Holloway explicitly names Kira's value. This produces steady, settled acceptance (not tentative) that she is a permanent member, not a temporary guest. Reader: Feels warm validation and catharsis after the story's long arc of exile, betrayal, and repair; this beat functions as emotional resolution.</beat>
+          <beat tags="relief, hope">POV: Immediate celebratory joy and relieved release — Scout's bouncing, Runner's music, Remedy's scents and everyone contributing create exuberant, present-moment happiness and relief that the threat/rupture phase is over. The community's shared planning also seeds practical hope for the future. Reader: Experiences uplifted joy and a light, optimistic anticipation about collaborative projects and the group's durability.</beat>
+          <beat tags="wonder, acceptance">POV: Reflective, almost reverent acceptance — Kira articulates the lesson ('Home is where your voice matters') and experiences quiet wonder at this strange, true family. It's contemplative closure: recognition of transformation and awe at how differences created richness. Reader: Feels resonant closure and emotional satisfaction; the scene reframes earlier procedural/fractured motifs into a humane, hopeful synthesis.</beat>
+        </beats>
+      </emotional-journey>
+    </summary>
+  </version>
+</versions>

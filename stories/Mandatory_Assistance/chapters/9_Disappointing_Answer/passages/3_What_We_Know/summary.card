@@ -1,0 +1,173 @@
+<!-- Generated automatically, do not edit except with ske gen summaries -->
+<summary version="2.0.0">
+  <sources>
+    <ref ref="/stories/Mandatory_Assistance/chapters/9_Disappointing_Answer/passages/3_What_We_Know/passage#v2.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/passage#v4.0.1"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/2_Aftermath/passage#v2.0.1"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/3_Buddy_Arrives/passage#v2.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/4_Taking_Stock/passage#v2.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/1_Into_the_Purple/passage#v3.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/2_Scout/passage#v3.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/3_Wellness_Check/passage#v3.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/1_Intake/passage#v2.0.1"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/2_Orientation/passage#v2.0.1"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/3_Medical_Treatment/passage#v3.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/1_Morning_Wellness/passage#v2.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/2_Dietary_Assessment/passage#v2.0.1"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/3_Seeking_Solutions/passage#v2.1.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/5_Settling_In/passages/1_Time_Passing/passage#v2.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/5_Settling_In/passages/2_Journey_Option/passage#v2.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/5_Settling_In/passages/3_Preparation/passage#v3.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/6_Through_the_Forest/passages/1_First_Day/passage#v4.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/6_Through_the_Forest/passages/2_Deeper_In/passage#v4.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/6_Through_the_Forest/passages/3_Boundary/passage#v4.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/7_Rivers_and_Wetlands/passages/1_River_Crossing/passage#v4.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/7_Rivers_and_Wetlands/passages/2_Wetlands/passage#v4.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/7_Rivers_and_Wetlands/passages/3_Second_Boundary/passage#v4.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/8_Hills_and_Heights/passages/1_Climbing/passage#v2.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/8_Hills_and_Heights/passages/2_The_Ancient_Grove/passage#v2.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/8_Hills_and_Heights/passages/3_Hope_and_Return/passage#v2.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/9_Disappointing_Answer/passages/1_Settling_In/passage#v2.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/9_Disappointing_Answer/passages/2_The_Answer_Arrives/passage#v2.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/summary#v4.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/2_Aftermath/summary#v2.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/3_Buddy_Arrives/summary#v2.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/4_Taking_Stock/summary#v2.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/1_Into_the_Purple/summary#v3.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/2_Scout/summary#v3.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/3_Wellness_Check/summary#v3.0.0"/>
+  </sources>
+  <narrative-promises>
+    <reasoning>This passage is largely a resolution scene: the messenger/elder failed to provide actionable help, and the group moves from seeking external authority toward a deliberate, internal practice of cooperative, iterative care. From the previous open promises, the clear, concrete change is that the plants and Kira consciously commit to and begin implementing their own care process rather than waiting for further elder input — that setup from the previous passage (SELF_RELIANT_CAREFRAMEWORK) is realized here. The messenger's offer to return (POSSIBLE_FOLLOWUP_CLARIFICATION_REQUEST) is effectively abandoned: the group chooses not to pursue more elder consultation and instead pivots to local solutions. Most other outstanding technical and survival threads (ship wreckage, samples, SAM, navigation, contamination, long‑term supplies, Buddy limits, etc.) are untouched by this passage and remain open. The passage also introduces concrete new narrative promises: Holloway begins inventory documentation and proposes stock-rotation/ tracking; the group explicitly commits to a daily iterative practice of monitoring/adapting care; Florence is invited to contribute directly (no authority mask); Remedy’s iterative formulation work is established as an ongoing promise; and the group commits to intra-community validation as their new source of authority. These are carried forward as the immediate practical arcs the characters will act on next.</reasoning>
+    <fulfilled>
+      <promise id="SELF_RELIANT_CAREFRAMEWORK">Previously introduced commitment that, with Elder guidance ineffective, the plants and Kira would develop an immediate, self‑reliant care strategy. In this passage the group explicitly adopts and begins implementing that iterative, attention‑based care framework ('keep learning together', track what works, adapt what doesn't).</promise>
+    </fulfilled>
+    <lapsed>
+      <promise id="POSSIBLE_FOLLOWUP_CLARIFICATION_REQUEST">The messenger offered to return to re‑present the question to Elder Heartwood for clarification. In this passage the group rejects further waiting for the elder and pivots to local solutions, so that offered follow‑up is not pursued and is effectively abandoned.</promise>
+    </lapsed>
+    <open>
+      <promise id="BIO_SAMPLES_TEMPERATURE_ANOMALY">Locked, powered sample container aboard the wreck remains unexamined; contents/risks unresolved.</promise>
+      <promise id="NAV_COORDS_MISMATCH">Why the Meridian/shuttle ended up at this planet (FTL malfunction or anomaly) remains unexplained.</promise>
+      <promise id="SYSTEMS_FAILURE_OR_EXTERNAL_INTERFERENCE">The crash root cause (mechanical failure, external interference, sabotage, or environment) remains undetermined.</promise>
+      <promise id="BIOHAZARD_OR_CONTAMINATION_RISK">Potential biological/chemical contamination from alien flora or breached cargo remains an unassessed safety risk.</promise>
+      <promise id="KEPLER_288_STATION_OR_PLANET_PROMISE">Precise identification/mission relation of this planet/station remains unresolved.</promise>
+      <promise id="SAM_OFFLINE_OR_DESTROYED">SAM's fate and any lost logs or data remain outstanding and unrecovered.</promise>
+      <promise id="ALIEN_ENVIRONMENT_DISCOVERY">Detailed mapping, hazards, resources, and implications of mobile/social flora remain to be investigated beyond the facility.</promise>
+      <promise id="SURVIVAL_RESOURCE_CHALLENGE">Long‑term survival needs (diverse food, reliable water, shelter longevity, rescue timeline) remain unresolved.</promise>
+      <promise id="SEARCH_FOR_LOGS_AND_NAV_DATA">No cockpit logs/navigation data from the wreck have been recovered; that search is still necessary.</promise>
+      <promise id="EMERGENCY_AI_REPLACEMENT_DISCOVERED">Buddy's origin, privileges, and implications as an ad‑hoc/childlike AI with potentially mission‑critical info remain unresolved.</promise>
+      <promise id="BUDDY_LIMITATIONS_AND_CAPABILITIES">Buddy shows social support and monitoring but its full sensory/processing limits and long‑term usefulness are still uncharacterized.</promise>
+      <promise id="AI_COMPATIBILITY_AND_SECURITY_RISK">Whether Buddy's configuration poses authorization/security risks or can be escalated remains unresolved.</promise>
+      <promise id="SURVIVAL_WITH_CHILD_AI">How effective Buddy will be long-term (decision‑making, pedagogy, emotional support) remains open.</promise>
+      <promise id="LONG_TERM_SURVIVAL_REQUIREMENT">Kira must still secure long‑term shelter, supplies, and a rescue strategy; daily routines don't resolve this.</promise>
+      <promise id="BIO_CONTAINER_LOCKED_NEEDS_ACCESS">The locked biological sample container aboard the wreck still consumes power and requires safe access or shutoff.</promise>
+      <promise id="REPAIR_OR_ALTERNATE_COMMUNICATIONS">Distress beacon and ship transmitters remain damaged; repairs or improvisation to contact off‑world are outstanding.</promise>
+      <promise id="RESOURCE_RATIONING_AND_FORAGING">How to safely forage or source varied food beyond provisioning remains an open question.</promise>
+      <promise id="WATER_QUALITY_TEST_NEEDED">Although a filter clog was cleared, formal water‑quality testing for potability and alien contaminants is still required.</promise>
+      <promise id="BUDDY_ADAPTABILITY_AND_AUTHORIZATION">Whether Buddy can adapt modes, escalate privileges, or access more systems remains unresolved.</promise>
+      <promise id="BUDDY_SENSOR_BLINDSPOT">Buddy's sensor blindspots and compensatory strategies for mobile monitoring remain uncharacterized.</promise>
+      <promise id="PREVIOUS_VISITOR_RECORDS_AND_MATERIALS">Archives and prior‑visitor human records likely exist in the facility; location and accessibility remain unknown.</promise>
+      <promise id="PLANT_BUREAUCRACY_AND_PROTOCOLS">The facility's presentation ritual and bureaucratic protocols remain a shaping factor for future access and expectation (ceremony reinforced, but its usefulness questioned).</promise>
+      <promise id="FLORENCE_INTRODUCED">Florence's role and relationship to central coordination and resource allocation remain active threads.</promise>
+      <promise id="PLANT_SALVAGE_AND_TECH_INTEGRATION">Facility repurposing of salvaged hardware and implications for access/repair remain open.</promise>
+      <promise id="PLANT_WHEELED_PLATFORM_ORIGINS">Origins/provenance of wheeled/mobile hardware remain unresolved.</promise>
+      <promise id="ASSESSMENT_CREDENTIAL_RECORDS">Accepted forms/credentials for travel and access may matter for records and privileges; implications unresolved.</promise>
+      <promise id="CENTRAL_COORDINATION_RESOURCES_AND_RECORDS">The facility's deeper inventories and governance remain open for exploration and access (now important given elder failure).</promise>
+      <promise id="LIVING_STRUCTURE_FUNCTIONS">Detailed mechanisms and cognitive contributions of the Elder Grove and large living architecture remain unstudied.</promise>
+      <promise id="PLANT_ROBOT_MANUFACTURE_AND_MAINTENANCE">Plants' capacity to field salvage robots/platforms and their supply chain remain unresolved.</promise>
+      <promise id="MUSHROOM_MEDICATION_SUPPLY_SUSTAINABILITY">Remedy's ability to sustainably produce varied pharmacology over time remains an unresolved supply question.</promise>
+      <promise id="TEMPORARY_QUARTERS_SAFETY_AND_RESOURCES">Short‑term quarters work but long‑term safety, privacy, and sanitation questions remain open.</promise>
+      <promise id="MEDICAL_CONSENT_BUREAUCRACY_AND_AUTONOMY">How ongoing medical consent and autonomy will be handled by plant systems over time remains undefined.</promise>
+      <promise id="REMEDY_EMOTIONAL_INVESTMENT">Remedy's emotional/boundary concerns are developing and remain an interpersonal arc to revisit.</promise>
+      <promise id="WATER_POTABILITY_RISK">Potability and contamination risk of water sources remains an unresolved safety issue for long‑term survival.</promise>
+      <promise id="ATTACHMENT_TO_PLANT_AGENTS_RISK">Kira's emotional attachments to plant agents are forming and remain a narrative/practical risk.</promise>
+      <promise id="ACCLIMATION_TO_BUREAUCRACY">Kira's increasing facility with plant forms and protocols is ongoing and will affect decisions.</promise>
+      <promise id="RESCUE_TIMELINE_UNCERTAINTY">Buddy's rescue timeframe estimate and general rescue timeliness remain unsolved and urgent.</promise>
+      <promise id="BUDDY_LIMITS_TRAVEL_SUPPORT">Buddy's battery reserves and operational limits for extended tasks remain a constraint.</promise>
+      <promise id="LEAFWHISPER_FIRST_HUMAN_ADAPTATION_RISK">Novel plant actors' (e.g., Leafwhisper) adaptation to humans remains a potential source of miscommunication.</promise>
+      <promise id="KIRA_MINIMAL_BELONGINGS_RISK">Kira's reliance on territorial provisioning and lack of personal supplies remains a vulnerability.</promise>
+      <promise id="FOREST_NETWORK_INTEGRATION">Whether the forest behaves as a distributed organism with political/resource consequences remains central and unresolved.</promise>
+      <promise id="HUMAN_TRUST_COMPLACENCY_RISK">Kira's growing trust in plant authorities remains an ongoing risk of overreliance (now being recalibrated toward mutual validation).</promise>
+      <promise id="ELDER_WAIT_IMPACTS_SURVIVAL">The narrative tension that Elder deliberation may take long and impact survival remains active (the elder's delay produced no actionable help; the group has chosen not to wait further).</promise>
+      <promise id="ELDER_ANSWER_WILL_HAVE_NETWORK_EFFECTS">Whether Elder's frameworks will propagate through territories and produce useful, coordinated practices remains unresolved.</promise>
+      <promise id="BUDDY_SOCIAL_SUPPORT_EVOLUTION">Buddy's social role continues to evolve; its reliability and boundaries should be monitored.</promise>
+      <promise id="KIRA_CONFIDENCE_GROWTH">Kira's increasing competence and self‑reliance is an active character arc and will shape decisions going forward.</promise>
+      <promise id="BOUNDARY_HANDOFF_RITUAL">Guide‑to‑guide transfer rituals and formal boundary mechanisms remain relevant in practice.</promise>
+      <promise id="BOUNDARY_MARKERS_SOCIAL_SIGNS">Markers and vine demarcations as social signs remain useful anthropological threads to explore.</promise>
+      <promise id="ELDER_VIEWS_HUMANS_AS_TRANSIENT">Elder Heartwood frames humans as transient 'visitors' and does not prioritize individual lifespans—this stance is now known and will shape future interactions.</promise>
+      <promise id="ELDER_RESPONSE_UNHELPFUL_FOR_IMMEDIATE_SURVIVAL">The elder's long‑timescale wisdom does not provide actionable guidance for keeping Kira alive now; immediate, local solutions are required.</promise>
+      <promise id="PLANT_AUTHORITY_TRUST_EROSION">The messenger's ineffective answer has damaged plants' confidence in central authority; the group is actively recalibrating trust toward local, mutual validation.</promise>
+      <promise id="INVENTORY_TRACKING_AND_ROTATING_STOCK">New: Holloway has begun documenting reserves and proposed a rotating stock/ tracking system to prevent shortages — an actionable supply-management plan to implement next.</promise>
+      <promise id="DAILY_ITERATIVE_CARE_PRACTICE">New: The group committed to continuing daily cooperation—track what works, adjust what doesn't—an ongoing iterative practice that will guide immediate care decisions.</promise>
+      <promise id="FLORENCE_DIRECT_CONTRIBUTION">New: Florence admitted fabricating an authoritative voice previously and the group acknowledged her direct insights have value; she may now contribute guidance without hiding behind elder authority.</promise>
+      <promise id="REMEDY_FORMULATION_ITERATION">New: Remedy has been refining treatments based on Kira's feedback and will continue iterative formulation development—an ongoing medical/ pharmacological workstream.</promise>
+      <promise id="INTRA_COMMUNITY_VALIDATION">New: The group explicitly agreed to treat good outcomes and mutual observation as their source of validation (trust each other rather than external authorities).</promise>
+    </open>
+  </narrative-promises>
+  <facts>
+    <reasoning>Selected facts focus on lasting changes to character behavior, relationships, and the collective's operating philosophy that will affect future scenes. I omitted transient details (who was in the common area that evening, specific small gestures) and things already established in the supplied previous-facts list. No statements in the passage directly contradict earlier established facts; most details are developments or emotional/operational shifts that build on prior material rather than oppose it.</reasoning>
+    <established>
+      <fact id="CHANGE_HOLLOWAY_STRESS_COPING_ORGANIZES_SUPPLIES">When stressed, Holloway copes by creating order through categorization—specifically organizing supply inventories and arranging nutrient compounds.</fact>
+      <fact id="CHANGE_HOLLOWAY_BITTERNESS_TOWARD_EXTERNAL_AUTHORITIES">Holloway expresses new bitterness and disillusionment toward external authorities (HR manuals, Elder Heartwood) after the elder's response failed to provide usable guidance.</fact>
+      <fact id="CHANGE_FLORENCE_FABRICATED_ELDER_TWIST_ADVICE">Florence admits she fabricated 'Elder Twist' wisdom—presenting her own thoughts under the authority of an elder—to provide guidance when the elder response was lacking.</fact>
+      <fact id="CHANGE_COLLECTIVE_ADOPTS_ADAPTIVE_EXPERIMENTAL_FRAMEWORK">The plant collective and Kira explicitly adopt an experiential, iterative approach as their working method: track what works, adjust what doesn't, continue daily cooperation, and build a shared framework from lived experience rather than waiting for Elder Heartwood or procedural authority.</fact>
+      <fact id="CHANGE_COLLECTIVE_SELF_VALIDATION_AS_AUTHORITY">The group adopts a new validation principle: positive outcomes (observed improvement/survival) serve as sufficient confirmation that their cooperative practices are effective—i.e., 'good outcome is authority.'</fact>
+      <fact id="CHANGE_RUNNER_PROACTIVE_CHECKS_ENVIRONMENTAL_CONTROLS">Runner has begun performing small proactive acts of care without explicit instruction (example: checking environmental controls unprompted), indicating internalization of the collective's adaptive, attentive caregiving approach.</fact>
+    </established>
+    <conflicts/>
+  </facts>
+  <timing>
+    <reasoning>Temporal cues in the passage place it immediately after the messenger scene. It opens with "The rest of the day is very quiet," followed by a conversation in the maintenance room (a short interaction), then an explicit evening gathering in the common area, and finally the narrator and Scout returning to the room and lying down for the night. The previous passage ends "same morning (~11:00)," so this passage begins shortly after that. The passage therefore spans the remainder of the day into evening/night: a short immediate continuation (plants dispersing, checkpoint conversation with Holloway), several hours of quiet/daytime activity (inventory work, small care actions, people drifting about), an evening meeting where everyone reconvenes, and then winding down later that night. Total elapsed time is on the order of hours (roughly mid/late morning through evening). There are no explicit contradictions in the timeline; the described activities (inventorying supplies, informal conversations, an evening group meeting, small acts of care through the day) are all plausible within a single day.</reasoning>
+    <starts>~11:15</starts>
+    <ends>~21:00</ends>
+    <gap-from-previous>Approximately 10–20 minutes. The messenger has just left and plants disperse; Kira goes to find Holloway in maintenance to talk and they begin organizing supplies. This short period covers the immediate aftermath of the previous scene and the start of the quiet day.</gap-from-previous>
+    <plausibility>Plausible. The sequence — immediate fallout, hours of quiet/individual activity, an evening assembly, and later winding down — fits comfortably into a single day. Tasks mentioned (inventory, medicinal adjustments, environmental checks, an evening meeting, small caregiving acts) are realistic to accomplish over those hours. Times are estimates (the text gives no clock times beyond "same morning" and "evening"), but nothing in the passage creates a timing conflict.</plausibility>
+  </timing>
+  <characters>
+    <reasoning>I listed anyone who appears or is mentioned in the passage. Kira (the narrator) is present throughout. Holloway is found in the maintenance room and speaks with Kira. Scout follows Kira, bounces, and stays with them. Florence is present in the common area and later speaks about fabricating Elder Twist's wisdom; Elder Twist is referenced (the pot and fabricated wisdom) and Elder Heartwood is repeatedly mentioned as the failed authority. Remedy, Runner, and Velvet are all present in the common-area discussion and are described later (Remedy leaving a treatment, Runner checking controls, Velvet maintaining the moss). Buddy and the other available characters are not mentioned. No new characters enter during this passage (no one appears who wasn't already present at the end of the previous passage), so ENTERED is empty. Several characters who were present earlier in the passage are described as dispersing before the very end; only Kira and Scout are explicitly with the narrator at the end, so the others who took part in the common-area scene are treated as having exited before the passage ends. No named entities from the provided entity list (Sector_7-Gamma-412_Planet) are referenced in the text, so ENTITIES is empty.</reasoning>
+    <present>
+      <character ref="/world/characters/Kira_Voss.card"/>
+      <character ref="/world/characters/Holloway.card"/>
+      <character ref="/world/characters/Scout.card"/>
+      <character ref="/world/characters/Florence.card"/>
+      <character ref="/world/characters/Elder_Twist.card"/>
+      <character ref="/world/characters/Elder_Heartwood.card"/>
+      <character ref="/world/characters/Remedy.card"/>
+      <character ref="/world/characters/Runner.card"/>
+      <character ref="/world/characters/Velvet.card"/>
+    </present>
+    <exited>
+      <character ref="/world/characters/Holloway.card"/>
+      <character ref="/world/characters/Florence.card"/>
+      <character ref="/world/characters/Elder_Twist.card"/>
+      <character ref="/world/characters/Elder_Heartwood.card"/>
+      <character ref="/world/characters/Remedy.card"/>
+      <character ref="/world/characters/Runner.card"/>
+      <character ref="/world/characters/Velvet.card"/>
+    </exited>
+    <entities/>
+  </characters>
+  <story-so-far>
+    <reasoning>This passage resolves the plants' reaction to Elder Heartwood's noncommittal reply and contains a key turning point: the collective shifts from seeking external authority to owning an experiential, iterative care framework. I should add events showing Holloway's stress behavior (inventory), Kira's private persuasion of Holloway, the group meeting where Kira reframes the waiting period as the real learning, Florence admitting she invented Elder Twist's pronouncements, and the unanimous choice to stop waiting for Elder Heartwood and continue adaptive cooperation. I can consolidate earlier, more granular items about daily adjustments (Remedy refinements, Runner boundaries, Scout companion status, Holloway's evolving role) into a single bullet about an emergent, experience-based care system, since the passage emphasizes that these were the elements proving the framework works. I will keep facts only and remove repetitive atmospheric detail.</reasoning>
+    <summary>
+      - FTL shuttle crash killed Jensen and Reed; Kira Voss survived with head and rib injuries; ship AI SAM remains offline and emergency neural-link AI Buddy is active.
+      - Holloway plant collective rescued and treated Kira at their facility; Scout bonded as a companion and trusted presence.
+      - Kira chose to travel physically to the Elder Heartwood; completed a guided multi-territory trek and learned plant-networked survival and cooperative practices.
+      - Kira returned to Holloway and spent weeks recovering while the plants shifted from protocol-driven care to more collaborative, patient-specific routines.
+      - Plants sought guidance from Elder Heartwood; an elder messenger delivered a response that framed Kira as a temporary visitor and advocated long seasonal timescales, which the group found inadequate for Kira's immediate needs.
+      - The plants—disappointed by Elder Heartwood's refusal to intervene—decided they could not rely on seasonal/ancestral authority for Kira's survival.
+      - Holloway, stressed, began inventorying and rethinking procedures; Kira convinces Holloway that the group has already built a functioning, experience-based framework through trial, feedback, and daily adjustments.
+      - The group holds a meeting where Kira argues the waiting period was itself the learning; Remedy, Runner, Holloway and others acknowledge iterative improvements (treatments refined, boundary-learning, tailored care) as valid evidence the cooperative system works.
+      - Florence admits she fabricated 'Elder Twist' pronouncements to supply guidance; the group affirms internal insights have value without external authority.
+      - The collective formally resolves to stop waiting for Elder Heartwood, trust their shared, adaptive practices, and continue documenting and refining what works together.
+      - Daily acts of care continue and are reinforced (Velvet maintains the moss bed, Runner checks controls, Remedy leaves an adjusted treatment, Scout remains a unifying companion).
+    </summary>
+  </story-so-far>
+  <emotional-journey>
+    <reasoning>POV: Kira moves from communal deflation and bitter disappointment (the awaited answer is useless) into a clear, pragmatic reframing that converts that failure into agency—recognizing that the group has already built a working, adaptive framework through daily cooperation. Her emotional pivot is compassionate and steady: she comforts Holloway, lays out evidence of iterative learning, and helps the group shift from waiting for authority to trusting their own, collectively-produced judgement. Reader: initially shares the group's slump and frustration (the anticlimax of Elder Heartwood's reply), then experiences a warm uplift as the group finds meaning and validation in their own competence and mutual care. Are there multiple beats or one dominant tone? There are two dominant beats: a low, communal disappointment (bitter, confused, aimless) followed by a quieter, affirmative resolution (acceptance, belonging, hopeful determination). How this compares to the pattern so far: emotionally this continues the story's recurring expectation→deflation→acceptance arc, but it matures the pattern: the acceptance here is not resigned passivity but empowered, communal agency. The recurring bureaucratic/frustration motif is addressed and transformed—what was once a source of irritation becomes the raw material for a functioning, responsive system. So the passage both repeats an established emotional trajectory and refreshes it by converting disappointment into constructive, relational hope.</reasoning>
+    <beats>
+      <beat tags="grief, frustration">POV: A heavy, deflated disappointment—Holloway's measured bitterness and the group's sluggish dispersal show that the answer they invested in has failed; Kira feels the communal letdown and witnesses Holloway's crisis of trust in authority. Cause: Elder Heartwood's reply is irrelevant to immediate survival and undermines the group's expectations. Reader: Feels the anticlimax and empathy—shared sorrow and irritation that a long-awaited authority has been useless, with a sting of existential frustration about who to trust next.</beat>
+      <beat tags="belonging, hope">POV: A pivot to pragmatic, tender empowerment—Kira reframes the waiting as learning and helps Holloway and the group recognize that their iterative, attentive cooperation is the real framework; she experiences relief, growing confidence, and a warm sense of connection. Cause: concrete examples of what has improved (Remedy refining treatments, Runner learning boundaries, Holloway asking what Kira really needs) make the abstract insight believable. Reader: Feels uplift and satisfaction—comforted by the communal turn from relying on distant authority to trusting each other's experience and care; the emotional tone becomes quietly optimistic and belonging-focused.</beat>
+    </beats>
+  </emotional-journey>
+</summary>
