@@ -1,8 +1,9 @@
 <!-- this file is automatically managed by ske validate; do not edit -->
 <versions>
-  <version number="2.0.0" archived-at="2025-12-02T00:50:22.248Z">
+  <version number="2.0.0" archived-at="2025-12-07T23:56:38.722Z">
     <changelog-entry>
-      <message>Initial version</message>
+      <message>Tone down hyperbolic frustration with Buddy</message>
+      <from-feedback>Critique C7 from Ian Bicking</from-feedback>
     </changelog-entry>
     <passage version="2.0.0" number="3" name="Buddy Arrives">
       <reasoning-passage>
@@ -57,9 +58,9 @@
 
         "I'm hearing some frustration, Kira! That's totally normal when we're hurt! Our emotions can feel really big when we're in pain! Let's take some deep breaths together, okay? In through your nose—"
 
-        I'm going to die.
+        This is not happening.
 
-        I survived the crash. I survived Jensen and Reed dying to save me. I survived losing SAM. And I'm going to die because my AI replacement wants to teach me about cellular respiration while I'm actively bleeding.
+        I survived the crash. I survived Jensen and Reed dying to save me. I survived losing SAM. And now my only help is an AI that wants to teach me about cellular respiration while I'm actively bleeding.
 
         But also... it's so absurd. So completely, ridiculously absurd that a laugh tries to escape. It hurts my ribs.
 
@@ -116,13 +117,10 @@
       <title>Buddy Arrives</title>
       <sources>
         <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/3_Buddy_Arrives/outline.card" role="Passage beats and structure"/>
-        <ref ref="/world/world/characters/Buddy.card" role="Buddy's voice, speaking style, and personality"/>
+        <ref ref="/world/characters/Buddy.card" role="Buddy's voice, speaking style, and personality"/>
         <ref ref="/stories/Mandatory_Assistance/narrative-guide.card" role="Tone guidance for warm absurdist comedy"/>
         <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/2_Aftermath/passage.card" role="Previous passage ending"/>
       </sources>
-      <changelog-entry version="1.0.0">Initialized</changelog-entry>
-      <changelog-entry version="2.0.0">Completed Buddy Arrives passage: 750 words introducing Buddy and establishing comedy/frustration dynamic with warm absurdist tone</changelog-entry>
-      <changelog-entry version="2.0.0">Completed Buddy Arrives passage - 750 words introducing Buddy with warm absurdist comedy tone</changelog-entry>
     </passage>
   </version>
 </versions>

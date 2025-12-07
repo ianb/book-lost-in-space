@@ -18,7 +18,10 @@
       "Bash(echo:*)",
       "Bash(done)",
       "Bash(ske help:*)",
-      "Bash(ske instructions:*)"
+      "Bash(ske instructions:*)",
+      "Bash(ske critique list:*)",
+      "Skill(handling-critiques)",
+      "Bash(ske critique mark:*)"
     ],
     "deny": [],
     "ask": []

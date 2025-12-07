@@ -1,17 +1,14 @@
-<passage version="2.0.1" number="2" name="Aftermath">
-  <reasoning-passage>
-    <!-- For instructions on filling out reasoning: ske instructions stories/Mandatory_Assistance/chapters/1_Impact/passages/2_Aftermath/passage.card -->
-  </reasoning-passage>
+<passage version="2.0.2" number="2" name="Aftermath">
   <text>
     Not dead.
 
     That's—that's good, right? Is that good?
 
-    Darkness. Pain everywhere. Can't move. Something heavy pressing down on my legs, metal and solid. I try to shift and my ribs scream and okay, okay, not doing that again. Head's pounding. Taste of blood in my mouth. Smell of smoke and hot metal and something chemical I can't identify.
+    Darkness. Pain everywhere. Can't move. Something heavy pressing down on my legs, metal and solid. I try to shift and my ribs scream and okay, okay, not doing that again. Head's pounding. Taste of blood in my mouth. Smell of smoke and hot metal and burned plastic.
 
     Not dead, though. Survived the crash. The crash where the shuttle—where Jensen and Reed—
 
-    Okay. Okay okay okay. Breathe. Well, trying to breathe. That hurts. But I'm breathing, so that's something. They never show this part in the adventure shows, do they? The waking up after the dramatic crash. They cut straight to the hero walking away from the wreckage with maybe a photogenic smudge of dirt on one cheek. Nobody talks about the "pinned under cargo containers and everything hurts" part.
+    Okay. Okay okay okay. Breathe. Well, trying to breathe. That hurts. But I'm breathing, so that's something. They never show this part in the adventure shows, do they? The waking up after the dramatic crash. They cut straight to the hero walking away from the wreckage with maybe a photogenic smudge of dirt on one cheek. Nobody talks about the "pinned under cargo containers and everything hurts" part. I've watched hundreds of those shows—the explorers, the first contact specialists, the people who actually matter. Always thought maybe someday I'd do something that mattered too. Cargo specialist wasn't exactly the dream, but it got me into space.
 
     I need to assess. Cargo specialist training, right? Inventory the situation. What's damaged, what's salvageable, what's the priority.
 
@@ -120,10 +117,4 @@
     Kira has treated her immediate injuries and is beginning to assess what supplies survived the crash. She's alone, hurt, but determined to survive on an unknown alien planet until rescue arrives. Next passage will show Buddy (the assistance AI) arriving and being assigned to her.
   </leaves-off>
   <title>Aftermath</title>
-  <sources>
-    <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/2_Aftermath/outline.card" role="Passage beats and structure"/>
-    <ref ref="/stories/Mandatory_Assistance/narrative-guide.card" role="POV, tone, and style guidance"/>
-    <ref ref="/world/characters/Kira_Voss.card" role="Kira's full chatty voice and coping mechanisms"/>
-    <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/passage.card" role="Previous passage ending in darkness/unconsciousness"/>
-  </sources>
 </passage>

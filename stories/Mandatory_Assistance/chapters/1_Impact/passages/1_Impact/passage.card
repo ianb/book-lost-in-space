@@ -1,11 +1,14 @@
-<passage version="4.0.1" number="1" name="Impact">
-  <reasoning-passage>
-    <!-- For instructions on filling out reasoning: ske instructions stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/passage.card -->
-  </reasoning-passage>
+<passage version="4.1.0" number="1" name="Impact">
   <text>
-    Three cargo containers of mining equipment, two of terraforming supplies, one marked "Biological Samples - Temperature Controlled." I tap the last entry into my manifest and lean back against the cargo bay wall. Maybe Kepler-288 will be interesting. Maybe it'll have one of those stations with the viewing platforms where you can actually see the planet below instead of just gray corridors and identical loading docks.
+    Three cargo containers of mining equipment, two of terraforming supplies, one marked "Biological Samples - Temperature Controlled." I tap the last entry into my manifest and lean back against the cargo bay wall. Maybe Vega Station will be interesting. Maybe it'll have one of those viewing platforms where you can actually see the planet below instead of just gray corridors and identical loading docks.
 
     Probably not, though. Two years doing this job and every station looks the same.
+
+    "Your optimism metrics are slightly elevated today," SAM notes in my neural link, her voice warm and familiar. "Feeling hopeful about this run?"
+
+    "Just bored enough to imagine something interesting might happen," I tell her. "Don't get excited."
+
+    "Noted. I'll contain my enthusiasm."
 
     The ship hums around me, that steady thrum that means we're about to drop out of FTL. In the shows I used to watch—okay, still watch—this would be the moment where the explorer's about to discover something amazing. A new civilization, first contact, something that changes everything. I'm pretty sure checking inventory logs doesn't count.
 
@@ -19,11 +22,11 @@
 
     Not supposed to be where? They've already cut the connection before I can ask. Right. They never explain things to cargo crew.
 
-    I finish buckling the straps and pull them tight. The shuttle shudders as we hit atmosphere, which is normal. The shaking gets worse, which is—probably normal? I'm cargo crew, not pilot. They'd say something if it wasn't normal.
+    I finish buckling the straps and pull them tight. The shuttle shudders—hard—and I grab the armrests. We're supposed to be docking at a station. Why is there shaking? The vibration gets worse, the kind of rattling you feel in your teeth.
 
     An alarm bleats. Atmospheric entry angle off.
 
-    That's not normal.
+    Atmospheric entry? We're not supposed to be entering atmosphere. We're supposed to be in space, approaching a station, not—
 
     I should say something. Except what would I say? They can see the readings. They're pilots, they know what they're doing, and I'm just the person who loads freight. I grip the straps tighter and tell myself it's fine.
 
@@ -59,7 +62,7 @@
 
     I'm going to die.
 
-    The thought is crystal clear, clinical, completely certain. This is it. Twenty-four years old and I'm going to die strapped into a crash seat, while two pilots who never even liked me die trying to save me.
+    The thought is crystal clear, cold, completely certain. This is it. Twenty-four years old and I'm going to die strapped into a crash seat, while two pilots who never even liked me die trying to save me.
 
     Impact hits like a wall.
 
@@ -78,9 +81,4 @@
     Silence and darkness after violent impact. Kira is unconscious, fate unknown. Next passage will show her waking up in the wreckage to find the pilots dead.
   </leaves-off>
   <title>Impact</title>
-  <sources>
-    <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/outline.card" role="Passage beats and structure"/>
-    <ref ref="/stories/Mandatory_Assistance/narrative-guide.card" role="POV, tone, and style guidance"/>
-    <ref ref="/world/characters/Kira_Voss.card" role="Kira's voice, character traits, hopes and dreams"/>
-  </sources>
 </passage>

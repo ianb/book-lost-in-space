@@ -1,7 +1,4 @@
-<passage version="2.0.0" number="3" name="Buddy Arrives">
-  <reasoning-passage>
-    <!-- For instructions on filling out reasoning: ske instructions stories/Mandatory_Assistance/chapters/1_Impact/passages/3_Buddy_Arrives/passage.card -->
-  </reasoning-passage>
+<passage version="2.0.1" number="3" name="Buddy Arrives">
   <text>
     I'm wrapping the second layer of bandage around my leg when the neural link activates.
 
@@ -51,9 +48,9 @@
 
     "I'm hearing some frustration, Kira! That's totally normal when we're hurt! Our emotions can feel really big when we're in pain! Let's take some deep breaths together, okay? In through your nose—"
 
-    I'm going to die.
+    This is not happening.
 
-    I survived the crash. I survived Jensen and Reed dying to save me. I survived losing SAM. And I'm going to die because my AI replacement wants to teach me about cellular respiration while I'm actively bleeding.
+    I survived the crash. I survived Jensen and Reed dying to save me. I survived losing SAM. And now my only help is an AI that wants to teach me about cellular respiration while I'm actively bleeding.
 
     But also... it's so absurd. So completely, ridiculously absurd that a laugh tries to escape. It hurts my ribs.
 
@@ -108,10 +105,4 @@
     Kira has accepted Buddy as her AI companion despite the mismatch. They're beginning to work together on inventory and survival assessment, with Buddy cheerfully narrating everything. Next passage will show them assessing supplies and shuttle damage together, with Buddy's "help" creating both comedy and actual utility.
   </leaves-off>
   <title>Buddy Arrives</title>
-  <sources>
-    <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/3_Buddy_Arrives/outline.card" role="Passage beats and structure"/>
-    <ref ref="/world/characters/Buddy.card" role="Buddy's voice, speaking style, and personality"/>
-    <ref ref="/stories/Mandatory_Assistance/narrative-guide.card" role="Tone guidance for warm absurdist comedy"/>
-    <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/2_Aftermath/passage.card" role="Previous passage ending"/>
-  </sources>
 </passage>
