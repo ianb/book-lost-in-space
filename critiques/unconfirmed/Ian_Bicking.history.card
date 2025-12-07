@@ -1,66 +1,12 @@
 <!-- this file is automatically managed by ske validate; do not edit -->
 <versions>
-  <version number="1.0.0" archived-at="2025-12-07T23:53:14.251Z">
+  <version number="1.0.0" archived-at="2025-12-07T23:57:23.437Z">
     <changelog-entry>
-      <message>Added C7 (confirmed)</message>
+      <message>Before marking C7 as applied</message>
     </changelog-entry>
     <!-- Managed by ske critique mark -->
     <critiques version="1.0.0" name="2025-12-03_Feedback_Ian_Bicking">
-      <critique id="C1" status="confirmed">
-        <creator user-id="550995b6-e9a0-40b8-89a2-92940cf30ed9" email="ianbicking@gmail.com" created="2025-12-04T15:38:51 America/Chicago" name="Ian Bicking"/>
-        <ref ref="/stories/Mandatory_Assistance/story-info.card" story-version="2.1.0" role="Story"/>
-        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/passage.card#v4.0.1/text/progress-0.0912" passage-id="e7bc3278-9aaf-4674-86bd-c140dad64d69" role="Passage"/>
-        <feedback speech="true" audio-url="https://assets.lowlight.world/feedback/c8a02296-4bad-42b9-9b69-8f92e8ffcdf0/f7445b44-c018-47ec-8c2e-6343882fe55c/f8cc800a-aa2e-4b20-a76b-2417968fd32f.webm">
-          So, I think Kepler-288 is also being used as the name of the planet that they crash-land on, but their real destination should not be Kepler-288, it should be something totally different.
-        </feedback>
-        <reason>Valid - destination should differ from crash planet</reason>
-      </critique>
-      <critique id="C2" status="confirmed">
-        <creator user-id="550995b6-e9a0-40b8-89a2-92940cf30ed9" email="ianbicking@gmail.com" created="2025-12-04T15:40:25 America/Chicago" name="Ian Bicking"/>
-        <ref ref="/stories/Mandatory_Assistance/story-info.card" story-version="2.1.0" role="Story"/>
-        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/passage.card#v4.0.1/text/progress-0.4031" passage-id="e7bc3278-9aaf-4674-86bd-c140dad64d69" role="Passage"/>
-        <feedback speech="true" audio-url="https://assets.lowlight.world/feedback/c8a02296-4bad-42b9-9b69-8f92e8ffcdf0/f7445b44-c018-47ec-8c2e-6343882fe55c/549ae5e9-f854-4a7e-8c33-149ac713b48d.webm">
-          She's supposed to be going to a space station, not landing somewhere, so it shouldn't be normal that she hits a shuttle.
-        </feedback>
-        <reason>Valid - atmosphere entry shouldn't feel normal if heading to station</reason>
-      </critique>
-      <critique id="C3" status="confirmed">
-        <creator user-id="550995b6-e9a0-40b8-89a2-92940cf30ed9" email="ianbicking@gmail.com" created="2025-12-04T15:42:44 America/Chicago" name="Ian Bicking"/>
-        <ref ref="/stories/Mandatory_Assistance/story-info.card" story-version="2.1.0" role="Story"/>
-        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/passage.card#v4.0.1/text/progress-0.9346" passage-id="e7bc3278-9aaf-4674-86bd-c140dad64d69" role="Passage"/>
-        <feedback speech="true" audio-url="https://assets.lowlight.world/feedback/c8a02296-4bad-42b9-9b69-8f92e8ffcdf0/f7445b44-c018-47ec-8c2e-6343882fe55c/d332706c-01d6-4c82-a7f1-22e79b8b2f5f.webm">
-          I hate the term clinical, particularly.
-        </feedback>
-        <reason>Word choice - find alternative to clinical</reason>
-      </critique>
-      <critique id="C4" status="confirmed">
-        <creator user-id="550995b6-e9a0-40b8-89a2-92940cf30ed9" email="ianbicking@gmail.com" created="2025-12-04T15:43:39 America/Chicago" name="Ian Bicking"/>
-        <ref ref="/stories/Mandatory_Assistance/story-info.card" story-version="2.1.0" role="Story"/>
-        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/2_Aftermath/passage.card#v2.0.1/text/progress-0.0628" passage-id="d7e7d18f-9808-4a1d-9c60-03c36e5e4c78" role="Passage"/>
-        <feedback speech="true" audio-url="https://assets.lowlight.world/feedback/c8a02296-4bad-42b9-9b69-8f92e8ffcdf0/f7445b44-c018-47ec-8c2e-6343882fe55c/03ed1ba9-0645-42d2-84e1-893442d78a24.webm">
-          There's some chemical I can't identify. I feel like that's an AI trope.
-        </feedback>
-        <reason>AI trope - make more specific or cut</reason>
-      </critique>
-      <critique id="C5" status="confirmed">
-        <creator user-id="550995b6-e9a0-40b8-89a2-92940cf30ed9" email="ianbicking@gmail.com" created="2025-12-04T15:47:41 America/Chicago" name="Ian Bicking"/>
-        <ref ref="/stories/Mandatory_Assistance/story-info.card" story-version="2.1.0" role="Story"/>
-        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/2_Aftermath/passage.card#v2.0.1/text/progress-0.582" passage-id="d7e7d18f-9808-4a1d-9c60-03c36e5e4c78" role="Passage"/>
-        <feedback speech="true" audio-url="https://assets.lowlight.world/feedback/c8a02296-4bad-42b9-9b69-8f92e8ffcdf0/f7445b44-c018-47ec-8c2e-6343882fe55c/f42a529f-6ac0-4495-8598-71c03ba3e198.webm">
-          It might be nice if Sam showed up before the crash, even just in the most brief way, though I'm not really sure. It's something we need to test out.
-        </feedback>
-        <reason>Add very brief SAM interaction before crash</reason>
-      </critique>
-      <critique id="C6" status="confirmed">
-        <creator user-id="550995b6-e9a0-40b8-89a2-92940cf30ed9" email="ianbicking@gmail.com" created="2025-12-04T15:49:34 America/Chicago" name="Ian Bicking"/>
-        <ref ref="/stories/Mandatory_Assistance/story-info.card" story-version="2.1.0" role="Story"/>
-        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/2_Aftermath/passage.card#v2.0.1/text/progress-0.7928" passage-id="d7e7d18f-9808-4a1d-9c60-03c36e5e4c78" role="Passage"/>
-        <feedback speech="true" audio-url="https://assets.lowlight.world/feedback/c8a02296-4bad-42b9-9b69-8f92e8ffcdf0/f7445b44-c018-47ec-8c2e-6343882fe55c/c1d678dd-9e55-4046-9c88-8533bda99308.webm">
-          I feel like when she's talking about the adventure shows and how they cover people who are good at things, there's an opportunity for her to talk about herself a little bit more and maybe give a little bit of that personality or background.
-        </feedback>
-        <reason>Add more personality/background during adventure show reference</reason>
-      </critique>
-      <critique id="C7" status="confirmed">
+      <critique id="C7" status="unconfirmed">
         <creator user-id="550995b6-e9a0-40b8-89a2-92940cf30ed9" email="ianbicking@gmail.com" created="2025-12-04T15:53:51 America/Chicago" name="Ian Bicking"/>
         <ref ref="/stories/Mandatory_Assistance/story-info.card" story-version="2.1.0" role="Story"/>
         <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/3_Buddy_Arrives/passage.card#v2.0.0/text/progress-0.4764" passage-id="a23cb426-26cb-44e2-b1c2-7eab80537a34" role="Passage"/>
