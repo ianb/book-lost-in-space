@@ -1,0 +1,6724 @@
+{
+  "version": "1.0.0",
+  "sourcePassageVoice": "passage-voice.card#v3.0.0",
+  "sourceAudio": "passage-voice-3.0.0.flac",
+  "duration": 427.5,
+  "words": [
+    {
+      "word": "The",
+      "start": 0,
+      "end": 0.14000000059604645,
+      "aligned": true
+    },
+    {
+      "word": "first",
+      "start": 0.14000000059604645,
+      "end": 0.3400000035762787,
+      "aligned": true
+    },
+    {
+      "word": "thing",
+      "start": 0.3400000035762787,
+      "end": 0.5199999809265137,
+      "aligned": true
+    },
+    {
+      "word": "I",
+      "start": 0.5199999809265137,
+      "end": 0.7599999904632568,
+      "aligned": true
+    },
+    {
+      "word": "notice",
+      "start": 0.7599999904632568,
+      "end": 0.8999999761581421,
+      "aligned": true
+    },
+    {
+      "word": "is",
+      "start": 0.8999999761581421,
+      "end": 1.1200000047683716,
+      "aligned": true
+    },
+    {
+      "word": "the",
+      "start": 1.1200000047683716,
+      "end": 1.2599999904632568,
+      "aligned": true
+    },
+    {
+      "word": "light",
+      "start": 1.2599999904632568,
+      "end": 1.600000023841858,
+      "aligned": true
+    },
+    {
+      "word": "—",
+      "start": 1.600000023841858,
+      "end": 2.059999942779541,
+      "aligned": false
+    },
+    {
+      "word": "not",
+      "start": 2.059999942779541,
+      "end": 2.200000047683716,
+      "aligned": true
+    },
+    {
+      "word": "purple.",
+      "start": 2.200000047683716,
+      "end": 2.559999942779541,
+      "aligned": true
+    },
+    {
+      "word": "I",
+      "start": 2.880000114440918,
+      "end": 2.9600000381469727,
+      "aligned": true
+    },
+    {
+      "word": "expected",
+      "start": 2.9600000381469727,
+      "end": 3.5,
+      "aligned": true
+    },
+    {
+      "word": "purple,",
+      "start": 3.5,
+      "end": 3.940000057220459,
+      "aligned": true
+    },
+    {
+      "word": "saw",
+      "start": 4.460000038146973,
+      "end": 4.460000038146973,
+      "aligned": true
+    },
+    {
+      "word": "it",
+      "start": 4.460000038146973,
+      "end": 4.599999904632568,
+      "aligned": true
+    },
+    {
+      "word": "through",
+      "start": 4.599999904632568,
+      "end": 4.739999771118164,
+      "aligned": true
+    },
+    {
+      "word": "the",
+      "start": 4.739999771118164,
+      "end": 4.940000057220459,
+      "aligned": true
+    },
+    {
+      "word": "hull",
+      "start": 4.940000057220459,
+      "end": 5.139999866485596,
+      "aligned": false
+    },
+    {
+      "word": "breach",
+      "start": 5.139999866485596,
+      "end": 5.400000095367432,
+      "aligned": true
+    },
+    {
+      "word": "—",
+      "start": 5.400000095367432,
+      "end": 5.860000133514404,
+      "aligned": false
+    },
+    {
+      "word": "but",
+      "start": 5.860000133514404,
+      "end": 5.920000076293945,
+      "aligned": true
+    },
+    {
+      "word": "it's",
+      "start": 5.920000076293945,
+      "end": 6.079999923706055,
+      "aligned": true
+    },
+    {
+      "word": "the",
+      "start": 6.079999923706055,
+      "end": 6.28000020980835,
+      "aligned": true
+    },
+    {
+      "word": "quality",
+      "start": 6.28000020980835,
+      "end": 6.659999847412109,
+      "aligned": true
+    },
+    {
+      "word": "of",
+      "start": 6.659999847412109,
+      "end": 6.900000095367432,
+      "aligned": true
+    },
+    {
+      "word": "it,",
+      "start": 6.900000095367432,
+      "end": 7.019999980926514,
+      "aligned": true
+    },
+    {
+      "word": "like",
+      "start": 7.179999828338623,
+      "end": 7.380000114440918,
+      "aligned": true
+    },
+    {
+      "word": "stepping",
+      "start": 7.380000114440918,
+      "end": 7.639999866485596,
+      "aligned": true
+    },
+    {
+      "word": "into",
+      "start": 7.639999866485596,
+      "end": 7.980000019073486,
+      "aligned": true
+    },
+    {
+      "word": "perpetual",
+      "start": 7.980000019073486,
+      "end": 8.5,
+      "aligned": true
+    },
+    {
+      "word": "twilight",
+      "start": 8.5,
+      "end": 8.979999542236328,
+      "aligned": true
+    },
+    {
+      "word": "even",
+      "start": 8.979999542236328,
+      "end": 9.460000038146973,
+      "aligned": true
+    },
+    {
+      "word": "though",
+      "start": 9.460000038146973,
+      "end": 9.619999885559082,
+      "aligned": true
+    },
+    {
+      "word": "it's",
+      "start": 9.619999885559082,
+      "end": 9.84000015258789,
+      "aligned": true
+    },
+    {
+      "word": "midday.",
+      "start": 9.84000015258789,
+      "end": 10.260000228881836,
+      "aligned": true
+    },
+    {
+      "word": "Sunlight",
+      "start": 10.880000114440918,
+      "end": 11.140000343322754,
+      "aligned": true
+    },
+    {
+      "word": "filters",
+      "start": 11.140000343322754,
+      "end": 11.539999961853027,
+      "aligned": true
+    },
+    {
+      "word": "through",
+      "start": 11.539999961853027,
+      "end": 11.819999694824219,
+      "aligned": true
+    },
+    {
+      "word": "the",
+      "start": 11.819999694824219,
+      "end": 12.319999694824219,
+      "aligned": true
+    },
+    {
+      "word": "canopy",
+      "start": 12.319999694824219,
+      "end": 12.319999694824219,
+      "aligned": true
+    },
+    {
+      "word": "overhead,",
+      "start": 12.319999694824219,
+      "end": 12.880000114440918,
+      "aligned": true
+    },
+    {
+      "word": "turning",
+      "start": 13.34000015258789,
+      "end": 13.4399995803833,
+      "aligned": true
+    },
+    {
+      "word": "lavender",
+      "start": 13.4399995803833,
+      "end": 13.859999656677246,
+      "aligned": true
+    },
+    {
+      "word": "and",
+      "start": 13.859999656677246,
+      "end": 14.319999694824219,
+      "aligned": true
+    },
+    {
+      "word": "soft,",
+      "start": 14.319999694824219,
+      "end": 14.720000267028809,
+      "aligned": true
+    },
+    {
+      "word": "dreamlike.",
+      "start": 14.899999618530273,
+      "end": 15.399999618530273,
+      "aligned": true
+    },
+    {
+      "word": "Everything",
+      "start": 15.899999618530273,
+      "end": 16.239999771118164,
+      "aligned": true
+    },
+    {
+      "word": "glows.",
+      "start": 16.239999771118164,
+      "end": 16.639999389648438,
+      "aligned": true
+    },
+    {
+      "word": "The",
+      "start": 17.260000228881836,
+      "end": 17.420000076293945,
+      "aligned": true
+    },
+    {
+      "word": "second",
+      "start": 17.420000076293945,
+      "end": 17.739999771118164,
+      "aligned": true
+    },
+    {
+      "word": "thing",
+      "start": 17.739999771118164,
+      "end": 18,
+      "aligned": true
+    },
+    {
+      "word": "is",
+      "start": 18,
+      "end": 18.18000030517578,
+      "aligned": true
+    },
+    {
+      "word": "the",
+      "start": 18.18000030517578,
+      "end": 18.639999389648438,
+      "aligned": true
+    },
+    {
+      "word": "ground",
+      "start": 18.639999389648438,
+      "end": 18.639999389648438,
+      "aligned": true
+    },
+    {
+      "word": "—",
+      "start": 18.639999389648438,
+      "end": 19.040000915527344,
+      "aligned": false
+    },
+    {
+      "word": "soft.",
+      "start": 19.040000915527344,
+      "end": 19.399999618530273,
+      "aligned": true
+    },
+    {
+      "word": "My",
+      "start": 19.8799991607666,
+      "end": 20.020000457763672,
+      "aligned": true
+    },
+    {
+      "word": "boots",
+      "start": 20.020000457763672,
+      "end": 20.280000686645508,
+      "aligned": true
+    },
+    {
+      "word": "sink",
+      "start": 20.280000686645508,
+      "end": 20.579999923706055,
+      "aligned": true
+    },
+    {
+      "word": "slightly",
+      "start": 20.579999923706055,
+      "end": 21.020000457763672,
+      "aligned": true
+    },
+    {
+      "word": "into",
+      "start": 21.020000457763672,
+      "end": 21.360000610351562,
+      "aligned": true
+    },
+    {
+      "word": "a",
+      "start": 21.360000610351562,
+      "end": 21.540000915527344,
+      "aligned": true
+    },
+    {
+      "word": "groundcover",
+      "start": 21.540000915527344,
+      "end": 22,
+      "aligned": false
+    },
+    {
+      "word": "that",
+      "start": 22,
+      "end": 22.299999237060547,
+      "aligned": true
+    },
+    {
+      "word": "feels",
+      "start": 22.299999237060547,
+      "end": 22.579999923706055,
+      "aligned": true
+    },
+    {
+      "word": "like",
+      "start": 22.579999923706055,
+      "end": 23.139999389648438,
+      "aligned": true
+    },
+    {
+      "word": "moss",
+      "start": 23.139999389648438,
+      "end": 23.139999389648438,
+      "aligned": true
+    },
+    {
+      "word": "but",
+      "start": 23.139999389648438,
+      "end": 23.440000534057617,
+      "aligned": true
+    },
+    {
+      "word": "isn't:",
+      "start": 23.440000534057617,
+      "end": 23.799999237060547,
+      "aligned": true
+    },
+    {
+      "word": "purple-black",
+      "start": 23.799999237060547,
+      "end": 24.68000030517578,
+      "aligned": false
+    },
+    {
+      "word": "and",
+      "start": 24.68000030517578,
+      "end": 25.059999465942383,
+      "aligned": true
+    },
+    {
+      "word": "springy,",
+      "start": 25.059999465942383,
+      "end": 25.479999542236328,
+      "aligned": true
+    },
+    {
+      "word": "almost",
+      "start": 25.780000686645508,
+      "end": 26.040000915527344,
+      "aligned": true
+    },
+    {
+      "word": "pleasant",
+      "start": 26.040000915527344,
+      "end": 26.420000076293945,
+      "aligned": true
+    },
+    {
+      "word": "underfoot.",
+      "start": 26.420000076293945,
+      "end": 26.959999084472656,
+      "aligned": true
+    },
+    {
+      "word": "I",
+      "start": 27.520000457763672,
+      "end": 27.739999771118164,
+      "aligned": true
+    },
+    {
+      "word": "take",
+      "start": 27.739999771118164,
+      "end": 27.920000076293945,
+      "aligned": true
+    },
+    {
+      "word": "another",
+      "start": 27.920000076293945,
+      "end": 28.200000762939453,
+      "aligned": true
+    },
+    {
+      "word": "step,",
+      "start": 28.200000762939453,
+      "end": 28.540000915527344,
+      "aligned": true
+    },
+    {
+      "word": "then",
+      "start": 28.540000915527344,
+      "end": 28.959999084472656,
+      "aligned": true
+    },
+    {
+      "word": "another",
+      "start": 28.959999084472656,
+      "end": 29.479999542236328,
+      "aligned": true
+    },
+    {
+      "word": "—",
+      "start": 29.479999542236328,
+      "end": 29.479999542236328,
+      "aligned": false
+    },
+    {
+      "word": "equipment",
+      "start": 29.479999542236328,
+      "end": 30.079999923706055,
+      "aligned": true
+    },
+    {
+      "word": "bag",
+      "start": 30.079999923706055,
+      "end": 30.3799991607666,
+      "aligned": true
+    },
+    {
+      "word": "heavy",
+      "start": 30.3799991607666,
+      "end": 30.68000030517578,
+      "aligned": true
+    },
+    {
+      "word": "on",
+      "start": 30.68000030517578,
+      "end": 30.8799991607666,
+      "aligned": true
+    },
+    {
+      "word": "my",
+      "start": 30.8799991607666,
+      "end": 31.200000762939453,
+      "aligned": true
+    },
+    {
+      "word": "shoulder.",
+      "start": 31.200000762939453,
+      "end": 31.299999237060547,
+      "aligned": true
+    },
+    {
+      "word": "The",
+      "start": 31.84000015258789,
+      "end": 31.920000076293945,
+      "aligned": true
+    },
+    {
+      "word": "forest",
+      "start": 31.920000076293945,
+      "end": 32.18000030517578,
+      "aligned": true
+    },
+    {
+      "word": "stretches",
+      "start": 32.18000030517578,
+      "end": 32.58000183105469,
+      "aligned": true
+    },
+    {
+      "word": "ahead",
+      "start": 32.58000183105469,
+      "end": 32.86000061035156,
+      "aligned": true
+    },
+    {
+      "word": "of",
+      "start": 32.86000061035156,
+      "end": 33.040000915527344,
+      "aligned": true
+    },
+    {
+      "word": "me:",
+      "start": 33.040000915527344,
+      "end": 33.20000076293945,
+      "aligned": true
+    },
+    {
+      "word": "tree",
+      "start": 33.86000061035156,
+      "end": 33.86000061035156,
+      "aligned": true
+    },
+    {
+      "word": "trunks",
+      "start": 33.86000061035156,
+      "end": 34.08000183105469,
+      "aligned": true
+    },
+    {
+      "word": "the",
+      "start": 34.08000183105469,
+      "end": 34.36000061035156,
+      "aligned": true
+    },
+    {
+      "word": "width",
+      "start": 34.36000061035156,
+      "end": 34.52000045776367,
+      "aligned": true
+    },
+    {
+      "word": "of",
+      "start": 34.52000045776367,
+      "end": 34.86000061035156,
+      "aligned": true
+    },
+    {
+      "word": "ancient",
+      "start": 34.86000061035156,
+      "end": 35.08000183105469,
+      "aligned": true
+    },
+    {
+      "word": "oaks",
+      "start": 35.08000183105469,
+      "end": 35.34000015258789,
+      "aligned": true
+    },
+    {
+      "word": "but",
+      "start": 35.34000015258789,
+      "end": 35.720001220703125,
+      "aligned": true
+    },
+    {
+      "word": "smooth",
+      "start": 35.720001220703125,
+      "end": 36.08000183105469,
+      "aligned": true
+    },
+    {
+      "word": "and",
+      "start": 36.08000183105469,
+      "end": 36.41999816894531,
+      "aligned": true
+    },
+    {
+      "word": "burgundy-dark.",
+      "start": 36.41999816894531,
+      "end": 37.58000183105469,
+      "aligned": false
+    },
+    {
+      "word": "When",
+      "start": 37.58000183105469,
+      "end": 37.68000030517578,
+      "aligned": true
+    },
+    {
+      "word": "I",
+      "start": 37.68000030517578,
+      "end": 37.91999816894531,
+      "aligned": true
+    },
+    {
+      "word": "look",
+      "start": 37.91999816894531,
+      "end": 38.060001373291016,
+      "aligned": true
+    },
+    {
+      "word": "up,",
+      "start": 38.060001373291016,
+      "end": 38.29999923706055,
+      "aligned": true
+    },
+    {
+      "word": "the",
+      "start": 38.58000183105469,
+      "end": 38.939998626708984,
+      "aligned": true
+    },
+    {
+      "word": "leaves",
+      "start": 38.939998626708984,
+      "end": 38.939998626708984,
+      "aligned": true
+    },
+    {
+      "word": "are",
+      "start": 38.939998626708984,
+      "end": 39.15999984741211,
+      "aligned": true
+    },
+    {
+      "word": "nearly",
+      "start": 39.15999984741211,
+      "end": 39.5,
+      "aligned": true
+    },
+    {
+      "word": "black",
+      "start": 39.5,
+      "end": 39.79999923706055,
+      "aligned": true
+    },
+    {
+      "word": "from",
+      "start": 39.79999923706055,
+      "end": 40.13999938964844,
+      "aligned": true
+    },
+    {
+      "word": "below,",
+      "start": 40.13999938964844,
+      "end": 40.400001525878906,
+      "aligned": true
+    },
+    {
+      "word": "but",
+      "start": 40.63999938964844,
+      "end": 40.900001525878906,
+      "aligned": true
+    },
+    {
+      "word": "when",
+      "start": 40.900001525878906,
+      "end": 41.040000915527344,
+      "aligned": true
+    },
+    {
+      "word": "the",
+      "start": 41.040000915527344,
+      "end": 41.34000015258789,
+      "aligned": true
+    },
+    {
+      "word": "light",
+      "start": 41.34000015258789,
+      "end": 41.439998626708984,
+      "aligned": true
+    },
+    {
+      "word": "catches",
+      "start": 41.439998626708984,
+      "end": 41.7400016784668,
+      "aligned": true
+    },
+    {
+      "word": "them",
+      "start": 41.7400016784668,
+      "end": 42.060001373291016,
+      "aligned": true
+    },
+    {
+      "word": "just",
+      "start": 42.060001373291016,
+      "end": 42.380001068115234,
+      "aligned": true
+    },
+    {
+      "word": "right",
+      "start": 42.380001068115234,
+      "end": 42.63999938964844,
+      "aligned": true
+    },
+    {
+      "word": "they",
+      "start": 42.779998779296875,
+      "end": 42.91999816894531,
+      "aligned": true
+    },
+    {
+      "word": "glow",
+      "start": 42.91999816894531,
+      "end": 43.13999938964844,
+      "aligned": true
+    },
+    {
+      "word": "deep",
+      "start": 43.13999938964844,
+      "end": 43.619998931884766,
+      "aligned": true
+    },
+    {
+      "word": "violet.",
+      "start": 43.619998931884766,
+      "end": 44.099998474121094,
+      "aligned": true
+    },
+    {
+      "word": "*Holy",
+      "start": 44.099998474121094,
+      "end": 44.699999491373696,
+      "aligned": false
+    },
+    {
+      "word": "shit*",
+      "start": 44.699999491373696,
+      "end": 45.300000508626304,
+      "aligned": false
+    },
+    {
+      "word": "—",
+      "start": 45.300000508626304,
+      "end": 45.900001525878906,
+      "aligned": false
+    },
+    {
+      "word": "I'm",
+      "start": 45.900001525878906,
+      "end": 46.15999984741211,
+      "aligned": true
+    },
+    {
+      "word": "on",
+      "start": 46.15999984741211,
+      "end": 46.29999923706055,
+      "aligned": true
+    },
+    {
+      "word": "an",
+      "start": 46.29999923706055,
+      "end": 46.599998474121094,
+      "aligned": true
+    },
+    {
+      "word": "alien",
+      "start": 46.599998474121094,
+      "end": 46.81999969482422,
+      "aligned": true
+    },
+    {
+      "word": "planet.",
+      "start": 46.81999969482422,
+      "end": 47.2599983215332,
+      "aligned": true
+    },
+    {
+      "word": "Buddy's",
+      "start": 48.02000045776367,
+      "end": 48.380001068115234,
+      "aligned": true
+    },
+    {
+      "word": "voice",
+      "start": 48.380001068115234,
+      "end": 48.79999923706055,
+      "aligned": true
+    },
+    {
+      "word": "bursts",
+      "start": 48.79999923706055,
+      "end": 49.13999938964844,
+      "aligned": true
+    },
+    {
+      "word": "into",
+      "start": 49.13999938964844,
+      "end": 49.459999084472656,
+      "aligned": true
+    },
+    {
+      "word": "my",
+      "start": 49.459999084472656,
+      "end": 49.959999084472656,
+      "aligned": true
+    },
+    {
+      "word": "head",
+      "start": 49.959999084472656,
+      "end": 49.959999084472656,
+      "aligned": true
+    },
+    {
+      "word": "—",
+      "start": 49.959999084472656,
+      "end": 50.29999923706055,
+      "aligned": false
+    },
+    {
+      "word": "\"Isn't",
+      "start": 50.29999923706055,
+      "end": 50.47999954223633,
+      "aligned": true
+    },
+    {
+      "word": "this",
+      "start": 50.47999954223633,
+      "end": 50.86000061035156,
+      "aligned": true
+    },
+    {
+      "word": "exciting,",
+      "start": 50.86000061035156,
+      "end": 51.220001220703125,
+      "aligned": true
+    },
+    {
+      "word": "Kira!",
+      "start": 51.34000015258789,
+      "end": 51.5,
+      "aligned": true
+    },
+    {
+      "word": "Let's",
+      "start": 51.84000015258789,
+      "end": 52.29999923706055,
+      "aligned": true
+    },
+    {
+      "word": "talk",
+      "start": 52.29999923706055,
+      "end": 52.540000915527344,
+      "aligned": true
+    },
+    {
+      "word": "about",
+      "start": 52.540000915527344,
+      "end": 52.84000015258789,
+      "aligned": true
+    },
+    {
+      "word": "alien",
+      "start": 52.84000015258789,
+      "end": 53.15999984741211,
+      "aligned": true
+    },
+    {
+      "word": "photosynthesis!",
+      "start": 53.15999984741211,
+      "end": 53.81999969482422,
+      "aligned": true
+    },
+    {
+      "word": "You",
+      "start": 54.279998779296875,
+      "end": 54.47999954223633,
+      "aligned": true
+    },
+    {
+      "word": "see,",
+      "start": 54.47999954223633,
+      "end": 54.68000030517578,
+      "aligned": true
+    },
+    {
+      "word": "on",
+      "start": 54.70000076293945,
+      "end": 55.2599983215332,
+      "aligned": true
+    },
+    {
+      "word": "Earth,",
+      "start": 55.2599983215332,
+      "end": 55.2599983215332,
+      "aligned": true
+    },
+    {
+      "word": "plants",
+      "start": 55.5,
+      "end": 55.7400016784668,
+      "aligned": true
+    },
+    {
+      "word": "use",
+      "start": 55.7400016784668,
+      "end": 56.08000183105469,
+      "aligned": true
+    },
+    {
+      "word": "chlorophyll",
+      "start": 56.08000183105469,
+      "end": 56.599998474121094,
+      "aligned": true
+    },
+    {
+      "word": "which",
+      "start": 56.599998474121094,
+      "end": 56.959999084472656,
+      "aligned": true
+    },
+    {
+      "word": "absorbs",
+      "start": 56.959999084472656,
+      "end": 57.34000015258789,
+      "aligned": true
+    },
+    {
+      "word": "red",
+      "start": 57.34000015258789,
+      "end": 57.7400016784668,
+      "aligned": true
+    },
+    {
+      "word": "and",
+      "start": 57.7400016784668,
+      "end": 57.97999954223633,
+      "aligned": true
+    },
+    {
+      "word": "blue",
+      "start": 57.97999954223633,
+      "end": 58.18000030517578,
+      "aligned": true
+    },
+    {
+      "word": "light,",
+      "start": 58.18000030517578,
+      "end": 58.52000045776367,
+      "aligned": true
+    },
+    {
+      "word": "but",
+      "start": 58.779998779296875,
+      "end": 59,
+      "aligned": true
+    },
+    {
+      "word": "here",
+      "start": 59,
+      "end": 59.20000076293945,
+      "aligned": true
+    },
+    {
+      "word": "the",
+      "start": 59.279998779296875,
+      "end": 59.439998626708984,
+      "aligned": true
+    },
+    {
+      "word": "dominant",
+      "start": 59.439998626708984,
+      "end": 59.7400016784668,
+      "aligned": true
+    },
+    {
+      "word": "photosynthetic",
+      "start": 59.7400016784668,
+      "end": 60.47999954223633,
+      "aligned": true
+    },
+    {
+      "word": "pigment",
+      "start": 60.47999954223633,
+      "end": 60.79999923706055,
+      "aligned": true
+    },
+    {
+      "word": "appears",
+      "start": 60.79999923706055,
+      "end": 61.18000030517578,
+      "aligned": true
+    },
+    {
+      "word": "to—\"",
+      "start": 61.18000030517578,
+      "end": 61.52000045776367,
+      "aligned": true
+    },
+    {
+      "word": "I",
+      "start": 62.040000915527344,
+      "end": 62.119998931884766,
+      "aligned": true
+    },
+    {
+      "word": "laugh",
+      "start": 62.119998931884766,
+      "end": 62.459999084472656,
+      "aligned": true
+    },
+    {
+      "word": "despite",
+      "start": 62.459999084472656,
+      "end": 62.91999816894531,
+      "aligned": true
+    },
+    {
+      "word": "everything",
+      "start": 62.91999816894531,
+      "end": 63.52000045776367,
+      "aligned": true
+    },
+    {
+      "word": "—",
+      "start": 63.52000045776367,
+      "end": 63.880001068115234,
+      "aligned": false
+    },
+    {
+      "word": "the",
+      "start": 63.880001068115234,
+      "end": 64,
+      "aligned": true
+    },
+    {
+      "word": "pain",
+      "start": 64,
+      "end": 64.23999786376953,
+      "aligned": true
+    },
+    {
+      "word": "in",
+      "start": 64.23999786376953,
+      "end": 64.36000061035156,
+      "aligned": true
+    },
+    {
+      "word": "my",
+      "start": 64.36000061035156,
+      "end": 64.80000305175781,
+      "aligned": true
+    },
+    {
+      "word": "leg,",
+      "start": 64.80000305175781,
+      "end": 64.80000305175781,
+      "aligned": true
+    },
+    {
+      "word": "the",
+      "start": 65.05999755859375,
+      "end": 65.26000213623047,
+      "aligned": true
+    },
+    {
+      "word": "dead",
+      "start": 65.26000213623047,
+      "end": 65.4800033569336,
+      "aligned": true
+    },
+    {
+      "word": "pilots,",
+      "start": 65.4800033569336,
+      "end": 65.9000015258789,
+      "aligned": true
+    },
+    {
+      "word": "the",
+      "start": 66.22000122070312,
+      "end": 66.45999908447266,
+      "aligned": true
+    },
+    {
+      "word": "fact",
+      "start": 66.45999908447266,
+      "end": 66.55999755859375,
+      "aligned": true
+    },
+    {
+      "word": "that",
+      "start": 66.55999755859375,
+      "end": 66.72000122070312,
+      "aligned": true
+    },
+    {
+      "word": "I",
+      "start": 66.72000122070312,
+      "end": 66.86000061035156,
+      "aligned": true
+    },
+    {
+      "word": "might",
+      "start": 66.86000061035156,
+      "end": 67.05999755859375,
+      "aligned": true
+    },
+    {
+      "word": "die",
+      "start": 67.05999755859375,
+      "end": 67.26000213623047,
+      "aligned": true
+    },
+    {
+      "word": "out",
+      "start": 67.26000213623047,
+      "end": 67.55999755859375,
+      "aligned": true
+    },
+    {
+      "word": "here.",
+      "start": 67.55999755859375,
+      "end": 67.76000213623047,
+      "aligned": true
+    },
+    {
+      "word": "Buddy",
+      "start": 68.5,
+      "end": 68.5199966430664,
+      "aligned": true
+    },
+    {
+      "word": "wants",
+      "start": 68.5199966430664,
+      "end": 68.83999633789062,
+      "aligned": true
+    },
+    {
+      "word": "to",
+      "start": 68.83999633789062,
+      "end": 69.12000274658203,
+      "aligned": true
+    },
+    {
+      "word": "teach",
+      "start": 69.12000274658203,
+      "end": 69.27999877929688,
+      "aligned": true
+    },
+    {
+      "word": "me",
+      "start": 69.27999877929688,
+      "end": 69.5,
+      "aligned": true
+    },
+    {
+      "word": "about",
+      "start": 69.5,
+      "end": 69.77999877929688,
+      "aligned": true
+    },
+    {
+      "word": "photosynthesis.",
+      "start": 69.77999877929688,
+      "end": 70.5199966430664,
+      "aligned": true
+    },
+    {
+      "word": "I",
+      "start": 70.81999969482422,
+      "end": 71.08000183105469,
+      "aligned": true
+    },
+    {
+      "word": "say",
+      "start": 71.08000183105469,
+      "end": 71.31999969482422,
+      "aligned": true
+    },
+    {
+      "word": "—",
+      "start": 71.31999969482422,
+      "end": 71.72000122070312,
+      "aligned": false
+    },
+    {
+      "word": "\"Later,",
+      "start": 71.72000122070312,
+      "end": 71.94000244140625,
+      "aligned": true
+    },
+    {
+      "word": "Buddy.",
+      "start": 71.95999908447266,
+      "end": 72.22000122070312,
+      "aligned": true
+    },
+    {
+      "word": "Right",
+      "start": 72.63999938964844,
+      "end": 72.83999633789062,
+      "aligned": true
+    },
+    {
+      "word": "now",
+      "start": 72.83999633789062,
+      "end": 73.0999984741211,
+      "aligned": true
+    },
+    {
+      "word": "I",
+      "start": 73.0999984741211,
+      "end": 73.33999633789062,
+      "aligned": true
+    },
+    {
+      "word": "just",
+      "start": 73.33999633789062,
+      "end": 73.68000030517578,
+      "aligned": true
+    },
+    {
+      "word": "want",
+      "start": 73.68000030517578,
+      "end": 73.87999725341797,
+      "aligned": true
+    },
+    {
+      "word": "to",
+      "start": 73.87999725341797,
+      "end": 74.05999755859375,
+      "aligned": true
+    },
+    {
+      "word": "get",
+      "start": 74.05999755859375,
+      "end": 74.16000366210938,
+      "aligned": true
+    },
+    {
+      "word": "to",
+      "start": 74.16000366210938,
+      "end": 74.30000305175781,
+      "aligned": true
+    },
+    {
+      "word": "the",
+      "start": 74.30000305175781,
+      "end": 74.66000366210938,
+      "aligned": true
+    },
+    {
+      "word": "water.\"",
+      "start": 74.66000366210938,
+      "end": 74.66000366210938,
+      "aligned": true
+    },
+    {
+      "word": "Buddy",
+      "start": 75.45999908447266,
+      "end": 75.45999908447266,
+      "aligned": true
+    },
+    {
+      "word": "replies",
+      "start": 75.45999908447266,
+      "end": 76,
+      "aligned": true
+    },
+    {
+      "word": "—",
+      "start": 76,
+      "end": 76.37999725341797,
+      "aligned": false
+    },
+    {
+      "word": "\"Of",
+      "start": 76.37999725341797,
+      "end": 76.58000183105469,
+      "aligned": true
+    },
+    {
+      "word": "course!",
+      "start": 76.58000183105469,
+      "end": 76.91999816894531,
+      "aligned": true
+    },
+    {
+      "word": "Safety",
+      "start": 77.4000015258789,
+      "end": 77.55999755859375,
+      "aligned": true
+    },
+    {
+      "word": "first!",
+      "start": 77.55999755859375,
+      "end": 78.0199966430664,
+      "aligned": true
+    },
+    {
+      "word": "The",
+      "start": 78.30000305175781,
+      "end": 78.5,
+      "aligned": true
+    },
+    {
+      "word": "stream",
+      "start": 78.5,
+      "end": 78.72000122070312,
+      "aligned": true
+    },
+    {
+      "word": "is",
+      "start": 78.72000122070312,
+      "end": 79.04000091552734,
+      "aligned": true
+    },
+    {
+      "word": "approximately",
+      "start": 79.04000091552734,
+      "end": 79.63999938964844,
+      "aligned": true
+    },
+    {
+      "word": "eight",
+      "start": 79.63999938964844,
+      "end": 80,
+      "aligned": false
+    },
+    {
+      "word": "hundred",
+      "start": 80,
+      "end": 80.36000061035156,
+      "aligned": false
+    },
+    {
+      "word": "meters",
+      "start": 80.36000061035156,
+      "end": 80.73999786376953,
+      "aligned": true
+    },
+    {
+      "word": "southwest.",
+      "start": 80.73999786376953,
+      "end": 81.27999877929688,
+      "aligned": true
+    },
+    {
+      "word": "I'll",
+      "start": 81.63999938964844,
+      "end": 82.04000091552734,
+      "aligned": true
+    },
+    {
+      "word": "guide",
+      "start": 82.04000091552734,
+      "end": 82.05999755859375,
+      "aligned": true
+    },
+    {
+      "word": "you!\"",
+      "start": 82.05999755859375,
+      "end": 82.37999725341797,
+      "aligned": true
+    },
+    {
+      "word": "Southwest",
+      "start": 82.86000061035156,
+      "end": 83.33999633789062,
+      "aligned": true
+    },
+    {
+      "word": "—",
+      "start": 83.33999633789062,
+      "end": 83.54000091552734,
+      "aligned": false
+    },
+    {
+      "word": "right.",
+      "start": 83.54000091552734,
+      "end": 83.95999908447266,
+      "aligned": true
+    },
+    {
+      "word": "I",
+      "start": 83.95999908447266,
+      "end": 84.23999786376953,
+      "aligned": true
+    },
+    {
+      "word": "adjust",
+      "start": 84.23999786376953,
+      "end": 84.54000091552734,
+      "aligned": true
+    },
+    {
+      "word": "my",
+      "start": 84.54000091552734,
+      "end": 84.94000244140625,
+      "aligned": true
+    },
+    {
+      "word": "grip",
+      "start": 84.94000244140625,
+      "end": 84.94000244140625,
+      "aligned": true
+    },
+    {
+      "word": "on",
+      "start": 84.94000244140625,
+      "end": 85.12000274658203,
+      "aligned": true
+    },
+    {
+      "word": "the",
+      "start": 85.12000274658203,
+      "end": 85.22000122070312,
+      "aligned": true
+    },
+    {
+      "word": "bag",
+      "start": 85.22000122070312,
+      "end": 85.4800033569336,
+      "aligned": true
+    },
+    {
+      "word": "and",
+      "start": 85.4800033569336,
+      "end": 85.73999786376953,
+      "aligned": true
+    },
+    {
+      "word": "start",
+      "start": 85.73999786376953,
+      "end": 85.95999908447266,
+      "aligned": true
+    },
+    {
+      "word": "walking.",
+      "start": 85.95999908447266,
+      "end": 86.26000213623047,
+      "aligned": true
+    },
+    {
+      "word": "And",
+      "start": 87.12000274658203,
+      "end": 87.18000030517578,
+      "aligned": true
+    },
+    {
+      "word": "that's",
+      "start": 87.18000030517578,
+      "end": 87.4800033569336,
+      "aligned": true
+    },
+    {
+      "word": "when",
+      "start": 87.4800033569336,
+      "end": 87.55999755859375,
+      "aligned": true
+    },
+    {
+      "word": "the",
+      "start": 87.55999755859375,
+      "end": 87.80000305175781,
+      "aligned": true
+    },
+    {
+      "word": "quiet",
+      "start": 87.80000305175781,
+      "end": 88.12000274658203,
+      "aligned": true
+    },
+    {
+      "word": "hits",
+      "start": 88.12000274658203,
+      "end": 88.41999816894531,
+      "aligned": true
+    },
+    {
+      "word": "me.",
+      "start": 88.41999816894531,
+      "end": 88.69999694824219,
+      "aligned": true
+    },
+    {
+      "word": "No",
+      "start": 89.41999816894531,
+      "end": 89.41999816894531,
+      "aligned": true
+    },
+    {
+      "word": "birdsong.",
+      "start": 89.41999816894531,
+      "end": 90.26000213623047,
+      "aligned": false
+    },
+    {
+      "word": "No",
+      "start": 90.26000213623047,
+      "end": 90.54000091552734,
+      "aligned": true
+    },
+    {
+      "word": "insects",
+      "start": 90.54000091552734,
+      "end": 90.81999969482422,
+      "aligned": true
+    },
+    {
+      "word": "buzzing.",
+      "start": 90.81999969482422,
+      "end": 91.22000122070312,
+      "aligned": true
+    },
+    {
+      "word": "No",
+      "start": 91.63999938964844,
+      "end": 91.86000061035156,
+      "aligned": true
+    },
+    {
+      "word": "rustle",
+      "start": 91.86000061035156,
+      "end": 92.18000030517578,
+      "aligned": true
+    },
+    {
+      "word": "of",
+      "start": 92.18000030517578,
+      "end": 92.54000091552734,
+      "aligned": true
+    },
+    {
+      "word": "small",
+      "start": 92.54000091552734,
+      "end": 92.63999938964844,
+      "aligned": true
+    },
+    {
+      "word": "animals",
+      "start": 92.63999938964844,
+      "end": 92.95999908447266,
+      "aligned": true
+    },
+    {
+      "word": "in",
+      "start": 92.95999908447266,
+      "end": 93.23999786376953,
+      "aligned": true
+    },
+    {
+      "word": "the",
+      "start": 93.23999786376953,
+      "end": 93.44000244140625,
+      "aligned": true
+    },
+    {
+      "word": "undergrowth.",
+      "start": 93.44000244140625,
+      "end": 93.81999969482422,
+      "aligned": true
+    },
+    {
+      "word": "Just",
+      "start": 94.27999877929688,
+      "end": 94.55999755859375,
+      "aligned": true
+    },
+    {
+      "word": "wind",
+      "start": 94.55999755859375,
+      "end": 94.87999725341797,
+      "aligned": true
+    },
+    {
+      "word": "moving",
+      "start": 94.87999725341797,
+      "end": 95.23999786376953,
+      "aligned": true
+    },
+    {
+      "word": "through",
+      "start": 95.23999786376953,
+      "end": 95.41999816894531,
+      "aligned": true
+    },
+    {
+      "word": "the",
+      "start": 95.41999816894531,
+      "end": 95.91999816894531,
+      "aligned": true
+    },
+    {
+      "word": "canopy",
+      "start": 95.91999816894531,
+      "end": 95.91999816894531,
+      "aligned": true
+    },
+    {
+      "word": "—",
+      "start": 95.91999816894531,
+      "end": 96.33999633789062,
+      "aligned": false
+    },
+    {
+      "word": "a",
+      "start": 96.33999633789062,
+      "end": 96.54000091552734,
+      "aligned": true
+    },
+    {
+      "word": "soft,",
+      "start": 96.54000091552734,
+      "end": 96.94000244140625,
+      "aligned": true
+    },
+    {
+      "word": "almost",
+      "start": 97.22000122070312,
+      "end": 97.44000244140625,
+      "aligned": true
+    },
+    {
+      "word": "musical",
+      "start": 97.44000244140625,
+      "end": 97.87999725341797,
+      "aligned": true
+    },
+    {
+      "word": "sound,",
+      "start": 97.87999725341797,
+      "end": 98.36000061035156,
+      "aligned": true
+    },
+    {
+      "word": "deeper",
+      "start": 99.08000183105469,
+      "end": 99.08000183105469,
+      "aligned": true
+    },
+    {
+      "word": "than",
+      "start": 99.08000183105469,
+      "end": 99.37999725341797,
+      "aligned": true
+    },
+    {
+      "word": "Earth",
+      "start": 99.37999725341797,
+      "end": 99.63999938964844,
+      "aligned": true
+    },
+    {
+      "word": "leaves,",
+      "start": 99.63999938964844,
+      "end": 100.0199966430664,
+      "aligned": true
+    },
+    {
+      "word": "like",
+      "start": 100.44000244140625,
+      "end": 100.54000091552734,
+      "aligned": true
+    },
+    {
+      "word": "the",
+      "start": 100.54000091552734,
+      "end": 101.08000183105469,
+      "aligned": true
+    },
+    {
+      "word": "forest",
+      "start": 101.08000183105469,
+      "end": 101.08000183105469,
+      "aligned": true
+    },
+    {
+      "word": "itself",
+      "start": 101.08000183105469,
+      "end": 101.55999755859375,
+      "aligned": true
+    },
+    {
+      "word": "is",
+      "start": 101.55999755859375,
+      "end": 101.87999725341797,
+      "aligned": true
+    },
+    {
+      "word": "breathing.",
+      "start": 101.87999725341797,
+      "end": 102.0999984741211,
+      "aligned": true
+    },
+    {
+      "word": "My",
+      "start": 102.77999877929688,
+      "end": 102.94000244140625,
+      "aligned": true
+    },
+    {
+      "word": "own",
+      "start": 102.94000244140625,
+      "end": 103.33999633789062,
+      "aligned": true
+    },
+    {
+      "word": "footfalls",
+      "start": 103.33999633789062,
+      "end": 103.68000030517578,
+      "aligned": true
+    },
+    {
+      "word": "become",
+      "start": 103.68000030517578,
+      "end": 104.04000091552734,
+      "aligned": true
+    },
+    {
+      "word": "the",
+      "start": 104.04000091552734,
+      "end": 104.45999908447266,
+      "aligned": true
+    },
+    {
+      "word": "loudest",
+      "start": 104.45999908447266,
+      "end": 104.68000030517578,
+      "aligned": true
+    },
+    {
+      "word": "thing,",
+      "start": 104.68000030517578,
+      "end": 105.0199966430664,
+      "aligned": true
+    },
+    {
+      "word": "muffled",
+      "start": 105.58000183105469,
+      "end": 105.66000366210938,
+      "aligned": true
+    },
+    {
+      "word": "by",
+      "start": 105.66000366210938,
+      "end": 105.91999816894531,
+      "aligned": true
+    },
+    {
+      "word": "the",
+      "start": 105.91999816894531,
+      "end": 106.19999694824219,
+      "aligned": true
+    },
+    {
+      "word": "springy",
+      "start": 106.19999694824219,
+      "end": 106.68999862670898,
+      "aligned": false
+    },
+    {
+      "word": "groundcover",
+      "start": 106.68999862670898,
+      "end": 107.18000030517578,
+      "aligned": false
+    },
+    {
+      "word": "but",
+      "start": 107.18000030517578,
+      "end": 107.31999969482422,
+      "aligned": true
+    },
+    {
+      "word": "still",
+      "start": 107.31999969482422,
+      "end": 107.62000274658203,
+      "aligned": true
+    },
+    {
+      "word": "present.",
+      "start": 107.62000274658203,
+      "end": 108.05999755859375,
+      "aligned": true
+    },
+    {
+      "word": "Still",
+      "start": 108.81999969482422,
+      "end": 109.04000091552734,
+      "aligned": true
+    },
+    {
+      "word": "_very,",
+      "start": 109.04000091552734,
+      "end": 109.55999755859375,
+      "aligned": true
+    },
+    {
+      "word": "very_",
+      "start": 110.08000183105469,
+      "end": 110.08000183105469,
+      "aligned": true
+    },
+    {
+      "word": "alone.",
+      "start": 110.08000183105469,
+      "end": 110.33999633789062,
+      "aligned": true
+    },
+    {
+      "word": "I",
+      "start": 110.33999633789062,
+      "end": 110.86000061035156,
+      "aligned": true
+    },
+    {
+      "word": "ask",
+      "start": 110.86000061035156,
+      "end": 111.27999877929688,
+      "aligned": true
+    },
+    {
+      "word": "—",
+      "start": 111.27999877929688,
+      "end": 111.83999633789062,
+      "aligned": false
+    },
+    {
+      "word": "\"Buddy,",
+      "start": 111.83999633789062,
+      "end": 112.0199966430664,
+      "aligned": true
+    },
+    {
+      "word": "you",
+      "start": 112.26000213623047,
+      "end": 112.63999938964844,
+      "aligned": true
+    },
+    {
+      "word": "said",
+      "start": 112.63999938964844,
+      "end": 112.86000061035156,
+      "aligned": true
+    },
+    {
+      "word": "no",
+      "start": 112.86000061035156,
+      "end": 113.16000366210938,
+      "aligned": true
+    },
+    {
+      "word": "animal",
+      "start": 113.16000366210938,
+      "end": 113.36000061035156,
+      "aligned": true
+    },
+    {
+      "word": "life",
+      "start": 113.36000061035156,
+      "end": 113.72000122070312,
+      "aligned": true
+    },
+    {
+      "word": "detected,",
+      "start": 113.72000122070312,
+      "end": 114.12000274658203,
+      "aligned": true
+    },
+    {
+      "word": "right?\"",
+      "start": 114.44000244140625,
+      "end": 114.77999877929688,
+      "aligned": true
+    },
+    {
+      "word": "Buddy",
+      "start": 115.5999984741211,
+      "end": 115.73999786376953,
+      "aligned": true
+    },
+    {
+      "word": "—",
+      "start": 115.73999786376953,
+      "end": 116.33999633789062,
+      "aligned": false
+    },
+    {
+      "word": "\"Correct!",
+      "start": 116.33999633789062,
+      "end": 116.44000244140625,
+      "aligned": true
+    },
+    {
+      "word": "The",
+      "start": 116.86000061035156,
+      "end": 116.87999725341797,
+      "aligned": true
+    },
+    {
+      "word": "ecosystem",
+      "start": 116.87999725341797,
+      "end": 117.45999908447266,
+      "aligned": true
+    },
+    {
+      "word": "appears",
+      "start": 117.45999908447266,
+      "end": 118,
+      "aligned": true
+    },
+    {
+      "word": "entirely",
+      "start": 118,
+      "end": 118.5999984741211,
+      "aligned": true
+    },
+    {
+      "word": "plant-based!",
+      "start": 118.5999984741211,
+      "end": 119.91999816894531,
+      "aligned": false
+    },
+    {
+      "word": "Fascinating,",
+      "start": 119.91999816894531,
+      "end": 120.16000366210938,
+      "aligned": true
+    },
+    {
+      "word": "really",
+      "start": 120.4000015258789,
+      "end": 120.73999786376953,
+      "aligned": true
+    },
+    {
+      "word": "—",
+      "start": 120.73999786376953,
+      "end": 121.18000030517578,
+      "aligned": false
+    },
+    {
+      "word": "on",
+      "start": 121.18000030517578,
+      "end": 121.37999725341797,
+      "aligned": true
+    },
+    {
+      "word": "Earth,",
+      "start": 121.37999725341797,
+      "end": 121.63999938964844,
+      "aligned": true
+    },
+    {
+      "word": "animals",
+      "start": 122.36000061035156,
+      "end": 122.36000061035156,
+      "aligned": true
+    },
+    {
+      "word": "fill",
+      "start": 122.36000061035156,
+      "end": 122.72000122070312,
+      "aligned": true
+    },
+    {
+      "word": "numerous",
+      "start": 122.72000122070312,
+      "end": 123.18000030517578,
+      "aligned": true
+    },
+    {
+      "word": "ecological",
+      "start": 123.18000030517578,
+      "end": 123.91999816894531,
+      "aligned": true
+    },
+    {
+      "word": "niches,",
+      "start": 123.91999816894531,
+      "end": 124.41999816894531,
+      "aligned": true
+    },
+    {
+      "word": "but",
+      "start": 124.77999877929688,
+      "end": 124.86000061035156,
+      "aligned": true
+    },
+    {
+      "word": "here",
+      "start": 124.86000061035156,
+      "end": 125.16000366210938,
+      "aligned": true
+    },
+    {
+      "word": "it",
+      "start": 125.16000366210938,
+      "end": 125.41999816894531,
+      "aligned": true
+    },
+    {
+      "word": "seems",
+      "start": 125.41999816894531,
+      "end": 125.62000274658203,
+      "aligned": true
+    },
+    {
+      "word": "the",
+      "start": 125.62000274658203,
+      "end": 126.04000091552734,
+      "aligned": true
+    },
+    {
+      "word": "plant",
+      "start": 126.04000091552734,
+      "end": 126.08000183105469,
+      "aligned": true
+    },
+    {
+      "word": "life",
+      "start": 126.08000183105469,
+      "end": 126.31999969482422,
+      "aligned": true
+    },
+    {
+      "word": "has",
+      "start": 126.31999969482422,
+      "end": 126.5999984741211,
+      "aligned": true
+    },
+    {
+      "word": "adapted",
+      "start": 126.5999984741211,
+      "end": 126.91999816894531,
+      "aligned": true
+    },
+    {
+      "word": "to—\"",
+      "start": 126.91999816894531,
+      "end": 127.33999633789062,
+      "aligned": true
+    },
+    {
+      "word": "I",
+      "start": 127.72000122070312,
+      "end": 127.77999877929688,
+      "aligned": true
+    },
+    {
+      "word": "cut",
+      "start": 127.77999877929688,
+      "end": 127.9800033569336,
+      "aligned": true
+    },
+    {
+      "word": "him",
+      "start": 127.9800033569336,
+      "end": 128.16000366210938,
+      "aligned": true
+    },
+    {
+      "word": "off",
+      "start": 128.16000366210938,
+      "end": 128.4199981689453,
+      "aligned": true
+    },
+    {
+      "word": "—",
+      "start": 128.4199981689453,
+      "end": 128.86000061035156,
+      "aligned": false
+    },
+    {
+      "word": "\"So",
+      "start": 128.86000061035156,
+      "end": 129,
+      "aligned": true
+    },
+    {
+      "word": "it's",
+      "start": 129,
+      "end": 129.17999267578125,
+      "aligned": true
+    },
+    {
+      "word": "just…",
+      "start": 129.17999267578125,
+      "end": 129.60000610351562,
+      "aligned": true
+    },
+    {
+      "word": "quiet.",
+      "start": 129.60000610351562,
+      "end": 129.97999572753906,
+      "aligned": true
+    },
+    {
+      "word": "No",
+      "start": 130.4600067138672,
+      "end": 130.6999969482422,
+      "aligned": true
+    },
+    {
+      "word": "animals",
+      "start": 130.6999969482422,
+      "end": 131.10000610351562,
+      "aligned": true
+    },
+    {
+      "word": "means",
+      "start": 131.10000610351562,
+      "end": 131.44000244140625,
+      "aligned": true
+    },
+    {
+      "word": "no",
+      "start": 131.44000244140625,
+      "end": 131.8000030517578,
+      "aligned": true
+    },
+    {
+      "word": "animal",
+      "start": 131.8000030517578,
+      "end": 132.10000610351562,
+      "aligned": true
+    },
+    {
+      "word": "sounds.\"",
+      "start": 132.10000610351562,
+      "end": 132.55999755859375,
+      "aligned": true
+    },
+    {
+      "word": "\"Exactly!",
+      "start": 133.24000549316406,
+      "end": 133.6199951171875,
+      "aligned": true
+    },
+    {
+      "word": "Though",
+      "start": 134.0800018310547,
+      "end": 134.44000244140625,
+      "aligned": true
+    },
+    {
+      "word": "plant-based",
+      "start": 134.44000244140625,
+      "end": 134.9600067138672,
+      "aligned": false
+    },
+    {
+      "word": "ecosystems",
+      "start": 134.9600067138672,
+      "end": 135.5800018310547,
+      "aligned": true
+    },
+    {
+      "word": "can",
+      "start": 135.5800018310547,
+      "end": 136.02000427246094,
+      "aligned": true
+    },
+    {
+      "word": "create",
+      "start": 136.02000427246094,
+      "end": 136.32000732421875,
+      "aligned": true
+    },
+    {
+      "word": "their",
+      "start": 136.32000732421875,
+      "end": 136.5800018310547,
+      "aligned": true
+    },
+    {
+      "word": "own",
+      "start": 136.5800018310547,
+      "end": 136.94000244140625,
+      "aligned": true
+    },
+    {
+      "word": "acoustic",
+      "start": 136.94000244140625,
+      "end": 137.33999633789062,
+      "aligned": true
+    },
+    {
+      "word": "environments",
+      "start": 137.33999633789062,
+      "end": 137.8800048828125,
+      "aligned": true
+    },
+    {
+      "word": "through—\"",
+      "start": 137.8800048828125,
+      "end": 138.33999633789062,
+      "aligned": true
+    },
+    {
+      "word": "I",
+      "start": 138.77999877929688,
+      "end": 139.1199951171875,
+      "aligned": true
+    },
+    {
+      "word": "tune",
+      "start": 139.1199951171875,
+      "end": 139.36000061035156,
+      "aligned": true
+    },
+    {
+      "word": "him",
+      "start": 139.36000061035156,
+      "end": 139.5800018310547,
+      "aligned": true
+    },
+    {
+      "word": "out,",
+      "start": 139.5800018310547,
+      "end": 139.97999572753906,
+      "aligned": true
+    },
+    {
+      "word": "focusing",
+      "start": 140.47999572753906,
+      "end": 140.47999572753906,
+      "aligned": true
+    },
+    {
+      "word": "on",
+      "start": 140.47999572753906,
+      "end": 140.72000122070312,
+      "aligned": true
+    },
+    {
+      "word": "the",
+      "start": 140.72000122070312,
+      "end": 140.9199981689453,
+      "aligned": true
+    },
+    {
+      "word": "silence.",
+      "start": 140.9199981689453,
+      "end": 141.3000030517578,
+      "aligned": true
+    },
+    {
+      "word": "It's",
+      "start": 141.94000244140625,
+      "end": 142.10000610351562,
+      "aligned": true
+    },
+    {
+      "word": "beautiful",
+      "start": 142.10000610351562,
+      "end": 142.47999572753906,
+      "aligned": true
+    },
+    {
+      "word": "in",
+      "start": 142.47999572753906,
+      "end": 142.72000122070312,
+      "aligned": true
+    },
+    {
+      "word": "a",
+      "start": 142.72000122070312,
+      "end": 142.89999389648438,
+      "aligned": true
+    },
+    {
+      "word": "way",
+      "start": 142.89999389648438,
+      "end": 142.97999572753906,
+      "aligned": true
+    },
+    {
+      "word": "—",
+      "start": 142.97999572753906,
+      "end": 143.55999755859375,
+      "aligned": false
+    },
+    {
+      "word": "peaceful,",
+      "start": 143.55999755859375,
+      "end": 143.66000366210938,
+      "aligned": true
+    },
+    {
+      "word": "but",
+      "start": 144.1999969482422,
+      "end": 144.32000732421875,
+      "aligned": true
+    },
+    {
+      "word": "also",
+      "start": 144.32000732421875,
+      "end": 144.72000122070312,
+      "aligned": true
+    },
+    {
+      "word": "wrong.",
+      "start": 144.72000122070312,
+      "end": 145.05999755859375,
+      "aligned": true
+    },
+    {
+      "word": "Earth",
+      "start": 145.74000549316406,
+      "end": 145.75999450683594,
+      "aligned": true
+    },
+    {
+      "word": "forests",
+      "start": 145.75999450683594,
+      "end": 146.1199951171875,
+      "aligned": true
+    },
+    {
+      "word": "are",
+      "start": 146.1199951171875,
+      "end": 146.5,
+      "aligned": true
+    },
+    {
+      "word": "never",
+      "start": 146.5,
+      "end": 146.74000549316406,
+      "aligned": true
+    },
+    {
+      "word": "this",
+      "start": 146.74000549316406,
+      "end": 147.10000610351562,
+      "aligned": true
+    },
+    {
+      "word": "quiet.",
+      "start": 147.10000610351562,
+      "end": 147.3800048828125,
+      "aligned": true
+    },
+    {
+      "word": "There's",
+      "start": 147.82000732421875,
+      "end": 148.05999755859375,
+      "aligned": true
+    },
+    {
+      "word": "always",
+      "start": 148.05999755859375,
+      "end": 148.47999572753906,
+      "aligned": true
+    },
+    {
+      "word": "something:",
+      "start": 148.47999572753906,
+      "end": 148.89999389648438,
+      "aligned": true
+    },
+    {
+      "word": "birds,",
+      "start": 149.66000366210938,
+      "end": 149.66000366210938,
+      "aligned": true
+    },
+    {
+      "word": "insects,",
+      "start": 150.3800048828125,
+      "end": 150.3800048828125,
+      "aligned": true
+    },
+    {
+      "word": "wind",
+      "start": 151,
+      "end": 151.05999755859375,
+      "aligned": true
+    },
+    {
+      "word": "rattling",
+      "start": 151.05999755859375,
+      "end": 151.5,
+      "aligned": true
+    },
+    {
+      "word": "dry",
+      "start": 151.5,
+      "end": 151.94000244140625,
+      "aligned": true
+    },
+    {
+      "word": "leaves,",
+      "start": 151.94000244140625,
+      "end": 152.24000549316406,
+      "aligned": true
+    },
+    {
+      "word": "water",
+      "start": 152.8800048828125,
+      "end": 152.8800048828125,
+      "aligned": true
+    },
+    {
+      "word": "somewhere.",
+      "start": 152.8800048828125,
+      "end": 153.39999389648438,
+      "aligned": true
+    },
+    {
+      "word": "Here",
+      "start": 153.83999633789062,
+      "end": 154.0800018310547,
+      "aligned": true
+    },
+    {
+      "word": "there's",
+      "start": 154.0800018310547,
+      "end": 154.33999633789062,
+      "aligned": true
+    },
+    {
+      "word": "just",
+      "start": 154.33999633789062,
+      "end": 154.66000366210938,
+      "aligned": true
+    },
+    {
+      "word": "that",
+      "start": 154.66000366210938,
+      "end": 154.97999572753906,
+      "aligned": true
+    },
+    {
+      "word": "soft",
+      "start": 154.97999572753906,
+      "end": 155.3000030517578,
+      "aligned": true
+    },
+    {
+      "word": "breathing",
+      "start": 155.3000030517578,
+      "end": 155.66000366210938,
+      "aligned": true
+    },
+    {
+      "word": "of",
+      "start": 155.66000366210938,
+      "end": 156,
+      "aligned": true
+    },
+    {
+      "word": "thick",
+      "start": 156,
+      "end": 156.32000732421875,
+      "aligned": true
+    },
+    {
+      "word": "leaves",
+      "start": 156.32000732421875,
+      "end": 156.55999755859375,
+      "aligned": true
+    },
+    {
+      "word": "and",
+      "start": 156.55999755859375,
+      "end": 156.83999633789062,
+      "aligned": true
+    },
+    {
+      "word": "my",
+      "start": 156.83999633789062,
+      "end": 157.0800018310547,
+      "aligned": true
+    },
+    {
+      "word": "own",
+      "start": 157.0800018310547,
+      "end": 157.4199981689453,
+      "aligned": true
+    },
+    {
+      "word": "footsteps.",
+      "start": 157.4199981689453,
+      "end": 157.82000732421875,
+      "aligned": true
+    },
+    {
+      "word": "The",
+      "start": 158.3800048828125,
+      "end": 158.66000366210938,
+      "aligned": true
+    },
+    {
+      "word": "forest",
+      "start": 158.66000366210938,
+      "end": 158.97999572753906,
+      "aligned": true
+    },
+    {
+      "word": "floor",
+      "start": 158.97999572753906,
+      "end": 159.3000030517578,
+      "aligned": true
+    },
+    {
+      "word": "is",
+      "start": 159.3000030517578,
+      "end": 159.63999938964844,
+      "aligned": true
+    },
+    {
+      "word": "oddly",
+      "start": 159.63999938964844,
+      "end": 159.97999572753906,
+      "aligned": true
+    },
+    {
+      "word": "clear,",
+      "start": 159.97999572753906,
+      "end": 160.27999877929688,
+      "aligned": true
+    },
+    {
+      "word": "too.",
+      "start": 160.27999877929688,
+      "end": 160.66000366210938,
+      "aligned": true
+    },
+    {
+      "word": "No",
+      "start": 161.05999755859375,
+      "end": 161.25999450683594,
+      "aligned": true
+    },
+    {
+      "word": "undergrowth",
+      "start": 161.25999450683594,
+      "end": 161.77999877929688,
+      "aligned": true
+    },
+    {
+      "word": "tangling",
+      "start": 161.77999877929688,
+      "end": 162.1999969482422,
+      "aligned": true
+    },
+    {
+      "word": "my",
+      "start": 162.1999969482422,
+      "end": 162.60000610351562,
+      "aligned": true
+    },
+    {
+      "word": "feet,",
+      "start": 162.60000610351562,
+      "end": 162.75999450683594,
+      "aligned": true
+    },
+    {
+      "word": "no",
+      "start": 163.1199951171875,
+      "end": 163.4199981689453,
+      "aligned": true
+    },
+    {
+      "word": "fallen",
+      "start": 163.4199981689453,
+      "end": 163.67999267578125,
+      "aligned": true
+    },
+    {
+      "word": "branches",
+      "start": 163.67999267578125,
+      "end": 164.05999755859375,
+      "aligned": true
+    },
+    {
+      "word": "to",
+      "start": 164.05999755859375,
+      "end": 164.72000122070312,
+      "aligned": true
+    },
+    {
+      "word": "navigate",
+      "start": 164.72000122070312,
+      "end": 164.72000122070312,
+      "aligned": true
+    },
+    {
+      "word": "around.",
+      "start": 164.72000122070312,
+      "end": 165.05999755859375,
+      "aligned": true
+    },
+    {
+      "word": "Just",
+      "start": 165.47999572753906,
+      "end": 165.82000732421875,
+      "aligned": true
+    },
+    {
+      "word": "the",
+      "start": 165.82000732421875,
+      "end": 166.17999267578125,
+      "aligned": true
+    },
+    {
+      "word": "purple-black",
+      "start": 166.17999267578125,
+      "end": 166.70999908447266,
+      "aligned": false
+    },
+    {
+      "word": "groundcover",
+      "start": 166.70999908447266,
+      "end": 167.24000549316406,
+      "aligned": false
+    },
+    {
+      "word": "and",
+      "start": 167.24000549316406,
+      "end": 167.6199951171875,
+      "aligned": true
+    },
+    {
+      "word": "those",
+      "start": 167.6199951171875,
+      "end": 167.9199981689453,
+      "aligned": true
+    },
+    {
+      "word": "massive",
+      "start": 167.9199981689453,
+      "end": 168.36000061035156,
+      "aligned": true
+    },
+    {
+      "word": "trees,",
+      "start": 168.36000061035156,
+      "end": 168.8000030517578,
+      "aligned": true
+    },
+    {
+      "word": "spaced",
+      "start": 168.8000030517578,
+      "end": 169.5,
+      "aligned": true
+    },
+    {
+      "word": "far",
+      "start": 169.5,
+      "end": 169.9199981689453,
+      "aligned": true
+    },
+    {
+      "word": "enough",
+      "start": 169.9199981689453,
+      "end": 170.10000610351562,
+      "aligned": true
+    },
+    {
+      "word": "apart",
+      "start": 170.10000610351562,
+      "end": 170.4199981689453,
+      "aligned": true
+    },
+    {
+      "word": "that",
+      "start": 170.4199981689453,
+      "end": 170.75999450683594,
+      "aligned": true
+    },
+    {
+      "word": "walking",
+      "start": 170.75999450683594,
+      "end": 171.02000427246094,
+      "aligned": true
+    },
+    {
+      "word": "between",
+      "start": 171.02000427246094,
+      "end": 171.39999389648438,
+      "aligned": true
+    },
+    {
+      "word": "them",
+      "start": 171.39999389648438,
+      "end": 171.60000610351562,
+      "aligned": true
+    },
+    {
+      "word": "is",
+      "start": 171.60000610351562,
+      "end": 171.89999389648438,
+      "aligned": true
+    },
+    {
+      "word": "easy.",
+      "start": 171.89999389648438,
+      "end": 172.22000122070312,
+      "aligned": true
+    },
+    {
+      "word": "Almost",
+      "start": 173.6199951171875,
+      "end": 173.63999938964844,
+      "aligned": true
+    },
+    {
+      "word": "like",
+      "start": 173.63999938964844,
+      "end": 173.9199981689453,
+      "aligned": true
+    },
+    {
+      "word": "someone",
+      "start": 173.9199981689453,
+      "end": 174.22000122070312,
+      "aligned": true
+    },
+    {
+      "word": "maintains",
+      "start": 174.22000122070312,
+      "end": 174.67999267578125,
+      "aligned": true
+    },
+    {
+      "word": "it.",
+      "start": 174.67999267578125,
+      "end": 174.97999572753906,
+      "aligned": true
+    },
+    {
+      "word": "That",
+      "start": 175.47999572753906,
+      "end": 175.5800018310547,
+      "aligned": true
+    },
+    {
+      "word": "thought",
+      "start": 175.5800018310547,
+      "end": 175.9199981689453,
+      "aligned": true
+    },
+    {
+      "word": "makes",
+      "start": 175.9199981689453,
+      "end": 176.1199951171875,
+      "aligned": true
+    },
+    {
+      "word": "me",
+      "start": 176.1199951171875,
+      "end": 176.4199981689453,
+      "aligned": true
+    },
+    {
+      "word": "uneasy,",
+      "start": 176.4199981689453,
+      "end": 176.72000122070312,
+      "aligned": true
+    },
+    {
+      "word": "but",
+      "start": 177,
+      "end": 177.0399932861328,
+      "aligned": true
+    },
+    {
+      "word": "I",
+      "start": 177.0399932861328,
+      "end": 177.27999877929688,
+      "aligned": true
+    },
+    {
+      "word": "push",
+      "start": 177.27999877929688,
+      "end": 177.39999389648438,
+      "aligned": true
+    },
+    {
+      "word": "it",
+      "start": 177.39999389648438,
+      "end": 177.72000122070312,
+      "aligned": true
+    },
+    {
+      "word": "down.",
+      "start": 177.72000122070312,
+      "end": 177.83999633789062,
+      "aligned": true
+    },
+    {
+      "word": "I",
+      "start": 178.22000122070312,
+      "end": 178.25999450683594,
+      "aligned": true
+    },
+    {
+      "word": "keep",
+      "start": 178.25999450683594,
+      "end": 178.55999755859375,
+      "aligned": true
+    },
+    {
+      "word": "walking.",
+      "start": 178.55999755859375,
+      "end": 178.89999389648438,
+      "aligned": true
+    },
+    {
+      "word": "The",
+      "start": 179.5399932861328,
+      "end": 179.72000122070312,
+      "aligned": true
+    },
+    {
+      "word": "equipment",
+      "start": 179.72000122070312,
+      "end": 179.97999572753906,
+      "aligned": true
+    },
+    {
+      "word": "bag",
+      "start": 179.97999572753906,
+      "end": 180.44000244140625,
+      "aligned": true
+    },
+    {
+      "word": "digs",
+      "start": 180.44000244140625,
+      "end": 180.75999450683594,
+      "aligned": true
+    },
+    {
+      "word": "into",
+      "start": 180.75999450683594,
+      "end": 180.89999389648438,
+      "aligned": true
+    },
+    {
+      "word": "my",
+      "start": 180.89999389648438,
+      "end": 181.4600067138672,
+      "aligned": true
+    },
+    {
+      "word": "shoulder.",
+      "start": 181.4600067138672,
+      "end": 181.4600067138672,
+      "aligned": true
+    },
+    {
+      "word": "The",
+      "start": 181.94000244140625,
+      "end": 182.05999755859375,
+      "aligned": true
+    },
+    {
+      "word": "air",
+      "start": 182.05999755859375,
+      "end": 182.27999877929688,
+      "aligned": true
+    },
+    {
+      "word": "is",
+      "start": 182.27999877929688,
+      "end": 182.83999633789062,
+      "aligned": true
+    },
+    {
+      "word": "thick—humid",
+      "start": 182.83999633789062,
+      "end": 183.5399932861328,
+      "aligned": false
+    },
+    {
+      "word": "in",
+      "start": 183.5399932861328,
+      "end": 183.74000549316406,
+      "aligned": true
+    },
+    {
+      "word": "a",
+      "start": 183.74000549316406,
+      "end": 184.02000427246094,
+      "aligned": true
+    },
+    {
+      "word": "way",
+      "start": 184.02000427246094,
+      "end": 184.02000427246094,
+      "aligned": true
+    },
+    {
+      "word": "that",
+      "start": 184.02000427246094,
+      "end": 184.3000030517578,
+      "aligned": true
+    },
+    {
+      "word": "makes",
+      "start": 184.3000030517578,
+      "end": 184.32000732421875,
+      "aligned": true
+    },
+    {
+      "word": "my",
+      "start": 184.32000732421875,
+      "end": 184.6999969482422,
+      "aligned": true
+    },
+    {
+      "word": "skin",
+      "start": 184.6999969482422,
+      "end": 184.75999450683594,
+      "aligned": true
+    },
+    {
+      "word": "feel",
+      "start": 184.75999450683594,
+      "end": 185.16000366210938,
+      "aligned": true
+    },
+    {
+      "word": "damp,",
+      "start": 185.16000366210938,
+      "end": 185.39999389648438,
+      "aligned": true
+    },
+    {
+      "word": "my",
+      "start": 185.82000732421875,
+      "end": 185.9600067138672,
+      "aligned": true
+    },
+    {
+      "word": "hair",
+      "start": 185.9600067138672,
+      "end": 186.22000122070312,
+      "aligned": true
+    },
+    {
+      "word": "already",
+      "start": 186.22000122070312,
+      "end": 186.82000732421875,
+      "aligned": true
+    },
+    {
+      "word": "curling",
+      "start": 186.82000732421875,
+      "end": 187.13999938964844,
+      "aligned": true
+    },
+    {
+      "word": "with",
+      "start": 187.13999938964844,
+      "end": 187.44000244140625,
+      "aligned": true
+    },
+    {
+      "word": "moisture.",
+      "start": 187.44000244140625,
+      "end": 187.75999450683594,
+      "aligned": true
+    },
+    {
+      "word": "It",
+      "start": 188.4600067138672,
+      "end": 188.77999877929688,
+      "aligned": true
+    },
+    {
+      "word": "smells",
+      "start": 188.77999877929688,
+      "end": 189.02000427246094,
+      "aligned": true
+    },
+    {
+      "word": "like",
+      "start": 189.02000427246094,
+      "end": 189.44000244140625,
+      "aligned": true
+    },
+    {
+      "word": "growing",
+      "start": 189.44000244140625,
+      "end": 189.75999450683594,
+      "aligned": true
+    },
+    {
+      "word": "things:",
+      "start": 189.75999450683594,
+      "end": 190.25999450683594,
+      "aligned": true
+    },
+    {
+      "word": "sweet",
+      "start": 191.10000610351562,
+      "end": 191.13999938964844,
+      "aligned": true
+    },
+    {
+      "word": "and",
+      "start": 191.13999938964844,
+      "end": 191.6999969482422,
+      "aligned": true
+    },
+    {
+      "word": "earthy",
+      "start": 191.6999969482422,
+      "end": 191.9600067138672,
+      "aligned": true
+    },
+    {
+      "word": "and",
+      "start": 191.9600067138672,
+      "end": 192.32000732421875,
+      "aligned": true
+    },
+    {
+      "word": "floral",
+      "start": 192.32000732421875,
+      "end": 192.5800018310547,
+      "aligned": true
+    },
+    {
+      "word": "all",
+      "start": 192.5800018310547,
+      "end": 193.0399932861328,
+      "aligned": true
+    },
+    {
+      "word": "at",
+      "start": 193.0399932861328,
+      "end": 193.3800048828125,
+      "aligned": true
+    },
+    {
+      "word": "once,",
+      "start": 193.3800048828125,
+      "end": 193.4600067138672,
+      "aligned": true
+    },
+    {
+      "word": "with",
+      "start": 193.4600067138672,
+      "end": 193.66000366210938,
+      "aligned": true
+    },
+    {
+      "word": "an",
+      "start": 193.66000366210938,
+      "end": 194.02000427246094,
+      "aligned": true
+    },
+    {
+      "word": "edge",
+      "start": 194.02000427246094,
+      "end": 194.02000427246094,
+      "aligned": true
+    },
+    {
+      "word": "of",
+      "start": 194.02000427246094,
+      "end": 194.27999877929688,
+      "aligned": true
+    },
+    {
+      "word": "something",
+      "start": 194.27999877929688,
+      "end": 194.63999938964844,
+      "aligned": true
+    },
+    {
+      "word": "unfamiliar",
+      "start": 194.63999938964844,
+      "end": 195.1999969482422,
+      "aligned": true
+    },
+    {
+      "word": "underneath—not",
+      "start": 195.1999969482422,
+      "end": 196.38999938964844,
+      "aligned": false
+    },
+    {
+      "word": "bad—just…",
+      "start": 196.38999938964844,
+      "end": 197.5800018310547,
+      "aligned": false
+    },
+    {
+      "word": "other.",
+      "start": 197.5800018310547,
+      "end": 198.36000061035156,
+      "aligned": true
+    },
+    {
+      "word": "The",
+      "start": 198.9600067138672,
+      "end": 198.97999572753906,
+      "aligned": true
+    },
+    {
+      "word": "light",
+      "start": 198.97999572753906,
+      "end": 199.39999389648438,
+      "aligned": true
+    },
+    {
+      "word": "shifts",
+      "start": 199.39999389648438,
+      "end": 199.6999969482422,
+      "aligned": true
+    },
+    {
+      "word": "as",
+      "start": 199.6999969482422,
+      "end": 199.8800048828125,
+      "aligned": true
+    },
+    {
+      "word": "I",
+      "start": 199.8800048828125,
+      "end": 200.0800018310547,
+      "aligned": true
+    },
+    {
+      "word": "move",
+      "start": 200.0800018310547,
+      "end": 200.27999877929688,
+      "aligned": true
+    },
+    {
+      "word": "deeper",
+      "start": 200.27999877929688,
+      "end": 200.6999969482422,
+      "aligned": true
+    },
+    {
+      "word": "into",
+      "start": 200.6999969482422,
+      "end": 200.9199981689453,
+      "aligned": true
+    },
+    {
+      "word": "the",
+      "start": 200.9199981689453,
+      "end": 201.5399932861328,
+      "aligned": true
+    },
+    {
+      "word": "forest.",
+      "start": 201.5399932861328,
+      "end": 201.5399932861328,
+      "aligned": true
+    },
+    {
+      "word": "Filtered",
+      "start": 202.4199981689453,
+      "end": 202.66000366210938,
+      "aligned": true
+    },
+    {
+      "word": "through",
+      "start": 202.66000366210938,
+      "end": 202.75999450683594,
+      "aligned": true
+    },
+    {
+      "word": "that",
+      "start": 202.75999450683594,
+      "end": 203.05999755859375,
+      "aligned": true
+    },
+    {
+      "word": "purple",
+      "start": 203.05999755859375,
+      "end": 203.27999877929688,
+      "aligned": true
+    },
+    {
+      "word": "canopy,",
+      "start": 203.27999877929688,
+      "end": 203.6999969482422,
+      "aligned": true
+    },
+    {
+      "word": "everything",
+      "start": 204.24000549316406,
+      "end": 204.72000122070312,
+      "aligned": true
+    },
+    {
+      "word": "takes",
+      "start": 204.72000122070312,
+      "end": 205.05999755859375,
+      "aligned": true
+    },
+    {
+      "word": "on",
+      "start": 205.05999755859375,
+      "end": 205.47999572753906,
+      "aligned": true
+    },
+    {
+      "word": "dreamlike",
+      "start": 205.47999572753906,
+      "end": 205.9600067138672,
+      "aligned": false
+    },
+    {
+      "word": "lavender",
+      "start": 205.9600067138672,
+      "end": 206.39999389648438,
+      "aligned": true
+    },
+    {
+      "word": "tones.",
+      "start": 206.39999389648438,
+      "end": 206.83999633789062,
+      "aligned": true
+    },
+    {
+      "word": "Shadows",
+      "start": 207.75999450683594,
+      "end": 207.75999450683594,
+      "aligned": true
+    },
+    {
+      "word": "aren't",
+      "start": 207.75999450683594,
+      "end": 208.55332946777344,
+      "aligned": false
+    },
+    {
+      "word": "gray—they're",
+      "start": 208.55332946777344,
+      "end": 209.34666442871094,
+      "aligned": false
+    },
+    {
+      "word": "purple-black,",
+      "start": 209.34666442871094,
+      "end": 210.13999938964844,
+      "aligned": false
+    },
+    {
+      "word": "deep",
+      "start": 210.13999938964844,
+      "end": 210.22000122070312,
+      "aligned": true
+    },
+    {
+      "word": "and",
+      "start": 210.22000122070312,
+      "end": 210.5800018310547,
+      "aligned": true
+    },
+    {
+      "word": "soft.",
+      "start": 210.5800018310547,
+      "end": 210.9199981689453,
+      "aligned": true
+    },
+    {
+      "word": "I",
+      "start": 211.36000061035156,
+      "end": 211.52000427246094,
+      "aligned": true
+    },
+    {
+      "word": "pass",
+      "start": 211.52000427246094,
+      "end": 211.72000122070312,
+      "aligned": true
+    },
+    {
+      "word": "a",
+      "start": 211.72000122070312,
+      "end": 212.1199951171875,
+      "aligned": true
+    },
+    {
+      "word": "tree",
+      "start": 212.1199951171875,
+      "end": 212.1199951171875,
+      "aligned": true
+    },
+    {
+      "word": "whose",
+      "start": 212.1199951171875,
+      "end": 212.36000061035156,
+      "aligned": true
+    },
+    {
+      "word": "branches",
+      "start": 212.36000061035156,
+      "end": 212.67999267578125,
+      "aligned": true
+    },
+    {
+      "word": "twist",
+      "start": 212.67999267578125,
+      "end": 213.13999938964844,
+      "aligned": true
+    },
+    {
+      "word": "back",
+      "start": 213.13999938964844,
+      "end": 213.60000610351562,
+      "aligned": true
+    },
+    {
+      "word": "toward",
+      "start": 213.60000610351562,
+      "end": 213.67999267578125,
+      "aligned": true
+    },
+    {
+      "word": "the",
+      "start": 213.67999267578125,
+      "end": 214.13999938964844,
+      "aligned": true
+    },
+    {
+      "word": "trunk",
+      "start": 214.13999938964844,
+      "end": 214.13999938964844,
+      "aligned": true
+    },
+    {
+      "word": "in",
+      "start": 214.13999938964844,
+      "end": 214.32000732421875,
+      "aligned": true
+    },
+    {
+      "word": "a",
+      "start": 214.32000732421875,
+      "end": 214.5399932861328,
+      "aligned": true
+    },
+    {
+      "word": "way",
+      "start": 214.5399932861328,
+      "end": 214.5399932861328,
+      "aligned": true
+    },
+    {
+      "word": "that",
+      "start": 214.5399932861328,
+      "end": 214.72000122070312,
+      "aligned": true
+    },
+    {
+      "word": "makes",
+      "start": 214.72000122070312,
+      "end": 214.86000061035156,
+      "aligned": true
+    },
+    {
+      "word": "my",
+      "start": 214.86000061035156,
+      "end": 215.16000366210938,
+      "aligned": true
+    },
+    {
+      "word": "brain",
+      "start": 215.16000366210938,
+      "end": 215.47999572753906,
+      "aligned": true
+    },
+    {
+      "word": "itch—wrong:",
+      "start": 215.47999572753906,
+      "end": 216.89999389648438,
+      "aligned": false
+    },
+    {
+      "word": "the",
+      "start": 216.89999389648438,
+      "end": 217.1199951171875,
+      "aligned": true
+    },
+    {
+      "word": "shapes",
+      "start": 217.1199951171875,
+      "end": 217.3000030517578,
+      "aligned": true
+    },
+    {
+      "word": "are",
+      "start": 217.3000030517578,
+      "end": 217.63999938964844,
+      "aligned": true
+    },
+    {
+      "word": "tree-like",
+      "start": 217.63999938964844,
+      "end": 218.13999938964844,
+      "aligned": false
+    },
+    {
+      "word": "enough",
+      "start": 218.13999938964844,
+      "end": 218.4199981689453,
+      "aligned": true
+    },
+    {
+      "word": "to",
+      "start": 218.4199981689453,
+      "end": 218.60000610351562,
+      "aligned": true
+    },
+    {
+      "word": "be",
+      "start": 218.60000610351562,
+      "end": 218.86000061035156,
+      "aligned": true
+    },
+    {
+      "word": "familiar",
+      "start": 218.86000061035156,
+      "end": 219.1999969482422,
+      "aligned": true
+    },
+    {
+      "word": "but",
+      "start": 219.60000610351562,
+      "end": 219.8800048828125,
+      "aligned": true
+    },
+    {
+      "word": "alien",
+      "start": 219.8800048828125,
+      "end": 220.22000122070312,
+      "aligned": true
+    },
+    {
+      "word": "enough",
+      "start": 220.22000122070312,
+      "end": 220.5,
+      "aligned": true
+    },
+    {
+      "word": "to",
+      "start": 220.5,
+      "end": 220.97999572753906,
+      "aligned": true
+    },
+    {
+      "word": "remind",
+      "start": 220.97999572753906,
+      "end": 220.97999572753906,
+      "aligned": true
+    },
+    {
+      "word": "me",
+      "start": 220.97999572753906,
+      "end": 221.22000122070312,
+      "aligned": true
+    },
+    {
+      "word": "constantly:",
+      "start": 221.22000122070312,
+      "end": 221.74000549316406,
+      "aligned": true
+    },
+    {
+      "word": "you're",
+      "start": 222.17999267578125,
+      "end": 222.36000061035156,
+      "aligned": true
+    },
+    {
+      "word": "not",
+      "start": 222.36000061035156,
+      "end": 222.55999755859375,
+      "aligned": true
+    },
+    {
+      "word": "home.",
+      "start": 222.55999755859375,
+      "end": 222.8000030517578,
+      "aligned": true
+    },
+    {
+      "word": "Buddy,",
+      "start": 223.52000427246094,
+      "end": 223.8800048828125,
+      "aligned": true
+    },
+    {
+      "word": "delighted",
+      "start": 224.16000366210938,
+      "end": 224.5,
+      "aligned": true
+    },
+    {
+      "word": "—",
+      "start": 224.5,
+      "end": 224.9199981689453,
+      "aligned": false
+    },
+    {
+      "word": "\"Kira,",
+      "start": 224.9199981689453,
+      "end": 225.25999450683594,
+      "aligned": true
+    },
+    {
+      "word": "I'm",
+      "start": 225.44000244140625,
+      "end": 225.83999633789062,
+      "aligned": true
+    },
+    {
+      "word": "detecting",
+      "start": 225.83999633789062,
+      "end": 225.83999633789062,
+      "aligned": true
+    },
+    {
+      "word": "some",
+      "start": 225.83999633789062,
+      "end": 226.33999633789062,
+      "aligned": true
+    },
+    {
+      "word": "interesting",
+      "start": 226.33999633789062,
+      "end": 226.63999938964844,
+      "aligned": true
+    },
+    {
+      "word": "atmospheric",
+      "start": 226.63999938964844,
+      "end": 227.17999267578125,
+      "aligned": true
+    },
+    {
+      "word": "data!",
+      "start": 227.17999267578125,
+      "end": 227.5399932861328,
+      "aligned": true
+    },
+    {
+      "word": "The",
+      "start": 228.05999755859375,
+      "end": 228.10000610351562,
+      "aligned": true
+    },
+    {
+      "word": "oxygen-nitrogen",
+      "start": 228.10000610351562,
+      "end": 228.9600067138672,
+      "aligned": false
+    },
+    {
+      "word": "ratio",
+      "start": 228.9600067138672,
+      "end": 229.39999389648438,
+      "aligned": true
+    },
+    {
+      "word": "is",
+      "start": 229.39999389648438,
+      "end": 229.6999969482422,
+      "aligned": true
+    },
+    {
+      "word": "remarkably",
+      "start": 229.6999969482422,
+      "end": 230.17999267578125,
+      "aligned": true
+    },
+    {
+      "word": "similar",
+      "start": 230.17999267578125,
+      "end": 230.55999755859375,
+      "aligned": true
+    },
+    {
+      "word": "to",
+      "start": 230.55999755859375,
+      "end": 231.0800018310547,
+      "aligned": true
+    },
+    {
+      "word": "Earth,",
+      "start": 231.0800018310547,
+      "end": 231.10000610351562,
+      "aligned": true
+    },
+    {
+      "word": "but",
+      "start": 231.47999572753906,
+      "end": 231.55999755859375,
+      "aligned": true
+    },
+    {
+      "word": "there",
+      "start": 231.55999755859375,
+      "end": 231.75999450683594,
+      "aligned": true
+    },
+    {
+      "word": "are",
+      "start": 231.75999450683594,
+      "end": 231.9600067138672,
+      "aligned": true
+    },
+    {
+      "word": "trace",
+      "start": 231.9600067138672,
+      "end": 232.3000030517578,
+      "aligned": true
+    },
+    {
+      "word": "elements",
+      "start": 232.3000030517578,
+      "end": 232.60000610351562,
+      "aligned": true
+    },
+    {
+      "word": "that",
+      "start": 232.60000610351562,
+      "end": 233.0399932861328,
+      "aligned": true
+    },
+    {
+      "word": "suggest—\"",
+      "start": 233.0399932861328,
+      "end": 233.3800048828125,
+      "aligned": true
+    },
+    {
+      "word": "I",
+      "start": 233.83999633789062,
+      "end": 234.0399932861328,
+      "aligned": true
+    },
+    {
+      "word": "ask",
+      "start": 234.0399932861328,
+      "end": 234.39999389648438,
+      "aligned": true
+    },
+    {
+      "word": "—",
+      "start": 234.39999389648438,
+      "end": 234.97999572753906,
+      "aligned": false
+    },
+    {
+      "word": "\"Buddy.",
+      "start": 234.97999572753906,
+      "end": 234.97999572753906,
+      "aligned": true
+    },
+    {
+      "word": "Is",
+      "start": 235.1999969482422,
+      "end": 235.27999877929688,
+      "aligned": true
+    },
+    {
+      "word": "the",
+      "start": 235.27999877929688,
+      "end": 235.44000244140625,
+      "aligned": true
+    },
+    {
+      "word": "air",
+      "start": 235.44000244140625,
+      "end": 235.67999267578125,
+      "aligned": true
+    },
+    {
+      "word": "safe",
+      "start": 235.67999267578125,
+      "end": 235.8800048828125,
+      "aligned": true
+    },
+    {
+      "word": "to",
+      "start": 235.8800048828125,
+      "end": 236.32000732421875,
+      "aligned": true
+    },
+    {
+      "word": "breathe?\"",
+      "start": 236.32000732421875,
+      "end": 236.32000732421875,
+      "aligned": true
+    },
+    {
+      "word": "Buddy,",
+      "start": 237,
+      "end": 237.1199951171875,
+      "aligned": true
+    },
+    {
+      "word": "quick",
+      "start": 237.55999755859375,
+      "end": 237.60000610351562,
+      "aligned": true
+    },
+    {
+      "word": "and",
+      "start": 237.60000610351562,
+      "end": 237.9199981689453,
+      "aligned": true
+    },
+    {
+      "word": "cheerful",
+      "start": 237.9199981689453,
+      "end": 238.1999969482422,
+      "aligned": true
+    },
+    {
+      "word": "—",
+      "start": 238.1999969482422,
+      "end": 238.8000030517578,
+      "aligned": false
+    },
+    {
+      "word": "\"Oh!",
+      "start": 238.8000030517578,
+      "end": 238.94000244140625,
+      "aligned": true
+    },
+    {
+      "word": "Yes!",
+      "start": 239.1999969482422,
+      "end": 239.5800018310547,
+      "aligned": true
+    },
+    {
+      "word": "Completely",
+      "start": 240.16000366210938,
+      "end": 240.4600067138672,
+      "aligned": true
+    },
+    {
+      "word": "safe!",
+      "start": 240.4600067138672,
+      "end": 240.8800048828125,
+      "aligned": true
+    },
+    {
+      "word": "Though",
+      "start": 241.22000122070312,
+      "end": 241.5,
+      "aligned": true
+    },
+    {
+      "word": "the",
+      "start": 241.5,
+      "end": 241.83999633789062,
+      "aligned": true
+    },
+    {
+      "word": "photosynthetic",
+      "start": 241.83999633789062,
+      "end": 242.47999572753906,
+      "aligned": true
+    },
+    {
+      "word": "pigments",
+      "start": 242.47999572753906,
+      "end": 242.8000030517578,
+      "aligned": true
+    },
+    {
+      "word": "I",
+      "start": 242.8000030517578,
+      "end": 243.1999969482422,
+      "aligned": true
+    },
+    {
+      "word": "mentioned",
+      "start": 243.1999969482422,
+      "end": 243.3000030517578,
+      "aligned": true
+    },
+    {
+      "word": "earlier",
+      "start": 243.3000030517578,
+      "end": 243.77999877929688,
+      "aligned": true
+    },
+    {
+      "word": "create",
+      "start": 243.77999877929688,
+      "end": 244.1999969482422,
+      "aligned": true
+    },
+    {
+      "word": "a",
+      "start": 244.1999969482422,
+      "end": 244.72000122070312,
+      "aligned": true
+    },
+    {
+      "word": "unique",
+      "start": 244.72000122070312,
+      "end": 244.72000122070312,
+      "aligned": true
+    },
+    {
+      "word": "light",
+      "start": 244.72000122070312,
+      "end": 245.13999938964844,
+      "aligned": true
+    },
+    {
+      "word": "spectrum",
+      "start": 245.13999938964844,
+      "end": 245.44000244140625,
+      "aligned": true
+    },
+    {
+      "word": "that—\"",
+      "start": 245.44000244140625,
+      "end": 246.13999938964844,
+      "aligned": true
+    },
+    {
+      "word": "I",
+      "start": 246.13999938964844,
+      "end": 246.52000427246094,
+      "aligned": true
+    },
+    {
+      "word": "say",
+      "start": 246.52000427246094,
+      "end": 246.89999389648438,
+      "aligned": true
+    },
+    {
+      "word": "—",
+      "start": 246.89999389648438,
+      "end": 247.27999877929688,
+      "aligned": false
+    },
+    {
+      "word": "\"Safe.",
+      "start": 247.27999877929688,
+      "end": 247.52000427246094,
+      "aligned": true
+    },
+    {
+      "word": "Got",
+      "start": 247.83999633789062,
+      "end": 248.05999755859375,
+      "aligned": true
+    },
+    {
+      "word": "it.",
+      "start": 248.05999755859375,
+      "end": 248.36000061035156,
+      "aligned": true
+    },
+    {
+      "word": "Thanks.\"",
+      "start": 248.5800018310547,
+      "end": 248.86000061035156,
+      "aligned": true
+    },
+    {
+      "word": "Our",
+      "start": 249.24000549316406,
+      "end": 249.52000427246094,
+      "aligned": true
+    },
+    {
+      "word": "rhythm",
+      "start": 249.52000427246094,
+      "end": 249.63999938964844,
+      "aligned": true
+    },
+    {
+      "word": "is",
+      "start": 249.63999938964844,
+      "end": 249.8800048828125,
+      "aligned": true
+    },
+    {
+      "word": "getting",
+      "start": 249.8800048828125,
+      "end": 250.0399932861328,
+      "aligned": true
+    },
+    {
+      "word": "better.",
+      "start": 250.0399932861328,
+      "end": 250.33999633789062,
+      "aligned": true
+    },
+    {
+      "word": "Extract",
+      "start": 251.13999938964844,
+      "end": 251.13999938964844,
+      "aligned": true
+    },
+    {
+      "word": "the",
+      "start": 251.13999938964844,
+      "end": 251.72000122070312,
+      "aligned": true
+    },
+    {
+      "word": "useful",
+      "start": 251.72000122070312,
+      "end": 251.72000122070312,
+      "aligned": true
+    },
+    {
+      "word": "information,",
+      "start": 251.72000122070312,
+      "end": 252.25999450683594,
+      "aligned": true
+    },
+    {
+      "word": "let",
+      "start": 252.63999938964844,
+      "end": 252.75999450683594,
+      "aligned": true
+    },
+    {
+      "word": "the",
+      "start": 252.75999450683594,
+      "end": 252.9600067138672,
+      "aligned": true
+    },
+    {
+      "word": "rest",
+      "start": 252.9600067138672,
+      "end": 253.1199951171875,
+      "aligned": true
+    },
+    {
+      "word": "go.",
+      "start": 253.1199951171875,
+      "end": 253.39999389648438,
+      "aligned": true
+    },
+    {
+      "word": "Buddy",
+      "start": 253.39999389648438,
+      "end": 254.0800018310547,
+      "aligned": true
+    },
+    {
+      "word": "means",
+      "start": 254.0800018310547,
+      "end": 254.36000061035156,
+      "aligned": true
+    },
+    {
+      "word": "well.",
+      "start": 254.36000061035156,
+      "end": 254.82000732421875,
+      "aligned": true
+    },
+    {
+      "word": "I'm",
+      "start": 255.1199951171875,
+      "end": 255.24000549316406,
+      "aligned": true
+    },
+    {
+      "word": "learning",
+      "start": 255.24000549316406,
+      "end": 255.4600067138672,
+      "aligned": true
+    },
+    {
+      "word": "to",
+      "start": 255.4600067138672,
+      "end": 255.77999877929688,
+      "aligned": true
+    },
+    {
+      "word": "work",
+      "start": 255.77999877929688,
+      "end": 255.94000244140625,
+      "aligned": true
+    },
+    {
+      "word": "with—",
+      "start": 255.94000244140625,
+      "end": 256.3800048828125,
+      "aligned": true
+    },
+    {
+      "word": "Pain",
+      "start": 256.3800048828125,
+      "end": 257.0199890136719,
+      "aligned": true
+    },
+    {
+      "word": "flares",
+      "start": 257.0199890136719,
+      "end": 257.3399963378906,
+      "aligned": true
+    },
+    {
+      "word": "up",
+      "start": 257.3399963378906,
+      "end": 257.55999755859375,
+      "aligned": false
+    },
+    {
+      "word": "my",
+      "start": 257.55999755859375,
+      "end": 257.9200134277344,
+      "aligned": true
+    },
+    {
+      "word": "leg,",
+      "start": 257.9200134277344,
+      "end": 258.0400085449219,
+      "aligned": true
+    },
+    {
+      "word": "sudden",
+      "start": 258.3800048828125,
+      "end": 258.6199951171875,
+      "aligned": true
+    },
+    {
+      "word": "and",
+      "start": 258.6199951171875,
+      "end": 259.05999755859375,
+      "aligned": true
+    },
+    {
+      "word": "sharp",
+      "start": 259.05999755859375,
+      "end": 259.260009765625,
+      "aligned": true
+    },
+    {
+      "word": "enough",
+      "start": 259.260009765625,
+      "end": 259.5,
+      "aligned": true
+    },
+    {
+      "word": "to",
+      "start": 259.5,
+      "end": 259.739990234375,
+      "aligned": true
+    },
+    {
+      "word": "stop",
+      "start": 259.739990234375,
+      "end": 259.9599914550781,
+      "aligned": true
+    },
+    {
+      "word": "me",
+      "start": 259.9599914550781,
+      "end": 260.1600036621094,
+      "aligned": true
+    },
+    {
+      "word": "mid-step.",
+      "start": 260.1600036621094,
+      "end": 261.1600036621094,
+      "aligned": false
+    },
+    {
+      "word": "I've",
+      "start": 261.1600036621094,
+      "end": 261.2799987792969,
+      "aligned": true
+    },
+    {
+      "word": "been",
+      "start": 261.2799987792969,
+      "end": 261.4800109863281,
+      "aligned": true
+    },
+    {
+      "word": "walking",
+      "start": 261.4800109863281,
+      "end": 261.6600036621094,
+      "aligned": true
+    },
+    {
+      "word": "on",
+      "start": 261.6600036621094,
+      "end": 262.4800109863281,
+      "aligned": true
+    },
+    {
+      "word": "adrenaline,",
+      "start": 262.4800109863281,
+      "end": 262.4800109863281,
+      "aligned": true
+    },
+    {
+      "word": "ignoring",
+      "start": 263.17999267578125,
+      "end": 263.17999267578125,
+      "aligned": true
+    },
+    {
+      "word": "the",
+      "start": 263.17999267578125,
+      "end": 263.67999267578125,
+      "aligned": true
+    },
+    {
+      "word": "bandaged",
+      "start": 263.67999267578125,
+      "end": 263.79998779296875,
+      "aligned": true
+    },
+    {
+      "word": "wound,",
+      "start": 263.79998779296875,
+      "end": 264.20001220703125,
+      "aligned": true
+    },
+    {
+      "word": "focused",
+      "start": 264.760009765625,
+      "end": 264.8399963378906,
+      "aligned": true
+    },
+    {
+      "word": "on",
+      "start": 264.8399963378906,
+      "end": 265.1400146484375,
+      "aligned": true
+    },
+    {
+      "word": "getting",
+      "start": 265.1400146484375,
+      "end": 265.2799987792969,
+      "aligned": true
+    },
+    {
+      "word": "to",
+      "start": 265.2799987792969,
+      "end": 265.6199951171875,
+      "aligned": true
+    },
+    {
+      "word": "water.",
+      "start": 265.6199951171875,
+      "end": 265.8599853515625,
+      "aligned": true
+    },
+    {
+      "word": "But",
+      "start": 265.9800109863281,
+      "end": 266.44000244140625,
+      "aligned": true
+    },
+    {
+      "word": "the",
+      "start": 266.44000244140625,
+      "end": 266.9200134277344,
+      "aligned": true
+    },
+    {
+      "word": "injury",
+      "start": 266.9200134277344,
+      "end": 266.9200134277344,
+      "aligned": true
+    },
+    {
+      "word": "doesn't",
+      "start": 266.9200134277344,
+      "end": 267.29998779296875,
+      "aligned": true
+    },
+    {
+      "word": "care",
+      "start": 267.29998779296875,
+      "end": 267.55999755859375,
+      "aligned": true
+    },
+    {
+      "word": "about",
+      "start": 267.55999755859375,
+      "end": 267.739990234375,
+      "aligned": true
+    },
+    {
+      "word": "my",
+      "start": 267.739990234375,
+      "end": 267.9800109863281,
+      "aligned": true
+    },
+    {
+      "word": "focus.",
+      "start": 267.9800109863281,
+      "end": 268.3599853515625,
+      "aligned": true
+    },
+    {
+      "word": "I",
+      "start": 268.9800109863281,
+      "end": 268.9800109863281,
+      "aligned": true
+    },
+    {
+      "word": "lean",
+      "start": 268.9800109863281,
+      "end": 269.1400146484375,
+      "aligned": true
+    },
+    {
+      "word": "against",
+      "start": 269.1400146484375,
+      "end": 269.44000244140625,
+      "aligned": true
+    },
+    {
+      "word": "the",
+      "start": 269.44000244140625,
+      "end": 269.8599853515625,
+      "aligned": true
+    },
+    {
+      "word": "nearest",
+      "start": 269.8599853515625,
+      "end": 269.8599853515625,
+      "aligned": true
+    },
+    {
+      "word": "tree",
+      "start": 269.8599853515625,
+      "end": 270.1600036621094,
+      "aligned": true
+    },
+    {
+      "word": "trunk—smooth",
+      "start": 270.1600036621094,
+      "end": 271.20001220703125,
+      "aligned": false
+    },
+    {
+      "word": "bark,",
+      "start": 271.20001220703125,
+      "end": 271.6199951171875,
+      "aligned": true
+    },
+    {
+      "word": "faintly",
+      "start": 272.1600036621094,
+      "end": 272.4599914550781,
+      "aligned": true
+    },
+    {
+      "word": "warm",
+      "start": 272.4599914550781,
+      "end": 272.67999267578125,
+      "aligned": true
+    },
+    {
+      "word": "even",
+      "start": 272.67999267578125,
+      "end": 272.8999938964844,
+      "aligned": true
+    },
+    {
+      "word": "in",
+      "start": 272.8999938964844,
+      "end": 273.0199890136719,
+      "aligned": true
+    },
+    {
+      "word": "the",
+      "start": 273.0199890136719,
+      "end": 273.3599853515625,
+      "aligned": true
+    },
+    {
+      "word": "shade—and",
+      "start": 273.3599853515625,
+      "end": 273.8999938964844,
+      "aligned": false
+    },
+    {
+      "word": "try",
+      "start": 273.8999938964844,
+      "end": 274.0799865722656,
+      "aligned": true
+    },
+    {
+      "word": "to",
+      "start": 274.0799865722656,
+      "end": 274.4599914550781,
+      "aligned": true
+    },
+    {
+      "word": "breathe",
+      "start": 274.4599914550781,
+      "end": 274.4599914550781,
+      "aligned": true
+    },
+    {
+      "word": "through",
+      "start": 274.4599914550781,
+      "end": 274.70001220703125,
+      "aligned": true
+    },
+    {
+      "word": "it.",
+      "start": 274.70001220703125,
+      "end": 274.9800109863281,
+      "aligned": true
+    },
+    {
+      "word": "The",
+      "start": 275.1400146484375,
+      "end": 275.5400085449219,
+      "aligned": true
+    },
+    {
+      "word": "bandage",
+      "start": 275.5400085449219,
+      "end": 275.8399963378906,
+      "aligned": true
+    },
+    {
+      "word": "is",
+      "start": 275.8399963378906,
+      "end": 276.3999938964844,
+      "aligned": true
+    },
+    {
+      "word": "seeping.",
+      "start": 276.3999938964844,
+      "end": 276.44000244140625,
+      "aligned": true
+    },
+    {
+      "word": "I",
+      "start": 276.8399963378906,
+      "end": 276.9599914550781,
+      "aligned": true
+    },
+    {
+      "word": "can",
+      "start": 276.9599914550781,
+      "end": 277.20001220703125,
+      "aligned": true
+    },
+    {
+      "word": "see",
+      "start": 277.20001220703125,
+      "end": 277.32000732421875,
+      "aligned": true
+    },
+    {
+      "word": "it",
+      "start": 277.32000732421875,
+      "end": 277.6199951171875,
+      "aligned": true
+    },
+    {
+      "word": "darkening",
+      "start": 277.6199951171875,
+      "end": 277.9200134277344,
+      "aligned": true
+    },
+    {
+      "word": "through",
+      "start": 277.9200134277344,
+      "end": 278.1400146484375,
+      "aligned": true
+    },
+    {
+      "word": "my",
+      "start": 278.1400146484375,
+      "end": 278.6600036621094,
+      "aligned": true
+    },
+    {
+      "word": "pants.",
+      "start": 278.6600036621094,
+      "end": 278.6600036621094,
+      "aligned": true
+    },
+    {
+      "word": "This",
+      "start": 278.82000732421875,
+      "end": 279.2799987792969,
+      "aligned": true
+    },
+    {
+      "word": "is",
+      "start": 279.2799987792969,
+      "end": 279.8800048828125,
+      "aligned": true
+    },
+    {
+      "word": "stupid.",
+      "start": 279.8800048828125,
+      "end": 279.8800048828125,
+      "aligned": true
+    },
+    {
+      "word": "I'm",
+      "start": 280.2799987792969,
+      "end": 280.8800048828125,
+      "aligned": true
+    },
+    {
+      "word": "injured,",
+      "start": 280.8800048828125,
+      "end": 280.8800048828125,
+      "aligned": true
+    },
+    {
+      "word": "alone,",
+      "start": 281.260009765625,
+      "end": 281.5199890136719,
+      "aligned": true
+    },
+    {
+      "word": "should",
+      "start": 281.6199951171875,
+      "end": 281.8999938964844,
+      "aligned": true
+    },
+    {
+      "word": "be",
+      "start": 281.8999938964844,
+      "end": 282.1000061035156,
+      "aligned": true
+    },
+    {
+      "word": "resting",
+      "start": 282.1000061035156,
+      "end": 282.4599914550781,
+      "aligned": true
+    },
+    {
+      "word": "not",
+      "start": 282.4599914550781,
+      "end": 282.7799987792969,
+      "aligned": true
+    },
+    {
+      "word": "hiking",
+      "start": 282.7799987792969,
+      "end": 283.1199951171875,
+      "aligned": true
+    },
+    {
+      "word": "through",
+      "start": 283.1199951171875,
+      "end": 283.3800048828125,
+      "aligned": true
+    },
+    {
+      "word": "an",
+      "start": 283.3800048828125,
+      "end": 283.7200012207031,
+      "aligned": true
+    },
+    {
+      "word": "alien",
+      "start": 283.7200012207031,
+      "end": 283.8999938964844,
+      "aligned": true
+    },
+    {
+      "word": "forest.",
+      "start": 283.8999938964844,
+      "end": 284.3599853515625,
+      "aligned": true
+    },
+    {
+      "word": "But",
+      "start": 284.8399963378906,
+      "end": 284.9800109863281,
+      "aligned": true
+    },
+    {
+      "word": "water",
+      "start": 284.9800109863281,
+      "end": 285.32000732421875,
+      "aligned": true
+    },
+    {
+      "word": "is",
+      "start": 285.32000732421875,
+      "end": 285.67999267578125,
+      "aligned": true
+    },
+    {
+      "word": "eight",
+      "start": 285.67999267578125,
+      "end": 285.9599914550781,
+      "aligned": false
+    },
+    {
+      "word": "hundred",
+      "start": 285.9599914550781,
+      "end": 286.239990234375,
+      "aligned": false
+    },
+    {
+      "word": "meters",
+      "start": 286.239990234375,
+      "end": 286.55999755859375,
+      "aligned": true
+    },
+    {
+      "word": "and",
+      "start": 286.82000732421875,
+      "end": 286.9599914550781,
+      "aligned": true
+    },
+    {
+      "word": "I",
+      "start": 286.9599914550781,
+      "end": 287.44000244140625,
+      "aligned": true
+    },
+    {
+      "word": "need",
+      "start": 287.44000244140625,
+      "end": 287.4599914550781,
+      "aligned": true
+    },
+    {
+      "word": "it",
+      "start": 287.4599914550781,
+      "end": 287.8399963378906,
+      "aligned": true
+    },
+    {
+      "word": "and",
+      "start": 287.8800048828125,
+      "end": 288.0199890136719,
+      "aligned": true
+    },
+    {
+      "word": "the",
+      "start": 288.0199890136719,
+      "end": 288.2200012207031,
+      "aligned": true
+    },
+    {
+      "word": "shuttle's",
+      "start": 288.2200012207031,
+      "end": 288.5400085449219,
+      "aligned": true
+    },
+    {
+      "word": "life",
+      "start": 288.5400085449219,
+      "end": 288.760009765625,
+      "aligned": true
+    },
+    {
+      "word": "support",
+      "start": 288.760009765625,
+      "end": 289.0199890136719,
+      "aligned": true
+    },
+    {
+      "word": "is",
+      "start": 289.0199890136719,
+      "end": 289.6600036621094,
+      "aligned": true
+    },
+    {
+      "word": "dying",
+      "start": 289.6600036621094,
+      "end": 289.6600036621094,
+      "aligned": true
+    },
+    {
+      "word": "and—",
+      "start": 290.0400085449219,
+      "end": 290.29998779296875,
+      "aligned": true
+    },
+    {
+      "word": "Buddy",
+      "start": 290.8999938964844,
+      "end": 290.8999938964844,
+      "aligned": true
+    },
+    {
+      "word": "—",
+      "start": 290.8999938964844,
+      "end": 291.4499969482422,
+      "aligned": false
+    },
+    {
+      "word": "\"Kira,",
+      "start": 291.4499969482422,
+      "end": 292,
+      "aligned": false
+    },
+    {
+      "word": "I'm",
+      "start": 292,
+      "end": 292.239990234375,
+      "aligned": true
+    },
+    {
+      "word": "detecting",
+      "start": 292.239990234375,
+      "end": 292.5799865722656,
+      "aligned": true
+    },
+    {
+      "word": "elevated",
+      "start": 292.5799865722656,
+      "end": 293.1199951171875,
+      "aligned": true
+    },
+    {
+      "word": "pain",
+      "start": 293.1199951171875,
+      "end": 293.5,
+      "aligned": true
+    },
+    {
+      "word": "signals!",
+      "start": 293.5,
+      "end": 293.82000732421875,
+      "aligned": true
+    },
+    {
+      "word": "Your",
+      "start": 294.1000061035156,
+      "end": 294.260009765625,
+      "aligned": true
+    },
+    {
+      "word": "injury",
+      "start": 294.260009765625,
+      "end": 294.6199951171875,
+      "aligned": true
+    },
+    {
+      "word": "requires—\"",
+      "start": 294.6199951171875,
+      "end": 295.1400146484375,
+      "aligned": true
+    },
+    {
+      "word": "I",
+      "start": 295.3999938964844,
+      "end": 295.4599914550781,
+      "aligned": true
+    },
+    {
+      "word": "say",
+      "start": 295.4599914550781,
+      "end": 295.70001220703125,
+      "aligned": true
+    },
+    {
+      "word": "—",
+      "start": 295.70001220703125,
+      "end": 295.9200134277344,
+      "aligned": false
+    },
+    {
+      "word": "\"I'm",
+      "start": 295.9200134277344,
+      "end": 296.2799987792969,
+      "aligned": true
+    },
+    {
+      "word": "fine.",
+      "start": 296.2799987792969,
+      "end": 296.5799865722656,
+      "aligned": true
+    },
+    {
+      "word": "How",
+      "start": 296.9800109863281,
+      "end": 297.0799865722656,
+      "aligned": true
+    },
+    {
+      "word": "much",
+      "start": 297.0799865722656,
+      "end": 297.32000732421875,
+      "aligned": true
+    },
+    {
+      "word": "farther?\"",
+      "start": 297.32000732421875,
+      "end": 297.55999755859375,
+      "aligned": true
+    },
+    {
+      "word": "A",
+      "start": 298.0400085449219,
+      "end": 298.239990234375,
+      "aligned": true
+    },
+    {
+      "word": "pause.",
+      "start": 298.239990234375,
+      "end": 298.55999755859375,
+      "aligned": true
+    },
+    {
+      "word": "Then,",
+      "start": 299.0400085449219,
+      "end": 299.32000732421875,
+      "aligned": true
+    },
+    {
+      "word": "quieter:",
+      "start": 299.8800048828125,
+      "end": 299.9200134277344,
+      "aligned": true
+    },
+    {
+      "word": "Buddy",
+      "start": 300.6600036621094,
+      "end": 300.6600036621094,
+      "aligned": true
+    },
+    {
+      "word": "—",
+      "start": 300.6600036621094,
+      "end": 301.4200134277344,
+      "aligned": false
+    },
+    {
+      "word": "\"Approximately",
+      "start": 301.4200134277344,
+      "end": 301.4200134277344,
+      "aligned": true
+    },
+    {
+      "word": "six",
+      "start": 301.4200134277344,
+      "end": 301.7100067138672,
+      "aligned": false
+    },
+    {
+      "word": "hundred",
+      "start": 301.7100067138672,
+      "end": 302,
+      "aligned": false
+    },
+    {
+      "word": "meters",
+      "start": 302,
+      "end": 302.3999938964844,
+      "aligned": true
+    },
+    {
+      "word": "remaining.",
+      "start": 302.3999938964844,
+      "end": 302.79998779296875,
+      "aligned": true
+    },
+    {
+      "word": "Are",
+      "start": 303.17999267578125,
+      "end": 303.3599853515625,
+      "aligned": true
+    },
+    {
+      "word": "you",
+      "start": 303.3599853515625,
+      "end": 303.6199951171875,
+      "aligned": true
+    },
+    {
+      "word": "sure",
+      "start": 303.6199951171875,
+      "end": 303.7200012207031,
+      "aligned": true
+    },
+    {
+      "word": "you",
+      "start": 303.7200012207031,
+      "end": 303.8999938964844,
+      "aligned": true
+    },
+    {
+      "word": "can—\"",
+      "start": 303.8999938964844,
+      "end": 304.1600036621094,
+      "aligned": true
+    },
+    {
+      "word": "I",
+      "start": 304.3999938964844,
+      "end": 304.67999267578125,
+      "aligned": true
+    },
+    {
+      "word": "say",
+      "start": 304.67999267578125,
+      "end": 304.94000244140625,
+      "aligned": true
+    },
+    {
+      "word": "—",
+      "start": 304.94000244140625,
+      "end": 305.0799865722656,
+      "aligned": false
+    },
+    {
+      "word": "\"I'm",
+      "start": 305.0799865722656,
+      "end": 305.5400085449219,
+      "aligned": true
+    },
+    {
+      "word": "sure.\"",
+      "start": 305.5400085449219,
+      "end": 305.739990234375,
+      "aligned": true
+    },
+    {
+      "word": "I",
+      "start": 306.0799865722656,
+      "end": 306.4800109863281,
+      "aligned": true
+    },
+    {
+      "word": "push",
+      "start": 306.4800109863281,
+      "end": 306.67999267578125,
+      "aligned": true
+    },
+    {
+      "word": "off",
+      "start": 306.67999267578125,
+      "end": 306.8800048828125,
+      "aligned": true
+    },
+    {
+      "word": "the",
+      "start": 306.8800048828125,
+      "end": 307.239990234375,
+      "aligned": true
+    },
+    {
+      "word": "tree,",
+      "start": 307.239990234375,
+      "end": 307.239990234375,
+      "aligned": true
+    },
+    {
+      "word": "test",
+      "start": 307.67999267578125,
+      "end": 307.8599853515625,
+      "aligned": true
+    },
+    {
+      "word": "weight",
+      "start": 307.8599853515625,
+      "end": 308.05999755859375,
+      "aligned": true
+    },
+    {
+      "word": "on",
+      "start": 308.05999755859375,
+      "end": 308.17999267578125,
+      "aligned": true
+    },
+    {
+      "word": "my",
+      "start": 308.17999267578125,
+      "end": 308.55999755859375,
+      "aligned": true
+    },
+    {
+      "word": "leg.",
+      "start": 308.55999755859375,
+      "end": 308.6000061035156,
+      "aligned": true
+    },
+    {
+      "word": "It",
+      "start": 309,
+      "end": 309.29998779296875,
+      "aligned": true
+    },
+    {
+      "word": "hurts.",
+      "start": 309.29998779296875,
+      "end": 309.6000061035156,
+      "aligned": true
+    },
+    {
+      "word": "It's",
+      "start": 309.94000244140625,
+      "end": 310.239990234375,
+      "aligned": true
+    },
+    {
+      "word": "going",
+      "start": 310.239990234375,
+      "end": 310.3599853515625,
+      "aligned": true
+    },
+    {
+      "word": "to",
+      "start": 310.3599853515625,
+      "end": 310.5799865722656,
+      "aligned": true
+    },
+    {
+      "word": "keep",
+      "start": 310.5799865722656,
+      "end": 310.739990234375,
+      "aligned": true
+    },
+    {
+      "word": "hurting.",
+      "start": 310.739990234375,
+      "end": 310.9800109863281,
+      "aligned": true
+    },
+    {
+      "word": "But",
+      "start": 311.32000732421875,
+      "end": 311.5199890136719,
+      "aligned": true
+    },
+    {
+      "word": "I",
+      "start": 311.5199890136719,
+      "end": 311.6600036621094,
+      "aligned": true
+    },
+    {
+      "word": "can",
+      "start": 311.6600036621094,
+      "end": 311.8999938964844,
+      "aligned": true
+    },
+    {
+      "word": "walk.",
+      "start": 311.8999938964844,
+      "end": 312.1400146484375,
+      "aligned": true
+    },
+    {
+      "word": "So",
+      "start": 312.1400146484375,
+      "end": 312.6199951171875,
+      "aligned": true
+    },
+    {
+      "word": "I",
+      "start": 312.7799987792969,
+      "end": 312.94000244140625,
+      "aligned": true
+    },
+    {
+      "word": "do.",
+      "start": 312.94000244140625,
+      "end": 313.20001220703125,
+      "aligned": true
+    },
+    {
+      "word": "The",
+      "start": 313.7799987792969,
+      "end": 313.79998779296875,
+      "aligned": true
+    },
+    {
+      "word": "limp",
+      "start": 313.79998779296875,
+      "end": 313.9800109863281,
+      "aligned": true
+    },
+    {
+      "word": "is",
+      "start": 313.9800109863281,
+      "end": 314.260009765625,
+      "aligned": true
+    },
+    {
+      "word": "more",
+      "start": 314.260009765625,
+      "end": 314.5400085449219,
+      "aligned": true
+    },
+    {
+      "word": "pronounced",
+      "start": 314.5400085449219,
+      "end": 314.79998779296875,
+      "aligned": true
+    },
+    {
+      "word": "now.",
+      "start": 314.79998779296875,
+      "end": 315.260009765625,
+      "aligned": true
+    },
+    {
+      "word": "Beauty",
+      "start": 315.9200134277344,
+      "end": 315.94000244140625,
+      "aligned": true
+    },
+    {
+      "word": "doesn't",
+      "start": 315.94000244140625,
+      "end": 316.32000732421875,
+      "aligned": true
+    },
+    {
+      "word": "make",
+      "start": 316.32000732421875,
+      "end": 316.5799865722656,
+      "aligned": true
+    },
+    {
+      "word": "injury",
+      "start": 316.5799865722656,
+      "end": 316.8999938964844,
+      "aligned": true
+    },
+    {
+      "word": "hurt",
+      "start": 316.8999938964844,
+      "end": 317.20001220703125,
+      "aligned": true
+    },
+    {
+      "word": "less.",
+      "start": 317.20001220703125,
+      "end": 317.55999755859375,
+      "aligned": true
+    },
+    {
+      "word": "Wonder",
+      "start": 318.05999755859375,
+      "end": 318.32000732421875,
+      "aligned": true
+    },
+    {
+      "word": "doesn't",
+      "start": 318.32000732421875,
+      "end": 318.82000732421875,
+      "aligned": true
+    },
+    {
+      "word": "erase",
+      "start": 318.82000732421875,
+      "end": 319.1199951171875,
+      "aligned": true
+    },
+    {
+      "word": "the",
+      "start": 319.1199951171875,
+      "end": 319.3800048828125,
+      "aligned": true
+    },
+    {
+      "word": "fact",
+      "start": 319.3800048828125,
+      "end": 319.55999755859375,
+      "aligned": true
+    },
+    {
+      "word": "that",
+      "start": 319.55999755859375,
+      "end": 319.7200012207031,
+      "aligned": true
+    },
+    {
+      "word": "I",
+      "start": 319.7200012207031,
+      "end": 319.8599853515625,
+      "aligned": true
+    },
+    {
+      "word": "could",
+      "start": 319.8599853515625,
+      "end": 320.0799865722656,
+      "aligned": true
+    },
+    {
+      "word": "die",
+      "start": 320.0799865722656,
+      "end": 320.2799987792969,
+      "aligned": true
+    },
+    {
+      "word": "out",
+      "start": 320.2799987792969,
+      "end": 320.5799865722656,
+      "aligned": true
+    },
+    {
+      "word": "here.",
+      "start": 320.5799865722656,
+      "end": 320.70001220703125,
+      "aligned": true
+    },
+    {
+      "word": "I'm",
+      "start": 320.70001220703125,
+      "end": 321.22667439778644,
+      "aligned": false
+    },
+    {
+      "word": "maybe",
+      "start": 321.22667439778644,
+      "end": 321.7533365885417,
+      "aligned": false
+    },
+    {
+      "word": "fifty",
+      "start": 321.7533365885417,
+      "end": 322.2799987792969,
+      "aligned": false
+    },
+    {
+      "word": "meters",
+      "start": 322.2799987792969,
+      "end": 322.5400085449219,
+      "aligned": true
+    },
+    {
+      "word": "farther",
+      "start": 322.5400085449219,
+      "end": 322.8800048828125,
+      "aligned": true
+    },
+    {
+      "word": "when",
+      "start": 322.8800048828125,
+      "end": 323.1000061035156,
+      "aligned": true
+    },
+    {
+      "word": "I",
+      "start": 323.1000061035156,
+      "end": 323.32000732421875,
+      "aligned": true
+    },
+    {
+      "word": "see",
+      "start": 323.32000732421875,
+      "end": 323.4599914550781,
+      "aligned": true
+    },
+    {
+      "word": "it.",
+      "start": 323.4599914550781,
+      "end": 323.9800109863281,
+      "aligned": true
+    },
+    {
+      "word": "Movement—high",
+      "start": 323.9800109863281,
+      "end": 325.1400146484375,
+      "aligned": false
+    },
+    {
+      "word": "in",
+      "start": 325.1400146484375,
+      "end": 325.3599853515625,
+      "aligned": true
+    },
+    {
+      "word": "the",
+      "start": 325.3599853515625,
+      "end": 325.67999267578125,
+      "aligned": true
+    },
+    {
+      "word": "trees",
+      "start": 325.67999267578125,
+      "end": 325.67999267578125,
+      "aligned": true
+    },
+    {
+      "word": "to",
+      "start": 325.67999267578125,
+      "end": 325.8599853515625,
+      "aligned": true
+    },
+    {
+      "word": "my",
+      "start": 325.8599853515625,
+      "end": 326.2799987792969,
+      "aligned": true
+    },
+    {
+      "word": "left,",
+      "start": 326.2799987792969,
+      "end": 326.29998779296875,
+      "aligned": true
+    },
+    {
+      "word": "something",
+      "start": 326.67999267578125,
+      "end": 326.94000244140625,
+      "aligned": true
+    },
+    {
+      "word": "shifting.",
+      "start": 326.94000244140625,
+      "end": 327.3599853515625,
+      "aligned": true
+    },
+    {
+      "word": "I",
+      "start": 327.8399963378906,
+      "end": 328.0799865722656,
+      "aligned": true
+    },
+    {
+      "word": "stop,",
+      "start": 328.0799865722656,
+      "end": 328.44000244140625,
+      "aligned": true
+    },
+    {
+      "word": "heart",
+      "start": 328.8800048828125,
+      "end": 329.1199951171875,
+      "aligned": true
+    },
+    {
+      "word": "suddenly",
+      "start": 329.1199951171875,
+      "end": 329.5400085449219,
+      "aligned": true
+    },
+    {
+      "word": "pounding.",
+      "start": 329.5400085449219,
+      "end": 329.9200134277344,
+      "aligned": true
+    },
+    {
+      "word": "I",
+      "start": 330.44000244140625,
+      "end": 330.6000061035156,
+      "aligned": true
+    },
+    {
+      "word": "say",
+      "start": 330.6000061035156,
+      "end": 330.8800048828125,
+      "aligned": true
+    },
+    {
+      "word": "—",
+      "start": 330.8800048828125,
+      "end": 331.3399963378906,
+      "aligned": false
+    },
+    {
+      "word": "\"Buddy,",
+      "start": 331.3399963378906,
+      "end": 331.3800048828125,
+      "aligned": true
+    },
+    {
+      "word": "did",
+      "start": 331.4599914550781,
+      "end": 331.70001220703125,
+      "aligned": true
+    },
+    {
+      "word": "you",
+      "start": 331.70001220703125,
+      "end": 331.8599853515625,
+      "aligned": true
+    },
+    {
+      "word": "see",
+      "start": 331.8599853515625,
+      "end": 332,
+      "aligned": true
+    },
+    {
+      "word": "that?\"",
+      "start": 332,
+      "end": 332.2799987792969,
+      "aligned": true
+    },
+    {
+      "word": "Buddy",
+      "start": 332.8399963378906,
+      "end": 332.8999938964844,
+      "aligned": true
+    },
+    {
+      "word": "—",
+      "start": 332.8999938964844,
+      "end": 333.0400085449219,
+      "aligned": false
+    },
+    {
+      "word": "\"See",
+      "start": 333.0400085449219,
+      "end": 333.3599853515625,
+      "aligned": true
+    },
+    {
+      "word": "what,",
+      "start": 333.3599853515625,
+      "end": 333.5400085449219,
+      "aligned": true
+    },
+    {
+      "word": "Kira?\"",
+      "start": 333.5400085449219,
+      "end": 333.9800109863281,
+      "aligned": false
+    },
+    {
+      "word": "I",
+      "start": 333.9800109863281,
+      "end": 334.5,
+      "aligned": true
+    },
+    {
+      "word": "point,",
+      "start": 334.5,
+      "end": 334.7200012207031,
+      "aligned": true
+    },
+    {
+      "word": "even",
+      "start": 335,
+      "end": 335,
+      "aligned": true
+    },
+    {
+      "word": "though",
+      "start": 335,
+      "end": 335.20001220703125,
+      "aligned": true
+    },
+    {
+      "word": "Buddy",
+      "start": 335.20001220703125,
+      "end": 335.32000732421875,
+      "aligned": true
+    },
+    {
+      "word": "doesn't",
+      "start": 335.32000732421875,
+      "end": 335.5799865722656,
+      "aligned": true
+    },
+    {
+      "word": "have",
+      "start": 335.5799865722656,
+      "end": 335.8800048828125,
+      "aligned": true
+    },
+    {
+      "word": "eyes.",
+      "start": 335.8800048828125,
+      "end": 336.1000061035156,
+      "aligned": true
+    },
+    {
+      "word": "\"Something",
+      "start": 336.6600036621094,
+      "end": 336.8599853515625,
+      "aligned": true
+    },
+    {
+      "word": "moved.",
+      "start": 336.8599853515625,
+      "end": 337.239990234375,
+      "aligned": true
+    },
+    {
+      "word": "Up",
+      "start": 337.5799865722656,
+      "end": 337.7799987792969,
+      "aligned": true
+    },
+    {
+      "word": "there.\"",
+      "start": 337.7799987792969,
+      "end": 338,
+      "aligned": true
+    },
+    {
+      "word": "The",
+      "start": 338.3800048828125,
+      "end": 338.70001220703125,
+      "aligned": true
+    },
+    {
+      "word": "forest",
+      "start": 338.70001220703125,
+      "end": 338.8999938964844,
+      "aligned": true
+    },
+    {
+      "word": "is",
+      "start": 338.8999938964844,
+      "end": 339.17999267578125,
+      "aligned": true
+    },
+    {
+      "word": "still",
+      "start": 339.17999267578125,
+      "end": 339.4800109863281,
+      "aligned": true
+    },
+    {
+      "word": "again.",
+      "start": 339.4800109863281,
+      "end": 339.7799987792969,
+      "aligned": true
+    },
+    {
+      "word": "Nothing",
+      "start": 339.7799987792969,
+      "end": 340.3999938964844,
+      "aligned": true
+    },
+    {
+      "word": "but",
+      "start": 340.3999938964844,
+      "end": 340.7200012207031,
+      "aligned": true
+    },
+    {
+      "word": "that",
+      "start": 340.7200012207031,
+      "end": 341.0199890136719,
+      "aligned": true
+    },
+    {
+      "word": "soft",
+      "start": 341.0199890136719,
+      "end": 341.3800048828125,
+      "aligned": true
+    },
+    {
+      "word": "wind-breath",
+      "start": 341.3800048828125,
+      "end": 341.8800048828125,
+      "aligned": false
+    },
+    {
+      "word": "through",
+      "start": 341.8800048828125,
+      "end": 342.1199951171875,
+      "aligned": true
+    },
+    {
+      "word": "the",
+      "start": 342.1199951171875,
+      "end": 342.55999755859375,
+      "aligned": true
+    },
+    {
+      "word": "leaves.",
+      "start": 342.55999755859375,
+      "end": 342.55999755859375,
+      "aligned": true
+    },
+    {
+      "word": "But",
+      "start": 342.9800109863281,
+      "end": 342.9800109863281,
+      "aligned": true
+    },
+    {
+      "word": "I",
+      "start": 342.9800109863281,
+      "end": 343.2799987792969,
+      "aligned": true
+    },
+    {
+      "word": "saw",
+      "start": 343.2799987792969,
+      "end": 343.4599914550781,
+      "aligned": true
+    },
+    {
+      "word": "it.",
+      "start": 343.4599914550781,
+      "end": 343.739990234375,
+      "aligned": true
+    },
+    {
+      "word": "I'm",
+      "start": 344.0199890136719,
+      "end": 344.260009765625,
+      "aligned": true
+    },
+    {
+      "word": "sure",
+      "start": 344.260009765625,
+      "end": 344.3999938964844,
+      "aligned": true
+    },
+    {
+      "word": "I",
+      "start": 344.3999938964844,
+      "end": 344.760009765625,
+      "aligned": true
+    },
+    {
+      "word": "saw",
+      "start": 344.760009765625,
+      "end": 344.7799987792969,
+      "aligned": true
+    },
+    {
+      "word": "it.",
+      "start": 344.7799987792969,
+      "end": 345.0199890136719,
+      "aligned": true
+    },
+    {
+      "word": "The",
+      "start": 345.3399963378906,
+      "end": 345.4599914550781,
+      "aligned": true
+    },
+    {
+      "word": "quiet",
+      "start": 345.4599914550781,
+      "end": 345.7799987792969,
+      "aligned": true
+    },
+    {
+      "word": "feels",
+      "start": 345.7799987792969,
+      "end": 346.1000061035156,
+      "aligned": true
+    },
+    {
+      "word": "different",
+      "start": 346.1000061035156,
+      "end": 346.4599914550781,
+      "aligned": true
+    },
+    {
+      "word": "now—not",
+      "start": 346.4599914550781,
+      "end": 347.32000732421875,
+      "aligned": false
+    },
+    {
+      "word": "peaceful",
+      "start": 347.32000732421875,
+      "end": 347.739990234375,
+      "aligned": true
+    },
+    {
+      "word": "but",
+      "start": 347.8999938964844,
+      "end": 348.260009765625,
+      "aligned": true
+    },
+    {
+      "word": "charged,",
+      "start": 348.260009765625,
+      "end": 348.6000061035156,
+      "aligned": true
+    },
+    {
+      "word": "aware.",
+      "start": 349.2799987792969,
+      "end": 349.2799987792969,
+      "aligned": true
+    },
+    {
+      "word": "I'm",
+      "start": 349.8399963378906,
+      "end": 350.1199951171875,
+      "aligned": true
+    },
+    {
+      "word": "not",
+      "start": 350.1199951171875,
+      "end": 350.32000732421875,
+      "aligned": true
+    },
+    {
+      "word": "alone.",
+      "start": 350.32000732421875,
+      "end": 350.6000061035156,
+      "aligned": true
+    },
+    {
+      "word": "Buddy,",
+      "start": 351.5199890136719,
+      "end": 351.5199890136719,
+      "aligned": true
+    },
+    {
+      "word": "uncertainty",
+      "start": 352.0199890136719,
+      "end": 352.3399963378906,
+      "aligned": true
+    },
+    {
+      "word": "creeping",
+      "start": 352.3399963378906,
+      "end": 352.8399963378906,
+      "aligned": true
+    },
+    {
+      "word": "into",
+      "start": 352.8399963378906,
+      "end": 353.17999267578125,
+      "aligned": true
+    },
+    {
+      "word": "his",
+      "start": 353.17999267578125,
+      "end": 353.4599914550781,
+      "aligned": true
+    },
+    {
+      "word": "usually",
+      "start": 353.4599914550781,
+      "end": 353.79998779296875,
+      "aligned": true
+    },
+    {
+      "word": "cheerful",
+      "start": 353.79998779296875,
+      "end": 354.20001220703125,
+      "aligned": true
+    },
+    {
+      "word": "tone",
+      "start": 354.20001220703125,
+      "end": 354.5199890136719,
+      "aligned": true
+    },
+    {
+      "word": "—",
+      "start": 354.5199890136719,
+      "end": 355.17999267578125,
+      "aligned": false
+    },
+    {
+      "word": "\"I'm",
+      "start": 355.17999267578125,
+      "end": 355.32000732421875,
+      "aligned": true
+    },
+    {
+      "word": "not",
+      "start": 355.32000732421875,
+      "end": 355.6199951171875,
+      "aligned": true
+    },
+    {
+      "word": "detecting",
+      "start": 355.6199951171875,
+      "end": 355.9200134277344,
+      "aligned": true
+    },
+    {
+      "word": "any",
+      "start": 355.9200134277344,
+      "end": 356.4800109863281,
+      "aligned": true
+    },
+    {
+      "word": "animal",
+      "start": 356.4800109863281,
+      "end": 356.6400146484375,
+      "aligned": true
+    },
+    {
+      "word": "life",
+      "start": 356.6400146484375,
+      "end": 357,
+      "aligned": true
+    },
+    {
+      "word": "forms,",
+      "start": 357,
+      "end": 357.239990234375,
+      "aligned": true
+    },
+    {
+      "word": "but",
+      "start": 357.5799865722656,
+      "end": 357.67999267578125,
+      "aligned": true
+    },
+    {
+      "word": "in",
+      "start": 357.67999267578125,
+      "end": 357.8800048828125,
+      "aligned": true
+    },
+    {
+      "word": "an",
+      "start": 357.8800048828125,
+      "end": 358.2799987792969,
+      "aligned": true
+    },
+    {
+      "word": "unknown",
+      "start": 358.2799987792969,
+      "end": 358.3800048828125,
+      "aligned": true
+    },
+    {
+      "word": "environment,",
+      "start": 358.3800048828125,
+      "end": 358.9200134277344,
+      "aligned": true
+    },
+    {
+      "word": "sensors",
+      "start": 359.260009765625,
+      "end": 359.5,
+      "aligned": true
+    },
+    {
+      "word": "can",
+      "start": 359.5,
+      "end": 359.7799987792969,
+      "aligned": true
+    },
+    {
+      "word": "miss—\"",
+      "start": 359.7799987792969,
+      "end": 360.0400085449219,
+      "aligned": true
+    },
+    {
+      "word": "There.",
+      "start": 360.4800109863281,
+      "end": 360.67999267578125,
+      "aligned": true
+    },
+    {
+      "word": "Again.",
+      "start": 360.9200134277344,
+      "end": 361.239990234375,
+      "aligned": true
+    },
+    {
+      "word": "Higher",
+      "start": 361.70001220703125,
+      "end": 361.79998779296875,
+      "aligned": true
+    },
+    {
+      "word": "up,",
+      "start": 361.79998779296875,
+      "end": 362.1000061035156,
+      "aligned": true
+    },
+    {
+      "word": "something",
+      "start": 362.6199951171875,
+      "end": 362.8999938964844,
+      "aligned": true
+    },
+    {
+      "word": "definitely",
+      "start": 362.8999938964844,
+      "end": 363.4200134277344,
+      "aligned": true
+    },
+    {
+      "word": "moving",
+      "start": 363.4200134277344,
+      "end": 363.82000732421875,
+      "aligned": true
+    },
+    {
+      "word": "among",
+      "start": 363.82000732421875,
+      "end": 363.9800109863281,
+      "aligned": true
+    },
+    {
+      "word": "the",
+      "start": 363.9800109863281,
+      "end": 364.6000061035156,
+      "aligned": true
+    },
+    {
+      "word": "branches.",
+      "start": 364.6000061035156,
+      "end": 364.6000061035156,
+      "aligned": true
+    },
+    {
+      "word": "Plant",
+      "start": 365.29998779296875,
+      "end": 365.3599853515625,
+      "aligned": true
+    },
+    {
+      "word": "life",
+      "start": 365.3599853515625,
+      "end": 365.5400085449219,
+      "aligned": true
+    },
+    {
+      "word": "has",
+      "start": 365.5400085449219,
+      "end": 365.82000732421875,
+      "aligned": true
+    },
+    {
+      "word": "to",
+      "start": 365.82000732421875,
+      "end": 365.9599914550781,
+      "aligned": true
+    },
+    {
+      "word": "be—no",
+      "start": 365.9599914550781,
+      "end": 366.8599853515625,
+      "aligned": false
+    },
+    {
+      "word": "fauna",
+      "start": 366.8599853515625,
+      "end": 367.1000061035156,
+      "aligned": true
+    },
+    {
+      "word": "detected,",
+      "start": 367.1000061035156,
+      "end": 367.6400146484375,
+      "aligned": true
+    },
+    {
+      "word": "Buddy",
+      "start": 368.1199951171875,
+      "end": 368.1199951171875,
+      "aligned": true
+    },
+    {
+      "word": "said—but",
+      "start": 368.1199951171875,
+      "end": 368.8999938964844,
+      "aligned": false
+    },
+    {
+      "word": "plants",
+      "start": 368.8999938964844,
+      "end": 369.239990234375,
+      "aligned": true
+    },
+    {
+      "word": "don't",
+      "start": 369.239990234375,
+      "end": 369.55999755859375,
+      "aligned": true
+    },
+    {
+      "word": "move",
+      "start": 369.55999755859375,
+      "end": 369.7799987792969,
+      "aligned": true
+    },
+    {
+      "word": "like",
+      "start": 369.7799987792969,
+      "end": 370,
+      "aligned": true
+    },
+    {
+      "word": "that—quick,",
+      "start": 370,
+      "end": 371.260009765625,
+      "aligned": false
+    },
+    {
+      "word": "purposeful,",
+      "start": 371.260009765625,
+      "end": 371.79998779296875,
+      "aligned": true
+    },
+    {
+      "word": "tracking—",
+      "start": 371.79998779296875,
+      "end": 372.239990234375,
+      "aligned": true
+    },
+    {
+      "word": "Except",
+      "start": 372.5199890136719,
+      "end": 372.7200012207031,
+      "aligned": true
+    },
+    {
+      "word": "this",
+      "start": 372.7200012207031,
+      "end": 373.0199890136719,
+      "aligned": true
+    },
+    {
+      "word": "is",
+      "start": 373.0199890136719,
+      "end": 373.17999267578125,
+      "aligned": true
+    },
+    {
+      "word": "an",
+      "start": 373.17999267578125,
+      "end": 373.3800048828125,
+      "aligned": true
+    },
+    {
+      "word": "alien",
+      "start": 373.3800048828125,
+      "end": 373.70001220703125,
+      "aligned": true
+    },
+    {
+      "word": "planet,",
+      "start": 373.70001220703125,
+      "end": 374.1000061035156,
+      "aligned": true
+    },
+    {
+      "word": "and",
+      "start": 374.6600036621094,
+      "end": 374.760009765625,
+      "aligned": true
+    },
+    {
+      "word": "the",
+      "start": 374.760009765625,
+      "end": 374.9800109863281,
+      "aligned": true
+    },
+    {
+      "word": "scans",
+      "start": 374.9800109863281,
+      "end": 375.17999267578125,
+      "aligned": true
+    },
+    {
+      "word": "detected",
+      "start": 375.17999267578125,
+      "end": 375.6600036621094,
+      "aligned": true
+    },
+    {
+      "word": "extensive",
+      "start": 375.6600036621094,
+      "end": 376.3999938964844,
+      "aligned": true
+    },
+    {
+      "word": "plant",
+      "start": 376.3999938964844,
+      "end": 376.70001220703125,
+      "aligned": true
+    },
+    {
+      "word": "life—what",
+      "start": 376.70001220703125,
+      "end": 377.6400146484375,
+      "aligned": false
+    },
+    {
+      "word": "if…?",
+      "start": 377.6400146484375,
+      "end": 377.9200134277344,
+      "aligned": true
+    },
+    {
+      "word": "Movement",
+      "start": 378.8800048828125,
+      "end": 378.8800048828125,
+      "aligned": true
+    },
+    {
+      "word": "again—closer",
+      "start": 378.8800048828125,
+      "end": 379.8999938964844,
+      "aligned": false
+    },
+    {
+      "word": "this",
+      "start": 379.8999938964844,
+      "end": 380.1600036621094,
+      "aligned": true
+    },
+    {
+      "word": "time,",
+      "start": 380.1600036621094,
+      "end": 380.3999938964844,
+      "aligned": true
+    },
+    {
+      "word": "not",
+      "start": 380.9200134277344,
+      "end": 381.20001220703125,
+      "aligned": true
+    },
+    {
+      "word": "threatening",
+      "start": 381.20001220703125,
+      "end": 381.6199951171875,
+      "aligned": true
+    },
+    {
+      "word": "exactly",
+      "start": 381.6199951171875,
+      "end": 382.260009765625,
+      "aligned": true
+    },
+    {
+      "word": "but",
+      "start": 382.4800109863281,
+      "end": 383.20001220703125,
+      "aligned": true
+    },
+    {
+      "word": "deliberate,",
+      "start": 383.20001220703125,
+      "end": 383.4599914550781,
+      "aligned": true
+    },
+    {
+      "word": "watching.",
+      "start": 384.29998779296875,
+      "end": 384.6400146484375,
+      "aligned": true
+    },
+    {
+      "word": "My",
+      "start": 385.2799987792969,
+      "end": 385.4200134277344,
+      "aligned": true
+    },
+    {
+      "word": "voice",
+      "start": 385.4200134277344,
+      "end": 385.6400146484375,
+      "aligned": true
+    },
+    {
+      "word": "comes",
+      "start": 385.6400146484375,
+      "end": 385.8999938964844,
+      "aligned": true
+    },
+    {
+      "word": "out",
+      "start": 385.8999938964844,
+      "end": 386.239990234375,
+      "aligned": true
+    },
+    {
+      "word": "too",
+      "start": 386.239990234375,
+      "end": 386.5400085449219,
+      "aligned": true
+    },
+    {
+      "word": "loud",
+      "start": 386.5400085449219,
+      "end": 386.739990234375,
+      "aligned": true
+    },
+    {
+      "word": "in",
+      "start": 386.739990234375,
+      "end": 386.94000244140625,
+      "aligned": true
+    },
+    {
+      "word": "the",
+      "start": 386.94000244140625,
+      "end": 387.1000061035156,
+      "aligned": true
+    },
+    {
+      "word": "quiet,",
+      "start": 387.1000061035156,
+      "end": 387.3999938964844,
+      "aligned": true
+    },
+    {
+      "word": "startling",
+      "start": 388.0400085449219,
+      "end": 388.1600036621094,
+      "aligned": true
+    },
+    {
+      "word": "even",
+      "start": 388.1600036621094,
+      "end": 388.4800109863281,
+      "aligned": true
+    },
+    {
+      "word": "me.",
+      "start": 388.4800109863281,
+      "end": 388.79998779296875,
+      "aligned": true
+    },
+    {
+      "word": "I",
+      "start": 389.260009765625,
+      "end": 389.44000244140625,
+      "aligned": true
+    },
+    {
+      "word": "say—\"Hello?\"",
+      "start": 389.44000244140625,
+      "end": 391.0400085449219,
+      "aligned": false
+    },
+    {
+      "word": "There",
+      "start": 391.0400085449219,
+      "end": 391.260009765625,
+      "aligned": true
+    },
+    {
+      "word": "is",
+      "start": 391.260009765625,
+      "end": 391.5199890136719,
+      "aligned": true
+    },
+    {
+      "word": "nothing,",
+      "start": 391.5199890136719,
+      "end": 391.760009765625,
+      "aligned": true
+    },
+    {
+      "word": "yet",
+      "start": 392.0199890136719,
+      "end": 392.239990234375,
+      "aligned": true
+    },
+    {
+      "word": "I",
+      "start": 392.239990234375,
+      "end": 392.5199890136719,
+      "aligned": true
+    },
+    {
+      "word": "feel",
+      "start": 392.5199890136719,
+      "end": 392.67999267578125,
+      "aligned": true
+    },
+    {
+      "word": "it—I",
+      "start": 392.67999267578125,
+      "end": 393.67999267578125,
+      "aligned": false
+    },
+    {
+      "word": "feel",
+      "start": 393.67999267578125,
+      "end": 393.8999938964844,
+      "aligned": true
+    },
+    {
+      "word": "watched.",
+      "start": 393.8999938964844,
+      "end": 394.260009765625,
+      "aligned": true
+    },
+    {
+      "word": "The",
+      "start": 394.55999755859375,
+      "end": 394.82000732421875,
+      "aligned": true
+    },
+    {
+      "word": "forest",
+      "start": 394.82000732421875,
+      "end": 395,
+      "aligned": true
+    },
+    {
+      "word": "isn't",
+      "start": 395,
+      "end": 395.4599914550781,
+      "aligned": true
+    },
+    {
+      "word": "empty—something",
+      "start": 395.4599914550781,
+      "end": 396.6000061035156,
+      "aligned": false
+    },
+    {
+      "word": "is",
+      "start": 396.6000061035156,
+      "end": 396.8599853515625,
+      "aligned": true
+    },
+    {
+      "word": "out",
+      "start": 396.8599853515625,
+      "end": 397.1000061035156,
+      "aligned": true
+    },
+    {
+      "word": "there",
+      "start": 397.1000061035156,
+      "end": 397.2799987792969,
+      "aligned": true
+    },
+    {
+      "word": "in",
+      "start": 397.2799987792969,
+      "end": 397.3800048828125,
+      "aligned": true
+    },
+    {
+      "word": "the",
+      "start": 397.3800048828125,
+      "end": 397.5799865722656,
+      "aligned": true
+    },
+    {
+      "word": "purple",
+      "start": 397.5799865722656,
+      "end": 397.82000732421875,
+      "aligned": true
+    },
+    {
+      "word": "twilight,",
+      "start": 397.82000732421875,
+      "end": 398.2799987792969,
+      "aligned": true
+    },
+    {
+      "word": "curious,",
+      "start": 398.70001220703125,
+      "end": 399.2200012207031,
+      "aligned": true
+    },
+    {
+      "word": "observing.",
+      "start": 399.8999938964844,
+      "end": 400.17999267578125,
+      "aligned": true
+    },
+    {
+      "word": "All",
+      "start": 400.8599853515625,
+      "end": 400.9800109863281,
+      "aligned": true
+    },
+    {
+      "word": "teachable",
+      "start": 400.9800109863281,
+      "end": 401.29998779296875,
+      "aligned": true
+    },
+    {
+      "word": "moment",
+      "start": 401.29998779296875,
+      "end": 401.6600036621094,
+      "aligned": true
+    },
+    {
+      "word": "forgotten,",
+      "start": 401.6600036621094,
+      "end": 402.0400085449219,
+      "aligned": true
+    },
+    {
+      "word": "Buddy",
+      "start": 402.6199951171875,
+      "end": 402.7200012207031,
+      "aligned": true
+    },
+    {
+      "word": "says—",
+      "start": 402.7200012207031,
+      "end": 403.1400146484375,
+      "aligned": true
+    },
+    {
+      "word": "\"Kira,",
+      "start": 403.67999267578125,
+      "end": 403.67999267578125,
+      "aligned": true
+    },
+    {
+      "word": "I",
+      "start": 403.94000244140625,
+      "end": 403.94000244140625,
+      "aligned": true
+    },
+    {
+      "word": "recommend",
+      "start": 403.94000244140625,
+      "end": 404.32000732421875,
+      "aligned": true
+    },
+    {
+      "word": "we",
+      "start": 404.32000732421875,
+      "end": 404.6600036621094,
+      "aligned": true
+    },
+    {
+      "word": "proceed",
+      "start": 404.6600036621094,
+      "end": 405.0199890136719,
+      "aligned": true
+    },
+    {
+      "word": "with",
+      "start": 405.0199890136719,
+      "end": 405.4800109863281,
+      "aligned": true
+    },
+    {
+      "word": "caution—unknown",
+      "start": 405.4800109863281,
+      "end": 406.3599853515625,
+      "aligned": false
+    },
+    {
+      "word": "environment",
+      "start": 406.3599853515625,
+      "end": 406.82000732421875,
+      "aligned": true
+    },
+    {
+      "word": "protocols",
+      "start": 406.82000732421875,
+      "end": 407.239990234375,
+      "aligned": true
+    },
+    {
+      "word": "suggest—\"",
+      "start": 407.239990234375,
+      "end": 407.739990234375,
+      "aligned": true
+    },
+    {
+      "word": "I",
+      "start": 408.32000732421875,
+      "end": 408.4200134277344,
+      "aligned": true
+    },
+    {
+      "word": "reply—\"Yeah—caution.",
+      "start": 408.4200134277344,
+      "end": 410.5199890136719,
+      "aligned": false
+    },
+    {
+      "word": "Got",
+      "start": 410.5199890136719,
+      "end": 410.70001220703125,
+      "aligned": true
+    },
+    {
+      "word": "it.\"",
+      "start": 410.70001220703125,
+      "end": 410.9599914550781,
+      "aligned": true
+    },
+    {
+      "word": "I",
+      "start": 411.17999267578125,
+      "end": 411.5799865722656,
+      "aligned": true
+    },
+    {
+      "word": "keep",
+      "start": 411.5799865722656,
+      "end": 411.79998779296875,
+      "aligned": true
+    },
+    {
+      "word": "walking,",
+      "start": 411.79998779296875,
+      "end": 412.1400146484375,
+      "aligned": true
+    },
+    {
+      "word": "slower",
+      "start": 412.6199951171875,
+      "end": 412.6199951171875,
+      "aligned": true
+    },
+    {
+      "word": "now,",
+      "start": 412.6199951171875,
+      "end": 413,
+      "aligned": true
+    },
+    {
+      "word": "every",
+      "start": 413.20001220703125,
+      "end": 413.5199890136719,
+      "aligned": true
+    },
+    {
+      "word": "sense",
+      "start": 413.5199890136719,
+      "end": 413.7200012207031,
+      "aligned": true
+    },
+    {
+      "word": "alert—my",
+      "start": 413.7200012207031,
+      "end": 414.6400146484375,
+      "aligned": false
+    },
+    {
+      "word": "hand",
+      "start": 414.6400146484375,
+      "end": 414.9200134277344,
+      "aligned": true
+    },
+    {
+      "word": "finds",
+      "start": 414.9200134277344,
+      "end": 415.1600036621094,
+      "aligned": true
+    },
+    {
+      "word": "the",
+      "start": 415.1600036621094,
+      "end": 415.4200134277344,
+      "aligned": true
+    },
+    {
+      "word": "cutting",
+      "start": 415.4200134277344,
+      "end": 415.55999755859375,
+      "aligned": true
+    },
+    {
+      "word": "tool",
+      "start": 415.55999755859375,
+      "end": 415.79998779296875,
+      "aligned": true
+    },
+    {
+      "word": "in",
+      "start": 415.79998779296875,
+      "end": 415.9599914550781,
+      "aligned": true
+    },
+    {
+      "word": "my",
+      "start": 415.9599914550781,
+      "end": 416.1600036621094,
+      "aligned": true
+    },
+    {
+      "word": "bag",
+      "start": 416.1600036621094,
+      "end": 416.3399963378906,
+      "aligned": true
+    },
+    {
+      "word": "though",
+      "start": 416.7200012207031,
+      "end": 416.82000732421875,
+      "aligned": true
+    },
+    {
+      "word": "I",
+      "start": 416.82000732421875,
+      "end": 417.05999755859375,
+      "aligned": true
+    },
+    {
+      "word": "don't",
+      "start": 417.05999755859375,
+      "end": 417.17999267578125,
+      "aligned": true
+    },
+    {
+      "word": "know",
+      "start": 417.17999267578125,
+      "end": 417.3399963378906,
+      "aligned": true
+    },
+    {
+      "word": "what",
+      "start": 417.3399963378906,
+      "end": 417.5,
+      "aligned": true
+    },
+    {
+      "word": "good",
+      "start": 417.5,
+      "end": 417.6600036621094,
+      "aligned": true
+    },
+    {
+      "word": "it",
+      "start": 417.6600036621094,
+      "end": 417.760009765625,
+      "aligned": true
+    },
+    {
+      "word": "would",
+      "start": 417.760009765625,
+      "end": 417.8800048828125,
+      "aligned": true
+    },
+    {
+      "word": "do.",
+      "start": 417.8800048828125,
+      "end": 418.1400146484375,
+      "aligned": true
+    },
+    {
+      "word": "The",
+      "start": 418.5400085449219,
+      "end": 419.05999755859375,
+      "aligned": true
+    },
+    {
+      "word": "movement",
+      "start": 419.05999755859375,
+      "end": 419.3599853515625,
+      "aligned": true
+    },
+    {
+      "word": "follows",
+      "start": 419.3599853515625,
+      "end": 419.70001220703125,
+      "aligned": true
+    },
+    {
+      "word": "me—staying",
+      "start": 419.70001220703125,
+      "end": 420.55999755859375,
+      "aligned": false
+    },
+    {
+      "word": "in",
+      "start": 420.55999755859375,
+      "end": 420.739990234375,
+      "aligned": true
+    },
+    {
+      "word": "the",
+      "start": 420.739990234375,
+      "end": 421.20001220703125,
+      "aligned": true
+    },
+    {
+      "word": "trees,",
+      "start": 421.20001220703125,
+      "end": 421.20001220703125,
+      "aligned": true
+    },
+    {
+      "word": "keeping",
+      "start": 421.5199890136719,
+      "end": 421.6000061035156,
+      "aligned": true
+    },
+    {
+      "word": "pace.",
+      "start": 421.6000061035156,
+      "end": 422.0199890136719,
+      "aligned": true
+    },
+    {
+      "word": "Something",
+      "start": 422.6000061035156,
+      "end": 422.8599853515625,
+      "aligned": true
+    },
+    {
+      "word": "is",
+      "start": 422.8599853515625,
+      "end": 423.1400146484375,
+      "aligned": true
+    },
+    {
+      "word": "out",
+      "start": 423.1400146484375,
+      "end": 423.32000732421875,
+      "aligned": true
+    },
+    {
+      "word": "there—and",
+      "start": 423.32000732421875,
+      "end": 423.9800109863281,
+      "aligned": false
+    },
+    {
+      "word": "whatever",
+      "start": 423.9800109863281,
+      "end": 424.260009765625,
+      "aligned": true
+    },
+    {
+      "word": "it",
+      "start": 424.260009765625,
+      "end": 424.4800109863281,
+      "aligned": true
+    },
+    {
+      "word": "is,",
+      "start": 424.4800109863281,
+      "end": 424.7799987792969,
+      "aligned": true
+    },
+    {
+      "word": "it's",
+      "start": 425.20001220703125,
+      "end": 425.29998779296875,
+      "aligned": true
+    },
+    {
+      "word": "_very_",
+      "start": 425.29998779296875,
+      "end": 425.8999938964844,
+      "aligned": true
+    },
+    {
+      "word": "curious",
+      "start": 425.8999938964844,
+      "end": 426.260009765625,
+      "aligned": true
+    },
+    {
+      "word": "about",
+      "start": 426.260009765625,
+      "end": 426.5400085449219,
+      "aligned": true
+    },
+    {
+      "word": "me.",
+      "start": 426.5400085449219,
+      "end": 426.67999267578125,
+      "aligned": true
+    }
+  ],
+  "hallucinations": [
+    {
+      "text": "are gray They're purple black",
+      "start": 207.75999450683594,
+      "end": 209.77999877929688,
+      "afterWordIndex": 545
+    }
+  ]
+}
