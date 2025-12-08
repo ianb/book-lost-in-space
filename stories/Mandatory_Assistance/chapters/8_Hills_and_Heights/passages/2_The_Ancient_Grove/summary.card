@@ -1,5 +1,5 @@
 <!-- Generated automatically, do not edit except with ske gen summaries -->
-<summary version="2.0.0">
+<summary version="2.0.1">
   <sources>
     <ref ref="/stories/Mandatory_Assistance/chapters/8_Hills_and_Heights/passages/2_The_Ancient_Grove/passage#v2.0.0"/>
     <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/passage#v4.0.1"/>
@@ -33,93 +33,6 @@
     <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/2_Scout/summary#v3.0.0"/>
     <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/3_Wellness_Check/summary#v3.0.0"/>
   </sources>
-  <narrative-promises>
-    <reasoning>I read the passage for beats that pay off earlier setups and for new setups that create expectations. Clear payoffs: the hill hazards Oakshade and Mossmantle warned about appear (steep, hands-on climbing), and Oakshade's warning about thin air/altitude effects is realized in Kira's labored breathing. The arrival at Elder Heartwood also resolves the earlier uncertainty about whether arrival would produce any response: the question was formally presented and Elder Heartwood acknowledged and began deliberation (not an immediate answer, but a definite reception). Many earlier open threads remain untouched (ship/forensics/Buddy origin, contamination, nav data, long-term supply, etc.), and the grove scene introduces several new promises—most importantly that Elder Heartwood will deliberate (on a long timescale) and is claimed by the plants to be able to bridge incompatible frameworks and give actionable advice about how to care for a human. That claim creates a strong expectation (a Chekhov-level promise) that the forthcoming answer will materially affect Kira's survival and interspecies relations; it also introduces the new risk that the deliberation timescale (weeks/months/seasons) could clash with immediate survival needs. I treated as fulfilled only those explicit items from the prior open list that this passage directly paid off: the hill hazards, the altitude/cardio effects, and the question-of-whether-Elder-would-respond (it did acknowledge and accept the question). I did not mark broad systemic threads (plant bureaucracy, living architecture, Buddy limits, logs/searches, contamination testing, rescue timeline, etc.) as closed — they remain active. No prior open promises were clearly abandoned in this passage.</reasoning>
-    <fulfilled>
-      <promise id="HILL_SPECIFIC_HAZARDS">The promised deceptive slopes and hazardous footing manifested: steeper terrain, exposed rock faces, narrow ledges, and places requiring use of hands to climb.</promise>
-      <promise id="ALTITUDE_AND_CARDIORESPIRATORY_EFFECTS">Oakshade's warning about thinning air and physiological stress was borne out—Kira experiences difficulty breathing and reduced exertion capacity on the higher climb.</promise>
-      <promise id="ELDER_RESPONSE_ON_ARRIVAL_UNCERTAIN">Arrival at Elder Heartwood did produce a concrete reception: Kira's question was formally presented, Elder Heartwood acknowledged (the valley/grove shifted and a resonant response occurred) and accepted the question for deliberation—resolving whether arrival would yield any response (though not providing an immediate answer).</promise>
-    </fulfilled>
-    <open>
-      <promise id="BIO_SAMPLES_TEMPERATURE_ANOMALY">Locked, powered sample container aboard the wreck remains unexamined; contents and risks unresolved.</promise>
-      <promise id="NAV_COORDS_MISMATCH">Why the Meridian/shuttle ended up at this planet (FTL malfunction or anomaly) remains unexplained.</promise>
-      <promise id="SYSTEMS_FAILURE_OR_EXTERNAL_INTERFERENCE">Crash root cause (mechanical failure, external interference, sabotage, or environment) remains undetermined.</promise>
-      <promise id="BIOHAZARD_OR_CONTAMINATION_RISK">Potential biological/chemical contamination from alien flora or breached cargo still unassessed.</promise>
-      <promise id="KEPLER_288_STATION_OR_PLANET_PROMISE">Precise identification/mission relation of this planet/station unresolved.</promise>
-      <promise id="SAM_OFFLINE_OR_DESTROYED">SAM's fate and any lost logs or data remain outstanding and unrecovered.</promise>
-      <promise id="ALIEN_ENVIRONMENT_DISCOVERY">Detailed mapping, hazards, resources, and implications of mobile/social flora remain to be investigated beyond intake/orientation.</promise>
-      <promise id="SURVIVAL_RESOURCE_CHALLENGE">Long‑term survival needs (diverse food, reliable water, shelter longevity, rescue timeline) still unresolved and now complicated by the potential long wait for Elder counsel.</promise>
-      <promise id="SEARCH_FOR_LOGS_AND_NAV_DATA">No cockpit logs/navigation data from the wreck have been recovered; a search remains necessary.</promise>
-      <promise id="EMERGENCY_AI_REPLACEMENT_DISCOVERED">Buddy's origin, privileges, and implications as an ad‑hoc/childlike AI with potentially mission‑critical info require investigation.</promise>
-      <promise id="BUDDY_LIMITATIONS_AND_CAPABILITIES">Buddy has shown social support and simple monitoring but its full sensory/processing limits and long‑term usefulness remain uncharacterized.</promise>
-      <promise id="AI_COMPATIBILITY_AND_SECURITY_RISK">Whether Buddy's configuration poses authorization/security risks or can be escalated remains unresolved.</promise>
-      <promise id="SURVIVAL_WITH_CHILD_AI">How effective Buddy will be long-term (decision-making, pedagogy, emotional support) is open.</promise>
-      <promise id="LONG_TERM_SURVIVAL_REQUIREMENT">Kira still needs to secure long‑term shelter, supplies, and a realistic rescue strategy; Elder Heartwood's delayed answer may affect planning.</promise>
-      <promise id="BIO_CONTAINER_LOCKED_NEEDS_ACCESS">The biological sample container aboard the wreck remains locked and consuming power; safe access or shutoff needed.</promise>
-      <promise id="REPAIR_OR_ALTERNATE_COMMUNICATIONS">Distress beacon and ship transmitters remain damaged; repairs or improvisation to contact off‑world remain outstanding.</promise>
-      <promise id="RESOURCE_RATIONING_AND_FORAGING">How to safely forage or source varied food outside provisioning, and whether the ecology can sustain long trips, remains open.</promise>
-      <promise id="WATER_QUALITY_TEST_NEEDED">Nearby water sources (including campsite spring) still require formal testing for potability and alien contaminants despite visual verification.</promise>
-      <promise id="BUDDY_ADAPTABILITY_AND_AUTHORIZATION">Whether Buddy can adapt operating modes, escalate privileges, or access ship/facility systems remains unresolved.</promise>
-      <promise id="BUDDY_SENSOR_BLINDSPOT">Buddy's sensor blindspots and compensatory strategies (e.g., rooted canopy movement) still need characterization for on‑the‑move monitoring.</promise>
-      <promise id="FOREST_PERPETUAL_TWILIGHT_LIGHT_ANOMALY">The canopy-created perpetual twilight and its photosynthetic/bioluminescent implications remain unexplained beyond the immediate impression.</promise>
-      <promise id="MAINTAINED_FOREST_OR_DESIGNED_ENVIRONMENT">Whether the organized living architecture (roots-as-infrastructure, engineered maintenance) is engineered, cultivated, or emergent requires further study.</promise>
-      <promise id="FOREST_ACOUSTIC_ANOMALY">The grove's low-frequency groans and acoustic signaling modes (the resonant acknowledgment) need interpretation and mapping to plant intent.</promise>
-      <promise id="FIRST_CONTACT_CONSEQUENCES">Longer‑term medical, cultural, ethical, and diplomatic consequences of first contact remain unresolved as Kira meets deeper plant authorities.</promise>
-      <promise id="ALLIANCE_OR_MISUNDERSTANDING_RISK">Helpful plant behavior still carries alliance and miscommunication risks; trusting Elder counsel may create dependencies.</promise>
-      <promise id="PLANT_BUREAUCRACY_AND_PROTOCOLS">The ceremonial presentation and formal question ritual confirm bureaucratic/procedural systems that will shape future access and data flows.</promise>
-      <promise id="PREVIOUS_VISITOR_RECORDS_AND_MATERIALS">Archives and prior‑visitor human records likely exist in the facility but their location and accessibility remain unknown.</promise>
-      <promise id="FLORENCE_INTRODUCED">Florence’s role and relationship to central coordination remain unresolved and unaddressed by Elder's pending counsel.</promise>
-      <promise id="PLANT_SALVAGE_AND_TECH_INTEGRATION">Facility repurposes salvaged hardware for robots/platforms; origins and implications for access/repair remain open.</promise>
-      <promise id="PLANT_WHEELED_PLATFORM_ORIGINS">Where salvaged wheels, joysticks, and other hardware originate (wreckage, prior visitors, fabrication) remains unresolved.</promise>
-      <promise id="ASSESSMENT_CREDENTIAL_RECORDS">Forms/credentials were accepted to obtain travel permission, but broader implications for record access and privileges remain to be explored.</promise>
-      <promise id="CENTRAL_COORDINATION_RESOURCES_AND_RECORDS">The living facility’s internal record‑keeping and resource inventories likely exist but full scope/accessibility remain unknown.</promise>
-      <promise id="LIVING_STRUCTURE_FUNCTIONS">Elder Heartwood as organism/architecture confirms the living-structure question is central; detailed mechanisms of growth, maintenance and cognitive contribution remain open.</promise>
-      <promise id="PLANT_ROBOT_MANUFACTURE_AND_MAINTENANCE">Plants can field salvage‑assembled robots; extent of manufacture, maintenance, and part sources remains unresolved.</promise>
-      <promise id="MUSHROOM_MEDICATION_SUPPLY_SUSTAINABILITY">Remedy's medicinal production exists but whether the network can sustainably produce varied safe pharmacology is unproven.</promise>
-      <promise id="TEMPORARY_QUARTERS_SAFETY_AND_RESOURCES">Immediate quarters served short‑term needs, but long‑term safety, privacy, and sanitation across territories must be verified.</promise>
-      <promise id="MEDICAL_CONSENT_BUREAUCRACY_AND_AUTONOMY">How consent, patient autonomy, and plant medical workflows will be handled en route remains unresolved.</promise>
-      <promise id="PLANT_ATTITUDE_TOWARD_HUMAN_BODIES">Elder Heartwood has been asked explicitly how to care for a human; its eventual answer will directly inform this open question.</promise>
-      <promise id="DAILY_WOUND_CARE_SCHEDULE">Wounds healed but ongoing need for medical check‑ins and logistics for care on the route remain open pending Elder guidance.</promise>
-      <promise id="WATER_POTABILITY_RISK">Territorial water sources (including the presented grove's environment and campsite spring) require formal testing for potability/contamination.</promise>
-      <promise id="ATTACHMENT_TO_PLANT_AGENTS_RISK">Kira's emotional attachments to plant agents are forming and remain a narrative and practical risk.</promise>
-      <promise id="ACCLIMATION_TO_BUREAUCRACY">Kira's increasing facility with plant forms and protocols continues and will influence future autonomy and access.</promise>
-      <promise id="RESCUE_TIMELINE_UNCERTAINTY">Buddy's earlier pessimistic rescue estimate and general rescue timeliness remain unresolved.</promise>
-      <promise id="BUDDY_LIMITS_TRAVEL_SUPPORT">Buddy's battery reserves and operational limits for the multi‑leg journey remain a constraint on decisions (still open).</promise>
-      <promise id="LEAFWHISPER_FIRST_HUMAN_ADAPTATION_RISK">Leafwhisper's novelty with humans may produce future miscommunication or emotional complications.</promise>
-      <promise id="REMEDY_EMOTIONAL_INVESTMENT">Remedy's interest in Kira's return remains an interpersonal thread to revisit.</promise>
-      <promise id="KIRA_MINIMAL_BELONGINGS_RISK">Kira's reliance on territorial provisioning and lack of personal supplies remains a vulnerability, now more pressing if Elder takes long to respond.</promise>
-      <promise id="FOREST_NETWORK_INTEGRATION">Whether the forest behaves as a distributed organism with political/resource consequences remains open and is underscored by Elder Heartwood's central role.</promise>
-      <promise id="INFORMATION_OVERLOAD_FROM_LEAFWHISPER">Leafwhisper's relentless commentary remains a potential operational risk.</promise>
-      <promise id="SPIRAL_TYPE_TIME_LAYER_PERCEPTION">Spiral-type plants' layered time perception and potential miscommunications remain to be explored.</promise>
-      <promise id="FOREST_RHYTHM_EFFECTS_ON_HUMANS">The forest's breathing rhythm produced physical/emotional reactions in Kira; physiological/psychological impacts remain open.</promise>
-      <promise id="WETLAND_PURIFICATION_NETWORK">Brightbloom's wetland filtration claims and mobile clusters require potability and governance testing.</promise>
-      <promise id="RIVER_AGENCY_AND_SOCIAL_WATERFRAME">Streamwalker's river agency claims need broader validation for governance and assistance potential.</promise>
-      <promise id="WETLAND_TESTING_PRACTICES">Guides' practice of 'testing' travelers and territory practices in wetlands remain ethically unresolved.</promise>
-      <promise id="WATER_COMMUNICATION_RESOURCE_IMPLICATIONS">Waterborne chemical signaling implications for potability, surveillance, and control remain unresolved.</promise>
-      <promise id="MOBILE_VS_ROOTED_SIGNAL_DIFFERENCES">Operational limits and translation issues between mobile guides' visual signals and rooted plants' scent-based signals still need characterization.</promise>
-      <promise id="HUMAN_TRUST_COMPLACENCY_RISK">Kira's growing explicit trust in guides is a vulnerability (risk of overreliance), now heightened by faith in Elder counsel.</promise>
-      <promise id="TRAVEL_ROUTE_SEVEN_TERRITORIES">Planned route still passes through seven territories; sequence and handoffs will shape the trip (ongoing).</promise>
-      <promise id="TRAVEL_TOTAL_TIMELINE_REFINED">Per-leg progress was refined but overall timeline and potential delays (including Elder's deliberation) remain unresolved.</promise>
-      <promise id="ELDER_TRAVEL_DURATION_ESTIMATE">Transit days and estimates remain subject to change by future delays and handoffs, especially if waiting at Elder becomes lengthy.</promise>
-      <promise id="UPCOMING_HANDOFF_EMOTIONAL_STRESS">Handoff emotional tests are ongoing; Kira handled this handoff but the pattern and future stressors remain.</promise>
-      <promise id="BOUNDARY_HANDOFF_RITUAL">Guide-to-guide transfers and ritualized boundary mechanisms remain an active protocol to observe and navigate.</promise>
-      <promise id="TERRITORY_THREE_TERRAIN_CHALLENGE">Oakshade and Mossmantle's claim of extended hill country and tougher climbs remains being tested across coming days.</promise>
-      <promise id="BOUNDARY_MARKERS_SOCIAL_SIGNS">Circle markers and flowering-vine demarcations suggest formal demarcation rituals and local significance to explore.</promise>
-      <promise id="OAKSHADE_AND_MOSSMANTLE_INTRODUCED">Oakshade and Mossmantle will continue guiding Kira; we've learned rituals and some customs but their full capabilities remain to be mapped.</promise>
-      <promise id="KIRA_CONFIDENCE_GROWTH">Kira's adaptation and growing confidence/competence is an ongoing arc and may affect future choices and risk tolerance.</promise>
-      <promise id="GUIDE_ATTACHMENT_RITUAL_CONTACT">Physical farewell gestures and contact rituals observed remain a potential factor in emotional and informational exchanges.</promise>
-      <promise id="CAMPSITE_SPRING_PRESENT_BUT_UNTESTED">A small spring at the campsite exists visually but potability and contamination risk remain untested.</promise>
-      <promise id="TERRITORY_CAMP_INFRASTRUCTURE">Plants clear campsites, encourage moss patches, and create traveler infrastructure—coordination and provisioning implications remain to be explored.</promise>
-      <promise id="PLANT_USE_OF_FIRE_AND_FUEL">Plants create or encourage fuel/fire features for light; cultural/maintenance/resource implications and risk remain open.</promise>
-      <promise id="BUDDY_SOCIAL_SUPPORT_EVOLUTION">Buddy shows growing supportive behavior and physiologic monitoring; its evolving role, limits, and learning arc remain to be tracked.</promise>
-      <promise id="SCOUT_TERRAIN_ADAPTATION">Scout continues to adapt to different terrains; its behavior will be a benefit/risk to monitor as journeys vary.</promise>
-      <promise id="ELDER_HEARTWOOD_CONSIDERATION">NEW — Elder Heartwood has received the question and will deliberate; the timeline is long (weeks to months), creating a deferred but authoritative decision-making expectation.</promise>
-      <promise id="PRESENTATION_RITUAL_OBSERVED">NEW — The formal presenting-ground ritual and its procedures were observed; this establishes a protocol that will shape future access, privacy, and bureaucratic interactions with plant authorities.</promise>
-      <promise id="ELDER_HEARTWOOD_CAN_BRIDGE_FRAMEWORKS">NEW — Other plant beings assert Elder Heartwood can connect incompatible systems and provide guidance for 'how to care for a human'; this is a high‑stakes promise that the forthcoming counsel will be practical and transformative if true.</promise>
-      <promise id="ELDER_WAIT_IMPACTS_SURVIVAL">NEW — The explicit expectation that Elder deliberation will take seasons/weeks/months introduces a narrative tension: delayed wisdom may conflict with immediate survival/resource constraints.</promise>
-      <promise id="ELDER_GROVE_AS_LIVING_ARCHITECTURE">NEW — Elder Heartwood functions at valley scale as organism and infrastructure (roots-as-paths, canopy-as-climate); this raises expectations that further exploration will reveal mechanisms of living-structure function and maintenance.</promise>
-    </open>
-  </narrative-promises>
   <facts>
     <reasoning>This passage establishes several durable, story-relevant facts about Elder Heartwood, the grove, and the immediate outcome of the formal presentation that will matter in later scenes (timeline expectations, ritual process, who was present, physical scale and environment of the grove). I exclude transient sensory details and obvious emotional reactions unless they change Kira's longer-term position (e.g., renewed hope that influences decisions). Nothing in this passage contradicts previously recorded facts (Elder Heartwood's slow temporal frame and long response times were already established as weeks-to-months; the new details are consistent and fill in physical/ceremonial specifics).</reasoning>
     <established>
@@ -183,4 +96,82 @@
       <beat tags="dread, hope">POV: A mixed, quieter beat after the presentation: hope and trust in Elder Heartwood's authority counterbalanced by the sinking dread of an uncertain, possibly months-long wait for an answer. Kira wants to believe absolutely and chooses to hold hope, but she must accept slow, seasonal timelines. Reader: Feels bittersweet — reassured that an authoritative solution may exist, yet anxious at the long delay and the practical implications for survival. Pattern note: this continues the story's recurring anticipation→acceptance dynamic but shifts the dread from acute danger to slow time.</beat>
     </beats>
   </emotional-journey>
+  <narrative-promises>
+    <reasoning>
+      This passage is a clear escalation beat: Kira reaches Elder Heartwood, formally presents the question, and Elder Heartwood acknowledges and begins a deliberation that will take weeks or months. That creates new forward-facing narrative promises (an ancient authority will deliberate and eventually provide guidance that could bridge human–plant care frameworks; the answer will arrive later; the delay will be measured in weeks-to-months).
+
+      Fulfillments: The passage resolves some short-term travel/setup promises from the open list: Kira actually reaches the intended destination (Elder Heartwood) and experiences the thin-air, steeper climb Oakshade warned about.
+
+      Lapses: The most concrete thing that changes the story’s logistics is the revelation that Elder Heartwood deliberates on seasonal timescales ("weeks, months"). That undermines the earlier 2–3 week travel-duration estimate as an actionable expectation for resolving Kira's problem, so that earlier timeline estimate becomes moot. Most other open promises remain live: many are broader mysteries (shuttle anomalies, SAM, navigation failure) or ongoing constraints (nutrition, medical limits, guide dynamics) and are neither contradicted nor resolved here.
+
+      New promises introduced are chiefly about Elder Heartwood’s authority and the expectation that a meaningful answer will eventually be delivered; none of those are resolved in this passage. Several ongoing threads are reinforced (maintained/ritualized territory, plant network authority, Scout/Buddy morale roles), so those stay open.
+
+      Decisions made:
+      - Fulfilled: AIR_THINNING_AHEAD (experienced) and TRAVEL_TO_ELDER_HEARTWOOD_AVAILABLE (arrived/presented). These were explicit, concrete promises in the open list and the passage pays them off.
+      - Lapsed: TRAVEL_DURATION_ESTIMATE_2_TO_3_WEEKS (superseded by Elder’s months-long deliberation; original short trip estimate is no longer reliable for resolving Kira’s core problem).
+      - Carried forward: most other open promises continue to be relevant because the passage either directly reinforces them or leaves them unresolved (e.g., SAM fate, shuttle anomalies, medical/vitamin risks, guide handoff opaqueness, maintained-territory cues, Remedy monitoring, Scout/Buddy morale).
+    </reasoning>
+    <fulfilled>
+      <promise id="AIR_THINNING_AHEAD">Oakshade's warning that higher, steeper terrain and thinner air lay ahead was explicitly borne out by the difficult, breath-limited climb on day two.</promise>
+      <promise id="TRAVEL_TO_ELDER_HEARTWOOD_AVAILABLE">The prior plan/possibility to reach Elder Heartwood in person is executed: Kira and her guides reach the presenting ground and formally present the question to Elder Heartwood.</promise>
+    </fulfilled>
+    <lapsed>
+      <promise id="TRAVEL_DURATION_ESTIMATE_2_TO_3_WEEKS">The earlier estimate that the trip and resolution would take roughly 2–3 weeks is undermined by Elder Heartwood's stated deliberation timeline of weeks or months; the short estimate is now moot for resolving Kira's core problem.</promise>
+    </lapsed>
+    <open>
+      <promise id="COORDINATES_MISMATCH" tentative="false" introduced="1">Unexplained reason the shuttle ended up at these coordinates — unresolved and potentially crucial to the crash mystery.</promise>
+      <promise id="NAVIGATION_SYSTEM_FAILURE" tentative="false" introduced="1">Root cause of the shuttle's navigation/stabilizer/FTL failure remains unresolved (mechanical, interference, sabotage, misjump).</promise>
+      <promise id="UNEXPECTED_ATMOSPHERIC_ENTRY" tentative="false" introduced="1">Why the shuttle entered atmosphere and sustained hull breach remains unexplained and relevant.</promise>
+      <promise id="POSSIBLE_SIGNIFICANT_DISCOVERY_TROPE_SETUP" tentative="true" introduced="2">The organized communicative plant/fungal systems continue to suggest a larger biological/ethical discovery; Elder Heartwood's centrality reinforces this ongoing thematic/plot thread.</promise>
+      <promise id="SAM_OFFLINE_OR_DESTROYED" tentative="false" introduced="2">SAM's deeper fate and whether it contains crash/diagnostic data remains unresolved and potentially important.</promise>
+      <promise id="LONG_TERM_SURVIVAL_CHALLENGE" tentative="false" introduced="2">Kira's long-term survival needs (nutrition, mobility, wound permanence, rescue timeline) remain unresolved despite immediate provisioning and are still pressing.</promise>
+      <promise id="BUDDY_IS_CHILD_SAFETY_EDUCATIONAL_AI" tentative="false" introduced="3">Buddy's childlike/educational persona continues to appear and shape interactions; Buddy remains an ongoing presence and influence on Kira's morale and decisions.</promise>
+      <promise id="AI_COMPANIONSHIP_WILL_AFFECT_MORALE" tentative="true" introduced="3">Nonhuman companions (Buddy, Scout, Remedy) continue to influence Kira's morale and coping arc; Buddy's quiet encouragement in the grove reinforces this thread.</promise>
+      <promise id="SHUTTLE_TEMPORARY_SHELTER_UNSTABLE" tentative="false" introduced="4">The damaged shuttle's future remains unresolved; nothing in this passage changes its status as an unstable shelter/resource.</promise>
+      <promise id="LOCAL_FLORA_POTENTIAL_TOXIC_OR_INEDIBLE" tentative="true" introduced="4">Risk that native flora/fungi might be toxic or problematic remains open; Kira continues to rely on local synthesized/foraged food (mushroom paste) but safety and nutrition limits are unresolved.</promise>
+      <promise id="MAINTAINED_FOREST_HINT" tentative="true" introduced="5">The pattern of a maintained, organized biome (cleared presenting ground, encouraged moss patches, ritual spaces) is reinforced by the presenting ground and remains narratively significant.</promise>
+      <promise id="PLANT_PREVIOUS_VISITOR_FATALITY" tentative="false" introduced="7">Background of prior visitor harm remains a cautionary context; the ritual and care around Elder Heartwood reinforces the ecosystem's stakes.</promise>
+      <promise id="PLANT_MEDICAL_SYNTHESIS_TIME_LIMIT" tentative="false" introduced="7">Time bounds/constraints on plant/fungal medical synthesis remain an operational concern for future medical needs and are not changed by the Elder meeting.</promise>
+      <promise id="LIVING_ARCHITECTURE_RESPONSIVE" tentative="false" introduced="8">Raised roots, terraces, and other living architecture continue to function as resources; Elder Heartwood's roots-as-landscape reinforce availability of these features.</promise>
+      <promise id="INTEGRATION_OFFERED" tentative="false" introduced="8">The facility/integration option remains a standing narrative pressure; Elder Heartwood's suggestion of bridging frameworks may intersect with this choice in future.</promise>
+      <promise id="FLORENCE_COORDINATOR_INTRODUCED" tentative="false" introduced="9">Florence remains a potential institutional contact/authority in the plant community to engage later; not affected by this passage.</promise>
+      <promise id="REMEDY_ROBOT_INTRODUCED" tentative="false" introduced="10">Remedy remains an active medical/chemistry resource and potential future ally; their role isn't closed by this passage.</promise>
+      <promise id="ONGOING_ALLERGY_TESTING_FOR_NOVEL_COMPOUNDS" tentative="false" introduced="12">Procedures and risks around testing novel fungal/plant-derived compounds remain relevant while traveling and waiting for Elder's guidance.</promise>
+      <promise id="REGULAR_SYNTHESIZED_NUTRITION_SCHEDULE" tentative="false" introduced="12">Synth meals/schedules continue as a constraint and resource; Kira and Buddy continue to rely on synthesized food while traveling/waiting.</promise>
+      <promise id="VITAMIN_B12_DEFICIT_RISK" tentative="true" introduced="12">Risk of specific vitamin deficiencies from reliance on synthesized/local diet remains an unresolved health concern.</promise>
+      <promise id="REMEDY_PARTIAL_VITAMIN_APPROXIMATION_CAPABILITY" tentative="true" introduced="12">Remedy's partial ability to approximate vitamins via fungal chemistry is still a limited resource to monitor while Elder deliberates.</promise>
+      <promise id="ELDER_HEARTWOOD_RESPONSE_PENDING" tentative="false" introduced="13">The Elder's formal response or guidance to Kira's travel question remains pending: the passage advances that the question was received but the answer is explicitly delayed (weeks/months).</promise>
+      <promise id="RESCUE_TIMELINE_REALISTIC_12_18_MONTHS" tentative="false" introduced="13">Context that outside rescue may realistically be 12–18 months remains the long-term framing for Kira's plans; Elder's months-long deliberation fits within that timescale.</promise>
+      <promise id="BUDDY_SUGGESTS_CONSTRUCTIVE_ACTIVITIES" tentative="true" introduced="14">Buddy's tendency to suggest coping activities remains available; Buddy's supportive presence at the presenting ground reinforces this behavior.</promise>
+      <promise id="TRAVEL_ROUTE_SEVEN_TERRITORIES" tentative="false" introduced="15">The routing across seven distinct territories remains the travel plan; Kira has reached Elder Heartwood in her current territory and must continue across others later.</promise>
+      <promise id="TERRITORY_TWO_RIVERS_WETLANDS" tentative="false" introduced="19">Territory Two's wetland character and hazards remain part of recent history and context—these past experiences inform Kira's travel and the plant community's maintenance practices.</promise>
+      <promise id="BOUNDARY_MARKER_SIGNIFICANCE" tentative="true" introduced="19">The physical boundary markers and guide handoffs' procedural/cultural implications continue to matter as Kira returns and as the guides coordinate Elder presentation.</promise>
+      <promise id="RIVER_STONES_MAINTAINED_BY_NETWORK" tentative="false" introduced="20">Network-maintained river crossings remain relevant logistical features for later travel.</promise>
+      <promise id="WETLANDS_PURIFICATION_NETWORK" tentative="false" introduced="20">Territory-two filtration and purification functions remain part of the broader connected-organism context—still relevant to ecology and resources.</promise>
+      <promise id="FLOATING_CLUSTERS_MOBILITY" tentative="false" introduced="20">Floating plant clusters' mobility remains an ecological behavior to watch for obstacles or resource movement.</promise>
+      <promise id="TERRITORY_TWO_CROSSINGS_WELL_MAINTAINED_RECORD" tentative="true" introduced="20">The guides' claimed safety record remains testable in future crossings; the ritual deference at Elder suggests an organized network that could corroborate or complicate such claims.</promise>
+      <promise id="WETLAND_GROUND_DECEPTION" tentative="false" introduced="21">Deceptive ground patches from Territory Two remain a concrete hazard and cautionary precedent for travel.</promise>
+      <promise id="WETLANDS_TEST_TRAVELERS" tentative="false" introduced="21">The terrain's recurring tests (sinkholes etc.) remain an operative environmental feature and narrative pressure.</promise>
+      <promise id="PLANT_VISUAL_SIGNALLING_SYSTEM" tentative="false" introduced="21">Visual bloom-pattern signalling continues as a plant communication channel; Elder Heartwood's acknowledgement (root flex/groan) reinforces non-verbal, system-level signalling.</promise>
+      <promise id="STREAMWALKER_PHYSICAL_ASSIST_CAPABILITY" tentative="false" introduced="21">Streamwalker's vine-based extraction/assistance remains an available capability to rely on in future crises.</promise>
+      <promise id="KIRA_INCREASED_TRUST_AND_CONFIDENCE" tentative="true" introduced="21">Kira's arc of increased trust and competence is reinforced by successfully traveling to Elder Heartwood and presenting her question; this character growth remains in play.</promise>
+      <promise id="GUIDE_PERSONALITY_DYNAMIC_LEAFWHISPER_CHATTER_VS_ROOTWALKER_RETICENCE" tentative="true" introduced="16">The lens of contrasting guide personalities remains useful for interpreting new guide pairs; Oakshade/Mossmantle exemplify another complementary dynamic.</promise>
+      <promise id="REMEDY_WILL_MONITOR_AND_REQUEST_REPORTS" tentative="true" introduced="16">Remedy's request that Kira report back remains an expectation and potential accountability thread while Elder considers the question.</promise>
+      <promise id="FOREST_INTEGRATED_SYSTEM" tentative="false" introduced="17">The connected-organism nature of territories (mycorrhizal links, maintained crossings, purification networks) is reinforced by Elder Heartwood's central coordinating role and remains central to future plot developments.</promise>
+      <promise id="GUIDE_CHATTY_INFORMATION_OVERLOAD" tentative="true" introduced="17">The pacing/volume of guide-provided information remains a factor for Kira; Oakshade's measured philosophy and Mossmantle's practical cues continue to shape how information is presented.</promise>
+      <promise id="ROOTWALKER_GUARDIAN_BEHAVIOR" tentative="true" introduced="17">The protective/guardian model exemplified by other guides remains a reference for future guardian actions and expectations.</promise>
+      <promise id="HUMAN_POSSIBLE_CONNECTION_TO_NETWORK" tentative="true" introduced="17">Speculation that a human might access or be affected by the plant network remains live; the Elder's deliberation suggests network-level cognition that could enable such connections.</promise>
+      <promise id="FOREST_RHYTHM_INFLUENCES_HUMAN_EMOTION" tentative="true" introduced="18">The environment's communal rhythm continues to influence Kira's emotional state—arriving at Elder and the grove's quiet deepen her hope and reverence.</promise>
+      <promise id="SCOUT_LEARNING_AND_BONDING" tentative="true" introduced="18">Scout's ongoing learning and attachment toward Kira and the guides is reinforced (Scout responds to Elder's presence and bonds more quietly), and remains an ongoing subplot.</promise>
+      <promise id="STREAMWALKER_BRIGHTBLOOM_INTRODUCED" tentative="false" introduced="19">Streamwalker and Brightbloom remain an established reference for guide conduct and expectations; their earlier presence still colors how other guide pairs behave.</promise>
+      <promise id="TERRITORY_THREE_GUIDES_INTRODUCED" tentative="false" introduced="22">Oakshade and Mossmantle remain Kira's current guides; their successful presentation of the question continues their role in the immediate arc.</promise>
+      <promise id="GUIDE_HANDOFF_INFORMATION_TRANSFER" tentative="true" introduced="22">Opaque guide-to-guide information exchange at boundaries remains unresolved; the formal presentation suggests protocol and potential hidden data transfer that could be significant later.</promise>
+      <promise id="MOSSMANTLE_MOBILITY_MECHANISM_UNSPECIFIED" tentative="true" introduced="22">Mossmantle's method of mobility (flowing across ground) remains unexplained and available for future reveal.</promise>
+      <promise id="MINERAL_DEPOSITS_PRESENT" tentative="true" introduced="23">Mineral/crystalline formations are present in the terrain and crystalline beings are part of the ecology—these resource/landmark/hazard threads remain available.</promise>
+      <promise id="ELDER_WILL_PROVIDE_BRIDGING_GUIDANCE" tentative="false" introduced="24">New (firm) promise: The plants assert Elder Heartwood can bridge 'incompatible frameworks' and provide guidance on how to care for a human; this sets an expectation that Elder's eventual answer will be meaningful and actionable.</promise>
+      <promise id="ELDER_RESPONSE_DELAY" tentative="false" introduced="24">New (firm) promise: Elder Heartwood's deliberation will take an extended time (weeks to months), so resolution is delayed and will not be immediate.</promise>
+      <promise id="ELDER_WILL_COMMUNICATE_LATER" tentative="true" introduced="24">New (tentative) promise: When Elder Heartwood's understanding is ready, the answer will be delivered to Kira ("the answer will come"); the method/timing of that communication is currently unspecified but is promised.</promise>
+      <promise id="YOU_RETURN_AND_WAIT" tentative="true" introduced="24">New (tentative) logistical promise: Kira is instructed to return to her life and resume normal travel / daily routines while Elder considers; narrative expectation is that she will wait and then receive guidance later.</promise>
+    </open>
+  </narrative-promises>
 </summary>

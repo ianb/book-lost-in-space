@@ -1,5 +1,5 @@
 <!-- Generated automatically, do not edit except with ske gen summaries -->
-<summary version="2.0.0">
+<summary version="2.0.1">
   <sources>
     <ref ref="/stories/Mandatory_Assistance/chapters/14_Choosing_Home/passages/3_Where_Voices_Belong/passage#v2.0.0"/>
     <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/passage#v4.0.1"/>
@@ -52,62 +52,6 @@
     <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/2_Scout/summary#v3.0.0"/>
     <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/3_Wellness_Check/summary#v3.0.0"/>
   </sources>
-  <narrative-promises>
-    <reasoning>This passage mainly dramatizes the social consequences of the freighter visit rather than resolving technical, tactical, or political problems. It shows an emotional payoff: a spontaneous celebration, durable social integration of Kira, and concrete invitations for Kira to participate in future design and experimental work. That pays off some of the narrative promises raised by the previous visit (specifically those about morale and the precedent of human design input), but it does not institutionalize governance, fix resource or infrastructure shortfalls, resolve hostile-plant strategic questions, or remove the political/legal risks that attendance by the company introduced. Many previously flagged operational, environmental, and logistical threads therefore remain live. The passage does introduce a cluster of new, actionable promises tied to projects and social roles (Runner/Vellvet/Remedy projects, Florence's defensive ideas, Holloway's enabling leadership model, Scout's social role, and the promise that Kira's membership will be ongoing and influential) — all of which create new commitments that will demand resources and governance attention in future scenes.</reasoning>
-    <fulfilled>
-      <promise id="COMMUNITY_MORALE_BOOST_AND_RESOURCE_IMPACT">The previously flagged morale boost actually occurs: the community celebrates, cohesion increases, and comfort-focused compounds and spaces are actively used — demonstrating the immediate morale/resource effect of the freighter visit.</promise>
-      <promise id="HUMAN_DESIGN_INFLUENCE_PRECEDENT">The precedent that human feedback influences plant design is realized: Kira is invited and accepted into multiple concrete future design and testing roles (Runner, Velvet, Remedy), showing human design influence is now an ongoing practice rather than a one-off.</promise>
-    </fulfilled>
-    <open>
-      <promise id="REBUILD_TRUST_PROCESS">Durable reconciliation/governance outcomes remain untested; the visit and celebration have not produced codified trust processes for future stressors or formal dispute-resolution procedures.</promise>
-      <promise id="HOSTILE_PLANTS_MOTIVATION_UNKNOWN">The deeper motivations, intentions, and likely adaptations of hostile plant forces were not addressed by the social celebration and remain strategically unknown.</promise>
-      <promise id="COMMUNITY_WEAKENING_RISK">High morale has increased cohesion, but resource limits and fragile infrastructure still risk weakening the community under future demand or stress.</promise>
-      <promise id="BOUNDARY_MARKERS_SOCIAL_SIGNS">Formal negotiation of territorial rituals, boundary markers, or social recognition procedures was not established during the celebration and remains unresolved.</promise>
-      <promise id="HOSTILE_PLANT_TERRITORIAL_MARKERS">Enemy territorial marking and escalation implications remain unaddressed and relevant.</promise>
-      <promise id="PLANT_AUTHORITY_TRUST_EROSION">Long-term political consequences and possible factionalism around Holloway's authority were not institutionalized; trust remains contingent and open to future erosion.</promise>
-      <promise id="DAILY_ITERATIVE_CARE_PRACTICE">Who will sustain day-to-day medical and caregiving routines under ongoing strain remains unsettled despite the celebratory morale boost.</promise>
-      <promise id="REMEDY_EMOTIONAL_INVESTMENT">Remedy's increased emotional investment (and attendant burnout risk) is demonstrated by their enthusiasm but remains an unresolved personnel/resource risk.</promise>
-      <promise id="BOUNDARY_HANDOFF_RITUAL">No enduring protocol for boundary transfer/recognition was formalized beyond the emergency beacon; rituals and handoffs remain open.</promise>
-      <promise id="ATTACHMENT_TO_PLANT_AGENTS_RISK">Kira's deepening emotional and operational ties to plant allies (Scout, Runner, etc.) are now stronger and continue to represent a structural vulnerability for future choices or missions.</promise>
-      <promise id="LONG_TERM_SURVIVAL_REQUIREMENT">Durable shelter, sustainable supply chains, and reliable external support remain necessary and unresolved for long-term survival.</promise>
-      <promise id="SURVIVAL_RESOURCE_CHALLENGE">Immediate resource shortages and supply flows were not materially changed by the celebration, leaving survival logistics open.</promise>
-      <promise id="ELDER_TWIST_AUTHENTICITY_INVESTIGATION">Questions about elder communications, possible deception, or hidden agendas were not resolved by social acceptance and remain live.</promise>
-      <promise id="PLANT_BUREAUCRACY_AND_PROTOCOLS">Whether emergent collaborative practices will be codified into formal bureaucracy or contested remains unresolved despite the community's enabling behavior.</promise>
-      <promise id="ALL_TECHNICAL_AND_LOGISTICAL_THREADS">Many repairs and technical/logistical tasks (water, medical, structural work) are still unfinished and must be coordinated moving forward.</promise>
-      <promise id="RESOURCE_DEPLETION_AND_INFRASTRUCTURE_DAMAGE">Physical damage and depleted consumables remain and demand planning and timelines for rebuilding.</promise>
-      <promise id="RUNNER_INJURY_OPERATIONAL_IMPACT">Runner is active socially and creatively, but any prior injuries or operational limits were not fully resolved and still pose mission risks.</promise>
-      <promise id="CHEMICAL_NEUTRALIZATION_SECONDARY_HAZARD">Long-term environmental or toxic-residue hazards from past neutralizations remain unaddressed.</promise>
-      <promise id="REMEDY_DEPLETION_CRISIS">Remedy's production capacity for defensive or high-volume needs remains unclear despite new QoL compounds being produced.</promise>
-      <promise id="VELVET_SUSTAINABILITY_FAILURE">Velvet's impressive growth/design continues to be used, but whether it is sustainable under resource stress remains open.</promise>
-      <promise id="RUNNER_RECOVERY_LIMITATION">Runner's recovery and full operational limits remain unresolved despite current activity.</promise>
-      <promise id="NEW_TARGET_SOUTHWEST_LIFE_SUPPORT">Southwest life-support vulnerabilities and technical concerns remain as outstanding repair targets.</promise>
-      <promise id="NEW_REMEDY_RESOURCE_ALLOCATION_CONSEQUENCE">Remedy's shift toward quality-of-life projects (celebration compounds, scents) continues and the downstream trade-offs for defense and survival remain to be determined.</promise>
-      <promise id="COMMAND_NODE_AFTERMATH_AND_COUNTERADAPTATION">Whether hostile plants will adapt tactically after losing the command node is still unknown.</promise>
-      <promise id="GROUP_OFFENSIVE_TACTIC_POTENTIAL">Improvised group tactics still need refinement and development; the celebration did not finalize tactical doctrine.</promise>
-      <promise id="REMEDY_RECOVERY_AND_CAPACITY">Remedy is producing again, but full restoration of defensive/production capacity remains unproven.</promise>
-      <promise id="RUNNER_CRITICAL_INJURY_RISK">Runner remains a critical, irreplaceable asset with uncertain availability for future risky missions.</promise>
-      <promise id="AFTERMATH_INFRASTRUCTURE_AND_REPAIR">Rebuilding tasks and coordination for infrastructure repairs remain incomplete and require planning.</promise>
-      <promise id="COMMAND_NODE_DISPOSAL_AND_CONTAMINATION_CLEANUP">Long-term disposal and environmental cleanup of the command node remain unresolved.</promise>
-      <promise id="REMEDY_ROLE_EXPANSION">Remedy's broadened role into QoL and tactical support is visibly continuing (celebration compounds, experiments), but the social and resource consequences remain to be worked out.</promise>
-      <promise id="RESOURCE_PRESSURE_FROM_COMFORTS">Comfort-producing projects (Velvet growth, fragrance, celebration) consume resources; the passage shows more comfort-use and therefore keeps this pressure live.</promise>
-      <promise id="SOCIAL_CONSEQUENCES_OF_STAY_OR_LEAVE">Kira's choice produced emotional closure, but longer-term interpersonal, political, and resource implications of her staying are still open.</promise>
-      <promise id="RESOURCE_IMPACT_OF_SIGNAL_OPERATIONS">Downstream allocation consequences from prior signal/antenna operations remain unaddressed.</promise>
-      <promise id="AFTER-EVENTS_POLITICAL_FALLOUT">How the community will handle political fallout or corporate/legal reactions to aiding human contact has not been resolved.</promise>
-      <promise id="HUMAN_AUTHORITY_VS_PLANT_GOVERNANCE">The interaction tested Holloway's governance claims but the broader precedent and legal/political implications remain unsettled.</promise>
-      <promise id="POTENTIAL_FORCED_EXTRACTION">The company might later escalate beyond this diagnostic tour (mandate, legal pressure, enforcement); that possibility remains live.</promise>
-      <promise id="EMERGENCY_BEACON_PROTOCOL">The freighter's beacon and contact procedure exist as a concrete mechanism for extraction; procedural and jurisdictional questions remain open.</promise>
-      <promise id="SIGNED_DECLARATION_PRECEDENT">Kira's signed refusal already exists as an official record; its future legal and public implications remain unresolved.</promise>
-      <promise id="COMPANY_PRECEDENT_NONFORCIBLE_RESPONSE">Torres' non‑forcible acceptance could be precedent-setting; whether the company will adhere to it or reverse course later is still open.</promise>
-      <promise id="MEDICAL_VALIDATION_PRECEDENT">Dr. Chen's scans established a medical validation precedent; how that precedent will be used in future disputes remains open.</promise>
-      <promise id="RUNNER_NEW_ACOUSTIC_DESIGN">Newly introduced: Runner invited Kira to co-design expanded acoustic chambers — a concrete project promise that requires time, resources, and human input.</promise>
-      <promise id="VELVET_WESTERN_WING_PROJECT">Newly introduced: Velvet's planned artistic growth for the western wing with Kira's feedback is an explicit future design commitment.</promise>
-      <promise id="REMEDY_COMPOUND_TRIALS">Newly introduced: Remedy will experiment with new enhancement compounds and seeks human olfactory testing — a continuing R&amp;D commitment with resource implications.</promise>
-      <promise id="FLORENCE_DEFENSIVE_IMPROVEMENTS">Newly introduced: Florence proposes future defensive improvements as her community contribution; tactical planning is being folded into social inclusion and remains open.</promise>
-      <promise id="HOLLOWAY_ENABLING_GOVERNANCE_MODEL">Newly highlighted: Holloway's enabling (noncontrolling) coordination style is in practice; whether this becomes a stable governance model or is contested remains to be seen.</promise>
-      <promise id="SCOUT_SOCIAL_CONNECTOR_ROLE">Newly established: Scout's role as social-affect anchor and connector is solidified in practice — a functional role that may have future social/operational consequences.</promise>
-      <promise id="COMMUNITY_PERMANENT_MEMBERSHIP_INSTITUTIONALIZATION">Newly implied: The passage claims Kira's membership is permanent; whether that permanence will be formally codified, contested, or leveraged politically/legalistically remains open.</promise>
-    </open>
-  </narrative-promises>
   <facts>
     <reasoning>This passage describes a post-crisis social moment that has ongoing significance: the community spontaneously celebrates, Remedy announces/uses a new class of scent compounds for joy, and Kira is explicitly included as an active, permanent collaborator on concrete future projects (acoustics, artistic growth, scent testing). These are not mere transitory details — they signal a durable shift from survival mode to creative, cooperative community-building with Kira as a continuing, influential member. I omitted transient details (time of day, Scout's specific bounces) and facts already established (Florence's reintegration, Kira's residency) unless the passage added a new, lasting element (e.g., Remedy's specific celebration compounds and concrete planned projects). No statements in this passage contradict previously established facts.</reasoning>
     <established>
@@ -173,4 +117,60 @@
       <beat tags="wonder, acceptance">POV: Reflective, almost reverent acceptance — Kira articulates the lesson ('Home is where your voice matters') and experiences quiet wonder at this strange, true family. It's contemplative closure: recognition of transformation and awe at how differences created richness. Reader: Feels resonant closure and emotional satisfaction; the scene reframes earlier procedural/fractured motifs into a humane, hopeful synthesis.</beat>
     </beats>
   </emotional-journey>
+  <narrative-promises>
+    <reasoning>This passage is a payoff scene for social/integration threads (celebration, invitations to collaborate, Florence's reintegration, Buddy/Scout morale effects, Holloway coordinating future resource management) but it does not address earlier technical mysteries about the crash or external political consequences in detail. I treated explicit, concrete ongoing actions in the passage (Holloway coordinating resources; community acting locally; Florence participating as an equal; Buddy and Scout driving morale) as fulfilled payoffs for earlier promises that signaled those developments. I kept unresolved investigative/logistical promises about the crash, navigation, SAM, resource depletion, hostiles/regrouping, and the emergency beacon as still open because the passage either reinforced their relevance or left them untouched. Older, off-stage items that were introduced long ago and receive no reinforcement here (external guide/brightbloom mentions) I lapsed as the story has moved focus firmly to internal community life for now. Finally I recorded several new, concrete future-facing setups introduced in this passage (Runner/Velvet/Remedy project invitations, Holloway's resource-coordination plans, Florence's defensive suggestions, and an explicit statement of Kira's permanent integration), marking them tentative only when they were soft or exploratory in tone.</reasoning>
+    <fulfilled>
+      <promise id="AI_COMPANIONSHIP_WILL_AFFECT_MORALE">The previously noted influence of AI/companions on Kira’s morale is demonstrated and paid off here: Buddy and Scout visibly shape morale, interpretation, and celebration.</promise>
+      <promise id="HOLLOWAY_IMPLEMENT_INVENTORY_TRACKING">Holloway's coordination/triage/inventory role was asserted earlier and is explicitly enacted here as Holloway coordinates future resource management and enables projects.</promise>
+      <promise id="STOP_WAITING_FOR_ELDER_ACT_LOCALLY">The earlier setup that the community will act locally rather than defer to elders is realized: the community organizes, plans projects, and moves forward without waiting for outside authority.</promise>
+      <promise id="FLORENCE_IDENTITY_ARC">Florence's redemption/change arc (previously marked tentative) gets a clear payoff: she participates fully and is publicly integrated as an equal voice in the community.</promise>
+    </fulfilled>
+    <lapsed>
+      <promise id="STREAMWALKER_BRIGHTBLOOM_INTRODUCED">An older off-stage contact (Streamwalker/Brightbloom) was introduced earlier but receives no reinforcement here; the story has shifted inward to community life, making this lead currently moot.</promise>
+      <promise id="TERRITORY_THREE_GUIDES_INTRODUCED">Another older, external-guide worldbuilding item from much earlier is not referenced and has been de-prioritized by the passage’s focus on internal integration and future projects.</promise>
+    </lapsed>
+    <open>
+      <promise id="COORDINATES_MISMATCH" tentative="false" introduced="1">Unexplained reasons why the courier shuttle ended up at these coordinates; crash routing and mystery remain unresolved.</promise>
+      <promise id="NAVIGATION_SYSTEM_FAILURE" tentative="false" introduced="1">Root cause of the shuttle's navigation/stabilizer/FTL failure remains unknown (mechanical, interference, sabotage, misjump).</promise>
+      <promise id="UNEXPECTED_ATMOSPHERIC_ENTRY" tentative="false" introduced="1">Why the shuttle entered atmosphere and sustained a hull breach is still unresolved and relevant to the crash investigation.</promise>
+      <promise id="SAM_OFFLINE_OR_DESTROYED" tentative="false" introduced="2">Fate of SAM and whether it contains diagnostic/crash data remains unresolved and could be critical to understanding the crash.</promise>
+      <promise id="LONG_TERM_SURVIVAL_CHALLENGE" tentative="false" introduced="2">Kira's long-term survival needs and resource constraints remain relevant even though short-term comfort has improved; future sustainability planning is still required.</promise>
+      <promise id="BUDDY_IS_CHILD_SAFETY_EDUCATIONAL_AI" tentative="false" introduced="3">Buddy remains Kira’s companion and tech resource; their childlike persona and analytic role continue to shape interpretation and decisions.</promise>
+      <promise id="LOCAL_FLORA_POTENTIAL_TOXIC_OR_INEDIBLE" tentative="true" introduced="4">Risk that native flora/fungi might be toxic or otherwise hazardous remains relevant; community experimentation mitigates but does not eliminate ecological risk.</promise>
+      <promise id="PLANT_PREVIOUS_VISITOR_FATALITY" tentative="false" introduced="7">Background caution about a prior visitor’s harm remains relevant to how the group frames risk and treats incoming humans.</promise>
+      <promise id="INTEGRATION_OFFERED" tentative="false" introduced="8">The larger question of human/plant integration remains open at the political level beyond this facility even though Kira chose integration locally; external ramifications are unresolved.</promise>
+      <promise id="REMEDY_ROBOT_INTRODUCED" tentative="false" introduced="10">Remedy continues as the on-site chemical/medical resource; their experimental role and supply limitations remain relevant.</promise>
+      <promise id="REMEDY_WILL_MONITOR_AND_REQUEST_REPORTS" tentative="true" introduced="16">Remedy’s monitoring/reporting habits and supply-management responsibilities persist — experimental work helps now but longer-term reporting is still needed.</promise>
+      <promise id="TRAVEL_ROUTE_SEVEN_TERRITORIES" tentative="false" introduced="15">Known routing and messenger timeline constraints remain relevant to any future extraction or contact missions.</promise>
+      <promise id="TERRITORY_TWO_RIVERS_WETLANDS" tentative="false" introduced="19">Regional wetland characteristics and hazards continue to frame extraction, travel, and resource planning.</promise>
+      <promise id="WETLANDS_PURIFICATION_NETWORK" tentative="false" introduced="20">Background regional purification/filtration links and resource implications remain relevant to longer-term repair/resupply.</promise>
+      <promise id="WETLAND_GROUND_DECEPTION" tentative="false" introduced="21">Off-stage travel hazards (deceptive ground patches in the wetland) remain a threat and background constraint for moving people or supplies.</promise>
+      <promise id="STREAMWALKER_PHYSICAL_ASSIST_CAPABILITY" tentative="false" introduced="21">External aids like Streamwalker remain possible assistance options and still exist as contingencies for future needs.</promise>
+      <promise id="GUIDE_PERSONALITY_DYNAMIC_LEAFWHISPER_CHATTER_VS_ROOTWALKER_RETICENCE" tentative="true" introduced="16">Contrasting guide personalities remain an important dynamic (enthusiastic Scout-like guides vs reticent ones) and continue to affect decisions and morale.</promise>
+      <promise id="FOREST_RHYTHM_INFLUENCES_HUMAN_EMOTION" tentative="true" introduced="18">The forest’s communal rhythms continue to shape Kira’s emotional state and sense of belonging; this passage reinforced that influence.</promise>
+      <promise id="RELOCATION_PRESSURE_POTENTIAL" tentative="true" introduced="29">The freighter created a relocation option; Kira's refusal reduces immediacy but the strategic potential (and external pressure) persists for future decisions.</promise>
+      <promise id="INTERNAL_TRUST_FRACTURE" tentative="false" introduced="29">Past trust fractures have been visibly healed here, but underlying unresolved emotional issues could resurface under stress and remain an open thread.</promise>
+      <promise id="SCOPE_OF_FABRICATION_INVESTIGATION" tentative="false" introduced="30">Which guidance/instructions in the facility were elder-authoritative vs Florence-made fabrication remains an open inquiry for future truth-seeking.</promise>
+      <promise id="FLORENCE_WILL_RETREAT_IF_REJECTED" tentative="false" introduced="32">Although Florence is integrated now, the possibility that she could withdraw under different circumstances remains a live contingency.</promise>
+      <promise id="RESOURCE_DEPLETION_IMMINENT" tentative="false" introduced="34">Resource limits remain a pressing constraint; the passage shows planning but not resolution, so depletion remains a looming concern.</promise>
+      <promise id="EXPECT_EXTENDED_SIEGE" tentative="false" introduced="34">Forecasts of prolonged threat and hostile regrouping were not eliminated by the freighter visit and remain strategically relevant.</promise>
+      <promise id="HOSTILES_WILL_REGROUP" tentative="false" introduced="36">The attackers' potential to regroup is not addressed here and remains an unresolved threat.</promise>
+      <promise id="RECOVERY_AND_REPAIR_REQUIRED" tentative="false" introduced="37">Ongoing repairs and recovery needs still hold as reconstruction continues beyond celebratory successes.</promise>
+      <promise id="REBUILD_RESOURCE_SEARCH" tentative="false" introduced="37">The group must continue to identify/gather/trade for materials as they expand to new wings; this work is anticipated but unresolved.</promise>
+      <promise id="EXTERNAL_CONTACT_POLITICAL_CONSEQUENCES" tentative="true" introduced="39">Arrival/notification of human vessels may have broader political, social, or security consequences; Torres' return-report could trigger those consequences later.</promise>
+      <promise id="RESOURCE_IMPACT_OF_STAY" tentative="true" introduced="40">Kira's decision to remain has practical resource implications; the passage shows planning and coordination but not a long-term solution.</promise>
+      <promise id="COMPANY_PROTOCOL_DISPUTE" tentative="true" introduced="41">The captain invoked company regulations earlier; whether that will escalate into a company-level dispute remains open.</promise>
+      <promise id="EMERGENCY_BEACON_LEFT" tentative="false" introduced="42">Torres left an emergency beacon and contact information—an explicit extraction option remains available as a durable contingency.</promise>
+      <promise id="TORRES_WILL_REPORT_BACK_TO_COMPANY" tentative="true" introduced="42">The implied follow-up that Captain Torres will report the refusal to her company/command remains likely and may have consequences later.</promise>
+      <promise id="REMEDY_WILL_MONITOR_AND_REQUEST_REPORTS" tentative="true" introduced="16">Remedy's ongoing monitoring and reporting obligations continue to be relevant; they may influence future logistics and resupply.</promise>
+      <promise id="HOLLOWAY_COORDINATED_RESOURCE_MANAGEMENT" tentative="false" introduced="43">Newly explicit in this passage: Holloway will coordinate future resource management and enable collaborative projects (keeps logistics open and important).</promise>
+      <promise id="RUNNER_ACOUSTIC_EXPANSION" tentative="false" introduced="43">New firm setup: Runner is designing additional acoustic chambers and has invited Kira to participate in design, promising concrete collaborative work.</promise>
+      <promise id="VELVET_WESTERN_WING_PROJECT" tentative="false" introduced="43">New firm setup: Velvet is planning artistic growth for the western wing and has invited Kira to give feedback—an ongoing design collaboration is promised.</promise>
+      <promise id="REMEDY_COMPOUND_TESTING" tentative="false" introduced="43">New firm setup: Remedy requests Kira's human olfactory testing for new aromatic compounds—this establishes ongoing experimental collaboration and monitoring.</promise>
+      <promise id="COLLABORATIVE_PROJECTS_SCHEDULE" tentative="false" introduced="43">New firm setup: Concrete immediate plans are announced (start projects tomorrow — Runner's designs, Velvet's plans, Remedy's experiments), creating near-term narrative hooks.</promise>
+      <promise id="FLORENCE_DEFENSIVE_IMPROVEMENTS" tentative="true" introduced="43">New tentative setup: Florence is outlining potential defensive improvements to the facility (a seed for future tactical/defense work, pitched as her contribution).</promise>
+      <promise id="COMMUNITY_PERMANENT_INTEGRATION" tentative="false" introduced="43">New firm thematic/plot promise: the text repeatedly frames Kira's role as permanent — she is to be included permanently in community life and decision-making.</promise>
+      <promise id="COMMUNITY_VALUES_INDIVIDUAL_VOICE_AS_POLICY" tentative="false" introduced="43">New firm thematic promise: the community appears to have adopted valuing individual voices as an explicit practice, shaping future decisions and culture.</promise>
+    </open>
+  </narrative-promises>
 </summary>

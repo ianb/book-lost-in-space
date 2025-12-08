@@ -1,5 +1,5 @@
 <!-- Generated automatically, do not edit except with ske gen summaries -->
-<summary version="2.0.0">
+<summary version="2.0.1">
   <sources>
     <ref ref="/stories/Mandatory_Assistance/chapters/14_Choosing_Home/passages/1_Official_Choice/passage#v2.0.0"/>
     <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/passage#v4.0.1"/>
@@ -50,57 +50,6 @@
     <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/2_Scout/summary#v3.0.0"/>
     <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/3_Wellness_Check/summary#v3.0.0"/>
   </sources>
-  <narrative-promises>
-    <reasoning>This passage resolves the freighter arrival and Kira's immediate refusal of extraction, but leaves almost all structural, resource, political, and safety questions open. The key payoff is the moment-of-choice and the formal encounter with human authorities (Captain Torres and Dr. Chen), which moves the narrative into a new phase — negotiation/assessment between human institutions and the plant community. Most prior logistical, governance, environmental, and strategic promises remain live because the freighter's arrival creates new pressures (legal, political, evidentiary) rather than resolving underlying fragilities. The passage also introduces several new setups: human institutional response (company/protocols), a planned tour/assessment that will act as evidence, and the medical validation that may be leveraged in policy or PR decisions. No earlier promises besides the freighter ETA/interaction are fully closed here; nothing substantial about resources, cleanup, hostile-plant motivations, or long-term governance is settled.</reasoning>
-    <fulfilled>
-      <promise id="FREIGHTER_ETA_EXTRACTION">The freighter (Harmony Prospect) arrived as predicted and engaged directly with Kira. The extraction sequence began: Captain Torres and Dr. Chen met Kira, Dr. Chen scanned her, and a formal evaluation/tour was requested. The timing and initial human-plant interaction that the ETA promise left unresolved have now occurred.</promise>
-    </fulfilled>
-    <open>
-      <promise id="REBUILD_TRUST_PROCESS">Durable reconciliation and governance consequences remain untested by future stressors; the community still needs institutionalized trust structures and a stress test under outside scrutiny (human visitors).</promise>
-      <promise id="HOSTILE_PLANTS_MOTIVATION_UNKNOWN">Deeper motivations and adaptation of hostile plant forces remain unexplained and dangerous; the arrival of humans could change threat dynamics but does not resolve their strategic intent.</promise>
-      <promise id="COMMUNITY_WEAKENING_RISK">High morale exists, but resource limits and infrastructure fragility remain; outside attention and potential demands may increase strain rather than resolve it.</promise>
-      <promise id="BOUNDARY_MARKERS_SOCIAL_SIGNS">Formal negotiation of territorial rituals, physical and social boundary markers remains unresolved as the community's social space solidifies—now potentially complicated by human legal/ownership concerns.</promise>
-      <promise id="HOSTILE_PLANT_TERRITORIAL_MARKERS">Enemy territorial marking and implications for escalation/negotiation remain unaddressed and unchanged by the freighter arrival.</promise>
-      <promise id="PLANT_AUTHORITY_TRUST_EROSION">Political consequences and possible factionalism in plant governance remain unresolved; human scrutiny (Torres/Chen) will test Holloway's and the community's claims of autonomy and authority.</promise>
-      <promise id="DAILY_ITERATIVE_CARE_PRACTICE">Who will reliably sustain day-to-day medical and caregiving routines under resource strain remains unsettled; human presence may alter expectations or workloads but does not solve the issue.</promise>
-      <promise id="REMEDY_EMOTIONAL_INVESTMENT">Remedy's expanded role and emotional investment continue; its long-term willingness and burnout risk remain unresolved.</promise>
-      <promise id="BOUNDARY_HANDOFF_RITUAL">Formal protocols for boundary control and handoff still need negotiation as social geography becomes fixed; human extraction/refusal magnifies the need for clear rituals/protocols.</promise>
-      <promise id="ATTACHMENT_TO_PLANT_AGENTS_RISK">Kira's operational and emotional dependence on plant allies remains a structural vulnerability for future choices and missions, now evidenced by her refusal to leave and likely to be scrutinized by humans.</promise>
-      <promise id="LONG_TERM_SURVIVAL_REQUIREMENT">Durable shelter, supplies, sustainable systems and reliable external support remain necessary but unresolved; the human visit does not change underlying material needs.</promise>
-      <promise id="SURVIVAL_RESOURCE_CHALLENGE">Critical shortages and resource flows remain pressing and unaddressed by the freighter visit (no resupply was accepted or discussed materially).</promise>
-      <promise id="ELDER_TWIST_AUTHENTICITY_INVESTIGATION">Questions about elder communications and possible deception remain live; human inspection may probe claims but does not yet resolve authenticity concerns.</promise>
-      <promise id="PLANT_BUREAUCRACY_AND_PROTOCOLS">Whether emergent collaborative practices will be codified, contested, or institutionalized is still unresolved; the human delegation’s arrival will test informal governance.</promise>
-      <promise id="ALL_TECHNICAL_AND_LOGISTICAL_THREADS">Many repairs and technical/logistical tasks (water, medical, structural) remain unfinished and must be coordinated; the freighter visit may create new demands for coordination.</promise>
-      <promise id="RESOURCE_DEPLETION_AND_INFRASTRUCTURE_DAMAGE">Physical damage and depleted consumables persist; the passage does not address scope or timeline for rebuilding.</promise>
-      <promise id="RUNNER_INJURY_OPERATIONAL_IMPACT">Runner remains an irreplaceable asset with injuries that may limit future risky operations; no new recovery information is provided.</promise>
-      <promise id="CHEMICAL_NEUTRALIZATION_SECONDARY_HAZARD">Potential toxic residues and long-term environmental/health hazards from previous neutralization are still unaddressed.</promise>
-      <promise id="REMEDY_DEPLETION_CRISIS">Remedy has restarted production but the longer-term consequences of prior depletion and time to full recovery remain unclear.</promise>
-      <promise id="VELVET_SUSTAINABILITY_FAILURE">Velvet's growth and design work are impressive but long-term sustainability under continued strain remains a question.</promise>
-      <promise id="RUNNER_RECOVERY_LIMITATION">Runner's recovery is improving but full restoration and limits on future operations remain unresolved.</promise>
-      <promise id="NEW_KIRA_EMERGENCY_EVACUATION_ROUTINE">Holloway's evacuation contingency exists; its broader adequacy (for other scenarios, or if Kira changes her mind) remains unproven and untested by formal legal scrutiny.</promise>
-      <promise id="NEW_TARGET_SOUTHWEST_LIFE_SUPPORT">Southwest life-support vulnerabilities remain a live technical concern; not addressed here.</promise>
-      <promise id="NEW_REMEDY_RESOURCE_ALLOCATION_CONSEQUENCE">Remedy's shift toward QoL and tactical support creates downstream allocation trade-offs that remain unresolved.</promise>
-      <promise id="COMMAND_NODE_AFTERMATH_AND_COUNTERADAPTATION">Whether hostile plants will adapt tactically after losing the command node is still unknown.</promise>
-      <promise id="GROUP_OFFENSIVE_TACTIC_POTENTIAL">Previously-productive tactics need refinement; improvised technical tactics were used but require further development.</promise>
-      <promise id="REMEDY_RECOVERY_AND_CAPACITY">Remedy is producing again but has not demonstrated full restoration of defensive/production capacity.</promise>
-      <promise id="RUNNER_CRITICAL_INJURY_RISK">Runner remains a critical asset with uncertain availability for future high-risk missions.</promise>
-      <promise id="AFTERMATH_INFRASTRUCTURE_AND_REPAIR">Rebuilding tasks remain incomplete and will need ongoing coordination and materials.</promise>
-      <promise id="COMMAND_NODE_DISPOSAL_AND_CONTAMINATION_CLEANUP">Long-term disposal and environmental cleanup of the command node remain unresolved.</promise>
-      <promise id="REMEDY_ROLE_EXPANSION">Remedy's broadened role into QoL and tactical support continues to create social and resource consequences to be worked out.</promise>
-      <promise id="HUMAN_FRIENDLY_DESIGN_INTEGRATION">Human ergonomics and permanency of interspecies space-use remain unresolved; the tour may clarify, but not yet resolved.</promise>
-      <promise id="RESOURCE_PRESSURE_FROM_COMFORTS">Comfort-producing projects consume resources and may create future trade-offs and political tensions; unchanged by refusal to be extracted.</promise>
-      <promise id="SOCIAL_CONSEQUENCES_OF_STAY_OR_LEAVE">Kira's decision to stay has immediate emotional closure but longer-term interpersonal, political, and resource implications of her choice remain to be explored.</promise>
-      <promise id="RESOURCE_IMPACT_OF_SIGNAL_OPERATIONS">Improvised antenna/amplification consumed materials; downstream resource allocation consequences remain to be tracked.</promise>
-      <promise id="AFTER-EVENTS_POLITICAL_FALLOUT">How the community will handle longer-term political fallout from aiding human contact and Kira's choice remains open and likely heightened by this encounter.</promise>
-      <promise id="HARMONY_PROSPECT_OFFICIAL_RESPONSE">New: The company's procedural and legal reaction to a rescued person refusing extraction—possible reporting, forced-retrieval orders, or diplomatic negotiation—has been set up but not resolved.</promise>
-      <promise id="OFFICIAL_ASSESSMENT_TOUR">New: Captain Torres has agreed to tour the facility and question members as evidence to determine whether Kira is being held or is an autonomous resident; the tour's findings will have political and legal consequences.</promise>
-      <promise id="MEDICAL_VALIDATION_IMPACT">New: Dr. Chen’s initial scan found Kira physically and neurologically healthy; how that medical validation will be used by the company (to concede, to classify as voluntary, or to pursue other action) is an open question.</promise>
-      <promise id="HUMAN_AUTHORITY_VS_PLANT_GOVERNANCE">New: The interaction tests plant governance claims (Holloway's authority and promises of free choice) against human institutional regulations—this conflict is unresolved and may set precedent.</promise>
-      <promise id="KIRA_LEGAL_STATUS_DECLARATION">New: Kira's formal refusal of rescue creates a legal/administrative status question (refusal, waiver, or forced recovery) that remains to be adjudicated.</promise>
-      <promise id="TOUR_AS_EVIDENCE">New: The promised facility tour functions as a setup: what Torres and Dr. Chen see and report will act as evidence shaping subsequent corporate or public decisions.</promise>
-      <promise id="POTENTIAL_FORCED_EXTRACTION">New: The possibility that the company will escalate beyond a diagnostic tour (returning with mandate, legal pressure, or enforcement) is introduced by the human delegation's interest and remains open.</promise>
-    </open>
-  </narrative-promises>
   <facts>
     <reasoning>Selected facts are events and statements that affect future social/political dynamics and rescue outcomes: the human freighter actually arriving and landing; named human contacts (Captain Torres, Dr. Chen) who may act later; an in-person medical evaluation confirming Kira is neurologically sound and in improved health (corroborating Buddy and prior wellness facts); Kira's explicit, in-person refusal to be extracted (reaffirming her commitment to stay); Holloway's public assertion that Kira is free to leave; and Captain Torres' skepticism and agreement to tour the facility (which sets up potential negotiation/verification scenes). No details flagged as conflicts with previously established facts.</reasoning>
     <established>
@@ -171,4 +120,61 @@
       <beat tags="relief, acceptance">POV: Vindicated relief and steady acceptance when medical scans confirm Kira is healthy and Holloway defends her agency — Kira feels validated in calling the facility home. Cause: Dr. Chen’s scan readings and Holloway’s testimony remove the claim of impairment/coercion and allow the standoff to move toward mutual appraisal rather than forced extraction. Reader: feels cathartic relief and emotional closure — the long arc toward belonging is affirmed, converting earlier anxiety about rescue into a satisfying, accepting resolution.</beat>
     </beats>
   </emotional-journey>
+  <narrative-promises>
+    <reasoning>
+      Summary of analysis:
+
+      This passage stages the freighter's arrival and Kira's explicit, in-person refusal of extraction. That action resolves the immediate, concrete setup about informing the freighter in person and provokes the expected initial human reaction (medical scan, skepticism, invocation of protocol) — so those earlier promises are paid off here. The freighter crew asking for a tour introduces a firm new setup (they will inspect the facility), and the captain's invocation of regulations raises a new tentative promise that company/legal/bureaucratic consequences may follow. Most earlier mysteries (crash diagnostics, SAM, atmospheric entry, navigation failure) and ongoing logistical / political / ecological threads remain open; nothing in this passage contradicts or makes them moot. I therefore mark the two very immediate promises as fulfilled, add two new forward-moving promises, carry forward the remaining open promises from the list, and do not mark any large, older promise as lapsed (none were explicitly dropped or made irrelevant).
+
+      Notes on borderline items:
+      - HUMAN_VESSEL_REACTION_TO_REFUSAL was tentative previously; this passage shows the human crew reacting (scan, skepticism, decision to inspect), which constitutes the promised reaction being realized — so I mark it fulfilled (still tentative in spirit). 
+      - INFORM_FREIGHTER_IN_PERSON is an explicit, near-term action and is clearly fulfilled in this passage. 
+      - EXTERNAL_CONTACT_POLITICAL_CONSEQUENCES remains open and becomes more salient now that a human vessel has inspected and is likely to report. 
+      - I kept LAPSED_PROMISES empty because nothing was directly contradicted or abandoned; the story moved forward on the immediate courier/boarding interaction but left strategic and mystery threads intact.
+    </reasoning>
+    <fulfilled>
+      <promise id="INFORM_FREIGHTER_IN_PERSON">Kira planned to tell the arriving freighter face-to-face that she is choosing to stay; she does so by refusing extraction to Captain Torres and Dr. Chen.</promise>
+      <promise id="HUMAN_VESSEL_REACTION_TO_REFUSAL">The freighter crew respond with skepticism, a medical scan, and procedural concern — initiating scrutiny and asking to be shown the facility (initial bureaucratic reaction occurs).</promise>
+    </fulfilled>
+    <open>
+      <promise id="COORDINATES_MISMATCH" tentative="false" introduced="1">Unexplained reasons why the courier shuttle ended up at these coordinates; the crash mystery and routing remain unresolved.</promise>
+      <promise id="NAVIGATION_SYSTEM_FAILURE" tentative="false" introduced="1">Root cause of the shuttle's navigation/stabilizer/FTL failure (mechanical, interference, sabotage, misjump) remains unknown and narratively important.</promise>
+      <promise id="UNEXPECTED_ATMOSPHERIC_ENTRY" tentative="false" introduced="1">Why the shuttle entered atmosphere and sustained a hull breach is still unresolved and relevant to the crash investigation and possible foul play.</promise>
+      <promise id="SAM_OFFLINE_OR_DESTROYED" tentative="false" introduced="2">Fate of SAM and whether it contains diagnostic/crash data remains unresolved and could be critical to understanding what happened to the courier vessel.</promise>
+      <promise id="LONG_TERM_SURVIVAL_CHALLENGE" tentative="false" introduced="2">Kira's long-term survival needs and resource constraints remain relevant even though short-term comfort has improved; long-term resource limits persist.</promise>
+      <promise id="BUDDY_IS_CHILD_SAFETY_EDUCATIONAL_AI" tentative="false" introduced="3">Buddy continues as Kira’s companion and tech resource; their childlike persona and analytic role remain active in decisions and morale.</promise>
+      <promise id="AI_COMPANIONSHIP_WILL_AFFECT_MORALE" tentative="true" introduced="3">The influence of nonhuman companions (Buddy, Scout, Remedy) on Kira’s morale and coping arc continues and is reinforced by interactions here.</promise>
+      <promise id="LOCAL_FLORA_POTENTIAL_TOXIC_OR_INEDIBLE" tentative="true" introduced="4">Risk that native flora/fungi might be toxic or otherwise hazardous remains relevant; the group's chemical experiments reduce but do not eliminate ecological risk.</promise>
+      <promise id="PLANT_PREVIOUS_VISITOR_FATALITY" tentative="false" introduced="7">Background caution about a prior visitor’s harm remains relevant to how the group frames risk and treats incoming humans; it may affect future interactions with external parties.</promise>
+      <promise id="INTEGRATION_OFFERED" tentative="false" introduced="8">The larger political question of integration between human systems and flora societies remains unresolved; local acceptance is progressing but regional politics are open.</promise>
+      <promise id="REMEDY_ROBOT_INTRODUCED" tentative="false" introduced="10">Remedy remains the on-site chemical/medical resource; their capacity and supply limitations continue to matter even as they repurpose skills for environmental enhancements.</promise>
+      <promise id="REMEDY_WILL_MONITOR_AND_REQUEST_REPORTS" tentative="true" introduced="16">Remedy’s monitoring/reporting habits and supply-management responsibilities persist — their experimental work helps now but long-term resource reporting is still needed.</promise>
+      <promise id="TRAVEL_ROUTE_SEVEN_TERRITORIES" tentative="false" introduced="15">Known routing and messenger timeline constraints remain relevant to any external contact, extraction planning, or future travel.</promise>
+      <promise id="TERRITORY_TWO_RIVERS_WETLANDS" tentative="false" introduced="19">Regional wetland characteristics and hazards continue to frame extraction, travel, and resource planning.</promise>
+      <promise id="WETLANDS_PURIFICATION_NETWORK" tentative="false" introduced="20">Background regional purification/filtration links and their resource implications remain relevant to longer-term repair/resupply.</promise>
+      <promise id="WETLAND_GROUND_DECEPTION" tentative="false" introduced="21">Off-stage travel hazards (deceptive ground patches in the wetland) remain a threat and background constraint for moving people or supplies.</promise>
+      <promise id="STREAMWALKER_PHYSICAL_ASSIST_CAPABILITY" tentative="false" introduced="21">External aids like Streamwalker remain possible assistance options and still exist as contingencies for future needs.</promise>
+      <promise id="GUIDE_PERSONALITY_DYNAMIC_LEAFWHISPER_CHATTER_VS_ROOTWALKER_RETICENCE" tentative="true" introduced="16">Contrasting guide personalities and how they affect group decisions remain an important dynamic (Buddy/Scout enthusiasm vs Runner/Velvet reticence).</promise>
+      <promise id="FOREST_RHYTHM_INFLUENCES_HUMAN_EMOTION" tentative="true" introduced="18">The forest’s communal rhythms continue to shape Kira’s emotional state and sense of belonging; this influence is reinforced here.</promise>
+      <promise id="STREAMWALKER_BRIGHTBLOOM_INTRODUCED" tentative="false" introduced="19">Streamwalker and Brightbloom remain part of the wider-network context and potential future contacts.</promise>
+      <promise id="TERRITORY_THREE_GUIDES_INTRODUCED" tentative="false" introduced="22">Guides and territory-three practices remain available background knowledge for problem-solving if needed later.</promise>
+      <promise id="HOLLOWAY_IMPLEMENT_INVENTORY_TRACKING" tentative="false" introduced="28">Holloway’s coordination and inventory/triage role remains important as reconstruction and now communication efforts continue.</promise>
+      <promise id="STOP_WAITING_FOR_ELDER_ACT_LOCALLY" tentative="false" introduced="28">The community's choice to act locally rather than defer to elders continues to shape their functioning and is reinforced by Florence and others' actions.</promise>
+      <promise id="OUTCOME_BASED_VALIDATION" tentative="true" introduced="28">The community’s practice of local validation-by-outcome (good results granting authority) remains under test as Florence and others show accepted leadership.</promise>
+      <promise id="RELOCATION_PRESSURE_POTENTIAL" tentative="true" introduced="29">Relocation pressure remains a live strategic question — the freighter created an option; Kira's refusal changes immediacy but the strategic potential persists.</promise>
+      <promise id="INTERNAL_TRUST_FRACTURE" tentative="false" introduced="29">Past trust fractures have healed visibly but unresolved emotional/forgiveness issues remain beneath the surface and may resurface as stakes increase.</promise>
+      <promise id="SCOPE_OF_FABRICATION_INVESTIGATION" tentative="false" introduced="30">Which guidance/instructions in the facility were elder-authoritative vs Florence-made fabrication remains an open inquiry for future truth-seeking.</promise>
+      <promise id="FLORENCE_IDENTITY_ARC" tentative="true" introduced="30">Florence’s redemption and changing role is advancing but remains an ongoing personal and social arc.</promise>
+      <promise id="FLORENCE_WILL_RETREAT_IF_REJECTED" tentative="false" introduced="32">Florence could withdraw if rejected, though recent acceptance has made retreat less likely; it's still a possible trigger under different social circumstances.</promise>
+      <promise id="RESOURCE_DEPLETION_IMMINENT" tentative="false" introduced="34">Resource limits remain a pressing logistic constraint even as production is re-purposed; Kira's choice to remain makes long-term resupply a more immediate practical question.</promise>
+      <promise id="EXPECT_EXTENDED_SIEGE" tentative="false" introduced="34">Earlier forecasts of prolonged threat and hostile regrouping are still relevant; the temporary reprieve from destruction is not permanent safety.</promise>
+      <promise id="HOSTILES_WILL_REGROUP" tentative="false" introduced="36">The attackers’ potential to regroup and reapply pressure remains an unresolved threat that could affect Kira and the facility.</promise>
+      <promise id="RECOVERY_AND_REPAIR_REQUIRED" tentative="false" introduced="37">Ongoing repairs and recovery needs remain true as reconstruction continues beyond the antenna project.</promise>
+      <promise id="REBUILD_RESOURCE_SEARCH" tentative="false" introduced="37">The group must continue to identify/gather/trade for materials as they expand to new wings; resource search is not resolved by the antenna success.</promise>
+      <promise id="EXTERNAL_CONTACT_POLITICAL_CONSEQUENCES" tentative="true" introduced="39">The arrival/notification of human vessels may have broader political, social, or security consequences for the plant community — suggested but not yet developed; now more salient after freighter arrival.</promise>
+      <promise id="RESOURCE_IMPACT_OF_STAY" tentative="true" introduced="40">Kira's decision to remain will have practical resource implications for the facility (resupply, allocation, and long-term sustainability pressures), potentially accelerating or focusing resource-search priorities.</promise>
+      <promise id="FREIGHTER_INSPECTION_TOUR" tentative="false" introduced="41">Captain Torres has agreed to tour the facility and speak with community members to judge whether Kira is being held or is freely choosing to stay — this tour will determine immediate human perception and possible next steps.</promise>
+      <promise id="COMPANY_PROTOCOL_DISPUTE" tentative="true" introduced="41">The captain's invocation of company regulations suggests a possible upcoming dispute or procedural escalation with the shipping company if they consider Kira's refusal irregular — outcome uncertain and could trigger reporting, pressure, or legal pushback.</promise>
+    </open>
+  </narrative-promises>
 </summary>

@@ -1,33 +1,10 @@
 <!-- Generated automatically, do not edit except with ske gen summaries -->
-<summary version="2.0.0">
+<summary version="2.0.1">
   <sources>
     <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/2_Aftermath/passage#v2.0.1"/>
     <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/passage#v4.0.1"/>
     <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/summary#v4.0.0"/>
   </sources>
-  <narrative-promises>
-    <reasoning>I compared the promises listed as open in the previous passage to the events and revelations in this passage. Several earlier setups are directly paid off here: the narrator wakes up (resolves the survival/blackout question), identifies what slammed into them, and discovers the pilots' fates and Jensen's protective behavior. Other preexisting mysteries remain unresolved — notably the cause of systems failures, the weird biological-sample temperature anomaly and associated contamination risk, and why the ship's coordinates didn’t match (they're on an unfamiliar planet). This passage also introduces new, concrete setups: the ship AI (SAM) appears destroyed or irretrievable, the narrator is stranded without comms and must survive alone, and the alien environment (breathable atmosphere, odd vegetation) is now visible and implies exploration/hazard possibilities. I mark as fulfilled only those prior promises that this passage actually answers; everything else from the prior open list that is still relevant is carried forward. No prior promise is clearly abandoned here — the unresolved ones remain open and actionable.</reasoning>
-    <fulfilled>
-      <promise id="CRASH_SURVIVAL_AND_INJURY">The narrator regains consciousness, assesses injuries (leg wound, bruised ribs, head bleeding) and confirms survival after the impact.</promise>
-      <promise id="PILOTS_FATE_AND_MOTIVATION">The narrator finds Jensen and Reed dead in the cockpit; Jensen's earlier actions (strapping Voss into the crash seat, looking at them) are shown as his final, protective choices.</promise>
-      <promise id="UNKNOWN_OBJECT_RIPPED_LOOSE">The heavy thing pressing on the narrator's legs is revealed to be a cargo container that had come loose and pinned them; they free themselves.</promise>
-      <promise id="SHIFT_IN_INTERPERSONAL_DYNAMICS">Jensen's unexpected care is paid off: he personally secured the narrator in the crash seat and sacrificed himself, demonstrating a clear, consequential shift in their relationship dynamic.</promise>
-      <promise id="POTENTIAL_MEMORY_GAP_OR_UNEXPLAINED_BLANK">The immediate blackout after impact is resolved — the narrator wakes with coherent memory of the crash and no extended amnesia, so the immediate 'mystery gap' is closed.</promise>
-    </fulfilled>
-    <open>
-      <promise id="BIO_SAMPLES_TEMPERATURE_ANOMALY">The container marked 'Biological Samples - Temperature Controlled' had fluctuations. The passage does not reveal its condition or contents; the risk and relevance of those samples remains unresolved.</promise>
-      <promise id="NAV_COORDS_MISMATCH">Reed's cut-off line about wrong coordinates is still unanswered: the narrator wakes up on an unfamiliar planet and doesn't know exact location or whether they were off-course intentionally or due to interference.</promise>
-      <promise id="SYSTEMS_FAILURE_OR_EXTERNAL_INTERFERENCE">Navigation, stabilizers, and other systems were offline during approach. The passage confirms the AI and systems are nonfunctional/fried but does not explain the root cause (mechanical failure, sabotage, EMP/alien influence), so the explanation remains open.</promise>
-      <promise id="BIOHAZARD_OR_CONTAMINATION_RISK">Given the breached/crushed cargo and the earlier temperature anomaly for biological samples — plus chemical/green smells in the air — the risk of contamination or released bio-agents remains an unresolved threat.</promise>
-      <promise id="KEPLER_288_STATION_OR_PLANET_PROMISE">The narrator sees alien trees and daylight through a hull breach, confirming they're on a planet, but whether this is Kepler-288 (and why they were 'not supposed to' be here) is still unanswered.</promise>
-      <promise id="SAM_OFFLINE_OR_DESTROYED">The ship AI (SAM) does not respond and the narrator's neural link is empty; this introduces the problem of lost AI assistance, possible destroyed logs/data, and the mystery of what disabled it.</promise>
-      <promise id="STRANDED_NO_COMMUNICATION">With pilots dead, ship systems fried, and no functioning AI, the narrator is stranded on an unknown planet with no immediate way to summon rescue — establishing a survival timeline and isolation problem.</promise>
-      <promise id="ALIEN_ENVIRONMENT_DISCOVERY">The visible alien flora (purple-ish trees) and breathable-but-odd atmosphere introduce a promise to explore the planet's ecology, potential resources, hazards, or native life.</promise>
-      <promise id="SURVIVAL_RESOURCE_CHALLENGE">The emergency kit is crushed but scattered first-aid supplies remain; the narrator must inventory and secure food, water, shelter and improvise repairs — setting up supply-driven survival beats.</promise>
-      <promise id="EMOTIONAL_TRAUMA_AND_GUILT">The narrator's immediate grief and suppressed emotions (survivor's guilt over Jensen and Reed) are introduced as psychological arcs likely to influence future decisions and relationships.</promise>
-      <promise id="SEARCH_FOR_LOGS_AND_NAV_DATA">Because the narrator needs to know where they are and what happened, there's now a promise to search wreckage, ship logs or local signals to recover navigation data or cause-of-failure evidence.</promise>
-    </open>
-  </narrative-promises>
   <facts>
     <reasoning>I extracted only facts that matter for long-term continuity (character state changes, ship/planet conditions, and salvagable supplies). I avoided transient sensory details and things already in the summary. Key long-term points: both pilots are now dead (not merely struggling), the ship AI SAM is gone/unresponsive, the on-board emergency kit is destroyed but loose first-aid supplies are available, the planet's atmosphere is breathable where the hull is breached, FTL/ship communications won't produce immediate rescue (so Voss is effectively stranded for a long period unless she finds alternate means), and Voss has now used the crash seat (a change from her prior unused status). I flagged no contradictions with the previously established facts.</reasoning>
     <established>
@@ -82,4 +59,29 @@
       <beat tags="acceptance, anticipation">Pragmatic acceptance and determined survival focus. The character pushes aside grief to assess wounds, salvage supplies, and plan for rescue, expressing a quiet resolve ('I can do this'). The reader moves from sorrow into cautious hope and respect for the protagonist's agency.</beat>
     </beats>
   </emotional-journey>
+  <narrative-promises>
+    <reasoning>I reviewed each open promise from the previous passage and checked whether the current passage (the crash aftermath) resolves, contradicts, or leaves it open. Concrete outcomes in this passage: the narrator survives (so the survival cliffhanger is paid off), the loose object that hit them is confirmed to be a cargo container (so the loose-cargo beat is paid off), Jensen and Reed are found dead (the pilots' fate is resolved), and SAM is unreachable (a new, firm problem). Several earlier mysteries remain unresolved — why navigation failed, why coordinates didn’t match, the anomalous atmospheric entry — and the bio-samples anomaly remains unresolved (but is now potentially linked to the green smell and the split cargo). I treated clearly-observed facts as firm promises (e.g., SAM offline, breathable alien atmosphere, no comms / long-term survival challenge) and softer hints (possible bio-sample leak, sufficiency of supplies, larger ‘something amazing’ trope) as tentative. I marked Vega Station expectation as lapsed because the story has moved decisively away from that boarding/destination expectation (they never reached the station and are now stranded on an unknown planet).</reasoning>
+    <fulfilled>
+      <promise id="LOOSE_CARGO_IMPACT">The object that ripped free and slammed into the narrator is confirmed to be a cargo container pressing on their legs; they free themselves from it.</promise>
+      <promise id="PILOTS_FIGHT_AND_FATE_OF_CREW">The pilots' efforts are resolved: Jensen and Reed are found dead in the cockpit after fighting to save the narrator.</promise>
+      <promise id="JENSEN_PERSONAL_BEATING">The personal beat where Jensen 'actually looks' at the protagonist and tells them to 'hold on' is realized and paid off in the discovery of his final action.</promise>
+      <promise id="PROTAGONIST_SURVIVAL_CLIFFHANGER">The cliffhanger about whether the narrator survives the crash is resolved: they wake, injured but alive.</promise>
+    </fulfilled>
+    <lapsed>
+      <promise id="VEGA_STATION_EXPECTATION">The narrator's casual expectation that Vega Station might be interesting is now moot—the crew never docks at Vega; the crash and being stranded on an unknown planet supersede that setup.</promise>
+    </lapsed>
+    <open>
+      <promise id="BIO_SAMPLES_TEMPERATURE_ANOMALY" tentative="false" introduced="1">The container labeled 'Biological Samples - Temperature Controlled' previously showed temperature fluctuations. The container status remains unresolved: a cargo container split open in the crash and there is a green, vegetal smell in the air, but no confirmation yet that the bio-samples leaked or what effect they may have.</promise>
+      <promise id="COORDINATES_MISMATCH" tentative="false" introduced="1">Reed said 'coordinates don't match' before the feed cut. The narrator is stranded and unsure where they actually are; the mismatch and how they ended up in this location remain unexplained.</promise>
+      <promise id="NAVIGATION_SYSTEM_FAILURE" tentative="false" introduced="1">Navigation, stabilizers, and other systems went offline during approach causing the catastrophic descent. The cause of the systems' failure remains unresolved.</promise>
+      <promise id="UNEXPECTED_ATMOSPHERIC_ENTRY" tentative="false" introduced="1">The ship entered atmosphere when it should have been docking; the narrator sees daylight and alien trees through a hull breach. The atmospheric entry and why it occurred (natural gravity, interference, misjump, etc.) still need explanation.</promise>
+      <promise id="POSSIBLE_SIGNIFICANT_DISCOVERY_TROPE_SETUP" tentative="true" introduced="2">The narrator's earlier trope-setting about expecting an 'amazing' discovery remains active: they are now on an alien world (purple-ish trees, breathable air), suggesting larger discoveries may follow, but no explicit first-contact or cosmic revelation has been made yet.</promise>
+      <promise id="SAM_OFFLINE_OR_DESTROYED" tentative="false" introduced="2">The narrator's ship AI SAM is unresponsive in the neural link; the AI appears to be offline or destroyed. The fate of SAM and whether it can be restored or contains data about the crash is unresolved.</promise>
+      <promise id="BREATHABLE_ALIEN_ENVIRONMENT" tentative="false" introduced="2">Through the hull breach the narrator observes breathable atmosphere and unfamiliar (purple-ish) trees. The habitability, hazards, and ecology of the planet remain to be explored.</promise>
+      <promise id="NO_EXTERNAL_COMMS" tentative="false" introduced="2">The narrator notes there is no practical way to call for immediate help (FTL/distress limitations) and the ship's systems/AI are down; the communications situation and how/when rescue could occur remain open.</promise>
+      <promise id="LONG_TERM_SURVIVAL_CHALLENGE" tentative="false" introduced="2">The narrator is injured, alone, and must assess supplies (water, food, shelter) to survive until rescue. This sets up an ongoing survival plotline—how they will manage injuries, resources, and environment is unresolved.</promise>
+      <promise id="BIO_SAMPLE_LEAK_POSSIBILITY" tentative="true" introduced="2">A tentative link is suggested between the damaged cargo (one container split open), the earlier temperature anomaly on the bio-samples container, and the green/vegetal odor in the air; whether bio-samples leaked or affected the environment is an open question.</promise>
+      <promise id="SURVIVAL_SUPPLIES_AVAILABLE" tentative="true" introduced="2">Some supplies apparently survived the crash (first aid scattered, terraforming equipment spilled). The extent, condition, and sufficiency of these supplies for medium-/long-term survival remain unresolved.</promise>
+    </open>
+  </narrative-promises>
 </summary>

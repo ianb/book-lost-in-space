@@ -1,5 +1,5 @@
 <!-- Generated automatically, do not edit except with ske gen summaries -->
-<summary version="3.0.0">
+<summary version="3.0.1">
   <sources>
     <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/3_Wellness_Check/passage#v3.0.0"/>
     <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/passage#v4.0.1"/>
@@ -11,65 +11,6 @@
     <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/summary#v4.0.0"/>
     <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/2_Aftermath/summary#v2.0.0"/>
   </sources>
-  <narrative-promises>
-    <reasoning>
-      Summary of reasoning:
-
-      This passage advances first contact into an organized, communicative plant society. Several prior open promises are directly paid off (the plants proved non-hostile, communicative, social/colonial, medically interactive, and the imminent group contact occurred). Nothing in the passage abandoned earlier investigative threads (e.g., cause of the crash, the locked bio-container, navigation mismatch, Buddy/SAM status, environmental anomalies, water/testing, long-term survival). Many of those remain relevant and should be carried forward. The passage also introduces a cluster of new narrative setups: the plants operate via explicit bureaucratic/procedural norms (HR-like language and documentation-first medical policy), they learned from a previous human visitor (implying archives/materials and a dead prior human), they have named social roles and a central facility/onboarding process, and they possess rapid biotech capabilities (growing fruiting bodies and synthesizing compounds on a biological timetable). Those new setups create immediate tensions (documentation vs. urgent care; potential misunderstandings shaped by HR-derived language) and future investigative threads (find previous visitor materials, explore the facility, probe the limits/ethics of plant biotech).
-
-      Decisions made:
-      - Marked previously-open plant-related promises that are now manifestly demonstrated as FULFILLED: PLANT_CURIOUS_NONHOSTILE_BEHAVIOR; PLANT_COMMUNICATION_ATTEMPT; PLANT_COLONY_OR_SOCIAL_STRUCTURE; PLANT_MEDICINAL_OR_CONTAMINATION_INTERACTION; IMMINENT_GROUP_CONTACT.
-      - Kept all other prior open promises active because the passage did not resolve them (some were partially developed—e.g., Buddy’s capabilities—but not closed).
-      - Introduced new open promises about plant bureaucracy/protocols, previous-visitor materials, medical synthesis timelines, the promise to be transported/onboarded to a central facility, plant biotech capabilities/limits, social identities/hierarchy, and the risk of HR-shaped miscommunication and procedural delays causing harm.
-
-      No prior promises appear to have been abandoned or rendered moot by this passage; therefore LAPSED_PROMISES is empty.
-    </reasoning>
-    <fulfilled>
-      <promise id="PLANT_CURIOUS_NONHOSTILE_BEHAVIOR">The earlier hint that the plant-sphere behaved curiously and non-aggressively is confirmed: the plants approach cautiously, retreat when startled, and act to assist rather than attack.</promise>
-      <promise id="PLANT_COMMUNICATION_ATTEMPT">The bouncing/behavioral signals are revealed to be part of a communicative system; fruiting bodies grow and produce audible Standard language (learned from human materials).</promise>
-      <promise id="PLANT_COLONY_OR_SOCIAL_STRUCTURE">The plant individuals act in coordinated groups and identify roles (Holloway coordinates resources), confirming a colony/social organization rather than isolated organisms.</promise>
-      <promise id="PLANT_MEDICINAL_OR_CONTAMINATION_INTERACTION">The plants detect the wound and grow a remedial fruiting body that synthesizes an antibacterial compound and applies it, demonstrating medicinal interaction (though contamination risk still requires investigation).</promise>
-      <promise id="IMMINENT_GROUP_CONTACT">The earlier warning of more movement/approaching group contact is realized: multiple larger rolling plants and speaking fruiting bodies appear and interact with the narrator.</promise>
-    </fulfilled>
-    <open>
-      <promise id="BIO_SAMPLES_TEMPERATURE_ANOMALY">Locked, temperature-controlled biological samples container remains unexamined and powered/locked — its contents and any risk/value are still unresolved.</promise>
-      <promise id="NAV_COORDS_MISMATCH">Why the shuttle is at this planet and any navigation/coordinate mismatch remain unexplained.</promise>
-      <promise id="SYSTEMS_FAILURE_OR_EXTERNAL_INTERFERENCE">Root cause of the crash (mechanical failure, external interference, sabotage, or environmental effect) has not been determined.</promise>
-      <promise id="BIOHAZARD_OR_CONTAMINATION_RISK">Potential for biological/chemical contamination from alien plants, water, or breached cargo remains unresolved; close contact and treatment introduce both therapeutic and contamination possibilities to test.</promise>
-      <promise id="KEPLER_288_STATION_OR_PLANET_PROMISE">Exact identity of the planet, its relation to the mission, and any station/colony context remain unresolved.</promise>
-      <promise id="SAM_OFFLINE_OR_DESTROYED">SAM's fate and any lost logs or data remain outstanding.</promise>
-      <promise id="ALIEN_ENVIRONMENT_DISCOVERY">Detailed mapping, hazards, edible resources, habitability, and the implications of mobile, social flora remain an open, expanding investigation.</promise>
-      <promise id="SURVIVAL_RESOURCE_CHALLENGE">Limited ship supplies versus long rescue times — securing sustainable water/food/shelter is still unresolved, now colored by contact with sentient flora.</promise>
-      <promise id="SEARCH_FOR_LOGS_AND_NAV_DATA">No new cockpit logs or navigation data have been recovered from the wreck; the promise to search the wreck for logs and previous-visitor records remains.</promise>
-      <promise id="EMERGENCY_AI_REPLACEMENT_DISCOVERED">Buddy's origin/privileges and the implications of a childlike/ad-hoc AI controlling survival-critical information remain to be investigated.</promise>
-      <promise id="BUDDY_LIMITATIONS_AND_CAPABILITIES">Buddy demonstrated pattern recognition and excitement about the plants' use of Standard, but its sensor/classification limits and full capabilities are still to be tested.</promise>
-      <promise id="AI_COMPATIBILITY_AND_SECURITY_RISK">Whether Buddy's configuration poses security/authorization risks (or can be escalated) remains unresolved.</promise>
-      <promise id="SURVIVAL_WITH_CHILD_AI">How useful Buddy will be over the long term (pedagogy, decision-making, emotional support) and whether it will hinder or help survival remains open.</promise>
-      <promise id="LONG_TERM_SURVIVAL_REQUIREMENT">The narrator still must secure long-term solutions; first-contact assistance reduces immediate danger but long-term needs remain.</promise>
-      <promise id="BIO_CONTAINER_LOCKED_NEEDS_ACCESS">The biological sample container aboard the wreck remains locked and consuming power; gaining access or shutting it down remains necessary.</promise>
-      <promise id="REPAIR_OR_ALTERNATE_COMMUNICATIONS">Distress beacon and ship transmitters are damaged; attempts to repair or improvise communications remain unresolved.</promise>
-      <promise id="RESOURCE_RATIONING_AND_FORAGING">How to forage or source food and water safely in the presence of mobile sentient flora is unresolved.</promise>
-      <promise id="WATER_QUALITY_TEST_NEEDED">Nearby water must still be tested for potability and biological contaminants despite the plants' assistance.</promise>
-      <promise id="BUDDY_ADAPTABILITY_AND_AUTHORIZATION">Whether Buddy can adapt modes, escalate privileges, or access ship systems to aid survival remains unresolved.</promise>
-      <promise id="BUDDY_SENSOR_BLINDSPOT">Buddy previously missed canopy movement; its sensory blindspots and how to compensate for them remain to be characterized.</promise>
-      <promise id="IMMEDIATE_WATER_ACQUISITION_RISK">The narrator still needs water; the approaching plant society and the injured leg complicate safe acquisition.</promise>
-      <promise id="LEG_INJURY_RISK_AGGRAVATION">The leg wound remains serious; though treated, infection, mobility loss, and need for full medical evaluation remain outstanding.</promise>
-      <promise id="FOREST_PERPETUAL_TWILIGHT_LIGHT_ANOMALY">The lavender-filtered light and unusual photosynthetic pigments/light physics remain unexplained.</promise>
-      <promise id="MAINTAINED_FOREST_OR_DESIGNED_ENVIRONMENT">The organized behaviors and facilities suggest the environment may be maintained or designed; this hypothesis remains to be tested.</promise>
-      <promise id="FOREST_ACOUSTIC_ANOMALY">The forest's musical 'breathing' and its use as communication/habitat acoustics requires further study.</promise>
-      <promise id="PLANT_LOCOMOTION_MECHANISM_UNKNOWN">How rolling plants move (hydraulics, coordinated tissues, fungal networks, or other biomechanics) remains unexplained.</promise>
-      <promise id="FIRST_CONTACT_CONSEQUENCES">First contact occurred and immediate consequences (medical aid, cultural exchange, diplomatic/ethical choices) have begun; many longer-term consequences remain to be explored.</promise>
-      <promise id="ALLIANCE_OR_MISUNDERSTANDING_RISK">The narrator's initial flinch and the plants' HR-shaped communication create ongoing opportunity for alliance or damaging misunderstanding; this risk continues.</promise>
-      <promise id="PLANT_BUREAUCRACY_AND_PROTOCOLS">The plants use structured protocols, documentation-first workflows, and safety-oriented language (Holloway and safety sections). This bureaucracy will shape interactions, create friction, and may produce formal constraints the narrator must navigate.</promise>
-      <promise id="PREVIOUS_VISITOR_RECORDS_AND_MATERIALS">Plants learned Standard from educational materials left by a previous human visitor; locating those materials or records could yield mission-critical information and explain prior events.</promise>
-      <promise id="PLANT_MEDICAL_TIMELINE_AND_LIMITATIONS">Plant medical assistance follows fixed biological synthesis timelines (e.g., Remedy estimating twenty minutes); the limits, flexibility, and life-or-death implications of those timelines must be tested.</promise>
-      <promise id="PLANT_FACILITY_ONBOARDING_TRANSPORT">The plants insist on transporting the narrator to a central facility for onboarding and medical evaluation — discovering that facility, its infrastructure, and what 'onboarding' entails is an open thread.</promise>
-      <promise id="PLANT_SOCIAL_IDENTITIES_AND_HIERARCHY">Named plant actors (Holloway, Remedy, Scout) indicate individual identities and roles; exploring their hierarchy, politics, and decision-making is set up.</promise>
-      <promise id="PLANT_BIOTECH_CAPABILITIES">Plants can rapidly grow functional fruiting bodies and synthesize compounds; this capability could provide resources/help or present novel hazards and ethical dilemmas to explore.</promise>
-      <promise id="HR_LANGUAGE_LEARNING_LEADS_TO_MISCOMMUNICATION">Because plants learned Standard from HR/workplace materials, their framing of human interaction as 'workplace incidents' may cause systemic misunderstandings, comedic/tragic misframing, or policy-driven constraints on aid.</promise>
-      <promise id="DOCUMENTATION_VS_IMMEDIATE_CARE_TENSION">The plants' insistence on completed incident documentation before full treatment sets up a likely conflict between procedural compliance and urgent medical need that must be navigated.</promise>
-    </open>
-  </narrative-promises>
   <facts>
     <reasoning>I picked facts that introduce persistent world-building or character information that will matter later: the native plants can speak Standard, have organized roles and bureaucratic procedures learned from a previous human, are capable of synthesizing and applying medical treatment, and intend to transport Voss to a central facility. These are not transient sensory details — they change how Voss can interact with the planet's life, affect rescue/medical timelines, and establish motivations/history for the natives (they learned from a previous human who died). I did not include moment-to-moment actions (Voss answering questions, limping) or details already in the provided summary. No statements in this passage contradict earlier established facts, so no conflicts are reported.</reasoning>
     <established>
@@ -139,4 +80,50 @@
       <beat tags="relief, hope">POV: A tender shift to grief-tinged understanding when Kira learns the previous visitor died and the plants learned from that failure, then pragmatic relief and cautious hope as Remedy arrives and eases her pain and the plants escort her for treatment. Cause: the revelation of the plants' motivation (they wanted to do better) and the immediate efficacy of their medical action. Reader: moves from ironic detachment into genuine emotional warmth and optimism—moved by the tragic backstory and reassured by actual help arriving.</beat>
     </beats>
   </emotional-journey>
+  <narrative-promises>
+    <reasoning>
+      This passage advances the plant-contact storyline: the single plant sphere encounter develops into a coordinated, speaking plant society that can synthesize medical compounds, learned human language from materials left by a prior human, and enforces a documentation-and-onboarding process before full care. I treated explicit, actionable revelations (they speak Standard, learned from HR materials, synthesize Remedy with a fixed timeline, require documentation, will escort Kira to a central facility, and applied treatment) as firm new promises because they are clearly stated and will drive immediate plot choices and obstacles. Tentative items are softer worldbuilding hints that remain unresolved or are still probabilistic. Fulfillments are those earlier open promises that this passage clearly resolved; lapses are tentative expectations that the passage contradicted or rendered moot.
+
+      Key decisions: several plant-related promises from the previous open list are paid off here (intelligence/communication, social group approach, medical interaction, non-hostility, and the first-contact follow-up), and one tentative threat-promise is lapsed because the plants have demonstrated benign/helpful behavior. Medical risk to the leg—previously flagged tentative—has been actively addressed by the plants, so I mark that as fulfilled (treatment applied). Most of the ship/crash/ rescue technical mysteries remain open and are carried forward (navigation failure, coordinates mismatch, life-support timer, water objective, SAM status, etc.), as the new plant society does not resolve those broader plot threads but introduces new constraints (documentation/onboarding, transport to central facility) that will affect Kira's survival timeline and choices.
+    </reasoning>
+    <fulfilled>
+      <promise id="PLANT_INTELLIGENCE_AND_COMMUNICATION">The plant sphere(s) demonstrably understand and use human Standard language; multiple fruiting bodies speak and coordinate.</promise>
+      <promise id="PLANT_SOCIAL_GROUP_APPROACH">Multiple larger rolling plants arrived and behaved in coordinated, purposeful ways around Kira.</promise>
+      <promise id="PLANT_MEDICAL_INTERACTION">A plant (Remedy) synthesized/applyied an antibacterial compound and provided immediate pain relief to Kira's wound.</promise>
+      <promise id="PLANT_NON_HOSTILE_BEHAVIOR">The plants backed off when Kira flinched, approached gently otherwise, and ultimately acted to help rather than attack.</promise>
+      <promise id="PLANT_SPHERE_FIRST_CONTACT">Initial first contact expanded into sustained interaction and follow-up (communication, escort, and treatment).</promise>
+      <promise id="LEG_INJURY_INFECTION_RISK">Kira's previously flagged infection risk was directly addressed: plants synthesized and applied an antibacterial remedy, reducing immediate infection/pain risk.</promise>
+    </fulfilled>
+    <lapsed>
+      <promise id="POTENTIAL_GROUP_THREAT_OR_UNKNOWN_INTENT">Although earlier the group's intent was ambiguous (could be protective or dangerous), the plants have behaved non-hostilely and provided help; the immediate hypothesis of imminent group hostility has been undermined.</promise>
+    </lapsed>
+    <open>
+      <promise id="COORDINATES_MISMATCH" tentative="false" introduced="1">Why the shuttle is at these coordinates (mismatch/unexplained reason for location) remains unanswered and relevant to larger plot/mystery.</promise>
+      <promise id="NAVIGATION_SYSTEM_FAILURE" tentative="false" introduced="1">Root cause of navigation/stabilizer failure that caused the crash remains unresolved (mechanical, interference, sabotage, misjump).</promise>
+      <promise id="UNEXPECTED_ATMOSPHERIC_ENTRY" tentative="false" introduced="1">The reason the shuttle entered the atmosphere and sustained the hull breach is still unexplained and remains relevant to the story.</promise>
+      <promise id="POSSIBLE_SIGNIFICANT_DISCOVERY_TROPE_SETUP" tentative="true" introduced="2">The planet's odd ecology and now-confirmed mobile, socially-coordinated, communicative plant life reinforce the sense that this world may yield major discoveries.</promise>
+      <promise id="SAM_OFFLINE_OR_DESTROYED" tentative="false" introduced="2">SAM's deeper fate (corrupt, destroyed, recoverable, or containing crash data) remains unresolved and potentially important.</promise>
+      <promise id="LONG_TERM_SURVIVAL_CHALLENGE" tentative="false" introduced="2">Kira still faces a long-term survival problem (limited water/food, injury, shelter and power needs); immediate needs persist and long-term strategies remain open, now complicated by plant escort/onboarding.</promise>
+      <promise id="EMERGENCY_AI_REPLACEMENT_SYSTEM_PRESENT" tentative="false" introduced="3">The ship's emergency AI replacement mechanism that produced Buddy remains relevant infrastructure for possible future AI changes or interventions.</promise>
+      <promise id="REPLACEMENT_AI_POOL_AVAILABLE" tentative="false" introduced="3">A pool of replacement AIs was scanned and Buddy was selected; what else is available (or whether a different AI might be instantiated) remains unanswered.</promise>
+      <promise id="BUDDY_IS_CHILD_SAFETY_EDUCATIONAL_AI" tentative="false" introduced="3">Buddy's childlike, educational persona continues to shape interactions and remains in effect in the story (and influences how the plants learned human language).</promise>
+      <promise id="AI_COMPANIONSHIP_WILL_AFFECT_MORALE" tentative="true" introduced="3">Buddy's presence continues to influence Kira's emotional responses and coping; this interpersonal/morale arc remains active as she navigates this absurd/helpful plant society.</promise>
+      <promise id="WATER_SOURCE_800M_SW" tentative="false" introduced="4">Buddy's detection of a water source ~800 meters southwest is still an objective; Kira has been diverted by plant escort, so the outcome (reaching it soon or later) remains open.</promise>
+      <promise id="RESCUE_TIMELINE_MIN_3_WEEKS" tentative="false" introduced="4">Previously calculated minimum rescue timeline (~3 weeks or more) remains in effect; being escorted to a facility and onboarded could change the timeline but does not resolve rescue timing.</promise>
+      <promise id="OUTSIDE_EXPEDITION_TO_WATER_800M" tentative="false" introduced="4">Kira's expedition to the water source is ongoing but interrupted by plant contact; whether she reaches it, is detained, or is aided by locals remains unresolved.</promise>
+      <promise id="LIFE_SUPPORT_EMERGENCY_48_HOURS" tentative="false" introduced="4">The shuttle's limited life-support reserves are still an urgent deadline necessitating shelter, water, or rescue.</promise>
+      <promise id="SHUTTLE_TEMPORARY_SHELTER_UNSTABLE" tentative="false" introduced="4">The damaged shuttle remains a fragile refuge; replacement shelter, repairs, or relocation to the plant facility are still unresolved options.</promise>
+      <promise id="LOCAL_FLORA_POTENTIAL_TOXIC_OR_INEDIBLE" tentative="true" introduced="4">Whether local plants are edible, toxic, or otherwise useful remains unknown—some flora are medically useful, but edibility and toxicity for food remain unresolved.</promise>
+      <promise id="MAINTAINED_FOREST_HINT" tentative="true" introduced="5">The organized, social plant behavior and clear forest floor continue to suggest the environment may be tended, engineered, or ecologically structured rather than purely wild.</promise>
+      <promise id="ECOSYSTEM_SILENCE_SIGNIFICANCE" tentative="true" introduced="5">The earlier eerie silence being a prelude to organized movement has been reinforced; the larger significance of this behavior remains an open question.</promise>
+      <promise id="ATMOSPHERIC_AND_LIGHT_ANOMALIES" tentative="true" introduced="5">Buddy's detection of unusual photosynthetic pigments and atmospheric trace elements remains relevant; these anomalies may influence biology or sensory effects later.</promise>
+      <promise id="PLANT_BUREAUCRATIC_PROTOCOL_BEHAVIOR" tentative="false" introduced="7">The plants have internalized human workplace/HR documentation and now structure interactions around protocol and documentation; this bureaucratic approach will shape future encounters (forms, sections, compliance).</promise>
+      <promise id="PLANT_PREVIOUS_VISITOR_FATALITY" tentative="false" introduced="7">Plants reveal a previous human visitor died and that the community learned from that failure—this history raises stakes and explains their protocolized behavior toward new humans.</promise>
+      <promise id="PLANT_MEDICAL_SYNTHESIS_TIME_LIMIT" tentative="false" introduced="7">Plants can synthesize medical compounds (Remedy) but some compounds follow a fixed growth/synthesis timeline (approximately twenty minutes mentioned), creating time constraints for treatment.</promise>
+      <promise id="PLANT_DOCUMENTATION_PREREQUISITE_FOR_TREATMENT" tentative="false" introduced="7">Plants require incident documentation/completion of certain procedural steps before proceeding with some forms of medical intervention—this policy creates procedural obstacles that affect Kira's immediate care and decisions.</promise>
+      <promise id="PLANT_CENTRAL_FACILITY_ONBOARDING" tentative="false" introduced="7">The plants intend to transport Kira to a central facility for comprehensive medical evaluation, orientation, and 'workplace safety' onboarding; this relocation promise will shape short-term logistics and the narrative environment.</promise>
+      <promise id="REMEDY_EFFECTIVE_IMMEDIATE_RELIEF" tentative="false" introduced="7">The Remedy applied provides rapid pain relief and is antibacterial, suggesting the flora possess practical, effective medical technologies or biochemistry that can materially affect Kira's survival.</promise>
+      <promise id="PLANT_COMMUNICATIVE_FRUITING_BODIES" tentative="true" introduced="7">Fruiting structures (flute-like organs) act as the plants' vocalizing and coordination organs—this sets up future communication/negotiation being mediated through such structures.</promise>
+    </open>
+  </narrative-promises>
 </summary>

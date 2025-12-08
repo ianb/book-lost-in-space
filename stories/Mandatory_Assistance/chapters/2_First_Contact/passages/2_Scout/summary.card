@@ -1,5 +1,5 @@
 <!-- Generated automatically, do not edit except with ske gen summaries -->
-<summary version="3.0.0">
+<summary version="3.0.1">
   <sources>
     <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/2_Scout/passage#v3.0.0"/>
     <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/passage#v4.0.1"/>
@@ -10,48 +10,6 @@
     <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/summary#v4.0.0"/>
     <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/2_Aftermath/summary#v2.0.0"/>
   </sources>
-  <narrative-promises>
-    <reasoning>This passage turns the earlier, ambiguous canopy movement into a confirmed encounter: a bouncing, sentient plant-sphere approaches, inspects the narrator's injured leg, withdraws when she flinches, then retreats into the trees as others approach. That pays off the setup that something in the canopy was watching and that flora on this world may be mobile/sentient. Nothing else from the previous list is resolved — most technical and mission-level mysteries (ship systems, navigation, sample container, SAM, etc.) remain untouched — but several threads get new, more specific beats (social plants, possible medicinal/contact behavior, unknown locomotion). I find two previous promises clearly paid off; no major previously-open promise is abandoned/moot by this passage (they remain relevant), while many are carried forward and several new, immediate story promises are introduced.</reasoning>
-    <fulfilled>
-      <promise id="MOBILE_FLORA_OR_SENTIENT_PLANTS">The moving sphere confirms that plant life on the planet is mobile and displays purposeful, curious behavior rather than random plant motion.</promise>
-      <promise id="ENTITY_WATCHING_IN_CANOPY">The repeated canopy movement is resolved into actual creatures: one plant-sphere falls and inspects the narrator, then returns toward approaching others — confirming the narrator was being watched and that contact is imminent.</promise>
-    </fulfilled>
-    <open>
-      <promise id="BIO_SAMPLES_TEMPERATURE_ANOMALY">Locked, temperature-controlled biological samples container remains unexamined and powered/locked — its contents and any risk/value are still unresolved.</promise>
-      <promise id="NAV_COORDS_MISMATCH">Why the shuttle is at this planet and any navigation/coordinate mismatch remain unexplained.</promise>
-      <promise id="SYSTEMS_FAILURE_OR_EXTERNAL_INTERFERENCE">Root cause of the crash/systems failure (mechanical, sabotage, EMP/alien influence, etc.) has not been determined.</promise>
-      <promise id="BIOHAZARD_OR_CONTAMINATION_RISK">Potential for biological/chemical contamination from alien plants, water, or breached cargo remains unresolved and is now heightened by direct plant contact near the narrator's wound.</promise>
-      <promise id="KEPLER_288_STATION_OR_PLANET_PROMISE">Exact identity of the planet and the broader mission context remain unresolved.</promise>
-      <promise id="SAM_OFFLINE_OR_DESTROYED">SAM's fate and any lost logs or data remain outstanding.</promise>
-      <promise id="ALIEN_ENVIRONMENT_DISCOVERY">Detailed mapping, hazards, edible resources, and long-term habitability remain open; the encounter advances knowledge (mobile flora) but much mapping and testing remain.</promise>
-      <promise id="SURVIVAL_RESOURCE_CHALLENGE">Limited ship supplies vs. long rescue times remains a pressing problem; securing sustainable water/food/shelter is still unresolved and now riskier given local life.</promise>
-      <promise id="SEARCH_FOR_LOGS_AND_NAV_DATA">No new cockpit logs or navigation data have been recovered; the promise to search the wreck for logs remains open.</promise>
-      <promise id="EMERGENCY_AI_REPLACEMENT_DISCOVERED">Buddy's origin/privileges and the implications of an ad-hoc childlike AI controlling survival-critical info remain to be investigated.</promise>
-      <promise id="BUDDY_LIMITATIONS_AND_CAPABILITIES">Buddy provided scans but could not fully characterize locomotion or communicate with the plant; its sensor/classification limits remain to be tested.</promise>
-      <promise id="AI_COMPATIBILITY_AND_SECURITY_RISK">Whether Buddy's configuration poses security or authorization risks (or can be escalated) remains unresolved.</promise>
-      <promise id="SURVIVAL_WITH_CHILD_AI">How useful Buddy will be over the long term, and whether its pedagogy will help or hinder survival, remains an active thread.</promise>
-      <promise id="LONG_TERM_SURVIVAL_REQUIREMENT">Rescue windows still long; narrator must secure long-term solutions — still outstanding.</promise>
-      <promise id="BIO_CONTAINER_LOCKED_NEEDS_ACCESS">The biological sample container is still locked and consuming power; gaining access or shutting it down remains an outstanding task.</promise>
-      <promise id="REPAIR_OR_ALTERNATE_COMMUNICATIONS">Distress beacon/transmitter are damaged; attempts to repair or improvise communications remain necessary and unresolved.</promise>
-      <promise id="RESOURCE_RATIONING_AND_FORAGING">Given limited supplies, the narrator must find forage/salvage options and ration; how to do so safely (now with mobile flora present) remains open.</promise>
-      <promise id="WATER_QUALITY_TEST_NEEDED">The nearby water must still be tested for potability/toxins/microbes; first contact with local life increases risk to sampling.</promise>
-      <promise id="BUDDY_ADAPTABILITY_AND_AUTHORIZATION">Whether Buddy can adapt modes, escalate privileges, or access ship systems remains unresolved.</promise>
-      <promise id="BUDDY_SENSOR_BLINDSPOT">Buddy previously missed canopy movement; while Buddy can scan the sphere now, its sensory and classification blind spots require further testing.</promise>
-      <promise id="IMMEDIATE_WATER_ACQUISITION_RISK">The narrator still needs water but the approaching local life and worsening leg injury make reaching and testing the water more dangerous.</promise>
-      <promise id="LEG_INJURY_RISK_AGGRAVATION">The leg wound is still seeping and painful; the narrator's flinch caused acute pain and the risk of infection or loss of mobility remains high.</promise>
-      <promise id="FOREST_PERPETUAL_TWILIGHT_LIGHT_ANOMALY">The lavender-filtered light and unusual photosynthetic pigments/light physics remain unexplained.</promise>
-      <promise id="MAINTAINED_FOREST_OR_DESIGNED_ENVIRONMENT">The earlier feeling that the forest is 'maintained' remains an open question (the organized behavior of local flora could support or refute it).</promise>
-      <promise id="FOREST_ACOUSTIC_ANOMALY">The forest's musical 'breathing' and lack of animal noise remain to be explained.</promise>
-      <promise id="PLANT_CURIOUS_NONHOSTILE_BEHAVIOR">The plant-sphere's curiosity and non-aggressive approach suggests local flora may be inquisitive or social rather than hostile; this invites future interaction possibilities and constraints.</promise>
-      <promise id="PLANT_COMMUNICATION_ATTEMPT">The bouncing/hopping and tendril behavior functioned like signaling; whether this is a communicative system that can be learned remains an open promise.</promise>
-      <promise id="PLANT_COLONY_OR_SOCIAL_STRUCTURE">The sphere's retreat toward approaching rustling indicates a network or group of individuals; the social organization and numbers of these organisms remain unknown.</promise>
-      <promise id="PLANT_MEDICINAL_OR_CONTAMINATION_INTERACTION">The tendril's inspection of the bandage implies plants can detect wounds and might heal or transmit pathogens — the potential for both assistance and contamination must be tested.</promise>
-      <promise id="PLANT_LOCOMOTION_MECHANISM_UNKNOWN">How the plant-spheres move (muscular-like branches, pneumatic hops, hydraulic action, coordinated fungal networks, etc.) was not determined and should be investigated.</promise>
-      <promise id="IMMINENT_GROUP_CONTACT">More movement in the canopy is approaching; an imminent, larger-scale encounter (benign or hostile) is now likely and requires immediate tactical decisions.</promise>
-      <promise id="FIRST_CONTACT_CONSEQUENCES">An explicit first contact just occurred; the story must explore consequences (communication, trust, danger, colony interactions, ecological impacts, and diplomatic/ethical choices).</promise>
-      <promise id="ALLIANCE_OR_MISUNDERSTANDING_RISK">The narrator's instinctive flinch already produced recoil from the plant; future interactions could lead to alliance, mutual aid, or harmful misunderstanding depending on behavior and responses.</promise>
-    </open>
-  </narrative-promises>
   <facts>
     <reasoning>This passage records a significant, lasting encounter: Kira makes direct contact with previously-undetected native life. Facts selected are those that will matter for later scenes (existence, behavior, possible sociality, interaction with injured humans, and that Buddy identified them as plant-based). I did not include transient sensory details (purple light, exact sequence of hops) or Kira's immediate emotional reactions beyond how they establish the biology/behavior of the organisms. No contradictions with prior facts were found — this passage resolves the earlier ambiguous canopy movement as living plant-based organisms rather than conflicting with the earlier sensor results that showed no animal life.</reasoning>
     <established>
@@ -108,4 +66,40 @@
       <beat tags="anticipation, dread">POV: Renewed alertness and mounting worry — after the brief communion, Kira notices more movement in the canopy and her heart races again for new reasons: unknown numbers and unknown intentions. Cause: the plant-ball orienting toward the trees and the increasing rustle of many things approaching. Reader: shifts from wonder back into suspense and heightened anticipation of what the arriving creatures will mean for Kira’s survival. Pattern note: this fits the story’s repeating beat of expectation → threat, but the interposed wonder beat prevents emotional monotony.</beat>
     </beats>
   </emotional-journey>
+  <narrative-promises>
+    <reasoning>I checked each previously-open promise against what actually happened in the passage and noted new setups the scene introduced. The most direct payoffs are the moving plant life and the thing that was following Kira: both are explicitly shown and therefore close out the corresponding promises. Buddy's earlier claim of "no animal life detected" is effectively upheld because the approaching entities are explicitly plant-based, so that promise is treated as fulfilled rather than contradicted. Many longer-term mysteries (navigation, coordinates, SAM, life-support, water objective, etc.) are untouched by this scene and remain active. The passage introduces several new, concrete narrative setups: a clear first-contact event with a discrete plant-bodied entity, strong evidence the plants are intelligent/communicative, the arrival of more of them (a social group), and the possibility that these plants may interact with Kira's injury (medical/healing potential). The interaction also left an ambiguity about intent (non-hostile curiosity vs. unknown danger), which I mark as tentative. No earlier, relevant promise was explicitly abandoned by the passage, so I mark none as lapsed.</reasoning>
+    <fulfilled>
+      <promise id="MOBILE_ALIEN_PLANT_LIFE">The earlier hint that plant life on the planet could move is directly demonstrated: the bouncing/rolling plant sphere and its deliberate movements confirm mobile plant organisms.</promise>
+      <promise id="ENTITY_FOLLOWING_KIRA">The previously introduced tracking/following presence is resolved: the thing pacing her in the trees is revealed as a plant sphere that followed/observed her and signaled others.</promise>
+      <promise id="NO_ANIMAL_LIFE_DETECTED">Buddy's scan reporting no animal life is upheld: the moving entities are explicitly plant-based organic material rather than fauna, resolving the earlier uncertainty about whether the movements were animals.</promise>
+    </fulfilled>
+    <open>
+      <promise id="COORDINATES_MISMATCH" tentative="false" introduced="1">Why the shuttle is at these coordinates (mismatch/unexplained reason for location) remains unanswered and relevant to larger plot/mystery.</promise>
+      <promise id="NAVIGATION_SYSTEM_FAILURE" tentative="false" introduced="1">Root cause of navigation/stabilizer failure that caused the crash remains unresolved (mechanical, interference, sabotage, misjump).</promise>
+      <promise id="UNEXPECTED_ATMOSPHERIC_ENTRY" tentative="false" introduced="1">The reason the shuttle entered the atmosphere and sustained the hull breach is still unexplained and remains relevant to the story.</promise>
+      <promise id="POSSIBLE_SIGNIFICANT_DISCOVERY_TROPE_SETUP" tentative="true" introduced="2">The planet's odd ecology and now-confirmed mobile, seemingly aware plant life reinforce the sense that this world may yield major discoveries.</promise>
+      <promise id="SAM_OFFLINE_OR_DESTROYED" tentative="false" introduced="2">SAM's deeper fate (corrupt, destroyed, recoverable, or containing crash data) remains unresolved and potentially important.</promise>
+      <promise id="LONG_TERM_SURVIVAL_CHALLENGE" tentative="false" introduced="2">Kira still faces a long-term survival problem (limited water/food, injury, shelter and power needs); immediate needs persist and long-term strategies remain open.</promise>
+      <promise id="EMERGENCY_AI_REPLACEMENT_SYSTEM_PRESENT" tentative="false" introduced="3">The ship's emergency AI replacement mechanism that produced Buddy remains relevant infrastructure for possible future AI changes or interventions.</promise>
+      <promise id="REPLACEMENT_AI_POOL_AVAILABLE" tentative="false" introduced="3">A pool of replacement AIs was scanned and Buddy was selected; what else is available (or whether a different AI might be instantiated) remains unanswered.</promise>
+      <promise id="BUDDY_IS_CHILD_SAFETY_EDUCATIONAL_AI" tentative="false" introduced="3">Buddy's childlike, educational persona continues to shape interactions and remains in effect in the story.</promise>
+      <promise id="AI_COMPANIONSHIP_WILL_AFFECT_MORALE" tentative="true" introduced="3">Buddy's presence continues to influence Kira's emotional responses and coping; this interpersonal/morale arc remains active.</promise>
+      <promise id="WATER_SOURCE_800M_SW" tentative="false" introduced="4">Buddy's detection of a water source ~800 meters southwest is still the immediate objective; Kira has not reached it.</promise>
+      <promise id="RESCUE_TIMELINE_MIN_3_WEEKS" tentative="false" introduced="4">Previously calculated minimum rescue timeline (~3 weeks or more) still stands and raises stakes for planning and resources.</promise>
+      <promise id="OUTSIDE_EXPEDITION_TO_WATER_800M" tentative="false" introduced="4">Kira's expedition to the water source is ongoing; the outcome (reaching it, encountering hazards, or being detained by locals) remains unresolved.</promise>
+      <promise id="LIFE_SUPPORT_EMERGENCY_48_HOURS" tentative="false" introduced="4">The shuttle's limited life-support reserves remain an urgent deadline necessitating shelter, water, or rescue.</promise>
+      <promise id="SHUTTLE_TEMPORARY_SHELTER_UNSTABLE" tentative="false" introduced="4">The damaged shuttle remains a fragile refuge; replacement shelter or repairs are still necessary.</promise>
+      <promise id="LEG_INJURY_INFECTION_RISK" tentative="true" introduced="4">Kira's leg injury is still an active medical risk; the plant interaction touched the wound but did not conclusively heal it, so infection/complication remains possible.</promise>
+      <promise id="LOCAL_FLORA_POTENTIAL_TOXIC_OR_INEDIBLE" tentative="true" introduced="4">Whether local plants are edible, toxic, or otherwise useful remains unknown; the plant ball's behavior hints at complex plant properties but does not resolve edibility/toxicity.</promise>
+      <promise id="MAINTAINED_FOREST_HINT" tentative="true" introduced="5">The unusually clear forest floor and now the organized, social plant behavior continue to suggest the environment may be tended, engineered, or ecologically structured rather than purely wild.</promise>
+      <promise id="ECOSYSTEM_SILENCE_SIGNIFICANCE" tentative="true" introduced="5">The earlier eerie silence has been resolved into a deliberate quiet before active plant movement; the significance of that silence (behavioral, ecological, or signal) remains an open question.</promise>
+      <promise id="ATMOSPHERIC_AND_LIGHT_ANOMALIES" tentative="true" introduced="5">Buddy's detection of unusual photosynthetic pigments and atmospheric trace elements remains relevant; these anomalies may influence biology or sensory effects later.</promise>
+      <promise id="PLANT_SPHERE_FIRST_CONTACT" tentative="false" introduced="6">Kira's encounter with a discrete bouncing plant sphere constitutes an explicit first-contact event and promises follow-up interactions and consequences.</promise>
+      <promise id="PLANT_INTELLIGENCE_AND_COMMUNICATION" tentative="false" introduced="6">The plant sphere's deliberate, investigatory behavior and apparent recognition suggest the flora possess some level of intelligence or communicative behavior to be explored further.</promise>
+      <promise id="PLANT_MEDICAL_INTERACTION" tentative="true" introduced="6">The sphere extended a tendril toward Kira's wound before she flinched—introducing the possibility the local flora may respond to injuries or have healing/medical properties (not yet confirmed).</promise>
+      <promise id="PLANT_SOCIAL_GROUP_APPROACH" tentative="false" introduced="6">The plant sphere signaled/oriented toward the trees and others are heard approaching; this sets up a likely imminent encounter with multiple, socially-coordinated plant entities.</promise>
+      <promise id="PLANT_NON_HOSTILE_BEHAVIOR" tentative="true" introduced="6">The plant sphere backed away when Kira flinched and approached gently otherwise, implying the flora may default to curiosity or non-aggression—an expectation that remains to be tested.</promise>
+      <promise id="POTENTIAL_GROUP_THREAT_OR_UNKNOWN_INTENT" tentative="true" introduced="6">Although the initial sphere behaved curiously, the arrival of more plant entities creates ambiguity about intent (benign curiosity, protective behavior, or potential danger), which the story will need to resolve.</promise>
+    </open>
+  </narrative-promises>
 </summary>

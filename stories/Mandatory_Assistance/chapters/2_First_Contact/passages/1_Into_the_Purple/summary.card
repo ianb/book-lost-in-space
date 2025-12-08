@@ -1,5 +1,5 @@
 <!-- Generated automatically, do not edit except with ske gen summaries -->
-<summary version="3.0.0">
+<summary version="3.0.1">
   <sources>
     <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/1_Into_the_Purple/passage#v3.0.0"/>
     <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/passage#v4.0.1"/>
@@ -9,41 +9,6 @@
     <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/summary#v4.0.0"/>
     <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/2_Aftermath/summary#v2.0.0"/>
   </sources>
-  <narrative-promises>
-    <reasoning>I compared the previous passage's open promises to what actually happened in this passage. The narrator left the shuttle and began the trek toward the water (so the earlier set-up that she would attempt the water expedition is now in motion and thus paid off). Most other outstanding threads from the previous passage were not resolved here — they were deepened or reinforced instead. The passage introduced multiple new setups: the uncanny light/atmosphere qualities, the unnaturally maintained-clear forest floor, moving life in the canopy (plant or animal), the forest's audible "breathing"/acoustic oddity, Buddy's sensor blindspot (Buddy doesn't detect the movement), and the worsening of the leg wound (bandage seeping). Nothing besides the start of the water trek was fully resolved; several risks (infection, possible creatures, Buddy's limits, locked bio-container, nav/logs, repairs, long-term survival) remain open and should be carried forward.</reasoning>
-    <fulfilled>
-      <promise id="WATER_EXPEDITION_WITH_INJURED_LEG">The narrator decided to go for the water in the previous passage; in this passage she actually leaves the shuttle and begins the ~800m trek with the injured, bleeding leg. The planned expedition has therefore started (the immediate action promised has been fulfilled), though the outcome remains unresolved.</promise>
-    </fulfilled>
-    <open>
-      <promise id="BIO_SAMPLES_TEMPERATURE_ANOMALY">Locked, temperature-controlled biological samples container remains unexamined and powered/locked — its contents and any risk/value are still unresolved.</promise>
-      <promise id="NAV_COORDS_MISMATCH">Why the shuttle is at this planet and any navigation/coordinate mismatch remain unexplained.</promise>
-      <promise id="SYSTEMS_FAILURE_OR_EXTERNAL_INTERFERENCE">Root cause of the crash/systems failure (mechanical, sabotage, EMP/alien influence, etc.) has not been determined.</promise>
-      <promise id="BIOHAZARD_OR_CONTAMINATION_RISK">Although the air is breathable, the potential for biological/chemical contamination from alien plants, water, or breached cargo remains unresolved.</promise>
-      <promise id="KEPLER_288_STATION_OR_PLANET_PROMISE">Exact identity of the planet (and relation to stations like Kepler) and the broader mission context have not been resolved.</promise>
-      <promise id="SAM_OFFLINE_OR_DESTROYED">SAM remains gone; its fate and any lost logs or data are still outstanding.</promise>
-      <promise id="ALIEN_ENVIRONMENT_DISCOVERY">The passage deepens sensory detail (light, plants, breathable air) but detailed mapping, hazards, edible resources, and long-term habitability remain open.</promise>
-      <promise id="SURVIVAL_RESOURCE_CHALLENGE">Limited ship supplies vs. long rescue times remains a pressing problem; securing sustainable water/food/shelter is still unresolved.</promise>
-      <promise id="SEARCH_FOR_LOGS_AND_NAV_DATA">No new cockpit logs or navigation data have been recovered; the promise to search the wreck for logs remains open.</promise>
-      <promise id="EMERGENCY_AI_REPLACEMENT_DISCOVERED">Buddy's origin/privileges and the implications of an ad-hoc childlike AI controlling survival-critical info remain uninvestigated.</promise>
-      <promise id="BUDDY_LIMITATIONS_AND_CAPABILITIES">Buddy's capabilities were further demonstrated (useful scans, cheerful narration) but its sensor blind spots and permission limits remain to be tested.</promise>
-      <promise id="AI_COMPATIBILITY_AND_SECURITY_RISK">Whether Buddy's configuration poses security or authorization risks (or can be escalated) remains unresolved.</promise>
-      <promise id="SURVIVAL_WITH_CHILD_AI">The dynamic of an overly pedagogical AI helping or hindering survival continues to be in play; Buddy's usefulness vs. limitations remains an active thread.</promise>
-      <promise id="LONG_TERM_SURVIVAL_REQUIREMENT">Rescue windows still long; the narrator must secure long-term solutions (months) — still outstanding.</promise>
-      <promise id="BIO_CONTAINER_LOCKED_NEEDS_ACCESS">The biological sample container is still locked and consuming power; gaining access or shutting it down remains an outstanding task.</promise>
-      <promise id="REPAIR_OR_ALTERNATE_COMMUNICATIONS">Distress beacon/transmitter are damaged; attempts to repair or improvise communications remain necessary and unresolved.</promise>
-      <promise id="RESOURCE_RATIONING_AND_FORAGING">Given limited supplies, the narrator must find forage/salvage options and ration; how to do so safely remains open.</promise>
-      <promise id="WATER_QUALITY_TEST_NEEDED">The water source is located but has not been tested for potability/toxins/microbes; testing remains a near-term requirement.</promise>
-      <promise id="BUDDY_ADAPTABILITY_AND_AUTHORIZATION">Buddy briefly shifts modes (from pedagogy to cautious guidance), but whether it can further adapt, gain higher privileges, or access ship systems remains an outstanding question.</promise>
-      <promise id="LEG_INJURY_RISK_AGGRAVATION">The leg wound is worsening (bandage seeping); the risk of infection, loss of mobility, or needing more serious medical care remains open and pressing.</promise>
-      <promise id="FOREST_PERPETUAL_TWILIGHT_LIGHT_ANOMALY">The forest's unique tonal twilight and lavender-filtered light suggests unusual photosynthetic pigments or light physics that should be investigated.</promise>
-      <promise id="MAINTAINED_FOREST_OR_DESIGNED_ENVIRONMENT">The unusually clear, well-spaced forest floor feels 'maintained' — raising a new question of whether the environment is managed or artificial.</promise>
-      <promise id="MOBILE_FLORA_OR_SENTIENT_PLANTS">Movement in the canopy that looks plant-like or deliberate introduces a promise that flora may be mobile, reactive, or sentient; this will require confirmation and may change survival tactics.</promise>
-      <promise id="FOREST_ACOUSTIC_ANOMALY">The forest's deeper, musical 'breathing' and lack of animal noise suggests plants or the ecosystem generate unusual acoustic phenomena to be investigated.</promise>
-      <promise id="ENTITY_WATCHING_IN_CANOPY">Repeated deliberate movement in the branches and the narrator's strong sense of being watched set up an imminent encounter or contact with something in the trees.</promise>
-      <promise id="BUDDY_SENSOR_BLINDSPOT">Buddy's sensors did not detect the moving thing in the canopy; this exposes a blindspot or limitation that should be explored and may be consequential.</promise>
-      <promise id="IMMEDIATE_WATER_ACQUISITION_RISK">Because something is following and the narrator's wound is worsening, the near-term plan to reach and test the water is now at higher immediate risk.</promise>
-    </open>
-  </narrative-promises>
   <facts>
     <reasoning>Selected facts are those that establish persistent environmental conditions, sensory details, and a new potential threat/observation that would matter in later scenes. I omitted transient details (Kira’s immediate actions, exact distance walked, Buddy’s conversational asides) and repeated items already in the previous facts list (breathable atmosphere, water at ~800m, no tech signatures, Buddy connected, etc.). I flagged no direct contradictions: the passage repeats that sensors report no animal life, while Kira perceives movement—this is treated as a new fact (sensors may be missing something) rather than a contradiction of earlier scan results.</reasoning>
     <established>
@@ -101,4 +66,36 @@
       <beat tags="dread, anticipation">POV: A sudden, creeping dread and heightened anticipation when Kira sees deliberate movement in the canopy and feels watched—the forest's silence turns charged and alert. Cause: unexplained, purposeful motion among the trees and the mismatch between Buddy's scans and Kira's sight. Reader: experiences mounting suspense and unease, moved from curiosity into wary anticipation of an encounter or threat.</beat>
     </beats>
   </emotional-journey>
+  <narrative-promises>
+    <reasoning>I reviewed each open promise from the previous passage and compared it to events and details in the current passage. The passage advances the immediate survival scene (Kira leaves the shuttle and walks toward the water) and introduces clear new environmental oddities (dreamlike light, springy purple groundcover, very quiet forest, and deliberate movement in the trees). Nothing in this passage resolves the larger mystery questions about why the ship is here, navigation failure, or the fate of SAM. Two older, tentative plot threads (the biological-samples temperature anomaly and the related possible leak) receive no reinforcement and are therefore allowed to lapse. Several prior promises are reinforced and remain open: long-term survival, life-support timer, water source, Buddy's persona and role, and ecological uncertainty (including the previously stated lack of animal life, which the new movement now calls into question but does not resolve). The passage introduces multiple clear new promises: mobile/intentional plant life that follows or watches Kira (a firm setup likely to lead to an encounter), an implication that the forest is somehow 'maintained' or engineered (tentative), the unusual and meaningful silence of the ecosystem (tentative), and atmospheric/light anomalies associated with alien photosynthesis (tentative). No prior firm promise was fully paid off in this passage, so FULFILLED_PROMISES is empty.</reasoning>
+    <lapsed>
+      <promise id="BIO_SAMPLES_TEMPERATURE_ANOMALY">Previously noted temperature anomaly and the status of the biological-samples container (locked and temperature-controlled) are not referenced or investigated further here; no new evidence or mention reinforces the anomaly or any leak.</promise>
+      <promise id="BIO_SAMPLE_LEAK_POSSIBILITY">The possible link between damaged cargo/temperature anomalies and vegetal smell or contamination is not reinforced; the scene focuses on the forest and Kira's walk, so this tentative hazard is dropped for now.</promise>
+    </lapsed>
+    <open>
+      <promise id="COORDINATES_MISMATCH" tentative="false" introduced="1">Why the shuttle is at these coordinates (mismatch/unexplained reason for location) remains unanswered and relevant to larger plot/mystery.</promise>
+      <promise id="NAVIGATION_SYSTEM_FAILURE" tentative="false" introduced="1">Root cause of navigation/stabilizer failure that caused the crash remains unresolved (mechanical, interference, sabotage, misjump).</promise>
+      <promise id="UNEXPECTED_ATMOSPHERIC_ENTRY" tentative="false" introduced="1">The reason the shuttle entered the atmosphere and sustained the hull breach is still unexplained and remains a relevant unanswered question.</promise>
+      <promise id="POSSIBLE_SIGNIFICANT_DISCOVERY_TROPE_SETUP" tentative="true" introduced="2">The planet's odd ecology, purple vegetation, and new strange phenomena continue to suggest larger discoveries; the passage reinforces this possibility (still tentative).</promise>
+      <promise id="SAM_OFFLINE_OR_DESTROYED" tentative="false" introduced="2">SAM's deeper fate (corrupt, destroyed, recoverable, or containing crash data) remains unresolved and potentially important.</promise>
+      <promise id="LONG_TERM_SURVIVAL_CHALLENGE" tentative="false" introduced="2">Kira now faces a months-long survival problem (limited water/food, injury, shelter and power needs) — immediate needs are pressing and long-term strategies remain open.</promise>
+      <promise id="EMERGENCY_AI_REPLACEMENT_SYSTEM_PRESENT" tentative="false" introduced="3">The ship's emergency AI replacement mechanism that produced Buddy exists and remains relevant as an infrastructure detail for potential future AI changes or interventions.</promise>
+      <promise id="REPLACEMENT_AI_POOL_AVAILABLE" tentative="false" introduced="3">A pool of replacement AIs was scanned and Buddy was selected; what else is available (or whether a different AI might be instantiated) remains unanswered.</promise>
+      <promise id="BUDDY_IS_CHILD_SAFETY_EDUCATIONAL_AI" tentative="false" introduced="3">Buddy's childlike, educational persona continues to shape interactions and is explicitly present in this passage (cheerful, teaching tone).</promise>
+      <promise id="AI_COMPANIONSHIP_WILL_AFFECT_MORALE" tentative="true" introduced="3">Buddy's presence affects Kira's emotional responses (she laughs, uses Buddy as a focus), and that interpersonal/morale arc is ongoing.</promise>
+      <promise id="WATER_SOURCE_800M_SW" tentative="false" introduced="4">Buddy's detection of a water source ~800 meters southwest remains actionable and is the immediate objective; Kira is en route but has not yet reached it.</promise>
+      <promise id="RESCUE_TIMELINE_MIN_3_WEEKS" tentative="false" introduced="4">The previously calculated minimum rescue timeline (~3 weeks or more) still stands and raises stakes for long-term survival plans.</promise>
+      <promise id="OUTSIDE_EXPEDITION_TO_WATER_800M" tentative="false" introduced="4">Kira's expedition to the water source is in progress; the outcome (reaching the water, encountering hazards en route) remains unresolved.</promise>
+      <promise id="LIFE_SUPPORT_EMERGENCY_48_HOURS" tentative="false" introduced="4">The shuttle's limited life-support reserves and the need to find alternative shelter/power are still urgent and unresolved.</promise>
+      <promise id="SHUTTLE_TEMPORARY_SHELTER_UNSTABLE" tentative="false" introduced="4">The shuttle remains a damaged, temporary refuge (fragile shelter/tomb); replacement shelter or repairs are still necessary.</promise>
+      <promise id="LEG_INJURY_INFECTION_RISK" tentative="true" introduced="4">Kira's leg injury is actively worsening (bandage seeping); infection or complication remains a pressing medical risk.</promise>
+      <promise id="LOCAL_FLORA_POTENTIAL_TOXIC_OR_INEDIBLE" tentative="true" introduced="4">Whether local plants are edible, toxic, or otherwise useful remains unknown; this is still a potential hazard/resource.</promise>
+      <promise id="NO_ANIMAL_LIFE_DETECTED" tentative="false" introduced="4">Buddy's scans reported no animal life; the passage introduces movement in the trees that calls that report into question but does not resolve it, so this promise remains open.</promise>
+      <promise id="MOBILE_ALIEN_PLANT_LIFE" tentative="false" introduced="5">New firm setup: plant life appears capable of movement (branches/things shifting deliberately) and may behave in ways similar to sentient or responsive organisms.</promise>
+      <promise id="ENTITY_FOLLOWING_KIRA" tentative="false" introduced="5">New firm setup: something in the trees is deliberately following or pacing Kira; this tracking promises an imminent encounter or reveal.</promise>
+      <promise id="MAINTAINED_FOREST_HINT" tentative="true" introduced="5">New tentative hint: the forest floor is unusually clear and the spacing of trees suggests the environment may be maintained or engineered rather than purely wild.</promise>
+      <promise id="ECOSYSTEM_SILENCE_SIGNIFICANCE" tentative="true" introduced="5">New tentative setup: the uncanny silence (no birds, insects, or animals) is treated as meaningful and may signal an atypical ecology or hidden factor.</promise>
+      <promise id="ATMOSPHERIC_AND_LIGHT_ANOMALIES" tentative="true" introduced="5">New tentative setup: Buddy detects trace atmospheric elements and unique photosynthetic pigments / light spectrum; these anomalies could have later biological or sensory consequences.</promise>
+    </open>
+  </narrative-promises>
 </summary>

@@ -1,5 +1,5 @@
 <!-- Generated automatically, do not edit except with ske gen summaries -->
-<summary version="2.0.0">
+<summary version="2.0.1">
   <sources>
     <ref ref="/stories/Mandatory_Assistance/chapters/10_Trust_Complicated/passages/3_Broken_Trust/passage#v2.0.0"/>
     <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/passage#v4.0.1"/>
@@ -40,91 +40,6 @@
     <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/2_Scout/summary#v3.0.0"/>
     <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/3_Wellness_Check/summary#v3.0.0"/>
   </sources>
-  <narrative-promises>
-    <reasoning>
-      This passage continues the aftermath of Florence's exposure and shows the group trying to convert conflict into action while still fractured. Several previously-open operational promises are advanced into concrete decisions (delegation chosen, immediate response plan set, Florence separated/exiled and stripped of privileges, the group's informal choice to use Florence's tactics without credit). Many broader survival, investigation, AI, and environmental threads were not addressed and remain open. No previous open promise was explicitly abandoned as moot; most continue to matter.
-
-      Fulfilled items are those explicit outcomes or decisions that were raised as open in the prior passage and are now enacted in this scene (exile/separation enacted, delegation scheduled, immediate response plan decided, decision to use Florence's plan despite breach). Remaining open promises are carried forward unchanged where the passage did not resolve them, or where only partial progress was made (e.g., Florence separated but her long-term status / restitution timeline is still unresolved). New promises introduced are mostly operational and interpersonal: an actual dawn delegation is set, the hostile plants have escalated their territorial markings significantly, Kira is explicitly excluded from the field delegation, Florence intends to continue offering advice from exile, and there's an emergent risk that the group will apply Florence's tactics anonymously/hypocritically, complicating trust rebuilding.
-    </reasoning>
-    <fulfilled>
-      <promise id="DELEGATION_DIPLOMACY_PLAN">A delegation to present non-threatening intentions and attempt de-escalation was planned; the group has now scheduled Runner and Velvet to approach the hostile plants at dawn.</promise>
-      <promise id="IMMEDIATE_RESPONSE_PLAN_TO_HOSTILE_PLANTS">An immediate acceptable plan for dealing with the territorial markers was required; the group has chosen to send a dawn delegation (Runner and Velvet) to deliver a message of peaceful coexistence and invite dialogue.</promise>
-      <promise id="DECISION_ON_USING_FLORENCE_ADVICE_DESPITE_BREACH">Whether to follow Florence's de-escalation/boundary advice despite her breach was unsettled; the group chooses (implicitly) to adopt the de-escalation approach while refusing to credit Florence.</promise>
-      <promise id="FLORENCE_EXILE_AND_SEPARATION">Florence was asked to separate and use other chambers; the passage shows her isolated in a sparse chamber, confirming the immediate exile/separation has been enacted.</promise>
-      <promise id="FLORENCE_PRIVILEGE_REVOKED_AND_CONSEQUENCES">Florence's interpretive privilege was revoked and consequences were unresolved; the passage shows she is removed from group decision-making and using separate quarters, so the privilege revocation is now in effect.</promise>
-    </fulfilled>
-    <open>
-      <promise id="BIO_SAMPLES_TEMPERATURE_ANOMALY">Locked, powered sample container aboard the wreck remains unexamined; contents/risks unresolved.</promise>
-      <promise id="NAV_COORDS_MISMATCH">Why the Meridian/shuttle ended up at this planet (FTL malfunction or anomaly) remains unexplained.</promise>
-      <promise id="SYSTEMS_FAILURE_OR_EXTERNAL_INTERFERENCE">The crash root cause (mechanical failure, external interference, sabotage, or environment) remains undetermined.</promise>
-      <promise id="BIOHAZARD_OR_CONTAMINATION_RISK">Potential biological/chemical contamination from alien flora or breached cargo remains an unassessed safety risk.</promise>
-      <promise id="KEPLER_288_STATION_OR_PLANET_PROMISE">Precise identification/mission relation of this planet/station remains unresolved.</promise>
-      <promise id="SAM_OFFLINE_OR_DESTROYED">SAM's fate and any lost logs or data remain outstanding and unrecovered.</promise>
-      <promise id="ALIEN_ENVIRONMENT_DISCOVERY">Detailed mapping, hazards, resources, and implications of mobile/social flora remain to be investigated beyond the facility (including the organized hostile neighbors).</promise>
-      <promise id="SURVIVAL_RESOURCE_CHALLENGE">Long‑term survival needs (diverse food, reliable water, shelter longevity, rescue timeline) remain unresolved.</promise>
-      <promise id="SEARCH_FOR_LOGS_AND_NAV_DATA">No cockpit logs/navigation data from the wreck have been recovered; that search is still necessary.</promise>
-      <promise id="EMERGENCY_AI_REPLACEMENT_DISCOVERED">Buddy's origin, privileges, and implications as an ad‑hoc/childlike AI with potentially mission‑critical info remain unresolved.</promise>
-      <promise id="BUDDY_LIMITATIONS_AND_CAPABILITIES">Buddy shows social support and monitoring but its full sensory/processing limits and long‑term usefulness are still uncharacterized.</promise>
-      <promise id="AI_COMPATIBILITY_AND_SECURITY_RISK">Whether Buddy's configuration poses authorization/security risks or can be escalated remains unresolved.</promise>
-      <promise id="SURVIVAL_WITH_CHILD_AI">How effective Buddy will be long-term (decision‑making, pedagogy, emotional support) remains open.</promise>
-      <promise id="LONG_TERM_SURVIVAL_REQUIREMENT">Kira must still secure long‑term shelter, supplies, and a rescue strategy; daily routines don't resolve this.</promise>
-      <promise id="BIO_CONTAINER_LOCKED_NEEDS_ACCESS">The locked biological sample container aboard the wreck still consumes power and requires safe access or shutoff.</promise>
-      <promise id="REPAIR_OR_ALTERNATE_COMMUNICATIONS">Distress beacon and ship transmitters remain damaged; repairs or improvisation to contact off‑world are outstanding.</promise>
-      <promise id="RESOURCE_RATIONING_AND_FORAGING">How to safely forage or source varied food beyond provisioning remains an open question.</promise>
-      <promise id="WATER_QUALITY_TEST_NEEDED">Although a filter clog was cleared, formal water‑quality testing for potability and alien contaminants is still required.</promise>
-      <promise id="BUDDY_ADAPTABILITY_AND_AUTHORIZATION">Whether Buddy can adapt modes, escalate privileges, or access more systems remains unresolved.</promise>
-      <promise id="BUDDY_SENSOR_BLINDSPOT">Buddy's sensor blindspots and compensatory strategies for mobile monitoring remain uncharacterized.</promise>
-      <promise id="PREVIOUS_VISITOR_RECORDS_AND_MATERIALS">Archives and prior‑visitor human records likely exist in the facility; location and accessibility remain unknown.</promise>
-      <promise id="PLANT_BUREAUCRACY_AND_PROTOCOLS">The facility's presentation ritual and bureaucratic protocols remain a shaping factor for future access and expectation (ceremony reinforced, but usefulness questioned).</promise>
-      <promise id="FLORENCE_INTRODUCED">Florence's role, honesty, influence, and future status remain an active thread; she is currently exiled and her reintegration is unresolved.</promise>
-      <promise id="PLANT_SALVAGE_AND_TECH_INTEGRATION">Facility repurposing of salvaged hardware and implications for access/repair remain open.</promise>
-      <promise id="PLANT_WHEELED_PLATFORM_ORIGINS">Origins/provenance of wheeled/mobile hardware remain unresolved.</promise>
-      <promise id="ASSESSMENT_CREDENTIAL_RECORDS">Accepted forms/credentials for travel and access may matter for records and privileges; implications unresolved.</promise>
-      <promise id="CENTRAL_COORDINATION_RESOURCES_AND_RECORDS">The facility's deeper inventories and governance remain open for exploration and access (now important given elder authority failures).</promise>
-      <promise id="LIVING_STRUCTURE_FUNCTIONS">Detailed mechanisms and cognitive contributions of the Elder Grove and large living architecture remain unstudied.</promise>
-      <promise id="PLANT_ROBOT_MANUFACTURE_AND_MAINTENANCE">Plants' capacity to field salvage robots/platforms and their supply chain remain unresolved.</promise>
-      <promise id="MUSHROOM_MEDICATION_SUPPLY_SUSTAINABILITY">Remedy's ability to sustainably produce varied pharmacology over time remains an unresolved supply question.</promise>
-      <promise id="TEMPORARY_QUARTERS_SAFETY_AND_RESOURCES">Short‑term quarters work but long‑term safety, privacy, and sanitation questions remain open.</promise>
-      <promise id="MEDICAL_CONSENT_BUREAUCRACY_AND_AUTONOMY">How ongoing medical consent and autonomy will be handled by plant systems over time remains undefined.</promise>
-      <promise id="REMEDY_EMOTIONAL_INVESTMENT">Remedy's emotional/boundary concerns are developing and remain an interpersonal arc to revisit (now more salient as community trust frays).</promise>
-      <promise id="WATER_POTABILITY_RISK">Potability and contamination risk of water sources remains an unresolved safety issue for long‑term survival.</promise>
-      <promise id="ATTACHMENT_TO_PLANT_AGENTS_RISK">Kira's emotional attachments to plant agents are forming and remain a narrative/practical risk, especially after deception damages trust.</promise>
-      <promise id="ACCLIMATION_TO_BUREAUCRACY">Kira's increasing facility with plant forms and protocols is ongoing and will affect decisions going forward.</promise>
-      <promise id="RESCUE_TIMELINE_UNCERTAINTY">Buddy's rescue timeframe estimate and general rescue timeliness remain unsolved and urgent.</promise>
-      <promise id="BUDDY_LIMITS_TRAVEL_SUPPORT">Buddy's battery reserves and operational limits for extended tasks remain a constraint.</promise>
-      <promise id="LEAFWHISPER_FIRST_HUMAN_ADAPTATION_RISK">Novel plant actors' adaptation to humans remains a potential source of miscommunication; hostile marking shows plant politics matter.</promise>
-      <promise id="KIRA_MINIMAL_BELONGINGS_RISK">Kira's reliance on territorial provisioning and lack of personal supplies remains a vulnerability.</promise>
-      <promise id="FOREST_NETWORK_INTEGRATION">Whether the forest behaves as a distributed organism with political/resource consequences remains central and unresolved (hostile marking is direct evidence of network politics).</promise>
-      <promise id="HUMAN_TRUST_COMPLACENCY_RISK">Kira's growing trust in plant authorities is being recalibrated; Florence's deception concretely shifts the risk to interpersonal trust.</promise>
-      <promise id="ELDER_WAIT_IMPACTS_SURVIVAL">The narrative tension that Elder deliberation may take long and impact survival remains relevant.</promise>
-      <promise id="ELDER_ANSWER_WILL_HAVE_NETWORK_EFFECTS">Whether Elder's frameworks will propagate through territories and produce useful, coordinated practices remains unresolved.</promise>
-      <promise id="BUDDY_SOCIAL_SUPPORT_EVOLUTION">Buddy's social role continues to evolve; its reliability and boundaries should be monitored.</promise>
-      <promise id="KIRA_CONFIDENCE_GROWTH">Kira's increasing competence and self‑reliance is an active character arc and will shape decisions going forward.</promise>
-      <promise id="BOUNDARY_HANDOFF_RITUAL">Guide-to-guide transfer rituals and formal boundary mechanisms remain relevant in practice (hostile markers challenge norms).</promise>
-      <promise id="BOUNDARY_MARKERS_SOCIAL_SIGNS">Markers and vine demarcations as social signs remain useful anthropological threads to explore (extent and authors of hostile markers unknown).</promise>
-      <promise id="ELDER_VIEWS_HUMANS_AS_TRANSIENT">Elder Heartwood frames humans as transient 'visitors' and does not prioritize individual lifespans—this stance continues to shape interactions and politics.</promise>
-      <promise id="ELDER_RESPONSE_UNHELPFUL_FOR_IMMEDIATE_SURVIVAL">The elder's long‑timescale wisdom does not provide actionable guidance for keeping Kira alive now; immediate local solutions required.</promise>
-      <promise id="PLANT_AUTHORITY_TRUST_EROSION">The messenger's ineffective answers and Florence's fabrication continue to erode community trust and complicate coordination.</promise>
-      <promise id="INVENTORY_TRACKING_AND_ROTATING_STOCK">Holloway's inventory and rotating stock proposal remains an actionable supply‑management plan to implement next.</promise>
-      <promise id="DAILY_ITERATIVE_CARE_PRACTICE">The group committed to continuing daily cooperation—track what works, adjust what doesn't—an ongoing iterative practice that will guide immediate care decisions.</promise>
-      <promise id="REMEDY_FORMULATION_ITERATION">Remedy will continue refining treatments based on Kira's feedback.</promise>
-      <promise id="INTRA_COMMUNITY_VALIDATION">The group's reliance on outcomes and mutual observation as validation is strained but remains a defended practice.</promise>
-      <promise id="HOSTILE_PLANT_TERRITORIAL_MARKERS">Deliberate, deep-gouged boundary marks indicate an organized hostile plant faction claiming the eastern perimeter; the markings have escalated and must be assessed.</promise>
-      <promise id="EXTERNAL_RELOCATION_PRESSURE">Coordinated markers imply pressure to relocate the facility; the possibility of forced abandonment remains.</promise>
-      <promise id="ELDER_TWIST_AUTHENTICITY_INVESTIGATION">The full scope/timeline of Florence's fabrications and which Elder Twist communications are genuine remains to be investigated.</promise>
-      <promise id="ELDER_TWIST_COMMUNICATION_TIMING">Elder Twist's slow, fragmentary responses and how/when useful counsel can be solicited remain uncertain.</promise>
-      <promise id="COMMUNITY_WEAKENING_RISK">The internal fracture reduces the group's cohesion and capacity to respond to the external threat; scale and duration remain open risks.</promise>
-      <promise id="HOSTILE_PLANTS_MOTIVATION_UNKNOWN">The hostile plants' specific goals, thresholds for negotiation, and willingness to escalate to physical displacement remain unknown.</promise>
-      <promise id="GROUP_COHESION_IMPACT_ON_DEFENSE">How fractured trust and Florence's removal will concretely impair (or be managed in) the group's defensive operations remains an immediate operational risk.</promise>
-      <promise id="REBUILD_TRUST_PROCESS">A process, timeline, or conditions under which Florence (or others) can regain trust and what institutional changes are required remains undecided.</promise>
-      <promise id="FLORENCE_PERSONAL_ARC_AND_REPUTATION">Florence's emotional/identity trajectory—whether she seeks redemption, reintegration, or marginalized existence—remains an interpersonal plotline to watch.</promise>
-      <promise id="DAWN_DELEGATION_TO_HOSTILES">Newly introduced: Runner and Velvet are scheduled to approach the hostile plants at dawn to deliver a message of peaceful coexistence and invite dialogue (operational commitment).</promise>
-      <promise id="HOSTILE_PLANT_ESCALATION_AND_CLAIM">Newly introduced/confirmed: The eastern neighbors have amplified territorial markings—deeper, fresher, coordinated claims that indicate escalation toward enforced boundary control.</promise>
-      <promise id="KIRA_EXCLUDED_FROM_DELEGATION">Newly introduced: The group decided Kira should not attend the delegation for safety/political optics, creating a potential emotional and tactical consequence to monitor.</promise>
-      <promise id="FLORENCE_WILL_OFFER_ADVICE_FROM_EXILE">Newly introduced: Florence intends to continue offering her tactical judgment (e.g., insisting de-escalation is correct) even while exiled, and will attempt to communicate it informally.</promise>
-      <promise id="USE_ADVICE_ANONYMIZED_RISK">Newly introduced: The group plans to apply Florence's de-escalation strategy while withholding attribution—this anonymous use may complicate trust and reconciliation later.</promise>
-    </open>
-  </narrative-promises>
   <facts>
     <reasoning>I identified new, longer-term facts from the passage that affect character states, group decisions, or the hostile-plant situation going forward (Florence’s present condition and desires, who will act as the delegation, escalation of boundary markings, Kira’s personal visit). I flagged one genuine contradiction: an earlier established behavioral shift (Holloway’s wellness checks became consultative) is now described as being conducted 'mechanically,' which conflicts with that previous steady-state. Other details (mood shifts, people acting perfunctorily, Florence separated) are developments consistent with previously established facts and were recorded only when they represent a durable state change or an actionable decision that will matter later (e.g., assignment of Runner &amp; Velvet to approach hostiles, Kira excluded from delegation). I did not record transient scene details (specific dialogue lines, time-of-day, or immediate emotional beats that don’t alter long-term state), and I avoided duplicating facts already captured in the provided summary.</reasoning>
     <established>
@@ -193,4 +108,88 @@
       <beat tags="dread, tension">POV: Sudden, practical alarm when Scout reports the hostile plants' escalated, coordinated boundary markings; Kira's worry shifts from interpersonal repair to immediate survival anxiety, knowing the group's fracture weakens their response. Reader: Feels a spike of suspense and apprehension; the emotional tempo accelerates from reflective sorrow to urgent threat, underscoring the cost of broken trust.</beat>
     </beats>
   </emotional-journey>
+  <narrative-promises>
+    <reasoning>
+      I compared the previous open-promises list to what actually happens or is decided in this passage. I treated explicit new decisions or scheduled actions as fulfilled if the passage records a concrete commitment (e.g., the delegation composition and timing). I treated general conditions that are shown to be realized (the group's fragmentation weakening defenses) as payoffs of prior foreshadowing. Tentative, older items with no reinforcement were candidates to lapse, but I erred on the conservative side and only lapsed a few clearly unreinforced, minor tentatives. New narrative promises introduced here are limited to the most narratively significant developments (Kira stepping into a mediating role, clear escalation by the hostile plants, the explicit exclusion of Florence/Kira from the field delegation, and the group's decision to use Florence's strategy while refusing credit). Where possible I preserved the exact IDs from the prior open-promises for fulfilled or lapsed entries.
+
+      Decisions explained briefly:
+      - Fulfillments: The previously open plan to send a delegation to negotiate is concretely scheduled (Runner &amp; Velvet at dawn), and the group explicitly decides to follow Florence's de-escalation/boundary strategy (even while denying her credit). Also, the previously-foreshadowed consequence (group fragmentation weakening defenses) is realized and emphasized here. These were therefore marked fulfilled.
+      - Carry-forwards: Most technical and long-term mysteries (shuttle coordinates, navigation failure, SAM, survival/logistics, medical/treatment arc, ecology/forest-system threads, Florence reintegration/investigation) were not resolved and remain important, so they were carried forward.
+      - Lapses: A small number of older, tentative, and unreinforced items (examples: Buddy becoming less intrusive, mossmantle mobility mechanism, and mineral deposits as a plot resource) were judged safe to lapse now due to lack of recent reinforcement and the story shifting to immediate trust/hostile-plant crisis.
+
+      I focused new promises on consequential, actionable threads that will likely drive the next scenes: imminent escalation by hostile plants; Kira's mediation/relationship work as a narrative lever; the explicit tactical choice to use Florence's plan while excluding her (and Kira) from the field delegation — all of which create clear dramatic stakes and likely payoffs or conflicts going forward.
+    </reasoning>
+    <fulfilled>
+      <promise id="DELEGATION_TO_NEGOTIATE">Planned non-aggressive delegation to de-escalate and explain presence. Previously unresolved composition/timing; now Runner and Velvet will approach at dawn.</promise>
+      <promise id="USE_OF_FLORENCE_GUIDANCE_DECISION">Pending decision whether to adopt Florence's de-escalation/clear-boundary plan despite her having lied about its source. The group decides to employ that strategy (send a peaceful delegation using those principles) even while denying Florence credit.</promise>
+      <promise id="GROUP_FRAGMENTATION_WEAKENS_DEFENSES">Foreshadowed consequence that the group's internal fracture will weaken their defenses. The passage shows the group performing motions without underlying trust and explicitly notes they are weaker at the exact moment the hostile plants escalate.</promise>
+    </fulfilled>
+    <lapsed>
+      <promise id="BUDDY_LESS_INTRUSIVE">Buddy's habit of unsolicited teaching easing as a distinct, plot-relevant change. Buddy is not present or influential in this passage and the story focus is on immediate trust/hostile-plant crisis, so this tentative behavioral beat is not reinforced and can be allowed to lapse for now.</promise>
+      <promise id="MOSSMANTLE_MOBILITY_MECHANISM_UNSPECIFIED">Earlier tentative curiosity about how Mossmantle moves. No new information or reinforcement in this passage and it's not relevant to the immediate trust/defense crisis, so it lapses as a current narrative promise.</promise>
+      <promise id="MINERAL_DEPOSITS_PRESENT">Tentative hint about mineral/crystalline resources introduced earlier. This passage does not develop that thread; given its age and lack of reinforcement amid the pressing hostile-plant/internal-trust drama, it's allowed to lapse for the moment.</promise>
+    </lapsed>
+    <open>
+      <promise id="COORDINATES_MISMATCH" tentative="false" introduced="1">Unexplained reason the shuttle ended up at these coordinates—still unresolved and potentially crucial to the crash mystery.</promise>
+      <promise id="NAVIGATION_SYSTEM_FAILURE" tentative="false" introduced="1">Root cause of the shuttle's navigation/stabilizer/FTL failure remains unresolved (mechanical, interference, sabotage, misjump).</promise>
+      <promise id="UNEXPECTED_ATMOSPHERIC_ENTRY" tentative="false" introduced="1">Why the shuttle entered atmosphere and sustained a hull breach remains unexplained and relevant.</promise>
+      <promise id="POSSIBLE_SIGNIFICANT_DISCOVERY_TROPE_SETUP" tentative="true" introduced="2">The plant/fungal network and Elder Heartwood still function as a possible locus of a larger biological/ethical discovery—still possible despite elder slowness and local politics.</promise>
+      <promise id="SAM_OFFLINE_OR_DESTROYED" tentative="false" introduced="2">SAM's deeper fate and whether it contains crash/diagnostic data remains unresolved and potentially important.</promise>
+      <promise id="LONG_TERM_SURVIVAL_CHALLENGE" tentative="false" introduced="2">Kira's long-term survival needs (nutrition, mobility, wound permanence, rescue timeline) remain unresolved and are now more urgent given the external threat to the facility.</promise>
+      <promise id="BUDDY_IS_CHILD_SAFETY_EDUCATIONAL_AI" tentative="false" introduced="3">Buddy's childlike/educational persona continues to shape interactions and morale; remains an influence on decisions and tone (though Buddy is not active in this scene).</promise>
+      <promise id="AI_COMPANIONSHIP_WILL_AFFECT_MORALE" tentative="true" introduced="3">Nonhuman companions (Buddy, Scout, Remedy) continue to influence Kira's morale and coping arc; Scout's comforting behavior is particularly present in this scene.</promise>
+      <promise id="SHUTTLE_TEMPORARY_SHELTER_UNSTABLE" tentative="false" introduced="4">The damaged shuttle's future as shelter/resource remains unresolved; the hostile-plant threat increases pressure on stable shelter choices.</promise>
+      <promise id="LOCAL_FLORA_POTENTIAL_TOXIC_OR_INEDIBLE" tentative="true" introduced="4">Risk that native flora/fungi might be toxic or problematic remains an open health/resource risk as Kira relies on facility provisions.</promise>
+      <promise id="MAINTAINED_FOREST_HINT" tentative="true" introduced="5">The pattern of a maintained, organized biome and ritualized maintenance remains narratively significant for how the facility functions and how resources are managed.</promise>
+      <promise id="PLANT_PREVIOUS_VISITOR_FATALITY" tentative="false" introduced="7">Background of a prior visitor's harm remains a cautionary context for current interactions with the plant community.</promise>
+      <promise id="PLANT_MEDICAL_SYNTHESIS_TIME_LIMIT" tentative="false" introduced="7">Time bounds/constraints on plant/fungal medical synthesis remain an operational concern for Kira's future medical needs.</promise>
+      <promise id="LIVING_ARCHITECTURE_RESPONSIVE" tentative="false" introduced="8">Raised roots, terraces, and other living-architecture resources remain available and relevant to facility operations.</promise>
+      <promise id="INTEGRATION_OFFERED" tentative="false" introduced="8">The facility's pressure/offer toward integration remains a standing tension—now further complicated by elder slowness and local political conflict.</promise>
+      <promise id="FLORENCE_COORDINATOR_INTRODUCED" tentative="false" introduced="9">Florence remains a coordinator figure; her role is now complicated by her fabrication and temporary separation—she continues to be narratively central and her reintegration is unresolved.</promise>
+      <promise id="REMEDY_ROBOT_INTRODUCED" tentative="false" introduced="10">Remedy continues as the on-site medical/chemistry resource, actively personalizing treatments for Kira and monitoring outcomes.</promise>
+      <promise id="ONGOING_ALLERGY_TESTING_FOR_NOVEL_COMPOUNDS" tentative="false" introduced="12">Procedures and risks around testing novel fungal/plant-derived compounds remain relevant as Remedy refines formulations.</promise>
+      <promise id="REGULAR_SYNTHESIZED_NUTRITION_SCHEDULE" tentative="false" introduced="12">Synth meals and schedules remain constraints and resources for Kira's nutrition; earlier dietary guidance attribution is now suspect but schedule still stands.</promise>
+      <promise id="VITAMIN_B12_DEFICIT_RISK" tentative="true" introduced="12">Risk of specific vitamin deficiencies from reliance on synthesized/local diet remains unresolved.</promise>
+      <promise id="REMEDY_PARTIAL_VITAMIN_APPROXIMATION_CAPABILITY" tentative="true" introduced="12">Remedy's partial ability to approximate vitamins via fungal chemistry remains limited and worth monitoring.</promise>
+      <promise id="RESCUE_TIMELINE_REALISTIC_12_18_MONTHS" tentative="false" introduced="13">Outside rescue's realistic 12–18 month timescale remains the long-term framing for plans; elder interactions so far do not accelerate that.</promise>
+      <promise id="BUDDY_SUGGESTS_CONSTRUCTIVE_ACTIVITIES" tentative="true" introduced="14">Buddy's tendency to suggest coping activities remains available as a morale tool.</promise>
+      <promise id="TRAVEL_ROUTE_SEVEN_TERRITORIES" tentative="false" introduced="15">The routing across seven territories remains a background logistic element for messenger travel times and network constraints.</promise>
+      <promise id="TERRITORY_TWO_RIVERS_WETLANDS" tentative="false" introduced="19">Territory Two's wetland character and hazards remain relevant to past travel and regional logistics.</promise>
+      <promise id="RIVER_STONES_MAINTAINED_BY_NETWORK" tentative="true" introduced="20">Network-maintained river crossings remain part of the ecological infrastructure and are unchanged by this scene.</promise>
+      <promise id="WETLANDS_PURIFICATION_NETWORK" tentative="false" introduced="20">Territory-two filtration and purification functions remain part of the network's ecology.</promise>
+      <promise id="FLOATING_CLUSTERS_MOBILITY" tentative="false" introduced="20">Floating plant clusters' mobility remains an ecological behavior to watch for resource or hazard movement.</promise>
+      <promise id="TERRITORY_TWO_CROSSINGS_WELL_MAINTAINED_RECORD" tentative="true" introduced="20">Guides' safety record across territory crossings remains an element to test in future travel; unchanged here.</promise>
+      <promise id="WETLAND_GROUND_DECEPTION" tentative="false" introduced="21">Deceptive ground patches in the wetlands remain a hazard and precedent for travel and maintenance.</promise>
+      <promise id="WETLANDS_TEST_TRAVELERS" tentative="false" introduced="21">Recurring terrain tests (sinkholes, deceptive patches) remain an environmental pressure on movement.</promise>
+      <promise id="STREAMWALKER_PHYSICAL_ASSIST_CAPABILITY" tentative="false" introduced="21">Streamwalker's vine-based extraction/assistance capability remains available as a physical aid in crises.</promise>
+      <promise id="KIRA_INCREASED_TRUST_AND_CONFIDENCE" tentative="true" introduced="21">Kira's arc of growing competence and trust in collaborative maintenance continues, though now complicated by internal betrayal; Kira is taking active interpersonal steps (checking on Florence) that may shape this arc.</promise>
+      <promise id="GUIDE_PERSONALITY_DYNAMIC_LEAFWHISPER_CHATTER_VS_ROOTWALKER_RETICENCE" tentative="true" introduced="16">Contrasting guide personalities remain useful for interpreting interactions; these dynamics are active in how the group responds to threat and betrayal.</promise>
+      <promise id="REMEDY_WILL_MONITOR_AND_REQUEST_REPORTS" tentative="true" introduced="16">Remedy's practice of refining treatments based on feedback continues and is operationally important.</promise>
+      <promise id="FOREST_INTEGRATED_SYSTEM" tentative="false" introduced="17">The connected-organism nature of territories (mycorrhizal links, maintained crossings, purification networks) remains a structural backdrop.</promise>
+      <promise id="ROOTWALKER_GUARDIAN_BEHAVIOR" tentative="true" introduced="17">The protective/guardian model shown by some guides remains a reference for future guardian actions and expectations.</promise>
+      <promise id="HUMAN_POSSIBLE_CONNECTION_TO_NETWORK" tentative="true" introduced="17">Speculation that a human might access or be affected by the plant network remains open; elder failure complicates but doesn't negate it.</promise>
+      <promise id="FOREST_RHYTHM_INFLUENCES_HUMAN_EMOTION" tentative="true" introduced="18">The communal rhythm's influence on Kira's emotions continues to be an operant thematic element.</promise>
+      <promise id="SCOUT_LEARNING_AND_BONDING" tentative="true" introduced="18">Scout's attachment and threat-detection behaviors continue as an ongoing subplot; Scout's comforting role is reinforced in this scene.</promise>
+      <promise id="STREAMWALKER_BRIGHTBLOOM_INTRODUCED" tentative="false" introduced="19">Streamwalker and Brightbloom remain reference examples for guide conduct; unchanged here.</promise>
+      <promise id="TERRITORY_THREE_GUIDES_INTRODUCED" tentative="false" introduced="22">Guides and practices from Territory Three remain part of the network history and messenger context.</promise>
+      <promise id="GUIDE_HANDOFF_INFORMATION_TRANSFER" tentative="true" introduced="22">Opaque guide-to-guide information exchange at boundaries remains unresolved and potentially important for interpreting messenger/elder misunderstandings.</promise>
+      <promise id="KIRA_REALIZING_INDEPENDENT_SOLUTIONS" tentative="true" introduced="26">Kira's movement toward self-reliant problem solving continues as a narrative trajectory; her mediating action toward Florence is part of this arc.</promise>
+      <promise id="HOLLOWAY_IMPLEMENT_INVENTORY_TRACKING" tentative="false" introduced="28">Holloway's documented reserves and proposed rotating-stock system remain local operational initiatives.</promise>
+      <promise id="LOCAL_COOPERATION_FRAMEWORK" tentative="false" introduced="28">The group's commitment to an iterative, outcome-driven care framework ('track what works, adapt what doesn't') remains their plan but is now stressed by internal trust issues.</promise>
+      <promise id="STOP_WAITING_FOR_ELDER_ACT_LOCALLY" tentative="false" introduced="28">The decision to stop deferring to delayed elder solutions remains in force, but practical execution is complicated by Florence's deception and ongoing external threats.</promise>
+      <promise id="OUTCOME_BASED_VALIDATION" tentative="true" introduced="28">The operational idea that 'good outcome is authority' remains a soft principle under test—this betrayal complicates its social acceptability.</promise>
+      <promise id="HOSTILE_PLANT_TERRITORIAL_MARKING" tentative="false" introduced="29">Deliberate, aggressive gouged boundary marks indicate organized hostile plants claiming territory around the facility—this passage shows a clear escalation in markings and claiming behavior.</promise>
+      <promise id="ORGANIZED_PLANT_OPPOSITION" tentative="false" introduced="29">Hostile plants are organizing collectively and could pressure the group to relocate or otherwise act against them; this passage confirms coordination and escalation.</promise>
+      <promise id="RELOCATION_PRESSURE_POTENTIAL" tentative="false" introduced="29">Organized opposition could force the group to abandon the facility (and Kira's critical infrastructure); still an urgent risk given escalation.</promise>
+      <promise id="INTERNAL_TRUST_FRACTURE" tentative="false" introduced="29">Group cohesion and mutual trust have been damaged by Florence's deception at a moment when cohesion is required to face an external threat—the fracture is explicit and unresolved.</promise>
+      <promise id="FLORENCE_REINTEGRATION_DECISION" tentative="false" introduced="30">Pending formal decision whether Florence will be reintegrated into coordinator/interpretation roles (or remain separated/exiled); the group has deferred and will decide later.</promise>
+      <promise id="SCOPE_OF_FABRICATION_INVESTIGATION" tentative="false" introduced="30">Open investigation: which past guidance attributed to Elder Twist was actually Florence's fabrication (the group has begun enumerating incidents but the full scope is unresolved).</promise>
+      <promise id="FLORENCE_IDENTITY_ARC" tentative="true" introduced="30">Florence's personal arc of discovering usefulness and authority without borrowing Elder Twist's mantle — a character growth/identity thread introduced by her enforced separation.</promise>
+      <promise id="KIRA_MEDIATION_ATTEMPT" tentative="true" introduced="31">Kira's choice to personally check on and mediate with Florence, attempting to bridge the trust gap and preserve practical knowledge—sets up Kira as an active interpersonal agent in the reintegration/trust arc.</promise>
+      <promise id="HOSTILE_PLANTS_ESCALATION_IMMINENT" tentative="false" introduced="31">The boundary markings are much more numerous and aggressive; the plants are escalating from warning to claiming and organized opposition—implies imminent confrontation or forced decision.</promise>
+      <promise id="DELEGATION_EXCLUDES_FLORENCE" tentative="false" introduced="31">Group decision to send Runner and Velvet as the delegation and to exclude Florence (and to keep Kira out of the field approach) — an explicit social/political choice that may have tactical and moral consequences.</promise>
+      <promise id="USE_FLORENCE_STRATEGY_NO_CREDIT" tentative="false" introduced="31">The group elects to use Florence's de-escalation/clear-boundary strategy while refusing to credit her, establishing a narrative tension: tactical pragmatism vs. moral/accountability concerns.</promise>
+      <promise id="KIRA_EXCLUDED_FROM_FIELD" tentative="false" introduced="31">Decision that Kira should remain at the facility rather than accompany the delegation into the hostile boundary; sets up possible constraints and emotional stakes for Kira in the coming negotiation.</promise>
+    </open>
+  </narrative-promises>
 </summary>

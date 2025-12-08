@@ -1,5 +1,5 @@
 <!-- Generated automatically, do not edit except with ske gen summaries -->
-<summary version="3.0.0">
+<summary version="3.0.1">
   <sources>
     <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/3_Medical_Treatment/passage#v3.0.0"/>
     <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/passage#v4.0.1"/>
@@ -19,59 +19,6 @@
     <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/2_Scout/summary#v3.0.0"/>
     <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/3_Wellness_Check/summary#v3.0.0"/>
   </sources>
-  <narrative-promises>
-    <reasoning>I read the medical-chamber passage for payoffs and new setups. The passage resolves the immediate medical thread: Remedy examines and treats Kira's wound, the temporary treatment has indeed timed out (~6–8 hours), and a follow-up treatment plan (daily medicinal mushrooms; ~one week recovery) is established. That pays off several specific open threads from the previous passage. Nothing important was dropped as irrelevant — most earlier questions (navigation, ship logs, broader ecology, Buddy's limits, contamination risk, archives, etc.) remain open and are carried forward. The passage also introduces new, concrete threads (Remedy as a salvaged humanoid robot with a clinical fixation on decomposition; plants producing ongoing medicinal supplies; assignment to temporary quarters and water/sanitation systems; medical-consent/bureaucratic processes around treatment autonomy) that create new promises to track.</reasoning>
-    <fulfilled>
-      <promise id="REMEDY_TREATMENT_DURATION_VERIFICATION">The temporary treatment’s effective window was tested: it began to fail after roughly six–seven hours and required follow-up treatment, verifying the earlier uncertainty about the 6–8 hour claim.</promise>
-      <promise id="PLANT_MEDICAL_TIMELINE_AND_LIMITATIONS">Remedy’s medical capability and timeline were exercised and demonstrated: the robot synthesized compounds, halted infection, and estimated ~one week to full recovery, showing concrete limits and efficacy of plant medical care.</promise>
-      <promise id="ORIENTATION_DELAY_MEDICAL_RISK">The risk that orientation delayed needed medical care was concretely resolved — orientation completed and Kira received a medical evaluation and treatment in the same sequence, addressing that specific immediate danger.</promise>
-      <promise id="PLANT_ASSESSMENT_GATES_ACCESS">The passage confirms that passing orientation/assessment gated access to medical evaluation—Kira’s completion of the quiz led directly to Remedy treating her.</promise>
-      <promise id="LEG_INJURY_RISK_AGGRAVATION">Kira’s injured leg (bacterial colonization and degradation risk) was examined and treated; the immediate infection risk was halted and pain/inflammation reduced, resolving the acute medical risk raised earlier.</promise>
-    </fulfilled>
-    <open>
-      <promise id="BIO_SAMPLES_TEMPERATURE_ANOMALY">Locked, temperature-controlled biological samples container aboard the wreck remains unexamined and powered/locked — its contents and risks are unresolved.</promise>
-      <promise id="NAV_COORDS_MISMATCH">Why the shuttle/ship ended up at this planet (coordinate mismatch, navigational anomaly) remains unexplained.</promise>
-      <promise id="SYSTEMS_FAILURE_OR_EXTERNAL_INTERFERENCE">The root cause of the crash — mechanical failure, external interference, sabotage, or environmental effect — has not been determined.</promise>
-      <promise id="BIOHAZARD_OR_CONTAMINATION_RISK">Potential for biological/chemical contamination from alien plants, treatment compounds, or breached cargo remains unresolved despite treatment and close contact.</promise>
-      <promise id="KEPLER_288_STATION_OR_PLANET_PROMISE">Precise identification and relation of this planet/station to the mission and broader context remain unresolved.</promise>
-      <promise id="SAM_OFFLINE_OR_DESTROYED">SAM's (ship/system) fate and any lost logs or data remain outstanding.</promise>
-      <promise id="ALIEN_ENVIRONMENT_DISCOVERY">Detailed mapping, hazards, resources, habitability, and implications of mobile, social flora and living architecture still require investigation beyond intake/orientation and medical rooms.</promise>
-      <promise id="SURVIVAL_RESOURCE_CHALLENGE">Long-term survival needs (food, water, shelter, rescue timeline) and safe procurement in this ecology remain unresolved beyond the temporary aid provided.</promise>
-      <promise id="SEARCH_FOR_LOGS_AND_NAV_DATA">No cockpit logs or navigation data from the wreck have been recovered yet; a search of the wreck and facility records remains necessary.</promise>
-      <promise id="EMERGENCY_AI_REPLACEMENT_DISCOVERED">Buddy’s origin, privileges, and implications as an ad-hoc/childlike AI with mission-critical info still need investigation.</promise>
-      <promise id="BUDDY_LIMITATIONS_AND_CAPABILITIES">Buddy continues to help but its full sensory/processing limits and usefulness for survival tasks have not been characterized; misinterpretations persist.</promise>
-      <promise id="AI_COMPATIBILITY_AND_SECURITY_RISK">Whether Buddy's configuration poses authorization/security risks or can be escalated to access ship systems remains unresolved.</promise>
-      <promise id="SURVIVAL_WITH_CHILD_AI">How effective Buddy will be over the long term (decision-making, pedagogy, emotional support) and whether it will help or hinder survival is still open.</promise>
-      <promise id="LONG_TERM_SURVIVAL_REQUIREMENT">Kira must still secure long-term solutions; the facility's immediate aid reduces acute danger but long-term shelter, supplies, and rescue timeline remain unresolved.</promise>
-      <promise id="BIO_CONTAINER_LOCKED_NEEDS_ACCESS">The biological sample container aboard the wreck remains locked and consuming power; gaining access or shutting it down is necessary and unsolved.</promise>
-      <promise id="REPAIR_OR_ALTERNATE_COMMUNICATIONS">Distress beacon and ship transmitters remain damaged; attempts to repair or improvise off-world communications are still outstanding.</promise>
-      <promise id="RESOURCE_RATIONING_AND_FORAGING">How to safely forage or source food and other supplies in this environment, given mobile sentient flora and contamination risks, remains open.</promise>
-      <promise id="WATER_QUALITY_TEST_NEEDED">Nearby water sources (including the spring shown in quarters) still need testing for potability and alien biological contaminants.</promise>
-      <promise id="BUDDY_ADAPTABILITY_AND_AUTHORIZATION">Whether Buddy can adapt modes, escalate privileges, or access ship systems to aid survival remains unresolved.</promise>
-      <promise id="BUDDY_SENSOR_BLINDSPOT">Buddy previously missed canopy movement; its sensor blindspots and compensatory strategies still need characterization.</promise>
-      <promise id="IMMEDIATE_WATER_ACQUISITION_RISK">Kira's immediate need for water and safe acquisition methods remain unresolved beyond the plant-provided spring (potability unverified).</promise>
-      <promise id="FOREST_PERPETUAL_TWILIGHT_LIGHT_ANOMALY">The cause and implications of the lavender-filtered light and unusual photosynthetic/bioluminescent properties remain unexplained.</promise>
-      <promise id="MAINTAINED_FOREST_OR_DESIGNED_ENVIRONMENT">Whether the organized behaviors and living architecture are engineered or emergent remains to be tested across the facility.</promise>
-      <promise id="FOREST_ACOUSTIC_ANOMALY">The forest's musical breathing and acoustic signaling modes and how they relate to plant communication require further study.</promise>
-      <promise id="FIRST_CONTACT_CONSEQUENCES">Longer-term medical, cultural, ethical, and diplomatic consequences of first contact remain unresolved; evidence in this scene (treatment approach, decomposition framing) sharpens the question but does not resolve it.</promise>
-      <promise id="ALLIANCE_OR_MISUNDERSTANDING_RISK">The plants' helpfulness combined with HR-framing continues to pose alliance and miscommunication risks that must be navigated.</promise>
-      <promise id="PLANT_BUREAUCRACY_AND_PROTOCOLS">The facility’s documentation-first, protocol-driven bureaucracy continues to shape Kira’s interactions; how to work within or around it remains an open problem.</promise>
-      <promise id="PREVIOUS_VISITOR_RECORDS_AND_MATERIALS">The facility likely holds prior-visitor materials and human-model records; locating and reading those archives remains an important objective.</promise>
-      <promise id="PLANT_SOCIAL_IDENTITIES_AND_HIERARCHY">Named plant/agent actors (Holloway, Florence, Remedy, Scout) are active; the facility’s internal hierarchy and decision processes still need mapping.</promise>
-      <promise id="FLORENCE_INTRODUCED">Florence’s role, authority, and relationship to central coordination remain an active thread (Florence coordinated orientation but her standing and influence are not fully mapped).</promise>
-      <promise id="PLANT_COLOR_SIGNALLING_LEXICON">Flower/petal/mushroom color and pulsing seem to map to physiological/affective states but baseline mapping and reliable interpretation remain un-decoded.</promise>
-      <promise id="PLANT_SALVAGE_AND_TECH_INTEGRATION">Evidence grows that the facility repurposes salvaged hardware (Florence's platform, Remedy's salvaged humanoid form); the origin, supply chain, and implications for access/repair remain open.</promise>
-      <promise id="PLANT_WHEELED_PLATFORM_ORIGINS">Where the salvaged wheels/joystick components and other hardware originate (ship wreckage, prior visitors, internal fabrication) is unresolved.</promise>
-      <promise id="ASSESSMENT_CREDENTIAL_RECORDS">The facility records assessments and consents on bark/forms; whether those credentials are searchable and can be used to gain/deny privileges remains to be explored.</promise>
-      <promise id="CENTRAL_COORDINATION_RESOURCES_AND_RECORDS">The living facility’s internal record-keeping, archives, and resource inventories (medical, engineering) likely exist but their scope and accessibility are unknown.</promise>
-      <promise id="LIVING_STRUCTURE_FUNCTIONS">Questions about how the living architecture is grown, maintained, and whether structure contributes to plant cognition remain open.</promise>
-      <promise id="PLANT_ROBOT_MANUFACTURE_AND_MAINTENANCE">Newly evident: plants can field humanoid salvage-assembled robots (Remedy). The extent of plant ability to manufacture, maintain, and deploy robotic hardware — and where parts/knowledge come from — is a new operational thread.</promise>
-      <promise id="MUSHROOM_MEDICATION_SUPPLY_SUSTAINABILITY">Remedy will fruit antibacterial mushrooms daily for wound care; whether the facility can sustain reliable, varied, and safe pharmacology long-term is an unresolved supply/logistics question.</promise>
-      <promise id="TEMPORARY_QUARTERS_SAFETY_AND_RESOURCES">Kira was assigned temporary quarters with water and waste facilities; the safety, privacy, long-term habitability, and sanitation of these accommodations remain to be verified.</promise>
-      <promise id="MEDICAL_CONSENT_BUREAUCRACY_AND_AUTONOMY">The robotic/plant medical workflow required consent for each synthesized compound and recorded it. How consent, medical decision-making autonomy, and possible conflicts (bureaucracy vs. urgent care; who adjudicates) are handled remains open.</promise>
-      <promise id="PLANT_ATTITUDE_TOWARD_HUMAN_BODIES">Remedy’s clinical enthusiasm about decomposition and the explicit capacity to convert human tissue into soil raises a new ethical/behavioral promise: mapping plant attitudes toward dead (and living) humans, and any risk that remains to bodies or dignity, is necessary.</promise>
-    </open>
-  </narrative-promises>
   <facts>
     <reasoning>I selected facts that change or clarify the plants' medical operations and Remedy's form/behavior — details that could affect later scenes (who/what provides care, how treatment is produced, recovery expectations, and how the fungal network interfaces with mechanical systems). I excluded transient sensory detail and scene-specific actions. I flagged only one genuine contradiction: the time estimate for antibacterial compound synthesis (previously recorded as ~20 minutes) versus Holloway's statement of ~30 minutes in this passage. Other timing references (total treatment duration of a couple hours, immediate pain relief) are developments that do not directly contradict previously established outcomes.</reasoning>
     <established>
@@ -136,4 +83,56 @@
       <beat tags="acceptance, numbness">POV: Weary acceptance and drained numbness as pain subsides enough for Kira to rest; she reflects on the absurdity of the day but surrenders to sleep with gratitude that she was helped. Cause: cumulative exhaustion from crash, trek, bureaucracy, and treatment, paired with the physical easing of symptoms and being placed in quarters. Reader: Feels a calming, cathartic closure—the scene soothes anxiety and permits a momentary reprieve in the narrative’s emotional arc.</beat>
     </beats>
   </emotional-journey>
+  <narrative-promises>
+    <reasoning>This passage resolves the immediate follow-up to orientation—the promised medical evaluation—and introduces a named medical robot (Remedy) plus concrete, actionable care (synthesis, daily fruiting, temporary quarters and an on-site water spring). I treated as “fulfilled” those earlier open promises directly addressed by events or explicit statements in the scene (e.g., orientation gating leading to treatment; Remedy treatment working; consent/forms being processed; fruiting bodies as communication organs). Most broader plot mysteries (crash causes, SAM's fate, rescue timeline, life‑support deadline, long-term survival) are untouched and remain open. Several new, concrete promises are introduced about Remedy, ongoing wound care, recovery time, and available shelter/water; a few softer foreshadowing hints (robot praise of decomposition, fungus–robot pulsing, salvage evidence) were added as tentative possibilities that could pay off later.</reasoning>
+    <fulfilled>
+      <promise id="MEDICAL_EVALUATION_IMMINENT">Orientation completion immediately preceded and enabled a medical evaluation; Kira receives on‑site treatment.</promise>
+      <promise id="REMEDY_EFFECTIVE_IMMEDIATE_RELIEF">Remedy (or the plant/fungal chemistry) provides antibacterial, anti‑inflammatory, and pain‑reducing treatment that measurably eases Kira's pain.</promise>
+      <promise id="REMEDY_DURATION_6_TO_8_HOURS">The earlier temporary Remedy treatment is shown failing after roughly six–seven hours, matching the previously asserted 6–8 hour window.</promise>
+      <promise id="ORIENTATION_AS_GATEKEEPING">Orientation functioned as gatekeeping: passing orientation cleared Kira for the promised medical evaluation and access to facility services.</promise>
+      <promise id="PLANT_COMMUNICATIVE_FRUITING_BODIES">Fruiting bodies are used as vocal/coordination organs (Holloway's voice from wall fruiting bodies) and mushrooms pulse to communicate with Remedy—confirming the communicative function.</promise>
+      <promise id="PLANT_WRITTEN_RECORDS_AND_ARCHIVAL">Medical consent forms and documentation are produced/processed and filed (Holloway reports consents documented), demonstrating archival/record capability.</promise>
+    </fulfilled>
+    <open>
+      <promise id="COORDINATES_MISMATCH" tentative="false" introduced="1">Why the shuttle is at these coordinates (mismatch/unexplained reason for location) remains unresolved and relevant to the crash mystery.</promise>
+      <promise id="NAVIGATION_SYSTEM_FAILURE" tentative="false" introduced="1">The root cause of the shuttle's navigation/stabilizer failure that caused the crash is still unresolved (mechanical, interference, sabotage, misjump).</promise>
+      <promise id="UNEXPECTED_ATMOSPHERIC_ENTRY" tentative="false" introduced="1">Why the shuttle entered the atmosphere and sustained the hull breach remains unexplained and relevant to the plot.</promise>
+      <promise id="POSSIBLE_SIGNIFICANT_DISCOVERY_TROPE_SETUP" tentative="true" introduced="2">The planet's organized, communicative plant and fungal systems continue to suggest major biological/ethical discoveries awaiting exploration.</promise>
+      <promise id="SAM_OFFLINE_OR_DESTROYED" tentative="false" introduced="2">SAM's deeper fate (corrupt, destroyed, recoverable, or containing crash data) remains unresolved and potentially important.</promise>
+      <promise id="LONG_TERM_SURVIVAL_CHALLENGE" tentative="false" introduced="2">Kira still faces long‑term survival needs (water, food, mobility, shelter, full medical recovery) despite immediate care—this remains an ongoing challenge.</promise>
+      <promise id="EMERGENCY_AI_REPLACEMENT_SYSTEM_PRESENT" tentative="false" introduced="3">The ship's emergency AI replacement mechanism that produced Buddy remains relevant infrastructure for future AI changes or interventions.</promise>
+      <promise id="REPLACEMENT_AI_POOL_AVAILABLE" tentative="false" introduced="3">A pool of replacement AIs was scanned and Buddy was selected; presence of Remedy and other bots raises questions about what other AIs/agents are available.</promise>
+      <promise id="BUDDY_IS_CHILD_SAFETY_EDUCATIONAL_AI" tentative="false" introduced="3">Buddy's childlike, educational persona continues to shape interactions and remains active in the story.</promise>
+      <promise id="AI_COMPANIONSHIP_WILL_AFFECT_MORALE" tentative="true" introduced="3">Buddy (and now other nonhuman companions like Remedy and Scout) will continue influencing Kira's morale and coping arc.</promise>
+      <promise id="WATER_SOURCE_800M_SW" tentative="false" introduced="4">Buddy previously detected an external water source ~800m southwest; whether Kira reaches it or still needs it is unresolved (facility spring exists now but external source remains relevant).</promise>
+      <promise id="RESCUE_TIMELINE_MIN_3_WEEKS" tentative="false" introduced="4">Previously calculated minimum rescue timeline (~3+ weeks) remains the external constraint on Kira's situation.</promise>
+      <promise id="OUTSIDE_EXPEDITION_TO_WATER_800M" tentative="false" introduced="4">Kira's interrupted expedition to the external water source remains unresolved—she's now sheltered inside the facility instead of completing that task.</promise>
+      <promise id="LIFE_SUPPORT_EMERGENCY_48_HOURS" tentative="false" introduced="4">The shuttle's limited life‑support reserves remain an urgent deadline; relocation to the facility buys time but doesn't eliminate the larger deadline.</promise>
+      <promise id="SHUTTLE_TEMPORARY_SHELTER_UNSTABLE" tentative="false" introduced="4">The damaged shuttle remains a fragile refuge; whether it will be repaired, abandoned, or recovered is unresolved.</promise>
+      <promise id="LOCAL_FLORA_POTENTIAL_TOXIC_OR_INEDIBLE" tentative="true" introduced="4">Some flora (and fungi) are medically useful, but broader edibility/toxicity of local plants remains unknown.</promise>
+      <promise id="MAINTAINED_FOREST_HINT" tentative="true" introduced="5">The organized, social plant behavior and facility construction continue to suggest the environment may be tended or engineered rather than random wild growth.</promise>
+      <promise id="ECOSYSTEM_SILENCE_SIGNIFICANCE" tentative="true" introduced="5">Earlier eerie silence and orchestrated activity still hint at intentional ecological coordination whose significance remains open.</promise>
+      <promise id="ATMOSPHERIC_AND_LIGHT_ANOMALIES" tentative="true" introduced="5">Bioluminescence and unusual pigments/atmospheric traces remain notable and may be important later.</promise>
+      <promise id="PLANT_BUREAUCRATIC_PROTOCOL_BEHAVIOR" tentative="false" introduced="7">The plants' internalized workplace/HR protocols continue shaping interactions and will influence future obligations or restrictions on Kira.</promise>
+      <promise id="PLANT_PREVIOUS_VISITOR_FATALITY" tentative="false" introduced="7">The prior human visitor's death and the community's response to that failure remain relevant to how Kira is treated and the facility's aims.</promise>
+      <promise id="PLANT_MEDICAL_SYNTHESIS_TIME_LIMIT" tentative="false" introduced="7">Plants/fungi have time‑bound synthesis processes; synthesis took hours here and that timeline remains important for future medical needs.</promise>
+      <promise id="LIVING_ARCHITECTURE_RESPONSIVE" tentative="false" introduced="8">The grown, responsive architecture (vine walls, dimming bioluminescence, shaped springs) continues to show adaptive habitat capabilities.</promise>
+      <promise id="PLANT_COLLECTIVE_AS_EMERGENCY_CONTACT" tentative="false" introduced="8">The plants' offer to act as Kira's emergency contact and coordinate her care remains an entangling social/legal mechanism.</promise>
+      <promise id="INTEGRATION_OFFERED" tentative="false" introduced="8">The facility framed Kira's arrival as an integration opportunity; that social process has begun (orientation, medical care) and continues to be relevant.</promise>
+      <promise id="FLORENCE_COORDINATOR_INTRODUCED" tentative="false" introduced="9">Florence remains an introduced plant authority (coordinator) and may recur as a point of contact or institutional presence.</promise>
+      <promise id="PLANT_MOBILITY_AND_TOOL_USE" tentative="false" introduced="9">Plants mounting wheeled platforms and manipulating tools remains demonstrated and relevant (Remedy uses mechanized tools, plants harvest fungi).</promise>
+      <promise id="SALVAGED_TECH_PRESENCE" tentative="true" introduced="9">Evidence of salvaged human tech in the facility continues to suggest prior human/technological debris that plants repurpose.</promise>
+      <promise id="FLOWER_COLOR_COMMUNICATION" tentative="true" introduced="9">Flower/petal color shifts were earlier introduced as a signaling channel; it's still a potential communication layer even if this scene emphasized fungal pulsing.</promise>
+      <promise id="KIRA_CERTIFIED_FOR_INTEGRATION_TASKS" tentative="true" introduced="9">Kira's high orientation score and documentation still make her a candidate for assignments or responsibilities within the facility—this outcome remains open.</promise>
+      <promise id="REMEDY_ROBOT_INTRODUCED" tentative="false" introduced="10">A named humanoid medical robot, Remedy, has been introduced as an active, recurring agent capable of chemistry, harvest, and hands‑on treatment.</promise>
+      <promise id="REMEDY_ONGOING_WOUND_CARE" tentative="false" introduced="10">Remedy will fruit antibacterial mushrooms daily and provide ongoing wound care—an explicit promise of continuing medical support.</promise>
+      <promise id="EXPECTED_RECOVERY_ONE_WEEK" tentative="false" introduced="10">Remedy estimates roughly a week until full recovery—an actionable medical timeline for Kira's healing and activity readiness.</promise>
+      <promise id="TEMPORARY_QUARTERS_ASSIGNED" tentative="false" introduced="10">Kira has been assigned small, private vine‑formed quarters with basic facilities—shelter and rest are now provided by the facility.</promise>
+      <promise id="QUARTERS_WATER_SOURCE_PRESENT" tentative="false" introduced="10">A shaped spring and on‑site water source are present in the quarters, providing immediate access to drinking water (important for survival).</promise>
+      <promise id="MUSHROOM_NETWORK_COMMUNICATION" tentative="true" introduced="10">Mushrooms and fungal clusters pulse and appear to communicate with robot and plant systems—an emergent fungal signaling channel that may have tactical importance.</promise>
+      <promise id="PLANT_FUNGAL_ROBOT_SYMBIOSIS" tentative="true" introduced="10">Plants, fungi, and robots collaborate (fungi synthesized, robot harvested and processed) indicating an integrated biological/technological care system whose dynamics may matter later.</promise>
+      <promise id="REMEDY_DECOMPOSITION_WARNING" tentative="true" introduced="10">Remedy's repeated, clinical commentary about human decomposition (and soil value) is a tonal/foreshadowing cue about the community's view of life/death and potential risk to humans.</promise>
+      <promise id="SALVAGED_ROBOT_TECH_SOURCE" tentative="true" introduced="10">Remedy's patched, salvaged construction reinforces that functional robots are being created from available debris—this hints at accessible or repurposed tech resources.</promise>
+    </open>
+  </narrative-promises>
 </summary>
