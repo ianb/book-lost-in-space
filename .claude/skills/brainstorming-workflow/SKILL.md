@@ -1,6 +1,6 @@
 ---
 name: brainstorming-workflow
-description: Using brainstorm pool/used directories for idea management
+description: Managing story ideas in brainstorm/pool and brainstorm/used directories. Use when developing story concepts, expanding the world after setting is established, or when you need creative fodder for scenes, locations, or plot developments.
 ---
 
 # Brainstorming Workflow

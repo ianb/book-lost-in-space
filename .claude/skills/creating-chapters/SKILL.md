@@ -1,6 +1,6 @@
 ---
 name: creating-chapters
-description: Creating chapters, workflow strategy, scene breakdown
+description: Creating chapters with ske create, organizing scenes, and chapter placement. Use after story acts are defined and you're ready to break the story into discrete reading units.
 ---
 
 # Creating Chapters

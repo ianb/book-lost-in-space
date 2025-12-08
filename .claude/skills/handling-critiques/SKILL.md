@@ -1,6 +1,6 @@
 ---
 name: handling-critiques
-description: Fetching, reviewing, and responding to user feedback (critiques)
+description: Managing the critiques/ directory where external reader feedback is stored. Use when critiques have been submitted through the web interface and need to be fetched, reviewed, addressed, or marked with status (confirmed, in-progress, applied, ignored).
 ---
 
 # Handling Critiques

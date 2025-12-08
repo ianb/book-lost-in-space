@@ -1,6 +1,6 @@
 ---
 name: version-management
-description: Version strategy, ske snapshot usage, handling version drift
+description: Using ske snapshot to archive card versions and manage semantic versioning. Use when finalizing edits to a card, when validation warns about content changes since last snapshot, or when you need to understand version drift between referenced cards.
 ---
 
 # Version Management

@@ -1,6 +1,6 @@
 ---
 name: creating-entities
-description: Creating characters, entities, canon, timeline - when and workflow
+description: Creating characters, entities (places, objects, organizations), canon facts, and timeline events. Use when deciding which story elements need their own card for tracking, when a character appears by name, or when world details need consistent reference across passages.
 ---
 
 # Creating Entities

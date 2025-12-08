@@ -1,6 +1,6 @@
 ---
 name: creating-passages
-description: Creating passages, writing workflow, when to confirm
+description: Creating passages with ske create, filling placement/outline/passage cards, and the writing workflow. Use when ready to write prose after chapter structure is defined, or when adding new scenes to an existing chapter.
 ---
 
 # Creating Passages

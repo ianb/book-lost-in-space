@@ -1,6 +1,6 @@
 ---
 name: creating-stories
-description: Creating new stories, workflow strategy, when to confirm with user
+description: Creating new stories and understanding how stories fit within a project. Use when starting a new narrative, setting up story structure (acts, arc), or understanding the relationship between project-level settings (meta.card, narrative-guide.card) and story-specific overrides.
 ---
 
 # Creating Stories

@@ -1,6 +1,6 @@
 ---
 name: upgrading-references
-description: Using ske version-instruct to update outdated version references
+description: Using ske version-instruct to update outdated version references. Use when ske validate warns about references to old versions, and you need guidance on what changed and how to update the referring content.
 ---
 
 # Upgrading References

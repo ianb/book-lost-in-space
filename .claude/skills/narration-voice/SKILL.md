@@ -1,6 +1,6 @@
 ---
 name: narration-voice
-description: Understanding voice fields in story-info.card for TTS narration
+description: Configuring voice fields in story-info.card for text-to-speech audio generation. Use when setting up audio narration, choosing a voice personality, or preparing for the audio generation workflow (ske gen passage-voice, ske gen audio, ske gen audiobook).
 ---
 
 # Narration Voice
@@ -47,3 +47,11 @@ Simpler, neutral style for headings. Keep clear and steady, avoid drama. 1-2 sen
 - Tone shifts (minor bump)
 - POV character changes (major bump)
 - Fine-tuning (patch bump)
+
+## Audio Generation Workflow
+
+Once voice fields are configured:
+
+1. **Generate voice directions**: `ske gen passage-voice` - Creates passage-voice.card files with per-passage narration instructions
+2. **Generate audio**: `ske gen audio` - Produces MP3 files for each passage using TTS
+3. **Create audiobook**: `ske gen audiobook` - Combines passage audio into chapter/story audiobooks

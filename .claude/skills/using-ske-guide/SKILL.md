@@ -1,6 +1,6 @@
 ---
 name: using-ske-guide
-description: Understanding ske guide output and priority system
+description: Using ske guide to decide what to work on next. Use at the start of a session to see prioritized tasks, when you've completed a task and need direction, when blocked to understand prerequisites, or when focusing on a specific story to filter out project-wide noise.
 ---
 
 # Using ske guide

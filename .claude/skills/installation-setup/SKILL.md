@@ -1,6 +1,6 @@
 ---
 name: installation-setup
-description: Installing ske CLI and initializing new story projects
+description: Installing the ske CLI tool and initializing new story projects. Use when setting up a new project, reinstalling ske after updates, or troubleshooting installation issues.
 ---
 
 # Installation & Setup
@@ -98,12 +98,16 @@ ske guide                             # See what to work on next
 
 ## Updating ske
 
-To update to latest version:
+To update to latest version, you must uninstall first and clean the npm cache:
 ```bash
+npm uninstall -g ske
+npm cache clean --force
 npm install -g https://story-assets.ianbicking.org/packages/ske/dist/memory-atlas-ske-0.0.0-dev.tgz
 ```
 
-Re-run `ske init` in existing projects to:
+Without the cache clean, npm may use a cached version instead of the new one.
+
+Re-run `ske init --update` in existing projects to:
 - Update skill files in `.claude/skills/`
 - Update instruction templates in `docs/ske/instructions/`
 - Refresh database schema (non-destructive)

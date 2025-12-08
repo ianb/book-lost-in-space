@@ -1,6 +1,6 @@
 ---
 name: git-workflow
-description: Git integration with ske validate auto-commit
+description: How git integrates with ske commands. ske validate auto-commits validation fixes, ske snapshot commits version archives. Use to understand what gets committed automatically vs manually, and how to control commit behavior.
 ---
 
 # Git Workflow

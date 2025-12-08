@@ -1,6 +1,6 @@
 ---
 name: reasoning-fields
-description: How to use reasoning fields effectively in .card files
+description: Using reasoning fields (<reasoning>, <reasoning-character>, etc.) in .card files. Use before editing any card content - fill reasoning first to work through your thinking, then fill content based on that reasoning.
 ---
 
 # Reasoning Fields

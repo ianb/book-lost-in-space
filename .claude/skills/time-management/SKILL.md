@@ -1,3 +1,8 @@
+---
+name: time-management
+description: Tracking consistent timing across passages using outline.card time fields. Use when writing the first passage (to set the story clock), when passages have time gaps, or when ske gen summaries flags timing as implausible.
+---
+
 # Time Management in Stories
 
 This skill covers how to track and maintain consistent timing across passages.
