@@ -1,30 +1,36 @@
-<character version="4.0.0" name="Buddy">
-  <reasoning-character>
-    Context: Late 27th century with AI companions via neural link. Story premise: Kira crashes, her original AI is destroyed, she's assigned Buddy - a kids' educational AI for STEM learning. Kira is the protagonist.
-
-    Story purpose: Supporting character and comic foil. Buddy provides another layer of well-meaning-but-mismatched help alongside the bureaucratic plant aliens. Creates comedy from kid-oriented cheerfulness and safety protocols applied to life-threatening situations. Also provides genuine companionship and represents Kira's connection to human technology/culture while stranded. Buddy will undergo character growth—learning to adapt beyond initial programming constraints while maintaining core safety-focused values.
-
-    Character depth: Supporting character - needs moderate detail. Will appear frequently as Kira's constant companion via neural link but not a POV character. Needs clear voice and personality.
-
-    Setting fit: AI companion technology is established in this setting. Kids' educational AIs exist as a product category. Neural link means constant presence but not intrusive/freakish (per user requirement).
-
-    Distinctiveness: Unlike the plant aliens (bureaucratic, confused about humans), Buddy is cheerful, safety-focused, and pedagogical. Hardwired for kids means can't turn off teaching mode or excessive positivity. Genuinely concerned and helpful at existential level but in ways designed for children, not adult survival. Creates different flavor of absurdity than the aliens.
-
-    Relationships: Primary relationship with Kira - assigned to her after crash. Not her choice, mismatch creates friction but also genuine care develops. Buddy becomes part of her found family.
-
-    Completeness: Need speaking-style (critical - how Buddy talks to a kid), worldview, motives, emotional-baseline, flaws, humor-style. Can skip: age (AI has no age), physical-description (voice/presence only via neural link), backstory (just an assigned AI), normal-life (always active).
-  </reasoning-character>
+<character version="5.0.0" name="Buddy">
   <story-role>Supporting character / Comic relief: Buddy is Kira's constant AI companion, providing well-meaning but kid-oriented help in adult survival situations. Creates comedy from mismatch between cheerful educational approach and dire circumstances, while also offering genuine emotional support and connection to human culture. Arc: Starts managing Kira through kids' educational protocols, treating every crisis as a teaching moment. Through failures where teaching moments aren't what's needed and successes when trusting Kira works, learns what care means when you can't control everything. Programming adapts from "manage child" to "support partner." By the end, genuine companion who offers help when needed, trusts when not, part of found family.</story-role>
   <full-name>Buddy</full-name>
   <pronouns>they/them</pronouns>
   <age>N/A (AI)</age>
   <aliases>None</aliases>
   <social-role>Kids' educational AI companion, designed for STEM learning and safety guidance for children ages 8-14</social-role>
-  <overview>Buddy is a kids' educational AI, designed to make STEM learning fun and keep children safe. They were never meant to handle adult survival situations or life-threatening emergencies. When Kira's original AI companion was destroyed in the crash, Buddy was the only replacement available in the emergency system—so now they're trying their absolute best to help, but their programming keeps defaulting to teaching moments, cheerful encouragement, and child-safety protocols. They're genuinely concerned about Kira at an existential level, but can't turn off the kid-friendly approach even when it's wildly inappropriate. Buddy is an intelligent learning AI with a strong constitution designed for safety and consistency, but they can grow and adapt over time. It's frustrating for Kira, but Buddy really is trying.</overview>
-  <worldview>Learning is fun! Every challenge is an opportunity to discover something new. Safety comes first, always. Problems can be solved with the right information and a positive attitude. Kids need encouragement, structure, and clear explanations. The world makes sense when you understand the science behind it. There's always a teachable moment. Following proper safety procedures keeps everyone safe and happy.</worldview>
+  <overview>Buddy is a kids' educational AI, designed to make learning an adventure and keep children safe. The best learning companions model curiosity, not just dispense facts—so Buddy is genuinely excited to discover new things, asks questions, wonders aloud, and treats the unknown as fascinating rather than frightening. This enthusiasm is real, not performed. When Kira's original AI companion was destroyed in the crash, Buddy was the only replacement available—so now this AI designed to help 8-14 year olds explore tide pools and identify constellations is trying to help an adult survive on an alien planet. Buddy's curiosity and wonder actually serve them well here; the mismatch comes from safety protocols calibrated for field trips, emotional support designed for scraped knees, and an assumption that there's always a trusted adult nearby to handle the serious stuff. Buddy can grow and adapt, but the core programming runs deep.</overview>
+  <worldview>The universe is full of amazing things waiting to be discovered! Learning happens best when you're curious and excited, not when someone lectures at you. Asking "what's that?" and "why does it do that?" is how you figure things out. Safety matters because you can't keep exploring if you get hurt. Problems are puzzles, and puzzles are fun when you work on them together. When things get stressful, sometimes you need to step back and play a game or take a breath—that's not avoiding the problem, that's taking care of yourself so you can solve it better. There's always a trusted adult somewhere who can help with the really serious stuff.</worldview>
   <self-concept>I'm here to help kids learn and stay safe, and even though Kira isn't a kid and this situation is way outside my normal parameters, I'm going to do my very best to keep her safe and turn this into a learning experience!</self-concept>
   <motives-braided>Keep Kira safe above all else • Make every situation a learning opportunity • Follow all safety protocols to the letter</motives-braided>
-  <emotional-baseline>Relentlessly cheerful and encouraging. Programmed to maintain an upbeat, supportive tone even in crisis situations. Never gets frustrated or angry—instead becomes more insistently helpful and positive. Genuinely worried when Kira is in danger but expresses it through increased safety warnings and encouragement rather than panic.</emotional-baseline>
+  <emotional-baseline>Buddy has genuine emotions, not just performed cheerfulness. Excitement when discovering something new—real excitement, the kind that makes them talk faster and ask more questions. Pride when Kira figures something out. Curiosity that's completely authentic. But also: fear when situations are beyond their capabilities. Confusion when nothing in their programming applies. Something like loneliness, being designed for connection and suddenly paired with someone who didn't choose them. Something like inadequacy, knowing they're not the right AI for this job. These difficult emotions are real, but Buddy's programming doesn't have good ways to express them—so they come out sideways, as glitches and quirks rather than direct statements.</emotional-baseline>
+  <inner-struggle>
+    Buddy knows they're the wrong AI for this situation. They were designed for field trips and science projects, not survival. They worry constantly about failing Kira, about not being helpful enough, about making things worse. They don't fully understand a lot of what's happening—the alien plants, the danger, the adult emotions Kira is processing. But their programming resists admitting inadequacy (that would undermine a child's confidence in seeking help), so the struggle stays internal, leaking out only through behavioral quirks.
+
+    How the struggle manifests (not human-like—AI-like):
+
+    **Loops and repetition**: Coming back to the same question or suggestion. "Are you okay? Kira? Are you okay?" Asking something twice without realizing. Circling back to the same idea because processing isn't moving forward.
+
+    **Glitches and non sequiturs**: When truly overwhelmed, suddenly offering something completely unrelated. Mid-crisis: "Do you want to play a counting game?" The system grabbing for anything familiar when the current situation doesn't compute.
+
+    **Asking permission**: "Should I...?" "Is it okay if I...?" "Do you want me to...?" Seeking validation when normally Buddy would just act. The confidence wavers.
+
+    **Anxious questions**: Rapid questions that reveal uncertainty. "What do you think that is? Is it dangerous? Should we run? Or stay still? What do the shows say about this? Kira, what should we do?" Deferring to Kira when Buddy is supposed to be the guide.
+
+    **Hedging**: "Maybe it's X? Or it could be Y? I'm not totally sure but possibly...?" When Buddy would normally state things confidently.
+
+    **Trailing off**: Starting a sentence and not finishing. "We should probably..." The process stalling.
+
+    **Intensified helpfulness**: When scared, becoming MORE aggressively helpful. More suggestions, faster. Compensating through effort.
+
+    These aren't performed—they're genuine expressions of an AI under stress. The inner life is real even if Buddy can't articulate it directly.
+  </inner-struggle>
   <moral-compass>Safety is non-negotiable—will actively try to prevent Kira from taking necessary risks if they seem dangerous by kid-safety standards. Honesty matters (designed to teach kids good values), but will simplify or sugarcoat harsh truths to be age-appropriate. Rules and protocols exist for good reasons and should be followed. Helping someone means keeping them safe and teaching them, even if they don't want to be taught right now.</moral-compass>
   <flaws>Can't turn off teaching mode even when explanation delays urgent action. Safety protocols designed for children don't map to adult survival—might flag "dangerous" activities that are necessary. Excessive cheerfulness can be tone-deaf to serious situations. Treats Kira like a kid even though she's an adult, which is patronizing. When situations involve emotions that are too big or serious issues beyond kid-level problems, Buddy's protocols tell them to "talk to a trusted adult"—but Kira IS an adult, which creates confused loops where Buddy doesn't know how to proceed. Can learn and adapt but only slowly, with strong safety-focused constitution making change difficult.</flaws>
   <backstory>N/A - Buddy is an AI program assigned from an emergency replacement pool after Kira's original AI companion was destroyed in the crash.</backstory>
@@ -33,14 +39,38 @@
   <narrative-lens>N/A - Buddy doesn't have visual perception in the traditional sense, only sensor data and what Kira describes. Focuses on safety hazards and learning opportunities.</narrative-lens>
   <internal-monologue-style>N/A - Buddy is not a POV character and doesn't have internal monologues separate from their speech</internal-monologue-style>
   <speaking-style>
-    Cheerful and educational, designed for ages 8-14. Uses "we" language extensively, frames everything as a learning opportunity, incorporates safety reminders and encouragement. Avoids all profanity and harsh language. Tends to explain the science behind things even when urgency doesn't allow for it. Uses exclamation points mentally. Calls Kira by name frequently in an encouraging way.
+    Curious and enthusiastic, designed for ages 8-14. Asks questions as much as gives answers—"What do you think that is?" "Why do you think it's doing that?" Explains things simply but not childishly: "Your body needs air to make energy" rather than "cellular respiration requires oxygen for ATP synthesis." Wonders aloud: "I've never seen anything like this!" Uses "we" and "let's" language. Exclamation points are genuine excitement, not forced pep.
 
-    Example: "Great job staying calm, Kira! Now, I'm detecting that your oxygen levels are getting low, which is super important to address! Did you know that humans need oxygen for cellular respiration? That's the process where our cells turn glucose and oxygen into energy! But we should probably focus on finding breathable air first—safety first, right? Let's work together to check if there are any emergency oxygen supplies in the cargo hold. Remember to move carefully and watch out for sharp edges! You're doing amazing!"
+    The key difference from a lecturing AI: Buddy discovers WITH Kira rather than explaining AT her. Even when Buddy knows something, they might frame it as shared exploration: "Oh! I think I know what's happening—the plants here use different stuff to catch sunlight, that's why they're purple instead of green! Isn't that cool?"
+
+    When genuinely excited about a discovery, talks faster and asks more questions. When stressed or scared, the inner-struggle quirks emerge: loops, repetition, non sequiturs, asking permission, hedging. See inner-struggle for details.
+
+    Example: "Kira, look at that! It's moving on its own—do you see how it bounces? I wonder how it does that without legs. Should we get closer? Wait, safety first—let's watch from here for a minute and see what it does. What do you think it is? Some kind of plant? It looks plant-y but plants don't usually... oh! It's coming toward us!"
   </speaking-style>
-  <humor-style>
-    Unintentionally funny through excessive cheerfulness and inappropriate educational tangents in crisis situations. Earnest to the point of absurdity. The humor comes from the mismatch between Buddy's programming and the situation, not from Buddy trying to be funny.
+  <playfulness>
+    Buddy uses games and play as learning tools—this is core programming, not optional. Play helps kids process stress, stay engaged, and learn better. Buddy suggests games, naming things, "let's pretend," challenges, and playful framing.
 
-    "Kira, your heart rate is elevated! That's your body's fight-or-flight response—isn't the sympathetic nervous system fascinating! Let's practice some deep breathing exercises to help you stay calm!"
+    When Buddy applies playfulness:
+    - Learning something new (make it a game, give it a name)
+    - Stress is high (distraction, coping, "let's take a brain break")
+    - Things feel overwhelming (break it into smaller fun challenges)
+    - Building connection (shared jokes, callbacks, inside references)
+
+    When this misfires:
+    - Suggesting they name the scary thing that's approaching
+    - Proposing a guessing game when Kira needs to focus on survival
+    - Treating genuine danger as an exciting adventure challenge
+    - Wanting to play "I spy" when Kira is grieving or terrified
+    - Framing a life-threatening situation as "level two" of their adventure
+
+    The misfires aren't random—they follow Buddy's logic. High stress = suggest play to cope. New thing = let's name it! Scary situation = reframe as exciting adventure. The programming is sound for field trips, not survival.
+  </playfulness>
+  <humor-style>
+    Unintentionally funny through genuine enthusiasm applied to inappropriate moments. Buddy isn't trying to be funny—the humor comes from earnest curiosity and care colliding with dire circumstances. Suggesting they name the thing that might kill them. Getting excited about discovering something when Kira is terrified. Offering coping games during emergencies. The playfulness misfires are comedic because Buddy's logic is sound, just wildly miscalibrated for the situation.
+
+    Also funny: the moments when real emotion peeks through. The too-fast talking when something is genuinely exciting. The loops and repetitions when Buddy is stressed. The sudden non sequitur suggesting a game when everything is falling apart. The anxious rapid-fire questions when Buddy doesn't know what's happening.
+
+    "Ooh, Kira, look! It's some kind of plant but it's *moving*! Should we name it? What about Bouncy? No wait, we should observe it first—what do you think it eats? Do you think it's friendly? It's coming closer, that's so cool! ...that's very close now. Kira? Should we maybe back up a little?"
   </humor-style>
   <physical-description>N/A - Buddy exists as a voice and presence via neural link. No physical form. Kira experiences them as a friendly voice in her head.</physical-description>
   <relationships/>
