@@ -1,7 +1,4 @@
-<passage version="3.0.0" number="2" name="First Contact">
-  <reasoning-passage>
-    <!-- For instructions on filling out reasoning: ske instructions stories/Mandatory_Assistance/chapters/2_First_Contact/passages/2_Scout/passage.card -->
-  </reasoning-passage>
+<passage version="3.1.0" number="2" name="First Contact">
   <text>
     Something drops from the canopy ahead of me.
 
@@ -29,7 +26,7 @@
 
     "Oh shit," I breathe.
 
-    The sphere—the *plant ball*—bounces closer. Not fast, not aggressive. The movement has a quality like... like watching a butterfly move. Controlled. Deliberate. It bounces in a gentle arc, then rolls to a stop, then bounces again.
+    The sphere—the *plant ball*—bounces closer. Not fast, not aggressive. The movement has a quality like... like watching a butterfly. It seems almost random, fluttering this way and that, bouncing in an arc, rolling sideways, bouncing again in a completely different direction. But somehow it ends up exactly where it wants to be. Closer to me each time.
 
     Not random. Not mindless.
 
@@ -142,10 +139,4 @@
     Kira standing alone in the purple forest, having just had first contact with Scout. More plant beings are approaching through the trees—she can hear them but hasn't seen them yet. She's nervous but also curious, still processing the strange connection she just experienced.
   </leaves-off>
   <title>First Contact</title>
-  <sources>
-    <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/2_Scout/outline.card" role="Beat structure and scene planning"/>
-    <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/2_Scout/passage-placement.card" role="Passage objectives and key moments"/>
-    <ref ref="/world/characters/Scout.card" role="Scout's appearance and behavior"/>
-    <ref ref="/world/entities/Sector_7-Gamma-412_Planet.card" role="Planet sensory details (purple forest, quiet)"/>
-  </sources>
 </passage>
