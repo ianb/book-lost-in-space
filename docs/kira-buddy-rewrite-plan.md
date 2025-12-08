@@ -33,14 +33,56 @@ Key changes to Buddy's character card:
 - **Inner struggle**: Knows they're wrong AI for this, fears failing Kira, doesn't understand a lot of what's happening
 - **AI-specific stress responses**: Loops/repetition, glitches/non sequiturs, asking permission, anxious questions, hedging, trailing off
 
-### Kira
+### Kira (v1.5.0)
 
-Kira's character card already describes her as enthusiastic, chatty, finding delight in absurdity. The passages just need to reflect this better - she should:
-- Play along with Buddy sometimes
-- Make jokes about situations
-- Reference adventure shows with genuine enthusiasm
-- Be fondly exasperated, not irritated
-- Actually engage rather than constantly dismiss
+Major revision to make Kira more fun, impulsive, and endearing. The old Kira had passive flaws (defers to authority, avoids confrontation, good student instincts) that made her a wet blanket. The new Kira is someone the reader should fall in love with.
+
+**Personality shift:**
+- Enthusiastic and openly delighted by interesting things
+- Can't hide excitement—and her body can't either (bounces, fidgets, touches things)
+- Impulsive: goes toward interesting things without thinking through consequences
+- Talks to things that can't answer ("Sorry!" to a branch, "Come on..." to a stuck lid)
+- Gets distracted by fascinating things mid-crisis
+- Finds joy in absurdity rather than frustration
+
+**New arc:**
+- **Core flaw**: Everything is temporary. She's been waiting for "real life" to start so long she doesn't recognize it when it arrives. Treats experiences like episodes—exciting but not quite real. Half in the moment, half narrating the moment.
+- **Growth**: Learning this IS her life, not the prelude. Becoming present. The Uncharted lens she sees through eventually becomes something she grows past.
+
+**Mav as ghost character:**
+- Mav's voice is in her head, spurring her toward action
+- She thinks "as Mav would say..." when she needs courage or justification
+- His reckless advice works on TV (hospital ship in orbit) but is questionable for real survival
+- Over the story arc, she needs Mav's voice less as she becomes present in her own life
+
+**The gift of her attention:**
+- When Kira pays attention to something, it becomes more. Her attention is a gift.
+- The plant that's just standing there becomes fascinating when Kira notices it. Buddy's awkward enthusiasm becomes charming when Kira finds it charming.
+- This is like being smiled at by someone whose joy is contagious—you feel special, elevated, without knowing why.
+- This is what makes beings want to be around her.
+
+**Narrative intention:**
+- The reader should find Kira deeply endearing
+- More than that—the reader should fall in love with her
+- Not through vulnerability or softness, but through her generous attention, her contagious joy
+- The reader is her co-conspirator through first-person narration
+- The reader should imagine Kira seeing THEM with that same wonder—and wish it were real
+
+**Buddy relationship - growth point:**
+- Kira kind of loves Buddy's ridiculousness ("like having the world's most enthusiastic, slightly confused sidekick")
+- The Kit-and-Mav dynamic from Uncharted—she's accidentally living it, just weirder
+- Growth moment: The first time something criticizes Buddy, Kira surprises herself by getting defensive. "Hey, they're trying their best." Buddy is HER weird AI now.
+
+**How she should read in passages:**
+- Enthusiastic, not dismissive
+- Play along with Buddy, find them charming
+- Reference Uncharted and Mav naturally ("as Mav would say...")
+- Find delight in absurdity
+- Body language shows excitement (can't stay still)
+- Talks to things, apologizes to things
+- Her attention makes everything she looks at become wonderful
+
+**See also:** `/world/entities/Uncharted_with_Maverick_Stone.card` for the show details, catchphrases, memorable episodes, and product placements she might reference.
 
 ## Passages Needing Revision
 
