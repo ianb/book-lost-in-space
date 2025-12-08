@@ -60,9 +60,9 @@ Inform the user of your decision.
 
 1. Make the edit directly to the passage
 2. Briefly explain what you changed
-3. Mark the critique as applied:
+3. Mark the critique as done:
 ```bash
-ske critique mark /critiques/unconfirmed/User.card#/C## applied /path/to/edited/passage.card -m "Brief description of fix"
+ske critique mark /critiques/unconfirmed/User.card#/C## done /path/to/edited/passage.card -m "Brief description of fix"
 ```
 
 ### If the fix requires judgment or has multiple approaches:
@@ -71,7 +71,7 @@ ske critique mark /critiques/unconfirmed/User.card#/C## applied /path/to/edited/
 2. Propose your recommended approach (or present options)
 3. Ask the user to confirm before making changes
 4. Once confirmed, make the edits
-5. Mark the critique as applied with the passage paths
+5. Mark the critique as done with the passage paths
 
 ### If you need more information:
 

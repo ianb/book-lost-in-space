@@ -1,7 +1,10 @@
 {
   "permissions": {
     "allow": [
-      "Skill(*)"
+      "Skill(*)",
+      "Bash(ske:*)",
+      "Bash(find:*)",
+      "Bash(grep:*)"
     ]
   }
 }
