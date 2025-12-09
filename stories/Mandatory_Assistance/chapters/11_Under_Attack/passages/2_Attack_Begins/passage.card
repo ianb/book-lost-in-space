@@ -1,7 +1,4 @@
-<passage version="2.0.0" number="2" name="Attack Begins">
-  <reasoning-passage>
-    Florence and Kira return to group. Awkward reception—plants still hurt, don't want Florence there, but can't argue with immediate crisis. Before they can coordinate properly, attack begins. Hostile plants assault from multiple directions—coordinated, organized. Weird wonderful plant combat: aggressive root systems breaking through ground, toxic spore clouds, bioluminescent alarm signals, living barriers of thorns. Group defends chaotically—everyone fighting but no coordination. Runner underground battling hostile roots, Remedy deploying chemical defenses, Velvet trying to reinforce walls, Holloway attempting to coordinate but failing. Facility taking serious damage—walls breached, systems failing. Kira in real danger, nearly gets hit by hostile spore cloud. Plants getting injured. Absurdist comedy in mechanics (plant combat is bizarre) but stakes genuinely high. Holloway realizes they're losing badly, need tactical coordination NOW. Turning to Florence out of desperate necessity. ~2000 words of chaotic combat establishing the stakes and desperate need for Florence's guidance.
-  </reasoning-passage>
+<passage version="3.0.0" number="2" name="Attack Begins">
   <text>
     Florence's return to the common area creates immediate tension.
 
@@ -55,11 +52,17 @@
 
     "OKAY, that's terrifying!" I duck behind a structural pillar.
 
-    Buddy pipes up in my mind: "Kira, your heart rate is extremely elevated! Perhaps you should—"
+    Buddy pipes up in my mind: "Kira, your heart rate is extremely elevated! I'm detecting hostile movement from the west flank—three distinct masses approaching!"
 
-    "Not now, Buddy!"
+    "You can TRACK them?"
 
-    "Of course! Survival first!"
+    "I... yes! My sensors can identify movement patterns. There's a fourth group underground, heading toward the northwest corner!"
+
+    "Buddy, that's USEFUL! Keep doing that!"
+
+    "Really? I'm being useful?" Buddy sounds genuinely surprised and a little delighted.
+
+    "YES!"
 
     Remedy's chemical cloud meets the hostile spore cloud mid-air. They react—fizzing, bubbling, creating a third substance that's probably also toxic. Great. Now we have competing poison clouds.
 
@@ -91,7 +94,25 @@
 
     I don't know. That's Florence's kind of decision.
 
-    Speaking of Florence—she's positioned near the center, watching everything with what I can only describe as professional frustration. Watching us lose because we don't know what we're doing.
+    But I know something else. I know THEM.
+
+    "Scout!" I yell. "The spore clouds—you're fast enough to outrun them! Can you draw them away from the center?"
+
+    Scout bounces understanding, then zooms toward a drifting spore cloud, bouncing around it, leading it toward a breach where it can escape outside.
+
+    "Remedy! The northwest corner—Buddy says there's an underground group heading there!"
+
+    Remedy shifts their chemical deployment toward the northwest.
+
+    "Runner! Buddy's tracking four groups—can you feel where the biggest root mass is?"
+
+    "Southeast!" Runner calls from below. "Heavy concentration!"
+
+    As Mav would say: when protocols fail, trust the people.
+
+    I'm trusting my people.
+
+    Speaking of Florence—she's positioned near the center, watching everything with what I can only describe as professional approval mixed with frustration. Watching us improvise but knowing we need more.
 
     A root wraps around my ankle.
 
@@ -217,7 +238,19 @@
 
     Because we're working together, even if it's out of necessity rather than trust.
 
-    Florence hasn't moved from her position near the core. She's coordinating, analyzing, adapting to hostile tactics in real time.
+    "Buddy," I say quietly, "hostiles at the eastern breach—how many?"
+
+    "Five distinct masses! The largest one is sending roots toward the medical equipment!"
+
+    "Florence, medical equipment threat from the east!"
+
+    Florence immediately redirects defense to protect it.
+
+    "Kira," Buddy says, and there's something like wonder in their voice, "we're doing it. We're actually helping."
+
+    "Yeah, Buddy. We are."
+
+    Florence hasn't moved from her position near the core. She's coordinating, analyzing, adapting to hostile tactics in real time. But now she has Buddy feeding her tracking data, and she has ME calling out what I know about each plant's capabilities.
 
     The plants are following her guidance because they have to.
 
@@ -236,8 +269,4 @@
     Attack ongoing, facility badly damaged but holding defensive position with Florence's tactical coordination. Plants following her guidance out of necessity, not trust. Injured, low on resources, hostiles still pressing. Working together because they have to. Florence proving her value through crisis coordination.
   </leaves-off>
   <title>Chaos and Coordination</title>
-  <sources>
-    <ref ref="/stories/Mandatory_Assistance/chapters/11_Under_Attack/chapter-placement.card" role="Chapter structure and objectives"/>
-    <ref ref="/stories/Mandatory_Assistance/narrative-guide.card" role="Voice, tone, and style"/>
-  </sources>
 </passage>

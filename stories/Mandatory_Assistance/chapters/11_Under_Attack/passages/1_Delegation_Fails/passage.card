@@ -1,7 +1,4 @@
-<passage version="2.0.0" number="1" name="Delegation Fails">
-  <reasoning-passage>
-    Dawn delegation. Runner and Velvet approach hostile plants with peaceful message—we're not expanding territory, just maintaining facility for Kira's survival, seeking coexistence. Hostile plants reject harshly: Kira's presence contaminates their territory, violates natural order. Maybe they've heard about Florence's deception through network gossip, see it as proof this group is fundamentally untrustworthy, corrupted. No coexistence possible—leave or be driven out. Runner and Velvet return with grim news: attack is coming, soon, organized. Group tries to prepare defenses but coordination is poor—everyone has ideas but no cohesive strategy. Missing Florence's tactical thinking badly. Kira suggests asking Florence for help, plants resist (still hurt, still angry). Preparing inadequately as hostile plants gather. ~1800 words showing failed diplomacy and fractured group unable to coordinate effectively.
-  </reasoning-passage>
+<passage version="3.0.0" number="1" name="Delegation Fails">
   <text>
     Runner and Velvet leave at dawn.
 
@@ -10,6 +7,14 @@
     Scout bounces anxiously beside me. They don't like Runner leaving, don't like the tension in the air.
 
     "They'll be fine," I say, not sure I believe it.
+
+    "Kira," Buddy says quietly, "your heart rate is elevated. Are you worried?"
+
+    "Of course I'm worried, Buddy."
+
+    "I wish I could help more. I'm not... I wasn't designed for situations like this."
+
+    "I know." I reach up and touch the familiar weight on my wrist. "But you're here. That counts for something."
 
     Holloway is coordinating defensive preparations—which mostly means everyone is discussing what defensive preparations might look like if we knew what we were doing.
 
@@ -79,7 +84,19 @@
 
     Holloway's fruiting bodies droop slightly. "Do you have a better idea?"
 
-    "Florence would," I say.
+    And suddenly, I realize: I might.
+
+    Not tactics—I don't know tactics. But I know THEM. I've been paying attention this whole time. I know Scout is fast and can communicate silently. I know Runner can sense vibrations underground. I know Remedy has chemical compounds that could be weaponized defensively. I know Florence thinks tactically.
+
+    I know my friends.
+
+    "Buddy," I say quietly, "can you track movement? Multiple positions at once?"
+
+    "I..." Buddy sounds surprised. "I think so? I wasn't designed for combat scenarios, but my sensors can detect motion and calculate trajectories. Why?"
+
+    "Because we might need that."
+
+    "Florence would," I say to Holloway.
 
     Multiple plants react negatively. Runner's vines tighten. Remedy's edges contract. Even Velvet makes a disapproving rustling sound.
 
@@ -240,8 +257,4 @@
     Delegation failed—hostile plants reject peace, attack imminent. Group can't coordinate defense effectively without Florence. Kira convinced Florence to help despite exile (because Kira is in danger, right thing matters more). Heading back to group. Testing if necessity can override resentment. Attack looming.
   </leaves-off>
   <title>No Peace</title>
-  <sources>
-    <ref ref="/stories/Mandatory_Assistance/chapters/11_Under_Attack/chapter-placement.card" role="Chapter structure and objectives"/>
-    <ref ref="/stories/Mandatory_Assistance/narrative-guide.card" role="Voice, tone, and style"/>
-  </sources>
 </passage>
