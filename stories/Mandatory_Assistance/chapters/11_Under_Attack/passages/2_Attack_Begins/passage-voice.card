@@ -1,323 +1,369 @@
 <!-- Generated automatically, do not edit except with ske gen passage-voice -->
-<passage-voice version="2.0.0">
-  <ref ref="passage.card#v2.0.0"/>
+<passage-voice version="3.0.0">
+  <ref ref="passage.card#v3.0.0"/>
   <reasoning>
-    <!-- For instructions on filling out reasoning: ske instructions stories/Mandatory_Assistance/chapters/11_Under_Attack/passages/2_Attack_Begins/passage-voice.card -->
+    Reviewing the passage for voiceover adjustments.
+
+    Instances needing adjustment:
+    1. Staccato sentences — several short sentences (3 words or fewer) that break flow (e.g., "No strategy."). These should be merged into surrounding sentences.
+    2. Dialog placement — several lines of dialog are embedded or follow-speech; dialog should be on its own line and use lead-in then quote when possible (e.g., "Florence," Holloway says → Holloway says — "Florence.").
+    3. Ambiguous pronouns — a few uses of "they/them" could confuse who is acting (hostile roots vs. friendly plants). Disambiguate as "hostile roots" where needed.
+    4. Pauses — the scene needs clear dramatic pauses before major beats (wall breach, full assault). Insert "¶" paragraphs for long dramatic pauses and em dashes for medium pauses.
+    5. Stage directions/adverbs — phrases like "voice carefully neutral" should be converted to short stage directions (neutral) attached to the lead-in.
+    6. Loud/exclamatory lines — make shouted commands stand out using *bold* to indicate louder delivery.
+    7. Dialog continuity — multiple short commands from the same speaker should be combined into a single block with em dashes for intra-beat pauses.
+    8. Symbols/format — spelled-out numbers are already used; no extra symbol conversion needed.
+
+    I will not change story content or add new events — edits are limited to voice-friendly formatting, disambiguation of pronouns, and dialog restructuring.
   </reasoning>
   <content-change/>
   <chunks>
     <chunk>
       <text>
-        Florence's return to the common area creates immediate tension.
+        Florence's return to the common area creates immediate tension. Holloway's fruiting bodies contract when they see her, Runner's vines coil tight, and Remedy's edges pull back—the room temperature drops about ten degrees, metaphorically, but it feels literal.
 
-        Holloway's fruiting bodies contract when they see her — Runner's vines coil tight, Remedy's edges pull back, and the room temperature drops about ten degrees — metaphorically, but it feels literal.
+        Holloway says — (neutral) "Florence."
 
-        Holloway says,
-        "Florence."
+        Florence replies — (neutral) "Holloway."
 
-        Florence replies,
-        "Holloway."
+        I announce — "Kira brought Florence to help with tactical defense — because we need tactical defense and Florence knows how to coordinate it."
 
-        I announce,
-        "Kira brought Florence to help with tactical defense — because we need tactical defense and Florence knows how to coordinate it."
-
-        Remedy starts,
-        "We don't—"
-
-        The eastern wall explodes. Not literally — a section of it bursts inward as hostile roots punch through, thick and aggressive and very much not friendly. They spread across the floor like grabbing hands, seeking purchase, seeking to tear more structure apart.
-
-        Scout's bounce is pure alarm.
-        *"ATTACK!"*
+        Remedy begins to protest — "We don't…"
 
         ¶
+
+        The eastern wall explodes—not literally, but a section bursts inward as hostile roots punch through, thick and aggressive and very much not friendly. They spread across the floor like grabbing hands, seeking purchase, seeking to tear more structure apart.
+
+        Scout bounces — *"ATTACK!"*
 
         And then everything happens at once.
 
-        More roots burst through the western wall, then the southern wall. Hostile plants hit us from three directions simultaneously — a coordinated assault, exactly like Florence predicted.
+        More roots burst through the western wall. The southern wall follows. Hostile plants hit us from three directions simultaneously—coordinated assault, exactly like Florence predicted.
 
-        Through the breaches I can see them: masses of plant life advancing with purpose. Some are tall and thorny, others are low-spreading and toxic-looking. Bioluminescent signals flash between them — communication, coordination. This is organized warfare.
+        Through the breaches I can see them: masses of plant life advancing with purpose. Some are tall and thorny, others low and spreading, toxic-looking. Bioluminescent signals flash between them—communication, coordination. This is organized warfare.
 
-        "Defensive positions!" Holloway shouts, but it's unclear what positions those are.
+        Holloway shouts — *"Defensive positions!"* — and the command lands vague because nobody has a clear plan.
 
-        Runner dives underground, their vines disappearing into the floor — fighting the hostile roots on their own territory. Remedy spreads toward the western breach, releasing clouds of something sharp and chemical-smelling. Velvet's offshoots rush to reinforce the damaged walls, growing rapidly to seal breaches.
+        Runner dives underground, vines disappearing into the floor to fight the hostile roots in their own territory. Remedy spreads toward the western breach, releasing clouds of something sharp and chemical. Velvet's offshoots rush to reinforce damaged walls, growing rapidly to seal breaches.
 
-        But it's all reactive — no strategy. Just defend what's nearest and hope.
+        But it's all reactive—no strategy, just "defend the thing nearest you and hope."
 
-        A spore cloud drifts through the eastern breach — thick, yellowish, definitely toxic, moving with purpose and seeking targets.
+        A spore cloud drifts through the eastern breach, thick and yellowish—definitely toxic. It's moving with purpose, seeking targets.
 
-        Holloway warns,
-        "Kira, get back!"
+        Holloway warns — (urgent) "Kira, get back!"
 
-        I scramble backward as the cloud drifts past where I was standing. Where it touches the floor, the moss withers. Okay, that's genuinely dangerous.
+        I scramble backward as the cloud drifts past where I was standing; where it touches the floor, the moss withers—okay, that's genuinely dangerous.
 
-        Scout bounces between me and the cloud — tiny but fierce, ready to protect. I grab them and pull them back —
-        "Scout, no — you can't fight poison!"
+        Scout bounces between me and the cloud—tiny but fierce, ready to protect.
 
-        More hostile roots punch through the floor. Runner is down there somewhere, fighting them, but there are too many. The hostile roots are spreading everywhere, tearing up the facility's foundation.
+        I grab them, pull them back — "Scout, no! You can't fight poison!"
 
-        A section of ceiling collapses, structural integrity failing as roots destabilize everything.
+        More roots punch through the floor—hostile roots attacking from below. Runner is down there somewhere fighting them, but there are too many; the roots are spreading everywhere, tearing up the facility's foundation.
 
-        Holloway tries to coordinate —
-        "Velvet, reinforce above — Remedy, counter those spores — Runner, can you—"
+        A section of ceiling collapses, crashing down as roots destabilize the structure.
 
-        Another wall section gives way as a massive, thorny hostile plant pushes through, radiating aggression. It's hard to tell where one hostile plant ends and another begins; they might all be connected, one vast organism attacking as coordinated units.
+        Holloway tries to coordinate — *"Velvet, reinforce above!"* — *"Remedy, counter those spores!"* — *"Runner, can you—"*
+
+        Another wall section gives way. A massive, thorny hostile plant pushes through, radiating aggression. It's hard to tell where one hostile plant ends and another begins—they may all be connected, one vast organism attacking as coordinated units.
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: Urgent and tense throughout, with rapid bursts of energy during action and brief, clear pauses for dramatic beats.
+        Overall tone &amp; pacing: Urgent and breathless — start tense and controlled for the opening, then escalate to rapid, clipped delivery as the assault begins.
 
-        - Read narration briskly but controlled; keep sentences rolling except where em dashes indicate a medium pause.
-        - For lines like "Holloway says," and "Florence replies," use neutral, measured tones — the words themselves are short and should feel clipped but calm.
-        - On the line *"ATTACK!"* push volume and intensity — sudden, high-energy, explosive. Treat this as a shout.
-        - When you encounter an em dash (—) pause briefly (about 300–400ms) before continuing; when you see the paragraph with only "¶" pause longer for dramatic effect.
-        - For interrupted lines like "We don't—" and "Runner, can you—" trail off immediately; let the following sound or action cut the line off.
-        - Make character distinctions with tone only: Holloway = controlled/commanding; Florence = cool/contained; Scout = higher, frantic, small but fierce; narrator = even but urgent.
-        - Keep descriptive sequences (roots, spores, bioluminescence) vivid and slightly faster to convey rising chaos, but not rushed to the point of losing clarity.
+        - Read the opening sentence steady and tight: "Florence's return to the common area creates immediate tension." Slow enough to register the change.
+        - For "Holloway says — (neutral) \"Florence.\"" keep the voice flat and controlled; neutral stage direction spoken quietly.
+        - For the narrator lines like "I announce — \"Kira brought Florence...\"" maintain clarity and purpose — slightly faster than the opening but not panicked.
+        - Use a long, heavy pause at the paragraph with only "¶" before "The eastern wall explodes."
+        - When reading *bold* lines (e.g., *"ATTACK!"*, *"Defensive positions!"*), raise volume and sharpness — these are shouted commands.
+        - For short commands in one block (Holloway's final commands), keep them grouped and clipped with brief medium pauses between each command — push urgency into each fragment.
+        - For descriptive assault lines, accelerate cadence and shorten breaths to convey chaos, but keep sentence-level clarity so the listener can follow the sequence.
       </stage-directions>
     </chunk>
     <chunk>
       <text>
-        The thorny one sends out barbs—actual projectile thorns that embed in the walls and the floor—one narrowly missing my head.
+        The thorny one sends out barbs—actual projectile thorns that embed in the walls and the floor, one narrowly missing my head.
 
-        I duck behind a structural pillar and exclaim:
-        "*OKAY, that's terrifying!*"
+        I duck behind a structural pillar.
+        I shout, "OKAY, that's terrifying!"
 
-        Buddy pipes up in my mind:
-        "Kira, your heart rate is extremely elevated! Perhaps you should—"
+        Buddy says, "Kira, your heart rate is extremely elevated! I'm detecting hostile movement from the west flank—three distinct masses approaching!"
 
-        I snap:
-        "Not now, Buddy!"
+        I ask, "You can *TRACK* them?"
 
-        Buddy replies in my head:
-        "Of course! Survival first!"
+        Buddy replies, "I… yes! My sensors can identify movement patterns—there's a fourth group underground, heading toward the northwest corner!"
 
-        Remedy's chemical cloud meets the hostile spore cloud mid-air—they react, fizzing and bubbling and creating a third substance that's probably also toxic. Great—now we have competing poison clouds.
+        I call, "Buddy, that's *USEFUL*! Keep doing that!"
 
-        Holloway asks:
-        "Remedy, what is that?"
+        Buddy says, "Really? I'm being useful?"
 
-        Remedy calls back—
-        "Neutralization reaction! —Should render both clouds inert!"
+        I exclaim, "*YES!*"
 
-        Holloway, skeptical, says:
-        "Should?"
+        Remedy's chemical cloud meets the hostile spore cloud mid-air. They react—fizzing, bubbling, creating a third substance that's probably also toxic, so now we have competing poison clouds.
 
-        Remedy answers:
-        "Probably! Chemistry isn't always predictable!"
+        Holloway asks, "Remedy, what is that?"
 
-        The resulting cloud settles to the floor as a thick sludge—better than airborne poison, but now we have toxic sludge everywhere. I make a mental note: avoid the sludge.
+        Remedy calls back, "Neutralization reaction—should render both clouds inert!"
+
+        Holloway says, "Should?"
+
+        Remedy replies, "_Probably!_ Chemistry isn't always predictable!"
+
+        The resulting cloud settles to the floor as a thick sludge—better than airborne poison, but now toxic sludge is everywhere. I make a mental note: avoid the sludge.
 
         ¶
 
-        Underground, something crashes and the floor shakes. Runner's vines burst up through a weak point, wrapped around hostile roots—both plants grappling for dominance. It's like watching an underground wrestling match.
+        Underground, something crashes and the floor shakes. Runner's vines burst up through a weak point, wrapped around hostile roots—both plants grappling for dominance, like an underground wrestling match.
 
-        Holloway shouts down:
-        "Runner, status?"
+        I shout down, "Runner, status?"
 
-        Runner reports—
-        "Engaged! —Multiple hostiles! —Underground network is extensive!"
+        Runner answers, "*Engaged!* Multiple hostiles—the underground network is extensive!"
 
-        More bioluminescent flashing from the hostile plants outside—signals, commands, tactical updates. They're communicating better than we are. They have a plan.
+        More bioluminescent flashing from the hostile plants outside—signals, commands, tactical updates. They're communicating better than we are—*they have a plan.*
+
+        We have one response—*panic and react.*
 
         Velvet seals one breach just as another opens; they're spreading too thin, trying to reinforce too many weak points at once. A hostile plant sends out creeping vines that corrode whatever they touch—Velvet has to pull back or get dissolved.
 
-        I yell to Holloway:
-        "We need to concentrate defense! —We can't protect everything!"
+        I yell to Holloway, "We need to concentrate defense—We can't protect everything!"
 
-        Holloway asks, desperate:
-        "What do we abandon?"
+        Holloway asks desperately, "What do we abandon?"
 
-        I don't know—it's Florence's kind of decision. Florence stands near the center, watching everything with professional frustration, watching us lose because we don't know what we're doing.
+        I say, "I don't know— that's Florence's kind of decision."
 
-        A root wraps around my ankle. I yelp and try to pull free, but it's strong—it's dragging me toward the eastern breach and the mass of hostile plants outside.
+        But I know something else—I know *THEM.*
 
-        Scout attacks the root, bouncing hard and trying to break it. It doesn't break.
+        I yell to Scout, "The spore clouds—you're fast enough to outrun them! Can you draw them away from the center?"
 
-        I shout, *"RUNNER!"*
+        Scout bounces in understanding, then zooms toward a drifting spore cloud, circling and leading it toward a breach where it can escape outside.
 
-        Runner's vines shoot up from underground and sever the hostile root; it releases me and withers back. I scramble away from the breach.
+        I call to Remedy, "Northwest corner—Buddy says there's an underground group heading there!"
+
+        Remedy shifts chemical deployment toward the northwest.
+
+        I shout, "Runner—Buddy's tracking four groups—can you feel where the biggest root mass is?"
+
+        Runner calls from below, "Southeast—heavy concentration!"
+
+        As Mav would say, "When protocols fail, trust the people."
+
+        I'm trusting my people.
+      </text>
+      <stage-directions>
+        Urgent, breathless, increasingly clipped — keep energy high and build into quick, shouted commands while preserving clarity.
+
+        - Read the opening description steady and tight, then drop into the sudden shout for "OKAY, that's terrifying!" with an audible spike in volume.
+        - For Buddy's lines (e.g., "Buddy says, "Kira, your heart rate is extremely elevated..."") use a clear, slightly mechanical tone—then soften on the surprised line "Really? I'm being useful?" to convey delight.
+        - Use strong, shouted emphasis on *bold* words such as "*OKAY,*" "*USEFUL!*" and "*YES!*" — raise volume and sharpness.
+        - Insert a long, noticeable pause at the paragraph marker "¶" before the underground crash to let the sludge moment land.
+        - Keep Runner's reply "*Engaged!*" forceful and strained; deliver the underground report with compressed urgency.
+        - When narrating the tactical observations ("They're communicating better than we are—*they have a plan.*"), slow just enough to underline the realization, then snap back to rapid delivery for commands.
+        - Finish the chunk with steadier resolve on "I'm trusting my people," moving from chaos to focused confidence.
+      </stage-directions>
+    </chunk>
+    <chunk>
+      <text>
+        Speaking of Florence—she's near the center, watching everything with what I can only describe as professional approval mixed with frustration—watching us improvise but knowing we need more.
+
+        A root wraps around my ankle. I yelp and try to pull free, but it's strong—it's dragging me toward the eastern breach, toward the mass of hostile plants outside.
+
+        Scout attacks the root—bouncing hard, trying to break it, but it doesn't break.
+
+        I shout, *"RUNNER!*"
+
+        Runner's vines shoot up from underground, severing the hostile root—it releases me and withers back. I scramble away from the breach.
 
         I gasp, "Thanks!"
 
-        Runner advises before diving back underground:
-        "Stay away from openings!"
+        Runner advises, "Stay away from openings!" —then dives back underground.
 
-        Yeah—good plan. Except openings are appearing everywhere.
+        Yeah—good plan—except openings are appearing everywhere.
 
-        The northern wall, previously untouched, suddenly sprouts hostile growth—they were making us think the north was safe. Now they're hitting all four sides. We're surrounded.
+        The northern wall—previously untouched—suddenly sprouts hostile growth. They were just making us think the north was safe, and now they're hitting all four sides—we're surrounded.
 
-        Remedy states the obvious—
-        "This isn't working! —We're losing ground!"
+        Remedy states the obvious—"This isn't working! We're losing ground!"
 
-        Holloway orders, voice edged with desperation:
-        "Keep fighting!"
-      </text>
-      <stage-directions>
-        Overall tone &amp; pacing: Urgent and tense, brisk narration with sharp exclamations for shouts and short, clear pauses after em dashes; allow one longer breath after the sludge settles (the paragraph with "¶").
+        Holloway orders—desperation in their voice—"Keep fighting!"
 
-        - Read narration fast but controlled; keep momentum through action descriptions like "projectile thorns" and "bioluminescent flashing."
-        - For the line "*OKAY, that's terrifying!*" use a loud, startled shout.
-        - For internal voices, use a slightly different timbre but the same narrator: "Buddy pipes up in my mind:" and "Buddy replies" should sound like a quick, concerned aside.
-        - Put each quoted line on its own line; deliver short dialog punches ("Engaged!", "RUNNER!") with extra emphasis and slightly faster attack.
-        - Pause briefly at every em dash (—) and take a longer pause at the paragraph containing only "¶" before continuing.
-        - When giving Holloway's lines, keep a controlled, authoritative tone; allow desperation to creep into their last line "Keep fighting!" as indicated.
-      </stage-directions>
-    </chunk>
-    <chunk>
-      <text>
-        Velvet abandons trying to seal the breaches and instead grows a defensive barrier around the facility's core — protecting essential systems: life support and medical equipment. It's smart prioritization, but it means giving up the outer areas.
+        Velvet abandons sealing breaches and instead grows a defensive barrier around the facility's core—protecting essential systems: life support and medical equipment. Smart prioritization— but it means giving up the outer areas.
 
-        We're contracting — losing space; the hostile plants are winning.
+        We're contracting—losing space—the hostile plants are winning.
 
-        A massive thorny branch punches through the western wall, narrowly missing Remedy. Remedy deploys more defensive chemicals but is running low — you can only produce so many compounds before exhausting resources.
+        A massive thorny branch punches through the western wall, narrowly missing Remedy. Remedy deploys more defensive chemicals but they're running low—you can only produce so many compounds before exhausting resources.
 
-        Scout stays close to me — bouncing, alert for any new threats. Scout is scared but trying so hard to be brave.
-
-        The floor cracks from more underground fighting. Runner surfaces briefly — vines torn, sap leaking; they're injured — then dives back down because there's no choice: the underground assault continues.
-
-        I tell Holloway —
-        "Runner's hurt!"
-
-        Holloway — overwhelmed —
-        "I know! I know — but we need them down there or hostile roots will destabilize the entire foundation!"
-
-        A spore cloud — darker than the first, probably more toxic — drifts through the southern breach. Remedy doesn't have the resources to counter it. The cloud settles over part of Velvet's defensive barrier; Velvet's growth withers where it touches.
-
-        Multiple plants shout —
-        *VELVET!*
-
-        Velvet calls back — pained —
-        "I'm okay! Just damaged, not destroyed!"
-
-        The facility is falling apart around us — walls breached on all sides, floors unstable, ceiling sections collapsed. We're fighting hard, but we're not winning — not even close.
+        Scout stays close to me, bouncing alert for any new threats—they're scared but trying so hard to be brave.
 
         ¶
+
+        The floor cracks—more underground fighting. Runner surfaces briefly—vines torn and leaking sap—injured—then dives back down because there's no choice; the underground assault continues.
+
+        I tell Holloway, "Runner's hurt!"
+
+        Holloway responds—overwhelmed—"I know! I know, but we need them down there or hostile roots will destabilize the entire foundation!"
+
+        A spore cloud—different from the first one, darker and probably differently toxic—drifts through the southern breach. Remedy doesn't have the resources to counter it; the cloud settles over part of Velvet's defensive barrier and Velvet's growth withers where it touches.
+
+        Multiple plants shout, *"VELVET!*"
+
+        Velvet calls back—pained—"I'm okay! Just damaged, not destroyed!"
+
+        The facility is falling apart around us: walls breached on all sides, floor unstable, ceiling sections collapsed—we're fighting hard but we're not winning.
+
+        Not even close.
 
         And the hostile plants keep coming.
 
-        Holloway tries to coordinate —
-        "Remedy, focus on the western breach!"
-        "Velvet, prioritize core systems!"
-        "Runner, if you can disrupt their underground network —"
+        Holloway tries to coordinate—"Remedy, focus on the western breach! Velvet, prioritize core systems! Runner, if you can disrupt their underground network—"
 
-        But it's still reactive — still responding to immediate threats without any overall strategy. We're playing defense while they execute a plan.
-
-        Another projectile thorn nearly hits me. I'm pressed against a pillar — Scout guarding me — watching our home get destroyed because we can't coordinate effectively.
-
-        Florence hasn't moved — still watching and analyzing, seeing exactly how badly we're failing.
-
-        Holloway notices and asks Florence —
-        "Florence, if you have suggestions —"
-
-        Florence — coolly —
-        "I have many suggestions — are you willing to listen?"
-
-        Holloway's fruiting bodies contract — pride versus survival, fighting it out in real time.
-
-        More ceiling collapses — Remedy is hit by falling debris and cries out in pain.
-
-        Holloway — finally —
-        "Yes, we'll listen. Tell us what to do."
-
-        Florence wheels forward and speaks plainly —
-        "First, stop trying to defend everything. You're spread too thin. Concentrate on protecting the core — life support, medical systems, Kira. Let the outer walls fail."
-
-        Holloway starts to object —
-        "But—"
-
-        Florence interrupts —
-        "They're already failing — accept it and work with it. Velvet, contract your barrier closer: tighter perimeter, stronger defense."
+        But it's still reactive—still responding to immediate threats without overall strategy—we're playing defense while they execute a plan.
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: Urgent and tense — brisk narration with sharp attacks on shouted lines; allow short pauses at em dashes and one longer pause at the lone "¶".
+        Overall tone &amp; pacing: Urgent, breathless, increasingly tight—keep energy high and let commands spike into short, forceful bursts while preserving clarity for each speaker.
 
-        - Read narration fast but controlled; keep momentum through action descriptions like "thorny branch" and "spore cloud." 
-        - Put each quoted line on its own line and deliver short exclamations with extra emphasis (for example, "Runner's hurt!" and *VELVET!*).
-        - For "Holloway — overwhelmed —" use an authoritative voice that strains toward desperation for the quoted block that follows.
-        - For Velvet's reply, use a pained, breathy quality: read "I'm okay! Just damaged, not destroyed!" with vulnerability on the second clause.
-        - For Florence, adopt a cool, clinical tone; speak her instructions clearly and deliberately, with small, measured pauses at the em dashes.
-        - At the paragraph containing only "¶", take a longer breath (pause) before continuing into "And the hostile plants keep coming."
-        - Keep Scout's lines soft and protective; Runner's brief surface is hoarse and injured.
+        - Read the opening descriptive lines steady and tight; keep a low-level tension under the narration.
+        - On "I shout, *\"RUNNER!*\"" give a sharp, loud spike—brief, forceful, then snap back into faster breath.
+        - Insert a long, noticeable pause at the paragraph containing only "¶"—make it heavy, letting the underground crash land before continuing.
+        - Deliver Runner's lines with a firm, plant-like authority; when Runner "dives back underground," make the action a rapid downward cut in tone.
+        - For Holloway's coordination lines (the multi-command quote), keep them clipped and urgent—each command a quick staccato beat, trailing off on the final interrupted line.
+        - On "Multiple plants shout, *\"VELVET!*\"" make the shout broad and panicked—treat the following Velvet reply as battered but resolute.
+        - Emphasize the short punchline "Not even close." with a hard, resigned delivery—let it hang a beat before the next line.
+        - Keep all speaker shifts clear and crisp; use the quoted lines as natural vocal breaks so listeners can follow who is speaking.
       </stage-directions>
     </chunk>
     <chunk>
       <text>
-        Velvet immediately complies—its defensive growth pulls inward, abandoning the outer facility but forming a much thicker barrier around the center.
+        Another projectile thorn nearly hits me. I'm pressed against a pillar—Scout guarding me, watching our home get destroyed because we can't coordinate effectively.
 
-        Florence orders, "Remedy, stop deploying broad-spectrum defenses—target the spore clouds specifically; they're the immediate threat to Kira. Let the roots be Runner's problem."
+        Florence hasn't moved—she's still watching and analyzing exactly how badly we're failing.
 
-        Remedy shifts tactics—its chemical clouds narrow, targeting hostile spores before they can drift into our contracted perimeter.
+        Holloway says — "Florence, if you have suggestions—"
 
-        Florence continues, "Runner—you can't fight all the underground hostiles. Stop trying. Focus on the load-bearing roots—if you can sever those, their whole assault structure destabilizes. Tactical targets, not broad engagement."
+        Florence says coolly — "I have many suggestions — are you willing to listen?"
 
-        Runner surfaces long enough to acknowledge, then dives back with renewed purpose—going after specific roots instead of fighting everything they encounter.
+        Holloway's fruiting bodies contract—pride versus survival fighting it out in real time.
 
-        Florence orders, "Holloway, coordinate between them—Remedy needs to know when Runner creates openings so Remedy can exploit them. Velvet needs to know where Remedy is creating chemical barriers so Velvet doesn't grow there and get poisoned. Communication, not just commands."
+        More ceiling collapses—Remedy gets hit by falling debris and cries out in pain.
 
-        Holloway starts relaying information between defenders—actually coordinating, not just shouting positions.
+        Holloway says finally — "Yes. We'll listen. Tell us what to do."
 
-        The defense starts working—we're not winning yet, but it's working: coordinated and strategic.
+        Florence wheels forward.
 
-        Florence wheels to the eastern breach—the worst one—and says, "That section is lost. Velvet, grow a sealing wall three meters inward—abandon everything beyond it."
+        Florence says — "First, stop trying to defend everything. You're spread too thin—concentrate on protecting the core: life support, medical systems, Kira. Let the outer walls fail."
 
-        Velvet protests, "But our equipment—"
+        Velvet protests — "But—"
 
-        Florence answers, "It is already destroyed—or will be in thirty seconds. Save what's saveable."
+        Florence interrupts — "They're already failing. Accept it and work with it. Velvet, contract your barrier closer—tighter perimeter, stronger defense."
 
-        Velvet grows the sealing wall just in time—a mass of hostile roots tears through the space they would have been defending. That territory is lost, and we're no longer fighting for it.
+        Velvet immediately complies. Their defensive growth pulls inward, abandoning the outer facility but creating a much thicker barrier around the center.
 
-        We're contracting into a defensible core instead of spreading thin across indefensible space.
+        Florence says — "Remedy, stop deploying broad-spectrum defenses. Target the spore clouds specifically—they're the immediate threat to Kira. Let the roots be Runner's problem."
 
-        The hostile bioluminescent signals flash more urgently—the attackers are confused; we were losing, now we're not. Their assault plan assumed we'd keep defending badly.
+        Remedy shifts tactics—the chemical clouds become more focused, targeting hostile spores before they can drift into our contracted perimeter.
 
-        Florence warns, "They're going to adapt—expect escalation in two minutes. Probably a coordinated push on three sides simultaneously."
+        Florence says — "Runner, you can't fight all the underground hostiles. Stop trying. Focus on the load-bearing roots—if you can sever those, their whole assault structure destabilizes. Tactical targets, not broad engagement."
 
-        Holloway asks, "How do you know?"
+        Runner surfaces long enough to acknowledge, then dives back with renewed purpose—going after specific roots, not just fighting everything they encounter.
 
-        Florence replies, "Because that's what I'd do—and they're executing professional tactics."
+        Florence says — "Holloway, coordinate between them. Remedy needs to know when Runner creates openings so they can exploit them. Velvet needs to know where Remedy's creating chemical barriers so they don't grow there and get poisoned. Communication, not just commands."
 
-        Two minutes later a massive, coordinated push hits from east, west, and underground—but we're ready: Velvet's barrier holds, Remedy times chemical releases perfectly, and Runner severs the key roots until the whole assault structure wavers.
+        Holloway starts relaying information between defenders—actually coordinating instead of just shouting positions.
 
-        We're holding—actively holding, not just passively dying.
-
-        The difference is Florence's tactical thinking—the coordination she's providing, and every plant using its abilities effectively instead of just frantically.
-
-        We're still in trouble: the facility is badly damaged, Runner is injured, Velvet is spread thin even within the contracted perimeter, and Remedy is running low on chemical reserves.
+        The defense starts working.
 
         ¶
+
+        Not winning yet. But working. Coordinated. Strategic.
+
+        Florence wheels to the eastern breach—the worst one.
+
+        Florence says — "That section is lost. Velvet, grow a sealing wall three meters inward. Abandon everything beyond it."
+
+        Velvet protests — "But our equipment—"
+
+        Florence says flatly — "Is already destroyed — or will be in thirty seconds. Save what's saveable."
+
+        Velvet grows the sealing wall.
+
+        Just in time—a mass of hostile roots tears through the space where they would have been defending. It's lost territory, but we're not fighting for it anymore.
+
+        We're contracting into a defendable core instead of spreading across indefensible space.
+      </text>
+      <stage-directions>
+        Overall tone &amp; pacing: Urgent and controlled—keep tension taut throughout, let commands read as sharp, purposeful beats, and allow the short punchy lines to register as discrete realizations.
+
+        - Read narration steady, tight, with a low-level urgency; keep breath quick but measured.
+        - On speaker lead-ins (e.g., "Holloway says —") give a brief centering beat before the quote, then deliver the quoted lines clearly.
+        - Deliver Florence's commands with cool authority—calm but uncompromising; treat intra-quote em dashes as short, deliberate pauses.
+        - Make Velvet's and Remedy's protests brief and panicked, then soften as they comply.
+        - Emphasize the single long pause at the isolated "¶"—let it hang heavy before continuing.
+        - On the short punch lines near the end ("Not winning yet. But working. Coordinated. Strategic.") use clipped, resonant delivery—each fragment should land.
+        - Close the passage with a firm, resigned tone on the final sentence, suggesting hard-won clarity rather than relief.
+      </stage-directions>
+    </chunk>
+    <chunk>
+      <text>
+        The hostile bioluminescent signals flash more urgently — they're confused. We were losing; now we're not. Their assault plan assumed we'd keep defending badly.
+
+        Florence warns —
+        "They're going to adapt. Expect escalation in two minutes. Probably a coordinated push on three sides simultaneously."
+
+        Holloway asks —
+        "How do you know?"
+
+        Florence replies —
+        "Because that's what I'd do. And they're executing professional tactics."
+
+        Florence is right. Two minutes later: a massive, coordinated push from east, west, and underground. But we're ready for it. Velvet's barrier holds. Remedy times chemical releases perfectly. Runner severs the key roots — their whole assault structure wavers.
+
+        We're holding.
+
+        Actively holding, not just passively dying.
+
+        ¶
+
+        The difference is Florence's tactical thinking — the coordination she's providing. Every plant is using its abilities effectively instead of just frantically.
+
+        But we're still in trouble. The facility is badly damaged. Runner is injured. Velvet is spreading thin even with the contracted perimeter. Remedy is running low on chemical reserves.
 
         And the hostile plants aren't giving up.
-      </text>
-      <stage-directions>
-        Overall tone &amp; pacing: Urgent and controlled — brisk narration that keeps momentum through tactical commands; allow short, sharp pauses for em-dash beats and one longer breath at the lone "¶".
 
-        - Read narration quickly but clearly; keep sentences flowing when connected with em dashes.
-        - Put each quoted block on its own line; treat Florence's orders as cool, clinical and authoritative.
-        - For Florence's single-line commands like "Abandon everything beyond it," add firmness and a clipped delivery—lean into *bold* forcefulness.
-        - Runner's brief surface should be hoarse and breathy; read the acknowledgment quickly and then drop to strained quiet on the dive.
-        - Holloway's coordination lines are efficient and practical—clear, moderate pace.
-        - When you reach the paragraph containing only "¶", take a longer breath (pause) before delivering the final line, "And the hostile plants aren't giving up."
-      </stage-directions>
-    </chunk>
-    <chunk>
-      <text>
-        This is going to get worse before it gets better — but at least now we have a chance, because we're working together, even if it's out of necessity rather than trust.
+        This is going to get worse before it gets better.
 
-        Florence hasn't moved from her position near the core — she's coordinating, analyzing, adapting to hostile tactics in real time. The plants are following her guidance because they have to — not because they want to, not because they trust her, but because survival matters more than resentment.
+        But at least now we have a chance.
 
-        ¶
+        Because we're working together, even if it's out of necessity rather than trust.
+
+        I say quietly to Buddy —
+        "Hostiles at the eastern breach — how many?"
+
+        Buddy reports —
+        "*Five distinct masses!* The largest one is sending roots toward the medical equipment!"
+
+        I call —
+        "Florence, medical equipment threat from the east!"
+
+        Florence immediately redirects defense to protect it.
+
+        Buddy says to Kira (wonder in their voice) —
+        "We're doing it. We're actually helping."
+
+        I answer —
+        "Yeah, Buddy. We are."
+
+        Florence hasn't moved from her position near the core. She's coordinating, analyzing, adapting to hostile tactics in real time — and now she has Buddy feeding tracking data, and me calling out what I know about each plant's capabilities.
+
+        The plants are following her guidance because they have to — not because they want to, not because they trust her, but because survival matters more than resentment.
 
         For now.
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: Urgent and controlled — keep a steady, economical pace, with brief emphasis on key phrases and one longer, dramatic pause before the closing line.
+        Overall tone &amp; pacing: Tense and steadily urgent—momentum builds through the action; let short lines land as distinct realizations and use a single long pause to punctuate the turn from defense to hopeful coordination.
 
-        - Read "This is going to get worse before it gets better — but at least now we have a chance" with urgent clarity; allow a small lift on "we have a chance" then settle into the explanatory clause.
-        - Deliver "because we're working together, even if it's out of necessity rather than trust" as a slightly resigned, explanatory afterthought — calm but edged.
-        - For "Florence hasn't moved from her position near the core — she's coordinating, analyzing, adapting to hostile tactics in real time" use a composed, clinical tone; slightly brisk on the list "coordinating, analyzing, adapting." 
-        - Read "The plants are following her guidance because they have to — not because they want to, not because they trust her, but because survival matters more than resentment" with growing gravity; emphasize "have to" and the contrast in the following short clauses.
-        - When you reach the paragraph with only "¶", take a noticeably long pause — a held breath and silence — to let the implication hang.
-        - Read the final line "For now." softly but firmly, letting the uncertainty sit in the closing syllable.
-        - Plain closing cadence; clean fall, short pause
+        - Read narration with a tight, controlled urgency; keep breaths quick but not ragged.
+        - Deliver the lead-ins (e.g., "Florence warns —") with a brief centering beat, then read the quoted line clearly and with the indicated tone.
+        - Read Florence's quoted lines with cool authority—calm, analytical, and uncompromising.
+        - On the line "We're holding." give a strong, slightly relieved beat; follow with "Actively holding..." as a clarifying, firmer statement.
+        - Pause fully at the isolated paragraph "¶"—long, dramatic silence before continuing.
+        - For Buddy's report, read "*Five distinct masses!*" louder and sharper (*bold*), then drop a bit for the explanatory second sentence.
+        - Close with a firm, resigned cadence on the final lines—"For now." —Firm terminal fall; decisive stop
       </stage-directions>
     </chunk>
   </chunks>
@@ -333,239 +379,270 @@
   </unusual-pronunciations>
   <title>Chaos and Coordination</title>
   <combined-text>
-    Florence's return to the common area creates immediate tension.
+    Florence's return to the common area creates immediate tension. Holloway's fruiting bodies contract when they see her, Runner's vines coil tight, and Remedy's edges pull back—the room temperature drops about ten degrees, metaphorically, but it feels literal.
 
-    Holloway's fruiting bodies contract when they see her — Runner's vines coil tight, Remedy's edges pull back, and the room temperature drops about ten degrees — metaphorically, but it feels literal.
+    Holloway says — (neutral) "Florence."
 
-    Holloway says,
-    "Florence."
+    Florence replies — (neutral) "Holloway."
 
-    Florence replies,
-    "Holloway."
+    I announce — "Kira brought Florence to help with tactical defense — because we need tactical defense and Florence knows how to coordinate it."
 
-    I announce,
-    "Kira brought Florence to help with tactical defense — because we need tactical defense and Florence knows how to coordinate it."
+    Remedy begins to protest — "We don't…"
 
-    Remedy starts,
-    "We don't—"
+    The eastern wall explodes—not literally, but a section bursts inward as hostile roots punch through, thick and aggressive and very much not friendly. They spread across the floor like grabbing hands, seeking purchase, seeking to tear more structure apart.
 
-    The eastern wall explodes. Not literally — a section of it bursts inward as hostile roots punch through, thick and aggressive and very much not friendly. They spread across the floor like grabbing hands, seeking purchase, seeking to tear more structure apart.
-
-    Scout's bounce is pure alarm.
-    *"ATTACK!"*
+    Scout bounces — *"ATTACK!"*
 
     And then everything happens at once.
 
-    More roots burst through the western wall, then the southern wall. Hostile plants hit us from three directions simultaneously — a coordinated assault, exactly like Florence predicted.
+    More roots burst through the western wall. The southern wall follows. Hostile plants hit us from three directions simultaneously—coordinated assault, exactly like Florence predicted.
 
-    Through the breaches I can see them: masses of plant life advancing with purpose. Some are tall and thorny, others are low-spreading and toxic-looking. Bioluminescent signals flash between them — communication, coordination. This is organized warfare.
+    Through the breaches I can see them: masses of plant life advancing with purpose. Some are tall and thorny, others low and spreading, toxic-looking. Bioluminescent signals flash between them—communication, coordination. This is organized warfare.
 
-    "Defensive positions!" Holloway shouts, but it's unclear what positions those are.
+    Holloway shouts — *"Defensive positions!"* — and the command lands vague because nobody has a clear plan.
 
-    Runner dives underground, their vines disappearing into the floor — fighting the hostile roots on their own territory. Remedy spreads toward the western breach, releasing clouds of something sharp and chemical-smelling. Velvet's offshoots rush to reinforce the damaged walls, growing rapidly to seal breaches.
+    Runner dives underground, vines disappearing into the floor to fight the hostile roots in their own territory. Remedy spreads toward the western breach, releasing clouds of something sharp and chemical. Velvet's offshoots rush to reinforce damaged walls, growing rapidly to seal breaches.
 
-    But it's all reactive — no strategy. Just defend what's nearest and hope.
+    But it's all reactive—no strategy, just "defend the thing nearest you and hope."
 
-    A spore cloud drifts through the eastern breach — thick, yellowish, definitely toxic, moving with purpose and seeking targets.
+    A spore cloud drifts through the eastern breach, thick and yellowish—definitely toxic. It's moving with purpose, seeking targets.
 
-    Holloway warns,
-    "Kira, get back!"
+    Holloway warns — (urgent) "Kira, get back!"
 
-    I scramble backward as the cloud drifts past where I was standing. Where it touches the floor, the moss withers. Okay, that's genuinely dangerous.
+    I scramble backward as the cloud drifts past where I was standing; where it touches the floor, the moss withers—okay, that's genuinely dangerous.
 
-    Scout bounces between me and the cloud — tiny but fierce, ready to protect. I grab them and pull them back —
-    "Scout, no — you can't fight poison!"
+    Scout bounces between me and the cloud—tiny but fierce, ready to protect.
 
-    More hostile roots punch through the floor. Runner is down there somewhere, fighting them, but there are too many. The hostile roots are spreading everywhere, tearing up the facility's foundation.
+    I grab them, pull them back — "Scout, no! You can't fight poison!"
 
-    A section of ceiling collapses, structural integrity failing as roots destabilize everything.
+    More roots punch through the floor—hostile roots attacking from below. Runner is down there somewhere fighting them, but there are too many; the roots are spreading everywhere, tearing up the facility's foundation.
 
-    Holloway tries to coordinate —
-    "Velvet, reinforce above — Remedy, counter those spores — Runner, can you—"
+    A section of ceiling collapses, crashing down as roots destabilize the structure.
 
-    Another wall section gives way as a massive, thorny hostile plant pushes through, radiating aggression. It's hard to tell where one hostile plant ends and another begins; they might all be connected, one vast organism attacking as coordinated units.
+    Holloway tries to coordinate — *"Velvet, reinforce above!"* — *"Remedy, counter those spores!"* — *"Runner, can you—"*
 
-    The thorny one sends out barbs—actual projectile thorns that embed in the walls and the floor—one narrowly missing my head.
+    Another wall section gives way. A massive, thorny hostile plant pushes through, radiating aggression. It's hard to tell where one hostile plant ends and another begins—they may all be connected, one vast organism attacking as coordinated units.
 
-    I duck behind a structural pillar and exclaim:
-    "*OKAY, that's terrifying!*"
+    The thorny one sends out barbs—actual projectile thorns that embed in the walls and the floor, one narrowly missing my head.
 
-    Buddy pipes up in my mind:
-    "Kira, your heart rate is extremely elevated! Perhaps you should—"
+    I duck behind a structural pillar.
+    I shout, "OKAY, that's terrifying!"
 
-    I snap:
-    "Not now, Buddy!"
+    Buddy says, "Kira, your heart rate is extremely elevated! I'm detecting hostile movement from the west flank—three distinct masses approaching!"
 
-    Buddy replies in my head:
-    "Of course! Survival first!"
+    I ask, "You can *TRACK* them?"
 
-    Remedy's chemical cloud meets the hostile spore cloud mid-air—they react, fizzing and bubbling and creating a third substance that's probably also toxic. Great—now we have competing poison clouds.
+    Buddy replies, "I… yes! My sensors can identify movement patterns—there's a fourth group underground, heading toward the northwest corner!"
 
-    Holloway asks:
-    "Remedy, what is that?"
+    I call, "Buddy, that's *USEFUL*! Keep doing that!"
 
-    Remedy calls back—
-    "Neutralization reaction! —Should render both clouds inert!"
+    Buddy says, "Really? I'm being useful?"
 
-    Holloway, skeptical, says:
-    "Should?"
+    I exclaim, "*YES!*"
 
-    Remedy answers:
-    "Probably! Chemistry isn't always predictable!"
+    Remedy's chemical cloud meets the hostile spore cloud mid-air. They react—fizzing, bubbling, creating a third substance that's probably also toxic, so now we have competing poison clouds.
 
-    The resulting cloud settles to the floor as a thick sludge—better than airborne poison, but now we have toxic sludge everywhere. I make a mental note: avoid the sludge.
+    Holloway asks, "Remedy, what is that?"
 
-    Underground, something crashes and the floor shakes. Runner's vines burst up through a weak point, wrapped around hostile roots—both plants grappling for dominance. It's like watching an underground wrestling match.
+    Remedy calls back, "Neutralization reaction—should render both clouds inert!"
 
-    Holloway shouts down:
-    "Runner, status?"
+    Holloway says, "Should?"
 
-    Runner reports—
-    "Engaged! —Multiple hostiles! —Underground network is extensive!"
+    Remedy replies, "_Probably!_ Chemistry isn't always predictable!"
 
-    More bioluminescent flashing from the hostile plants outside—signals, commands, tactical updates. They're communicating better than we are. They have a plan.
+    The resulting cloud settles to the floor as a thick sludge—better than airborne poison, but now toxic sludge is everywhere. I make a mental note: avoid the sludge.
+
+    Underground, something crashes and the floor shakes. Runner's vines burst up through a weak point, wrapped around hostile roots—both plants grappling for dominance, like an underground wrestling match.
+
+    I shout down, "Runner, status?"
+
+    Runner answers, "*Engaged!* Multiple hostiles—the underground network is extensive!"
+
+    More bioluminescent flashing from the hostile plants outside—signals, commands, tactical updates. They're communicating better than we are—*they have a plan.*
+
+    We have one response—*panic and react.*
 
     Velvet seals one breach just as another opens; they're spreading too thin, trying to reinforce too many weak points at once. A hostile plant sends out creeping vines that corrode whatever they touch—Velvet has to pull back or get dissolved.
 
-    I yell to Holloway:
-    "We need to concentrate defense! —We can't protect everything!"
+    I yell to Holloway, "We need to concentrate defense—We can't protect everything!"
 
-    Holloway asks, desperate:
-    "What do we abandon?"
+    Holloway asks desperately, "What do we abandon?"
 
-    I don't know—it's Florence's kind of decision. Florence stands near the center, watching everything with professional frustration, watching us lose because we don't know what we're doing.
+    I say, "I don't know— that's Florence's kind of decision."
 
-    A root wraps around my ankle. I yelp and try to pull free, but it's strong—it's dragging me toward the eastern breach and the mass of hostile plants outside.
+    But I know something else—I know *THEM.*
 
-    Scout attacks the root, bouncing hard and trying to break it. It doesn't break.
+    I yell to Scout, "The spore clouds—you're fast enough to outrun them! Can you draw them away from the center?"
 
-    I shout, *"RUNNER!"*
+    Scout bounces in understanding, then zooms toward a drifting spore cloud, circling and leading it toward a breach where it can escape outside.
 
-    Runner's vines shoot up from underground and sever the hostile root; it releases me and withers back. I scramble away from the breach.
+    I call to Remedy, "Northwest corner—Buddy says there's an underground group heading there!"
+
+    Remedy shifts chemical deployment toward the northwest.
+
+    I shout, "Runner—Buddy's tracking four groups—can you feel where the biggest root mass is?"
+
+    Runner calls from below, "Southeast—heavy concentration!"
+
+    As Mav would say, "When protocols fail, trust the people."
+
+    I'm trusting my people.
+
+    Speaking of Florence—she's near the center, watching everything with what I can only describe as professional approval mixed with frustration—watching us improvise but knowing we need more.
+
+    A root wraps around my ankle. I yelp and try to pull free, but it's strong—it's dragging me toward the eastern breach, toward the mass of hostile plants outside.
+
+    Scout attacks the root—bouncing hard, trying to break it, but it doesn't break.
+
+    I shout, *"RUNNER!*"
+
+    Runner's vines shoot up from underground, severing the hostile root—it releases me and withers back. I scramble away from the breach.
 
     I gasp, "Thanks!"
 
-    Runner advises before diving back underground:
-    "Stay away from openings!"
+    Runner advises, "Stay away from openings!" —then dives back underground.
 
-    Yeah—good plan. Except openings are appearing everywhere.
+    Yeah—good plan—except openings are appearing everywhere.
 
-    The northern wall, previously untouched, suddenly sprouts hostile growth—they were making us think the north was safe. Now they're hitting all four sides. We're surrounded.
+    The northern wall—previously untouched—suddenly sprouts hostile growth. They were just making us think the north was safe, and now they're hitting all four sides—we're surrounded.
 
-    Remedy states the obvious—
-    "This isn't working! —We're losing ground!"
+    Remedy states the obvious—"This isn't working! We're losing ground!"
 
-    Holloway orders, voice edged with desperation:
-    "Keep fighting!"
+    Holloway orders—desperation in their voice—"Keep fighting!"
 
-    Velvet abandons trying to seal the breaches and instead grows a defensive barrier around the facility's core — protecting essential systems: life support and medical equipment. It's smart prioritization, but it means giving up the outer areas.
+    Velvet abandons sealing breaches and instead grows a defensive barrier around the facility's core—protecting essential systems: life support and medical equipment. Smart prioritization— but it means giving up the outer areas.
 
-    We're contracting — losing space; the hostile plants are winning.
+    We're contracting—losing space—the hostile plants are winning.
 
-    A massive thorny branch punches through the western wall, narrowly missing Remedy. Remedy deploys more defensive chemicals but is running low — you can only produce so many compounds before exhausting resources.
+    A massive thorny branch punches through the western wall, narrowly missing Remedy. Remedy deploys more defensive chemicals but they're running low—you can only produce so many compounds before exhausting resources.
 
-    Scout stays close to me — bouncing, alert for any new threats. Scout is scared but trying so hard to be brave.
+    Scout stays close to me, bouncing alert for any new threats—they're scared but trying so hard to be brave.
 
-    The floor cracks from more underground fighting. Runner surfaces briefly — vines torn, sap leaking; they're injured — then dives back down because there's no choice: the underground assault continues.
+    The floor cracks—more underground fighting. Runner surfaces briefly—vines torn and leaking sap—injured—then dives back down because there's no choice; the underground assault continues.
 
-    I tell Holloway —
-    "Runner's hurt!"
+    I tell Holloway, "Runner's hurt!"
 
-    Holloway — overwhelmed —
-    "I know! I know — but we need them down there or hostile roots will destabilize the entire foundation!"
+    Holloway responds—overwhelmed—"I know! I know, but we need them down there or hostile roots will destabilize the entire foundation!"
 
-    A spore cloud — darker than the first, probably more toxic — drifts through the southern breach. Remedy doesn't have the resources to counter it. The cloud settles over part of Velvet's defensive barrier; Velvet's growth withers where it touches.
+    A spore cloud—different from the first one, darker and probably differently toxic—drifts through the southern breach. Remedy doesn't have the resources to counter it; the cloud settles over part of Velvet's defensive barrier and Velvet's growth withers where it touches.
 
-    Multiple plants shout —
-    *VELVET!*
+    Multiple plants shout, *"VELVET!*"
 
-    Velvet calls back — pained —
-    "I'm okay! Just damaged, not destroyed!"
+    Velvet calls back—pained—"I'm okay! Just damaged, not destroyed!"
 
-    The facility is falling apart around us — walls breached on all sides, floors unstable, ceiling sections collapsed. We're fighting hard, but we're not winning — not even close.
+    The facility is falling apart around us: walls breached on all sides, floor unstable, ceiling sections collapsed—we're fighting hard but we're not winning.
+
+    Not even close.
 
     And the hostile plants keep coming.
 
-    Holloway tries to coordinate —
-    "Remedy, focus on the western breach!"
-    "Velvet, prioritize core systems!"
-    "Runner, if you can disrupt their underground network —"
+    Holloway tries to coordinate—"Remedy, focus on the western breach! Velvet, prioritize core systems! Runner, if you can disrupt their underground network—"
 
-    But it's still reactive — still responding to immediate threats without any overall strategy. We're playing defense while they execute a plan.
+    But it's still reactive—still responding to immediate threats without overall strategy—we're playing defense while they execute a plan.
 
-    Another projectile thorn nearly hits me. I'm pressed against a pillar — Scout guarding me — watching our home get destroyed because we can't coordinate effectively.
+    Another projectile thorn nearly hits me. I'm pressed against a pillar—Scout guarding me, watching our home get destroyed because we can't coordinate effectively.
 
-    Florence hasn't moved — still watching and analyzing, seeing exactly how badly we're failing.
+    Florence hasn't moved—she's still watching and analyzing exactly how badly we're failing.
 
-    Holloway notices and asks Florence —
-    "Florence, if you have suggestions —"
+    Holloway says — "Florence, if you have suggestions—"
 
-    Florence — coolly —
-    "I have many suggestions — are you willing to listen?"
+    Florence says coolly — "I have many suggestions — are you willing to listen?"
 
-    Holloway's fruiting bodies contract — pride versus survival, fighting it out in real time.
+    Holloway's fruiting bodies contract—pride versus survival fighting it out in real time.
 
-    More ceiling collapses — Remedy is hit by falling debris and cries out in pain.
+    More ceiling collapses—Remedy gets hit by falling debris and cries out in pain.
 
-    Holloway — finally —
-    "Yes, we'll listen. Tell us what to do."
+    Holloway says finally — "Yes. We'll listen. Tell us what to do."
 
-    Florence wheels forward and speaks plainly —
-    "First, stop trying to defend everything. You're spread too thin. Concentrate on protecting the core — life support, medical systems, Kira. Let the outer walls fail."
+    Florence wheels forward.
 
-    Holloway starts to object —
-    "But—"
+    Florence says — "First, stop trying to defend everything. You're spread too thin—concentrate on protecting the core: life support, medical systems, Kira. Let the outer walls fail."
 
-    Florence interrupts —
-    "They're already failing — accept it and work with it. Velvet, contract your barrier closer: tighter perimeter, stronger defense."
+    Velvet protests — "But—"
 
-    Velvet immediately complies—its defensive growth pulls inward, abandoning the outer facility but forming a much thicker barrier around the center.
+    Florence interrupts — "They're already failing. Accept it and work with it. Velvet, contract your barrier closer—tighter perimeter, stronger defense."
 
-    Florence orders, "Remedy, stop deploying broad-spectrum defenses—target the spore clouds specifically; they're the immediate threat to Kira. Let the roots be Runner's problem."
+    Velvet immediately complies. Their defensive growth pulls inward, abandoning the outer facility but creating a much thicker barrier around the center.
 
-    Remedy shifts tactics—its chemical clouds narrow, targeting hostile spores before they can drift into our contracted perimeter.
+    Florence says — "Remedy, stop deploying broad-spectrum defenses. Target the spore clouds specifically—they're the immediate threat to Kira. Let the roots be Runner's problem."
 
-    Florence continues, "Runner—you can't fight all the underground hostiles. Stop trying. Focus on the load-bearing roots—if you can sever those, their whole assault structure destabilizes. Tactical targets, not broad engagement."
+    Remedy shifts tactics—the chemical clouds become more focused, targeting hostile spores before they can drift into our contracted perimeter.
 
-    Runner surfaces long enough to acknowledge, then dives back with renewed purpose—going after specific roots instead of fighting everything they encounter.
+    Florence says — "Runner, you can't fight all the underground hostiles. Stop trying. Focus on the load-bearing roots—if you can sever those, their whole assault structure destabilizes. Tactical targets, not broad engagement."
 
-    Florence orders, "Holloway, coordinate between them—Remedy needs to know when Runner creates openings so Remedy can exploit them. Velvet needs to know where Remedy is creating chemical barriers so Velvet doesn't grow there and get poisoned. Communication, not just commands."
+    Runner surfaces long enough to acknowledge, then dives back with renewed purpose—going after specific roots, not just fighting everything they encounter.
 
-    Holloway starts relaying information between defenders—actually coordinating, not just shouting positions.
+    Florence says — "Holloway, coordinate between them. Remedy needs to know when Runner creates openings so they can exploit them. Velvet needs to know where Remedy's creating chemical barriers so they don't grow there and get poisoned. Communication, not just commands."
 
-    The defense starts working—we're not winning yet, but it's working: coordinated and strategic.
+    Holloway starts relaying information between defenders—actually coordinating instead of just shouting positions.
 
-    Florence wheels to the eastern breach—the worst one—and says, "That section is lost. Velvet, grow a sealing wall three meters inward—abandon everything beyond it."
+    The defense starts working.
 
-    Velvet protests, "But our equipment—"
+    Not winning yet. But working. Coordinated. Strategic.
 
-    Florence answers, "It is already destroyed—or will be in thirty seconds. Save what's saveable."
+    Florence wheels to the eastern breach—the worst one.
 
-    Velvet grows the sealing wall just in time—a mass of hostile roots tears through the space they would have been defending. That territory is lost, and we're no longer fighting for it.
+    Florence says — "That section is lost. Velvet, grow a sealing wall three meters inward. Abandon everything beyond it."
 
-    We're contracting into a defensible core instead of spreading thin across indefensible space.
+    Velvet protests — "But our equipment—"
 
-    The hostile bioluminescent signals flash more urgently—the attackers are confused; we were losing, now we're not. Their assault plan assumed we'd keep defending badly.
+    Florence says flatly — "Is already destroyed — or will be in thirty seconds. Save what's saveable."
 
-    Florence warns, "They're going to adapt—expect escalation in two minutes. Probably a coordinated push on three sides simultaneously."
+    Velvet grows the sealing wall.
 
-    Holloway asks, "How do you know?"
+    Just in time—a mass of hostile roots tears through the space where they would have been defending. It's lost territory, but we're not fighting for it anymore.
 
-    Florence replies, "Because that's what I'd do—and they're executing professional tactics."
+    We're contracting into a defendable core instead of spreading across indefensible space.
 
-    Two minutes later a massive, coordinated push hits from east, west, and underground—but we're ready: Velvet's barrier holds, Remedy times chemical releases perfectly, and Runner severs the key roots until the whole assault structure wavers.
+    The hostile bioluminescent signals flash more urgently — they're confused. We were losing; now we're not. Their assault plan assumed we'd keep defending badly.
 
-    We're holding—actively holding, not just passively dying.
+    Florence warns —
+    "They're going to adapt. Expect escalation in two minutes. Probably a coordinated push on three sides simultaneously."
 
-    The difference is Florence's tactical thinking—the coordination she's providing, and every plant using its abilities effectively instead of just frantically.
+    Holloway asks —
+    "How do you know?"
 
-    We're still in trouble: the facility is badly damaged, Runner is injured, Velvet is spread thin even within the contracted perimeter, and Remedy is running low on chemical reserves.
+    Florence replies —
+    "Because that's what I'd do. And they're executing professional tactics."
+
+    Florence is right. Two minutes later: a massive, coordinated push from east, west, and underground. But we're ready for it. Velvet's barrier holds. Remedy times chemical releases perfectly. Runner severs the key roots — their whole assault structure wavers.
+
+    We're holding.
+
+    Actively holding, not just passively dying.
+
+    The difference is Florence's tactical thinking — the coordination she's providing. Every plant is using its abilities effectively instead of just frantically.
+
+    But we're still in trouble. The facility is badly damaged. Runner is injured. Velvet is spreading thin even with the contracted perimeter. Remedy is running low on chemical reserves.
 
     And the hostile plants aren't giving up.
 
-    This is going to get worse before it gets better — but at least now we have a chance, because we're working together, even if it's out of necessity rather than trust.
+    This is going to get worse before it gets better.
 
-    Florence hasn't moved from her position near the core — she's coordinating, analyzing, adapting to hostile tactics in real time. The plants are following her guidance because they have to — not because they want to, not because they trust her, but because survival matters more than resentment.
+    But at least now we have a chance.
+
+    Because we're working together, even if it's out of necessity rather than trust.
+
+    I say quietly to Buddy —
+    "Hostiles at the eastern breach — how many?"
+
+    Buddy reports —
+    "*Five distinct masses!* The largest one is sending roots toward the medical equipment!"
+
+    I call —
+    "Florence, medical equipment threat from the east!"
+
+    Florence immediately redirects defense to protect it.
+
+    Buddy says to Kira (wonder in their voice) —
+    "We're doing it. We're actually helping."
+
+    I answer —
+    "Yeah, Buddy. We are."
+
+    Florence hasn't moved from her position near the core. She's coordinating, analyzing, adapting to hostile tactics in real time — and now she has Buddy feeding tracking data, and me calling out what I know about each plant's capabilities.
+
+    The plants are following her guidance because they have to — not because they want to, not because they trust her, but because survival matters more than resentment.
 
     For now.
   </combined-text>

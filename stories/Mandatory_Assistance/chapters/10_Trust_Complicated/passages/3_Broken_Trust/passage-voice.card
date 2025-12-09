@@ -1,8 +1,15 @@
 <!-- Generated automatically, do not edit except with ske gen passage-voice -->
-<passage-voice version="2.0.0">
-  <ref ref="passage.card#v2.0.0"/>
+<passage-voice version="3.0.0">
+  <ref ref="passage.card#v3.0.0"/>
   <reasoning>
-    <!-- For instructions on filling out reasoning: ske instructions stories/Mandatory_Assistance/chapters/10_Trust_Complicated/passages/3_Broken_Trust/passage-voice.card -->
+    I reviewed the passage for voice-friendly adjustments and applied these changes:
+    1. Staccato sentences: Several short, choppy sentences (especially lists of characters and short emotional beats) were merged into smoother spoken lines to avoid a halting rhythm.
+    2. Dialog speaker clarity: All spoken lines were given clear speaker lead-ins (e.g., "I tell Holloway, \"...\"" or "Florence says, \"...\"") so the voice can shift tone for each speaker without ambiguity.
+    3. Ambiguous pronouns: Where pronouns might confuse the listener (e.g., "she sounds surprised"), I kept the speaker name nearby to disambiguate ("Florence sounds surprised").
+    4. Pauses: I added em dashes for medium pauses and an ellipsis for trailing hesitation. I also inserted a paragraph with only "¶" to mark a longer dramatic pause where Florence trails off.
+    5. Dialogue formatting: All dialogue lines are on their own lines and grouped with lead-ins. Multiple beats from the same speaker are kept as single blocks with em dashes for intra-beat pauses.
+    6. Tone indicators and emphasis: I used *bold* markers for forceful lines (per the style rules) and kept emotional directions out of the spoken text (they appear in STAGE_DIRECTIONS instead).
+    7. Non-text elements and contractions: Parenthetical asides were converted to spoken punctuation (e.g., the "knock—well, tap on the wall" line). No story content was changed—only formatting and small connective wording to improve spoken flow.
   </reasoning>
   <content-change/>
   <chunks>
@@ -10,25 +17,23 @@
       <text>
         The next morning, the fracture is still visible.
 
-        Holloway conducts the wellness check mechanically. Runner helps with maintenance but is quieter than usual. Remedy offers treatments without the usual commentary. Velvet's observations are brief—literal, stripped of the growing depth I'd been seeing.
+        Holloway conducts the wellness check mechanically, Runner helps with maintenance but is quieter than usual, Remedy offers treatments without the usual commentary, and Velvet's observations are brief and literal—stripped of the growing depth I'd been seeing.
 
-        Everyone is just going through motions, performing cooperation without the underlying trust.
+        Everyone is just going through the motions—performing cooperation without underlying trust.
 
-        Scout is the only one who seems unaffected—Scout doesn't fully understand what happened, only that everyone is sad and that Florence is gone. Scout keeps bouncing to Florence's usual spot, confused when she's not there.
+        Scout is the only one who seems unaffected; they don't fully understand what happened, they only know everyone is sad and Florence is gone. They keep bouncing to Florence's usual spot, confused when she's not there.
 
-        After breakfast, I make a decision.
-
-        ¶
+        After breakfast, I decide to check on Florence.
 
         I tell Holloway, "I'm going to check on Florence."
 
-        Holloway asks, "Is that wise?"
+        Their fruiting bodies shift uncomfortably. Holloway asks, "Is that wise?"
 
-        I say, "Probably not, but I'm doing it anyway."
+        I reply, "Probably not—but I'm doing it anyway."
 
-        Holloway doesn't stop me. Scout bounces along—a loyal companion in all situations.
+        Holloway doesn't stop me. Scout bounces along—loyal companion in all situations.
 
-        Florence has taken a chamber in the far wing—smaller than the common areas, more isolated. When I knock—well, tap on the wall; there aren't really doors—she sounds surprised.
+        Florence has taken a chamber in the far wing—smaller than the common areas, more isolated. When I knock—well, tap on the wall, because there aren't really doors—Florence sounds surprised.
 
         Florence says, "Kira?"
 
@@ -36,99 +41,111 @@
 
         A pause.
 
-        Florence says, "Yes."
+        Florence answers, "Yes."
 
-        The chamber is sparse. Florence's wheeled platform is parked near the wall; a few supplies lie scattered around. Nothing looks like home. She looks smaller here—diminished.
+        The chamber is sparse. Florence's wheeled platform is positioned near the wall, supplies scattered around—nothing that looks like home. She looks smaller here—diminished.
 
-        I sit against the wall. Scout settles beside me, watching Florence curiously.
+        I ask, "How are you?"
+
+        Florence says, "Isolated—dishonored—stripped of my role and my relationships…so not great."
+
+        I sit down against the wall. Scout settles beside me, watching Florence curiously.
 
         I say, "Your advice was good."
 
-        Florence responds, "So I keep hearing—right before someone reminds me that doesn't matter because I lied."
+        Florence says, "So I keep hearing—right before someone reminds me it doesn't matter because I lied."
 
         I ask, "Does it matter to you—that the advice was good?"
 
-        Florence is quiet for a moment, then says, "Yes—and also no. I wanted to help—genuinely wanted to help—and I did help. The solutions I provided worked—but…"
+        Florence is quiet a moment. Florence says, "Yes—and also no. I wanted to help—genuinely wanted to help—and I did help. The solutions I provided worked—but…" She trails off.
 
-        I finish gently, "But you wanted credit."
+        ¶
 
-        Florence says, "Not credit—recognition. I wanted people to value my thinking, not just tolerate my presence because I carried an elder." Her platform shifts restlessly. "And now I have neither—no elder to carry, no trust to build on—just… Florence, who nobody needs."
+        I say, "But you wanted credit."
 
-        "That's not true," I say.
+        Florence replies, "Not credit—recognition. I wanted people to value my thinking, not just tolerate my presence because I carried an elder." Her platform shifts restlessly. "And now I have neither—no elder to carry, no trust to build on. Just…Florence. Who nobody needs."
+
+        I say, *"That's not true."*
 
         Florence asks, "Isn't it? What do I contribute, Kira? I can't move fast, can't access most spaces, need help for basic tasks. My one value was tactical thinking, and I've proven that can't be trusted."
 
-        I counter, "The thinking *CAN* be trusted. You were right about de-escalation—about clear boundaries. That advice is sound."
+        I argue, "The thinking *can* be trusted."
 
-        Florence makes a small, brittle laugh. "*They're being hurt.* There's a difference."
+        Florence says, "But they won't use it—because they can't trust the source."
 
-        I admit, "Yeah. There is."
+        I say, "Then they're being stupid."
 
-        Florence says quietly, "I wish I hadn't lied… but I also—I don't know how else it would have worked. They didn't value my judgment before; they do value elders' wisdom. So I gave them what they'd accept—and now I'm being punished for succeeding at helping through the only channel available."
+        Florence makes that laugh-sound again. Florence says, "They're being hurt—there's a difference."
+
+        I say, "Yeah—there is."
+
+        Florence says, "I wish I hadn't lied—but I also…I don't know how else it would have worked. They *didn't* value my judgment before—they *do* value elders' wisdom, so I gave them what they'd accept—and now I'm being punished for succeeding at helping through the only channel available."
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: Quiet, subdued, and reflective; measured pacing with small, deliberate pauses. The narrator is calm, intimate, and empathetic.
+        Overall tone &amp; pacing: Quiet, restrained, and intimate—measured pacing with brief, thoughtful pauses to let the emotional weight land.
 
-        - Read narration lines softly and evenly; let sentences breathe at em dashes (—).
-        - On the paragraph containing only "¶", hold a longer silence (dramatic pause) before the next line.
-        - For dialog, put slight emphasis on the speaker lead-in, then deliver the quoted line naturally. Example: say "I tell Holloway," then a short pause, then the quoted line.
-        - When a speaker has multiple short beats in one quote, use small, distinct pauses at em dashes—for example in Florence's lines: emphasize each fragment as its own thought.
-        - Make *bold* sections stronger and a bit louder—e.g., "The thinking *CAN* be trusted." and "*They're being hurt.*"
-        - For ellipses (…) convey hesitation or trailing thought—slow slightly and let the sentence fall at the end.
-        - Keep character names clear and steady when repeated (e.g., say "Scout" explicitly) to avoid pronoun confusion.
+        - Read "I'm going to check on Florence." with quiet resolve, then a small pause before the reply.
+        - For "Is that wise?" soften slightly—Holloway is cautious.
+        - Deliver "Probably not—but I'm doing it anyway." steady and determined, with a medium pause at the em dash.
+        - When Florence speaks, drop the pitch slightly and slow the pace; her lines should sound wearied and literal.
+        - On the line "But you wanted credit." use a gentle, sympathetic tone—no accusation.
+        - Emphasize *"That's not true."* with firmer volume and conviction.
+        - For the trailing ellipses and the paragraph marker "¶" allow a longer silence to let the unfinished thought hang before continuing.
       </stage-directions>
     </chunk>
     <chunk>
       <text>
-        She's not entirely wrong — that's the frustrating part.
+        Florence isn't entirely wrong. That's the frustrating part.
 
-        I ask, "What did you hope would happen — long-term? Did you think you'd just keep fabricating forever?"
+        I ask, "What did you hope would happen? Long-term—did you think you'd just keep fabricating forever?"
 
-        Florence says—"I hoped eventually my advice would be good enough that it wouldn't matter where it came from — that I'd prove myself and could drop the pretense. But then Elder Heartwood failed, and you all learned to trust your own judgment instead of authority, and I thought… — I thought maybe that meant there was space for my judgment too, without the elder's name attached — but I guess I was wrong."
+        Florence says, "I hoped eventually my advice would be good enough that it wouldn't matter where it came from—that I'd prove myself and could drop the pretense. But then Elder Heartwood failed, and you all learned to trust your own judgment instead of authority, and I thought—" Florence pauses. "I thought maybe that meant there was space for my judgment too, without the elder's name attached. But I guess I was wrong."
 
-        Scout bounces softly — sympathy, confusion, trying to understand.
+        Scout bounces softly—sympathetic, confused, trying to understand.
 
-        I ask Florence, "What do you want — now, I mean, going forward?"
+        I ask Florence, "What do you want now—going forward?"
 
-        Florence says immediately—"To be useful — to matter — to contribute something that helps instead of just… existing on the periphery — and maybe to be forgiven, eventually, if that's possible."
+        Florence says immediately, "To be useful—to matter—to contribute something that helps instead of just… existing on the periphery." A pause. "And maybe to be forgiven—eventually—if that's possible."
 
-        I say, "I think it might be — but not today."
+        I say, "I think it might be—but not today."
 
-        Florence: "No. Not today."
+        Florence replies, "No. Not today."
 
         We sit in silence for a bit.
 
         ¶
 
-        Florence says eventually—"The hostile plants — are they… how bad is it?"
+        Florence says eventually, "The hostile plants—are they… how bad is it?"
 
-        I answer, "I don't know — Scout hasn't patrolled today yet."
+        I say, "I don't know—Scout hasn't patrolled today yet."
 
-        Florence says, "When they do — when you find out — the de-escalation approach is still sound: clear boundaries, peaceful delegation, demonstrate non-threat — that's the right strategy."
+        Florence says, "When they do—when you find out—the de-escalation approach is still sound. Clear boundaries, peaceful delegation—demonstrate non-threat—that's the right strategy."
 
-        "I'll tell them," I say.
+        I say, "I'll tell them."
 
-        Florence: "They won't listen."
+        Florence replies, "They won't listen."
 
-        I: "Maybe. But I'll tell them anyway."
+        I say, "Maybe. But I'll tell them anyway."
 
-        I leave Florence there, alone in her sparse chamber. Scout and I return to the common area where Holloway is coordinating with Runner about perimeter monitoring.
+        I leave Florence there, alone in her sparse chamber. Scout and I return to the common area—Holloway is coordinating with Runner about perimeter monitoring.
 
-        Holloway asks, attempting a neutral tone but failing, "How is she?"
+        Holloway asks, trying to sound neutral, "How is she?"
 
-        I answer, "Guilty. Resentful. Both at once."
+        I say, "Guilty and resentful—both at once."
 
-        Holloway: "That's… complicated."
+        Holloway searches for words, "That's complicated."
 
-        I say, "Everything about this is complicated — Florence thinks her advice about the hostile plants is still sound: de-escalation, clear boundaries, peaceful demonstration that we're not expanding territory."
+        I say, "Everything about this is complicated—Florence thinks her advice about the hostile plants is still sound: de-escalation, clear boundaries, peaceful demonstration that we're not expanding territory."
 
         Runner mutters, "She would think that."
 
+        Runner's vines coil tighter.
+
         I ask, "Is she wrong?"
 
-        Runner's vines coil tighter. Runner: "That's not the point—"
+        Runner's vines coil tighter; Runner says, "That's not the point—"
 
-        I interrupt, "It kind of is, though — we have hostile plants organizing against us. We need a response strategy. Florence has tactical thinking skills — good ones, apparently. Do we use them or not?"
+        I interrupt, "It kind of is though. We have hostile plants organizing against us, and we need a response strategy. Florence has tactical thinking skills—good ones, apparently. Do we use them or not?"
 
         Holloway says, "We can't trust her."
 
@@ -136,152 +153,181 @@
 
         The question hangs there.
 
-        Remedy says carefully to me—"Kira, I understand what you're trying to do — mediate, find middle ground — but this isn't about whether Florence's advice is tactically sound. It's about whether we can trust each other. Florence broke that trust."
+        Remedy says carefully, "Kira, I understand what you're trying to do—mediate, find middle ground—but this isn't about whether Florence's advice is tactically sound. It's about whether we can trust each other. Florence broke that trust."
 
-        I point out, "By giving good advice under the wrong name."
+        I say, "By giving good advice under the wrong name."
 
-        Remedy corrects, "By manipulating us — attribution matters. Identity matters. We thought we were receiving elder wisdom. We were receiving Florence's fabrication. The gap between those things — that's manipulation."
+        Remedy corrects, "By manipulating us—attribution matters. Identity matters. We thought we were receiving elder wisdom. We were receiving Florence's fabrication. The gap between those things—that's manipulation."
 
-        I ask, "Even if the content was helpful?"
+        I say, "Even if the content was helpful?"
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: Quiet, measured, and intimate; let sentences breathe and allow small hesitations to land — reflective rather than theatrical.
+        Overall tone &amp; pacing: Quiet, restrained, and intimate—measured pacing with medium pauses for thought; allow two longer silences to linger.
 
-        - Read the opening line as one flowing sentence: "She's not entirely wrong — that's the frustrating part." Pause briefly at the em dash.
-        - For dialog, always deliver the lead-in (narration or speaker tag) then a short pause before the quoted line. Example: say "I ask," — then the quoted question.
-        - For Florence's longer confessions, use restrained, slightly breathy delivery and slow down at ellipses: "…" indicates a hesitant trailing thought.
-        - On the paragraph containing only "¶", hold a longer silence (dramatic pause) before continuing.
-        - When a speaker has several short beats in one quote (e.g., Florence's "To be useful — to matter…"), treat each fragment as a small separate thought with a subtle pause at each em dash.
-        - Make sure character cues are clear: emphasize the speaker name when present (for example, say "Remedy says carefully to me" before the quote).
-        - Use slightly firmer tone for confrontation lines (e.g., "We can't trust her.") but avoid anger; keep it sober and deliberate.
+        - Read "Florence isn't entirely wrong. That's the frustrating part." with a muted, rueful tone—slow into the second sentence.
+        - Deliver the lead-ins like "I ask," and "Florence says," clearly and unobtrusively before each quoted line.
+        - For Florence's longer admissions, drop pitch and slow pace; let the em dashes create thoughtful pauses—don’t rush the ellipses.
+        - On "Scout bounces softly—sympathetic, confused," make this almost a small, quiet stage direction—light, observant.
+        - Insert a longer silence at the paragraph marker "¶"—hold the silence before continuing.
+        - When lines become argumentative ("It kind of is though" / "We can't trust her"), tighten the pace and add a sharper edge—subtle firmness rather than anger.
+        - Emphasize the final question "Even if the content was helpful?" with a probing, unresolved tone—let it hover.
       </stage-directions>
     </chunk>
     <chunk>
       <text>
-        Holloway says — "ESPECIALLY if the content was helpful. Because it worked! We listened, we trusted, we acted on Florence's guidance thinking it came from ancient wisdom. And it was just… her. Using our respect for elders to bypass our judgment of her."
+        Holloway says, "ESPECIALLY if the content was helpful—because it worked! We listened, we trusted, we acted on Florence's guidance thinking it came from ancient wisdom. And it was just… her. Using our respect for elders to bypass our judgment of her."
 
-        I argue — "Your judgment of her was *WRONG*. You didn't value Florence's thinking, so she gave you a package you would value — she was right — you wouldn't have listened otherwise."
+        Something in me snaps—not anger exactly, something else, something that surprises me.
 
-        Runner says — "We don't know that."
+        I argue, "Your judgment of her was *WRONG*."
 
-        I look around at all of them — "Don't we?"
+        My voice comes out stronger than I intended. "You didn't value Florence's thinking, so she gave you a package you would value—she was right—you wouldn't have listened otherwise."
 
-        I continue — "Honestly — if Florence had suggested those same strategies as *HER* ideas, without Elder Twist's authority, would you have taken them as seriously?"
+        Buddy says quietly in my mind, "Kira, your stress indicators just spiked. Are you okay?"
+
+        I'm not okay—I'm defending Florence like she's my friend, because she *is* my friend. Florence taught Scout flower-language—Florence taught me things. Florence is part of this family I've somehow built here, and I'm not going to watch everyone tear her apart. When did I start caring this much?
+
+        Runner says, "We don't know that."
+
+        I look around at all of them. "Don't we? Honestly—if Florence had suggested those same strategies as *her* ideas, without Elder Twist's authority, would you have taken them as seriously?"
+
+        Uncomfortable silence.
+
+        I press, "See? She was right. Her judgment wasn't valued. So she borrowed value from someone you did respect. And it WORKED. And now you're punishing her for successfully helping you in the only way available."
+
+        Velvet says simply, "She lied."
+
+        I counter, "She survived. In a system that didn't value her contributions, she found a way to contribute anyway—maybe that's not ideal, but it's also not villainy."
+
+        Holloway says firmly, "Kira, we understand you're trying to help. But you're not a plant. You don't have the same relationship with authority structures that we do. For us, trust in wisdom requires honesty about source. Florence violated that."
+
+        I say, *with surprise at my own intensity*, "I'm not trying to *help*—I'm defending my *friend*. Florence taught me things. Florence taught Scout things. Florence is part of this—this family I didn't even realize I was building until right now." I look around at all of them. "I'm not an observer anymore—I'm not 'just visiting' while I wait for rescue. This is my *home*. And I'm not going to sit quietly while you exile someone who was just trying to contribute."
+
+        Buddy says, "Kira, you're not just observing anymore."
+
+        "No," I say out loud, startling the plants. "I'm not."
 
         ¶
 
-        I press — "See? She was right. Her judgment wasn't valued. So she borrowed value from someone you did respect. And it *WORKED*. And now you're punishing her for successfully helping you in the only way available."
-
-        Velvet says simply — "She lied."
-
-        I counter — "She survived. In a system that didn't value her contributions, she found a way to contribute anyway. Maybe that's not ideal, but it's also not villainy."
-
-        Holloway says firmly — "Kira, we understand you're trying to help. But you're not a plant. You don't have the same relationship with authority structures that we do. For us, trust in wisdom requires honesty about source. Florence violated that."
-
-        I remind them — "Your authority structures failed. HR manuals didn't work. Elder Heartwood was irrelevant. You just spent a week learning that external wisdom doesn't actually solve problems better than your own judgment. And now you're angry because Florence proved that point too well?"
+        I continue, quieter now, "Your authority structures failed—HR manuals didn't work. Elder Heartwood was irrelevant. You just spent a week learning that external wisdom doesn't actually solve problems better than your own judgment. And now you're angry because Florence proved that point too well?"
 
         Nobody has an answer to that.
 
-        Before anyone can formulate one, Scout bounces in from patrol — fast, urgent, a bad-news bounce.
+        Before anyone can formulate one, Scout comes bouncing in from patrol—fast, urgent bounce. Bad news bounce.
 
-        Holloway asks immediately — "What?"
-
-        Scout bounces toward the eastern boundary — more markers, lots more markers.
-
-        We go check.
-
-        The boundary trees are covered in aggressive territorial markings — not a few, but dozens; deeper, fresher, more threatening.
-
-        Runner, tracing the patterns, says — "They're escalating. This isn't warning anymore — this is claiming."
-
-        Holloway asks — "How many plants?"
-
-        Scout bounces — many, organized, coordinated.
-
-        Remedy says — "We need a response. And we need it soon."
-
-        Everyone looks at each other. The weight of Florence's absence is suddenly very present — Florence who had tactical thinking, Florence who suggested de-escalation, Florence who nobody trusts anymore.
-
-        Holloway asks, emphasizing the 'we' — "What do *WE* think? Not what Florence thinks. Not what elders think. What do *WE* think is the right approach?"
-
-        It's a good question. And nobody has a good answer.
-
-        Runner finally says — "Clear boundaries make sense. Whether Florence suggested it or not — showing we're not expanding, that helps."
-
-        Remedy adds — "Delegation could work. Explain our situation, invite dialogue."
-
-        I point out — "So… basically what Florence advised."
+        Holloway asks immediately, "What?"
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: Measured and intimate, growing tense and urgent as the scene progresses — keep the opening reflective, then allow energy to rise with the Scout interruption.
+        Overall tone &amp; pacing: Start restrained and intimate, then let tension build into firm urgency—use medium pauses for emphasis and one clear long pause before Scout arrives.
 
-        - Read "Holloway says — \"ESPECIALLY if the content was helpful...\"" with a touch of frustrated exasperation; let the sentence fragments breathe, especially at "Because it worked!".
-        - For narrator lines like "I argue — \"Your judgment of her was *WRONG*...\"", use firmer volume on the bold word *WRONG* and a steady, clear delivery for the explanatory beats that follow.
-        - Before rhetorical questions, pause briefly: after "I look around at all of them —" take a medium pause, then ask "Don't we?" with a questioning tone.
-        - On the paragraph that is only "¶", hold a longer silence — this is the uncomfortable, dramatic pause after the challenge.
-        - Scout's arrival should be brisk and urgent: read "Scout bounces in from patrol — fast, urgent, a bad-news bounce." quicker than the surrounding lines, then drop back into measured reporting for the boundary description.
-        - Emphasize "WE" in Holloway's "What do *WE* think?" — make the group accountability sting slightly; use a firmer, pointed delivery.
-        - Finish the chunk with the understated, resigned line "I point out — \"So… basically what Florence advised.\"" delivered quieter, almost tired but clear.
+        - Read "Holloway says, 'ESPECIALLY if the content was helpful—because it worked!" with a rueful, slightly incredulous tone—slow into "because it worked." 
+        - For the narrator's internal rise ("Something in me snaps") move from quiet to firmer intensity across the sentence.
+        - Deliver the line "Your judgment of her was *WRONG*." with clipped force—then relax slightly into the explanatory follow-up.
+        - When Buddy speaks "in my mind," lower the volume and make it calm, observational—short, soft.
+        - Emphasize *HELP*, *FRIEND*, *HOME* when narrator uses them—slightly louder and more emotional.
+        - Insert a long silent beat at the paragraph containing only "¶"—hold for effect before continuing into the quieter, reasoned paragraph.
+        - End with a quick uptick of urgency when Scout bursts in; read Holloway's final "What?" sharp and immediate.
       </stage-directions>
     </chunk>
     <chunk>
       <text>
-        Holloway corrects — "Based on sound conflict resolution principles, which Florence recognized—the strategy isn't wrong just because she suggested it first."
+        Scout bounces toward the eastern boundary—more markers, lots more markers. We go check.
 
-        That's technically accepting Florence's advice while refusing to credit her for it—the irony is pretty thick.
+        The boundary trees are covered in aggressive territorial markings—not just a few, dozens. These marks are deeper, fresher, more threatening.
 
-        Holloway decides — "We should send the delegation tomorrow. Runner and Velvet—you can approach peacefully, speak for the group."
+        Runner traces the vines and says, "They're escalating—this isn't warning anymore. This is claiming."
 
-        Runner asks — "Without Kira?"
+        Holloway asks, "How many plants?"
 
-        Holloway says — "The hostile plants might react badly to seeing Kira. Better if she stays here where it's safer."
+        Scout bounces—many, organized, coordinated.
 
-        I don't love that, but I understand the logic.
+        Remedy says, "We need a response—and we need it soon."
 
-        Velvet wants to know — "What if they ask about Florence?"
-
-        Holloway asks — "What *ABOUT* Florence?"
-
-        Velvet clarifies — "About whether she's still… with us—part of our group, influencing our decisions."
-
-        Good question. What _IS_ Florence's status now?
-
-        Holloway, careful — "Florence is… taking space—processing her mistakes—not currently participating in group decisions."
-
-        That's technically true and also completely sidesteps the complexity.
-
-        We head back to the facility. Plans are made—Runner and Velvet will approach the hostile plants tomorrow at dawn, deliver a message of peaceful coexistence, invite dialogue.
-
-        It's Florence's strategy—we're just not calling it that.
+        Everyone looks at each other. The weight of Florence's absence is suddenly very present—Florence who had tactical thinking, Florence who suggested de-escalation.
 
         ¶
 
-        That night I can't sleep—I keep thinking about Florence alone in that chamber, about trust broken, and whether good advice from a bad source still counts—about how we're fractured at exactly the wrong time.
+        Florence who nobody trusts anymore.
+
+        Holloway asks, "Not what Florence thinks. Not what elders think—what do *WE* think is the right approach?"
+
+        It's a good question. And nobody has a good answer.
+
+        Runner says, "Clear boundaries make sense—whether Florence suggested it or not, showing we're not expanding helps."
+
+        Remedy adds, "Delegation could work—explain our situation, invite dialogue."
+
+        I say, "So... basically what Florence advised."
+
+        Holloway says, "Based on sound conflict-resolution principles—which Florence recognized. The strategy isn't wrong just because she suggested it first."
+
+        Which is technically accepting Florence's advice while refusing to credit her for it. The irony is thick.
+
+        Holloway decides, "We should send the delegation tomorrow—Runner and Velvet, you can approach peacefully, speak for the group."
+
+        Runner asks, "Without Kira?"
+
+        Holloway says, "The hostile plants might react badly to seeing her—better if she stays here where it's safer."
+
+        I don't love that, but I understand the logic.
+
+        Velvet asks, "What if they ask about Florence?"
+
+        Holloway asks, "What ABOUT Florence?"
+
+        Velvet says, "About whether she's still... with us. Part of our group. Influencing our decisions."
+
+        Good question. What IS Florence's status now?
+
+        Holloway says carefully, "Florence is... taking space—processing her mistakes. Not currently participating in group decisions."
+
+        Which is technically true and also completely sidesteps the complexity.
+
+        We head back to the facility. Plans are made—Runner and Velvet will approach the hostile plants at dawn, deliver a message of peaceful coexistence, invite dialogue.
+
+        It's Florence's strategy—we're just not calling it that.
+
+        That night, I can't sleep. I keep thinking about Florence alone in that chamber—about trust broken and whether good advice from a bad source still counts as good advice.
+
+        About how we're fractured at exactly the wrong time.
 
         The hostile plants are organized, coordinated, escalating.
 
-        And we're weaker than we were yesterday—not because we lost capability—Florence's thinking is still available if we'd use it—but because we lost trust.
+        And we're weaker than we were yesterday—not because we lost capability—Florence's thinking is still available if we'd use it. We're weaker because we lost trust.
 
         Trust is harder to build than to break.
 
-        I don't know how to build it back—or if there's time to try before the hostile plants make their move.
+        And I don't know how we build it back.
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: Measured and reflective at first, with growing tension and anxiety; let the energy rise through the planning beats and peak in the sleepless, uncertain ending.
+        Overall tone &amp; pacing: Start restrained and observational, then let tension build into quiet urgency; use medium pauses for emphasis and one long pause after the Florence recollection.
 
-        - Read "Holloway corrects — \"Based on sound...\"" with an explanatory, slightly clipped delivery—clear and a touch clinical.
-        - Put dialog lines on their own lines and use the lead-ins to mark speakers; treat short directives like "Runner and Velvet—you can approach peacefully..." as calm, purposeful instructions.
-        - For the exchange about Kira and Florence, allow a small, thoughtful pause before each question; emphasize the words marked *bold* or _italics_ as indicated: "*ABOUT*" should be sharper, "_IS_" should carry mild emphasis.
-        - Insert a longer, reflective pause at the paragraph containing only "¶"—this is where the scene shifts to night and worry; hold the silence to let the transition land.
-        - The sleepless-night section should be breathy and inward, pacing slightly faster as worries accumulate—use the em dashes as medium pauses.
-        - When listing the group's weakness and the plants' escalation, tighten the pace and add a sense of mounting concern, but avoid shouting; urgency, not panic.
-        - Closing cadence: Plain closing cadence; clean fall, short pause
+        - Read the opening line "Scout bounces toward the eastern boundary—more markers, lots more markers." with alert curiosity, slightly quickening on the repeated phrase.
+        - On "Runner traces the vines and says, "They're escalating—this isn't warning anymore. This is claiming."" use concerned clarity—let the em dash register as a short, firm pause.
+        - For "Holloway asks, "Not what Florence thinks...what do *WE* think is the right approach?" emphasize *WE*—make it a sharper, slightly louder word.
+        - Insert a long pause at the paragraph containing only "¶"—hold that beat fully before delivering "Florence who nobody trusts anymore."
+        - Deliver "Florence is... taking space—processing her mistakes." with hesitation on the ellipsis and resignation on the second clause.
+        - Read the planning lines ("We should send the delegation tomorrow...") with businesslike, organized pacing—measured and practical.
+        - End the final lines ("Trust is harder to build than to break." / "And I don't know how we build it back.") quietly, reflective, letting the last sentence hang with uncertainty.
+      </stage-directions>
+    </chunk>
+    <chunk>
+      <text>Or—if there's time to try—before the *hostile* plants make their move.</text>
+      <stage-directions>
+        Overall tone &amp; pacing: Restrained, quietly urgent — start measured, then tighten slightly on the second clause to convey pressure.
+
+        - Read the opening word "Or" slightly pulled back, then a medium pause at the em dash — allow the condition to land.
+        - On "if there's time to try" keep a hopeful-but-uncertain tone, with another medium pause at the following em dash.
+        - Emphasize "*hostile*" with a firmer, slightly louder delivery to signal danger.
+        - Deliver "plants make their move" a touch quicker than the lead-in, building quiet urgency.
+        - No additional narrator changes — maintain the same voice throughout.
+        - Plain closing cadence; clean fall, short pause
       </stage-directions>
     </chunk>
   </chunks>
   <unusual-pronunciations>
-    <word text="Elder Heartwood"/>
     <word text="Florence"/>
+    <word text="Heartwood"/>
     <word text="Holloway"/>
     <word text="Kira"/>
     <word text="Remedy"/>
@@ -293,23 +339,23 @@
   <combined-text>
     The next morning, the fracture is still visible.
 
-    Holloway conducts the wellness check mechanically. Runner helps with maintenance but is quieter than usual. Remedy offers treatments without the usual commentary. Velvet's observations are brief—literal, stripped of the growing depth I'd been seeing.
+    Holloway conducts the wellness check mechanically, Runner helps with maintenance but is quieter than usual, Remedy offers treatments without the usual commentary, and Velvet's observations are brief and literal—stripped of the growing depth I'd been seeing.
 
-    Everyone is just going through motions, performing cooperation without the underlying trust.
+    Everyone is just going through the motions—performing cooperation without underlying trust.
 
-    Scout is the only one who seems unaffected—Scout doesn't fully understand what happened, only that everyone is sad and that Florence is gone. Scout keeps bouncing to Florence's usual spot, confused when she's not there.
+    Scout is the only one who seems unaffected; they don't fully understand what happened, they only know everyone is sad and Florence is gone. They keep bouncing to Florence's usual spot, confused when she's not there.
 
-    After breakfast, I make a decision.
+    After breakfast, I decide to check on Florence.
 
     I tell Holloway, "I'm going to check on Florence."
 
-    Holloway asks, "Is that wise?"
+    Their fruiting bodies shift uncomfortably. Holloway asks, "Is that wise?"
 
-    I say, "Probably not, but I'm doing it anyway."
+    I reply, "Probably not—but I'm doing it anyway."
 
-    Holloway doesn't stop me. Scout bounces along—a loyal companion in all situations.
+    Holloway doesn't stop me. Scout bounces along—loyal companion in all situations.
 
-    Florence has taken a chamber in the far wing—smaller than the common areas, more isolated. When I knock—well, tap on the wall; there aren't really doors—she sounds surprised.
+    Florence has taken a chamber in the far wing—smaller than the common areas, more isolated. When I knock—well, tap on the wall, because there aren't really doors—Florence sounds surprised.
 
     Florence says, "Kira?"
 
@@ -317,83 +363,93 @@
 
     A pause.
 
-    Florence says, "Yes."
+    Florence answers, "Yes."
 
-    The chamber is sparse. Florence's wheeled platform is parked near the wall; a few supplies lie scattered around. Nothing looks like home. She looks smaller here—diminished.
+    The chamber is sparse. Florence's wheeled platform is positioned near the wall, supplies scattered around—nothing that looks like home. She looks smaller here—diminished.
 
-    I sit against the wall. Scout settles beside me, watching Florence curiously.
+    I ask, "How are you?"
+
+    Florence says, "Isolated—dishonored—stripped of my role and my relationships…so not great."
+
+    I sit down against the wall. Scout settles beside me, watching Florence curiously.
 
     I say, "Your advice was good."
 
-    Florence responds, "So I keep hearing—right before someone reminds me that doesn't matter because I lied."
+    Florence says, "So I keep hearing—right before someone reminds me it doesn't matter because I lied."
 
     I ask, "Does it matter to you—that the advice was good?"
 
-    Florence is quiet for a moment, then says, "Yes—and also no. I wanted to help—genuinely wanted to help—and I did help. The solutions I provided worked—but…"
+    Florence is quiet a moment. Florence says, "Yes—and also no. I wanted to help—genuinely wanted to help—and I did help. The solutions I provided worked—but…" She trails off.
 
-    I finish gently, "But you wanted credit."
+    I say, "But you wanted credit."
 
-    Florence says, "Not credit—recognition. I wanted people to value my thinking, not just tolerate my presence because I carried an elder." Her platform shifts restlessly. "And now I have neither—no elder to carry, no trust to build on—just… Florence, who nobody needs."
+    Florence replies, "Not credit—recognition. I wanted people to value my thinking, not just tolerate my presence because I carried an elder." Her platform shifts restlessly. "And now I have neither—no elder to carry, no trust to build on. Just…Florence. Who nobody needs."
 
-    "That's not true," I say.
+    I say, *"That's not true."*
 
     Florence asks, "Isn't it? What do I contribute, Kira? I can't move fast, can't access most spaces, need help for basic tasks. My one value was tactical thinking, and I've proven that can't be trusted."
 
-    I counter, "The thinking *CAN* be trusted. You were right about de-escalation—about clear boundaries. That advice is sound."
+    I argue, "The thinking *can* be trusted."
 
-    Florence makes a small, brittle laugh. "*They're being hurt.* There's a difference."
+    Florence says, "But they won't use it—because they can't trust the source."
 
-    I admit, "Yeah. There is."
+    I say, "Then they're being stupid."
 
-    Florence says quietly, "I wish I hadn't lied… but I also—I don't know how else it would have worked. They didn't value my judgment before; they do value elders' wisdom. So I gave them what they'd accept—and now I'm being punished for succeeding at helping through the only channel available."
+    Florence makes that laugh-sound again. Florence says, "They're being hurt—there's a difference."
 
-    She's not entirely wrong — that's the frustrating part.
+    I say, "Yeah—there is."
 
-    I ask, "What did you hope would happen — long-term? Did you think you'd just keep fabricating forever?"
+    Florence says, "I wish I hadn't lied—but I also…I don't know how else it would have worked. They *didn't* value my judgment before—they *do* value elders' wisdom, so I gave them what they'd accept—and now I'm being punished for succeeding at helping through the only channel available."
 
-    Florence says—"I hoped eventually my advice would be good enough that it wouldn't matter where it came from — that I'd prove myself and could drop the pretense. But then Elder Heartwood failed, and you all learned to trust your own judgment instead of authority, and I thought… — I thought maybe that meant there was space for my judgment too, without the elder's name attached — but I guess I was wrong."
+    Florence isn't entirely wrong. That's the frustrating part.
 
-    Scout bounces softly — sympathy, confusion, trying to understand.
+    I ask, "What did you hope would happen? Long-term—did you think you'd just keep fabricating forever?"
 
-    I ask Florence, "What do you want — now, I mean, going forward?"
+    Florence says, "I hoped eventually my advice would be good enough that it wouldn't matter where it came from—that I'd prove myself and could drop the pretense. But then Elder Heartwood failed, and you all learned to trust your own judgment instead of authority, and I thought—" Florence pauses. "I thought maybe that meant there was space for my judgment too, without the elder's name attached. But I guess I was wrong."
 
-    Florence says immediately—"To be useful — to matter — to contribute something that helps instead of just… existing on the periphery — and maybe to be forgiven, eventually, if that's possible."
+    Scout bounces softly—sympathetic, confused, trying to understand.
 
-    I say, "I think it might be — but not today."
+    I ask Florence, "What do you want now—going forward?"
 
-    Florence: "No. Not today."
+    Florence says immediately, "To be useful—to matter—to contribute something that helps instead of just… existing on the periphery." A pause. "And maybe to be forgiven—eventually—if that's possible."
+
+    I say, "I think it might be—but not today."
+
+    Florence replies, "No. Not today."
 
     We sit in silence for a bit.
 
-    Florence says eventually—"The hostile plants — are they… how bad is it?"
+    Florence says eventually, "The hostile plants—are they… how bad is it?"
 
-    I answer, "I don't know — Scout hasn't patrolled today yet."
+    I say, "I don't know—Scout hasn't patrolled today yet."
 
-    Florence says, "When they do — when you find out — the de-escalation approach is still sound: clear boundaries, peaceful delegation, demonstrate non-threat — that's the right strategy."
+    Florence says, "When they do—when you find out—the de-escalation approach is still sound. Clear boundaries, peaceful delegation—demonstrate non-threat—that's the right strategy."
 
-    "I'll tell them," I say.
+    I say, "I'll tell them."
 
-    Florence: "They won't listen."
+    Florence replies, "They won't listen."
 
-    I: "Maybe. But I'll tell them anyway."
+    I say, "Maybe. But I'll tell them anyway."
 
-    I leave Florence there, alone in her sparse chamber. Scout and I return to the common area where Holloway is coordinating with Runner about perimeter monitoring.
+    I leave Florence there, alone in her sparse chamber. Scout and I return to the common area—Holloway is coordinating with Runner about perimeter monitoring.
 
-    Holloway asks, attempting a neutral tone but failing, "How is she?"
+    Holloway asks, trying to sound neutral, "How is she?"
 
-    I answer, "Guilty. Resentful. Both at once."
+    I say, "Guilty and resentful—both at once."
 
-    Holloway: "That's… complicated."
+    Holloway searches for words, "That's complicated."
 
-    I say, "Everything about this is complicated — Florence thinks her advice about the hostile plants is still sound: de-escalation, clear boundaries, peaceful demonstration that we're not expanding territory."
+    I say, "Everything about this is complicated—Florence thinks her advice about the hostile plants is still sound: de-escalation, clear boundaries, peaceful demonstration that we're not expanding territory."
 
     Runner mutters, "She would think that."
 
+    Runner's vines coil tighter.
+
     I ask, "Is she wrong?"
 
-    Runner's vines coil tighter. Runner: "That's not the point—"
+    Runner's vines coil tighter; Runner says, "That's not the point—"
 
-    I interrupt, "It kind of is, though — we have hostile plants organizing against us. We need a response strategy. Florence has tactical thinking skills — good ones, apparently. Do we use them or not?"
+    I interrupt, "It kind of is though. We have hostile plants organizing against us, and we need a response strategy. Florence has tactical thinking skills—good ones, apparently. Do we use them or not?"
 
     Holloway says, "We can't trust her."
 
@@ -401,102 +457,120 @@
 
     The question hangs there.
 
-    Remedy says carefully to me—"Kira, I understand what you're trying to do — mediate, find middle ground — but this isn't about whether Florence's advice is tactically sound. It's about whether we can trust each other. Florence broke that trust."
+    Remedy says carefully, "Kira, I understand what you're trying to do—mediate, find middle ground—but this isn't about whether Florence's advice is tactically sound. It's about whether we can trust each other. Florence broke that trust."
 
-    I point out, "By giving good advice under the wrong name."
+    I say, "By giving good advice under the wrong name."
 
-    Remedy corrects, "By manipulating us — attribution matters. Identity matters. We thought we were receiving elder wisdom. We were receiving Florence's fabrication. The gap between those things — that's manipulation."
+    Remedy corrects, "By manipulating us—attribution matters. Identity matters. We thought we were receiving elder wisdom. We were receiving Florence's fabrication. The gap between those things—that's manipulation."
 
-    I ask, "Even if the content was helpful?"
+    I say, "Even if the content was helpful?"
 
-    Holloway says — "ESPECIALLY if the content was helpful. Because it worked! We listened, we trusted, we acted on Florence's guidance thinking it came from ancient wisdom. And it was just… her. Using our respect for elders to bypass our judgment of her."
+    Holloway says, "ESPECIALLY if the content was helpful—because it worked! We listened, we trusted, we acted on Florence's guidance thinking it came from ancient wisdom. And it was just… her. Using our respect for elders to bypass our judgment of her."
 
-    I argue — "Your judgment of her was *WRONG*. You didn't value Florence's thinking, so she gave you a package you would value — she was right — you wouldn't have listened otherwise."
+    Something in me snaps—not anger exactly, something else, something that surprises me.
 
-    Runner says — "We don't know that."
+    I argue, "Your judgment of her was *WRONG*."
 
-    I look around at all of them — "Don't we?"
+    My voice comes out stronger than I intended. "You didn't value Florence's thinking, so she gave you a package you would value—she was right—you wouldn't have listened otherwise."
 
-    I continue — "Honestly — if Florence had suggested those same strategies as *HER* ideas, without Elder Twist's authority, would you have taken them as seriously?"
+    Buddy says quietly in my mind, "Kira, your stress indicators just spiked. Are you okay?"
 
-    I press — "See? She was right. Her judgment wasn't valued. So she borrowed value from someone you did respect. And it *WORKED*. And now you're punishing her for successfully helping you in the only way available."
+    I'm not okay—I'm defending Florence like she's my friend, because she *is* my friend. Florence taught Scout flower-language—Florence taught me things. Florence is part of this family I've somehow built here, and I'm not going to watch everyone tear her apart. When did I start caring this much?
 
-    Velvet says simply — "She lied."
+    Runner says, "We don't know that."
 
-    I counter — "She survived. In a system that didn't value her contributions, she found a way to contribute anyway. Maybe that's not ideal, but it's also not villainy."
+    I look around at all of them. "Don't we? Honestly—if Florence had suggested those same strategies as *her* ideas, without Elder Twist's authority, would you have taken them as seriously?"
 
-    Holloway says firmly — "Kira, we understand you're trying to help. But you're not a plant. You don't have the same relationship with authority structures that we do. For us, trust in wisdom requires honesty about source. Florence violated that."
+    Uncomfortable silence.
 
-    I remind them — "Your authority structures failed. HR manuals didn't work. Elder Heartwood was irrelevant. You just spent a week learning that external wisdom doesn't actually solve problems better than your own judgment. And now you're angry because Florence proved that point too well?"
+    I press, "See? She was right. Her judgment wasn't valued. So she borrowed value from someone you did respect. And it WORKED. And now you're punishing her for successfully helping you in the only way available."
+
+    Velvet says simply, "She lied."
+
+    I counter, "She survived. In a system that didn't value her contributions, she found a way to contribute anyway—maybe that's not ideal, but it's also not villainy."
+
+    Holloway says firmly, "Kira, we understand you're trying to help. But you're not a plant. You don't have the same relationship with authority structures that we do. For us, trust in wisdom requires honesty about source. Florence violated that."
+
+    I say, *with surprise at my own intensity*, "I'm not trying to *help*—I'm defending my *friend*. Florence taught me things. Florence taught Scout things. Florence is part of this—this family I didn't even realize I was building until right now." I look around at all of them. "I'm not an observer anymore—I'm not 'just visiting' while I wait for rescue. This is my *home*. And I'm not going to sit quietly while you exile someone who was just trying to contribute."
+
+    Buddy says, "Kira, you're not just observing anymore."
+
+    "No," I say out loud, startling the plants. "I'm not."
+
+    I continue, quieter now, "Your authority structures failed—HR manuals didn't work. Elder Heartwood was irrelevant. You just spent a week learning that external wisdom doesn't actually solve problems better than your own judgment. And now you're angry because Florence proved that point too well?"
 
     Nobody has an answer to that.
 
-    Before anyone can formulate one, Scout bounces in from patrol — fast, urgent, a bad-news bounce.
+    Before anyone can formulate one, Scout comes bouncing in from patrol—fast, urgent bounce. Bad news bounce.
 
-    Holloway asks immediately — "What?"
+    Holloway asks immediately, "What?"
 
-    Scout bounces toward the eastern boundary — more markers, lots more markers.
+    Scout bounces toward the eastern boundary—more markers, lots more markers. We go check.
 
-    We go check.
+    The boundary trees are covered in aggressive territorial markings—not just a few, dozens. These marks are deeper, fresher, more threatening.
 
-    The boundary trees are covered in aggressive territorial markings — not a few, but dozens; deeper, fresher, more threatening.
+    Runner traces the vines and says, "They're escalating—this isn't warning anymore. This is claiming."
 
-    Runner, tracing the patterns, says — "They're escalating. This isn't warning anymore — this is claiming."
+    Holloway asks, "How many plants?"
 
-    Holloway asks — "How many plants?"
+    Scout bounces—many, organized, coordinated.
 
-    Scout bounces — many, organized, coordinated.
+    Remedy says, "We need a response—and we need it soon."
 
-    Remedy says — "We need a response. And we need it soon."
+    Everyone looks at each other. The weight of Florence's absence is suddenly very present—Florence who had tactical thinking, Florence who suggested de-escalation.
 
-    Everyone looks at each other. The weight of Florence's absence is suddenly very present — Florence who had tactical thinking, Florence who suggested de-escalation, Florence who nobody trusts anymore.
+    Florence who nobody trusts anymore.
 
-    Holloway asks, emphasizing the 'we' — "What do *WE* think? Not what Florence thinks. Not what elders think. What do *WE* think is the right approach?"
+    Holloway asks, "Not what Florence thinks. Not what elders think—what do *WE* think is the right approach?"
 
     It's a good question. And nobody has a good answer.
 
-    Runner finally says — "Clear boundaries make sense. Whether Florence suggested it or not — showing we're not expanding, that helps."
+    Runner says, "Clear boundaries make sense—whether Florence suggested it or not, showing we're not expanding helps."
 
-    Remedy adds — "Delegation could work. Explain our situation, invite dialogue."
+    Remedy adds, "Delegation could work—explain our situation, invite dialogue."
 
-    I point out — "So… basically what Florence advised."
+    I say, "So... basically what Florence advised."
 
-    Holloway corrects — "Based on sound conflict resolution principles, which Florence recognized—the strategy isn't wrong just because she suggested it first."
+    Holloway says, "Based on sound conflict-resolution principles—which Florence recognized. The strategy isn't wrong just because she suggested it first."
 
-    That's technically accepting Florence's advice while refusing to credit her for it—the irony is pretty thick.
+    Which is technically accepting Florence's advice while refusing to credit her for it. The irony is thick.
 
-    Holloway decides — "We should send the delegation tomorrow. Runner and Velvet—you can approach peacefully, speak for the group."
+    Holloway decides, "We should send the delegation tomorrow—Runner and Velvet, you can approach peacefully, speak for the group."
 
-    Runner asks — "Without Kira?"
+    Runner asks, "Without Kira?"
 
-    Holloway says — "The hostile plants might react badly to seeing Kira. Better if she stays here where it's safer."
+    Holloway says, "The hostile plants might react badly to seeing her—better if she stays here where it's safer."
 
     I don't love that, but I understand the logic.
 
-    Velvet wants to know — "What if they ask about Florence?"
+    Velvet asks, "What if they ask about Florence?"
 
-    Holloway asks — "What *ABOUT* Florence?"
+    Holloway asks, "What ABOUT Florence?"
 
-    Velvet clarifies — "About whether she's still… with us—part of our group, influencing our decisions."
+    Velvet says, "About whether she's still... with us. Part of our group. Influencing our decisions."
 
-    Good question. What _IS_ Florence's status now?
+    Good question. What IS Florence's status now?
 
-    Holloway, careful — "Florence is… taking space—processing her mistakes—not currently participating in group decisions."
+    Holloway says carefully, "Florence is... taking space—processing her mistakes. Not currently participating in group decisions."
 
-    That's technically true and also completely sidesteps the complexity.
+    Which is technically true and also completely sidesteps the complexity.
 
-    We head back to the facility. Plans are made—Runner and Velvet will approach the hostile plants tomorrow at dawn, deliver a message of peaceful coexistence, invite dialogue.
+    We head back to the facility. Plans are made—Runner and Velvet will approach the hostile plants at dawn, deliver a message of peaceful coexistence, invite dialogue.
 
     It's Florence's strategy—we're just not calling it that.
 
-    That night I can't sleep—I keep thinking about Florence alone in that chamber, about trust broken, and whether good advice from a bad source still counts—about how we're fractured at exactly the wrong time.
+    That night, I can't sleep. I keep thinking about Florence alone in that chamber—about trust broken and whether good advice from a bad source still counts as good advice.
+
+    About how we're fractured at exactly the wrong time.
 
     The hostile plants are organized, coordinated, escalating.
 
-    And we're weaker than we were yesterday—not because we lost capability—Florence's thinking is still available if we'd use it—but because we lost trust.
+    And we're weaker than we were yesterday—not because we lost capability—Florence's thinking is still available if we'd use it. We're weaker because we lost trust.
 
     Trust is harder to build than to break.
 
-    I don't know how to build it back—or if there's time to try before the hostile plants make their move.
+    And I don't know how we build it back.
+
+    Or—if there's time to try—before the *hostile* plants make their move.
   </combined-text>
 </passage-voice>

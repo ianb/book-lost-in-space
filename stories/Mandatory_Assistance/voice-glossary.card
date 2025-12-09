@@ -1,5 +1,5 @@
 <!-- Automatically generated, do not edit manually -->
-<voice-glossary version="1.1.0">
+<voice-glossary version="1.0.0">
   <characters>
     <name>Brightbloom</name>
     <name>Buddy</name>
@@ -19,6 +19,7 @@
   </characters>
   <locations>
     <name>Sector 7-Gamma-412 Planet</name>
+    <name>Uncharted with Maverick Stone</name>
   </locations>
   <words>
     <word text="ansible"/>
@@ -29,11 +30,13 @@
     <word text="Buddy"/>
     <word text="Central Coordination"/>
     <word text="chlorophyll"/>
+    <word text="Consensus Groves"/>
     <word text="Dr. Chen"/>
     <word text="Elder"/>
     <word text="Elder Heartwood"/>
     <word text="Elder Twist"/>
     <word text="F-T-L"/>
+    <word text="faster-than-light"/>
     <word text="Florence"/>
     <word text="FTL"/>
     <word text="fungal"/>
@@ -42,28 +45,38 @@
     <word text="Heartwood"/>
     <word text="Holloway"/>
     <word text="HR"/>
+    <word text="Jensen"/>
     <word text="Kepler"/>
     <word text="Kepler-288"/>
     <word text="Kira"/>
     <word text="Kira Voss"/>
+    <word text="Kit"/>
     <word text="Leafwhisper"/>
     <word text="Lian"/>
+    <word text="Mav"/>
+    <word text="Maverick Stone"/>
     <word text="Meridian"/>
     <word text="Mossmantle"/>
     <word text="mycelial"/>
+    <word text="mycelium"/>
     <word text="mycorrhizae"/>
     <word text="mycorrhizal"/>
     <word text="Oakshade"/>
     <word text="ocarina"/>
+    <word text="Oracle of Veris"/>
     <word text="Outer Reaches"/>
     <word text="pH"/>
     <word text="photosynthesis"/>
     <word text="Reaching"/>
+    <word text="Reaching (species)"/>
+    <word text="Reed"/>
     <word text="Remedy"/>
     <word text="Rootwalker"/>
     <word text="Runner"/>
+    <word text="Runner (species)"/>
     <word text="SAM"/>
     <word text="Scout"/>
+    <word text="Seven Valleys"/>
     <word text="sphere-type"/>
     <word text="Spiral-types"/>
     <word text="Streamwalker"/>
@@ -75,7 +88,11 @@
     <word text="Territory Three"/>
     <word text="Territory Two"/>
     <word text="Torres"/>
+    <word text="Uncharted"/>
+    <word text="Vega Station"/>
+    <word text="Velani"/>
     <word text="Velvet"/>
+    <word text="Veris"/>
     <word text="Voss"/>
   </words>
 </voice-glossary>

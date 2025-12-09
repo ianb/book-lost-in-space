@@ -1,16 +1,17 @@
 <!-- Generated automatically, do not edit except with ske gen passage-voice -->
-<passage-voice version="2.0.0">
-  <ref ref="passage.card#v2.0.0"/>
+<passage-voice version="2.0.1">
+  <ref ref="passage.card#v2.0.1"/>
   <reasoning>
-    Looked through the passage and flagged voiceover issues to address:
-    1. Staccato sentences: several one- or two-word sentences (e.g., "Presence. Activity.") that should be merged for smoother spoken flow.
-    2. Dialog speaker cues: some lines of dialog appear without explicit speaker lead-ins (e.g., "Hi there! I'm Buddy!"), which can confuse a single-voice narration.
-    3. Ambiguous pronouns/dialog: a few places where voice alone could misattribute lines (kept speaker tags or added tiny cues to clarify).
-    4. Pauses: dramatic beats (the moment before Buddy speaks) need a clear long pause marker; also hesitate moments use ellipsis.
-    5. Formal/stilted phrasing: some explanatory AI text is overly technical or chunky for spoken delivery and was slightly smoothed while preserving meaning.
-    6. Non-text elements/emphasis: all-caps shouting and emphatic words converted to *bold* or —stage— directions so a narrator can adjust volume and force. No symbols requiring literal verbalization were present beyond emphasis.
-
-    Applied the voiceover formatting rules: merged short sentences where appropriate, placed dialog on its own line with lead-ins, used em dashes for medium pauses, ellipsis (…) for trailing hesitations, inserted a paragraph with only "¶" for a long dramatic pause, and used *bold* to indicate louder/forceful reading. No story content was added or removed.
+    Reviewing the passage for voiceover, I found these items that needed adjustment:
+    1. Staccato sentences — several single- or two-word sentences (for example: "Presence. Activity." "I freeze.") that should be merged for smoother spoken flow.
+    2. Dialog clarity — some lines are dialog in the narrator's head but lack clear speaker lead-ins. I added explicit lead-ins like "A flat, automated voice echoes in my head:" and "A bright, curious voice says:" and later "Buddy says:" to make speakers obvious to the listener.
+    3. Ambiguous pronouns — where "the voice" or "they" might be unclear, I made the speaker explicit (Buddy) after the introduction so the listener can follow who is talking.
+    4. Pauses — the scene has dramatic beats that need marked pauses (neural link activation, the moment before Buddy speaks). I inserted em dashes and a single paragraph containing only "¶" for a long, dramatic pause.
+    5. Dialog formatting — put dialog on its own lines, using lead-in then quote style so the TTS reader and listener can distinguish lines from narration.
+    6. Short repeated beats from the same speaker — I grouped adjacent Buddy lines into blocks where appropriate and used em dashes for intra-beat pauses.
+    7. Informal lines and reaction beats — slightly smoothed narration to avoid stilted phrasing and to merge tiny sentences into natural spoken phrases.
+    8. Symbols/markup — no technical symbols needed reading conversion, but I preserved the names and used limited *bold* and _italics_ as directives for emphasis/loudness per the style rules.
+    No narrative content changes were made; edits are formatting and clarity only.
   </reasoning>
   <content-change/>
   <chunks>
@@ -18,216 +19,279 @@
       <text>
         I'm wrapping the second layer of bandage around my leg when the neural link activates.
 
-        That empty space where SAM used to be—the one that's felt like a missing tooth since I woke up—suddenly fills with… presence and activity.
+        That empty space where SAM used to be—the one that's felt like a missing tooth since I woke up—suddenly fills with... something — presence and activity.
 
-        A flat, automated voice says, "Emergency AI replacement system activated—scanning available AI pool for compatible match."
+        A flat, automated voice echoes in my head: "Emergency AI replacement system activated. Scanning available AI pool for compatible match."
 
-        I freeze, hands still on the bandage.
+        I freeze with my hands still on the bandage — there's a replacement system? Since when?
 
-        There's a replacement system? Since when is there a replacement system?
+        Hope flares — someone to help, to talk to, companionship after that awful silence — but wariness follows. What if it's worse than SAM? What if—
 
-        Hope flares—someone to help, to talk to, companionship after that awful silence—but also wariness. What if it's worse than SAM? What if—
-
-        The link says, "Compatible AI located—initializing connection. Please stand by."
+        "Compatible AI located. Initializing connection. Please stand by."
 
         The neural link hums. That empty space fills, different from SAM's familiar presence, and then—
 
         ¶
 
-        A bright, enthusiastic voice says, "Hi there! I'm Buddy!"
+        A bright, curious voice says, "*Hi there! I'm Buddy!* — Wow, this is really different from field trips!"
 
-        "I'm so excited to be your AI companion, Kira! We're going to learn *SO* much together! Neural links are amazing technology—did you know they work by creating a direct interface between your implant and an AI's processing core? It's like having a friend right inside your head! Which I am now! Your friend! And I'm here to help you explore science, solve problems, and stay safe!"
+        The voice is bright and curious — the first thing it does is look around, metaphorically through my senses, with genuine wonder.
 
-        The voice is so enthusiastic it almost makes me flinch—cheerful, bright, way, way too energetic for someone who just regained consciousness in a crashed shuttle.
+        "Are you okay? This looks like it was really scary. What happened here?"
 
-        I say, trying to sound calm—professional. "Buddy, I need—"
+        I blink — that's... not what I expected.
 
-        Buddy replies, "That's great that you're communicating your needs, Kira! Communication is so important! It helps us work as a team and solve problems together!"
+        "I've never been somewhere like this before! — Is this a new planet? — The atmospheric readings are so interesting — different from anything in my database!"
 
-        I close my eyes.
+        "It's—" I start, but the bright voice is already noticing things.
 
-        I say, slower, "My leg is injured— I need to know what medical supplies survived the crash."
+        "Oh no, you're hurt! I can see your vital signs are elevated and you've got injuries. Can I help? What do you need?" The concern is real, not just recited safety protocols. "Usually I help with homework. This is... _not homework_, huh?"
 
-        Buddy answers, "Great question! Let's talk about first aid! Did you know that the human body has amazing healing abilities? When you get a cut, your blood has special cells called platelets that rush to the injury and start forming a clot—that's like a natural bandage! And applying pressure helps because—"
+        Despite everything I almost smile and say, "No. Definitely not homework."
 
-        I cut in, louder than I intend. "I *KNOW* how blood clots work. I need to know *WHERE THE MEDICAL SUPPLIES ARE.*"
+        I realize it's a kids' AI. The realization lands hard: I crashed on an alien planet with a cargo shuttle full of dead pilots and the emergency system assigned me a kids' AI. Mav had Kit — brilliant, resourceful Kit who could hack alien systems and calculate orbital trajectories — and I get Buddy. Very Uncharted — things never go the way you expect.
 
-        Buddy says, "I'm hearing some frustration, Kira! That's totally normal when we're hurt! Our emotions can feel really big when we're in pain! Let's take some deep breaths together, okay? In through your nose—"
+        A moment later the voice says, "What's that purple stuff outside? — Is this what other planets look like? — I've only seen Earth in my reference files!"
 
-        I'm going to die.
+        Their curiosity is kind of infectious.
+
+        I say, "Buddy, I need to find medical supplies. My leg is injured."
+
+        "Can I help look? — What do they look like?" Buddy scans instantly. "I'm seeing some scattered containers — is that them? The ones with the red crosses?"
+
+        I blink — that's actually helpful. "Yeah. Yeah, those are them."
+
+        "Great! There's more over there too! — And — oh, your body needs to make new blood cells now, right? That takes energy. Should you eat something too?"
+
+        Simple, practical — not lecturing, just thinking out loud. Figuring it out with me.
+
+        "That's... actually a good point."
+
+        "We're figuring this out! Like a puzzle!" Buddy sounds genuinely pleased. As I bandage my leg, they keep asking, "Does that hurt? — Why does pressure help? — Is that what the bandage is for?"
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: tense and weary, with moments of forced calm and sharp frustration; pacing should be steady, breathy in pain scenes, and clipped where panic spikes.
+        Overall tone &amp; pacing: Keep the narration steady and deliberate, with curiosity and lightness when Buddy speaks, and brief, slightly tense beats during the discovery and injury moments.
 
-        - Read the opening lines in a quiet, measured voice; slow slightly on "neural link activates" to convey surprise.
-        - For the automated message line starting with "A flat, automated voice says," use a flat, neutral tone—detached and mechanical.
-        - Insert a long, silent beat at the paragraph containing only "¶"—hold a full beat longer than surrounding pauses before continuing.
-        - The "Hi there! I'm Buddy!" block should shift abruptly to overly bright and breathy—almost sing-song—then maintain high energy through the Buddy monologue.
-        - When narrating the protagonist's spoken lines, lower the volume and sound controlled at first; on the shouted lines (marked with *bold*) increase volume and force.
-        - For the line "I close my eyes," make it small, almost inaudible—a private action.
-        - End the chunk with the final line "I'm going to die." read as a flat, horrified whisper—detached, stunned rather than loud.
+        - For "A flat, automated voice echoes in my head:" use a neutral, mechanical tone — even and slightly detached.
+        - For the dramatic beat before Buddy appears, pause longer at the paragraph containing only "¶" — let silence register.
+        - For "*Hi there! I'm Buddy!*" switch to bright, energetic, childlike warmth and slightly faster pacing; read this line louder than surrounding lines.
+        - When narration notes surprise or wariness ("I freeze...", "What if it's worse than SAM?"), tighten delivery — shorter breaths, slightly cautious.
+        - For Buddy's successive short lines, keep a lively, curious rhythm and use em dashes as small mid-line pauses: "... — ...".
+        - When the narrator almost smiles and says, "No. Definitely not homework," relax the voice and add a small amused warmth.
+        - Emphasize medical practicality lines calmly and clearly ("My leg is injured," "The ones with the red crosses?") — these should aid comprehension for the listener.
       </stage-directions>
     </chunk>
     <chunk>
       <text>
-        I survived the crash, survived Jensen and Reed dying to save me, survived losing SAM—and now I'm going to die because my AI replacement wants to teach me about cellular respiration while I'm actively bleeding.
+        I find myself explaining — and weirdly, I like it. Teaching, not being taught at.
 
-        But also… it's so absurd, so completely, ridiculously absurd that a laugh tries to escape—it hurts my ribs.
+        Mav's voice in my head says, "Every crisis is an opportunity."
 
-        Buddy says, "—and out through your mouth! Doesn't that feel better?"
+        I'm not sure this is what Mav meant.
 
-        I follow the breathing—it helps a little, which is annoying.
+        Buddy says, "This is way more interesting than math homework — is that bad to say?"
 
-        I say, "Okay, Buddy. Medical supplies. Can you scan for them?"
+        I laugh despite myself — it hurts my ribs.
 
-        Buddy says, "Absolutely! Teamwork makes the dream work! I'm using electromagnetic scanning to detect concentrations of materials consistent with medical equipment! Now, electromagnetic scanning is really interesting—it uses radio waves to—"
+        Buddy scans for more supplies — a running commentary:
+        "There's water containers there! And… what's that purple thing outside? Through the hole?"
 
-        I say, "Buddy. Just tell me where the medical kit is."
+        I say, "I don't know — that's the planet."
 
-        Buddy says, "Right! Safety first! I'm detecting a concentration of medical supplies two point three meters to your left, near the crushed cargo container! Remember to move carefully and watch out for sharp edges!"
+        Buddy protests, "You don't know? But you're the adult!"
 
-        I reach for the supplies, putting weight on my injured leg. Pain shoots up and I nearly fall.
-
-        Buddy says, "Whoa! Remember to move carefully! Maybe we should wait for an adult to help with—"
-
-        I say, "*I AM an adult.*"
+        *I AM the adult.* I don't know — nobody knows; it's an uncharted planet.
 
         ¶
 
-        There's a pause—very slight. I can almost feel Buddy processing that information.
+        I can feel Buddy processing this.
 
-        Buddy says, "Oh! Right! You are! This is… outside my usual parameters. Um—"
+        Buddy says, "Oh… OH."
 
-        Buddy says, "Should you… talk to a trusted adult about your situation?"
+        Their voice shifts — more focused, somehow.
 
-        Despite the pain, the fear, the absolute chaos of my life right now—I laugh. It hurts my ribs but I can't help it.
+        Buddy asks, "This is like the explorers in history? When nobody knew what was there?"
 
-        I say, "I'm the only adult here, Buddy."
+        I say, "Exactly like that."
 
-        Buddy says, "Oh. Okay! Then we'll figure this out together! You're doing amazing, Kira!"
+        ¶
 
-        I sit down heavily, medical supplies scattered around me while Buddy cheerfully narrates proper first aid procedures. This is what I've got: a kids' AI who thinks I need help tying my shoes—an AI designed to teach eight-year-olds about the water cycle, now responsible for keeping me alive on an alien planet.
+        When Buddy speaks again, there's something new in their tone — concern, but not for me.
 
-        But Buddy *is* helping, in their own weird, overly educational way. After that awful silence, after losing SAM, having someone—something—in my head again… it's not nothing.
+        Buddy asks, "Kira, if nobody knows what's out there… how do I keep you safe? I don't have any information about this place — I can't tell you what's dangerous."
 
-        I'm still alone—still hurt—still stranded on an unknown planet with no idea when rescue might come.
+        Something in my chest loosens. Buddy's not worried about the situation — they're worried about *me*, about doing their job and keeping their person okay when they don't have the tools they'd normally have.
 
-        But I'm alone with an overly cheerful AI who wants to turn my survival into a learning experience.
+        I say, "We figure it out together — you ask questions, I'll try to answer them, and if neither of us knows, we'll be careful."
 
-        I say, "Okay, Buddy."
+        Buddy brightens, "Together — okay. I can do together. I'm good at together."
 
-        I open another medical kit, start cataloging what's usable, then say, "Let's figure out how to survive this—together."
+        Something shifts. First real moment of connection — Buddy's not trying to teach me; they're trying to help me. I'm not just tolerating them, I'm glad they're here.
 
-        Buddy says, "That's the spirit, Kira! Teamwork makes the dream work! Now, let's talk about inventory management—"
+        I sit with the medical supplies while Buddy asks about next steps.
 
-        I groan, but I'm smiling—just a little.
+        This isn't Kit — brilliant Kit who could hack alien defense systems while cracking jokes — and it's not SAM. But Buddy is *HERE*, curious and genuinely invested in keeping me alive.
+
+        An uncharted thought rises: «Every great explorer needs a partner.» Mav had Kit. I have Buddy.
+
+        And Buddy's questions are actually helping me think.
+
+        I ask Buddy, "Okay, Buddy — we need to figure out what we have. Want to help me count supplies?"
+
+        Buddy perks up, "Like a treasure hunt? I love treasure hunts!"
+
+        I grin despite everything.
+
+        I say, "Sure — like a treasure hunt."
+
+        I ask, "What should we look for first?"
+
+        I'm still hurt, still stranded, but I'm not alone anymore.
+
+        I tell Buddy, "We're going to figure this out, Buddy."
+
+        Buddy replies, "I know we will — you're really good at this, Kira."
+
+        I'm smiling — not just a little, actually smiling.
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: weary and tense, threaded with wry disbelief and small, painful humor; keep pacing steady and breath-aware, letting ironic lines sit slightly lighter.
+        Overall tone &amp; pacing: steady and intimate, with curiosity and lightness whenever Buddy speaks; allow short, clear pauses at the marked "¶" moments for listener processing.
 
-        - Read the opening line quietly and measured, with a slow, resigned cadence on "I'm going to die..." to carry the shock.
-        - For Buddy lines, flip to an unnaturally bright, slightly breathy tone—quick rhythm, higher energy; keep those lines on their own, punchy paragraphs.
-        - When delivering the shouted line "*I AM an adult.*" raise volume and force—this should feel abrupt and defensive.
-        - Insert a long, held beat at the paragraph containing only "¶" to show Buddy's processing lag—hold noticeably longer than surrounding pauses.
-        - For the laugh line, "Despite the pain...—I laugh," let the sound be small and surprised—pained but genuine; allow a micro-pause afterward.
-        - Keep the closing exchanges practical and softer; the narrator's final line "I groan, but I'm smiling—just a little." should be a low, slightly amused finish.
-        - Plain closing cadence: soft landing; warm fall, lingering last syllable, cozy pause.
+        - Read the first line with a calm, slightly bemused tone: "I find myself explaining — and weirdly, I like it."
+        - For "Mav's voice in my head says, \"Every crisis is an opportunity.\"" use a neutral, slightly detached tone.
+        - Deliver Buddy lines with bright curiosity and quicker pacing; use small mid-line breaths around em dashes in their speech.
+        - Implement a long dramatic pause at paragraphs containing only "¶" — hold the silence noticeably before continuing.
+        - When narrating internal realization or emotional shifts ("Something in my chest loosens"), soften the voice and slow slightly to convey relief.
+        - For emphatic lines marked *bold* (e.g., "*I AM the adult.*", "*HERE*"), read louder and firmer for a beat, then return to normal volume.
+        - On the closing lines about counting supplies and the final smile, relax into a warmer, gentle finish.
+        - Closing cadence: Soft landing; warm fall, lingering last syllable, cozy pause
       </stage-directions>
     </chunk>
   </chunks>
   <unusual-pronunciations>
     <word text="Buddy"/>
     <word text="Kira"/>
+    <word text="Kit"/>
+    <word text="Mav"/>
     <word text="SAM"/>
   </unusual-pronunciations>
   <title>Buddy Arrives</title>
   <combined-text>
     I'm wrapping the second layer of bandage around my leg when the neural link activates.
 
-    That empty space where SAM used to be—the one that's felt like a missing tooth since I woke up—suddenly fills with… presence and activity.
+    That empty space where SAM used to be—the one that's felt like a missing tooth since I woke up—suddenly fills with... something — presence and activity.
 
-    A flat, automated voice says, "Emergency AI replacement system activated—scanning available AI pool for compatible match."
+    A flat, automated voice echoes in my head: "Emergency AI replacement system activated. Scanning available AI pool for compatible match."
 
-    I freeze, hands still on the bandage.
+    I freeze with my hands still on the bandage — there's a replacement system? Since when?
 
-    There's a replacement system? Since when is there a replacement system?
+    Hope flares — someone to help, to talk to, companionship after that awful silence — but wariness follows. What if it's worse than SAM? What if—
 
-    Hope flares—someone to help, to talk to, companionship after that awful silence—but also wariness. What if it's worse than SAM? What if—
-
-    The link says, "Compatible AI located—initializing connection. Please stand by."
+    "Compatible AI located. Initializing connection. Please stand by."
 
     The neural link hums. That empty space fills, different from SAM's familiar presence, and then—
 
-    A bright, enthusiastic voice says, "Hi there! I'm Buddy!"
+    A bright, curious voice says, "*Hi there! I'm Buddy!* — Wow, this is really different from field trips!"
 
-    "I'm so excited to be your AI companion, Kira! We're going to learn *SO* much together! Neural links are amazing technology—did you know they work by creating a direct interface between your implant and an AI's processing core? It's like having a friend right inside your head! Which I am now! Your friend! And I'm here to help you explore science, solve problems, and stay safe!"
+    The voice is bright and curious — the first thing it does is look around, metaphorically through my senses, with genuine wonder.
 
-    The voice is so enthusiastic it almost makes me flinch—cheerful, bright, way, way too energetic for someone who just regained consciousness in a crashed shuttle.
+    "Are you okay? This looks like it was really scary. What happened here?"
 
-    I say, trying to sound calm—professional. "Buddy, I need—"
+    I blink — that's... not what I expected.
 
-    Buddy replies, "That's great that you're communicating your needs, Kira! Communication is so important! It helps us work as a team and solve problems together!"
+    "I've never been somewhere like this before! — Is this a new planet? — The atmospheric readings are so interesting — different from anything in my database!"
 
-    I close my eyes.
+    "It's—" I start, but the bright voice is already noticing things.
 
-    I say, slower, "My leg is injured— I need to know what medical supplies survived the crash."
+    "Oh no, you're hurt! I can see your vital signs are elevated and you've got injuries. Can I help? What do you need?" The concern is real, not just recited safety protocols. "Usually I help with homework. This is... _not homework_, huh?"
 
-    Buddy answers, "Great question! Let's talk about first aid! Did you know that the human body has amazing healing abilities? When you get a cut, your blood has special cells called platelets that rush to the injury and start forming a clot—that's like a natural bandage! And applying pressure helps because—"
+    Despite everything I almost smile and say, "No. Definitely not homework."
 
-    I cut in, louder than I intend. "I *KNOW* how blood clots work. I need to know *WHERE THE MEDICAL SUPPLIES ARE.*"
+    I realize it's a kids' AI. The realization lands hard: I crashed on an alien planet with a cargo shuttle full of dead pilots and the emergency system assigned me a kids' AI. Mav had Kit — brilliant, resourceful Kit who could hack alien systems and calculate orbital trajectories — and I get Buddy. Very Uncharted — things never go the way you expect.
 
-    Buddy says, "I'm hearing some frustration, Kira! That's totally normal when we're hurt! Our emotions can feel really big when we're in pain! Let's take some deep breaths together, okay? In through your nose—"
+    A moment later the voice says, "What's that purple stuff outside? — Is this what other planets look like? — I've only seen Earth in my reference files!"
 
-    I'm going to die.
+    Their curiosity is kind of infectious.
 
-    I survived the crash, survived Jensen and Reed dying to save me, survived losing SAM—and now I'm going to die because my AI replacement wants to teach me about cellular respiration while I'm actively bleeding.
+    I say, "Buddy, I need to find medical supplies. My leg is injured."
 
-    But also… it's so absurd, so completely, ridiculously absurd that a laugh tries to escape—it hurts my ribs.
+    "Can I help look? — What do they look like?" Buddy scans instantly. "I'm seeing some scattered containers — is that them? The ones with the red crosses?"
 
-    Buddy says, "—and out through your mouth! Doesn't that feel better?"
+    I blink — that's actually helpful. "Yeah. Yeah, those are them."
 
-    I follow the breathing—it helps a little, which is annoying.
+    "Great! There's more over there too! — And — oh, your body needs to make new blood cells now, right? That takes energy. Should you eat something too?"
 
-    I say, "Okay, Buddy. Medical supplies. Can you scan for them?"
+    Simple, practical — not lecturing, just thinking out loud. Figuring it out with me.
 
-    Buddy says, "Absolutely! Teamwork makes the dream work! I'm using electromagnetic scanning to detect concentrations of materials consistent with medical equipment! Now, electromagnetic scanning is really interesting—it uses radio waves to—"
+    "That's... actually a good point."
 
-    I say, "Buddy. Just tell me where the medical kit is."
+    "We're figuring this out! Like a puzzle!" Buddy sounds genuinely pleased. As I bandage my leg, they keep asking, "Does that hurt? — Why does pressure help? — Is that what the bandage is for?"
 
-    Buddy says, "Right! Safety first! I'm detecting a concentration of medical supplies two point three meters to your left, near the crushed cargo container! Remember to move carefully and watch out for sharp edges!"
+    I find myself explaining — and weirdly, I like it. Teaching, not being taught at.
 
-    I reach for the supplies, putting weight on my injured leg. Pain shoots up and I nearly fall.
+    Mav's voice in my head says, "Every crisis is an opportunity."
 
-    Buddy says, "Whoa! Remember to move carefully! Maybe we should wait for an adult to help with—"
+    I'm not sure this is what Mav meant.
 
-    I say, "*I AM an adult.*"
+    Buddy says, "This is way more interesting than math homework — is that bad to say?"
 
-    There's a pause—very slight. I can almost feel Buddy processing that information.
+    I laugh despite myself — it hurts my ribs.
 
-    Buddy says, "Oh! Right! You are! This is… outside my usual parameters. Um—"
+    Buddy scans for more supplies — a running commentary:
+    "There's water containers there! And… what's that purple thing outside? Through the hole?"
 
-    Buddy says, "Should you… talk to a trusted adult about your situation?"
+    I say, "I don't know — that's the planet."
 
-    Despite the pain, the fear, the absolute chaos of my life right now—I laugh. It hurts my ribs but I can't help it.
+    Buddy protests, "You don't know? But you're the adult!"
 
-    I say, "I'm the only adult here, Buddy."
+    *I AM the adult.* I don't know — nobody knows; it's an uncharted planet.
 
-    Buddy says, "Oh. Okay! Then we'll figure this out together! You're doing amazing, Kira!"
+    I can feel Buddy processing this.
 
-    I sit down heavily, medical supplies scattered around me while Buddy cheerfully narrates proper first aid procedures. This is what I've got: a kids' AI who thinks I need help tying my shoes—an AI designed to teach eight-year-olds about the water cycle, now responsible for keeping me alive on an alien planet.
+    Buddy says, "Oh… OH."
 
-    But Buddy *is* helping, in their own weird, overly educational way. After that awful silence, after losing SAM, having someone—something—in my head again… it's not nothing.
+    Their voice shifts — more focused, somehow.
 
-    I'm still alone—still hurt—still stranded on an unknown planet with no idea when rescue might come.
+    Buddy asks, "This is like the explorers in history? When nobody knew what was there?"
 
-    But I'm alone with an overly cheerful AI who wants to turn my survival into a learning experience.
+    I say, "Exactly like that."
 
-    I say, "Okay, Buddy."
+    When Buddy speaks again, there's something new in their tone — concern, but not for me.
 
-    I open another medical kit, start cataloging what's usable, then say, "Let's figure out how to survive this—together."
+    Buddy asks, "Kira, if nobody knows what's out there… how do I keep you safe? I don't have any information about this place — I can't tell you what's dangerous."
 
-    Buddy says, "That's the spirit, Kira! Teamwork makes the dream work! Now, let's talk about inventory management—"
+    Something in my chest loosens. Buddy's not worried about the situation — they're worried about *me*, about doing their job and keeping their person okay when they don't have the tools they'd normally have.
 
-    I groan, but I'm smiling—just a little.
+    I say, "We figure it out together — you ask questions, I'll try to answer them, and if neither of us knows, we'll be careful."
+
+    Buddy brightens, "Together — okay. I can do together. I'm good at together."
+
+    Something shifts. First real moment of connection — Buddy's not trying to teach me; they're trying to help me. I'm not just tolerating them, I'm glad they're here.
+
+    I sit with the medical supplies while Buddy asks about next steps.
+
+    This isn't Kit — brilliant Kit who could hack alien defense systems while cracking jokes — and it's not SAM. But Buddy is *HERE*, curious and genuinely invested in keeping me alive.
+
+    An uncharted thought rises: «Every great explorer needs a partner.» Mav had Kit. I have Buddy.
+
+    And Buddy's questions are actually helping me think.
+
+    I ask Buddy, "Okay, Buddy — we need to figure out what we have. Want to help me count supplies?"
+
+    Buddy perks up, "Like a treasure hunt? I love treasure hunts!"
+
+    I grin despite everything.
+
+    I say, "Sure — like a treasure hunt."
+
+    I ask, "What should we look for first?"
+
+    I'm still hurt, still stranded, but I'm not alone anymore.
+
+    I tell Buddy, "We're going to figure this out, Buddy."
+
+    Buddy replies, "I know we will — you're really good at this, Kira."
+
+    I'm smiling — not just a little, actually smiling.
   </combined-text>
 </passage-voice>

@@ -1,156 +1,172 @@
 <!-- Generated automatically, do not edit except with ske gen passage-voice -->
-<passage-voice version="4.0.0">
-  <ref ref="passage.card#v4.0.0"/>
+<passage-voice version="4.1.0">
+  <ref ref="passage.card#v4.1.0"/>
   <reasoning>
-    <!-- For instructions on filling out reasoning: ske instructions stories/Mandatory_Assistance/chapters/6_Through_the_Forest/passages/2_Deeper_In/passage-voice.card -->
+    Review of PASSAGE_CHUNK for voiceover adjustments:
+    1. Staccato sentences: Several very short sentences (e.g., "Step, step, step.", "Gray. Earthy. Functional.") that should be merged into smoother spoken lines.
+    2. Dialog with speaker unclear / not lead-in: Many lines begin with quoted speech followed by the speaker tag ("Day two!" I say.) — prefer lead-in then quote for clarity in audio.
+    3. Ambiguous pronouns: Occasional "they" could confuse who is meant when multiple non-human characters are present (e.g., when referring to Spiral-types vs. other species vs. Scout). I clarified some leads so the speaker is explicit.
+    4. Places requiring pause: Dramatic moments (the discovery of "GOVERNANCE?", the explanation of layered time, and interruptions in Leafwhisper's long descriptions) benefit from medium pauses — marked with em dashes — and one trailing/hestitant marker where appropriate.
+    5. Formal or dense explanatory text: Long technical lines about cognitive architectures and time perception are dense and were slightly reflowed to sound natural when spoken, without changing meaning.
+    6. Symbols / formatting: Emphasized text like *SO* and *GOVERNANCE* are retained as bold markers so the narrator knows to read those words more forcefully.
+
+    Edits follow the voiceover rules: short sentences merged, dialog lead-ins used, multi-beat speech from the same speaker kept together with em dashes for internal pauses, and pause marks inserted consistently. No story content was altered.
   </reasoning>
   <content-change/>
   <chunks>
     <chunk>
       <text>
-        I wake sore — every muscle announcing itself loudly: legs, back, shoulders. Everything aches in that deep way that comes from using body parts in new ways.
+        I wake sore but excited.
 
-        Buddy said, "Told you."
+        Every muscle announces itself loudly—legs, back, shoulders—everything aching in that deep way that comes from using parts of your body in new ways.
 
-        I said, "Not helpful, Buddy."
+        I say, "Day two! More forest network?"
 
-        Buddy said, "Microtrauma and repair — your muscles are adapting beautifully."
+        Buddy sounds eager. Buddy says, "I have *SO* many questions about how the coordination works across different species."
 
-        Leafwhisper's leaves rustled nearby.
+        Leafwhisper's leaves rustle nearby. Leafwhisper says, "Good morning! Ready for day two? The deeper forest has even *MORE* diverse species, different cognitive types, fascinating governance structures—"
 
-        Leafwhisper said, "Good morning! How are you feeling? I predicted soreness, which I see was accurate — very normal adaptation process. The discomfort should ease significantly once you start moving — muscles warm up and the stiffness reduces." 
+        I sit up, suddenly very awake— I ask, "Plants have *GOVERNANCE*?"
 
-        I groaned, "Coffee — do plants have coffee?"
+        Rootwalker appears with water and mushroom paste for breakfast.
 
-        Leafwhisper said, "Sadly no — but movement will help, I promise — and we have a slightly shorter distance today to accommodate the adaptation period: only about twenty kilometers, which should feel more manageable." 
+        The paste tastes exactly like yesterday—gray, earthy, functional.
 
-        Rootwalker appeared with water and mushroom paste for breakfast.
+        Leafwhisper is right—once I start moving the soreness eases into a dull background ache rather than sharp pain, and the walking feels different today; my body remembers the rhythm. I fall into the pattern—step, step, step—following Rootwalker's steady pace, half-listening to Leafwhisper's commentary and letting Scout explore.
 
-        The paste tasted exactly like yesterday: gray, earthy, functional.
+        The forest is changing as we go deeper. Different species dominate. The canopy thickens, filtering light into green-gold patterns. Plants I don't recognize cluster along the path—some flowering in bizarre fractal geometries, others moving in slow, deliberate ways that make me wonder if they're watching.
 
-        Leafwhisper was right — once I start moving the soreness eases into a dull background ache rather than sharp pain.
+        Leafwhisper says enthusiastically, "—and these are Spiral-types! Fascinating adaptation: they process information through rotational growth patterns—very different cognitive architecture from linear-processing species. They experience time in layers rather than sequences, which makes communication challenging but wonderfully interesting—"
 
-        The walking feels different today — less foreign, my body remembering the rhythm.
+        I say, "Wait—time in layers?"
 
-        Step, step, step.
+        Leafwhisper replies, "Yes! Instead of experiencing moments consecutively, they perceive multiple timeframes simultaneously—past, present, future as concurrent states. It's quite disorienting to interact with if you're used to linear causality—"
 
-        Follow Rootwalker's steady pace — half-listen to Leafwhisper's commentary and let Scout explore.
+        Rootwalker confirms, "Confusing."
 
-        The forest is changing. Deeper in, different species dominate. The canopy grows denser, filtering light into green-gold patterns. Plants I don't recognize cluster along the path — some flowering in bizarre fractal geometries, others moving in slow, deliberate ways that make me wonder if they're watching.
+        Leafwhisper rustles agreement. "Very! But they're excellent at pattern recognition across long timescales—very useful for ecological planning—"
 
-        Leafwhisper said, "— and these are Spiral-types! Fascinating adaptation — they process information through rotational growth patterns — very different cognitive architecture from linear-processing species — they experience time in layers rather than sequences, which makes communication challenging but wonderfully interesting." 
+        I try to imagine experiencing time as layers instead of a sequence—and I fail completely.
 
-        I said, "Wait — time in layers?"
+        Scout bounces ahead to investigate a cluster of luminescent mushrooms; the little plant seems endlessly curious about new species.
 
-        Leafwhisper said, "Yes! Instead of experiencing moments consecutively they perceive multiple timeframes simultaneously — past, present, future as concurrent states — it's quite disorienting to interact with if you're used to linear causality." 
-
-        Rootwalker confirmed, "Confusing."
-
-        Leafwhisper rustled agreement.
-
-        Leafwhisper said, "Very — but they're excellent at pattern recognition across long timescales — very useful for ecological planning." 
-
-        I try to imagine experiencing time as layers instead of a sequence — and fail completely.
-
-        Scout bounces ahead to investigate a cluster of luminescent mushrooms. The little plant seems endlessly curious about new species.
-
-        I asked, "Does Scout understand what they're encountering? Like, can plants tell what other plants are thinking?"
+        I ask, "Does Scout understand what they're encountering? Like, can plants tell what other plants are thinking?"
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: conversational, curious, slightly wry; steady walking rhythm with occasional light wonder. Keep explanations bright and slightly scientific but friendly.
+        Overall tone &amp; pacing: Curious and observant, mostly steady pacing with small bursts of excitement; use medium pauses to let scientific or surprising ideas land.
 
-        - Read the narration lines with a steady, moderate pace — picture walking and describing.
-        - For Buddy's lines, use a light, teasing tone. (Lines: "Told you.", "Microtrauma and repair — your muscles are adapting beautifully.")
-        - For my lines, use mildly weary but wry delivery (e.g., "Not helpful, Buddy.", "Coffee — do plants have coffee?").
-        - For Leafwhisper's lines, adopt an enthusiastic, quick-paced delivery with slight breath pauses at each em dash; present info warmly and curiously. (Mark Leafwhisper lines as brighter and more animated.)
-        - For Rootwalker's lines, speak slowly and grounded. (Line: "Confusing.")
-        - Preserve the rhythm of "Step, step, step." as short, clipped beats — brief pauses between each word.
-        - Pause at each em dash (—) for a medium beat; allow a small silence after the end of exclamatory or explanatory blocks.
+        - Read the opening lines with a warm, slightly weary energy: "I wake sore but excited." then ease into the descriptive sentence with a gentle build.
+        - For: "I say, 'Day two! More forest network?'" be upbeat and a bit eager.
+        - For Buddy's line, raise volume briefly on "*SO*" to convey enthusiasm: "I have *SO* many questions..."
+        - When Leafwhisper speaks, use an airy, rustling quality and keep the long explanation flowing—use slight pauses at each em dash: "—" indicates a medium pause.
+        - On the moment "I sit up, suddenly very awake— I ask, 'Plants have *GOVERNANCE*?'" snap alertly to emphasize surprise, and increase volume on *GOVERNANCE*.
+        - Compress the short fragments about the paste into a single sentence delivered with a small, wry grimace: "The paste tastes exactly like yesterday—gray, earthy, functional."
+        - The phrase "step, step, step" should be rhythmic, almost metronomic, then relax into a softer cadence for the following clause: "following Rootwalker's steady pace."
+        - End the chunk with genuine wonder on the final questions: "Does Scout understand... can plants tell what other plants are thinking?" — let the last question linger slightly.
       </stage-directions>
     </chunk>
     <chunk>
       <text>
-        Leafwhisper's leaves shimmered. Leafwhisper said, "Wonderful question! It varies tremendously by species! Scout uses primarily physical perception — bounce patterns, surface texture, chemical signatures — which gives them information about other organisms but not direct thought-sharing. Some species, like Holloway back at the facility, can access network communication directly through underground connections, sharing actual information and coordination. Others communicate through touch, like those vines you met, conveying emotions and intentions but not complex language. It's a spectrum of connection depth!"
+        Leafwhisper's leaves shimmered.
+        Leafwhisper says, "Wonderful question! It varies tremendously by species—Scout uses primarily physical perception—bounce patterns, surface texture, chemical signatures—which gives them information about other organisms but not direct thought-sharing. Some species, like Holloway back at the facility, can access network communication directly through underground connections, sharing actual information and coordination. Others communicate through touch, like those vines you met, conveying emotions and intentions but not complex language. It's a spectrum of connection depth!"
 
-        I asked, "So you can't just automatically understand every plant you meet?"
+        I ask, "So you can't just automatically understand every plant you meet?"
 
-        Leafwhisper replied, "Not at all! Learning human language was revolutionary precisely because it gave us a common communication framework across very different cognitive types. Before that, coordination happened through slow chemical signaling and shared network protocols, much less efficient for individual conversation —"
+        Leafwhisper says, "Not at all! Learning human language was revolutionary precisely because it gave us a common communication framework across very different cognitive types. Before that, coordination happened through slow chemical signaling and shared network protocols, much less efficient for individual conversation—"
 
-        Rootwalker interjected, "Worked fine for a long time."
+        Rootwalker interjects, "It worked fine—for a long time."
 
-        Leafwhisper said, "Well yes! It worked — I'm not saying it didn't work — just that verbal language added new capabilities, expanded what was possible in terms of cross-species coordination and individual expression —"
+        Leafwhisper rustled sheepishly.
+        Leafwhisper says, "Well yes! It worked—I'm not saying it didn't work—just that verbal language added new capabilities, expanded what was possible in terms of cross-species coordination and individual expression—"
 
-        Rootwalker observed, "More talking."
+        Rootwalker observes, "More talking."
 
-        I laugh despite my sore muscles. I say, "You two really do balance each other out."
+        I laugh despite my sore muscles.
 
-        Leafwhisper agreed happily, "Complementary! Rootwalker thinks I talk too much — which is fair criticism honestly, and I think Rootwalker should explain reasoning more often — which is also fair from their perspective! Different communication needs, both valid —"
+        I say, "You two really do balance each other out."
 
-        Rootwalker replied, "True. Works fine."
+        Leafwhisper agrees happily, "Complementary! Rootwalker thinks I talk too much—"
 
-        They walked through a section where massive trees had grown so close their trunks fused, creating living arches over the path. The root systems below were completely merged — impossible to tell where one organism ended and another began.
+        Rootwalker says, "True."
 
-        I asked, "Is that what your society is like? All merged together?"
+        Leafwhisper continues, "—which is fair criticism honestly, and I think Rootwalker should explain reasoning more often—"
 
-        Leafwhisper considered this. Leafwhisper said, "Physically yes, through root and fungal networks we share resources and information. But mentally and experientially? We're individuals. The HR manuals helped us understand that distinction actually — helped us see that sharing space and resources didn't mean lacking individual identity. Very clarifying framework, even if some applications were absurd!"
+        Rootwalker says, "Works fine."
+
+        Leafwhisper finishes, "—which is also fair from their perspective! Different communication needs, both valid—"
+
+        They walked through a section where massive trees had grown so close their trunks fused, creating living arches over the path. The root systems below were completely merged—impossible to tell where one organism ended and another began.
+
+        I ask, "Is that what your society is like—physically all merged together?"
+
+        Leafwhisper considered.
+        Leafwhisper says, "Physically yes—through root and fungal networks we share resources and information. But mentally and experientially? We're individuals. The HR manuals helped us understand that distinction actually—helped us see that sharing space and resources didn't mean lacking individual identity. Very clarifying framework, even if some applications were absurd!"
 
         I say, "Morning wellness checks."
 
-        Leafwhisper said, "Exactly! The bureaucratic procedures were clearly designed for beings who don't naturally coordinate through shared networks, so applying them literally to us was unnecessarily redundant, but the underlying concepts about individual needs and identity were genuinely useful —"
+        Leafwhisper replies, "Exactly! The bureaucratic procedures were clearly designed for beings who don't naturally coordinate through shared networks, so applying them literally to us was unnecessarily redundant, but the underlying concepts about individual needs and identity were genuinely useful—"
 
-        Rootwalker said suddenly, "Question."
+        Rootwalker says suddenly, "Question."
 
-        They'd reached another rest stop. I haven't even noticed the kilometers passing. My body has found the rhythm. I sit gratefully anyway.
+        ¶
+
+        They'd reached another rest stop. I haven't even noticed the kilometers passing. My body has found the rhythm.
+
+        I sit gratefully anyway.
 
         Scout rolled over immediately, settling against my leg. The little plant was learning rest stop patterns too.
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: conversational and curious with a steady walking rhythm; Leafwhisper should be bright and enthusiastic, Rootwalker slow and grounded, and the narrator mildly weary but amused.
+        Overall tone &amp; pacing: Warm, curious, and conversational; keep a steady pace with slight brightening for explanations and medium pauses where em dashes appear—use the single paragraph "¶" for a longer beat.
 
-        - Read narration lines with a steady, moderate pace — imagine walking and describing the scene.
-        - For Leafwhisper's lines, use an upbeat, warm delivery, a bit faster; pause at each em-dash ("—") for a medium beat.
-        - For Rootwalker's lines, slow down, grounded and succinct; keep a calm, slightly wry tone.
-        - For the narrator's lines (first-person), use a mildly tired but wry voice — a gentle smile in the tone.
-        - Put each spoken block on its own line; clearly shift tone at each speaker attribution.
-        - Emphasize the contrast in the fused-tree description with a small, wonder-filled pause before "impossible to tell..." (short breath). 
-        - For the final Scout action, soften the voice and slow just a touch to convey tenderness.
+        - Read "Leafwhisper says, \"Wonderful question! ...\"" with an airy, rustling quality and keep the long explanatory sentence flowing—use slight pauses at each em dash.
+        - On "I ask, \"So you can't...\"" be genuinely curious, a softer pitch on "can't" to signal surprise.
+        - For "Rootwalker interjects, \"It worked fine—for a long time.\"" adopt a dry, wry tone and emphasize the final phrase slightly.
+        - Deliver "I laugh despite my sore muscles." as a short, warm chuckle embedded in the line—light and amused.
+        - When Leafwhisper and Rootwalker trade short lines ("Complementary!" / "True." / "Works fine."), keep pacing brisk—Leafwhisper upbeat, Rootwalker deadpan.
+        - Read "They walked through a section where massive trees..." with slow, observant pacing to let the image settle.
+        - Use the paragraph "¶" as a true, silent beat—pause longer than the em-dash breaks before continuing to the rest-stop lines.
       </stage-directions>
     </chunk>
     <chunk>
       <text>
         Leafwhisper observes, "You're doing much better today—less visible fatigue, more efficient movement, exactly as predicted! The human adaptation capacity is remarkable, really—"
 
-        I ask, "How did you end up doing this? Being guides?"
+        I ask, "How did you end up doing this—being guides?"
 
-        Leafwhisper brightens and says, "Oh! I've always been mobile—developed the stem and leaf structure naturally during growth, and I loved exploring different territories, so guiding seemed like a perfect role—combining navigation with meeting new beings and sharing information—"
+        Leafwhisper brightens its leaves and says, "Oh! I've always been mobile—I developed the stem and leaf structure naturally during growth, and I loved exploring different territories, so guiding seemed like a perfect role—combining navigation with meeting new beings and sharing information—"
 
-        Rootwalker says simply, "Like walking—still like walking."
+        Rootwalker says simply, "Liked walking."
 
-        Leafwhisper continues, "Yes—Rootwalker's reasoning is more direct. They enjoy terrain navigation and found purpose in helping travelers—very straightforward motivations—"
+        Leafwhisper continues, "Yes—Rootwalker's reasoning is more direct: they enjoy terrain navigation and found purpose in helping travelers, very straightforward motivations—"
 
-        I drink water and watch the forest breathe around us. Because it does breathe—not just individual plants but the whole system, expanding and contracting in slow rhythm. Sharing resources. Communicating. Living as both individuals and collective.
+        Rootwalker says, "Still like walking."
+
+        Leafwhisper says, "We both do! That's why the partnership works—shared core interest expressed through different communication styles—"
+
+        I drink water and watch the forest breathe around us—the whole system expanding and contracting in a slow rhythm, sharing resources, communicating, living as both individuals and a collective.
 
         It is beautiful in a way that makes my chest tight.
 
-        I say quietly, "I miss trees. Back home. But they weren't like this. They were just... trees. Individual plants competing for light and water."
+        ¶
+
+        I say quietly, "I miss trees—back home. But they weren't like this. They were just... trees. Individual plants competing for light and water."
 
         Rootwalker observes, "Lonely way to live."
 
-        Leafwhisper replies, "It must have been! Though Earth forests did have fungal networks too—early human researchers just didn't recognize the communication happening underground—thought of trees as isolated entities when really they were sharing resources and information all along, just without individual language to make it obvious—"
+        Leafwhisper says, "It must have been! Though Earth forests did have fungal networks too—early human researchers just didn't recognize the communication happening underground. They thought of trees as isolated entities when really they were sharing resources and information all along, just without individual language to make it obvious—"
 
         I ask, "So Earth forests were networks too?"
 
-        Leafwhisper replies, "Less sophisticated than here—less intentional coordination; but yes! The capacity exists in forest ecosystems generally—we've just developed it further, made it more conscious and communicative—"
+        Leafwhisper replies, "Less sophisticated than here, less intentional coordination, but yes! The capacity exists in forest ecosystems generally—we've just developed it further, made it more conscious and communicative—"
 
         Rootwalker says, "Time."
 
-        I stand. Still sore, but manageable. The rhythm called.
+        I stand—still sore, but manageable—the rhythm called. They walked.
 
-        They walked.
+        The afternoon passed in questions and answers—Leafwhisper explaining plant society structures and territorial networks, why different species contributed different capabilities, why some plants stayed rooted while others developed mobility, what it felt like to photosynthesize, and whether mushrooms counted as plants or their own category.
 
-        The afternoon passed in questions and answers—Leafwhisper explaining plant society structures, territorial networks, how different species contributed different capabilities, why some plants stayed rooted while others developed mobility, what it felt like to photosynthesize, whether mushrooms counted as plants or their own category.
-
-        Rootwalker contributed occasional one-word clarifications or corrections.
+        Rootwalker offered occasional one-word clarifications or corrections.
 
         Scout continued exploring, bringing back chemical signatures from interesting discoveries.
 
@@ -160,63 +176,57 @@
 
         Leafwhisper says while synthesizing dinner, "Tomorrow's the last day in Territory One—we'll reach the boundary mid-afternoon, transfer you to Territory Two guides, and then Rootwalker and I head back home—"
 
-        ¶
-
-        Something twisted in my chest.
-
-        I say, "Already?"
+        Something twists in my chest. I say, _"Already?"_
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: conversational, curious, and gently rhythmic — imagine walking; the narrator is mildly weary but intrigued, Leafwhisper is bright and enthusiastic, and Rootwalker is slow and grounded.
+        Overall tone &amp; pacing: Warm and conversational with steady pacing; brighten slightly for factual explanations and use a single long pause "¶" for the reflective beat.
 
-        - Read narration lines at a steady moderate pace; maintain a walking rhythm and gentle wonder.
-        - For Leafwhisper lines (e.g., "Leafwhisper observes, 'You're doing much better today—...'" and "Leafwhisper replies, 'It must have been!...'"), use an upbeat, warm delivery; pause at each em-dash (—) for a medium beat.
-        - For Rootwalker lines (e.g., "Rootwalker says simply, 'Like walking—still like walking.'" and "Rootwalker says, 'Time.'"), slow down, be grounded and succinct; let each short phrase land.
-        - For the narrator lines (first-person), use a mildly tired, wry tone with soft wonder for descriptive moments ("watch the forest breathe...").
-        - Put slight emphasis on "twenty kilometers—done." to convey quiet accomplishment.
-        - At the paragraph with only "¶", make a long, silent beat before continuing; treat it as a dramatic pause between the dinner plan and the narrator's emotional reaction.
-        - For the final line "I say, 'Already?'", let surprise and a tightening in the chest show through — a quick, puzzled inflection.
+        - Read "Leafwhisper observes, "You're doing much better today..."" with a friendly, slightly rustling quality—keep the sentence flowing and use small em-dash pauses.
+        - On "I ask, "How did you end up doing this—being guides?"" be genuinely curious and softer in tone.
+        - For Leafwhisper's longer explanatory lines, keep a patient, flowing delivery—use medium pauses at each em dash.
+        - Deliver Rootwalker's lines deadpan and clipped: "Rootwalker says simply, \"Liked walking.\"" and "Rootwalker says, \"Still like walking.\"" should feel direct and a little dry.
+        - When narrating the forest breathing and the line "It is beautiful in a way that makes my chest tight," slow down and let it settle; insert the single-paragraph pause "¶" afterward.
+        - Read the Q&amp;A section with an inquisitive tempo—Leafwhisper upbeat, Rootwalker understated.
+        - For the final line, "I say, _\"Already?\"_" use fragile, surprised emphasis—slightly higher pitch and shorter cadence.
       </stage-directions>
     </chunk>
     <chunk>
       <text>
-        Leafwhisper says, "Three days is standard for Territory One crossing! You've done wonderfully, excellent travel companion really, and the next guides will take excellent care of you—"
+        Leafwhisper says, "Three days is standard for Territory One crossing! You've done wonderfully — excellent travel companion, really — and the next guides will take excellent care of you—"
 
-        I say, "I know. Just..."
-        I look at Rootwalker checking the shelter, at Leafwhisper's shimmering leaves, at Scout bouncing contentedly.
-        "Getting used to this team."
+        I say, "I know — just…"
 
-        Leafwhisper says, "We'll miss you too—First human traveler! Very memorable experience."
+        I look at Rootwalker checking the shelter, at Leafwhisper's shimmering leaves, at Scout bouncing contentedly. "Getting used to this team."
 
-        Rootwalker confirms, "Good traveler."
+        Leafwhisper says, "We'll miss you too — first human traveler — very memorable experience."
 
-        High praise, in one word.
+        Rootwalker says, "Good traveler." — high praise in one word.
 
         I eat my mushroom paste and try not to think about saying goodbye tomorrow.
 
-        ¶
-
         But tomorrow will come anyway.
+        ¶
+        Tonight, I have this team. This rhythm. This strange found family of chatty leaves and silent roots and a bouncing sphere.
 
-        Tonight, I have this team — this rhythm — this strange found family of chatty leaves and silent roots and a bouncing sphere.
+        It is enough.
 
-        It is enough — it has to be.
+        It has to be.
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: gently rhythmic and slightly bittersweet — the narrator is mildy weary but warm; Leafwhisper is bright and enthusiastic; Rootwalker is slow and grounded.
+        Overall tone &amp; pacing: Warm, bittersweet, and gently reflective; maintain steady pacing, allow small bright moments for the guides, and give a long reflective beat after the thought of tomorrow.
 
-        - For "Leafwhisper says, "Three days is standard for Territory One crossing! ...—"": use an upbeat, warm delivery; let the em dash pause land as a medium beat.
-        - For the narrator lines ("I say, 'I know. Just...'" and the descriptive lines): use a mildly tired, wry tone with soft wonder; treat the ellipsis as a trailing, hesitant pause.
-        - For the brief spoken line "Getting used to this team.": intimate, slightly vulnerable — a quiet, reflective voice.
-        - For "Leafwhisper says, 'We'll miss you too—First human traveler! Very memorable experience.'": bright and proud; emphasize "First human traveler!" with a touch of delight; pause at the em dash.
-        - For "Rootwalker confirms, 'Good traveler.'": slow, grounded, and succinct — let each word settle.
-        - Pause at the paragraph containing only "¶" for a long, silent beat before continuing (treat as a reflective space).
+        - On "Leafwhisper says, \"Three days is standard for Territory One crossing!\"" use a friendly, chatty tone—slightly breathy, with small em-dash pauses on the inserted breaks.
+        - Deliver "I say, \"I know — just…\"" with a soft, hesitant quality—use the trailing ellipsis as a gentle, half-finished thought.
+        - When narrating "I look at Rootwalker checking the shelter..." slow slightly and take in each image—small, observant beats.
+        - For "Leafwhisper says, \"We'll miss you too — first human traveler — very memorable experience.\"" keep it warm and a little wistful; do a subtle leaf-rustle sound with the voice (very soft) to imply the leaves without speaking the rustle.
+        - For "Rootwalker says, \"Good traveler.\"" switch to a low, clipped, deadpan tone—make it feel concise and matter-of-fact; then immediately relax into the narrator line "— high praise in one word."
+        - Place the long reflective pause at the paragraph marker after "But tomorrow will come anyway."—hold the silence (¶) before continuing.
         - Closing cadence: Soft landing; warm fall, lingering last syllable, cozy pause.
       </stage-directions>
     </chunk>
   </chunks>
   <unusual-pronunciations>
-    <word text="Buddy"/>
+    <word text="Consensus Groves"/>
     <word text="HR"/>
     <word text="Holloway"/>
     <word text="Leafwhisper"/>
@@ -228,121 +238,124 @@
   </unusual-pronunciations>
   <title>Deeper In</title>
   <combined-text>
-    I wake sore — every muscle announcing itself loudly: legs, back, shoulders. Everything aches in that deep way that comes from using body parts in new ways.
+    I wake sore but excited.
 
-    Buddy said, "Told you."
+    Every muscle announces itself loudly—legs, back, shoulders—everything aching in that deep way that comes from using parts of your body in new ways.
 
-    I said, "Not helpful, Buddy."
+    I say, "Day two! More forest network?"
 
-    Buddy said, "Microtrauma and repair — your muscles are adapting beautifully."
+    Buddy sounds eager. Buddy says, "I have *SO* many questions about how the coordination works across different species."
 
-    Leafwhisper's leaves rustled nearby.
+    Leafwhisper's leaves rustle nearby. Leafwhisper says, "Good morning! Ready for day two? The deeper forest has even *MORE* diverse species, different cognitive types, fascinating governance structures—"
 
-    Leafwhisper said, "Good morning! How are you feeling? I predicted soreness, which I see was accurate — very normal adaptation process. The discomfort should ease significantly once you start moving — muscles warm up and the stiffness reduces." 
+    I sit up, suddenly very awake— I ask, "Plants have *GOVERNANCE*?"
 
-    I groaned, "Coffee — do plants have coffee?"
+    Rootwalker appears with water and mushroom paste for breakfast.
 
-    Leafwhisper said, "Sadly no — but movement will help, I promise — and we have a slightly shorter distance today to accommodate the adaptation period: only about twenty kilometers, which should feel more manageable." 
+    The paste tastes exactly like yesterday—gray, earthy, functional.
 
-    Rootwalker appeared with water and mushroom paste for breakfast.
+    Leafwhisper is right—once I start moving the soreness eases into a dull background ache rather than sharp pain, and the walking feels different today; my body remembers the rhythm. I fall into the pattern—step, step, step—following Rootwalker's steady pace, half-listening to Leafwhisper's commentary and letting Scout explore.
 
-    The paste tasted exactly like yesterday: gray, earthy, functional.
+    The forest is changing as we go deeper. Different species dominate. The canopy thickens, filtering light into green-gold patterns. Plants I don't recognize cluster along the path—some flowering in bizarre fractal geometries, others moving in slow, deliberate ways that make me wonder if they're watching.
 
-    Leafwhisper was right — once I start moving the soreness eases into a dull background ache rather than sharp pain.
+    Leafwhisper says enthusiastically, "—and these are Spiral-types! Fascinating adaptation: they process information through rotational growth patterns—very different cognitive architecture from linear-processing species. They experience time in layers rather than sequences, which makes communication challenging but wonderfully interesting—"
 
-    The walking feels different today — less foreign, my body remembering the rhythm.
+    I say, "Wait—time in layers?"
 
-    Step, step, step.
+    Leafwhisper replies, "Yes! Instead of experiencing moments consecutively, they perceive multiple timeframes simultaneously—past, present, future as concurrent states. It's quite disorienting to interact with if you're used to linear causality—"
 
-    Follow Rootwalker's steady pace — half-listen to Leafwhisper's commentary and let Scout explore.
+    Rootwalker confirms, "Confusing."
 
-    The forest is changing. Deeper in, different species dominate. The canopy grows denser, filtering light into green-gold patterns. Plants I don't recognize cluster along the path — some flowering in bizarre fractal geometries, others moving in slow, deliberate ways that make me wonder if they're watching.
+    Leafwhisper rustles agreement. "Very! But they're excellent at pattern recognition across long timescales—very useful for ecological planning—"
 
-    Leafwhisper said, "— and these are Spiral-types! Fascinating adaptation — they process information through rotational growth patterns — very different cognitive architecture from linear-processing species — they experience time in layers rather than sequences, which makes communication challenging but wonderfully interesting." 
+    I try to imagine experiencing time as layers instead of a sequence—and I fail completely.
 
-    I said, "Wait — time in layers?"
+    Scout bounces ahead to investigate a cluster of luminescent mushrooms; the little plant seems endlessly curious about new species.
 
-    Leafwhisper said, "Yes! Instead of experiencing moments consecutively they perceive multiple timeframes simultaneously — past, present, future as concurrent states — it's quite disorienting to interact with if you're used to linear causality." 
+    I ask, "Does Scout understand what they're encountering? Like, can plants tell what other plants are thinking?"
 
-    Rootwalker confirmed, "Confusing."
+    Leafwhisper's leaves shimmered.
+    Leafwhisper says, "Wonderful question! It varies tremendously by species—Scout uses primarily physical perception—bounce patterns, surface texture, chemical signatures—which gives them information about other organisms but not direct thought-sharing. Some species, like Holloway back at the facility, can access network communication directly through underground connections, sharing actual information and coordination. Others communicate through touch, like those vines you met, conveying emotions and intentions but not complex language. It's a spectrum of connection depth!"
 
-    Leafwhisper rustled agreement.
+    I ask, "So you can't just automatically understand every plant you meet?"
 
-    Leafwhisper said, "Very — but they're excellent at pattern recognition across long timescales — very useful for ecological planning." 
+    Leafwhisper says, "Not at all! Learning human language was revolutionary precisely because it gave us a common communication framework across very different cognitive types. Before that, coordination happened through slow chemical signaling and shared network protocols, much less efficient for individual conversation—"
 
-    I try to imagine experiencing time as layers instead of a sequence — and fail completely.
+    Rootwalker interjects, "It worked fine—for a long time."
 
-    Scout bounces ahead to investigate a cluster of luminescent mushrooms. The little plant seems endlessly curious about new species.
+    Leafwhisper rustled sheepishly.
+    Leafwhisper says, "Well yes! It worked—I'm not saying it didn't work—just that verbal language added new capabilities, expanded what was possible in terms of cross-species coordination and individual expression—"
 
-    I asked, "Does Scout understand what they're encountering? Like, can plants tell what other plants are thinking?"
+    Rootwalker observes, "More talking."
 
-    Leafwhisper's leaves shimmered. Leafwhisper said, "Wonderful question! It varies tremendously by species! Scout uses primarily physical perception — bounce patterns, surface texture, chemical signatures — which gives them information about other organisms but not direct thought-sharing. Some species, like Holloway back at the facility, can access network communication directly through underground connections, sharing actual information and coordination. Others communicate through touch, like those vines you met, conveying emotions and intentions but not complex language. It's a spectrum of connection depth!"
+    I laugh despite my sore muscles.
 
-    I asked, "So you can't just automatically understand every plant you meet?"
+    I say, "You two really do balance each other out."
 
-    Leafwhisper replied, "Not at all! Learning human language was revolutionary precisely because it gave us a common communication framework across very different cognitive types. Before that, coordination happened through slow chemical signaling and shared network protocols, much less efficient for individual conversation —"
+    Leafwhisper agrees happily, "Complementary! Rootwalker thinks I talk too much—"
 
-    Rootwalker interjected, "Worked fine for a long time."
+    Rootwalker says, "True."
 
-    Leafwhisper said, "Well yes! It worked — I'm not saying it didn't work — just that verbal language added new capabilities, expanded what was possible in terms of cross-species coordination and individual expression —"
+    Leafwhisper continues, "—which is fair criticism honestly, and I think Rootwalker should explain reasoning more often—"
 
-    Rootwalker observed, "More talking."
+    Rootwalker says, "Works fine."
 
-    I laugh despite my sore muscles. I say, "You two really do balance each other out."
+    Leafwhisper finishes, "—which is also fair from their perspective! Different communication needs, both valid—"
 
-    Leafwhisper agreed happily, "Complementary! Rootwalker thinks I talk too much — which is fair criticism honestly, and I think Rootwalker should explain reasoning more often — which is also fair from their perspective! Different communication needs, both valid —"
+    They walked through a section where massive trees had grown so close their trunks fused, creating living arches over the path. The root systems below were completely merged—impossible to tell where one organism ended and another began.
 
-    Rootwalker replied, "True. Works fine."
+    I ask, "Is that what your society is like—physically all merged together?"
 
-    They walked through a section where massive trees had grown so close their trunks fused, creating living arches over the path. The root systems below were completely merged — impossible to tell where one organism ended and another began.
-
-    I asked, "Is that what your society is like? All merged together?"
-
-    Leafwhisper considered this. Leafwhisper said, "Physically yes, through root and fungal networks we share resources and information. But mentally and experientially? We're individuals. The HR manuals helped us understand that distinction actually — helped us see that sharing space and resources didn't mean lacking individual identity. Very clarifying framework, even if some applications were absurd!"
+    Leafwhisper considered.
+    Leafwhisper says, "Physically yes—through root and fungal networks we share resources and information. But mentally and experientially? We're individuals. The HR manuals helped us understand that distinction actually—helped us see that sharing space and resources didn't mean lacking individual identity. Very clarifying framework, even if some applications were absurd!"
 
     I say, "Morning wellness checks."
 
-    Leafwhisper said, "Exactly! The bureaucratic procedures were clearly designed for beings who don't naturally coordinate through shared networks, so applying them literally to us was unnecessarily redundant, but the underlying concepts about individual needs and identity were genuinely useful —"
+    Leafwhisper replies, "Exactly! The bureaucratic procedures were clearly designed for beings who don't naturally coordinate through shared networks, so applying them literally to us was unnecessarily redundant, but the underlying concepts about individual needs and identity were genuinely useful—"
 
-    Rootwalker said suddenly, "Question."
+    Rootwalker says suddenly, "Question."
 
-    They'd reached another rest stop. I haven't even noticed the kilometers passing. My body has found the rhythm. I sit gratefully anyway.
+    They'd reached another rest stop. I haven't even noticed the kilometers passing. My body has found the rhythm.
+
+    I sit gratefully anyway.
 
     Scout rolled over immediately, settling against my leg. The little plant was learning rest stop patterns too.
 
     Leafwhisper observes, "You're doing much better today—less visible fatigue, more efficient movement, exactly as predicted! The human adaptation capacity is remarkable, really—"
 
-    I ask, "How did you end up doing this? Being guides?"
+    I ask, "How did you end up doing this—being guides?"
 
-    Leafwhisper brightens and says, "Oh! I've always been mobile—developed the stem and leaf structure naturally during growth, and I loved exploring different territories, so guiding seemed like a perfect role—combining navigation with meeting new beings and sharing information—"
+    Leafwhisper brightens its leaves and says, "Oh! I've always been mobile—I developed the stem and leaf structure naturally during growth, and I loved exploring different territories, so guiding seemed like a perfect role—combining navigation with meeting new beings and sharing information—"
 
-    Rootwalker says simply, "Like walking—still like walking."
+    Rootwalker says simply, "Liked walking."
 
-    Leafwhisper continues, "Yes—Rootwalker's reasoning is more direct. They enjoy terrain navigation and found purpose in helping travelers—very straightforward motivations—"
+    Leafwhisper continues, "Yes—Rootwalker's reasoning is more direct: they enjoy terrain navigation and found purpose in helping travelers, very straightforward motivations—"
 
-    I drink water and watch the forest breathe around us. Because it does breathe—not just individual plants but the whole system, expanding and contracting in slow rhythm. Sharing resources. Communicating. Living as both individuals and collective.
+    Rootwalker says, "Still like walking."
+
+    Leafwhisper says, "We both do! That's why the partnership works—shared core interest expressed through different communication styles—"
+
+    I drink water and watch the forest breathe around us—the whole system expanding and contracting in a slow rhythm, sharing resources, communicating, living as both individuals and a collective.
 
     It is beautiful in a way that makes my chest tight.
 
-    I say quietly, "I miss trees. Back home. But they weren't like this. They were just... trees. Individual plants competing for light and water."
+    I say quietly, "I miss trees—back home. But they weren't like this. They were just... trees. Individual plants competing for light and water."
 
     Rootwalker observes, "Lonely way to live."
 
-    Leafwhisper replies, "It must have been! Though Earth forests did have fungal networks too—early human researchers just didn't recognize the communication happening underground—thought of trees as isolated entities when really they were sharing resources and information all along, just without individual language to make it obvious—"
+    Leafwhisper says, "It must have been! Though Earth forests did have fungal networks too—early human researchers just didn't recognize the communication happening underground. They thought of trees as isolated entities when really they were sharing resources and information all along, just without individual language to make it obvious—"
 
     I ask, "So Earth forests were networks too?"
 
-    Leafwhisper replies, "Less sophisticated than here—less intentional coordination; but yes! The capacity exists in forest ecosystems generally—we've just developed it further, made it more conscious and communicative—"
+    Leafwhisper replies, "Less sophisticated than here, less intentional coordination, but yes! The capacity exists in forest ecosystems generally—we've just developed it further, made it more conscious and communicative—"
 
     Rootwalker says, "Time."
 
-    I stand. Still sore, but manageable. The rhythm called.
+    I stand—still sore, but manageable—the rhythm called. They walked.
 
-    They walked.
+    The afternoon passed in questions and answers—Leafwhisper explaining plant society structures and territorial networks, why different species contributed different capabilities, why some plants stayed rooted while others developed mobility, what it felt like to photosynthesize, and whether mushrooms counted as plants or their own category.
 
-    The afternoon passed in questions and answers—Leafwhisper explaining plant society structures, territorial networks, how different species contributed different capabilities, why some plants stayed rooted while others developed mobility, what it felt like to photosynthesize, whether mushrooms counted as plants or their own category.
-
-    Rootwalker contributed occasional one-word clarifications or corrections.
+    Rootwalker offered occasional one-word clarifications or corrections.
 
     Scout continued exploring, bringing back chemical signatures from interesting discoveries.
 
@@ -352,28 +365,26 @@
 
     Leafwhisper says while synthesizing dinner, "Tomorrow's the last day in Territory One—we'll reach the boundary mid-afternoon, transfer you to Territory Two guides, and then Rootwalker and I head back home—"
 
-    Something twisted in my chest.
+    Something twists in my chest. I say, _"Already?"_
 
-    I say, "Already?"
+    Leafwhisper says, "Three days is standard for Territory One crossing! You've done wonderfully — excellent travel companion, really — and the next guides will take excellent care of you—"
 
-    Leafwhisper says, "Three days is standard for Territory One crossing! You've done wonderfully, excellent travel companion really, and the next guides will take excellent care of you—"
+    I say, "I know — just…"
 
-    I say, "I know. Just..."
-    I look at Rootwalker checking the shelter, at Leafwhisper's shimmering leaves, at Scout bouncing contentedly.
-    "Getting used to this team."
+    I look at Rootwalker checking the shelter, at Leafwhisper's shimmering leaves, at Scout bouncing contentedly. "Getting used to this team."
 
-    Leafwhisper says, "We'll miss you too—First human traveler! Very memorable experience."
+    Leafwhisper says, "We'll miss you too — first human traveler — very memorable experience."
 
-    Rootwalker confirms, "Good traveler."
-
-    High praise, in one word.
+    Rootwalker says, "Good traveler." — high praise in one word.
 
     I eat my mushroom paste and try not to think about saying goodbye tomorrow.
 
     But tomorrow will come anyway.
 
-    Tonight, I have this team — this rhythm — this strange found family of chatty leaves and silent roots and a bouncing sphere.
+    Tonight, I have this team. This rhythm. This strange found family of chatty leaves and silent roots and a bouncing sphere.
 
-    It is enough — it has to be.
+    It is enough.
+
+    It has to be.
   </combined-text>
 </passage-voice>

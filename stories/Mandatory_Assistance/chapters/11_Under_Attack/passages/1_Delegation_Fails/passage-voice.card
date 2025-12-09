@@ -1,8 +1,16 @@
 <!-- Generated automatically, do not edit except with ske gen passage-voice -->
-<passage-voice version="2.0.0">
-  <ref ref="passage.card#v2.0.0"/>
+<passage-voice version="3.0.0">
+  <ref ref="passage.card#v3.0.0"/>
   <reasoning>
-    <!-- For instructions on filling out reasoning: ske instructions stories/Mandatory_Assistance/chapters/11_Under_Attack/passages/1_Delegation_Fails/passage-voice.card -->
+    Review of PASSAGE_CHUNK for voiceover adjustments:
+    1. Staccato sentences: Short, punchy lines like "Contamination. Corrupted. Nice." are deliberately staccato and should be kept for effect; other very short sentences (under 4 words) should be merged where they are not punchlines.
+    2. Dialog speaker clarity: A few lines could confuse the listener about who is speaking — especially the line where "Velvet's growth near the facility—not the delegation Velvet—asks." The distinction between the delegation Velvet and the offshoot must be explicit in speech.
+    3. Ambiguous pronouns: Several uses of "they" refer to different groups (Runner/Velvet vs. Scout), so some pronoun disambiguation is needed to ensure the listener always knows who is meant.
+    4. Pauses: Moments that need a clear dramatic pause include after "Awkward silence follows," the escalation of tension, and after the delegation's rejection is announced. Use the specified pause markers: em dash for medium pause, ellipsis for trailing hesitation, and a paragraph with only "¶" for a long/deliberate pause.
+    5. Formal/stilted phrasing: Mostly conversational already, but some parentheses and asides (the Velvet clarification) should be rewritten so the speaker is clear without interrupting flow.
+    6. Non-text elements/symbols: None, but there are internal quotes inside dialogue (the delegation calling Kira "contamination") — these are retained and readable.
+
+    Adjustments applied: merged short, non-punchline sentences for smoother voice flow; made all dialogue lines clearly attributed and placed as discrete lines; disambiguated Velvet's two identities; added pause markers where needed; preserved deliberate staccato lines that function as punchlines.
   </reasoning>
   <content-change/>
   <chunks>
@@ -12,19 +20,28 @@
 
         I watch them go from the facility entrance—Runner's vines flowing underground, Velvet spreading low and cautious across the surface. They're approaching the hostile plant gathering point with a message of peace, hoping diplomacy works where threats haven't.
 
-        Scout bounces beside me (anxious bounce)—they don't like Runner leaving, they don't like the tension in the air.
+        Scout bounces beside me—an anxious, restless motion. They don't like Runner leaving; they don't like the tension in the air.
 
-        I say, "They'll be fine." «I'm not sure I believe it.»
+        I say, "They'll be fine." …
+        I'm not sure I believe it.
 
-        Holloway is coordinating defensive preparations—mostly that means everyone is talking about what defensive preparations might look like if we actually knew what we were doing.
+        Buddy says quietly, "Kira, your heart rate is elevated. Are you worried?"
 
-        Remedy suggests, "We should reinforce the eastern wall—that's where most territorial markers appeared."
+        I say, "Of course I'm worried, Buddy."
+
+        Buddy says, "I wish I could help more—I'm not... I wasn't designed for situations like this."
+
+        I reach up and touch the familiar weight on my wrist. I say, "But you're here. That counts for something."
+
+        Holloway is coordinating defensive preparations—which mostly means everyone is discussing what defensive preparations might look like if we knew what we were doing.
+
+        Remedy suggests, "We should reinforce the eastern wall. That's where most territorial markers appeared."
 
         Holloway counters, "But if we concentrate there, they could attack from another direction. We need distributed defense."
 
-        The offshoot Velvet near the facility asks, "How distributed? We can't defend everywhere equally."
+        Velvet, the smaller offshoot maintaining the building near the facility, asks, "How distributed? We can't defend everywhere equally."
 
-        Someone mutters, "Florence would know." —I'm not sure who.
+        "Florence would know," someone mutters. I don't know who.
 
         Awkward silence follows.
 
@@ -32,299 +49,307 @@
 
         Holloway says firmly, "We're managing without Florence. We just need to think strategically."
 
-        Which would be easier if any of them were strategic thinkers. Holloway is great at coordination and procedures—Remedy understands chemistry and biology—Velvet knows growth patterns. Tactical defense? That was Florence's specialty, and she's isolated in a far chamber with nobody talking to her.
+        Which would be easier if any of them were strategic thinkers. Holloway is great at coordination and procedures—Remedy understands chemistry and biology—Velvet knows growth patterns. But tactical defense was Florence's specialty, and she's isolated in a far chamber with nobody talking to her.
 
-        Scout bounces again—an urgent, alert bounce. They're sensing something.
+        Scout bounces urgently—an alert bounce. They're sensing something.
 
         I ask, "What is it?"
 
-        Scout bounces toward the eastern boundary—movement, lots of it.
+        Scout bounces toward the eastern boundary. Movement. Lots of movement.
 
-        Holloway's fruiting bodies contract (alarmed). "Already? The delegation hasn't even—"
+        Holloway's fruiting bodies contract with alarm. Holloway says, "Already? The delegation hasn't even—"
 
         Remedy suggests, "Maybe the delegation arriving triggered a response. Hostile plants saw it as provocation, not a peace offering."
 
         Great. We're being attacked because we tried to be peaceful.
 
-        An hour passes. Two. The movement Scout sensed doesn't develop into an immediate attack, but the tension keeps ratcheting up—everyone is on edge, waiting.
+        An hour passes. Two. The movement Scout sensed doesn't develop into an immediate attack, but the tension keeps ratcheting up. We're all on edge, waiting.
 
-        Finally, Runner and Velvet return. The news is in their posture before they speak—Runner's vines coiled tight, defensive—Velvet's growth contracted, minimal.
+        Finally, Runner and Velvet return.
+
+        Their postures say it before their words—Runner's vines coiled tight, defensive; Velvet's growth contracted and minimal.
 
         Holloway says, "Tell us."
 
         Runner reports, "They rejected the delegation. They wouldn't even let us finish explaining our position."
 
-        I ask, "What did they say?"
+        Velvet answers, flat, "That Kira's presence here is 'contamination.' That allowing a non-plant resident violates the natural order of the territory. That our group has been corrupted by accommodating her existence."
 
-        Velvet answers, flat, "That Kira's presence here is *contamination*. That allowing a non-plant resident violates the natural order of the territory. That our group has been *corrupted* by accommodating her existence."
-
-        *Contamination.* *Corrupted.* Nice.
-
-        Runner hesitates… "They also," Runner says, "mentioned Florence. Someone in the network has been spreading information about the deception. The hostile plants see it as confirmation that our group operates without integrity, can't be trusted, and should be removed from the territory entirely."
+        Contamination. Corrupted. Nice.
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: Steady, quietly tense narration with occasional sharpness for alarm and sarcasm; keep pacing measured except for short urgent bursts during alerts.
+        Overall tone and pacing: low, tense, and measured, with brief surges of anxious energy; keep pauses deliberate to let the listener process alliances and escalation.
 
-        - For "Scout bounces beside me (anxious bounce)" use a light, worried tone and a quick, small pause after "bounce."  
-        - Read the dialogue lines as separate beats—lead in with the speaker then the quote; pause briefly (—) after the lead-in before the quoted line.  
-        - At "Awkward silence follows." insert the long, dramatic pause indicated by the paragraph containing only "¶"—hold for about two seconds before continuing.  
-        - For Holloway's alarmed line "Already? The delegation hasn't even—" let the voice tighten and cut off on the em dash; treat it as interrupted.  
-        - When reading "Scout bounces toward the eastern boundary—movement, lots of it." increase urgency on "movement" and slightly quicker cadence on "lots of it."  
-        - For Velvet's flat report about "contamination" and "corrupted," use a flat, clinical delivery; emphasize the key words *contamination* and *corrupted* with a colder tone.  
-        - For the narrator's sardonic "*Contamination.* *Corrupted.* Nice." use a dry, sarcastic edge on "Nice."
+        - Read "Runner and Velvet leave at dawn." matter-of-fact, calm, then slightly slower into the next line.
+        - Emphasize the contrast in "Runner's vines flowing underground, Velvet spreading low and cautious across the surface." — use a steady, observational tone.
+        - For "I say, "They'll be fine." …" use a confident outward tone then trail into quiet doubt on the ellipsis.
+        - Deliver Buddy's lines gently and apologetically — reference: "Buddy says, "I wish I could help more—I'm not... I wasn't designed for situations like this.""
+        - For the line containing "Awkward silence follows." pause and then place a long, deliberate pause at the paragraph with only "¶".
+        - When Runner and Velvet return, shift to taut, clipped delivery: read "Their postures say it before their words—Runner's vines coiled tight, defensive; Velvet's growth contracted and minimal." with tightened cadence.
+        - Read the final exchange—Runner's report and Velvet's flat recitation—flat and blunt; let the closing three words "Contamination. Corrupted. Nice." land as a dry, bitter cadence, preserving the staccato effect.
       </stage-directions>
     </chunk>
     <chunk>
       <text>
-        Of course network gossip would reach them. Of course Florence's lie would become ammunition for plants who already hate us.
+        Runner hesitates.
+        Runner says, "They mentioned Florence. Someone in the network has been spreading information about the deception. The hostile plants see it as confirmation that our group operates without integrity, can't be trusted, should be removed from the territory entirely."
 
-        Holloway asks — "Did they say when they'll attack?"
+        Of course network gossip would reach them, and of course Florence's lie would become ammunition for plants who already hate us.
 
-        Velvet says — "Soon. They're organized, coordinated, confident. This isn't posturing anymore. They intend to drive us out or destroy the facility."
+        Holloway asks, "Did they say when they'll attack?"
 
-        I say — "With Kira inside."
+        Velvet says, "Soon. They're organized, coordinated, confident. This isn't posturing anymore. They intend to drive us out or destroy the facility."
 
-        Runner says — "They didn't specify what happens to you — but yes, they don't seem concerned about your survival."
+        I add (quietly), "With Kira inside."
 
-        Scout presses against my leg — worry, fear, determination to protect.
+        Runner says, "They didn't specify what happens to you."
+        That isn't reassuring.
+        Runner continues, "But yes, they don't seem concerned about your survival."
 
-        Holloway says — "Right. We defend. Everyone to positions—"
+        Scout presses against my leg—worried, fearful, but determined to protect.
 
-        Remedy interrupts — "What positions? We haven't established defensive positions."
+        Holloway (trying to sound commanding) says, "Right. We defend—Everyone to positions—"
 
-        Holloway says — "Then we establish them now! Remedy, you take the western approach with chemical deterrents. Runner, underground networks — monitor root intrusions. Velvet — reinforce structural weak points. I'll coordinate from central position and—"
+        Remedy interrupts, "What positions? We haven't established defensive positions."
 
-        I say — "That's not a strategy — that's just telling people to do vaguely defensive things in different directions."
+        Holloway says, "Then we establish them now!—Remedy, you take the western approach with chemical deterrents.—Runner, underground networks—monitor root intrusions.—Velvet—" (gestures vaguely at the offshoot maintaining the building) "Reinforce structural weak points.—I'll coordinate from central position and—"
+
+        I say, "That's not a strategy—it's just telling people to do vaguely defensive things in different directions."
 
         Holloway's fruiting bodies droop slightly.
-
-        Holloway asks — "Do you have a better idea?"
-
-        I say — "Florence would."
-
-        Multiple plants react negatively: Runner's vines tighten, Remedy's edges contract, even Velvet makes a disapproving rustle.
-
-        Holloway says — "Florence is not part of this group's defense planning."
-
-        I argue — "Florence is the only one who knows tactical defense! You're all amazing at your specialties, but none of you think like this. You need someone who can coordinate defensive strategy — not just coordinate people doing defensive things."
-
-        Holloway insists — "We can figure it out."
-
-        I ask — "Can we? Because the hostile plants are organized and coordinated and have a plan. And we have 'everyone stand near different walls and hope for the best.'"
-
-        Runner says — "Kira, Florence broke our trust. Working with her after that deception—"
-
-        I interrupt — "We're about to be attacked! By plants who want to drive us out or destroy the facility! With me inside! This isn't the time for hurt feelings!"
-
-        Holloway says — "It's not about hurt feelings — it's about whether we can trust Florence's guidance when she's proven she'll lie to us."
-
-        I remind them — "The guidance was *GOOD*. You admitted that yourself. The source was false but the content was sound."
-
-        Remedy says — "We don't need her. We can defend ourselves."
-
-        I ask — "Can you? Honestly?"
-
-        Nobody answers — they don't know. They _want_ to believe they can defend themselves without Florence, but they're not confident.
+        Holloway asks, "Do you have a better idea?"
 
         ¶
 
-        I say — "I'm going to ask her for help."
+        And suddenly I realize — I might.
 
-        Holloway starts — "Kira—"
+        Not tactics — I don't know tactics. But I know *THEM.* I've been paying attention this whole time. I know Scout is fast and can communicate silently. I know Runner can sense vibrations underground. I know Remedy has chemical compounds that could be weaponized defensively. I know Florence thinks tactically. I know my friends.
 
-        I interrupt — "You can stay mad at her after we survive — right now, we need her tactical thinking, and I'm going to ask her to provide it. You can choose whether to listen to her advice or not. But I'm asking."
+        I say (quietly to Buddy), "Buddy — can you track movement? Multiple positions at once?"
+
+        Buddy (surprised) says, "I... I think so. I wasn't designed for combat scenarios, but my sensors can detect motion and calculate trajectories. Why?"
+
+        I say, "Because we might need that."
+        I add to Holloway, "Florence would."
+
+        Multiple plants react negatively—Runner's vines tighten; Remedy's edges contract; even Velvet makes a disapproving rustling sound.
+
+        Holloway says (stiffly), "Florence is not part of this group's defense planning."
+
+        I argue, "Florence is the only one who knows tactical defense!—You're all amazing at your specialties, but none of you think like this. You need someone who can coordinate defensive strategy, not just coordinate people doing defensive things."
+
+        Holloway insists, "We can figure it out."
+
+        I say, "Can we? Because the hostile plants are organized and coordinated and have a plan— and we have 'everyone stand near different walls and hope for the best.'"
+
+        Runner says carefully, "Kira—Florence broke our trust. Working with her after that deception—"
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: Steady, quietly tense narration with rising urgency at the narrator's interruptions; keep most lines measured, punctuating urgency with sharper delivery and short, emphatic beats.
+        Overall tone and pacing: tense and measured, with contained urgency; push brief spikes of energy for lines that convey planning or alarm, and allow the long pause (¶) to land before the realization.
 
-        - For "Holloway asks — \"Did they say when they'll attack?\"" read with restrained alarm, a slight tightening on "attack".
-        - For Holloway's command block starting "Holloway says — \"Right. We defend...\"" deliver as an attempt at authority; the narrator should sound like they're trying to organize and slightly faltering—(attempting to sound commanding).
-        - For "I say — \"With Kira inside.\"" and "I say — \"Florence would.\"" use a low, intimate tone (quiet but firm) to convey concern and conviction.
-        - For Runner lines (e.g., "Runner says — \"They didn't specify...\"") use careful, cautious delivery; for "Runner says — \"Kira, Florence broke our trust...\"" let the line trail on the em dash as if cut off.
-        - For Velvet's report lines keep a colder, clipped delivery on factual phrases like "They're organized, coordinated, confident." Emphasize the words *organized* and *coordinated* slightly.
-        - On the interruption beats ("Remedy interrupts", "I interrupt") increase tempo briefly and add sharper energy to the narrator's voice for urgency.
-        - When reading "Nobody answers — they don't know." slow down for clarity, then insert the long pause indicated by the paragraph containing only "¶"—hold that silence about two seconds before continuing.
-        - Emphasize *GOOD* in "The guidance was *GOOD*." with increased volume and firmness; emphasize _want_ in "they _want_ to believe" with a slight, softer stress to convey internal conflict.
+        - Read "Runner says, \"They mentioned Florence...\"" with a cautious, reporting tone—slightly slower on the list of accusations so each clause lands.
+        - For "I add (quietly), \"With Kira inside.\"" lower volume and slow pace; treat the parenthetical as a soft aside.
+        - Deliver Holloway's multi-part orders as a single breathy block with medium pauses at each em dash: "Then we establish them now!..."—urgent but clipped.
+        - When the narrator says "And suddenly I realize — I might," place a marked long pause (¶) before that line; then speak it with a sudden inward brightening of voice—quiet discovery.
+        - Read the sequence "I know Scout... I know Runner... I know Remedy..." as a steady, accumulating list—each short sentence slightly more confident.
+        - Buddy's reply should begin hesitant—"I... I think so"—then shift to factual, mechanical tone for the sensor details.
+        - End the chunk with rising tension on the line "Kira—Florence broke our trust..." and trail off on the final em dash to indicate the argument's unresolved weight.
       </stage-directions>
     </chunk>
     <chunk>
       <text>
-        Scout bounces in emphatic agreement — they're Team Ask Florence, apparently.
+        I interrupt.
+        *"We're about to be attacked — by plants who want to drive us out or destroy the facility — with me inside. This isn't the time for hurt feelings!"*
 
-        I head toward the far wing before anyone can stop me.
-        Holloway calls after me — "Kira, wait!"
+        Holloway replies.
+        "It's not about hurt feelings. It's about whether we can trust Florence's guidance when she's proven she'll lie to us."
+
+        I tell them, _"The guidance was good — you admitted that yourself — the source was false but the content was sound."_
+
+        Remedy says, "We don't need her — we can defend ourselves."
+
+        I look around and ask, "Can you, honestly?"
+
+        Nobody answers because they don't know — they want to believe they can defend themselves without Florence, but they're not confident.
+
+        I say, "I'm going to ask her for help."
+
+        Holloway starts to call, "Kira—"
+
+        I interrupt — "You can stay mad at her after we survive — right now we need her tactical thinking, and I'm going to ask her to provide it — you can choose whether to listen to her advice or not — but I'm asking."
+
+        Scout bounces, emphatically agreeing — they're Team Ask Florence, apparently.
+
+        I head toward the far wing before anyone can stop me. Holloway calls after me.
+        "Kira — wait!"
+
         I keep walking.
 
         Florence's chamber is still sparse and isolated. When I arrive, she's positioned near the small window opening, watching the eastern boundary.
 
-        Florence observes without turning — "You can see the hostile plants gathering — they're forming assault positions, multiple approach vectors, coordinated timing — professional execution."
+        Florence observes without turning.
+        "You can see the hostile plants gathering — they're forming assault positions — multiple approach vectors, coordinated timing. Professional execution."
 
-        I say — "We need your help."
+        I say, "We need your help."
 
         Florence's platform rotates slightly to face me.
-        Florence says — "Do you? Or does Holloway need my help while resenting that fact?"
+        "Do you? Or does Holloway need my help while resenting that fact?"
 
-        I say — "Both — all of us need your help, whether we want to admit it or not."
+        I say, "Both — all of us need your help, whether we want to admit it or not."
 
-        Florence — "I'm not welcome in the group anymore, Kira — the others made that very clear."
+        Florence: "I'm not welcome in the group anymore, Kira. They made that very clear."
 
-        I say — "People are about to get hurt — I'm about to be in real danger — does that matter more than what they said to you two days ago?"
+        I answer, "People are about to get hurt — I'm about to be in real danger. Does that matter more than what they said to you two days ago?"
 
-        Florence is quiet for a long moment.
         ¶
-        Florence — "That's not fair."
 
-        I say — "None of this is fair — you lied to them, they exiled you, and now hostile plants are attacking and we're all going to suffer for it. Fair doesn't enter into the situation."
+        Florence says finally, "That's not fair."
 
-        Florence asks — "What exactly are you asking me to do?"
+        I say, "None of this is fair — you lied to them, they exiled you, now hostile plants are attacking and we're all going to suffer for it. Fair doesn't enter into the situation."
 
-        I say — "Come back — provide tactical guidance — help us defend the facility."
+        Florence asks, "What exactly are you asking me to do?"
 
-        Florence — "And after? When the attack is over and I'm not immediately useful anymore?"
+        I say, "Come back — provide tactical guidance — help us defend the facility."
 
-        I admit — "I don't know — but right now we need you, and you're the only one who can help us survive this."
+        Florence: "And after? When the attack is over and I'm not immediately useful anymore?"
+
+        I admit, "I don't know. But right now, we need you — and you're the only one who can help us survive this."
 
         Florence looks back toward the window.
-        Florence — "They won't listen to me — they don't trust my judgment."
+        "They won't listen to me. They don't trust my judgment."
 
-        I say — "They'll listen if the alternative is losing."
+        I say, "They'll listen if the alternative is losing."
 
-        Florence — "Will they? Or will they let pride override survival instinct?"
+        Florence asks, "Will they? Or will they let pride override survival instinct?"
 
-        That's a fair question — I don't have a good answer.
+        It's a fair question — I don't have a good answer.
 
-        I say — "Holloway is trying — really trying to coordinate defense — but tactical thinking isn't their specialty. They're assigning people to positions based on vague principles, not actual strategy — we're going to lose if you don't help."
-
-        Florence — "And if I do help, if my guidance saves everyone, will they thank me? Forgive me? Or resent that they needed me?"
-
-        I say honestly — "Probably the last one — at least at first."
-
-        Florence makes a sound like rustling leaves — maybe a laugh.
-        Florence — "You're very honest."
-
-        I say — "You were honest too — eventually — about what you did and why. They didn't want to hear it, but you told them anyway."
-
-        Florence — "And look where that got me."
-
-        I say — "It got you isolated but alive — which is better than integrated but destroyed by hostile plants."
-
-        Another long silence.
-        ¶
-        I add — "Please — I know they hurt you — I know you have every right to be angry and resentful — but I'm asking anyway: help us survive this."
-
-        Florence turns fully to face me.
-        Florence — "Why do you care? You're not a plant — this isn't your conflict."
+        I say, "Holloway is trying — really trying to coordinate defense — but tactical thinking isn't their specialty — they're assigning people to positions based on vague principles, not actual strategy — we're going to lose if you don't help."
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: Quiet, tense narration with a growing urgency in the narrator's pleas; keep most lines measured and factual, moving sharper when the narrator interrupts or presses Florence.
+        Overall tone &amp; pacing: urgent and pragmatic, kept measured rather than frantic; push sharper bursts on alarmed lines and steady pleading where the narrator asks Florence to return.
 
-        - For "Holloway calls after me — \"Kira, wait!\"" read with restrained alarm; let the alarm show without rushing the following line "I keep walking.".
-        - For Florence's technical observations like "You can see the hostile plants gathering — ... professional execution." use a cool, detached delivery — slightly clinical and precise.
-        - For the narrator lines that are pleading or trying to persuade (lead lines beginning "I say —" or "I admit —") shift to a warmer, more urgent tone; increase intensity gradually across the block "We need your help" → "Come back..." → "Please...".
-        - When a long pause is indicated by the paragraph-only "¶", hold silence roughly two seconds; the narrator should inhale and settle into that pause as if listening for Florence's reaction.
-        - For Florence's questions and doubts (lines beginning "Florence —") use a guarded, wounded tone — skeptical and measured; let small pauses sit inside lines (em dashes mark those beats).
-        - On the line "I say honestly — \"Probably the last one — at least at first.\"" give a blunt, almost resigned delivery for "Probably the last one", then soften slightly for "at least at first.".
-        - Keep all other descriptive lines (e.g., "Florence's chamber is still sparse and isolated.") calm and observational — the narrator remains grounded and factual except when emotionally pressed.
+        - Read the opening line "*'We're about to be attacked — by plants...'*" with high alarm and force — a quick inhale before it, then drop to a clipped, breathless tempo through the em dashes.
+        - Deliver Holloway's line "It's not about hurt feelings..." firmly — assertive, even a touch cold. Avoid any softness.
+        - When the narrator says _"The guidance was good..."_ use calm, rational emphasis on "good" (slightly raised tone) — this is persuasion, not anger.
+        - For the narrator's multi-beat block beginning "You can stay mad at her after we survive — ..." treat it as a single continuous plea with short, decisive beats at each em dash — steady urgency, not shouting.
+        - Insert a long, held silence at the paragraph with only "¶" — allow a full, weighty pause before "That's not fair." This is where the scene breathes.
+        - Read Florence's descriptive lines about the plants with clinical detachment — precise, observant, almost mechanical.
+        - End the chunk with mounting insistence on "we're going to lose if you don't help" — a rising, earnest push but controlled; don't break into shouting.
       </stage-directions>
     </chunk>
     <chunk>
       <text>
-        I say — "I live here."
+        Florence asks, "And if I do help, if my guidance saves everyone, will they thank me? Forgive me? Or resent that they needed me?"
 
-        "These plants have been trying to keep me alive even when they don't know how. They care about me even though I'm different, even though helping me is complicated. And they're about to be attacked because they let me stay. So yes, this is my conflict."
+        I say—honestly—"Probably the last one. At least at first."
 
-        Scout bounces — emphatic agreement.
+        Florence makes a sound like rustling leaves—maybe a laugh. She says, "You're very honest."
 
-        Florence looks at Scout, then back to me. Florence says — "If I help — and I'm not saying I will — but if I help, it's because you're asking. Not them. You."
+        I say, "You were honest too. Eventually. About what you did and why. They didn't want to hear it, but you told them anyway."
 
-        I say — "I'll take that."
+        Florence says, "And look where that got me."
 
-        She is quiet for a moment.
+        I say, "It got you isolated but alive. Which is better than integrated but destroyed by hostile plants."
 
         ¶
 
-        Florence asks — "What are they doing wrong?"
+        I add, "Please. I know they hurt you. I know you have every right to be angry and resentful. But I'm asking anyway—help us survive this."
 
-        I say — "Everything. Holloway's assigning defensive positions based on 'everyone stand near something and defend it.' No cohesive strategy, no coordination between defenders, no plan for what happens when the attack actually comes."
+        Florence turns fully to face me. She asks, "Why do you care? You're not a plant. This isn't your conflict."
 
-        Florence makes a disapproving sound. Florence says — "Typical. They're thinking about defense as a collection of individual actions, not as a coordinated system."
+        I say, "I live here. These plants have been trying to keep me alive even when they don't know how. They care about me even though I'm different, even though helping me is complicated. And they're about to be attacked because they let me stay. So yes—this is my conflict."
 
-        I say — "So help me fix that."
+        Scout bounces—an emphatic agreement.
 
-        Florence repeats — "They won't listen to me."
+        Florence looks at Scout, then back to me. She says, "If I help—and I'm not saying I will—but if I help, it's because you're asking. Not them. You."
 
-        I say — "Then help me understand what needs to happen, and I'll tell them. Make me your proxy if you don't want to face them directly."
+        I say, "I'll take that."
 
-        Florence considers this. Florence says — "That could work. You give them tactical guidance — 'based on your human military knowledge' or some fiction like that. They listen because it's coming from you, not me."
+        She's quiet for another moment. Then she asks, "What are they doing wrong?"
 
-        I suggest — "Or we could just be honest. Tell them the guidance is from you and they can take it or leave it. But at least give them the option."
+        I say, "Everything. Holloway's assigning defensive positions based on 'everyone stand near something and defend it.' No cohesive strategy, no coordination between defenders, no plan for what happens when the attack actually comes."
 
-        Florence, voice tinged with bitterness, says — "Honest. Because honesty worked so well for me before."
+        Florence makes a disapproving sound. She says, "Typical. They're thinking about defense as a collection of individual actions, not as a coordinated system."
 
-        I say — "It did, actually. They didn't like what you said, but they heard you. You told them the truth about what you did and why. Maybe they'll hear the truth about how to survive this too."
+        I say, "So help me fix that."
 
-        Florence says — "You're more optimistic than I am."
+        Florence repeats, "They won't listen to me."
 
-        I say — "One of us has to be."
+        I say, "Then help me understand what needs to happen, and I'll tell them. Make me your proxy if you don't want to face them directly."
 
-        Scout bounces — agreement, encouragement, hope.
+        Florence considers this. She says, "That could work. You give them tactical guidance—'based on your human military knowledge'—or some fiction like that. They listen because it's coming from you, not me."
 
-        Florence looks between us. Florence says — "If I come back and they reject my guidance, if they let pride override survival, I'm returning here. I won't watch people get hurt because they're too stubborn to listen."
+        I suggest, "Or we could just be honest. Tell them the guidance is from you and they can take it or leave it. But at least give them the option."
 
-        I say — "Fair enough."
+        Florence says—voice tinged with bitterness—"Honest. Because honesty worked so well for me before."
 
-        Florence says — "And if we survive this, it doesn't mean automatic forgiveness. I'm still the one who lied to them. They're still the ones who exiled me. Those facts don't change."
+        I say, "It did, actually. They didn't like what you said, but they heard you. You told them the truth about what you did and why. Maybe they'll hear the truth about how to survive this too."
 
-        I say — "I know."
+        Florence says, "You're more optimistic than I am."
 
-        Florence admits quietly — "But you're right that Kira being in danger matters more than my resentment. I can be angry about how they treated me _and_ help keep you alive. Both can be true."
+        I say, "One of us has to be."
 
-        I agree — "Both *CAN* be true."
+        Scout bounces—agreement, encouragement, hope.
 
-        Florence turns her platform toward the door. Florence says — "Let's go save everyone who hates me."
+        Florence looks between us. She says, "If I come back and they reject my guidance, if they let pride override survival, I'm returning here. I won't watch people get hurt because they're too stubborn to listen."
 
-        I say — "They don't hate you."
-
-        Florence asks — "Don't they?"
-
-        I say — "They're hurt by you. There's a difference."
-
-        Florence says — "Sometimes the difference doesn't matter much. But I suppose we'll find out."
-
-        We head back toward the main facility. Scout bounces ahead — excited, worried, hopeful all at once.
-
-        Behind us, through the window, the hostile plants continue gathering.
-
-        The attack is coming.
+        I say, "Fair enough."
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: Keep the narration quiet and measured, with growing urgency and warmth when the narrator presses Florence; Florence stays cool and guarded until she softens reluctantly.
+        Overall tone &amp; pacing: quiet, earnest, and pragmatic — measured pleading from the narrator, weary skepticism from Florence, light hopeful beats from Scout.
 
-        - For "I say — \"I live here.\"" read calmly, plain and resigned, then let the following quote carry steady, factual warmth.
-        - For Florence's technical criticism like "They're thinking about defense as a collection..." use a cool, clinical delivery — slight detachment.
-        - For pleading or persuasive narrator lines such as "So help me fix that" or "Then help me understand..." shift to a warmer, more insistent tone; increase urgency over successive lines.
-        - Insert a full, quiet pause at the paragraph-only "¶" — hold about two seconds before the next line.
-        - When indicating Scout's bounces, voice stays narratoral but brighten slightly for each bounce: "Scout bounces — agreement, encouragement, hope."
-        - For Florence's bitter or wounded lines (e.g., "Honest. Because honesty worked so well for me before.") use a guarded, slightly sour tone.
-        - Emphasize "*CAN*" in "Both *CAN* be true" with slightly more force — one brief, controlled increase in volume.
+        - Read Florence's opening question with weary uncertainty—slower cadence, slight lift on the final question to convey hurt: "And if I do help..."
+        - Deliver the narrator's replies steady and persuasive; use a soft, honest tone for "I say—honestly—" and keep the lines flowing rather than clipped.
+        - Insert a long, held silence at the paragraph with only "¶" — allow a full, weighty pause before the narrator pleads "Please..."
+        - For lines marked as stage asides (for example "Florence makes a sound like rustling leaves—maybe a laugh") use a small, descriptive inflection — not a full laugh, just the sense of a delicate sound.
+        - Read Holloway quote in a slightly mocking, exasperated tone when delivered: "'everyone stand near something and defend it.'"
+        - When Florence's line is noted as "voice tinged with bitterness," add a thin edge to the voice for that single line but avoid full anger; keep it controlled.
+        - Treat Scout's bounces as nonverbal punctuation — use a quick brighter lift for the narrator's following line to register the small burst of encouragement.
+        - End "Fair enough." with a small, accepting nod in tone — closed, steady.
       </stage-directions>
     </chunk>
     <chunk>
-      <text>And we're about to find out — if necessity can override resentment — long enough to *survive*.</text>
-      <stage-directions>
-        Overall tone &amp; pacing: Quiet and measured, with a subtle build of urgency toward the end; end on a brief, decisive note.
+      <text>
+        Florence says —weary— "And if we survive this, it doesn't mean automatic forgiveness. I'm still the one who lied to them. They're still the ones who exiled me. Those facts don't change."
 
-        - Read the lead "And we're about to find out" calmly and even, as a quiet setup.
-        - Pause at the first em dash: hold a medium beat (about 300-400ms) before continuing.
-        - Deliver "if necessity can override resentment" with a touch more tension and forward motion — slightly quicker, more inquisitive.
-        - Pause at the second em dash: another medium beat to let the possibility hang.
-        - Say the final word "*survive*" with a bit more force and clarity — not loud, but definitive.
-        - Clarify mentally that "we" refers to the speaker and their companion(s); keep the narrator's perspective steady.
-        - Plain closing cadence; clean fall, short pause
+        I say, "I know."
+
+        Florence says —softly— "But you're right that Kira being in danger matters more than my resentment — I can be angry about how they treated me *AND* help keep you alive. Both can be true."
+
+        I say, "Both *CAN* be true."
+
+        Florence turns her platform toward the door. Florence says, "Let's go save everyone who hates me."
+
+        I say, "They don't hate you."
+
+        Florence says, "Don't they? — They're hurt by you. There's a difference — sometimes the difference doesn't matter much, but I suppose we'll find out."
+
+        We head back toward the main facility. Scout bounces ahead—excited, worried, hopeful.
+
+        Behind us, through the window, the hostile plants continue gathering.
+
+        ¶
+
+        The attack is coming.
+
+        And we're about to find out if necessity can override resentment long enough to survive.
+      </text>
+      <stage-directions>
+        Overall tone &amp; pacing: quiet, tense, and focused — measured sincerity from the narrator, weary restraint from Florence, a small bright beat for Scout. Build toward a sharp, decisive finish.
+
+        - Read Florence's opening block with weary certainty; slightly slower cadence, a thin edge on the final sentence "Those facts don't change." to convey resignation.
+        - Deliver "I know." steady and concise — a quiet affirmation, not defensive.
+        - Read Florence's next block softly — use a gentle, reconciliatory tone for "But you're right..." and add force on *AND* to reflect internal conflict.
+        - For the exchange around "They don't hate you" / "Don't they?"—keep it intimate; the narrator is calming, Florence is probing—use a subtle lift on the question to show uncertainty.
+        - When narrating movement use brisk, efficient pacing: "We head back toward the main facility." Follow immediately with a brighter, quick lift for "Scout bounces ahead—excited, worried, hopeful." to register the tiny hopeful beat.
+        - Insert a long, held silence at the paragraph with only "¶" before "The attack is coming." let the tension settle and then deliver "The attack is coming." short and hard.
+        - Closing cadence: Firm terminal fall; decisive stop
       </stage-directions>
     </chunk>
   </chunks>
   <unusual-pronunciations>
+    <word text="Buddy"/>
     <word text="Florence"/>
     <word text="Holloway"/>
     <word text="Kira"/>
@@ -339,242 +364,252 @@
 
     I watch them go from the facility entrance—Runner's vines flowing underground, Velvet spreading low and cautious across the surface. They're approaching the hostile plant gathering point with a message of peace, hoping diplomacy works where threats haven't.
 
-    Scout bounces beside me (anxious bounce)—they don't like Runner leaving, they don't like the tension in the air.
+    Scout bounces beside me—an anxious, restless motion. They don't like Runner leaving; they don't like the tension in the air.
 
-    I say, "They'll be fine." «I'm not sure I believe it.»
+    I say, "They'll be fine." …
+    I'm not sure I believe it.
 
-    Holloway is coordinating defensive preparations—mostly that means everyone is talking about what defensive preparations might look like if we actually knew what we were doing.
+    Buddy says quietly, "Kira, your heart rate is elevated. Are you worried?"
 
-    Remedy suggests, "We should reinforce the eastern wall—that's where most territorial markers appeared."
+    I say, "Of course I'm worried, Buddy."
+
+    Buddy says, "I wish I could help more—I'm not... I wasn't designed for situations like this."
+
+    I reach up and touch the familiar weight on my wrist. I say, "But you're here. That counts for something."
+
+    Holloway is coordinating defensive preparations—which mostly means everyone is discussing what defensive preparations might look like if we knew what we were doing.
+
+    Remedy suggests, "We should reinforce the eastern wall. That's where most territorial markers appeared."
 
     Holloway counters, "But if we concentrate there, they could attack from another direction. We need distributed defense."
 
-    The offshoot Velvet near the facility asks, "How distributed? We can't defend everywhere equally."
+    Velvet, the smaller offshoot maintaining the building near the facility, asks, "How distributed? We can't defend everywhere equally."
 
-    Someone mutters, "Florence would know." —I'm not sure who.
+    "Florence would know," someone mutters. I don't know who.
 
     Awkward silence follows.
 
     Holloway says firmly, "We're managing without Florence. We just need to think strategically."
 
-    Which would be easier if any of them were strategic thinkers. Holloway is great at coordination and procedures—Remedy understands chemistry and biology—Velvet knows growth patterns. Tactical defense? That was Florence's specialty, and she's isolated in a far chamber with nobody talking to her.
+    Which would be easier if any of them were strategic thinkers. Holloway is great at coordination and procedures—Remedy understands chemistry and biology—Velvet knows growth patterns. But tactical defense was Florence's specialty, and she's isolated in a far chamber with nobody talking to her.
 
-    Scout bounces again—an urgent, alert bounce. They're sensing something.
+    Scout bounces urgently—an alert bounce. They're sensing something.
 
     I ask, "What is it?"
 
-    Scout bounces toward the eastern boundary—movement, lots of it.
+    Scout bounces toward the eastern boundary. Movement. Lots of movement.
 
-    Holloway's fruiting bodies contract (alarmed). "Already? The delegation hasn't even—"
+    Holloway's fruiting bodies contract with alarm. Holloway says, "Already? The delegation hasn't even—"
 
     Remedy suggests, "Maybe the delegation arriving triggered a response. Hostile plants saw it as provocation, not a peace offering."
 
     Great. We're being attacked because we tried to be peaceful.
 
-    An hour passes. Two. The movement Scout sensed doesn't develop into an immediate attack, but the tension keeps ratcheting up—everyone is on edge, waiting.
+    An hour passes. Two. The movement Scout sensed doesn't develop into an immediate attack, but the tension keeps ratcheting up. We're all on edge, waiting.
 
-    Finally, Runner and Velvet return. The news is in their posture before they speak—Runner's vines coiled tight, defensive—Velvet's growth contracted, minimal.
+    Finally, Runner and Velvet return.
+
+    Their postures say it before their words—Runner's vines coiled tight, defensive; Velvet's growth contracted and minimal.
 
     Holloway says, "Tell us."
 
     Runner reports, "They rejected the delegation. They wouldn't even let us finish explaining our position."
 
-    I ask, "What did they say?"
+    Velvet answers, flat, "That Kira's presence here is 'contamination.' That allowing a non-plant resident violates the natural order of the territory. That our group has been corrupted by accommodating her existence."
 
-    Velvet answers, flat, "That Kira's presence here is *contamination*. That allowing a non-plant resident violates the natural order of the territory. That our group has been *corrupted* by accommodating her existence."
+    Contamination. Corrupted. Nice.
 
-    *Contamination.* *Corrupted.* Nice.
+    Runner hesitates.
+    Runner says, "They mentioned Florence. Someone in the network has been spreading information about the deception. The hostile plants see it as confirmation that our group operates without integrity, can't be trusted, should be removed from the territory entirely."
 
-    Runner hesitates… "They also," Runner says, "mentioned Florence. Someone in the network has been spreading information about the deception. The hostile plants see it as confirmation that our group operates without integrity, can't be trusted, and should be removed from the territory entirely."
+    Of course network gossip would reach them, and of course Florence's lie would become ammunition for plants who already hate us.
 
-    Of course network gossip would reach them. Of course Florence's lie would become ammunition for plants who already hate us.
+    Holloway asks, "Did they say when they'll attack?"
 
-    Holloway asks — "Did they say when they'll attack?"
+    Velvet says, "Soon. They're organized, coordinated, confident. This isn't posturing anymore. They intend to drive us out or destroy the facility."
 
-    Velvet says — "Soon. They're organized, coordinated, confident. This isn't posturing anymore. They intend to drive us out or destroy the facility."
+    I add (quietly), "With Kira inside."
 
-    I say — "With Kira inside."
+    Runner says, "They didn't specify what happens to you."
+    That isn't reassuring.
+    Runner continues, "But yes, they don't seem concerned about your survival."
 
-    Runner says — "They didn't specify what happens to you — but yes, they don't seem concerned about your survival."
+    Scout presses against my leg—worried, fearful, but determined to protect.
 
-    Scout presses against my leg — worry, fear, determination to protect.
+    Holloway (trying to sound commanding) says, "Right. We defend—Everyone to positions—"
 
-    Holloway says — "Right. We defend. Everyone to positions—"
+    Remedy interrupts, "What positions? We haven't established defensive positions."
 
-    Remedy interrupts — "What positions? We haven't established defensive positions."
+    Holloway says, "Then we establish them now!—Remedy, you take the western approach with chemical deterrents.—Runner, underground networks—monitor root intrusions.—Velvet—" (gestures vaguely at the offshoot maintaining the building) "Reinforce structural weak points.—I'll coordinate from central position and—"
 
-    Holloway says — "Then we establish them now! Remedy, you take the western approach with chemical deterrents. Runner, underground networks — monitor root intrusions. Velvet — reinforce structural weak points. I'll coordinate from central position and—"
-
-    I say — "That's not a strategy — that's just telling people to do vaguely defensive things in different directions."
+    I say, "That's not a strategy—it's just telling people to do vaguely defensive things in different directions."
 
     Holloway's fruiting bodies droop slightly.
+    Holloway asks, "Do you have a better idea?"
 
-    Holloway asks — "Do you have a better idea?"
+    And suddenly I realize — I might.
 
-    I say — "Florence would."
+    Not tactics — I don't know tactics. But I know *THEM.* I've been paying attention this whole time. I know Scout is fast and can communicate silently. I know Runner can sense vibrations underground. I know Remedy has chemical compounds that could be weaponized defensively. I know Florence thinks tactically. I know my friends.
 
-    Multiple plants react negatively: Runner's vines tighten, Remedy's edges contract, even Velvet makes a disapproving rustle.
+    I say (quietly to Buddy), "Buddy — can you track movement? Multiple positions at once?"
 
-    Holloway says — "Florence is not part of this group's defense planning."
+    Buddy (surprised) says, "I... I think so. I wasn't designed for combat scenarios, but my sensors can detect motion and calculate trajectories. Why?"
 
-    I argue — "Florence is the only one who knows tactical defense! You're all amazing at your specialties, but none of you think like this. You need someone who can coordinate defensive strategy — not just coordinate people doing defensive things."
+    I say, "Because we might need that."
+    I add to Holloway, "Florence would."
 
-    Holloway insists — "We can figure it out."
+    Multiple plants react negatively—Runner's vines tighten; Remedy's edges contract; even Velvet makes a disapproving rustling sound.
 
-    I ask — "Can we? Because the hostile plants are organized and coordinated and have a plan. And we have 'everyone stand near different walls and hope for the best.'"
+    Holloway says (stiffly), "Florence is not part of this group's defense planning."
 
-    Runner says — "Kira, Florence broke our trust. Working with her after that deception—"
+    I argue, "Florence is the only one who knows tactical defense!—You're all amazing at your specialties, but none of you think like this. You need someone who can coordinate defensive strategy, not just coordinate people doing defensive things."
 
-    I interrupt — "We're about to be attacked! By plants who want to drive us out or destroy the facility! With me inside! This isn't the time for hurt feelings!"
+    Holloway insists, "We can figure it out."
 
-    Holloway says — "It's not about hurt feelings — it's about whether we can trust Florence's guidance when she's proven she'll lie to us."
+    I say, "Can we? Because the hostile plants are organized and coordinated and have a plan— and we have 'everyone stand near different walls and hope for the best.'"
 
-    I remind them — "The guidance was *GOOD*. You admitted that yourself. The source was false but the content was sound."
+    Runner says carefully, "Kira—Florence broke our trust. Working with her after that deception—"
 
-    Remedy says — "We don't need her. We can defend ourselves."
+    I interrupt.
+    *"We're about to be attacked — by plants who want to drive us out or destroy the facility — with me inside. This isn't the time for hurt feelings!"*
 
-    I ask — "Can you? Honestly?"
+    Holloway replies.
+    "It's not about hurt feelings. It's about whether we can trust Florence's guidance when she's proven she'll lie to us."
 
-    Nobody answers — they don't know. They _want_ to believe they can defend themselves without Florence, but they're not confident.
+    I tell them, _"The guidance was good — you admitted that yourself — the source was false but the content was sound."_
 
-    I say — "I'm going to ask her for help."
+    Remedy says, "We don't need her — we can defend ourselves."
 
-    Holloway starts — "Kira—"
+    I look around and ask, "Can you, honestly?"
 
-    I interrupt — "You can stay mad at her after we survive — right now, we need her tactical thinking, and I'm going to ask her to provide it. You can choose whether to listen to her advice or not. But I'm asking."
+    Nobody answers because they don't know — they want to believe they can defend themselves without Florence, but they're not confident.
 
-    Scout bounces in emphatic agreement — they're Team Ask Florence, apparently.
+    I say, "I'm going to ask her for help."
 
-    I head toward the far wing before anyone can stop me.
-    Holloway calls after me — "Kira, wait!"
+    Holloway starts to call, "Kira—"
+
+    I interrupt — "You can stay mad at her after we survive — right now we need her tactical thinking, and I'm going to ask her to provide it — you can choose whether to listen to her advice or not — but I'm asking."
+
+    Scout bounces, emphatically agreeing — they're Team Ask Florence, apparently.
+
+    I head toward the far wing before anyone can stop me. Holloway calls after me.
+    "Kira — wait!"
+
     I keep walking.
 
     Florence's chamber is still sparse and isolated. When I arrive, she's positioned near the small window opening, watching the eastern boundary.
 
-    Florence observes without turning — "You can see the hostile plants gathering — they're forming assault positions, multiple approach vectors, coordinated timing — professional execution."
+    Florence observes without turning.
+    "You can see the hostile plants gathering — they're forming assault positions — multiple approach vectors, coordinated timing. Professional execution."
 
-    I say — "We need your help."
+    I say, "We need your help."
 
     Florence's platform rotates slightly to face me.
-    Florence says — "Do you? Or does Holloway need my help while resenting that fact?"
+    "Do you? Or does Holloway need my help while resenting that fact?"
 
-    I say — "Both — all of us need your help, whether we want to admit it or not."
+    I say, "Both — all of us need your help, whether we want to admit it or not."
 
-    Florence — "I'm not welcome in the group anymore, Kira — the others made that very clear."
+    Florence: "I'm not welcome in the group anymore, Kira. They made that very clear."
 
-    I say — "People are about to get hurt — I'm about to be in real danger — does that matter more than what they said to you two days ago?"
+    I answer, "People are about to get hurt — I'm about to be in real danger. Does that matter more than what they said to you two days ago?"
 
-    Florence is quiet for a long moment.
+    Florence says finally, "That's not fair."
 
-    Florence — "That's not fair."
+    I say, "None of this is fair — you lied to them, they exiled you, now hostile plants are attacking and we're all going to suffer for it. Fair doesn't enter into the situation."
 
-    I say — "None of this is fair — you lied to them, they exiled you, and now hostile plants are attacking and we're all going to suffer for it. Fair doesn't enter into the situation."
+    Florence asks, "What exactly are you asking me to do?"
 
-    Florence asks — "What exactly are you asking me to do?"
+    I say, "Come back — provide tactical guidance — help us defend the facility."
 
-    I say — "Come back — provide tactical guidance — help us defend the facility."
+    Florence: "And after? When the attack is over and I'm not immediately useful anymore?"
 
-    Florence — "And after? When the attack is over and I'm not immediately useful anymore?"
-
-    I admit — "I don't know — but right now we need you, and you're the only one who can help us survive this."
+    I admit, "I don't know. But right now, we need you — and you're the only one who can help us survive this."
 
     Florence looks back toward the window.
-    Florence — "They won't listen to me — they don't trust my judgment."
+    "They won't listen to me. They don't trust my judgment."
 
-    I say — "They'll listen if the alternative is losing."
+    I say, "They'll listen if the alternative is losing."
 
-    Florence — "Will they? Or will they let pride override survival instinct?"
+    Florence asks, "Will they? Or will they let pride override survival instinct?"
 
-    That's a fair question — I don't have a good answer.
+    It's a fair question — I don't have a good answer.
 
-    I say — "Holloway is trying — really trying to coordinate defense — but tactical thinking isn't their specialty. They're assigning people to positions based on vague principles, not actual strategy — we're going to lose if you don't help."
+    I say, "Holloway is trying — really trying to coordinate defense — but tactical thinking isn't their specialty — they're assigning people to positions based on vague principles, not actual strategy — we're going to lose if you don't help."
 
-    Florence — "And if I do help, if my guidance saves everyone, will they thank me? Forgive me? Or resent that they needed me?"
+    Florence asks, "And if I do help, if my guidance saves everyone, will they thank me? Forgive me? Or resent that they needed me?"
 
-    I say honestly — "Probably the last one — at least at first."
+    I say—honestly—"Probably the last one. At least at first."
 
-    Florence makes a sound like rustling leaves — maybe a laugh.
-    Florence — "You're very honest."
+    Florence makes a sound like rustling leaves—maybe a laugh. She says, "You're very honest."
 
-    I say — "You were honest too — eventually — about what you did and why. They didn't want to hear it, but you told them anyway."
+    I say, "You were honest too. Eventually. About what you did and why. They didn't want to hear it, but you told them anyway."
 
-    Florence — "And look where that got me."
+    Florence says, "And look where that got me."
 
-    I say — "It got you isolated but alive — which is better than integrated but destroyed by hostile plants."
+    I say, "It got you isolated but alive. Which is better than integrated but destroyed by hostile plants."
 
-    Another long silence.
+    I add, "Please. I know they hurt you. I know you have every right to be angry and resentful. But I'm asking anyway—help us survive this."
 
-    I add — "Please — I know they hurt you — I know you have every right to be angry and resentful — but I'm asking anyway: help us survive this."
+    Florence turns fully to face me. She asks, "Why do you care? You're not a plant. This isn't your conflict."
 
-    Florence turns fully to face me.
-    Florence — "Why do you care? You're not a plant — this isn't your conflict."
+    I say, "I live here. These plants have been trying to keep me alive even when they don't know how. They care about me even though I'm different, even though helping me is complicated. And they're about to be attacked because they let me stay. So yes—this is my conflict."
 
-    I say — "I live here."
+    Scout bounces—an emphatic agreement.
 
-    "These plants have been trying to keep me alive even when they don't know how. They care about me even though I'm different, even though helping me is complicated. And they're about to be attacked because they let me stay. So yes, this is my conflict."
+    Florence looks at Scout, then back to me. She says, "If I help—and I'm not saying I will—but if I help, it's because you're asking. Not them. You."
 
-    Scout bounces — emphatic agreement.
+    I say, "I'll take that."
 
-    Florence looks at Scout, then back to me. Florence says — "If I help — and I'm not saying I will — but if I help, it's because you're asking. Not them. You."
+    She's quiet for another moment. Then she asks, "What are they doing wrong?"
 
-    I say — "I'll take that."
+    I say, "Everything. Holloway's assigning defensive positions based on 'everyone stand near something and defend it.' No cohesive strategy, no coordination between defenders, no plan for what happens when the attack actually comes."
 
-    She is quiet for a moment.
+    Florence makes a disapproving sound. She says, "Typical. They're thinking about defense as a collection of individual actions, not as a coordinated system."
 
-    Florence asks — "What are they doing wrong?"
+    I say, "So help me fix that."
 
-    I say — "Everything. Holloway's assigning defensive positions based on 'everyone stand near something and defend it.' No cohesive strategy, no coordination between defenders, no plan for what happens when the attack actually comes."
+    Florence repeats, "They won't listen to me."
 
-    Florence makes a disapproving sound. Florence says — "Typical. They're thinking about defense as a collection of individual actions, not as a coordinated system."
+    I say, "Then help me understand what needs to happen, and I'll tell them. Make me your proxy if you don't want to face them directly."
 
-    I say — "So help me fix that."
+    Florence considers this. She says, "That could work. You give them tactical guidance—'based on your human military knowledge'—or some fiction like that. They listen because it's coming from you, not me."
 
-    Florence repeats — "They won't listen to me."
+    I suggest, "Or we could just be honest. Tell them the guidance is from you and they can take it or leave it. But at least give them the option."
 
-    I say — "Then help me understand what needs to happen, and I'll tell them. Make me your proxy if you don't want to face them directly."
+    Florence says—voice tinged with bitterness—"Honest. Because honesty worked so well for me before."
 
-    Florence considers this. Florence says — "That could work. You give them tactical guidance — 'based on your human military knowledge' or some fiction like that. They listen because it's coming from you, not me."
+    I say, "It did, actually. They didn't like what you said, but they heard you. You told them the truth about what you did and why. Maybe they'll hear the truth about how to survive this too."
 
-    I suggest — "Or we could just be honest. Tell them the guidance is from you and they can take it or leave it. But at least give them the option."
+    Florence says, "You're more optimistic than I am."
 
-    Florence, voice tinged with bitterness, says — "Honest. Because honesty worked so well for me before."
+    I say, "One of us has to be."
 
-    I say — "It did, actually. They didn't like what you said, but they heard you. You told them the truth about what you did and why. Maybe they'll hear the truth about how to survive this too."
+    Scout bounces—agreement, encouragement, hope.
 
-    Florence says — "You're more optimistic than I am."
+    Florence looks between us. She says, "If I come back and they reject my guidance, if they let pride override survival, I'm returning here. I won't watch people get hurt because they're too stubborn to listen."
 
-    I say — "One of us has to be."
+    I say, "Fair enough."
 
-    Scout bounces — agreement, encouragement, hope.
+    Florence says —weary— "And if we survive this, it doesn't mean automatic forgiveness. I'm still the one who lied to them. They're still the ones who exiled me. Those facts don't change."
 
-    Florence looks between us. Florence says — "If I come back and they reject my guidance, if they let pride override survival, I'm returning here. I won't watch people get hurt because they're too stubborn to listen."
+    I say, "I know."
 
-    I say — "Fair enough."
+    Florence says —softly— "But you're right that Kira being in danger matters more than my resentment — I can be angry about how they treated me *AND* help keep you alive. Both can be true."
 
-    Florence says — "And if we survive this, it doesn't mean automatic forgiveness. I'm still the one who lied to them. They're still the ones who exiled me. Those facts don't change."
+    I say, "Both *CAN* be true."
 
-    I say — "I know."
+    Florence turns her platform toward the door. Florence says, "Let's go save everyone who hates me."
 
-    Florence admits quietly — "But you're right that Kira being in danger matters more than my resentment. I can be angry about how they treated me _and_ help keep you alive. Both can be true."
+    I say, "They don't hate you."
 
-    I agree — "Both *CAN* be true."
+    Florence says, "Don't they? — They're hurt by you. There's a difference — sometimes the difference doesn't matter much, but I suppose we'll find out."
 
-    Florence turns her platform toward the door. Florence says — "Let's go save everyone who hates me."
-
-    I say — "They don't hate you."
-
-    Florence asks — "Don't they?"
-
-    I say — "They're hurt by you. There's a difference."
-
-    Florence says — "Sometimes the difference doesn't matter much. But I suppose we'll find out."
-
-    We head back toward the main facility. Scout bounces ahead — excited, worried, hopeful all at once.
+    We head back toward the main facility. Scout bounces ahead—excited, worried, hopeful.
 
     Behind us, through the window, the hostile plants continue gathering.
 
     The attack is coming.
 
-    And we're about to find out — if necessity can override resentment — long enough to *survive*.
+    And we're about to find out if necessity can override resentment long enough to survive.
   </combined-text>
 </passage-voice>
