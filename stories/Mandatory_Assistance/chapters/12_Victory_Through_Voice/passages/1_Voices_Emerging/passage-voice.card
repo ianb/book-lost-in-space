@@ -1,105 +1,111 @@
 <!-- Generated automatically, do not edit except with ske gen passage-voice -->
-<passage-voice version="2.0.0">
-  <ref ref="passage.card#v2.0.0"/>
-  <reasoning>
-    <!-- For instructions on filling out reasoning: ske instructions stories/Mandatory_Assistance/chapters/12_Victory_Through_Voice/passages/1_Voices_Emerging/passage-voice.card -->
-  </reasoning>
+<passage-voice version="3.0.0">
+  <ref ref="passage.card#v3.0.0"/>
+  <reasoning>Reviewed the passage for voiceover needs. Adjustments made: 1) Merged brief staccato sentences and short paragraphs that continue the same thought to improve spoken flow. 2) Converted all dialogue to a lead-in then quote format and placed each quoted line on its own line so the speaker is clear. 3) Disambiguated potential pronoun confusion by keeping speaker names before dialog and adding short cues in narration where necessary. 4) Indicated medium pauses with em dashes (—) and trailing hesitation with ellipses (…). Inserted one dramatic pause paragraph (¶) where a speaker trails off and another finishes the thought. 5) Converted gesture/adverb notes into brief stage directions inside narration. 6) Kept content and meaning intact; no story changes were made.</reasoning>
   <content-change/>
   <chunks>
     <chunk>
       <text>
-        Morning arrives way too early; I didn't really sleep. Scout and I spent most of the night in our damaged corner of the facility, listening to the plants take watch shifts, hearing the occasional creak of unstable structure and wondering when the hostile plants would return.
+        Morning arrives way too early. I didn't really sleep; Scout and I spent most of the night in our damaged corner of the facility, listening to the plants take watch shifts, hearing the occasional creak of unstable structure, wondering when the hostile plants would return.
 
-        Last night, Florence said, clinical and certain—
-        "They'll come back today. They're regrouping, analyzing what worked and what didn't. Expect adapted tactics by mid-morning."
+        Last night, Florence said,
+        "They'll come back today — they're regrouping, analyzing what worked and what didn't. Expect adapted tactics by mid-morning."
 
-        It's mid-morning now, and the facility looks even worse in daylight: outer walls completely destroyed, floor sections collapsed, ceilings damaged, toxic sludge residue everywhere after the hostile incursion. The contracted defensive core is intact but crowded and claustrophobic.
+        It's mid-morning now. The facility looks even worse in daylight: outer walls completely destroyed, floor sections collapsed, ceiling damaged, toxic sludge residue everywhere after the hostile incursion. The contracted defensive core is intact but crowded and claustrophobic.
 
-        Everyone is injured and exhausted.
+        Everyone is injured and exhausted. Runner's vines are shredded in places, leaking sap they can't afford to lose — they're coiled, trying to regenerate. Velvet's growth shows burn marks from corrosive attacks; sections withered where hostile spores hit them, and they're repairing slowly, which is resource-intensive. Remedy is depleted — chemical reserves nearly empty, producing compounds slowly through sheer biological determination. Even Holloway looks drained: their fruiting bodies are drooping, bioluminescence dim.
 
-        Runner's vines are shredded in places, leaking sap they can't afford to lose; they're coiled, trying to regenerate. Velvet's growth shows burn marks from corrosive attacks, with sections withered where hostile spores hit—slowly repairing but at a high resource cost. Remedy is depleted—chemical reserves nearly empty, producing compounds only slowly through sheer biological determination. Even Holloway looks drained, their fruiting bodies drooping and bioluminescence dim.
+        Florence is the only one who looks alert. Her wheeled platform sits centrally, analyzing the battlefield — because that's what the facility has become.
 
-        Florence alone looks alert. Her wheeled platform sits centrally, analyzing the battlefield—because that's what the facility has become.
-
-        Florence states, not to anyone in particular—
+        Florence states,
         "We need to prepare."
 
-        Holloway asks, still formal and careful but softer than yesterday—
+        Not to anyone in particular — just a stating of tactical necessity.
+
+        Holloway asks,
         "For what, specifically?"
 
-        Florence answers, matter-of-fact—
-        "They'll probe our weaknesses. Yesterday we contracted to a defendable core—smart move. But that also means we have less space to maneuver. They'll use that. Expect underground assaults targeting our foundation, coordinated surface attacks on multiple sides simultaneously, and probably some tactical surprise we haven't seen yet."
+        Still formal, still careful, but there's less coldness in the question than yesterday.
 
-        I mutter—
+        Florence says,
+        "They'll probe our weaknesses. Yesterday we contracted to a defendable core — smart move. But that also means we have less space to maneuver. They'll use that. Expect underground assaults targeting our foundation, coordinated surface attacks on multiple sides simultaneously, and probably some tactical surprise we haven't seen yet."
+
+        I mutter,
         "Cheerful."
+        Scout bounces — a tired agreement.
 
-        [Scout bounces in tired agreement.]
-
-        Runner surfaces slightly, vines shifting, and reports—
+        Runner surfaces slightly; vines shift. Runner reports,
         "I've been monitoring underground movement during the night."
 
-        Florence's platform rotates toward Runner. She asks—
+        Florence's platform rotates toward Runner. Florence asks,
         "What did you sense?"
 
-        Runner extends a vine, gesturing toward the eastern section—
-        "Hostile roots probing our perimeter. Not attacking—just testing. Mapping our defensive positions."
+        Runner extends a vine, gesturing toward the eastern section and the southwest. Runner reports,
+        "Hostile roots probing our perimeter. Not attacking — just testing. Mapping our defensive positions. Here, and here. Also the southwest corner. They spent significant time analyzing the southwest."
 
-        Florence asks, genuinely interested—
-        "Which positions drew the most attention?"
+        Florence says thoughtfully,
+        "The southwest is where our life support systems concentrate. If they've identified that..."
 
-        Runner gestures again—
-        "Here, and here. Also the southwest corner. They spent significant time analyzing the southwest."
+        ¶
 
-        Florence considers the map and says thoughtfully—
-        "The southwest is where our life support systems concentrate. If they've identified that…"
-
-        Runner finishes her thought—
+        Runner finishes,
         "They'll target it."
 
-        Florence replies—
-        "Yes. We need to reinforce—what do you recommend? You know the underground terrain better than I do."
+        Florence asks in the same breath,
+        "Yes — we need to reinforce. What do you recommend? You know underground terrain better than I do."
       </text>
       <stage-directions>
-        Overall tone and pacing: Tense, measured, and weary — steady narration with short, deliberate pauses where indicated to let the stakes sink in.
+        Overall tone &amp; pacing: Tense, weary, and clinical — steady narration with short breaths between scenes; dialogue should be clear and slightly detached for Florence, cautious for Holloway, resigned for the narrator, and weary but factual for Runner.
 
-        - Read the opening lines a bit breathless and tired: "Morning arrives way too early; I didn't really sleep."
-        - For Florence's lines, use a clinical, precise tone when she states facts: "They'll come back today..." and "We need to prepare." Keep pacing even and confident.
-        - When Holloway speaks, soften the formality slightly — curious but cautious: "For what, specifically?"
-        - After "Cheerful," insert a small, tired sigh in the voice and then let the stage direction read plainly: "[Scout bounces in tired agreement.]"
-        - Runner's reports should be clipped, observational, and calm: "I've been monitoring..." — slightly lower volume, steady pace.
-        - For the trailing thought, use a falling, thoughtful cadence on "If they've identified that…" with a longer pause before Runner finishes.
-        - End Florence's final line with urgency building on "Yes. We need to reinforce—what do you recommend?" Slightly increase volume and pace on the final question.
+        - Read the opening line "Morning arrives way too early." with a weary low tone, then settle into a slightly faster, quietly observant pace for the next sentence.
+        - For Florence's lines (beginning with "Last night, Florence said," and each subsequent Florence quote) use a calm, clinical delivery — precise and controlled.
+        - For Holloway's question "For what, specifically?" use formal curiosity — slightly softer, not hostile.
+        - When reading "I mutter, 'Cheerful.'" make it dry, half-sarcastic; immediately after, narrate "Scout bounces — a tired agreement." as a small, resigned sound.
+        - Runner's reports (lines beginning with Runner) should be clipped, factual, a little distant — emphasize the mapping detail "testing. Mapping our defensive positions." as a clear, informative beat.
+        - Insert a longer stillness at the paragraph containing only "¶" — hold silence (dramatic pause) before continuing; this is the moment Florence trails off and Runner finishes the thought.
       </stage-directions>
     </chunk>
     <chunk>
       <text>
-        Wait — did Florence just ask for someone else's opinion?
+        Wait, did Florence just ask for someone else's opinion?
 
-        Runner's vines shift uncertainly. Runner says, "I... could create a false weak point — make them think the northwest is vulnerable, draw their attention there while we reinforce southwest?"
+        Runner seems equally surprised — their vines shift uncertainly.
 
-        Florence's platform shifts forward, what I've learned to interpret as excitement. Florence says, "That's excellent. Underground misdirection — they're learning our patterns, so we feed them false information. Can you make it convincing?"
+        Runner says, "I... could create a false weak point? Make them think the northwest is vulnerable, draw their attention there while we reinforce southwest?"
 
-        Runner says, "If I position damaged root sections deliberately, leak sap in a pattern suggesting structural weakness... yes — it should be convincing."
+        Florence's platform shifts forward — what I've learned to interpret as excitement.
 
-        Florence says, "*Do it.* And keep monitoring their probing behavior — any tactical intelligence you gather is crucial."
+        Florence says, "That's excellent. Underground misdirection — they're learning our patterns, so we feed them false information. Can you make it convincing?"
 
-        Runner sounds pleased. "Understood."
+        Runner says, "If I position damaged root sections deliberately — leak sap in a pattern suggesting structural weakness... yes. Should be convincing."
 
-        Holloway watches the exchange with cautious curiosity. Florence didn't just accept a suggestion — she actively asked for one.
+        Florence says, "Do it. And keep monitoring their probing behavior — any tactical intelligence you gather is crucial."
 
-        Velvet shifts their position, growth rustling. Velvet says, "If we're expecting coordinated surface attacks, my barrier positioning from yesterday won't be enough."
+        Runner says, "Understood."
+
+        Holloway watches this exchange with cautious curiosity — Florence didn't just accept a suggestion; she actively asked for one.
+
+        Velvet shifts their position, growth rustling.
+
+        Velvet says, "If we're expecting coordinated surface attacks — my barrier positioning from yesterday won't be enough."
 
         Florence says, "Agreed. We need—"
 
-        Velvet interrupts, "*Layered defense.* Instead of one thick barrier, multiple thinner layers with gaps between them. Attackers break through the first layer, encounter empty space, then hit a second layer — disrupts their momentum."
+        Velvet interrupts, "*Layered defense* — instead of one thick barrier, multiple thinner layers with gaps between them. Attackers break through the first layer, encounter empty space, then hit a second layer. Disrupts their momentum."
 
-        Florence is quiet for a moment; I can practically see her reassessing her entire defensive plan. Florence says slowly, "That changes the whole strategy."
+        Florence is quiet for a moment; I can practically see her reassessing her entire defensive plan.
+
+        Florence says slowly, "That changes the whole strategy."
 
         Velvet asks, "In a bad way?"
 
-        Florence replies, _"In a brilliant way._ Layered defense means we can position countermeasures in the gaps — Remedy's chemicals, Runner's underground interception points. Turn the empty spaces into tactical advantages instead of just barriers. It's... it's better than what I was planning."
+        Florence replies, "In a _brilliant_ way — layered defense means we can position countermeasures in the gaps: Remedy's chemicals, Runner's underground interception points. Turn the empty spaces into tactical advantages instead of just barriers. It's..."
 
-        Velvet's growth stills, like they weren't expecting acknowledgment.
+        ¶
+
+        Florence continues, "It's _better_ than what I was planning."
+
+        Velvet's growth stills — like they weren't expecting acknowledgment.
 
         Florence asks, "Can you grow multiple layers with your current resource depletion?"
 
@@ -107,324 +113,388 @@
 
         Florence says, "Do it. And tell me where you're positioning gaps — I need to coordinate Remedy's chemical placements."
 
-        Velvet starts outlining positions. Florence listens intently, adapting her tactical planning in real time to incorporate Velvet's design.
+        Velvet starts outlining positions. Florence listens intently, adapting her tactical planning in real-time to incorporate Velvet's design.
 
-        I'm watching something shift. Not dramatically, not with grand gestures — just... cooperation — actual cooperation.
+        I'm watching something shift — not dramatically, not with grand gestures, just... cooperation.
 
-        ¶
+        *Actual cooperation.*
 
-        Scout bounces, observing quietly. They notice it too.
+        Scout bounces in quiet observation; they notice it too.
 
-        Remedy shifts forward. Their voice is still reserved, but less cold. Remedy says, "If we're placing chemicals in barrier gaps, I have a suggestion."
+        Remedy shifts forward, voice still reserved but less cold.
 
-        Florence rotates toward them. Florence says, "I'm listening."
+        Remedy says, "If we're placing chemicals in barrier gaps, I have a suggestion."
 
-        Remedy says, "Normally I deploy defensive compounds — neutralizing agents, protective barriers. But if we know where hostiles will breach, I could prepare aggressive compounds. Turn defense into offense."
+        Florence rotates toward them. "I'm listening."
+
+        Remedy says, "Normally I deploy defensive compounds — neutralizing agents, protective barriers. But if we know where hostiles will breach, I could prepare aggressive compounds. *Turn defense into offense.*"
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: Measured, observant, with restrained tension — let the tactical exchange feel methodical, and allow a clear, slightly longer pause for the moment cooperation blooms.
+        Overall tone &amp; pacing: Cautious and gradually shifting toward focused collaboration — steady narration with clipped tactical beats and one longer, dramatic pause at Florence's realization.
 
-        - Read the opening line with surprise and a short medium pause on "Wait — did Florence just ask for someone else's opinion?"
-        - For Runner's lines: calm, slightly hesitant; on "I... could create" use a trailing hesitation on the ellipsis.
-        - Florence's spoken lines should be precise and confident; increase firmness on commands such as "*Do it.*"
-        - When Velvet says "*Layered defense.*" give that phrase a slight emphasis — treat it like a coined tactic.
-        - At the narrator line "I'm watching something shift..." slow down and insert the dramatic pause indicated by the standalone "¶" paragraph.
-        - Remedy's final tactical suggestion should be reserved but with a hint of warming engagement — no harshness, just a quieter intensity.
-        - Keep transitions between narration and dialog clear and even; every dialog line begins with a speaker tag to avoid confusion.
+        - Read the opening line "Wait, did Florence just ask for someone else's opinion?" with a weary, surprised inflection, then settle to a calm, observant pace.
+        - For Runner's lines ("Runner says, ...") use clipped, factual delivery; treat the ellipsis and hesitations as real pauses in the voice.
+        - For Florence, begin clinical and controlled, then allow a small lift of excitement when her plan adapts — e.g., "That's excellent..." moves from measured to brighter.
+        - For Velvet, keep a pragmatic, slightly defensive tone; when reading "*Layered defense*" push slightly stronger on the bolded phrase.
+        - For Remedy, start reserved and cool, then firm up on the final line; emphasize "*Turn defense into offense.*" more boldly.
+        - Treat every em dash (—) as a medium pause (~300-400ms). Treat ellipses (...) as a longer, trailing hesitation (~500-600ms).
+        - Insert a long, reflective silence at the paragraph containing only "¶" before continuing; this is the key dramatic beat (Florence's realization).
       </stage-directions>
     </chunk>
     <chunk>
       <text>
-        Florence's platform tilts thoughtfully.
-        Florence says, "Trap them in the gaps."
+        Florence tilts thoughtfully and says, "Trap them in the gaps."
 
-        Remedy replies, "Exactly — they break through the first barrier expecting another barrier, and instead encounter chemical attack."
+        Remedy replies, "Exactly — they break through the first barrier expecting another barrier; instead they encounter chemical attack."
 
         Florence asks, "What's your production capacity?"
 
-        Remedy replies, "Limited — I'm depleted from yesterday. But if I focus resources on three concentrated aggressive deployments instead of broad defensive coverage…"
+        Remedy answers, "My production is limited — I'm depleted from yesterday… but if I focus resources on three concentrated aggressive deployments instead of broad defensive coverage, I can shift output." 
 
-        Florence, working through the logistics, asks, "Which positions do you think they'll target?"
+        Florence says, "Three trap zones — positioned in Velvet's gaps at the most likely breach points based on yesterday's attack patterns." She works through the logistics. "Which positions do you think they'll target?"
 
-        Remedy pauses, considering, then says, "Eastern wall — they focused there yesterday. Northern approach — they avoided it before, might try it now assuming we're not defended there. And southwest — if Runner's intelligence is correct about their interest."
+        Remedy pauses, then says, "Eastern wall — they focused there yesterday; northern approach — they avoided it before and might try it now assuming we're not defended there; and southwest — if Runner's intelligence is correct about their interest."
 
-        Florence reminds them, "Northwest will be the false target because of Runner's misdirection."
+        Florence reminds them, "Northwest will be the false target — because of Runner's misdirection."
 
-        Remedy suggests, "Then northwest too — let them think they found a weakness, and hit them hard when they commit to attacking it."
+        Remedy suggests, "Then northwest too — let them think they found a weakness and hit them hard when they commit to attacking it."
 
-        Florence calculates quickly, "Four zones — can you produce enough for four concentrated deployments?"
+        Florence calculates quickly and says, "Four zones — can you produce enough for four concentrated deployments?"
 
-        Remedy replies, "Barely — if I start now and focus all resources on production."
+        Remedy answers, "Barely — if I start now and focus all resources on production."
 
-        Florence orders, "*Do it.* And coordinate with Velvet on exact positions."
+        Florence says, "Do it — and coordinate with Velvet on exact positions."
 
-        Remedy shifts toward Velvet and they begin discussing placement details directly — without Florence mediating.
+        Remedy shifts toward Velvet and starts discussing placement details directly — without Florence mediating.
 
-        Holloway moves closer to me and says softly, "This is different."
+        Holloway moves closer to me and speaks quietly, "This is different."
 
-        I agree, "Yeah."
+        I say, "Yeah."
 
-        Holloway says thoughtfully, "Yesterday Florence commanded and we followed because we had to. Today she's…"
+        Holloway continues, "Yesterday Florence commanded and we followed because we had to — today she's…"
+
         I finish, "Listening — incorporating — collaborating."
 
-        Holloway says, "It's disorienting. I expected… I don't know — control, authority — not this."
+        Holloway says, "It's disorienting — I expected… I don't know — control and authority, not this."
 
-        I suggest, "Not empowerment?"
+        I ask, "Not empowerment?"
 
-        Holloway's fruiting bodies shift as they ask, "Is that what this is?"
+        Holloway's fruiting bodies shift. "Is that what this is?"
 
-        I say, "She asked Runner for recommendations — she told Velvet their plan was better than hers — she's letting Remedy decide deployment positions — she's not controlling, she's enabling."
+        I say, "She asked Runner for recommendations — she told Velvet their plan was better than hers — she's letting Remedy decide deployment positions — she's not controlling; she's enabling."
 
         Holloway replies, "That doesn't erase what she did before."
 
         I acknowledge, "No — but it's still worth noticing."
 
-        Scout bounces softly against Holloway's base. Holloway's bioluminescence flickers warmer for a moment.
+        Scout bounces against Holloway's base with a soft, gentle motion. Holloway's bioluminescence flickers warmer for a moment.
 
-        Florence is coordinating now — Velvet's barrier gaps, Remedy's chemical traps, Runner's underground misdirection — but it's not commands; it's discussion, people contributing and Florence integrating their ideas into a cohesive strategy.
+        Florence is coordinating now — Velvet's barrier gaps, Remedy's chemical traps, Runner's underground misdirection. It's not commands; it's discussion — people contributing and Florence integrating their ideas into a cohesive strategy.
 
         Florence asks, "Kira, where will you position during the attack?"
 
-        Kira says, "Wherever Scout and I are safest."
+        Kira answers, "Wherever Scout and I are safest."
 
-        Florence says, "Central core, behind Velvet's third barrier layer — Remedy's chemical traps will be between layers two and three; you'll have maximum protection there."
+        Florence says, "Central core, behind Velvet's third barrier layer — Remedy's chemical traps will be between layers two and three, you'll have maximum protection there."
 
         Kira asks, "What if they break through all three layers?"
 
-        Florence says confidently, "*They won't.*"
+        Florence says with absolute certainty, "They won't."
+
         ¶
-        Florence continues, "But if somehow they do — Holloway will coordinate emergency evacuation. Right?"
+
+        Florence adds, "But if somehow they do, Holloway will coordinate emergency evacuation — right, Holloway?"
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: Measured, tactical, gradually warming — keep exchanges methodical and clear, with a slightly longer dramatic pause at Florence's absolute certainty.
+        Overall tone &amp; pacing: Tactical, observant, gradually shifting from clipped command language to collaborative, reflective discussion — steady pace with clear, measured pauses for tactical beats.
 
-        - Read "Trap them in the gaps." as a direct, concise order — calm and precise.
-        - On lines with em dashes (e.g., "Exactly — they break...") insert a medium pause for each dash.
-        - For Remedy's tactical list, maintain a steady, analytical cadence; each location should be slightly separated by the em dash.
-        - Read "*Do it.*" with firmness and increased volume — brief command voice.
-        - At "Listening — incorporating — collaborating." compress the three beats into one reflective, warming phrase, with small pauses at each dash.
-        - Insert a long, perceptible silence at the standalone "¶" after "*They won't.*" before continuing.
-        - Keep all dialog lines clearly attributable; change tone subtly to indicate each speaker but maintain the same narrator voice throughout.
+        - Read "Florence tilts thoughtfully and says, \"Trap them in the gaps.\"" with a thoughtful, quiet emphasis on "Trap." Pause briefly after the line.
+        - For Remedy's tactical lines (for example, "Remedy replies, \"Exactly — they break through the first barrier...\""), use clipped, factual delivery and treat each em dash (—) as a medium pause. Keep the delivery cool and analytical.
+        - When Florence asks questions (for example, "What's your production capacity?" and "Can you produce enough for four concentrated deployments?"), keep the tone precise and focused — slightly brighter when issuing orders like "Do it — and coordinate with Velvet...".
+        - For the personal exchange between Holloway and the narrator (lines starting "Holloway moves closer..." through "Not empowerment?"), relax into a softer, quieter register; allow a small, hesitant trailing pause on ellipses (…); treat "¶" as a long reflective silence before the conditional line that follows.
+        - Emphasize the contrasting clause in "She's not controlling; she's enabling." — slightly warmer, approving inflection on "enabling."
+        - For the final tactical assurance, deliver "They won't." with absolute certainty, then observe the long silence on "¶" before the tentative contingency line — end "Right, Holloway?" as a clear prompt to Holloway.
       </stage-directions>
     </chunk>
     <chunk>
       <text>
-        Holloway shifts their platform and says, "Yes. I'll make sure Kira reaches safety."
+        Holloway's platform shifts.
 
-        It's strange hearing them coordinate about me like I'm the mission objective — which, I guess, I am, technically. I say, "Sorry I'm so defenseless."
+        Holloway — "Yes. I'll make sure Kira reaches safety."
 
-        Velvet responds, "You're human. You're supposed to be defended."
+        It's strange hearing them coordinate about me like I'm the mission objective — which I guess I am, technically.
 
-        Scout bounces and says, "We'll defend you no matter what."
+        I say — "Sorry I'm so defenseless."
+
+        Velvet says, not unkindly — "You're human — you're supposed to be defended."
+
+        Scout bounces a protective agreement — they'll defend me no matter what.
 
         The facility settles into preparation — everyone working: Runner creating false weak points underground — Velvet growing layered barriers with precise gaps — Remedy producing aggressive compounds — Holloway organizing evacuation routes.
 
-        Florence coordinates it all, but she does not control it — she's the center of a web of collaboration, connecting everyone's contributions into a unified defense.
+        Florence coordinates it all but doesn't control — she's the center of a web of collaboration, connecting everyone's contributions into a unified defense.
 
-        I watch her work. She's focused, tactical, processing multiple streams of information. But there's something else too
-        nd it wasn't there yesterday during the desperate fighting.
+        I watch her work. She's focused, tactical, processing multiple streams of information — but there's something else too, something that wasn't there yesterday during the desperate fighting.
 
-        She looks
-        elicate pauseut possibly hopeful
-         better word might be: less isolated — like she's allowing herself to believe this might actually work.
+        She looks… hopeful? Maybe that's not the right word. Less isolated — like she's allowing herself to believe this might actually work.
 
-        Not just the defense  the redemption.
+        Not just the defense.
 
-        ¶
+        The redemption.
 
-        Buddy chimes in my mind: "I'm observing interesting group dynamics. Cooperation appears more authentic than yesterday's necessity-based coordination."
+        Buddy chimes in my mind — "I'm observing interesting group dynamics. Cooperation appears more authentic than yesterday's necessity-based coordination."
 
-        I tell them, "Yeah, Buddy. I noticed."
+        I say — "Yeah, Buddy. I noticed."
 
-        Buddy asks in my head, "Do you think this represents genuine social progress?"
+        Buddy — "And I'm continuing to track hostile movement patterns from our defensive position. Four distinct groups repositioning to the east. Would you like me to report to Florence?"
 
-        I say, "I hope so."
+        I say — "Yes! Do that."
 
-        Buddy replies with bright enthusiasm: *Hope is a positive emotion! Excellent for psychological well-being!*
+        Buddy, through my wristband's external speaker — "Florence, detecting four hostile groups repositioning to the eastern approach."
 
-        Sometimes Buddy's enthusiasm is actually comforting. I tell them, "Thanks, Buddy."
+        Florence's platform pivots.
 
-        Scout bounces inquisitively — they're wondering what I'm thinking. I say, "Just watching everyone work."
+        Florence — "Buddy, can you maintain continuous tracking updates?"
 
-        Nice is an understatement. After the betrayal, the exile, the desperate necessity cooperation — this feels like something real starting to grow. Fragile, but real.
+        Buddy — "I can! I'm designed for wellness monitoring, but motion detection uses similar sensor arrays — I'm getting quite good at this!"
 
-        Velvet finishes the first barrier layer. Remedy positions in the first gap. Runner reports the underground misdirection is in place. Everyone coordinates, everyone contributes.
+        Florence — "Then you're part of our tactical coordination. Report any movement changes directly."
 
-        Florence surveys the preparation and asks, "Status check. Velvet, barrier readiness?"
+        Buddy makes a sound I can only describe as pleased — "Acknowledged! I'm part of the team!"
 
-        Velvet replies, "Layers one and two complete. Layer three at eighty percent  needs another twenty minutes."
+        I smile despite everything. Buddy needed this — to matter, to contribute.
 
-        Remedy reports, "Three zones ready. Fourth in progress  fifteen minutes."
+        We all did.
 
-        Runner says, "False weakness established. Real reinforcements in place. Ready."
+        Scout bounces a question — they're wondering what I'm thinking.
 
-        Holloway answers, "Mapped and clear. Kira's emergency position prepared."
+        I tell them — "Just watching everyone work together. It's nice."
 
-        Florence processes all of this and says, "We have twenty minutes until full readiness. Hostile plants will likely attack before then  they're tactical; they'll recognize preparation activity and try to strike while we're incomplete."
+        Nice is an understatement. After the betrayal, the exile, the desperate-necessity cooperation — this feels like something real starting to grow. Fragile, but real.
 
-        Holloway asks, "How long do we actually have?"
+        Velvet finishes the first barrier layer. Remedy positions in the first gap. Runner reports underground misdirection in place — everyone coordinating, everyone contributing.
 
-        Florence watches the damaged eastern wall and the open approaches, then says, "Minutes  maybe less."
+        Florence surveys the preparation — "Status check. Velvet, barrier readiness?"
 
-        Everyone tenses. Preparation isn't complete and we're running out of time.
+        Velvet — "Layers one and two complete. Layer three at eighty percent — needs another twenty minutes."
 
-        Velvet asks, "What do we do?"
+        Florence — "Remedy, chemical deployment?"
+
+        Remedy — "Three zones ready. Fourth in progress — fifteen minutes."
+
+        Florence — "Runner, underground positions?"
+
+        Runner — "False weakness established, real reinforcements in place. Ready."
+
+        Florence — "Holloway, evacuation routes?"
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: Measured and tactical, with moments of growing warmth; keep exchanges clear and deliberate, inserting medium pauses for emphasis and one longer silence after the line about redemption.
+        Overall tone &amp; pacing: Observant and steadily collaborative — start steady and appreciative, keep tactical exchanges clipped and efficient, let quiet warmth come through during personal observations.
 
-        - On "Holloway shifts their platform and says, \"Yes. I'll make sure Kira reaches safety.\"" read calm, matter-of-fact, with a slight authoritative edge for Holloway.
-        - For the line "It's strange hearing them coordinate..." use a reflective, slightly bemused tone; pause at the em dash before "which, I guess..."
-        - Read Buddy's internal lines with a lighter, almost chipper inflection; render the enthusiastic line as brighter and slightly quicker, marked with *bold*.
-        - Insert a long dramatic silence at the standalone paragraph "¶" after "Not just the defense  the redemption." to let that idea land.
-        - During the status-check sequence, maintain a clipped, efficient cadence: each speaker's line should be distinct and slightly brisk; use small pauses at em dashes within their replies.
-        - When Florence gives the timeline "We have twenty minutes..." slow slightly and add urgency on the phrase "they're tactical".
-        - End with tension: when Florence says "Minutes  maybe less." make it terse and foreboding, then let the final question "What do we do?" hang with concern.
+        - Read "Holloway — \"Yes. I'll make sure Kira reaches safety.\"" with calm assurance; pause briefly after the line.
+        - For short tactical reports (for example, "Velvet — \"Layers one and two complete...\"" and "Remedy — \"Three zones ready...\"") use clipped, factual delivery; treat each em dash in the dialogue as a medium pause.
+        - When narrating Florence coordinating ("Florence coordinates it all but doesn't control — she's the center...") use a slightly warmer, approving inflection on "doesn't control" then soften on "center of a web of collaboration."
+        - For Buddy's lines, deliver with bright, eager tones — the device should sound pleased and proud when it says "Acknowledged! I'm part of the team!"
+        - For the narrator's reflective moments ("I watch her work...", "She looks… hopeful?") slow the pace, soften the voice, and allow a hesitant trailing pause on the ellipsis.
+        - Emphasize "We all did." with a small, genuine smile in the voice — quiet, satisfied.
+        - When the status check section begins, shift back to precise, efficient pacing; each speaker line should be distinct and attributed clearly.
       </stage-directions>
     </chunk>
     <chunk>
       <text>
-        Florence hesitates—thinking, calculating, processing options—then asks, "I don't know. What do you all think?"
+        Florence reports, "Mapped and clear. Kira's emergency position prepared."
+
+        Florence processes all this and says, "We have twenty minutes until full readiness. Hostile plants will likely attack before then — they're tactical, they'll recognize preparation activity and try to strike while we're incomplete."
+
+        Holloway asks, "How long do we actually have?"
+
+        Florence watches the damaged eastern wall and the open spaces where hostile plants could approach, then replies, "Minutes — maybe less."
+
+        Everyone tenses — preparation isn't complete and we're running out of time.
+
+        Velvet asks, "What do we do?"
+
+        Florence doesn't answer immediately — she's thinking, calculating, processing options. Then she does something unexpected and asks, "I don't know. What do you all think?"
 
         Silence.
 
-        Runner replies, "If they attack before we're ready, we defend with what we have— incomplete preparation is better than no preparation."
+        ¶
 
-        Velvet adds, "We prioritize completing the third barrier layer—that's Kira's primary protection. Chemical traps can wait."
+        Runner speaks first: "If they attack before we're ready, we defend with what we have. Incomplete preparation is better than no preparation."
 
-        Remedy counters, "No. Chemical traps in gaps one and two will slow them enough for layer three to finish. I focus on those two zones—abandon the third and fourth."
+        Velvet adds, "We prioritize completing the third barrier layer — that's Kira's primary protection. Chemical traps can wait."
+
+        Remedy counters, "No — chemical traps in gaps one and two will slow them enough for layer three to finish. I focus on those two zones, abandon the third and fourth."
 
         Holloway says, "I position near Kira's location for immediate evacuation if needed. We assume incomplete preparation and plan for worst case."
 
-        Florence listens to every voice, every contribution—then synthesizes, "Combined approach. Velvet prioritizes layer three. Remedy focuses on gaps one and two. Runner maintains underground readiness. Holloway stays with Kira. I coordinate response to wherever they attack first—we adapt as needed."
+        Florence listens to every voice and every contribution, then synthesizes the plan: "Combined approach. Velvet prioritizes layer three. Remedy focuses on gaps one and two. Runner maintains underground readiness. Holloway stays with Kira. I coordinate response to wherever they attack first — we adapt as needed."
 
-        Everyone moves immediately—not following orders; implementing the agreed strategy.
+        Everyone moves immediately — not following orders, but implementing the agreed strategy.
 
-        I'm pressed against my pillar in the central core with Scout, watching everyone work with focused urgency—twenty minutes, maybe less.
+        I'm pressed against the pillar in the central core with Scout — watching everyone work with focused urgency. Twenty minutes. Maybe less.
 
-        The facility feels different than yesterday—still desperate, still dangerous, but collaborative.
+        The facility feels different than yesterday — still desperate, still dangerous, but collaborative.
 
-        Florence wheels toward me and asks, "You okay?"
+        Florence wheels toward me briefly and asks, "You okay?"
 
-        I admit, "Scared. But yeah."
+        I say, "Scared — but yeah."
 
-        Florence replies, "Good. Fear is appropriate—it keeps you alert. But we'll protect you."
+        Florence replies, "Good. Fear is appropriate — keeps you alert. But we'll protect you."
 
-        I say, "I know." I actually believe it—not because Florence is a tactical genius, but because everyone is working together for real.
+        I say to Florence quietly, "This isn't like Uncharted."
 
-        Scout bounces bravely—they're scared too, but ready.
+        Florence tilts her platform and asks, "The show you watch?"
 
-        From underground, Runner calls, "They're coming. Movement detected—multiple directions. Coordinated approach."
+        I gesture at the facility and say, "In Uncharted, Mav would be coordinating everyone through brilliant strategy — solo heroics. But this is better, because it's everyone contributing, not one hero saving the day."
 
-        Florence's platform straightens and she orders, "Everyone to positions. Adapt as needed. Trust each other's judgment."
+        Florence sounds uncertain: "Is that... good?"
 
-        Trust—she actually said "trust."
+        I answer, "It's REAL. And real is better than adventure stories."
 
-        The hostile plants are returning—but this time we're ready. Not just coordinated—together.
+        Scout bounces brave — they're scared too but ready.
+
+        From underground, Runner calls, "They're coming. Movement detected. Multiple directions. Coordinated approach."
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: Start measured and tactical, growing urgency when movement is detected, and finish with a firm, decisive close.
+        Overall tone &amp; pacing: Observant, urgent, and collaborative — keep tactical exchanges clipped and efficient, allow warmth and small, tentative relief in the quieter narrator moments.
 
-        - On "Florence hesitates—thinking..." read thoughtful, slower on the first clause, then a soft rise into the question "I don't know. What do you all think?"
-        - For each character line such as "Runner replies, \"If they attack...\"" use clipped, efficient delivery—distinct voice cue per speaker but the same narrator reads all.
-        - When Florence lists the combined plan—"Combined approach...we adapt as needed"—use steady, authoritative cadence; use the em dash as a medium pause.
-        - Read "Everyone moves immediately—not following orders; implementing the agreed strategy." briskly, with momentum building.
-        - For the personal lines "You okay?" and "Scared. But yeah." soften slightly; make them intimate and immediate.
-        - For "They're coming. Movement detected—multiple directions." escalate urgency: start terse, then sharpen with the em dash pause before "multiple directions."  
-        - Emphasize "Trust—she actually said \"trust.\"" with a small breath before "Trust" and a reflective tone on the second half.
-        - Closing cadence: Firm terminal fall; decisive stop.
+        - Read "Florence reports, "Mapped and clear. Kira's emergency position prepared."" with calm, clear authority.
+        - For tactical lines like "We have twenty minutes until full readiness..." and "Velvet prioritizes layer three..." use clipped, factual delivery; treat em dashes as a medium pause.
+        - When Florence asks the group, "I don't know. What do you all think?" allow a brief beat of genuine uncertainty before the following silence.
+        - Insert a long, dramatic pause at the paragraph break containing only "¶" — hold the silence noticeably before Runner speaks.
+        - For the narrator's personal lines ("I'm pressed against the pillar...", "This isn't like Uncharted.") soften the voice and slow slightly to convey introspection and warmth.
+        - Deliver "Florence: 'Good. Fear is appropriate... But we'll protect you.'" with reassuring calm; emphasize "we'll protect you." gently but firmly.
+        - When Runner announces "They're coming..." increase urgency and alertness — this is the pivot back to immediate action.
+      </stage-directions>
+    </chunk>
+    <chunk>
+      <text>
+        Florence's platform straightens.
+
+        Florence says, "Everyone to positions. Adapt as needed. Trust each other's judgment."
+
+        Trust  she actually said trust.
+
+        The hostile plants are returning.
+
+        But this time we're ready  not just coordinated.
+
+        ¶
+
+        *Together.*
+      </text>
+      <stage-directions>
+        Overall tone &amp; pacing: Quietly astonished then quickening into determined readiness — start reflective, then move to clipped, focused delivery, ending on a short, forceful final word.
+
+        - Read "Florence's platform straightens." as a calm, objective observation — slight breath after the line.
+        - For the spoken command line, deliver Florence's quote with clear authority and calm: read the quote on its own line as "Florence says, 'Everyone to positions. Adapt as needed. Trust each other's judgment.'" — keep steady pacing through the three short clauses.
+        - Read "Trust  she actually said trust." with mild surprise; pause at the em dash to let the astonishment register.
+        - Deliver "The hostile plants are returning." plainly and alertly — increase tension slightly.
+        - Read "But this time we're ready  not just coordinated." with growing confidence; use the em dash as a connecting, medium pause.
+        - Insert a long, dramatic pause at the paragraph with only "¶" — hold the silence before the final word.
+        - Read the final line "*Together.*" with firm emphasis and a decisive stop.
+        - Closing cadence: "Firm terminal fall; decisive stop"
       </stage-directions>
     </chunk>
   </chunks>
   <unusual-pronunciations>
+    <word text="Buddy"/>
     <word text="Florence"/>
     <word text="Holloway"/>
     <word text="Kira"/>
+    <word text="Mav"/>
     <word text="Remedy"/>
     <word text="Runner"/>
     <word text="Scout"/>
     <word text="Velvet"/>
+    <word text="bioluminescence"/>
   </unusual-pronunciations>
   <title>Finding Our Voices</title>
   <combined-text>
-    Morning arrives way too early; I didn't really sleep. Scout and I spent most of the night in our damaged corner of the facility, listening to the plants take watch shifts, hearing the occasional creak of unstable structure and wondering when the hostile plants would return.
+    Morning arrives way too early. I didn't really sleep; Scout and I spent most of the night in our damaged corner of the facility, listening to the plants take watch shifts, hearing the occasional creak of unstable structure, wondering when the hostile plants would return.
 
-    Last night, Florence said, clinical and certain—
-    "They'll come back today. They're regrouping, analyzing what worked and what didn't. Expect adapted tactics by mid-morning."
+    Last night, Florence said,
+    "They'll come back today — they're regrouping, analyzing what worked and what didn't. Expect adapted tactics by mid-morning."
 
-    It's mid-morning now, and the facility looks even worse in daylight: outer walls completely destroyed, floor sections collapsed, ceilings damaged, toxic sludge residue everywhere after the hostile incursion. The contracted defensive core is intact but crowded and claustrophobic.
+    It's mid-morning now. The facility looks even worse in daylight: outer walls completely destroyed, floor sections collapsed, ceiling damaged, toxic sludge residue everywhere after the hostile incursion. The contracted defensive core is intact but crowded and claustrophobic.
 
-    Everyone is injured and exhausted.
+    Everyone is injured and exhausted. Runner's vines are shredded in places, leaking sap they can't afford to lose — they're coiled, trying to regenerate. Velvet's growth shows burn marks from corrosive attacks; sections withered where hostile spores hit them, and they're repairing slowly, which is resource-intensive. Remedy is depleted — chemical reserves nearly empty, producing compounds slowly through sheer biological determination. Even Holloway looks drained: their fruiting bodies are drooping, bioluminescence dim.
 
-    Runner's vines are shredded in places, leaking sap they can't afford to lose; they're coiled, trying to regenerate. Velvet's growth shows burn marks from corrosive attacks, with sections withered where hostile spores hit—slowly repairing but at a high resource cost. Remedy is depleted—chemical reserves nearly empty, producing compounds only slowly through sheer biological determination. Even Holloway looks drained, their fruiting bodies drooping and bioluminescence dim.
+    Florence is the only one who looks alert. Her wheeled platform sits centrally, analyzing the battlefield — because that's what the facility has become.
 
-    Florence alone looks alert. Her wheeled platform sits centrally, analyzing the battlefield—because that's what the facility has become.
-
-    Florence states, not to anyone in particular—
+    Florence states,
     "We need to prepare."
 
-    Holloway asks, still formal and careful but softer than yesterday—
+    Not to anyone in particular — just a stating of tactical necessity.
+
+    Holloway asks,
     "For what, specifically?"
 
-    Florence answers, matter-of-fact—
-    "They'll probe our weaknesses. Yesterday we contracted to a defendable core—smart move. But that also means we have less space to maneuver. They'll use that. Expect underground assaults targeting our foundation, coordinated surface attacks on multiple sides simultaneously, and probably some tactical surprise we haven't seen yet."
+    Still formal, still careful, but there's less coldness in the question than yesterday.
 
-    I mutter—
+    Florence says,
+    "They'll probe our weaknesses. Yesterday we contracted to a defendable core — smart move. But that also means we have less space to maneuver. They'll use that. Expect underground assaults targeting our foundation, coordinated surface attacks on multiple sides simultaneously, and probably some tactical surprise we haven't seen yet."
+
+    I mutter,
     "Cheerful."
+    Scout bounces — a tired agreement.
 
-    [Scout bounces in tired agreement.]
-
-    Runner surfaces slightly, vines shifting, and reports—
+    Runner surfaces slightly; vines shift. Runner reports,
     "I've been monitoring underground movement during the night."
 
-    Florence's platform rotates toward Runner. She asks—
+    Florence's platform rotates toward Runner. Florence asks,
     "What did you sense?"
 
-    Runner extends a vine, gesturing toward the eastern section—
-    "Hostile roots probing our perimeter. Not attacking—just testing. Mapping our defensive positions."
+    Runner extends a vine, gesturing toward the eastern section and the southwest. Runner reports,
+    "Hostile roots probing our perimeter. Not attacking — just testing. Mapping our defensive positions. Here, and here. Also the southwest corner. They spent significant time analyzing the southwest."
 
-    Florence asks, genuinely interested—
-    "Which positions drew the most attention?"
+    Florence says thoughtfully,
+    "The southwest is where our life support systems concentrate. If they've identified that..."
 
-    Runner gestures again—
-    "Here, and here. Also the southwest corner. They spent significant time analyzing the southwest."
-
-    Florence considers the map and says thoughtfully—
-    "The southwest is where our life support systems concentrate. If they've identified that…"
-
-    Runner finishes her thought—
+    Runner finishes,
     "They'll target it."
 
-    Florence replies—
-    "Yes. We need to reinforce—what do you recommend? You know the underground terrain better than I do."
+    Florence asks in the same breath,
+    "Yes — we need to reinforce. What do you recommend? You know underground terrain better than I do."
 
-    Wait — did Florence just ask for someone else's opinion?
+    Wait, did Florence just ask for someone else's opinion?
 
-    Runner's vines shift uncertainly. Runner says, "I... could create a false weak point — make them think the northwest is vulnerable, draw their attention there while we reinforce southwest?"
+    Runner seems equally surprised — their vines shift uncertainly.
 
-    Florence's platform shifts forward, what I've learned to interpret as excitement. Florence says, "That's excellent. Underground misdirection — they're learning our patterns, so we feed them false information. Can you make it convincing?"
+    Runner says, "I... could create a false weak point? Make them think the northwest is vulnerable, draw their attention there while we reinforce southwest?"
 
-    Runner says, "If I position damaged root sections deliberately, leak sap in a pattern suggesting structural weakness... yes — it should be convincing."
+    Florence's platform shifts forward — what I've learned to interpret as excitement.
 
-    Florence says, "*Do it.* And keep monitoring their probing behavior — any tactical intelligence you gather is crucial."
+    Florence says, "That's excellent. Underground misdirection — they're learning our patterns, so we feed them false information. Can you make it convincing?"
 
-    Runner sounds pleased. "Understood."
+    Runner says, "If I position damaged root sections deliberately — leak sap in a pattern suggesting structural weakness... yes. Should be convincing."
 
-    Holloway watches the exchange with cautious curiosity. Florence didn't just accept a suggestion — she actively asked for one.
+    Florence says, "Do it. And keep monitoring their probing behavior — any tactical intelligence you gather is crucial."
 
-    Velvet shifts their position, growth rustling. Velvet says, "If we're expecting coordinated surface attacks, my barrier positioning from yesterday won't be enough."
+    Runner says, "Understood."
+
+    Holloway watches this exchange with cautious curiosity — Florence didn't just accept a suggestion; she actively asked for one.
+
+    Velvet shifts their position, growth rustling.
+
+    Velvet says, "If we're expecting coordinated surface attacks — my barrier positioning from yesterday won't be enough."
 
     Florence says, "Agreed. We need—"
 
-    Velvet interrupts, "*Layered defense.* Instead of one thick barrier, multiple thinner layers with gaps between them. Attackers break through the first layer, encounter empty space, then hit a second layer — disrupts their momentum."
+    Velvet interrupts, "*Layered defense* — instead of one thick barrier, multiple thinner layers with gaps between them. Attackers break through the first layer, encounter empty space, then hit a second layer. Disrupts their momentum."
 
-    Florence is quiet for a moment; I can practically see her reassessing her entire defensive plan. Florence says slowly, "That changes the whole strategy."
+    Florence is quiet for a moment; I can practically see her reassessing her entire defensive plan.
+
+    Florence says slowly, "That changes the whole strategy."
 
     Velvet asks, "In a bad way?"
 
-    Florence replies, _"In a brilliant way._ Layered defense means we can position countermeasures in the gaps — Remedy's chemicals, Runner's underground interception points. Turn the empty spaces into tactical advantages instead of just barriers. It's... it's better than what I was planning."
+    Florence replies, "In a _brilliant_ way — layered defense means we can position countermeasures in the gaps: Remedy's chemicals, Runner's underground interception points. Turn the empty spaces into tactical advantages instead of just barriers. It's..."
 
-    Velvet's growth stills, like they weren't expecting acknowledgment.
+    Florence continues, "It's _better_ than what I was planning."
+
+    Velvet's growth stills — like they weren't expecting acknowledgment.
 
     Florence asks, "Can you grow multiple layers with your current resource depletion?"
 
@@ -432,173 +502,214 @@
 
     Florence says, "Do it. And tell me where you're positioning gaps — I need to coordinate Remedy's chemical placements."
 
-    Velvet starts outlining positions. Florence listens intently, adapting her tactical planning in real time to incorporate Velvet's design.
+    Velvet starts outlining positions. Florence listens intently, adapting her tactical planning in real-time to incorporate Velvet's design.
 
-    I'm watching something shift. Not dramatically, not with grand gestures — just... cooperation — actual cooperation.
+    I'm watching something shift — not dramatically, not with grand gestures, just... cooperation.
 
-    Scout bounces, observing quietly. They notice it too.
+    *Actual cooperation.*
 
-    Remedy shifts forward. Their voice is still reserved, but less cold. Remedy says, "If we're placing chemicals in barrier gaps, I have a suggestion."
+    Scout bounces in quiet observation; they notice it too.
 
-    Florence rotates toward them. Florence says, "I'm listening."
+    Remedy shifts forward, voice still reserved but less cold.
 
-    Remedy says, "Normally I deploy defensive compounds — neutralizing agents, protective barriers. But if we know where hostiles will breach, I could prepare aggressive compounds. Turn defense into offense."
+    Remedy says, "If we're placing chemicals in barrier gaps, I have a suggestion."
 
-    Florence's platform tilts thoughtfully.
-    Florence says, "Trap them in the gaps."
+    Florence rotates toward them. "I'm listening."
 
-    Remedy replies, "Exactly — they break through the first barrier expecting another barrier, and instead encounter chemical attack."
+    Remedy says, "Normally I deploy defensive compounds — neutralizing agents, protective barriers. But if we know where hostiles will breach, I could prepare aggressive compounds. *Turn defense into offense.*"
+
+    Florence tilts thoughtfully and says, "Trap them in the gaps."
+
+    Remedy replies, "Exactly — they break through the first barrier expecting another barrier; instead they encounter chemical attack."
 
     Florence asks, "What's your production capacity?"
 
-    Remedy replies, "Limited — I'm depleted from yesterday. But if I focus resources on three concentrated aggressive deployments instead of broad defensive coverage…"
+    Remedy answers, "My production is limited — I'm depleted from yesterday… but if I focus resources on three concentrated aggressive deployments instead of broad defensive coverage, I can shift output." 
 
-    Florence, working through the logistics, asks, "Which positions do you think they'll target?"
+    Florence says, "Three trap zones — positioned in Velvet's gaps at the most likely breach points based on yesterday's attack patterns." She works through the logistics. "Which positions do you think they'll target?"
 
-    Remedy pauses, considering, then says, "Eastern wall — they focused there yesterday. Northern approach — they avoided it before, might try it now assuming we're not defended there. And southwest — if Runner's intelligence is correct about their interest."
+    Remedy pauses, then says, "Eastern wall — they focused there yesterday; northern approach — they avoided it before and might try it now assuming we're not defended there; and southwest — if Runner's intelligence is correct about their interest."
 
-    Florence reminds them, "Northwest will be the false target because of Runner's misdirection."
+    Florence reminds them, "Northwest will be the false target — because of Runner's misdirection."
 
-    Remedy suggests, "Then northwest too — let them think they found a weakness, and hit them hard when they commit to attacking it."
+    Remedy suggests, "Then northwest too — let them think they found a weakness and hit them hard when they commit to attacking it."
 
-    Florence calculates quickly, "Four zones — can you produce enough for four concentrated deployments?"
+    Florence calculates quickly and says, "Four zones — can you produce enough for four concentrated deployments?"
 
-    Remedy replies, "Barely — if I start now and focus all resources on production."
+    Remedy answers, "Barely — if I start now and focus all resources on production."
 
-    Florence orders, "*Do it.* And coordinate with Velvet on exact positions."
+    Florence says, "Do it — and coordinate with Velvet on exact positions."
 
-    Remedy shifts toward Velvet and they begin discussing placement details directly — without Florence mediating.
+    Remedy shifts toward Velvet and starts discussing placement details directly — without Florence mediating.
 
-    Holloway moves closer to me and says softly, "This is different."
+    Holloway moves closer to me and speaks quietly, "This is different."
 
-    I agree, "Yeah."
+    I say, "Yeah."
 
-    Holloway says thoughtfully, "Yesterday Florence commanded and we followed because we had to. Today she's…"
+    Holloway continues, "Yesterday Florence commanded and we followed because we had to — today she's…"
+
     I finish, "Listening — incorporating — collaborating."
 
-    Holloway says, "It's disorienting. I expected… I don't know — control, authority — not this."
+    Holloway says, "It's disorienting — I expected… I don't know — control and authority, not this."
 
-    I suggest, "Not empowerment?"
+    I ask, "Not empowerment?"
 
-    Holloway's fruiting bodies shift as they ask, "Is that what this is?"
+    Holloway's fruiting bodies shift. "Is that what this is?"
 
-    I say, "She asked Runner for recommendations — she told Velvet their plan was better than hers — she's letting Remedy decide deployment positions — she's not controlling, she's enabling."
+    I say, "She asked Runner for recommendations — she told Velvet their plan was better than hers — she's letting Remedy decide deployment positions — she's not controlling; she's enabling."
 
     Holloway replies, "That doesn't erase what she did before."
 
     I acknowledge, "No — but it's still worth noticing."
 
-    Scout bounces softly against Holloway's base. Holloway's bioluminescence flickers warmer for a moment.
+    Scout bounces against Holloway's base with a soft, gentle motion. Holloway's bioluminescence flickers warmer for a moment.
 
-    Florence is coordinating now — Velvet's barrier gaps, Remedy's chemical traps, Runner's underground misdirection — but it's not commands; it's discussion, people contributing and Florence integrating their ideas into a cohesive strategy.
+    Florence is coordinating now — Velvet's barrier gaps, Remedy's chemical traps, Runner's underground misdirection. It's not commands; it's discussion — people contributing and Florence integrating their ideas into a cohesive strategy.
 
     Florence asks, "Kira, where will you position during the attack?"
 
-    Kira says, "Wherever Scout and I are safest."
+    Kira answers, "Wherever Scout and I are safest."
 
-    Florence says, "Central core, behind Velvet's third barrier layer — Remedy's chemical traps will be between layers two and three; you'll have maximum protection there."
+    Florence says, "Central core, behind Velvet's third barrier layer — Remedy's chemical traps will be between layers two and three, you'll have maximum protection there."
 
     Kira asks, "What if they break through all three layers?"
 
-    Florence says confidently, "*They won't.*"
+    Florence says with absolute certainty, "They won't."
 
-    Florence continues, "But if somehow they do — Holloway will coordinate emergency evacuation. Right?"
+    Florence adds, "But if somehow they do, Holloway will coordinate emergency evacuation — right, Holloway?"
 
-    Holloway shifts their platform and says, "Yes. I'll make sure Kira reaches safety."
+    Holloway's platform shifts.
 
-    It's strange hearing them coordinate about me like I'm the mission objective — which, I guess, I am, technically. I say, "Sorry I'm so defenseless."
+    Holloway — "Yes. I'll make sure Kira reaches safety."
 
-    Velvet responds, "You're human. You're supposed to be defended."
+    It's strange hearing them coordinate about me like I'm the mission objective — which I guess I am, technically.
 
-    Scout bounces and says, "We'll defend you no matter what."
+    I say — "Sorry I'm so defenseless."
+
+    Velvet says, not unkindly — "You're human — you're supposed to be defended."
+
+    Scout bounces a protective agreement — they'll defend me no matter what.
 
     The facility settles into preparation — everyone working: Runner creating false weak points underground — Velvet growing layered barriers with precise gaps — Remedy producing aggressive compounds — Holloway organizing evacuation routes.
 
-    Florence coordinates it all, but she does not control it — she's the center of a web of collaboration, connecting everyone's contributions into a unified defense.
+    Florence coordinates it all but doesn't control — she's the center of a web of collaboration, connecting everyone's contributions into a unified defense.
 
-    I watch her work. She's focused, tactical, processing multiple streams of information. But there's something else too
-    nd it wasn't there yesterday during the desperate fighting.
+    I watch her work. She's focused, tactical, processing multiple streams of information — but there's something else too, something that wasn't there yesterday during the desperate fighting.
 
-    She looks
-    elicate pauseut possibly hopeful
-     better word might be: less isolated — like she's allowing herself to believe this might actually work.
+    She looks… hopeful? Maybe that's not the right word. Less isolated — like she's allowing herself to believe this might actually work.
 
-    Not just the defense  the redemption.
+    Not just the defense.
 
-    Buddy chimes in my mind: "I'm observing interesting group dynamics. Cooperation appears more authentic than yesterday's necessity-based coordination."
+    The redemption.
 
-    I tell them, "Yeah, Buddy. I noticed."
+    Buddy chimes in my mind — "I'm observing interesting group dynamics. Cooperation appears more authentic than yesterday's necessity-based coordination."
 
-    Buddy asks in my head, "Do you think this represents genuine social progress?"
+    I say — "Yeah, Buddy. I noticed."
 
-    I say, "I hope so."
+    Buddy — "And I'm continuing to track hostile movement patterns from our defensive position. Four distinct groups repositioning to the east. Would you like me to report to Florence?"
 
-    Buddy replies with bright enthusiasm: *Hope is a positive emotion! Excellent for psychological well-being!*
+    I say — "Yes! Do that."
 
-    Sometimes Buddy's enthusiasm is actually comforting. I tell them, "Thanks, Buddy."
+    Buddy, through my wristband's external speaker — "Florence, detecting four hostile groups repositioning to the eastern approach."
 
-    Scout bounces inquisitively — they're wondering what I'm thinking. I say, "Just watching everyone work."
+    Florence's platform pivots.
 
-    Nice is an understatement. After the betrayal, the exile, the desperate necessity cooperation — this feels like something real starting to grow. Fragile, but real.
+    Florence — "Buddy, can you maintain continuous tracking updates?"
 
-    Velvet finishes the first barrier layer. Remedy positions in the first gap. Runner reports the underground misdirection is in place. Everyone coordinates, everyone contributes.
+    Buddy — "I can! I'm designed for wellness monitoring, but motion detection uses similar sensor arrays — I'm getting quite good at this!"
 
-    Florence surveys the preparation and asks, "Status check. Velvet, barrier readiness?"
+    Florence — "Then you're part of our tactical coordination. Report any movement changes directly."
 
-    Velvet replies, "Layers one and two complete. Layer three at eighty percent  needs another twenty minutes."
+    Buddy makes a sound I can only describe as pleased — "Acknowledged! I'm part of the team!"
 
-    Remedy reports, "Three zones ready. Fourth in progress  fifteen minutes."
+    I smile despite everything. Buddy needed this — to matter, to contribute.
 
-    Runner says, "False weakness established. Real reinforcements in place. Ready."
+    We all did.
 
-    Holloway answers, "Mapped and clear. Kira's emergency position prepared."
+    Scout bounces a question — they're wondering what I'm thinking.
 
-    Florence processes all of this and says, "We have twenty minutes until full readiness. Hostile plants will likely attack before then  they're tactical; they'll recognize preparation activity and try to strike while we're incomplete."
+    I tell them — "Just watching everyone work together. It's nice."
+
+    Nice is an understatement. After the betrayal, the exile, the desperate-necessity cooperation — this feels like something real starting to grow. Fragile, but real.
+
+    Velvet finishes the first barrier layer. Remedy positions in the first gap. Runner reports underground misdirection in place — everyone coordinating, everyone contributing.
+
+    Florence surveys the preparation — "Status check. Velvet, barrier readiness?"
+
+    Velvet — "Layers one and two complete. Layer three at eighty percent — needs another twenty minutes."
+
+    Florence — "Remedy, chemical deployment?"
+
+    Remedy — "Three zones ready. Fourth in progress — fifteen minutes."
+
+    Florence — "Runner, underground positions?"
+
+    Runner — "False weakness established, real reinforcements in place. Ready."
+
+    Florence — "Holloway, evacuation routes?"
+
+    Florence reports, "Mapped and clear. Kira's emergency position prepared."
+
+    Florence processes all this and says, "We have twenty minutes until full readiness. Hostile plants will likely attack before then — they're tactical, they'll recognize preparation activity and try to strike while we're incomplete."
 
     Holloway asks, "How long do we actually have?"
 
-    Florence watches the damaged eastern wall and the open approaches, then says, "Minutes  maybe less."
+    Florence watches the damaged eastern wall and the open spaces where hostile plants could approach, then replies, "Minutes — maybe less."
 
-    Everyone tenses. Preparation isn't complete and we're running out of time.
+    Everyone tenses — preparation isn't complete and we're running out of time.
 
     Velvet asks, "What do we do?"
 
-    Florence hesitates—thinking, calculating, processing options—then asks, "I don't know. What do you all think?"
+    Florence doesn't answer immediately — she's thinking, calculating, processing options. Then she does something unexpected and asks, "I don't know. What do you all think?"
 
     Silence.
 
-    Runner replies, "If they attack before we're ready, we defend with what we have— incomplete preparation is better than no preparation."
+    Runner speaks first: "If they attack before we're ready, we defend with what we have. Incomplete preparation is better than no preparation."
 
-    Velvet adds, "We prioritize completing the third barrier layer—that's Kira's primary protection. Chemical traps can wait."
+    Velvet adds, "We prioritize completing the third barrier layer — that's Kira's primary protection. Chemical traps can wait."
 
-    Remedy counters, "No. Chemical traps in gaps one and two will slow them enough for layer three to finish. I focus on those two zones—abandon the third and fourth."
+    Remedy counters, "No — chemical traps in gaps one and two will slow them enough for layer three to finish. I focus on those two zones, abandon the third and fourth."
 
     Holloway says, "I position near Kira's location for immediate evacuation if needed. We assume incomplete preparation and plan for worst case."
 
-    Florence listens to every voice, every contribution—then synthesizes, "Combined approach. Velvet prioritizes layer three. Remedy focuses on gaps one and two. Runner maintains underground readiness. Holloway stays with Kira. I coordinate response to wherever they attack first—we adapt as needed."
+    Florence listens to every voice and every contribution, then synthesizes the plan: "Combined approach. Velvet prioritizes layer three. Remedy focuses on gaps one and two. Runner maintains underground readiness. Holloway stays with Kira. I coordinate response to wherever they attack first — we adapt as needed."
 
-    Everyone moves immediately—not following orders; implementing the agreed strategy.
+    Everyone moves immediately — not following orders, but implementing the agreed strategy.
 
-    I'm pressed against my pillar in the central core with Scout, watching everyone work with focused urgency—twenty minutes, maybe less.
+    I'm pressed against the pillar in the central core with Scout — watching everyone work with focused urgency. Twenty minutes. Maybe less.
 
-    The facility feels different than yesterday—still desperate, still dangerous, but collaborative.
+    The facility feels different than yesterday — still desperate, still dangerous, but collaborative.
 
-    Florence wheels toward me and asks, "You okay?"
+    Florence wheels toward me briefly and asks, "You okay?"
 
-    I admit, "Scared. But yeah."
+    I say, "Scared — but yeah."
 
-    Florence replies, "Good. Fear is appropriate—it keeps you alert. But we'll protect you."
+    Florence replies, "Good. Fear is appropriate — keeps you alert. But we'll protect you."
 
-    I say, "I know." I actually believe it—not because Florence is a tactical genius, but because everyone is working together for real.
+    I say to Florence quietly, "This isn't like Uncharted."
 
-    Scout bounces bravely—they're scared too, but ready.
+    Florence tilts her platform and asks, "The show you watch?"
 
-    From underground, Runner calls, "They're coming. Movement detected—multiple directions. Coordinated approach."
+    I gesture at the facility and say, "In Uncharted, Mav would be coordinating everyone through brilliant strategy — solo heroics. But this is better, because it's everyone contributing, not one hero saving the day."
 
-    Florence's platform straightens and she orders, "Everyone to positions. Adapt as needed. Trust each other's judgment."
+    Florence sounds uncertain: "Is that... good?"
 
-    Trust—she actually said "trust."
+    I answer, "It's REAL. And real is better than adventure stories."
 
-    The hostile plants are returning—but this time we're ready. Not just coordinated—together.
+    Scout bounces brave — they're scared too but ready.
+
+    From underground, Runner calls, "They're coming. Movement detected. Multiple directions. Coordinated approach."
+
+    Florence's platform straightens.
+
+    Florence says, "Everyone to positions. Adapt as needed. Trust each other's judgment."
+
+    Trust  she actually said trust.
+
+    The hostile plants are returning.
+
+    But this time we're ready  not just coordinated.
+
+    *Together.*
   </combined-text>
 </passage-voice>

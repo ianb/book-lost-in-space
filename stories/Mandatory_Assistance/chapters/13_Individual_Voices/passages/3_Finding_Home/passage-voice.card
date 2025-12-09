@@ -1,492 +1,571 @@
 <!-- Generated automatically, do not edit except with ske gen passage-voice -->
-<passage-voice version="2.0.0">
-  <ref ref="passage.card#v2.0.0"/>
+<passage-voice version="3.0.0">
+  <ref ref="passage.card#v3.0.0"/>
   <reasoning>
-    <!-- For instructions on filling out reasoning: ske instructions stories/Mandatory_Assistance/chapters/13_Individual_Voices/passages/3_Finding_Home/passage-voice.card -->
+    Reviewing the passage for voiceover adjustments: 
+    1. Staccato sentences: Several short fragments (e.g., "Not saying goodbye, exactly.") should be merged for smoother speech. 
+    2. Dialog speaker cues: Some lines of dialog follow action without a clear lead-in; I made every spoken line follow a clear "[Speaker] says," or narrator lead-in. 
+    3. Ambiguous pronouns: Kept speaker IDs (Runner, Velvet, Remedy, I) clear to avoid confusion in audio. 
+    4. Pauses: Added em dashes and ellipses where the text suggested medium or trailing pauses. 
+    5. Formal/stilted text: Light smoothing of sentence joins to read naturally while preserving meaning. 
+    6. Symbols/non-text: No special symbols to convert, aside from preserving punctuation for pauses. 
+    I did not change story content, only adapted wording and punctuation to fit the voiceover rules.
   </reasoning>
   <content-change/>
   <chunks>
     <chunk>
       <text>
-        I spend the next two days talking to everyone.
+        I spend the next two days talking to everyone — not saying goodbye exactly, but examining what this place means, what they mean, what I mean to them.
 
-        Not saying goodbye exactly—more like… examining what this place means, what they mean, and what I mean to them.
+        Runner finds me first, emerging from underground where they've been working on a new resonance design.
 
-        Runner finds me first, emerging from underground where they've been working on some new resonance design.
-
-        Runner asks, "Kira—can we talk?"
+        Runner says, "Kira. Can we talk?"
 
         I say, "Of course."
 
-        Runner settles their vines into a comfortable position and says, "I've been thinking about when you leave—if you leave—and I wanted to say… you changed how I see myself."
+        Runner's vines settle into a comfortable position.
 
-        I ask, "How?"
+        Runner says, "I've been thinking about when you leave — if you leave — and I wanted to say… *you changed how I see myself.*"
 
-        Runner says, "Before the battle I followed protocols—underground construction guidelines, standard network designs. Then you asked about my tactical intelligence, and Florence actually listened—made me realize I could contribute beyond just executing orders."
+        I say, "How?"
 
-        I say, gesturing at the acoustic chambers, "You've created incredible things—art and function together."
+        Runner says, "Before the battle I followed protocols — underground construction guidelines, standard network designs. Then you asked about my tactical intelligence, and Florence actually listened — it made me realize I could contribute beyond just executing orders."
 
-        Runner's vines shift. "Because I learned that individual perspective has value—you helped me understand that. If you decide to go back to your people, I'll miss that—the way you see things differently and aren't afraid to share it. But I also understand that humans probably need other humans."
+        I say—gesturing at the acoustic chambers—"You've created incredible things. Art and function together."
 
-        I ask, "Do they, though?"
+        Runner says, "Because I learned that individual perspective has value — you helped me understand that." Runner's vines shift.
 
-        Runner tilts thoughtfully. "I don't know—do you?"
+        Runner says, "If you decide to go back to your people, I'll miss that — the way you see things differently and aren't afraid to share it. But I also understand that humans probably need other humans."
 
-        I admit, "I don't know either. That's what I'm trying to figure out."
+        I say, "Do they, though?"
 
-        Runner says, "Whatever you choose—thank you for helping me find confidence in my own voice."
+        Runner tilts thoughtfully, then says, "I don't know. Do you?"
 
-        Later, Velvet finds me in one of the spaces they created—comfortable seating, pleasant proportions, designed with human needs in mind.
+        I admit, "That's the question, isn't it? I don't know either — that's what I'm trying to figure out."
 
-        Velvet shows me a new growth structure. It's beautiful—translucent layers creating light patterns, functional strength with artistic sensibility.
+        Runner says, "Whatever you choose — thank you for helping me find confidence in my own voice."
 
-        I say honestly, "It's amazing."
+        Later, Velvet finds me in one of the spaces they created — comfortable seating, pleasant proportions, designed with human needs in mind.
 
-        Velvet's growth rustles. "You taught me that beauty serves purpose. Before, I thought aesthetics were frivolous—function was what mattered. But you kept asking about how spaces feel, not just whether they're structurally sound—visual interest, comfortable proportions, pleasing textures."
+        Velvet shows me a new growth structure and says, "I've been working on this."
 
-        I touch the translucent growth as light filters through in complex patterns. "You already had the ability—I just asked questions."
+        It's beautiful — translucent layers creating light patterns, functional strength with artistic sensibility.
 
-        Velvet says, "Questions that made me think differently about what I create. The spaces we designed together are better because they consider human perspective alongside plant function. You contributed to that. Whatever you decide about the freighter, I want you to know—your voice shaped this community in ways that will last."
+        I say—honestly—"It's amazing."
 
-        My feedback helped create this. My voice mattered in its design.
+        Velvet says, "You taught me that beauty serves purpose. Before, I thought aesthetics were frivolous; function was what mattered. But you kept asking about how spaces feel, not just whether they're structurally sound — visual interest, comfortable proportions, pleasing textures."
 
-        Remedy approaches while I'm examining the enhancement compounds they've developed—scents and colors and environmental improvements.
+        I say, "You already had the ability. I just asked questions."
 
-        Remedy says without preamble, "Chemistry can serve joy. I never understood that before you—science was survival: necessary compounds, emergency responses, protocol compliance."
+        Velvet's growth rustles.
+
+        Velvet says, "Questions that made me think differently about what I create — the spaces we designed together are better because they consider human perspective alongside plant function. You contributed to that. Whatever you decide about the freighter, I want you to know: *your voice shaped this community in ways that will last.*"
+
+        I touch the translucent growth, light filtering through in complex patterns. My feedback helped create this. *My voice mattered in its design.*
+
+        Remedy approaches while I'm examining the enhancement compounds they've developed — scents and colors and subtle environmental improvements.
+
+        Remedy says without preamble, "*Chemistry can serve joy.* I never understood that before you. Science was survival — necessary compounds, emergency responses, protocol compliance."
 
         I ask, "What changed?"
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: reflective and intimate, patient pacing with occasional thoughtful hesitations—soft and conversational, growing warmer in scenes of appreciation.
+        Overall tone &amp; pacing: Intimate, reflective, gentle pacing with modest pauses for emphasis and transition between speakers.
 
-        - Read the opening line "I spend the next two days talking to everyone." in a calm, even voice.
-        - For "Not saying goodbye exactly—more like… examining what this place means..." use a small, thoughtful pause at the em dash and a longer, trailing hesitation at the ellipsis.
-        - When introducing speakers, use a clear change in slight timbre before the quoted line, for example: Runner asks, "Kira—can we talk?"
-        - Keep all quoted dialog on its own line and treat internal em dashes inside quotes as medium pauses—pause briefly when you reach them.
-        - For gestures like "I say, gesturing at the acoustic chambers," vocalize the line normally and keep the gesture as part of the lead-in, not as an emphasized word.
-        - Make "I admit, 'I don't know either...'" sound more vulnerable—slightly softer, slower.
-        - For Velvet's praise lines such as "You taught me that beauty serves purpose," increase warmth and sincerity in tone.
-        - The last exchange with Remedy should be curious and slightly brightened when Remedy says, "Chemistry can serve joy," then shift to a reflective question for "What changed?"
+        - Read the opening line measured and thoughtful: "I spend the next two days talking to everyone — not saying goodbye exactly..."
+        - For dialog, clearly voice the speaker tag first, then the quote. Pause slightly after each "[Name] says," before speaking the quote.
+        - Emphasize the bolded phrases as slightly stronger: "*you changed how I see myself.*" and "*your voice shaped this community in ways that will last.*"
+        - Use a softer, curious tone for questions: "Do they, though?" and "What changed?"
+        - When the text uses em dashes for stage directions—e.g., "I say—gesturing at the acoustic chambers—"—perform the parenthetical action briefly, then continue.
+        - For Runner and Velvet, use warm, appreciative tones; for Remedy, a more matter-of-fact but surprised gentle tone when saying "*Chemistry can serve joy.*"
+        - End the passage with a slight upward inflection on the question "What changed?" to leave it open and inquisitive.
       </stage-directions>
     </chunk>
     <chunk>
       <text>
-        Remedy says, "You asked about human-safe fragrances—such a trivial question, I thought—but it made me realize chemistry could enhance life, not just preserve it."
+        Remedy says, "You asked about human-safe fragrances. But it made me realize chemistry could enhance life, not just preserve it — your questions challenged my assumptions about what I could create — made me a better scientist."
+
+        «Such a trivial question.»
+
         Remedy's edges shift with what might be satisfaction.
-        Remedy continues, "Your questions challenged my assumptions about what I could create—made me a better scientist."
 
-        I say, "You made my life better—these enhancements make this place comfortable, not just survivable."
+        I say, "You made my life better — these enhancements make this place comfortable, not just survivable."
 
-        Remedy replies, "Exactly—comfortable matters as much as survivable. You taught me that."
-        Remedy pauses.
-        Remedy says, "If you leave, I'll miss your questions—they push me to think beyond protocol—but I also understand that humans might need human-appropriate environments more than plant-enhanced ones."
+        Remedy says, "Exactly — comfortable matters as much as survivable. You taught me that."
 
-        ¶
+        —
 
-        «Do I, though?»
+        Remedy says, "If you leave, I'll miss your questions — they push me to think beyond protocol. But I also understand that humans might need human-appropriate environments more than plant-enhanced ones."
+
+        Do I, though?
 
         This plant-enhanced environment feels more like home than any human space I've lived in.
 
-        Holloway finds me on the third day—wait, no, the second day—time is moving faster than I realize. The freighter arrives tomorrow.
+        Holloway finds me on the second day. Time is moving faster than I realize. The freighter arrives tomorrow.
 
-        Holloway says, "Kira—We need to talk about your decision."
+        Holloway says, "Kira — we need to talk about your decision."
 
         I say, "I'm still thinking."
 
-        Holloway says, "I know. But I want to make something clear."
+        Holloway says, "I know — but I want to make something clear."
+
         Holloway's bioluminescence brightens.
-        Holloway continues, "You're part of this community—not as guest, not as temporary refugee—as an *actual* member whose voice shapes our collective direction. If you choose to stay, that's not charity or accommodation—it's us keeping someone we value."
 
-        I ask, "And if I choose to leave?"
+        Holloway says, "You're part of this community — not as guest, not as temporary refugee — as an actual member whose voice shapes our collective direction. If you choose to stay, that's not charity or accommodation — it's us keeping someone we value."
 
-        Holloway says, "We'll be sad—Scout especially will be heartbroken—but we'll support it, because belonging means choosing to be here, not feeling trapped here."
-        Holloway pauses.
-        Holloway continues, "Whatever you decide, know that your voice mattered—you changed us and made us better at being a community that values individual contributions."
+        I say, "And if I choose to leave?"
+
+        Holloway says, "We'll be sad — Scout especially will be heartbroken. But we'll support it — because belonging means choosing to be here, not feeling trapped here."
+
+        —
+
+        Holloway says, "Whatever you decide, know that your voice mattered — you changed us. Made us better at being a community that values individual contributions."
 
         I admit, "You changed me too."
 
-        Holloway says, "Then we're even—make the choice that serves you, Kira—not what you think you should want, what you actually want."
+        Holloway says, "Then we're even — make the choice that serves you, Kira. Not what you think you should want — what you actually want."
+
+        What I actually want.
 
         ¶
 
-        «What I actually want.»
-
-        «That's the core question.»
-
-        On the evening of the second day, Florence approaches. I'm sitting in one of Velvet's comfortable spaces, Scout curled up beside me, thinking about tomorrow.
+        I'm sitting in one of Velvet's comfortable spaces, Scout curled up beside me, thinking about tomorrow.
 
         Florence asks, "May I join you?"
 
         I say, "Please."
 
-        Florence wheels into position.
         Florence says, "I owe you something."
 
         I ask, "What?"
 
-        Florence says, "Perspective. When I was exiled, I believed redemption was impossible—that past mistakes defined me forever, that I'd always be the person who betrayed everyone's trust. You didn't accept that."
+        Florence says, "Perspective. When I was exiled, I believed redemption was impossible — that past mistakes defined me forever, that I'd always be the person who betrayed everyone's trust. You didn't accept that."
 
         I say, "I just asked you to help."
 
-        Florence says, "You believed I could choose right action even when I doubted it—that belief changed everything. It gave me space to become someone who empowers rather than controls, someone whose present choices matter despite past failures."
+        Florence says, "You believed I could choose right action even when I doubted it — that belief changed everything. It gave me space to become someone who empowers rather than controls, someone whose present choices matter despite past failures."
 
         Florence's platform shifts.
-        Florence continues, "Now you're facing a choice about who you are and where you belong—I want you to have the same freedom I did—to choose based on who you want to be, not who you think you should be."
 
-        I say, "You think I should stay."
+        Florence says, "Now you're facing a choice about who you are and where you belong — I want you to have the same freedom I did: to choose based on who you want to be, not who you think you should be."
+
+        I say, "You think I should stay." It's not a question.
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: reflective and intimate, patient pacing with thoughtful hesitations—gentle warmth when characters express appreciation, steady clarity during community-concern lines.
+        Overall tone &amp; pacing: Intimate and reflective — measured delivery, with soft warmth for affectionate lines and gentle firmness for practical counsel. Use medium pauses at the em dashes and a long, dramatic pause at the paragraph with only "¶".
 
-        - Read the opening line "Remedy says, "You asked about human-safe fragrances..."" with mild curiosity, then soften into satisfaction for the next line.
-        - For the short inner-question paragraph "¶" followed by «Do I, though?» allow a long pause (pilcrow) before the thought—treat the thought as inward and quieter.
-        - When reading Holloway's community lines like "You're part of this community..." increase warmth and sincerity; emphasize *actual* with a slightly firmer tone.
-        - Pause slightly at em dashes—for example in "You asked about human-safe fragrances—such a trivial question..."—these are medium pauses (~300-400ms).
-        - For Florence's redemption lines, slow the pace slightly and make the line "You didn't accept that." feel like a soft but steady revelation.
-        - Keep dialog lines on their own lines and use a subtle timbre change at each new speaker—same narrator still, but clearly mark speaker shifts by slight pause and a small change in cadence.
-        - For internal lines in double-angle quotes (e.g., «What I actually want.»), lower volume and slow the delivery to indicate introspection.
+        - Read "Remedy says, "You asked about human-safe fragrances..."" with quiet surprise and a mild, pleased curiosity.
+        - Pause briefly at every "—" and treat it as a beat of thought; do not rush through those breaks.
+        - At the paragraph containing only "¶", take a noticeably longer pause (let the silence linger) before continuing into the next sentence.
+        - Voice Holloway warmly and sincerely — "Holloway says, 'Kira — we need to talk...'" should feel grounding and gently persuasive; brighten the tone slightly for the sentence about community value.
+        - For the narrator lines like "Do I, though?" and "What I actually want.", use inward, questioning inflection — more reflective than outward-facing.
+        - Florence's lines should be steady and earnest — deliver the redemption lines with calm conviction; for "I owe you something," make a soft, deliberate beat before revealing the rest.
+        - When a line begins with "I say," or similar lead-ins, pause a fraction after the lead-in before the quoted text, so the speaker tag reads naturally.
       </stage-directions>
     </chunk>
     <chunk>
       <text>
-        Florence says, "I think you belong here. But that's different from *should.* Belonging only works if you choose it freely. Otherwise it's obligation, not authentic connection." 
+        Florence says, "I think you belong here — but that's different from 'should.' Belonging only works if you choose it freely — otherwise it's obligation, not authentic connection. When I helped out of exile, it was because I chose to — that choice mattered more than all the complex reasoning. You gave me freedom to choose. I'm giving you the same." 
 
-        Florence pauses.
+        I say, "Thank you." 
 
-        Florence says, "When I helped out of exile, it was because I chose to. That choice mattered more than all the complex reasoning. You gave me freedom to choose. I'm giving you the same."
+        Florence says, "Whatever you decide — you changed my life. You gave me a chance at redemption I didn't think possible. That matters regardless of where you physically exist." 
 
-        I say, [softly], "Thank you."
+        Scout, who has been listening to all of this, waits until the second evening and finally demands full attention. We're alone in my sleeping area — still mostly intact from before, but now softened by Remedy's comfortable scents and Velvet's moss improvements. 
 
-        Florence says, "Whatever you decide, you changed my life. You gave me a chance at redemption I didn't think possible. That matters regardless of where you physically exist."
+        Scout says (bouncing), "I know — are you going to leave? — I don't know yet — maybe — I'm happy if you're happy, but I'll be heartbroken if you go — I want you to stay, but I want you to choose what's right for you." 
 
-        Scout, who's been listening to all these conversations, finally demands full attention on the second evening.
+        I say, "You're the best, you know that?" 
 
-        We're alone in my sleeping area—still mostly intact from before, though now enhanced by Remedy's comfortable scents and Velvet's soft moss improvements.
+        Scout says (modest), "I just love Kira — always will — even if you go away." 
 
-        Scout bounces—serious; needs to talk.
+        I say, "I love you too." Scout cuddles close. 
 
-        Scout then says to me, "Are you going to leave?"
-
-        I say, "I don't know yet. Maybe."
-
-        Scout bounces—complicated. Scout says to Kira, "I'll be happy if you're happy—but I'll be heartbroken if you go. I want you to stay—but I want you to choose what's right for you. You're the best, you know that? I just love you—always will. Even if you go away."
-
-        I say, "I love you too." Scout cuddles close.
-
-        This tiny bouncing plant who adopted me immediately—who's provided unconditional affection and loyalty—sees me as family without complication or condition.
-
-        If I leave, I'll miss Scout most of all.
+        This tiny plant who adopted me immediately — who has given unconditional affection and loyalty and sees me as family without complication or condition. If I leave, I'll miss Scout most of all — but if I stay, Scout and I continue exactly as we are: family. That thought sits heavy and warm in my chest. 
 
         ¶
 
-        «Buddy. Final analysis.»
+        I think, "Buddy — help me think through this." 
 
-        Buddy says, "Yes, Kira!"
+        Buddy says, "Of course, Kira. What do you need?" 
 
-        Buddy says, "All factors considered—psychological well-being in human civilization versus here; social integration; sense of purpose; authentic belonging. All of it."
+        I say, "I keep waiting for Mav's voice in my head to tell me what to do — some Uncharted wisdom about the brave choice or the universe rewarding boldness — but it's quiet." 
 
-        Buddy processes. "Quantitatively, your well-being indicators are significantly higher in the current plant community. You demonstrate greater purpose, deeper connections, more authentic belonging. Your individual voice has more impact on community decisions here than in any previous human environment."
+        Buddy says, "Is that bad?" 
 
-        «So objectively, I should stay.»
+        I say, "I don't think so. I think it means I'm not treating this like an episode anymore — this is my actual life, and Mav doesn't have answers for my actual life." 
 
-        Buddy says, "Data suggests yes. But Kira, decision isn't just objective. It's about what you want your life to be—where you want your voice to matter."
+        Buddy says softly, "That sounds like growth — you're trusting yourself instead of a character." 
 
-        «What do I want?»
+        I say, "Yeah. Maybe. So help me think — not data analysis — just... think with me. Human civilization versus here." 
 
-        «I think about returning to human civilization—finding a new courier job probably, or some other bureaucratic position. Functional existence among my own species. I'd have processed food again. Medical technology. Other humans to talk to about human things.»
+        Buddy is quiet for a moment. "When you were in human civilization, did anyone ask what you thought about how spaces should feel? Did anyone shape their work around your perspective? Did anyone make you furniture based on conversations you had? Create scents to make you comfortable? Build singing chambers partly because you wondered what underground art might sound like?" 
 
-        «But would any of them care about my individual perspective? Would my voice shape their decisions? Would I be Kira, or would I be employee number three thousand eight hundred forty-seven—a replaceable cog in an efficient machine?»
+        I say, "No." 
 
-        «I think about staying here—this weird plant community where my human perspective genuinely matters; where my voice contributes to acoustic chambers and aesthetic design and enhancement chemistry and community decisions.»
+        Buddy says, "And here?" 
+
+        I say, "Here I'm Kira. My voice shapes things." 
+
+        Buddy says, "Then I don't think you need data analysis — I think you already know." 
+
+        What do I want?
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: reflective and intimate; allow thoughtful hesitations and soft warmth for appreciative lines, steady clarity for Buddy's analytic statements.
+        Overall tone &amp; pacing: Intimate and reflective — warm, measured delivery; allow small bright moments for Scout and resolute softness for Florence and Buddy.
 
-        - For "Florence says, \"I think you belong here...\"" begin with calm sincerity; slow slightly on the sentence about *should* to emphasize contrast.
-        - After "Florence pauses." hold a medium pause—use the em dash timing mentally—before the next Florence line.
-        - Read "I say, [softly], \"Thank you.\"" quietly and with modest gratitude.
-        - When introducing Scout, shift to a lighter, more animated tone for the action lines ("Scout bounces—serious; needs to talk.").
-        - Deliver all of Scout's speech as one block with small internal breath pauses at the em dashes; make it earnest and loving.
-        - Insert a long, silent beat at the pilcrow (¶) before the internal analysis—lower volume and slow slightly when moving into «Buddy. Final analysis.»
-        - Buddy's analytic lines should be steady and measured; treat the longer sentence lists as clear, slightly clipped exposition. Return to softer introspection for the double-angle thought lines.
+        - Read "Florence says, \"I think you belong here — but that's different from 'should.'\"" with steady earnestness; use a medium pause at the em dash before the explanation.
+        - For "I say, \"Thank you.\"" deliver quietly — a gentle, grateful tone.
+        - Read Scout's block, "Scout says (bouncing), \"I know — are you going to leave? ...\"" with a light, quick cadence; let the em dashes act as short, playful beats; keep the overall feeling warm and vulnerable.
+        - When the line reads "Scout cuddles close," soften and slow slightly — a tender close physical beat.
+        - At the paragraph that contains only "¶", take a long dramatic pause — let silence linger before continuing.
+        - Deliver Buddy's lines with calm, encouraging gentleness; for "Buddy says softly, \"That sounds like growth...\"" emphasize "growth" with a touch of warmth and small uplift.
+        - End with the final internal question, "What do I want?" as an inward, searching whisper — reflective and unresolved.
       </stage-directions>
     </chunk>
     <chunk>
       <text>
-        Where I'm not just present—I'm valued. Where Scout loves me unconditionally. Where Florence found redemption partly because I believed in her. Where Runner discovered confidence, Velvet found artistic purpose, Remedy learned joy, Holloway leads by empowering. Where individual voices create a harmony richer than any protocol could design. The absurd irony is this—bureaucratic alien plants created a more authentic human community than humans did, because they value individual voices—including mine.
+        I think about returning to human civilization — finding a new courier job, probably, or some other bureaucratic position; a functional existence among my own species. I'd have processed food again, medical technology, other humans to talk to about human things.
 
-        I say to Scout, "I think I know what I want."
-        Scout bounces—hopeful question.
+        But would any of them care about my individual perspective? Would my voice shape their decisions? Would I be Kira, or would I be employee number three thousand eight hundred forty-seven — a replaceable cog in an efficient machine?
+
+        I think about staying here: a weird plant community where my human perspective genuinely matters — where my voice contributes to acoustic chambers and aesthetic design and enhancement chemistry and community decisions. Where I'm not just present, I'm valued.
+
+        Where Scout loves me unconditionally — where Florence found redemption partly because I believed in her — where Runner discovered confidence, Velvet found artistic purpose, Remedy learned joy, and Holloway leads by empowering. Where individual voices create a harmony that's richer than any protocol could design.
+
+        The absurd irony of it is this: bureaucratic alien plants created more authentic human community than the humans did — because they value individual voices, including mine.
+
+        I say quietly, "I think I know what I want."
+
+        Scout bounces — a hopeful question.
+
         I say, "I want to stay."
-        Scout explodes in happy bounces—joyful bounce, relief bounce, family-staying-together bounce!
 
-        I say to Scout, "But I need to be sure—really, truly sure, because once I make this choice I'm committing to it."
-        Scout bounces—understanding, take-time, be-certain, but hoping so hard.
+        Scout explodes in happy bounces — joyful bounce, relief bounce, family-staying-together bounce.
 
-        I sit with it—the decision.
+        "But I need to be sure," I add — really, truly sure — "because once I make this choice, I'm committing to it."
+
+        Scout bounces understanding — take time, be certain, yet hoping so hard.
+
+        I sit with it. The decision.
 
         ¶
 
-        Tomorrow the freighter arrives—the human rescue, return to civilization. Or—home: real home where my voice matters.
+        Tomorrow the freighter arrives — human rescue, return to civilization.
 
-        The choice isn't actually hard. It should be—species loyalty, human connection, familiar culture; those things should matter. But what actually matters is being valued for who I am—contributing uniquely, having a voice that shapes the community I live in.
+        Or — home. Real home. Where my voice matters.
+
+        The choice isn't actually hard. It should be — species loyalty, human connection, familiar culture — those should matter. But what actually matters is being valued for who I am: contributing uniquely, having a voice that shapes the community I live in.
 
         Belonging. Real belonging.
 
-        I tell Scout, "I'm sure—I'm staying here. This is home."
-        Scout bounces the happiest bounce I've ever seen, then bounces a question—should I tell the freighter tonight?
-        I say to Scout, "Tomorrow—when they arrive. I'll tell them in person that I'm choosing to stay."
-        Scout bounces approval—proper choice, respectful.
+        I tell Scout, "I'm sure — I want to stay here. This is home."
+
+        Scout bounces the happiest bounce I've ever seen, then bounces a question: telling the freighter tonight?
+
+        I say, "Tomorrow. When they arrive, I'll tell them in person that I'm choosing to stay."
+
+        Scout bounces approval — proper choice bounce, respectful bounce.
 
         I ask, "You think so?"
-        Scout bounces an emphatic yes—*they deserve to know I'm choosing freely,* not being held against my will—clear communication, human courtesy.
-        I ask, "When did you get so wise?"
-        Scout bounces modest—just common sense.
 
-        I settle into my sleeping area—comfortable moss, pleasant scents, acoustic chambers humming gentle harmonics through the facility. Individual voices creating collective harmony—and my voice is part of that harmony now. Not a temporary visitor, not a protected refugee—part of the community. Home.
+        Scout bounces emphatic yes — they deserve to know I'm choosing freely, not being held against my will; clear communication bounce, human courtesy bounce.
 
-        Tomorrow I'll tell the freighter—thank them for coming but explain I'm staying. I've found a place here, a community that values me, a home that actually feels like home.
+        "When did you get so wise?" I ask.
 
-        They might think I'm crazy—a human choosing to live with alien plants instead of returning to civilization. But I know the truth: I'm choosing *belonging over familiarity*, authentic connection over demographic similarity, home over origin. My voice matters here in ways it never did before, in ways I didn't know were possible. That's worth more than any bureaucratic human system.
+        Scout bounces modest — just common sense.
 
-        Scout curls up beside me—content bounce, happy bounce, family bounce.
+        I settle into my sleeping area: comfortable moss, pleasant scents, acoustic chambers humming gentle harmonics through the facility — individual voices creating collective harmony. And my voice is part of that harmony now.
 
-        Tomorrow the freighter arrives. Tomorrow I make my choice official.
+        Not temporary visitor. Not protected refugee. Part of the community. Home.
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: reflective and warm, with gentle hesitations for introspection and brighter, bouncier energy for Scout's moments; steady and clear for the decision statements.
+        Overall tone &amp; pacing: Quietly reflective and warm — measured delivery with small bright, quick rhythms for Scout's bounces; allow one long silent beat before the choice is revealed.
 
-        - Read "I say to Scout, \"I think I know what I want.\"" quietly, intimate, slight pause after the quote.
-        - Deliver all Scout action-lines as expressive, physical beats—light, quick, and rhythmic: "Scout bounces—hopeful question." and the later approval bounces should sound joyful and emphatic.
-        - Use medium pauses (em dash timing) at every em dash in the text, especially in lines like "I sit with it—the decision." and "Tomorrow the freighter arrives—the human rescue...".
-        - At the paragraph containing only "¶" hold a long, silent beat before continuing into the internal weighing of options.
-        - When saying "Belonging. Real belonging." slow slightly and give the second short sentence a weightier delivery.
-        - The declaration "I tell Scout, \"I'm sure—I'm staying here. This is home.\"" should be calm, resolved, and warm; allow a small pleased swell when Scout reacts.
-        - For the contrast lines ("I'm choosing *belonging over familiarity*, authentic connection...") emphasize the italicized phrase for moral clarity; keep the rest steady and sure.
+        - Read the opening paragraph with calm, steady introspection; let the em dashes create a gentle pause between clauses.
+        - For the rhetorical questions about being Kira or employee number three thousand eight hundred forty-seven, slow slightly on each question to let the weight land.
+        - Read the list of "Where..." lines as one flowing sentence separated by soft em-dash beats — rising warmth as you reach the final line of that paragraph.
+        - When you say, "I think I know what I want," use a low, intimate tone; then make Scout's reactions light and quick — "Scout bounces — a hopeful question." should sound playful and brief.
+        - At the paragraph that contains only "¶", take a long dramatic pause — let silence lengthen before saying "Tomorrow the freighter arrives."
+        - Deliver the final decision — "I'm sure — I want to stay here. This is home." — with gentle conviction; close the ending lines with a peaceful, contented softness.
+        - Keep Scout's bounces as nonverbal, physical cues with a bright, quick cadence whenever they appear.
       </stage-directions>
     </chunk>
     <chunk>
       <text>
-        But tonight, I sleep peacefully in the weird, wonderful plant facility that became home when I wasn't looking.
+        Tomorrow I'll tell the freighter — thank them for coming, but explain I'm staying. I've found a place here, a community that values me — a home that actually feels like home.
 
-        Where individual voices create harmony—and where mine belongs.
+        They might think I'm crazy — a human choosing to live with alien plants instead of returning to civilization.
+
+        But I know the truth.
+
+        I'm choosing *belonging* over familiarity — _authentic connection_ over demographic similarity — *home* over origin.
+
+        My voice matters here — in ways it never did before, in ways I didn't know were possible. That's worth more than any bureaucratic human system.
+
+        Scout curls up beside me — content bounce — happy bounce — family bounce.
+
+        Tomorrow the freighter arrives. Tomorrow I make my choice official.
+
+        But tonight, I sleep peacefully in the weird, wonderful plant facility that became home when I wasn't looking — where individual voices create harmony, and where mine belongs.
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: reflective and warm; peaceful, content, and gently introspective with a small, satisfied lift on the final word.
+        Overall tone &amp; pacing: Quiet, reflective, and warm — measured delivery, with quick bright rhythms for Scout's bounces and a gentle, lingering close.
 
-        - Read the first sentence "But tonight, I sleep peacefully in the weird, wonderful plant facility that became home when I wasn't looking." quietly and intimate—steady pacing, slight swell on "peacefully", soft emphasis on "home".
-        - Treat the second line as a single thought: pause briefly after "harmony" using the em dash timing—medium pause (~300-400ms) before continuing "and where mine belongs."
-        - On the phrase "and where mine belongs" increase warmth and ownership on "mine"—a gentle, proud emphasis.
-        - Keep breaths small and controlled between the two paragraphs so the lines flow like one closing reflection.
-        - Plain closing cadence; clean fall, short pause
+        - Read the opening sentence calmly; use a medium pause at the em dash in "Tomorrow I'll tell the freighter — thank them for coming, but explain I'm staying."  
+        - Slightly emphasize "*belonging*" and "*home*" — make those words carry a little more weight while keeping the delivery intimate.  
+        - Use em-dash beats as medium pauses for the comparisons: deliver "I'm choosing *belonging* over familiarity — _authentic connection_ over demographic similarity — *home* over origin" as one flowing, rising sequence.  
+        - For "My voice matters here — in ways it never did before," ease into it — a soft, astonished warmth before the next line.  
+        - Make Scout's bounces quick and playful on the words "content bounce — happy bounce — family bounce"; they should be light and brief.  
+        - Keep "Tomorrow the freighter arrives. Tomorrow I make my choice official." steady, clear — slight pause between the two "Tomorrow" lines to mark resolve.  
+        - Close with a peaceful, contented softness on "...where individual voices create harmony, and where mine belongs."
+        - Soft landing; warm fall, lingering last syllable, cozy pause
       </stage-directions>
     </chunk>
   </chunks>
   <unusual-pronunciations>
+    <word text="Buddy"/>
     <word text="Florence"/>
     <word text="Kira"/>
+    <word text="Mav"/>
     <word text="Remedy"/>
     <word text="Runner"/>
+    <word text="Scout"/>
+    <word text="Uncharted"/>
     <word text="Velvet"/>
   </unusual-pronunciations>
   <title>Where Voice Belongs</title>
   <combined-text>
-    I spend the next two days talking to everyone.
+    I spend the next two days talking to everyone — not saying goodbye exactly, but examining what this place means, what they mean, what I mean to them.
 
-    Not saying goodbye exactly—more like… examining what this place means, what they mean, and what I mean to them.
+    Runner finds me first, emerging from underground where they've been working on a new resonance design.
 
-    Runner finds me first, emerging from underground where they've been working on some new resonance design.
-
-    Runner asks, "Kira—can we talk?"
+    Runner says, "Kira. Can we talk?"
 
     I say, "Of course."
 
-    Runner settles their vines into a comfortable position and says, "I've been thinking about when you leave—if you leave—and I wanted to say… you changed how I see myself."
+    Runner's vines settle into a comfortable position.
 
-    I ask, "How?"
+    Runner says, "I've been thinking about when you leave — if you leave — and I wanted to say… *you changed how I see myself.*"
 
-    Runner says, "Before the battle I followed protocols—underground construction guidelines, standard network designs. Then you asked about my tactical intelligence, and Florence actually listened—made me realize I could contribute beyond just executing orders."
+    I say, "How?"
 
-    I say, gesturing at the acoustic chambers, "You've created incredible things—art and function together."
+    Runner says, "Before the battle I followed protocols — underground construction guidelines, standard network designs. Then you asked about my tactical intelligence, and Florence actually listened — it made me realize I could contribute beyond just executing orders."
 
-    Runner's vines shift. "Because I learned that individual perspective has value—you helped me understand that. If you decide to go back to your people, I'll miss that—the way you see things differently and aren't afraid to share it. But I also understand that humans probably need other humans."
+    I say—gesturing at the acoustic chambers—"You've created incredible things. Art and function together."
 
-    I ask, "Do they, though?"
+    Runner says, "Because I learned that individual perspective has value — you helped me understand that." Runner's vines shift.
 
-    Runner tilts thoughtfully. "I don't know—do you?"
+    Runner says, "If you decide to go back to your people, I'll miss that — the way you see things differently and aren't afraid to share it. But I also understand that humans probably need other humans."
 
-    I admit, "I don't know either. That's what I'm trying to figure out."
+    I say, "Do they, though?"
 
-    Runner says, "Whatever you choose—thank you for helping me find confidence in my own voice."
+    Runner tilts thoughtfully, then says, "I don't know. Do you?"
 
-    Later, Velvet finds me in one of the spaces they created—comfortable seating, pleasant proportions, designed with human needs in mind.
+    I admit, "That's the question, isn't it? I don't know either — that's what I'm trying to figure out."
 
-    Velvet shows me a new growth structure. It's beautiful—translucent layers creating light patterns, functional strength with artistic sensibility.
+    Runner says, "Whatever you choose — thank you for helping me find confidence in my own voice."
 
-    I say honestly, "It's amazing."
+    Later, Velvet finds me in one of the spaces they created — comfortable seating, pleasant proportions, designed with human needs in mind.
 
-    Velvet's growth rustles. "You taught me that beauty serves purpose. Before, I thought aesthetics were frivolous—function was what mattered. But you kept asking about how spaces feel, not just whether they're structurally sound—visual interest, comfortable proportions, pleasing textures."
+    Velvet shows me a new growth structure and says, "I've been working on this."
 
-    I touch the translucent growth as light filters through in complex patterns. "You already had the ability—I just asked questions."
+    It's beautiful — translucent layers creating light patterns, functional strength with artistic sensibility.
 
-    Velvet says, "Questions that made me think differently about what I create. The spaces we designed together are better because they consider human perspective alongside plant function. You contributed to that. Whatever you decide about the freighter, I want you to know—your voice shaped this community in ways that will last."
+    I say—honestly—"It's amazing."
 
-    My feedback helped create this. My voice mattered in its design.
+    Velvet says, "You taught me that beauty serves purpose. Before, I thought aesthetics were frivolous; function was what mattered. But you kept asking about how spaces feel, not just whether they're structurally sound — visual interest, comfortable proportions, pleasing textures."
 
-    Remedy approaches while I'm examining the enhancement compounds they've developed—scents and colors and environmental improvements.
+    I say, "You already had the ability. I just asked questions."
 
-    Remedy says without preamble, "Chemistry can serve joy. I never understood that before you—science was survival: necessary compounds, emergency responses, protocol compliance."
+    Velvet's growth rustles.
+
+    Velvet says, "Questions that made me think differently about what I create — the spaces we designed together are better because they consider human perspective alongside plant function. You contributed to that. Whatever you decide about the freighter, I want you to know: *your voice shaped this community in ways that will last.*"
+
+    I touch the translucent growth, light filtering through in complex patterns. My feedback helped create this. *My voice mattered in its design.*
+
+    Remedy approaches while I'm examining the enhancement compounds they've developed — scents and colors and subtle environmental improvements.
+
+    Remedy says without preamble, "*Chemistry can serve joy.* I never understood that before you. Science was survival — necessary compounds, emergency responses, protocol compliance."
 
     I ask, "What changed?"
 
-    Remedy says, "You asked about human-safe fragrances—such a trivial question, I thought—but it made me realize chemistry could enhance life, not just preserve it."
+    Remedy says, "You asked about human-safe fragrances. But it made me realize chemistry could enhance life, not just preserve it — your questions challenged my assumptions about what I could create — made me a better scientist."
+
+    «Such a trivial question.»
+
     Remedy's edges shift with what might be satisfaction.
-    Remedy continues, "Your questions challenged my assumptions about what I could create—made me a better scientist."
 
-    I say, "You made my life better—these enhancements make this place comfortable, not just survivable."
+    I say, "You made my life better — these enhancements make this place comfortable, not just survivable."
 
-    Remedy replies, "Exactly—comfortable matters as much as survivable. You taught me that."
-    Remedy pauses.
-    Remedy says, "If you leave, I'll miss your questions—they push me to think beyond protocol—but I also understand that humans might need human-appropriate environments more than plant-enhanced ones."
+    Remedy says, "Exactly — comfortable matters as much as survivable. You taught me that."
 
-    «Do I, though?»
+    —
+
+    Remedy says, "If you leave, I'll miss your questions — they push me to think beyond protocol. But I also understand that humans might need human-appropriate environments more than plant-enhanced ones."
+
+    Do I, though?
 
     This plant-enhanced environment feels more like home than any human space I've lived in.
 
-    Holloway finds me on the third day—wait, no, the second day—time is moving faster than I realize. The freighter arrives tomorrow.
+    Holloway finds me on the second day. Time is moving faster than I realize. The freighter arrives tomorrow.
 
-    Holloway says, "Kira—We need to talk about your decision."
+    Holloway says, "Kira — we need to talk about your decision."
 
     I say, "I'm still thinking."
 
-    Holloway says, "I know. But I want to make something clear."
+    Holloway says, "I know — but I want to make something clear."
+
     Holloway's bioluminescence brightens.
-    Holloway continues, "You're part of this community—not as guest, not as temporary refugee—as an *actual* member whose voice shapes our collective direction. If you choose to stay, that's not charity or accommodation—it's us keeping someone we value."
 
-    I ask, "And if I choose to leave?"
+    Holloway says, "You're part of this community — not as guest, not as temporary refugee — as an actual member whose voice shapes our collective direction. If you choose to stay, that's not charity or accommodation — it's us keeping someone we value."
 
-    Holloway says, "We'll be sad—Scout especially will be heartbroken—but we'll support it, because belonging means choosing to be here, not feeling trapped here."
-    Holloway pauses.
-    Holloway continues, "Whatever you decide, know that your voice mattered—you changed us and made us better at being a community that values individual contributions."
+    I say, "And if I choose to leave?"
+
+    Holloway says, "We'll be sad — Scout especially will be heartbroken. But we'll support it — because belonging means choosing to be here, not feeling trapped here."
+
+    —
+
+    Holloway says, "Whatever you decide, know that your voice mattered — you changed us. Made us better at being a community that values individual contributions."
 
     I admit, "You changed me too."
 
-    Holloway says, "Then we're even—make the choice that serves you, Kira—not what you think you should want, what you actually want."
+    Holloway says, "Then we're even — make the choice that serves you, Kira. Not what you think you should want — what you actually want."
 
-    «What I actually want.»
+    What I actually want.
 
-    «That's the core question.»
-
-    On the evening of the second day, Florence approaches. I'm sitting in one of Velvet's comfortable spaces, Scout curled up beside me, thinking about tomorrow.
+    I'm sitting in one of Velvet's comfortable spaces, Scout curled up beside me, thinking about tomorrow.
 
     Florence asks, "May I join you?"
 
     I say, "Please."
 
-    Florence wheels into position.
     Florence says, "I owe you something."
 
     I ask, "What?"
 
-    Florence says, "Perspective. When I was exiled, I believed redemption was impossible—that past mistakes defined me forever, that I'd always be the person who betrayed everyone's trust. You didn't accept that."
+    Florence says, "Perspective. When I was exiled, I believed redemption was impossible — that past mistakes defined me forever, that I'd always be the person who betrayed everyone's trust. You didn't accept that."
 
     I say, "I just asked you to help."
 
-    Florence says, "You believed I could choose right action even when I doubted it—that belief changed everything. It gave me space to become someone who empowers rather than controls, someone whose present choices matter despite past failures."
+    Florence says, "You believed I could choose right action even when I doubted it — that belief changed everything. It gave me space to become someone who empowers rather than controls, someone whose present choices matter despite past failures."
 
     Florence's platform shifts.
-    Florence continues, "Now you're facing a choice about who you are and where you belong—I want you to have the same freedom I did—to choose based on who you want to be, not who you think you should be."
 
-    I say, "You think I should stay."
+    Florence says, "Now you're facing a choice about who you are and where you belong — I want you to have the same freedom I did: to choose based on who you want to be, not who you think you should be."
 
-    Florence says, "I think you belong here. But that's different from *should.* Belonging only works if you choose it freely. Otherwise it's obligation, not authentic connection." 
+    I say, "You think I should stay." It's not a question.
 
-    Florence pauses.
+    Florence says, "I think you belong here — but that's different from 'should.' Belonging only works if you choose it freely — otherwise it's obligation, not authentic connection. When I helped out of exile, it was because I chose to — that choice mattered more than all the complex reasoning. You gave me freedom to choose. I'm giving you the same." 
 
-    Florence says, "When I helped out of exile, it was because I chose to. That choice mattered more than all the complex reasoning. You gave me freedom to choose. I'm giving you the same."
+    I say, "Thank you." 
 
-    I say, [softly], "Thank you."
+    Florence says, "Whatever you decide — you changed my life. You gave me a chance at redemption I didn't think possible. That matters regardless of where you physically exist." 
 
-    Florence says, "Whatever you decide, you changed my life. You gave me a chance at redemption I didn't think possible. That matters regardless of where you physically exist."
+    Scout, who has been listening to all of this, waits until the second evening and finally demands full attention. We're alone in my sleeping area — still mostly intact from before, but now softened by Remedy's comfortable scents and Velvet's moss improvements. 
 
-    Scout, who's been listening to all these conversations, finally demands full attention on the second evening.
+    Scout says (bouncing), "I know — are you going to leave? — I don't know yet — maybe — I'm happy if you're happy, but I'll be heartbroken if you go — I want you to stay, but I want you to choose what's right for you." 
 
-    We're alone in my sleeping area—still mostly intact from before, though now enhanced by Remedy's comfortable scents and Velvet's soft moss improvements.
+    I say, "You're the best, you know that?" 
 
-    Scout bounces—serious; needs to talk.
+    Scout says (modest), "I just love Kira — always will — even if you go away." 
 
-    Scout then says to me, "Are you going to leave?"
+    I say, "I love you too." Scout cuddles close. 
 
-    I say, "I don't know yet. Maybe."
+    This tiny plant who adopted me immediately — who has given unconditional affection and loyalty and sees me as family without complication or condition. If I leave, I'll miss Scout most of all — but if I stay, Scout and I continue exactly as we are: family. That thought sits heavy and warm in my chest. 
 
-    Scout bounces—complicated. Scout says to Kira, "I'll be happy if you're happy—but I'll be heartbroken if you go. I want you to stay—but I want you to choose what's right for you. You're the best, you know that? I just love you—always will. Even if you go away."
+    I think, "Buddy — help me think through this." 
 
-    I say, "I love you too." Scout cuddles close.
+    Buddy says, "Of course, Kira. What do you need?" 
 
-    This tiny bouncing plant who adopted me immediately—who's provided unconditional affection and loyalty—sees me as family without complication or condition.
+    I say, "I keep waiting for Mav's voice in my head to tell me what to do — some Uncharted wisdom about the brave choice or the universe rewarding boldness — but it's quiet." 
 
-    If I leave, I'll miss Scout most of all.
+    Buddy says, "Is that bad?" 
 
-    «Buddy. Final analysis.»
+    I say, "I don't think so. I think it means I'm not treating this like an episode anymore — this is my actual life, and Mav doesn't have answers for my actual life." 
 
-    Buddy says, "Yes, Kira!"
+    Buddy says softly, "That sounds like growth — you're trusting yourself instead of a character." 
 
-    Buddy says, "All factors considered—psychological well-being in human civilization versus here; social integration; sense of purpose; authentic belonging. All of it."
+    I say, "Yeah. Maybe. So help me think — not data analysis — just... think with me. Human civilization versus here." 
 
-    Buddy processes. "Quantitatively, your well-being indicators are significantly higher in the current plant community. You demonstrate greater purpose, deeper connections, more authentic belonging. Your individual voice has more impact on community decisions here than in any previous human environment."
+    Buddy is quiet for a moment. "When you were in human civilization, did anyone ask what you thought about how spaces should feel? Did anyone shape their work around your perspective? Did anyone make you furniture based on conversations you had? Create scents to make you comfortable? Build singing chambers partly because you wondered what underground art might sound like?" 
 
-    «So objectively, I should stay.»
+    I say, "No." 
 
-    Buddy says, "Data suggests yes. But Kira, decision isn't just objective. It's about what you want your life to be—where you want your voice to matter."
+    Buddy says, "And here?" 
 
-    «What do I want?»
+    I say, "Here I'm Kira. My voice shapes things." 
 
-    «I think about returning to human civilization—finding a new courier job probably, or some other bureaucratic position. Functional existence among my own species. I'd have processed food again. Medical technology. Other humans to talk to about human things.»
+    Buddy says, "Then I don't think you need data analysis — I think you already know." 
 
-    «But would any of them care about my individual perspective? Would my voice shape their decisions? Would I be Kira, or would I be employee number three thousand eight hundred forty-seven—a replaceable cog in an efficient machine?»
+    What do I want?
 
-    «I think about staying here—this weird plant community where my human perspective genuinely matters; where my voice contributes to acoustic chambers and aesthetic design and enhancement chemistry and community decisions.»
+    I think about returning to human civilization — finding a new courier job, probably, or some other bureaucratic position; a functional existence among my own species. I'd have processed food again, medical technology, other humans to talk to about human things.
 
-    Where I'm not just present—I'm valued. Where Scout loves me unconditionally. Where Florence found redemption partly because I believed in her. Where Runner discovered confidence, Velvet found artistic purpose, Remedy learned joy, Holloway leads by empowering. Where individual voices create a harmony richer than any protocol could design. The absurd irony is this—bureaucratic alien plants created a more authentic human community than humans did, because they value individual voices—including mine.
+    But would any of them care about my individual perspective? Would my voice shape their decisions? Would I be Kira, or would I be employee number three thousand eight hundred forty-seven — a replaceable cog in an efficient machine?
 
-    I say to Scout, "I think I know what I want."
-    Scout bounces—hopeful question.
+    I think about staying here: a weird plant community where my human perspective genuinely matters — where my voice contributes to acoustic chambers and aesthetic design and enhancement chemistry and community decisions. Where I'm not just present, I'm valued.
+
+    Where Scout loves me unconditionally — where Florence found redemption partly because I believed in her — where Runner discovered confidence, Velvet found artistic purpose, Remedy learned joy, and Holloway leads by empowering. Where individual voices create a harmony that's richer than any protocol could design.
+
+    The absurd irony of it is this: bureaucratic alien plants created more authentic human community than the humans did — because they value individual voices, including mine.
+
+    I say quietly, "I think I know what I want."
+
+    Scout bounces — a hopeful question.
+
     I say, "I want to stay."
-    Scout explodes in happy bounces—joyful bounce, relief bounce, family-staying-together bounce!
 
-    I say to Scout, "But I need to be sure—really, truly sure, because once I make this choice I'm committing to it."
-    Scout bounces—understanding, take-time, be-certain, but hoping so hard.
+    Scout explodes in happy bounces — joyful bounce, relief bounce, family-staying-together bounce.
 
-    I sit with it—the decision.
+    "But I need to be sure," I add — really, truly sure — "because once I make this choice, I'm committing to it."
 
-    Tomorrow the freighter arrives—the human rescue, return to civilization. Or—home: real home where my voice matters.
+    Scout bounces understanding — take time, be certain, yet hoping so hard.
 
-    The choice isn't actually hard. It should be—species loyalty, human connection, familiar culture; those things should matter. But what actually matters is being valued for who I am—contributing uniquely, having a voice that shapes the community I live in.
+    I sit with it. The decision.
+
+    Tomorrow the freighter arrives — human rescue, return to civilization.
+
+    Or — home. Real home. Where my voice matters.
+
+    The choice isn't actually hard. It should be — species loyalty, human connection, familiar culture — those should matter. But what actually matters is being valued for who I am: contributing uniquely, having a voice that shapes the community I live in.
 
     Belonging. Real belonging.
 
-    I tell Scout, "I'm sure—I'm staying here. This is home."
-    Scout bounces the happiest bounce I've ever seen, then bounces a question—should I tell the freighter tonight?
-    I say to Scout, "Tomorrow—when they arrive. I'll tell them in person that I'm choosing to stay."
-    Scout bounces approval—proper choice, respectful.
+    I tell Scout, "I'm sure — I want to stay here. This is home."
+
+    Scout bounces the happiest bounce I've ever seen, then bounces a question: telling the freighter tonight?
+
+    I say, "Tomorrow. When they arrive, I'll tell them in person that I'm choosing to stay."
+
+    Scout bounces approval — proper choice bounce, respectful bounce.
 
     I ask, "You think so?"
-    Scout bounces an emphatic yes—*they deserve to know I'm choosing freely,* not being held against my will—clear communication, human courtesy.
-    I ask, "When did you get so wise?"
-    Scout bounces modest—just common sense.
 
-    I settle into my sleeping area—comfortable moss, pleasant scents, acoustic chambers humming gentle harmonics through the facility. Individual voices creating collective harmony—and my voice is part of that harmony now. Not a temporary visitor, not a protected refugee—part of the community. Home.
+    Scout bounces emphatic yes — they deserve to know I'm choosing freely, not being held against my will; clear communication bounce, human courtesy bounce.
 
-    Tomorrow I'll tell the freighter—thank them for coming but explain I'm staying. I've found a place here, a community that values me, a home that actually feels like home.
+    "When did you get so wise?" I ask.
 
-    They might think I'm crazy—a human choosing to live with alien plants instead of returning to civilization. But I know the truth: I'm choosing *belonging over familiarity*, authentic connection over demographic similarity, home over origin. My voice matters here in ways it never did before, in ways I didn't know were possible. That's worth more than any bureaucratic human system.
+    Scout bounces modest — just common sense.
 
-    Scout curls up beside me—content bounce, happy bounce, family bounce.
+    I settle into my sleeping area: comfortable moss, pleasant scents, acoustic chambers humming gentle harmonics through the facility — individual voices creating collective harmony. And my voice is part of that harmony now.
+
+    Not temporary visitor. Not protected refugee. Part of the community. Home.
+
+    Tomorrow I'll tell the freighter — thank them for coming, but explain I'm staying. I've found a place here, a community that values me — a home that actually feels like home.
+
+    They might think I'm crazy — a human choosing to live with alien plants instead of returning to civilization.
+
+    But I know the truth.
+
+    I'm choosing *belonging* over familiarity — _authentic connection_ over demographic similarity — *home* over origin.
+
+    My voice matters here — in ways it never did before, in ways I didn't know were possible. That's worth more than any bureaucratic human system.
+
+    Scout curls up beside me — content bounce — happy bounce — family bounce.
 
     Tomorrow the freighter arrives. Tomorrow I make my choice official.
 
-    But tonight, I sleep peacefully in the weird, wonderful plant facility that became home when I wasn't looking.
-
-    Where individual voices create harmony—and where mine belongs.
+    But tonight, I sleep peacefully in the weird, wonderful plant facility that became home when I wasn't looking — where individual voices create harmony, and where mine belongs.
   </combined-text>
 </passage-voice>

@@ -1,108 +1,115 @@
 <!-- Generated automatically, do not edit except with ske gen passage-voice -->
-<passage-voice version="1.1.0">
-  <ref ref="passage.card#v1.1.0"/>
+<passage-voice version="2.0.0">
+  <ref ref="passage.card#v2.0.0"/>
   <reasoning>
-    <!-- For instructions on filling out reasoning: ske instructions stories/Mandatory_Assistance/chapters/13_Individual_Voices/passages/1_Everyone_Contributing/passage-voice.card -->
+    Review of the passage for voiceover adjustments:
+    1. Staccato sentences: Several short fragments (e.g., "Not because it's wrecked—though it was, thoroughly.", "Happy helping bounce. Proud bounce.") break flow and should be merged for smoother narration.
+    2. Dialog speaker clarity: Most dialog is clear, but ensuring every line is prefaced with the speaker (lead-in then quote) will help a single narrator perform distinct lines confidently.
+    3. Ambiguous pronouns: "they/their" used for Runner/Velvet/Scout could be a tiny risk in audio; where helpful I clarified with the character name in the lead-in to avoid misattribution.
+    4. Pauses: The resonance/harmony moment and the reveal of new design choices call for clear pauses—use em dashes and one dramatic pause marker for effect.
+    5. Formal/stilted phrasing: A few sentences read more like prose than speech and were smoothed slightly for conversational flow without changing meaning.
+    6. Non-text elements/sounds: Plant gestures and rustles should be indicated as stage directions rather than adverbs; converted accordingly.
+    7. Repetitive short beats from same speaker: Combined into single blocks with em dashes for intra-beat pauses to keep dialog natural for a single voice to perform.
+    No symbols or unusual non-text elements required reading aloud beyond character names.
   </reasoning>
   <content-change/>
   <chunks>
     <chunk>
       <text>
-        Three weeks since the battle.
-
-        The facility is almost unrecognizable — not because it's wrecked, though it was thoroughly — but because it's being rebuilt by committee. Weird, creative, enthusiastic committee of plants who apparently decided "just following the old plans" was boring.
+        Three weeks since the battle—the facility is almost unrecognizable. Not because it's wrecked—though it was, thoroughly—but because it's being rebuilt by committee: a weird, creative, enthusiastic committee of plants that apparently decided "just following the old plans" was boring.
 
         I'm standing in what used to be the common area, watching Runner emerge from underground with yet another adjustment to their network design.
 
-        Runner asks, vines gesturing toward a bowl-shaped depression in the floor.
-        "Kira, can you test the resonance chamber?"
+        Runner asks, "Kira, can you test the resonance chamber?"
 
-        "The what now?"
+        Their vines gesture toward a bowl-shaped depression in the floor.
 
-        Runner gestures again. "Stand in the center and say something — I'm trying to create acoustically interesting spaces."
+        I say, "The what now?"
 
-        I step into the depression. "Testing, testing."
+        Runner says, "Stand in the center and say something—I'm trying to create acoustically interesting spaces."
 
-        My voice echoes weirdly — not quite echo, more like harmony — like the space itself is singing along.
+        I step into the depression and say, "Testing, testing."
 
-        ¶
+        My voice doesn't exactly echo—it's more like a harmony, like the space itself is singing along.
 
-        "That's incredible," I say, and the space turns it into something almost musical.
+        I say, *That's incredible,* and the space turns it into something almost musical.
 
-        Runner's vines ripple with satisfaction. "The underground network isn't just for transportation and communication anymore — I realized it could be…beautiful. Functional and aesthetic. Individual spaces with individual characteristics."
+        Runner's vines ripple with satisfaction.
 
-        "You're creating art."
+        Runner says, "The underground network isn't just for transportation and communication anymore—I've realized it could be... beautiful. Functional and aesthetic—individual spaces with individual characteristics."
 
-        "I'm creating connection. But yes, also art."
+        I say, "You're creating art."
 
-        This is new. The old Runner would have followed underground construction protocols exactly — current Runner is designing underground chambers that sing.
+        Runner replies, "I'm creating connection—but yes, also art."
 
-        Velvet's growth is everywhere — but not the standard structural reinforcement I'm used to. They've created alcoves and spaces with specific purposes: sleeping areas with soft moss, meeting spots with pleasant proportions, even something that might be a garden — though calling it a garden feels inadequate when the gardener is itself a plant.
+        This is new—the old Runner would have followed underground construction protocols exactly; the current Runner is designing underground chambers that sing.
 
-        Velvet calls from across the space. "Kira! Does this seating arrangement feel comfortable from human perspective?"
+        Velvet's growth is everywhere, but not the standard structural reinforcement I'm used to: they've created alcoves and spaces with specific purposes—sleeping areas lined with soft moss, meeting spots with pleasant proportions, even something like a garden, though calling it a garden feels inadequate when the gardener is themselves a plant.
 
-        I go over to examine their latest creation — growth shaped into seating with back support, appropriate height, even cushioning texture.
+        Velvet calls, "Kira—does this seating arrangement feel comfortable from a human perspective?"
 
-        "This is actually really comfortable," I say, sitting. "How did you know?"
+        I go over to examine Velvet's latest creation: growth shaped into seating with back support, appropriate height, even cushioning texture. I sit and say, "This is actually really comfortable—how did you know?"
 
-        Velvet replies, "I asked you last week about human ergonomics — you said you'd show me your crash pod seat design. I extrapolated from there and tested prototypes."
+        Velvet says, "I asked you last week about human ergonomics—you said you'd show me your crash pod seat design, so I extrapolated and tested prototypes."
 
-        They created furniture for me — based on a conversation we had.
+        They made furniture for me, based on a conversation we had.
 
-        "This is amazing, Velvet."
+        I say, "This is amazing, Velvet."
 
-        "It's practical. But also..." Velvet's growth rustles. "I enjoy creating spaces that serve specific needs rather than just growing generically — everyone's voice about what they need helps me design better."
+        Velvet's growth rustles.
 
-        Scout bounces over, happy and proud, having been helping everyone — bouncing between projects and providing what I've come to recognize as emotional support through presence.
+        Velvet says, "It's practical—but also... I enjoy creating spaces that serve specific needs rather than just growing generically—everyone's voice about what they need helps me design better."
 
-        "Scout, what have you been working on?"
+        Scout bounces over—bouncing, proud, always enthusiastic. They've been helping everyone, hopping between projects and offering what I've come to recognize as emotional support through physical presence.
 
-        Scout leads me to a section of wall where Velvet's growth has created small alcoves at Scout-height — personal storage and collection spaces.
+        I ask, "Scout, what have you been working on?"
 
-        "Are these yours?"
+        Scout bounces me over to a section of wall where Velvet's growth has created small alcoves at Scout-height—little niches that look like personal storage or collection spaces.
+
+        Scout asks, "Are these yours?"
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: Warm, curious, lightly amused — steady narration with small tonal shifts for each character; allow moments of wonder to breathe.
+        Overall tone &amp; pacing: Warm, curious, quietly amused. Maintain a steady, conversational pace with small, thoughtful pauses for the resonance moments and brief lifts in energy for character lines.
 
-        - Narration: calm, measured, mildly astonished — keep pacing moderate so the listener can picture the rebuilt space.
-        - For "Runner asks, vines gesturing..." use a curious, experimental tone for Runner's lines; emphasize the inventive pride on "I realized it could be…beautiful." (slight pause at the ellipsis).
-        - For the line "Testing, testing." use a short, expectant delivery — then pause at the paragraph with only "¶" to let the strange harmony land.
-        - For "That's incredible," read with genuine awe — a touch of delight.
-        - Velvet's lines: slightly formal, thoughtful, gentle pride — calmer and more deliberate than Runner.
-        - Scout: bright, bouncy, energetic — quicker cadence and lighter tone for their speech and the descriptive beats about their movement.
-        - When referring to the space "singing along," allow a soft, reverent cadence as if listening to music.
-        - Keep all dialog lines on their own, distinct from narration; vary volume slightly to suggest different characters, but remain the same narrator voice.
+        - Read the opening with mild wonder and a steady rhythm: "Three weeks since the battle—the facility is almost unrecognizable."
+        - For Runner's lines, use a measured, slightly excited curiosity: "Runner asks, 'Kira, can you test the resonance chamber?'"
+        - When saying the test line, slow down and make the repetition rhythmic: "Testing, testing."
+        - On the resonance/harmony description, pause slightly after "My voice doesn't exactly echo—" and let the sentence float into "it's more like a harmony..."
+        - Emphasize *That's incredible* with a small lift in volume and genuine astonishment, then return to normal volume.
+        - Velvet's lines should sound thoughtful and pleased—gentle warmth; include a soft rustle effect after "Velvet's growth rustles" (optional, a tiny intake of breath or gentle sigh).
+        - Scout's entrance should be bright and bouncy—shorter, sprightly delivery for "Scout bounces over..." and then relaxed curiosity for "Are these yours?"
+        - Use the em dashes in the text as medium pauses—about 300–400ms—where indicated.
       </stage-directions>
     </chunk>
     <chunk>
       <text>
-        Affirmative bounce—each alcove contains something: interesting rocks, pretty leaves, items Scout has collected, arranged deliberately—curated.
+        Scout gives an affirmative bounce—each alcove contains something: interesting rocks, pretty leaves, little items Scout has collected, all arranged deliberately, curated.
 
-        I say, "You made a gallery."
+        Scout says, "You made a gallery."
 
-        Pleased bounce—Scout has been collecting beauty and wants to share it.
+        Scout bounces with pure joy; they've been collecting beauty and want to share it.
 
         I say, "I love it."
 
-        Scout bounces, pure joy.
+        Scout bounces again, pure joy.
 
-        Remedy is in their work area—it's been transformed too. Instead of only survival compounds, they're producing enhancements: colors, scents, things that make daily life better rather than merely possible.
+        Remedy is in their work area—what used to be survival compounds has been transformed into a place for producing enhancements: colors, scents, things that make daily life better rather than just possible.
 
-        I say, "Remedy, what's that smell?"
+        I ask, "Remedy, what's that smell?"
 
         Remedy says, "Experimental aromatic compound—does it please your human olfactory system?"
 
-        I breathe in. It's subtle, pleasant—reminds me of something I can't quite name. I say, "It's nice. Calming."
+        I breathe in. It's subtle, pleasant, a scent that reminds me of something I can't quite name. "It's nice. Calming."
 
-        Remedy says, "Good—I'm developing environmental enhancements. The facility should be comfortable, not just functional— I used to only think about survival chemistry—Velvet asked what I could do to make their growth smell better—Florence asked about tactical applications of scent for communication—Kira asked about human-safe fragrances—I've realized chemistry can serve joy, not just necessity."
+        Remedy says, "Good. I'm developing environmental enhancements—the facility should be comfortable, not just functional." Their edges shift. "I used to only think about survival chemistry—Velvet asked what I could do to make their growth smell better, Florence asked about tactical applications of scent for communication, you asked about human-safe fragrances, and I realized chemistry can serve joy, not just necessity."
 
-        I say, "You're making perfume."
+        I say, *"You're making perfume."*
 
-        Remedy replies, "I'm making life better."
+        Remedy replies, *"I'm making life better."*
 
-        It's the same sentiment everyone's expressing: contribution beyond protocol—individual voices creating collective improvement.
+        It's the same sentiment everyone is expressing: contribution beyond protocol—individual voices creating collective improvement.
 
-        Holloway is coordinating all of this, but not controlling. They move between projects, offering suggestions, asking questions, helping people connect their individual efforts.
+        Holloway coordinates this effort but doesn't control it, moving between projects, offering suggestions, asking questions, helping people connect their individual efforts.
 
         Holloway asks Velvet, "How's the eastern section coming?"
 
@@ -110,13 +117,11 @@
 
         Holloway asks Runner, "And Runner, can your acoustic network integrate with Velvet's aesthetic planning?"
 
-        Runner replies, "Already designing connection points—the resonance chambers will flow naturally through Velvet's spaces."
+        Runner says, "Already designing connection points—the resonance chambers will flow naturally through Velvet's spaces."
 
         Holloway says, "Excellent. Florence, do the defensive considerations work with these layouts?"
 
-        Florence wheels over—she's been consulting on facility design as one voice among many.
-
-        Florence says, "The layout maintains defensive visibility while creating comfortable spaces—better than the old design, actually. The alcoves provide protection points without feeling like bunkers."
+        Florence wheels over—she has been consulting on facility design as one voice among many. She says, "The layout maintains defensive visibility while creating comfortable spaces—better than the old design, actually. The alcoves provide protection points without feeling like bunkers."
 
         Velvet adds, "Because Kira mentioned humans don't like feeling trapped."
 
@@ -124,270 +129,302 @@
 
         Remedy contributes, "And my scent markers can indicate safe zones."
 
-        Everyone is building on each other's ideas—individual voices creating harmony.
+        Everyone builds on each other's ideas—individual voices creating harmony.
 
-        I'm watching this and feeling… something. Something I didn't expect.
+        I'm watching this and feeling... something. Something I didn't expect.
 
         ¶
 
-        Holloway asks me, "Kira, can you check the sight lines from human eye-level?"
+        Holloway asks, "Kira, can you check the sight lines from human eye-level?"
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: Warm, collaborative, quietly amazed — steady narration with slight bright bursts for Scout and measured precision for technical lines; allow a long pause for the moment of unexpected feeling.
+        Overall tone &amp; pacing: Warm, steady, quietly amazed—gentle lifts of energy for character lines and clear, slightly brisk delivery for the collaborative planning exchanges.
 
-        - Read "Affirmative bounce—each alcove contains something..." with a calm, descriptive cadence; merge the short beats into one flowing line.
-        - For "I say, "You made a gallery."" use a gentle, slightly amused tone — sincere praise.
-        - Scout lines: energetic and bouncy; for "Scout bounces, pure joy." speed up slightly and brighten the timbre.
-        - Remedy's longer explanations: keep them as one continuous beat with medium pauses — use a precise, curious delivery for technical phrases like "experimental aromatic compound." Emphasize the human-centered phrases ("comfortable, not just functional").
-        - For the coordination exchange (Holloway/Velvet/Runner/Florence), shift to slightly brisk, collaborative pacing — each dialog line on its own to make the rapid back-and-forth clear.
-        - Read "I'm watching this and feeling… something. Something I didn't expect." with increasing softness and a trailing, reflective hesitation on the ellipsis.
-        - Pause fully at the paragraph with only "¶" — hold a beat long enough for the listener to let the feeling land, then continue into Holloway's final question with steady clarity.
+        - Read the opening narration with mild wonder and a flowing cadence: "Scout gives an affirmative bounce—each alcove contains something..."
+        - For character dialog, use a clear lead-in then the quote on its own line, e.g., say "Scout says, 'You made a gallery.'" with a bright, bouncy delivery for Scout.
+        - When Remedy speaks about chemistry and joy, keep the lines thoughtful and slightly inquisitive—use subtle warmth and curiosity.
+        - Emphasize *bold* lines ("You're making perfume." / "I'm making life better.") with a firmer, slightly louder delivery, but not shouting.
+        - Use the em dash pauses as medium breaths—about 300–400ms—and the ellipsis for a trailing/hesitant pause (~500–600ms).
+        - Insert a long, silent beat at the paragraph marked "¶"—hold for a full beat of contemplation before continuing.
+        - Keep the collaborative planning section brisk and purposeful—slightly quicker tempo, clear speaker names, and a cooperative, energetic tone.
       </stage-directions>
     </chunk>
     <chunk>
       <text>
-        I move through the space, examining how it feels from my perspective—the ceiling height comfortable, not too high and not too low; pathways wide without overwhelming; Holloway's bioluminescence reflecting off Velvet's growth at pleasant angles.
+        I move through the space, examining how it feels from my perspective. The ceiling height is comfortable—not too high, not too low; the pathways are wide enough but not overwhelming. Holloway's bioluminescence reflects off Velvet's growth at pleasant angles.
 
-        I report, "It feels good—really good. Like… designed for humans as much as for plants."
+        I report:
+        "It feels good. Really good. Like... designed for humans as much as for plants."
 
-        Holloway says, "It's designed for all of us—this is our community space. Everyone's needs matter."
+        Holloway says:
+        "It's designed for all of us—this is our community space. Everyone's needs matter."
 
-        And that's when it hits me.
+        And that's when it hits me—
+
+        They're not designing around me as a temporary guest; they're designing for me as a permanent resident.
+
+        Somewhere over the past weeks, I stopped being 'Kira the human we have to protect' and became 'Kira who lives here.' My voice has been shaping these decisions. My feedback about human ergonomics, visual preferences, spatial needs—it's built into the facility's bones. Literally, since Velvet's growth is the bones.
+
+        I'm not a visitor anymore—I'm a community member.
+
+        Scout bounces, concerned:
+        "Kira? You okay?"
+
+        I say—my voice a little unsteady—
+        "Yeah. I'm just realizing something."
+
+        Florence wheels closer and asks:
+        "What?"
+
+        I say:
+        "This is home."
+
+        The facility falls quiet. Everyone processing what I just said.
 
         ¶
 
-        They're not designing around me as a temporary guest.
+        Holloway's bioluminescence brightens warmly. Holloway says:
+        "Yes. It is."
 
-        They're designing for me as a permanent resident.
+        Velvet says quietly:
+        "Your voice matters here."
 
-        Somewhere over the past weeks, I stopped being 'Kira the human we have to protect' and became 'Kira who lives here.' My voice has been shaping these decisions—my feedback about human ergonomics, visual preferences, spatial needs is built into the facility's bones. Literally—Velvet's growth is the bones.
+        Runner adds:
+        "Just as much as ours."
 
-        I'm not a visitor anymore.
+        Remedy says:
+        "You contribute uniquely."
 
-        I'm a community member.
+        Florence says:
+        "You belong."
 
-        Scout bounces, "You okay?"
+        Scout bounces in emphatic agreement—she's been saying this all along through bounces, glad everyone else finally made it explicit.
 
-        I say, "Yeah. I'm just realizing something."
+        I'm standing in this partially rebuilt facility that's being transformed by collective creativity, and I'm realizing that I'm not just watching the transformation—I'm part of it. My individual voice—my human perspective, my needs, my ideas—is contributing to the harmony. Not in spite of being different. Because being different means I bring something unique to the collective.
 
-        Florence wheels closer and asks, "What?"
+        Just like Runner's underground artistry, Velvet's aesthetic growth, Remedy's enhancement chemistry, Holloway's enabling coordination, Florence's tactical integration, Scout's emotional connection.
 
-        I say, "This is home."
+        Everyone's voice matters— including mine.
 
-        The facility falls quiet—everyone processing what I just said.
+        I think to my AI companion:
+        "Buddy—you seeing this?"
 
-        Holloway's bioluminescence brightens warmly. Holloway says, "Yes. It is."
+        Buddy sounds genuinely awed:
+        "Yes, Kira! This is fascinating! Do you realize what just happened? They all said you belong—not as a guest or obligation—as family."
 
-        Velvet says quietly, "Your voice matters here."
+        I admit:
+        "I didn't expect to belong with bureaucratic alien plants."
 
-        Runner adds, "Just as much as ours."
+        Buddy asks:
+        "Why not? You've been contributing since you arrived. Your questions shaped how they think about beauty, comfort, individual voices. Maybe belonging isn't about what you expected—maybe it's about what you built."
 
-        Remedy says, "You contribute uniquely."
+        I think about that. In Uncharted, found families always form through dramatic crisis moments—Mav saving someone's life, shared enemies, that kind of thing. But this... this grew slowly, through questions and conversations and small contributions that accumulated into something real.
+      </text>
+      <stage-directions>
+        Overall tone &amp; pacing: Warm, quietly astonished and reflective—steady narration with gentle lifts for dialog and a clear, longer beat at the realization.
 
-        Florence says, "You belong."
+        - Read the opening narration with calm curiosity and a flowing cadence; allow mild wonder on "pleasant angles." 
+        - For each dialog block, use a clear lead-in then deliver the quoted line on its own breath—make each speaker identity obvious.
+        - At "And that's when it hits me—" let the line trail into the realization with a small intake, then deliver the realization lines with growing weight.
+        - Insert a full, contemplative silence at the paragraph containing only "¶"—hold for a long beat before Holloway replies.
+        - For "I say—my voice a little unsteady— 'Yeah. I'm just realizing something.'" make the narrator's voice slightly breathy and tentative on the first line, then resolve into calm acceptance on "This is home." 
+        - Deliver Buddy's lines with bright, genuine awe; make Buddy sound excited and delighted when saying "They all said you belong... as family." 
+        - Keep the reflective closing lines steady and thoughtful; slow slightly on "this grew slowly," to emphasize accumulation and quiet growth.
+      </stage-directions>
+    </chunk>
+    <chunk>
+      <text>
+        I say, "That's actually better, isn't it?"
 
-        Scout bounces in emphatic agreement.
+        Buddy asks, "What do you mean?"
 
-        I'm standing in this partially rebuilt facility—transformed by collective creativity—and I'm realizing I'm not just watching the transformation. I'm part of it. My individual voice—my human perspective, my needs, my ideas—is contributing to the harmony, not in spite of being different but *because* being different means I bring something unique to the collective.
+        I say, "Better than TV. Real belonging instead of dramatic bonding."
 
-        Just like Runner's underground artistry—Velvet's aesthetic growth—Remedy's enhancement chemistry—Holloway's enabling coordination—Florence's tactical integration—Scout's emotional connection.
+        Buddy says, "I think so. TV can't show the quiet parts. But the quiet parts are where trust actually grows."
 
-        Everyone's voice matters.
-
-        Including mine.
-
-        «Buddy— you seeing this?»
-
-        Buddy responds with characteristic enthusiasm, "Yes, Kira! Your integration into the community structure is complete! Psychological well-being indicators are excellent! You have found belonging!"
-
-        I admit, "I didn't expect to belong with bureaucratic alien plants."
-
-        Buddy replies, "Belonging isn't about expected demographics—it's about authentic connection and mutual value!"
-
-        Buddy's right. Again. Annoyingly.
-
-        Holloway announces, "Break time—everyone's been working hard. Let's rest and appreciate progress."
+        Holloway says, "Break time. Everyone's been working hard. Let's rest and appreciate progress."
 
         The community settles into various comfortable positions. Velvet's seating arrangements get tested—everyone trying them out, adjusting, suggesting modifications.
-      </text>
-      <stage-directions>
-        Overall tone &amp; pacing: Warm, quietly amazed, and collaborative — steady narration with small bright inflections for exuberant characters and softer, reflective moments for the narrator. Hold a long pause at the main realization so the feeling can land.
 
-        - Read "I report, "It feels good—really good. Like… designed for humans as much as for plants."" with mild wonder and a soft, trailing hesitation on the ellipsis.
-        - For Scout's line "Scout bounces, "You okay?"" be energetic and quick — bright timbre, slightly higher pitch.
-        - When the narrator says "I say, "Yeah. I'm just realizing something."" begin steady then shift to a softer, slightly wavering tone — indicate the unsteadiness here.
-        - Pause fully at the paragraph containing only "¶" — hold a long beat so the realization registers.
-        - Read Velvet's line "Velvet says quietly, "Your voice matters here."" noticeably quieter and intimate; drop volume without slowing the phrasing.
-        - When the group affirms (Runner, Remedy, Florence, Scout), deliver each quoted line clearly and distinctly — slightly brisk for the quick exchange but warm.
-        - For the thought line «Buddy— you seeing this?» drop into inward, immediate thinking — slightly faster, as if sending a private signal.
-        - Buddy's long enthusiastic reply should be upbeat and *energetic* — project joy and celebratory tone; make it noticeably louder than surrounding lines.
-      </stage-directions>
-    </chunk>
-    <chunk>
-      <text>
-        Runner demonstrates the acoustic chambers—different spaces creating different harmonics. It's weird and wonderful to hear plant voices resonate through intentionally designed architecture.
+        Runner demonstrates the acoustic chambers—different spaces creating different harmonics. It's weird and wonderful, hearing plant voices resonate through intentionally designed architecture.
 
-        Remedy shares experimental scents—some pleasant, some strange, and one that makes everyone immediately request they never produce it again. Absurdist comedy in plant perfume testing.
+        Remedy shares experimental scents—some pleasant, some strange, one that makes everyone immediately request they never produce it again. It's absurdist comedy in plant perfume testing.
 
-        Scout bounces between everyone, spreading social glue and making sure nobody's isolated.
+        Scout bounces between everyone, spreading social glue, making sure nobody's isolated.
 
-        Florence participates equally—offering suggestions, accepting feedback, contributing without dominating. Her redemption arc is complete; she's not just valued despite past mistakes—she's integral to community function.
+        Florence participates equally—offering suggestions, accepting feedback, contributing without dominating—her redemption arc complete. She's not just valued despite past mistakes; she's integral to community function.
 
-        And I'm here too, contributing, belonging.
+        And I'm here too—contributing, belonging.
 
-        The facility is taking shape as something new—not restoration of old protocols but creation of new harmony. Individual voices working together.
+        The facility is taking shape as something new. Not restoration of old protocols. Creation of new harmony. Individual voices working together.
 
         And somewhere in the past weeks, without quite noticing when, I found my voice in this chorus.
 
-        Holloway says, "Tomorrow we start on the western wing—thoughts on design approach?"
-
-        Everyone starts contributing ideas: Runner's acoustic considerations; Velvet's aesthetic planning; Remedy's environmental enhancements; Florence's defensive integration.
-
-        Then they all turn to me.
-
-        They ask, "Kira, what do humans need in western wing spaces?"
-
-        My voice—*as a community member.* Not as a guest.
-
-        I share my thoughts: human need for windows even if we're underground—maybe Velvet's translucent growth; temperature regulation—Remedy's compounds; comfortable sleeping arrangements—Velvet's ergonomic designs.
-
-        Everyone listens, integrates my input, and builds on my suggestions.
-
-        This is what harmony sounds like—not everyone singing the same note, but everyone singing their own note, creating something richer together.
-
-        Scout bounces contentedly against my leg. They knew. They always knew I belonged here.
-
-        The community settles into a comfortable silence—exhausted from rebuilding, satisfied with progress, at peace with each other.
-
-        I look around at these weird, wonderful plant people who somehow created space for a random human to find home.
-
         ¶
+
+        Holloway says, "Tomorrow we start on the western wing. Thoughts on design approach?"
+
+        Everyone starts contributing ideas—Runner's acoustic considerations, Velvet's aesthetic planning, Remedy's environmental enhancements, Florence's defensive integration.
+
+        They all turn to me. They ask, "Kira, what do humans need in western wing spaces?"
+
+        My voice — they're asking for it. Not as a guest, but as a community member.
+
+        I share my thoughts: human need for windows even if we're underground (maybe Velvet's translucent growth?), temperature regulation (Remedy's compounds?), comfortable sleeping arrangements (Velvet's ergonomic designs?). Everyone listens, integrates my input, builds on my suggestions.
+
+        This is what harmony sounds like—not everyone singing the same note, but everyone singing their own note and creating something richer together.
+
+        Scout bounces contentedly against my leg; they knew—they always knew I belonged here.
+
+        The community settles into comfortable silence, exhausted from rebuilding, satisfied with progress, at peace with each other.
+
+        I look around at these weird, wonderful plant people who somehow created space for a random human to find home, and I realize something that should probably be obvious.
 
         I don't want to leave.
 
-        This accidental community of bureaucratic aliens has become more home than anywhere I've been in years—maybe ever.
+        This accidental community of bureaucratic aliens has become more home than anywhere I've been in years. Maybe ever.
 
-        Buddy chimes in my mind, "Kira! I'm detecting something unusual in the communication array!"
+        But even as I'm realizing this, Buddy chimes in my mind with their characteristic terrible timing.
+      </text>
+      <stage-directions>
+        Overall tone &amp; pacing: Warm, quietly astonished and reflective—steady narration with clear, conversational delivery for dialog and a longer, contemplative beat at the realization.
+
+        - Read narration with a calm, slightly curious cadence; let wonder soften consonants and linger on key images ("plant voices", "found my voice").
+        - For each dialog block, lead in with the speaker tag then deliver the quoted line on its own breath. Keep dialog distinct from narration.
+        - Deliver Buddy's lines thoughtfully—gentle, slightly introspective. (Reference: "Buddy says, "I think so..."").
+        - Holloway should sound pragmatic and brisk; keep "Break time" and "Tomorrow we start" efficient and organizational. (Reference: "Holloway says, \"Break time...\"").
+        - Runner and Velvet lines (descriptions, not direct dialog) should be read with mild enthusiasm—bright, curious energy for demonstrations and design ideas.
+        - Pause for a full, contemplative silence at the paragraph containing only "¶"—hold this as a long beat before Holloway's next line.
+        - At the realization—"I don't want to leave."—give a quiet, heavier pause beforehand and let this line settle with honest weight; follow with a softer, resolving breath into the final sentence.
+      </stage-directions>
+    </chunk>
+    <chunk>
+      <text>
+        Buddy says, "Kira! I'm detecting something unusual in the communication array!"
 
         I say, "What?"
 
-        Buddy says, "Signal. Definitely artificial. Possibly human origin. Should I investigate?"
+        Buddy says — "Signal — definitely artificial — possibly human origin — should I investigate?"
 
-        Everyone's looking at me—they heard my side of the conversation, wondering what Buddy's saying.
+        Everyone's looking at me — they heard my side of the conversation and are wondering what Buddy's saying.
 
-        "Possible signal," I tell them. "Maybe human."
+        I say, "Possible signal — maybe human."
 
         The atmosphere shifts immediately.
 
-        Human signal.
+        Human signal — possible rescue. Everything just changed.
 
-        Possible rescue.
+        ¶
 
-        Everything just changed. Again.
+        Again.
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: Warm and quietly amazed through the communal scenes, steady and conversational; build gently to a sudden, tense shift when the possible human signal appears.
+        Overall tone &amp; pacing: Continue the warm, quietly astonished narration from earlier, shifting quickly into taut, tentative hope—the delivery should be conversational, then tighten as the possibility of rescue settles in.
 
-        - Read "Runner demonstrates the acoustic chambers—different spaces creating different harmonics." with mild wonder and a slightly curious cadence.
-        - Deliver "Remedy shares experimental scents—some pleasant, some strange..." with a light comedic timing; let the line about the awful scent land as a quick, amused aside.
-        - For "Scout bounces between everyone..." use a bright, energetic inflection to convey physical movement and warmth.
-        - Read "Florence participates equally—offering suggestions..." softer and collaborative; calm, approving tone.
-        - Put quoted lines on their own: read "Holloway says, "Tomorrow we start on the western wing—thoughts on design approach?"" clearly and invitingly; let the question hang slightly at the em dash.
-        - When the narrator realizes "I don't want to leave." pause fully at the paragraph marker "¶"—hold a long beat so the realization registers.
-        - For Buddy's lines, increase urgency and crispness: "Buddy chimes in my mind, "Kira! I'm detecting..."" should feel abrupt and attention-grabbing; follow with a firmer, quicker exchange for the "Signal... Possibly human origin."
-        - Closing cadence: Firm terminal fall; decisive stop.
+        - Read the lead-ins plainly, then give each quoted line on its own breath: say "Buddy says, "Kira!..."" and pause before the quote.
+        - "Buddy says — \"Signal — definitely artificial...\"": deliver Buddy's line thoughtfully, with small, deliberate pauses at each em dash—curious and clinical.
+        - "I say, \"What?\"" and later "I say, \"Possible signal — maybe human.\"": read these with surprise first, then soften into tentative hope on the second line.
+        - For "Everyone's looking at me — they heard...": a slightly defensive, observational tone—calmer, explanatory, a touch breathy.
+        - "The atmosphere shifts immediately.": make a short, decisive change in tone—a small tightening in the voice to signal the room's emotional shift.
+        - "Human signal — possible rescue. Everything just changed.": pace these as a quickening sequence—one idea flows into the next, building momentum.
+        - Insert a long pause at the paragraph marker "¶"—hold this silence to let the implication settle before the final word.
+        - Closing cadence: Soft landing; warm fall, lingering last syllable, cozy pause
       </stage-directions>
     </chunk>
   </chunks>
   <unusual-pronunciations>
+    <word text="Buddy"/>
     <word text="Florence"/>
     <word text="Holloway"/>
     <word text="Kira"/>
+    <word text="Mav"/>
     <word text="Remedy"/>
     <word text="Runner"/>
     <word text="Scout"/>
+    <word text="Uncharted"/>
     <word text="Velvet"/>
   </unusual-pronunciations>
   <title>Individual Harmony</title>
   <combined-text>
-    Three weeks since the battle.
-
-    The facility is almost unrecognizable — not because it's wrecked, though it was thoroughly — but because it's being rebuilt by committee. Weird, creative, enthusiastic committee of plants who apparently decided "just following the old plans" was boring.
+    Three weeks since the battle—the facility is almost unrecognizable. Not because it's wrecked—though it was, thoroughly—but because it's being rebuilt by committee: a weird, creative, enthusiastic committee of plants that apparently decided "just following the old plans" was boring.
 
     I'm standing in what used to be the common area, watching Runner emerge from underground with yet another adjustment to their network design.
 
-    Runner asks, vines gesturing toward a bowl-shaped depression in the floor.
-    "Kira, can you test the resonance chamber?"
+    Runner asks, "Kira, can you test the resonance chamber?"
 
-    "The what now?"
+    Their vines gesture toward a bowl-shaped depression in the floor.
 
-    Runner gestures again. "Stand in the center and say something — I'm trying to create acoustically interesting spaces."
+    I say, "The what now?"
 
-    I step into the depression. "Testing, testing."
+    Runner says, "Stand in the center and say something—I'm trying to create acoustically interesting spaces."
 
-    My voice echoes weirdly — not quite echo, more like harmony — like the space itself is singing along.
+    I step into the depression and say, "Testing, testing."
 
-    "That's incredible," I say, and the space turns it into something almost musical.
+    My voice doesn't exactly echo—it's more like a harmony, like the space itself is singing along.
 
-    Runner's vines ripple with satisfaction. "The underground network isn't just for transportation and communication anymore — I realized it could be…beautiful. Functional and aesthetic. Individual spaces with individual characteristics."
+    I say, *That's incredible,* and the space turns it into something almost musical.
 
-    "You're creating art."
+    Runner's vines ripple with satisfaction.
 
-    "I'm creating connection. But yes, also art."
+    Runner says, "The underground network isn't just for transportation and communication anymore—I've realized it could be... beautiful. Functional and aesthetic—individual spaces with individual characteristics."
 
-    This is new. The old Runner would have followed underground construction protocols exactly — current Runner is designing underground chambers that sing.
+    I say, "You're creating art."
 
-    Velvet's growth is everywhere — but not the standard structural reinforcement I'm used to. They've created alcoves and spaces with specific purposes: sleeping areas with soft moss, meeting spots with pleasant proportions, even something that might be a garden — though calling it a garden feels inadequate when the gardener is itself a plant.
+    Runner replies, "I'm creating connection—but yes, also art."
 
-    Velvet calls from across the space. "Kira! Does this seating arrangement feel comfortable from human perspective?"
+    This is new—the old Runner would have followed underground construction protocols exactly; the current Runner is designing underground chambers that sing.
 
-    I go over to examine their latest creation — growth shaped into seating with back support, appropriate height, even cushioning texture.
+    Velvet's growth is everywhere, but not the standard structural reinforcement I'm used to: they've created alcoves and spaces with specific purposes—sleeping areas lined with soft moss, meeting spots with pleasant proportions, even something like a garden, though calling it a garden feels inadequate when the gardener is themselves a plant.
 
-    "This is actually really comfortable," I say, sitting. "How did you know?"
+    Velvet calls, "Kira—does this seating arrangement feel comfortable from a human perspective?"
 
-    Velvet replies, "I asked you last week about human ergonomics — you said you'd show me your crash pod seat design. I extrapolated from there and tested prototypes."
+    I go over to examine Velvet's latest creation: growth shaped into seating with back support, appropriate height, even cushioning texture. I sit and say, "This is actually really comfortable—how did you know?"
 
-    They created furniture for me — based on a conversation we had.
+    Velvet says, "I asked you last week about human ergonomics—you said you'd show me your crash pod seat design, so I extrapolated and tested prototypes."
 
-    "This is amazing, Velvet."
+    They made furniture for me, based on a conversation we had.
 
-    "It's practical. But also..." Velvet's growth rustles. "I enjoy creating spaces that serve specific needs rather than just growing generically — everyone's voice about what they need helps me design better."
+    I say, "This is amazing, Velvet."
 
-    Scout bounces over, happy and proud, having been helping everyone — bouncing between projects and providing what I've come to recognize as emotional support through presence.
+    Velvet's growth rustles.
 
-    "Scout, what have you been working on?"
+    Velvet says, "It's practical—but also... I enjoy creating spaces that serve specific needs rather than just growing generically—everyone's voice about what they need helps me design better."
 
-    Scout leads me to a section of wall where Velvet's growth has created small alcoves at Scout-height — personal storage and collection spaces.
+    Scout bounces over—bouncing, proud, always enthusiastic. They've been helping everyone, hopping between projects and offering what I've come to recognize as emotional support through physical presence.
 
-    "Are these yours?"
+    I ask, "Scout, what have you been working on?"
 
-    Affirmative bounce—each alcove contains something: interesting rocks, pretty leaves, items Scout has collected, arranged deliberately—curated.
+    Scout bounces me over to a section of wall where Velvet's growth has created small alcoves at Scout-height—little niches that look like personal storage or collection spaces.
 
-    I say, "You made a gallery."
+    Scout asks, "Are these yours?"
 
-    Pleased bounce—Scout has been collecting beauty and wants to share it.
+    Scout gives an affirmative bounce—each alcove contains something: interesting rocks, pretty leaves, little items Scout has collected, all arranged deliberately, curated.
+
+    Scout says, "You made a gallery."
+
+    Scout bounces with pure joy; they've been collecting beauty and want to share it.
 
     I say, "I love it."
 
-    Scout bounces, pure joy.
+    Scout bounces again, pure joy.
 
-    Remedy is in their work area—it's been transformed too. Instead of only survival compounds, they're producing enhancements: colors, scents, things that make daily life better rather than merely possible.
+    Remedy is in their work area—what used to be survival compounds has been transformed into a place for producing enhancements: colors, scents, things that make daily life better rather than just possible.
 
-    I say, "Remedy, what's that smell?"
+    I ask, "Remedy, what's that smell?"
 
     Remedy says, "Experimental aromatic compound—does it please your human olfactory system?"
 
-    I breathe in. It's subtle, pleasant—reminds me of something I can't quite name. I say, "It's nice. Calming."
+    I breathe in. It's subtle, pleasant, a scent that reminds me of something I can't quite name. "It's nice. Calming."
 
-    Remedy says, "Good—I'm developing environmental enhancements. The facility should be comfortable, not just functional— I used to only think about survival chemistry—Velvet asked what I could do to make their growth smell better—Florence asked about tactical applications of scent for communication—Kira asked about human-safe fragrances—I've realized chemistry can serve joy, not just necessity."
+    Remedy says, "Good. I'm developing environmental enhancements—the facility should be comfortable, not just functional." Their edges shift. "I used to only think about survival chemistry—Velvet asked what I could do to make their growth smell better, Florence asked about tactical applications of scent for communication, you asked about human-safe fragrances, and I realized chemistry can serve joy, not just necessity."
 
-    I say, "You're making perfume."
+    I say, *"You're making perfume."*
 
-    Remedy replies, "I'm making life better."
+    Remedy replies, *"I'm making life better."*
 
-    It's the same sentiment everyone's expressing: contribution beyond protocol—individual voices creating collective improvement.
+    It's the same sentiment everyone is expressing: contribution beyond protocol—individual voices creating collective improvement.
 
-    Holloway is coordinating all of this, but not controlling. They move between projects, offering suggestions, asking questions, helping people connect their individual efforts.
+    Holloway coordinates this effort but doesn't control it, moving between projects, offering suggestions, asking questions, helping people connect their individual efforts.
 
     Holloway asks Velvet, "How's the eastern section coming?"
 
@@ -395,13 +432,11 @@
 
     Holloway asks Runner, "And Runner, can your acoustic network integrate with Velvet's aesthetic planning?"
 
-    Runner replies, "Already designing connection points—the resonance chambers will flow naturally through Velvet's spaces."
+    Runner says, "Already designing connection points—the resonance chambers will flow naturally through Velvet's spaces."
 
     Holloway says, "Excellent. Florence, do the defensive considerations work with these layouts?"
 
-    Florence wheels over—she's been consulting on facility design as one voice among many.
-
-    Florence says, "The layout maintains defensive visibility while creating comfortable spaces—better than the old design, actually. The alcoves provide protection points without feeling like bunkers."
+    Florence wheels over—she has been consulting on facility design as one voice among many. She says, "The layout maintains defensive visibility while creating comfortable spaces—better than the old design, actually. The alcoves provide protection points without feeling like bunkers."
 
     Velvet adds, "Because Kira mentioned humans don't like feeling trapped."
 
@@ -409,130 +444,143 @@
 
     Remedy contributes, "And my scent markers can indicate safe zones."
 
-    Everyone is building on each other's ideas—individual voices creating harmony.
+    Everyone builds on each other's ideas—individual voices creating harmony.
 
-    I'm watching this and feeling… something. Something I didn't expect.
+    I'm watching this and feeling... something. Something I didn't expect.
 
-    Holloway asks me, "Kira, can you check the sight lines from human eye-level?"
+    Holloway asks, "Kira, can you check the sight lines from human eye-level?"
 
-    I move through the space, examining how it feels from my perspective—the ceiling height comfortable, not too high and not too low; pathways wide without overwhelming; Holloway's bioluminescence reflecting off Velvet's growth at pleasant angles.
+    I move through the space, examining how it feels from my perspective. The ceiling height is comfortable—not too high, not too low; the pathways are wide enough but not overwhelming. Holloway's bioluminescence reflects off Velvet's growth at pleasant angles.
 
-    I report, "It feels good—really good. Like… designed for humans as much as for plants."
+    I report:
+    "It feels good. Really good. Like... designed for humans as much as for plants."
 
-    Holloway says, "It's designed for all of us—this is our community space. Everyone's needs matter."
+    Holloway says:
+    "It's designed for all of us—this is our community space. Everyone's needs matter."
 
-    And that's when it hits me.
+    And that's when it hits me—
 
-    They're not designing around me as a temporary guest.
+    They're not designing around me as a temporary guest; they're designing for me as a permanent resident.
 
-    They're designing for me as a permanent resident.
+    Somewhere over the past weeks, I stopped being 'Kira the human we have to protect' and became 'Kira who lives here.' My voice has been shaping these decisions. My feedback about human ergonomics, visual preferences, spatial needs—it's built into the facility's bones. Literally, since Velvet's growth is the bones.
 
-    Somewhere over the past weeks, I stopped being 'Kira the human we have to protect' and became 'Kira who lives here.' My voice has been shaping these decisions—my feedback about human ergonomics, visual preferences, spatial needs is built into the facility's bones. Literally—Velvet's growth is the bones.
+    I'm not a visitor anymore—I'm a community member.
 
-    I'm not a visitor anymore.
+    Scout bounces, concerned:
+    "Kira? You okay?"
 
-    I'm a community member.
+    I say—my voice a little unsteady—
+    "Yeah. I'm just realizing something."
 
-    Scout bounces, "You okay?"
+    Florence wheels closer and asks:
+    "What?"
 
-    I say, "Yeah. I'm just realizing something."
+    I say:
+    "This is home."
 
-    Florence wheels closer and asks, "What?"
+    The facility falls quiet. Everyone processing what I just said.
 
-    I say, "This is home."
+    Holloway's bioluminescence brightens warmly. Holloway says:
+    "Yes. It is."
 
-    The facility falls quiet—everyone processing what I just said.
+    Velvet says quietly:
+    "Your voice matters here."
 
-    Holloway's bioluminescence brightens warmly. Holloway says, "Yes. It is."
+    Runner adds:
+    "Just as much as ours."
 
-    Velvet says quietly, "Your voice matters here."
+    Remedy says:
+    "You contribute uniquely."
 
-    Runner adds, "Just as much as ours."
+    Florence says:
+    "You belong."
 
-    Remedy says, "You contribute uniquely."
+    Scout bounces in emphatic agreement—she's been saying this all along through bounces, glad everyone else finally made it explicit.
 
-    Florence says, "You belong."
+    I'm standing in this partially rebuilt facility that's being transformed by collective creativity, and I'm realizing that I'm not just watching the transformation—I'm part of it. My individual voice—my human perspective, my needs, my ideas—is contributing to the harmony. Not in spite of being different. Because being different means I bring something unique to the collective.
 
-    Scout bounces in emphatic agreement.
+    Just like Runner's underground artistry, Velvet's aesthetic growth, Remedy's enhancement chemistry, Holloway's enabling coordination, Florence's tactical integration, Scout's emotional connection.
 
-    I'm standing in this partially rebuilt facility—transformed by collective creativity—and I'm realizing I'm not just watching the transformation. I'm part of it. My individual voice—my human perspective, my needs, my ideas—is contributing to the harmony, not in spite of being different but *because* being different means I bring something unique to the collective.
+    Everyone's voice matters— including mine.
 
-    Just like Runner's underground artistry—Velvet's aesthetic growth—Remedy's enhancement chemistry—Holloway's enabling coordination—Florence's tactical integration—Scout's emotional connection.
+    I think to my AI companion:
+    "Buddy—you seeing this?"
 
-    Everyone's voice matters.
+    Buddy sounds genuinely awed:
+    "Yes, Kira! This is fascinating! Do you realize what just happened? They all said you belong—not as a guest or obligation—as family."
 
-    Including mine.
+    I admit:
+    "I didn't expect to belong with bureaucratic alien plants."
 
-    «Buddy— you seeing this?»
+    Buddy asks:
+    "Why not? You've been contributing since you arrived. Your questions shaped how they think about beauty, comfort, individual voices. Maybe belonging isn't about what you expected—maybe it's about what you built."
 
-    Buddy responds with characteristic enthusiasm, "Yes, Kira! Your integration into the community structure is complete! Psychological well-being indicators are excellent! You have found belonging!"
+    I think about that. In Uncharted, found families always form through dramatic crisis moments—Mav saving someone's life, shared enemies, that kind of thing. But this... this grew slowly, through questions and conversations and small contributions that accumulated into something real.
 
-    I admit, "I didn't expect to belong with bureaucratic alien plants."
+    I say, "That's actually better, isn't it?"
 
-    Buddy replies, "Belonging isn't about expected demographics—it's about authentic connection and mutual value!"
+    Buddy asks, "What do you mean?"
 
-    Buddy's right. Again. Annoyingly.
+    I say, "Better than TV. Real belonging instead of dramatic bonding."
 
-    Holloway announces, "Break time—everyone's been working hard. Let's rest and appreciate progress."
+    Buddy says, "I think so. TV can't show the quiet parts. But the quiet parts are where trust actually grows."
+
+    Holloway says, "Break time. Everyone's been working hard. Let's rest and appreciate progress."
 
     The community settles into various comfortable positions. Velvet's seating arrangements get tested—everyone trying them out, adjusting, suggesting modifications.
 
-    Runner demonstrates the acoustic chambers—different spaces creating different harmonics. It's weird and wonderful to hear plant voices resonate through intentionally designed architecture.
+    Runner demonstrates the acoustic chambers—different spaces creating different harmonics. It's weird and wonderful, hearing plant voices resonate through intentionally designed architecture.
 
-    Remedy shares experimental scents—some pleasant, some strange, and one that makes everyone immediately request they never produce it again. Absurdist comedy in plant perfume testing.
+    Remedy shares experimental scents—some pleasant, some strange, one that makes everyone immediately request they never produce it again. It's absurdist comedy in plant perfume testing.
 
-    Scout bounces between everyone, spreading social glue and making sure nobody's isolated.
+    Scout bounces between everyone, spreading social glue, making sure nobody's isolated.
 
-    Florence participates equally—offering suggestions, accepting feedback, contributing without dominating. Her redemption arc is complete; she's not just valued despite past mistakes—she's integral to community function.
+    Florence participates equally—offering suggestions, accepting feedback, contributing without dominating—her redemption arc complete. She's not just valued despite past mistakes; she's integral to community function.
 
-    And I'm here too, contributing, belonging.
+    And I'm here too—contributing, belonging.
 
-    The facility is taking shape as something new—not restoration of old protocols but creation of new harmony. Individual voices working together.
+    The facility is taking shape as something new. Not restoration of old protocols. Creation of new harmony. Individual voices working together.
 
     And somewhere in the past weeks, without quite noticing when, I found my voice in this chorus.
 
-    Holloway says, "Tomorrow we start on the western wing—thoughts on design approach?"
+    Holloway says, "Tomorrow we start on the western wing. Thoughts on design approach?"
 
-    Everyone starts contributing ideas: Runner's acoustic considerations; Velvet's aesthetic planning; Remedy's environmental enhancements; Florence's defensive integration.
+    Everyone starts contributing ideas—Runner's acoustic considerations, Velvet's aesthetic planning, Remedy's environmental enhancements, Florence's defensive integration.
 
-    Then they all turn to me.
+    They all turn to me. They ask, "Kira, what do humans need in western wing spaces?"
 
-    They ask, "Kira, what do humans need in western wing spaces?"
+    My voice — they're asking for it. Not as a guest, but as a community member.
 
-    My voice—*as a community member.* Not as a guest.
+    I share my thoughts: human need for windows even if we're underground (maybe Velvet's translucent growth?), temperature regulation (Remedy's compounds?), comfortable sleeping arrangements (Velvet's ergonomic designs?). Everyone listens, integrates my input, builds on my suggestions.
 
-    I share my thoughts: human need for windows even if we're underground—maybe Velvet's translucent growth; temperature regulation—Remedy's compounds; comfortable sleeping arrangements—Velvet's ergonomic designs.
+    This is what harmony sounds like—not everyone singing the same note, but everyone singing their own note and creating something richer together.
 
-    Everyone listens, integrates my input, and builds on my suggestions.
+    Scout bounces contentedly against my leg; they knew—they always knew I belonged here.
 
-    This is what harmony sounds like—not everyone singing the same note, but everyone singing their own note, creating something richer together.
+    The community settles into comfortable silence, exhausted from rebuilding, satisfied with progress, at peace with each other.
 
-    Scout bounces contentedly against my leg. They knew. They always knew I belonged here.
-
-    The community settles into a comfortable silence—exhausted from rebuilding, satisfied with progress, at peace with each other.
-
-    I look around at these weird, wonderful plant people who somehow created space for a random human to find home.
+    I look around at these weird, wonderful plant people who somehow created space for a random human to find home, and I realize something that should probably be obvious.
 
     I don't want to leave.
 
-    This accidental community of bureaucratic aliens has become more home than anywhere I've been in years—maybe ever.
+    This accidental community of bureaucratic aliens has become more home than anywhere I've been in years. Maybe ever.
 
-    Buddy chimes in my mind, "Kira! I'm detecting something unusual in the communication array!"
+    But even as I'm realizing this, Buddy chimes in my mind with their characteristic terrible timing.
+
+    Buddy says, "Kira! I'm detecting something unusual in the communication array!"
 
     I say, "What?"
 
-    Buddy says, "Signal. Definitely artificial. Possibly human origin. Should I investigate?"
+    Buddy says — "Signal — definitely artificial — possibly human origin — should I investigate?"
 
-    Everyone's looking at me—they heard my side of the conversation, wondering what Buddy's saying.
+    Everyone's looking at me — they heard my side of the conversation and are wondering what Buddy's saying.
 
-    "Possible signal," I tell them. "Maybe human."
+    I say, "Possible signal — maybe human."
 
     The atmosphere shifts immediately.
 
-    Human signal.
+    Human signal — possible rescue. Everything just changed.
 
-    Possible rescue.
-
-    Everything just changed. Again.
+    Again.
   </combined-text>
 </passage-voice>

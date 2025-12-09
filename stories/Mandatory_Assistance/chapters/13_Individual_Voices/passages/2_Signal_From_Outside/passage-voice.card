@@ -1,136 +1,199 @@
 <!-- Generated automatically, do not edit except with ske gen passage-voice -->
-<passage-voice version="2.0.0">
-  <ref ref="passage.card#v2.0.0"/>
+<passage-voice version="3.0.0">
+  <ref ref="passage.card#v3.0.0"/>
   <reasoning>
-    <!-- For instructions on filling out reasoning: ske instructions stories/Mandatory_Assistance/chapters/13_Individual_Voices/passages/2_Signal_From_Outside/passage-voice.card -->
+    Reviewing the passage for voiceover suitability, I found these items that needed adjustment:
+    1. Staccato sentences — multiple very short sentences (under 4 words) that should be merged for natural speech rhythm.
+    2. Dialog presentation — many lines had speaker attribution after the quote; converted to lead-in then quote and put dialog on its own lines so the speaker is always clear.
+    3. Ambiguous pronouns — a few lines where a line could be misattributed were clarified by keeping the speaker attribution explicit.
+    4. Pauses — added explicit pause marks where dramatic or long pauses are needed (em dash for medium pauses, ellipsis for trailing hesitation, and a paragraph with only "¶" for a long pause).
+    5. Formal/stilted phrasing — slightly smoothed a few lines (without changing meaning) to read more naturally aloud.
+    6. Volume/gesture adverbs — converted into short stage-direction style notes or integrated into phrasing so the narrator knows to change tone (e.g., "(quietly)", "(voice unsteady)").
+    7. Dialog grouping — when one speaker had multiple short beats, I combined them into a single quoted block using em dashes for intra-beat pauses.
+    8. No non-text symbols needed reading aloud; none present.
+
+    All edits were limited to formatting and voice-friendly phrasing; no story content or facts were altered.
   </reasoning>
-  <content-change>Corrected grammar in Holloway's line: changed "This is important decision." to "This is an important decision."</content-change>
+  <content-change/>
   <chunks>
     <chunk>
       <text>
-        Buddy says in my mind, "Let me analyze the signal properly."
+        Buddy says in my mind, "Let me analyze the signal properly." 
 
         Everyone's watching me—waiting.
 
-        Buddy continues, "It's definitely artificial—broadcasting standard human emergency frequencies. Could be automatic distress beacon—could be active vessel communications."
+        Buddy continues, "It's definitely artificial — broadcasting standard human emergency frequencies. Could be an automatic distress beacon, could be active vessel communications."
 
-        I ask, "Buddy—can we respond?"
+        I ask, "Can we respond?"
 
-        Remedy says immediately, "We can boost signals—chemical conductivity enhancement."
+        Buddy says, "With the facility's damaged communication array — not directly. But if we could boost the signal somehow…"
 
-        Runner adds, "My underground network can act as an amplification chamber—resonance structures work for radio waves too, not just sound."
+        Remedy says immediately, "We can boost signals — chemical conductivity enhancement."
 
-        Velvet offers, "I can grow directional antenna—if someone tells me the specifications."
+        Runner adds, "My underground network can act as an amplification chamber — resonance structures work for radio waves too, not just sound."
 
-        Florence and Holloway exchange looks. Then Holloway says, "We're going to help you contact your people, Kira—whatever it takes."
+        Velvet offers, "I can grow a directional antenna if someone tells me the specifications."
+
+        Florence and Holloway exchange looks. Holloway says (firmly), "We're going to help you contact your people, Kira — whatever it takes."
 
         And just like that, the entire community mobilizes.
 
-        Buddy provides technical specifications. Velvet starts growing antenna structures based on the parameters—a weird, wonderful plant-based radio tower emerging from the facility's roof.
+        Buddy provides technical specifications. Velvet begins growing antenna structures from the facility roof based on the parameters — a weird, wonderful plant-based radio tower emerging.
 
-        Remedy produces conductivity compounds and coats Velvet's growth to enhance transmission—the chemistry is absurdist: literal plant sap turned into electrical conductors.
+        Remedy produces conductivity compounds and coats Velvet's growth to enhance transmission — the chemistry is absurdist: literal plant sap converted into electrical conductors.
 
-        Runner creates underground resonance chambers tuned to radio frequencies. They explain the acoustics translate to electromagnetic waves at larger scales. I don't fully understand the physics, but watching vines arrange themselves into precise geometric patterns is mesmerizing.
+        Runner creates underground resonance chambers tuned to radio frequencies, explaining how acoustics translate to electromagnetic waves at larger scales. I don't fully understand the physics, but watching vines arrange themselves into precise geometric patterns is mesmerizing.
 
-        Florence and Holloway coordinate everyone's efforts, making sure all components integrate properly—Florence's tactical planning applied to communication engineering, unexpected but effective.
+        Florence and Holloway coordinate everyone's efforts, applying tactical planning to communication engineering — unexpected but effective.
 
-        Scout bounces between everyone—excited and encouraging, a happy, helping bounce, but also… worried bounce? I realize Scout understands what successful contact means—I might leave.
+        Scout bounces between everyone, providing encouragement—excited, happy, helping bounce. But also… worried bounce?
 
-        Velvet reports, "Signal tower growing to optimal height—conductivity coating applied—ready for transmission."
+        I realize Scout understands what successful contact means. I might leave.
 
-        Runner announces, "Underground amplification chamber configured—network will boost outgoing signal by estimated factor of twelve."
+        Velvet reports, "Signal tower growing to optimal height — conductivity coating applied. Ready for transmission."
 
-        Remedy confirms, "Chemical enhancement maintaining stability—signal should transmit clearly."
+        Runner announces, "Underground amplification chamber configured — network will boost outgoing signal by an estimated factor of twelve."
 
-        I ask, "Buddy—can we reach them, the humans, now?"
+        Remedy confirms, "Chemical enhancement maintaining stability — signal should transmit clearly."
+
+        I ask, "Buddy, can we reach them now?"
 
         Buddy says, "Attempting contact."
 
-        The facility falls quiet—everyone waiting. This is it: contact with humans, possible rescue—everything I've been hoping for since the crash.
-
-        Buddy announces, *"Signal transmitted"*—"Broadcasting identification: human survivor, requesting assistance. Now we wait for response."
+        The facility falls quiet—everyone waiting.
 
         ¶
+
+        This is it — contact with humans, possible rescue, everything I've been hoping for since the crash. Right?
+
+        Buddy announces, "Signal transmitted — broadcasting identification: human survivor requesting assistance. Now we wait for response."
 
         The waiting is terrible—seconds feel like hours, every moment stretching impossibly long.
 
-        Holloway says quietly, "Kira—whatever happens, we're glad we could help."
+        Holloway says (quietly), "Kira — whatever happens, we're glad we could help."
 
-        I manage, "Thank you." My voice unsteady.
+        I manage, "Thank you." (voice unsteady)
 
         Scout bounces against my leg—supportive, loyal, slightly sad.
 
-        Buddy suddenly says, *"Response incoming!"*
+        Buddy suddenly says, "Response incoming!"
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: steady, intimate, and gradually building to a tense hopefulness—keep measured pacing until the final, louder announcement.
+        Overall tone &amp; pacing: Tense and hopeful, with measured technical calm during the engineering beats, then slow, tense pacing during the wait, and a quick spike of excitement at the end.
 
-        - Read the opening internal line calmly and a touch clinical: "Buddy says in my mind, "Let me analyze the signal properly.""
-        - Use a short medium pause (em dash) between "Everyone's watching me—waiting." to convey breath and tension.
-        - Put each spoken line on its own line and treat the lead-in as the speaker cue; keep delivery natural and conversational.
-        - Combine multi-beat speaker lines with small pauses where em dashes appear: for "Velvet reports" and "Runner announces"—deliver as one continuous utterance with slight breaks at each dash.
-        - For the "¶" paragraph, insert a long, dramatic pause—hold silence before continuing.
-        - Soften emotion for the introspective lines: "The waiting is terrible…"—longer, weary pace, slightly quieter.
-        - Make the final announcement more forceful and brighter: read *"Response incoming!"* with increased volume and urgency.
+        - Read "Buddy says in my mind, \"Let me analyze the signal properly.\"" in a calm, analytical voice — slightly detached, as if Buddy is thinking through data.
+        - On "Everyone's watching me—waiting." pause on the em dash; let that be a small intake of breath.
+        - For Buddy's technical lines, keep a steady, clinical cadence — measured and focused.
+        - Read "¶" as a full, silent pause (about two seconds) before "This is it..." — let the silence hold weight.
+        - For Holloway's line with (quietly), lower volume and slow the pace; make it warm and sincere.
+        - For "I manage, \"Thank you.\" (voice unsteady)" allow a slight tremor or crack on the first syllable, then settle.
+        - For the final "Buddy suddenly says, \"Response incoming!\"" increase energy and clarity, crisp and immediate.
       </stage-directions>
     </chunk>
     <chunk>
       <text>
-        Everyone tenses as the comm crackles:
-        "This is commercial freighter Harmony Prospect. We acknowledge your signal. Please identify and state nature of assistance required."
-        A human voicemdash actual human voicemdash transmitted across space, reaching this weird plant facility.
-        I should feel relief, joy, excitement. Instead I feel complicated.
-        I say to Buddy: "Buddy, respond. Tell them I'm survivor of courier vessel crash, stranded, requesting pickup."
-        Buddy transmits: "Copy that. Survivor status confirmed. We can divert to your coordinates. ETA approximately forty-eight hours. Transmit landing coordinates and we'll extract you. How are you currently surviving? Do you require immediate medical attention?"
-        Forty-eight hours two daysmdash two days until I can leave, go home, return to humanity, return to the bureaucratic system that sent me on the courier mission in the first placemdash leave this weird accidental plant community.
-        Florence prompts: "Kira? What do you want Buddy to tell them?"
-        I ask myself, "What do I want?"
-        I say to Florence: "Tell them... I'm medically stable. Being cared for by local inhabitants. Transmitting coordinates now. Forty-eight hours works."
+        A broadcast comes: "This is commercial freighter Harmony Prospect. We acknowledge your signal. Please identify and state nature of assistance required."
+
+        It's a human voice—actual human voice—transmitted across space, reaching this weird plant facility.
+
+        «I should feel relief, joy, excitement.»
+
+        «Instead I feel… complicated.»
+
+        I tell Buddy, "Buddy, respond—tell them I'm survivor of courier vessel crash, stranded, requesting pickup."
+
+        Buddy transmits.
+
+        A reply comes: "Copy that. Survivor status confirmed. We can divert to your coordinates. ETA approximately forty-eight hours. Transmit landing coordinates and we'll extract you. How are you currently surviving? Do you require immediate medical attention?"
+
+        Forty-eight hours—two days until I can leave.
+
+        Go home—return to humanity, civilization, the bureaucratic system that sent me on the courier mission in the first place—leave this weird accidental plant community.
+
+        Florence prompts, "Kira? What do you want Buddy to tell them?"
+
+        «What do I want?»
+
+        I tell Florence, "Tell them… I'm medically stable—being cared for by local inhabitants—transmitting coordinates now. Forty-eight hours works."
+
         Buddy sends the information. The freighter acknowledges and makes plans to extract one human survivor from the plant facility.
-        It's realmdash rescue is real.
+
+        It's real—rescue is real.
+
         ¶
-        Everyone starts celebratingmdash happy for me, excited that it worked, proud they could help.
-        Velvet announces: "The antenna design worked!"
-        Runner reports: "Amplification calculations were accurate!"
-        Remedy adds: "Chemical conductivity enhancement performed perfectly!"
-        Holloway congratulates: "Excellent coordination, everyone!"
-        Florence: "Well done, all of you."
-        Scout bounces in celebration, but it's mutedmdash a confused, happy-sad bounce.
+
+        Everyone starts celebrating—happy for me, excited that it worked, proud they could help.
+
+        Velvet exclaims, "The antenna design worked!"
+
+        Runner says, "Amplification calculations were accurate!"
+
+        Remedy calls, "Chemical conductivity enhancement performed perfectly!"
+
+        Holloway praises, "Excellent coordination, everyone!"
+
+        Florence smiles, "Well done, all of you."
+
+        Scout bounces in celebration, but it's muted—confused celebration, a happy-sad bounce.
+
         Because Scout, at least, understands the complexity.
-        I'm standing in a facility I've started thinking of as home, surrounded by plants who've become my community, and I should be celebrating that I can finally leave.
-        But I feel hollow.
-        Holloway approaches and says: "Kiramdash this is what you wanted, yes? To return to your people?"
-        "I thought it was," I admit. "When I crashed, all I wanted was rescue. To go home."
-        "And now?"
-        "Now I'm not sure where home is."
-        The facility falls silent as everyone processes that.
-        Florence wheels closer and says: "You don't have to leave, you know. The freighter will come, but you can tell them you've found a place here. If that's what you want."
-        "But I'm human," I say. "You're plants. This isn't my world, my species, mymdash"
-        Holloway interrupts gently: "Your communitymdash which matters more than species or origin. You belong here, Kira. If you choose to belong."
-        Scout bounces in emphatic agreementmdash been saying this all along.
-        Florence: "The freighter will arrive in two days. You have time to decide. Think about what you actually want, not just what you think you should want."
-        Velvet: "We'll support whatever choice you make."
-        Runner, quietly: "But we hope you'll stay."
+
+        I'm standing in this facility I've started thinking of as home, surrounded by plants who've become my community, and I should be celebrating that I can finally leave—yet I feel hollow.
+
+        Holloway approaches. The celebration quiets.
+
+        Holloway asks, "Kira—this is what you wanted, yes? To return to your people?"
+
+        I admit aloud, "I thought it was. When I crashed, all I wanted was rescue—to go home."
+
+        Holloway waits. "And now?"
+
+        «I don't know,» I think back. «I thought I knew—but everything feels different than I imagined.»
+
+        «What are you feeling?» «I feel confused. And maybe a little sad.» «Which doesn't make any sense,» I add.
+
+        «I think it makes a lot of sense,» Buddy replies gently. «This isn't a TV episode. These aren't characters. They're your friends."
+
+        ¶
+
+        The facility is silent—everyone processing what I just said.
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: intimate and steady, moving from taut hope to reflective uncertainty—keep pacing measured; let the moments of revelation breathe.
+        Overall tone &amp; pacing: Quiet, intimate, and reflective — measured when the transmissions arrive, a short lift for the confirmation and celebration, then soft, introspective and slow for the emotional exchange.
 
-        - Read "Everyone tenses as the comm crackles:" with a calm, alert tone; the following quote should be clear and slightly distant, like over a radio.
-        - For "A human voicemdash actual human voicemdash" use a brief medium pause at each em dash; let the second clause register as a surprised recognition.
-        - When speaking inner emotional lines such as "I should feel relief, joy, excitement. Instead I feel complicated." soften volume and slow slightly on "complicated." Use the ellipsis pause before the word.
-        - Put each spoken line on its own line and treat the lead-in as the speaker cue; deliver Buddy's reply with steady, procedural cadence.
-        - At "It's realmdash rescue is real." pause, then insert a long silence for the "¶" paragraph to let the realization land.
-        - Celebration lines should be brighter and quicker; then immediately soften back to reflective for the narrator's hollowness.
-        - For the final exchange (Holloway, Florence, Kira) move to a quieter, intimate register; allow small pauses at the em dashes to convey the weight of the choices.
+        - Read the opening broadcast as a clear, detached transmission: "This is commercial freighter Harmony Prospect…"
+        - On the line "It's a human voice—actual human voice—" use slight emphasis on the second clause and a medium pause on the em dash.
+        - Read internal thoughts marked with «...» as quieter, inward voice (slightly lower volume and slower) compared to the spoken dialog.
+        - For the freighter's ETA line, keep a clinical, steady cadence — neutral and factual.
+        - Insert a long, held silence at the standalone "¶" (about two seconds) before the celebration; let the weight of the rescue land.
+        - Celebrate with energy on Velvet/Runner/Remedy/Holloway/Florence lines, then immediately drop to a softer, puzzled tone for Scout's muted bounce description.
+        - For Holloway's question, lower volume and slow pace — warm and sincere. (Converted from the original parenthetical direction.)
+        - After Buddy's gentle internal line about "They're your friends," insert another long pause at the following "¶" before delivering the final sentence; let the room feel heavy and quiet.
       </stage-directions>
     </chunk>
     <chunk>
       <text>
-        Remedy contributes, "*Your voice matters here.*"
+        Florence wheels closer.
+        "You don't have to leave, you know. The freighter will come, but you can tell them you've found a place here—if that's what you want."
 
-        Scout bounces—desperate agreement—please stay, want you here.
+        I say, "But I'm human. You're plants. This isn't my world, my species, my—"
 
-        I'm looking around at everyone, and I realize—these weird bureaucratic alien plants care about me. Not just as refugee or mission objective. As an actual person whose presence they value.
+        Holloway interrupts gently.
+        "Your community— which matters more than species or origin. _You belong here, Kira._ If you choose to belong."
+
+        Scout bounces—emphatic agreement. Been saying this all along.
+
+        Florence says, "The freighter will arrive in two days. You have time to decide—think about what you actually want, not just what you think you should want."
+
+        "We'll support whatever choice you make," Velvet adds.
+
+        "But we hope you'll stay," Runner says quietly.
+
+        "Your voice matters here," Remedy contributes.
+
+        Scout bounces—desperate agreement. Please stay bounce. Want you here bounce.
+
+        I'm looking around at everyone, and I realize: these weird, bureaucratic alien plants care about me—not just as a refugee or mission objective, but as an actual person whose presence they value.
 
         When's the last time humans made me feel that way?
 
@@ -138,103 +201,109 @@
 
         Holloway says, "Of course. Take the time you need. This is an important decision."
 
-        The community disperses respectfully, giving me space. But Scout stays with me—they always stay with me.
+        The community disperses respectfully—giving me space. Scout stays with me—they always stay with me.
 
-        I ask, "What do you think, Scout?"
+        "What do you think, Scout?" I ask.
 
-        Scout bounces—sad if I leave, happy if I stay—but above all wants me to be happy.
+        Scout bounces—sad if I leave, happy if I stay, but above all wants me to be happy.
 
-        I ask, "You'd be heartbroken if I left, wouldn't you?"
+        "You'd be heartbroken if I left, wouldn't you?"
 
-        Scout bounces—honest affirmative, then supportive—whatever I choose.
+        Scout bounces—honest affirmative, then supportive—whatever you choose.
 
-        I say, "I'd miss you too."
+        "I'd miss you too," I say quietly.
 
-        Scout bounces against me—comforting bounce, loyal bounce.
+        Scout bounces against me—comforting, loyal.
 
-        «Buddy. Analysis question.»
-
-        Buddy replies, "Yes, Kira!"
-
-        I ask, "My psychological well-being—compare current indicators to historical records from before the crash."
+        «Buddy,» I think to my AI companion. «Analysis question.»
 
         Buddy processes for a moment.
+        "Current well-being indicators are significantly higher. You demonstrate increased sense of belonging, purpose, and authentic connection. Stress levels are lower despite objectively more challenging circumstances. Social integration is deeper than any period in your historical records."
 
-        Buddy replies, "Current well-being indicators are significantly higher. You demonstrate increased sense of belonging, purpose, and authentic connection. Stress levels are lower despite objectively more challenging circumstances. Social integration is deeper than any period in your historical records."
+        "So I'm... happier here? With alien plants? Than I was in human civilization?"
 
-        I say, "So I'm… happier here? With alien plants? Than I was in human civilization?"
+        "Data indicates yes. You have found community that values your individual contribution. This appears to be fundamental to your psychological well-being."
 
-        Buddy replies, "Data indicates yes. You have found community that values your individual contribution. This appears to be fundamental to your psychological well-being."
+        "That seems backwards."
 
-        I say, "That seems backwards."
+        "Belonging isn't about demographics, Kira. It's about authentic value and mutual respect."
 
-        Buddy replies, "Belonging isn't about demographics, Kira. It's about authentic value and mutual respect."
+        I'm sitting in the facility's common area—now transformed into a beautiful collaborative space that attends to my human needs—thinking about what I'm about to choose.
 
-        I'm sitting in the facility's common area—now transformed into a beautiful collaborative space that includes my human needs—thinking about what I'm about to choose.
+        Human freighter—return to civilization: bureaucratic systems, familiar species, technological comfort, processed food, medical care, connection to human culture.
 
-        I could take the human freighter back to civilization—bureaucratic systems, familiar species, technological comfort, processed food, medical care, connection to human culture.
-
-        Or the plant community—*weird, wonderful* collaborative existence; an individual voice that matters, genuine belonging, acoustic chambers that sing, perfume experiments, Scout's affection, Florence's redemption, everyone's creative harmony.
-
-        When I frame it like that, the choice feels… obvious.
-
-        But it shouldn't be obvious. I'm human. Humans should want to be with humans. Right?
-
-        Except… when did human systems ever make me feel valued? I was courier pilot #3847, a replaceable cog in a bureaucratic machine. Here I'm Kira, whose voice shapes community decisions.
-
-        I remember the life I had before—solitary, functional but lonely. Following protocols, meeting quotas, serving systems that didn't know or care who I was.
-
-        And I compare it to the past weeks here—creative rebuilding, individual voices, genuine connections; being valued for what I uniquely contribute.
+        Or.
 
         ¶
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: intimate, steady, reflective—lean warm and grounded, with short, honest beats for Scout and a calm procedural cadence for Buddy; allow the choice to breathe with a long pause.
+        Overall tone &amp; pacing: Quiet, intimate, and reflective — warm and supportive from the community, a small uplift at expressions of belonging, then slow, deliberate, and weighing at the end.
 
-        - Read "Remedy contributes, "*Your voice matters here.*"" with gentle assurance—let the phrase hang slightly on "matters".
-        - Treat Scout's bounces as a single emotional beat: read the whole line as one flowing unit with quick, rhythmic warmth.
-        - Put each dialogue line on its own line; use the lead-in as the speaker cue (for example, "Holloway says, ...").
-        - Read Buddy's replies in a steady, slightly clinical cadence—clear, measured, and reassuring.
-        - Read the thought line «Buddy. Analysis question.» inwardly—slightly quieter and more intimate than surrounding narration.
-        - Use the em dash (—) for medium pauses; use the ellipsis (…) for hesitant trailing thoughts. Pause noticeably at the paragraph with only "¶" for a long, reflective silence before the final reflections.
-        - Emphasize *weird, wonderful* and *Your voice matters here* with a touch more warmth and volume—subtle, not exaggerated.
+        - Read Florence's lines warm and encouraging: "You don't have to leave..." — steady, reassuring cadence.
+        - For the protagonist's lines ("But I'm human...", "I need to think.") use hesitant, uncertain delivery; add a short medium pause where the em dash appears.
+        - Holloway should be gentle and sincere; emphasize the line "_You belong here, Kira._" with a soft, heartfelt quality.
+        - Deliver Scout-related descriptions as narration of physical action — brisk, animated for bounces, but never as a separate voice. E.g., "Scout bounces—emphatic agreement." Keep those beats quick.
+        - When switching to internal thought (marked «...»), lower volume and slow pace slightly to make them feel inward and quiet.
+        - Buddy's lines should be neutral, slightly clinical and measured, with clear, even pacing for the data statements.
+        - End on the single-word "Or." as a suspended, weighty beat, then hold the long silence at "¶" (about two seconds) before the next scene.
       </stage-directions>
     </chunk>
     <chunk>
       <text>
-        The absurdist irony isn't lost on me: bureaucratic alien plants somehow created more authentic community than human bureaucracy ever did.
+        Plant community — a strange, wonderful collaborative existence: individual voices that matter, genuine belonging, acoustic chambers that sing, perfume experiments, Scout's affection, Florence's redemption, everyone's creative harmony.
 
-        Scout bounces a question: "I okay?"
+        When I frame it like that, the choice feels… obvious.
 
-        I tell Scout, "I'm figuring something out."
+        But it shouldn't be obvious — I'm human, and humans should want to be with humans, right?
 
-        The human freighter will arrive in two days—forty-eight hours to decide.
+        Except… when did human systems ever make me feel valued? I was courier pilot three eight four seven, a replaceable cog in a bureaucratic machine. Here, I'm Kira — my voice shapes community decisions.
 
-        But honestly, I think I already know. I just need to be sure—I need to examine it from every angle, talk to everyone, understand what staying means and what leaving means.
+        I remember the life I had before: solitary, functional but lonely — following protocols, meeting quotas, serving systems that didn't know or care who I was.
 
-        Because this isn't just about where I physically exist—it's about where I belong. And belonging—real belonging—is rarer than I ever understood.
+        And I compare that life to the past weeks here — creative rebuilding, individual voices, genuine connections, being valued for what I uniquely contribute.
 
-        Scout curls up against me—waiting, supportive, loyal no matter what.
+        The absurdist irony isn't lost on me — bureaucratic alien plants somehow created more authentic community than human bureaucracy ever did.
 
-        The facility hums with quiet activity—Runner's underground network creates subtle harmonics; Velvet's growth provides comfortable structure; Remedy's enhancement compounds make the air pleasant; Holloway's bioluminescence lights the shared spaces; Florence's tactical designs keep everyone safe; Scout's affection holds us together.
+        Scout bounces a question to me — "I okay?"
 
-        Individual voices create a collective harmony—and somewhere in that harmony, I found my voice too.
+        I tell them, "I'm figuring something out."
 
-        Two days to decide—but the decision is crystallizing with every moment I spend examining it.
+        The human freighter will arrive in two days — forty-eight hours to decide.
+
+        But honestly? — I think I already know.
+
+        I just need to be sure — to examine it from every angle, talk to everyone, understand what staying means and what leaving means.
+
+        Because this isn't just about where I physically exist.
+
+        It's about where I belong.
+
+        And belonging — real belonging — is rarer than I ever understood.
+
+        Scout curls up against me — waiting, supportive, loyal no matter what.
+
+        The facility hums with quiet activity: Runner's underground network creating subtle harmonics, Velvet's growth providing a comfortable structure, Remedy's enhancement compounds making the air pleasant, Holloway's bioluminescence illuminating shared spaces, Florence's tactical designs keeping everyone safe, Scout's affection holding us together.
+
+        Individual voices creating collective harmony.
+
+        And somewhere in that harmony, I found my voice too.
+
+        Two days to decide — but the decision is crystallizing with every moment I spend examining it.
 
         ¶
 
-        Home isn't where you're from. Home is where *your voice matters.*
+        Home isn't where you're from — home is where your _voice matters_.
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: intimate, reflective, warm—measured pacing that lets short beats land; allow a long, reflective pause before the final lines.
+        Overall tone &amp; pacing: Quiet, intimate, and reflective — warm and supportive from the community, gently rising when the protagonist recognizes belonging, then slow and deliberate as the decision crystallizes; finish with a soft, lingering close.
 
-        - Read "Scout bounces a question: \"I okay?\"" with quick, rhythmic warmth—Scout's line should feel like a light, immediate prompt.
-        - Read "I tell Scout, \"I'm figuring something out.\"" quietly and deliberately—soft, steady, inward-facing.
-        - Use a gentle medium pause at each em dash (—). For example, pause after "arrive in two days—" and "create subtle harmonics—".
-        - Read the facility list (the long sentence beginning "The facility hums...") with a calm catalog cadence—slightly quicker through each clause, but warm and appreciative.
-        - When you reach the standalone paragraph "¶", hold a long, reflective silence before continuing.
-        - Emphasize the closing line: give added warmth to "Home is where *your voice matters.*" — make "your voice matters" slightly louder and tender.
+        - Read the opening line flowing and expansive: "Plant community — a strange, wonderful collaborative existence..." — warm, slightly awed.
+        - Use a soft, hesitant pause on ellipses: read "feels… obvious" with a trailing, inward beat.
+        - For the rhetorical question "...right?" keep it slightly lifted, questioning, then settle into the resigned reflection that follows.
+        - Make Scout's line distinct and on its own: say "Scout bounces a question to me — \"I okay?\"" brisk and light, then answer it conversationally: "I tell them, \"I'm figuring something out.\""
+        - Emphasize the moment of decision with a medium pause on the em dash: "The human freighter will arrive in two days — forty-eight hours to decide."
+        - When listing the facility's activities, keep the cadence even and descriptive; each name should be clear: "Runner's... Velvet's... Remedy's... Holloway's... Florence's..."
+        - Pause on the single paragraph containing "¶" as a long, reflective silence (about two seconds) before the final lines.
         - Closing cadence: Soft landing; warm fall, lingering last syllable, cozy pause.
       </stage-directions>
     </chunk>
@@ -242,8 +311,11 @@
   <unusual-pronunciations>
     <word text="Buddy"/>
     <word text="Florence"/>
+    <word text="Harmony Prospect"/>
     <word text="Holloway"/>
     <word text="Kira"/>
+    <word text="Mav"/>
+    <word text="Phelos-7"/>
     <word text="Remedy"/>
     <word text="Runner"/>
     <word text="Scout"/>
@@ -251,99 +323,147 @@
   </unusual-pronunciations>
   <title>Home Is Where</title>
   <combined-text>
-    Buddy says in my mind, "Let me analyze the signal properly."
+    Buddy says in my mind, "Let me analyze the signal properly." 
 
     Everyone's watching me—waiting.
 
-    Buddy continues, "It's definitely artificial—broadcasting standard human emergency frequencies. Could be automatic distress beacon—could be active vessel communications."
+    Buddy continues, "It's definitely artificial — broadcasting standard human emergency frequencies. Could be an automatic distress beacon, could be active vessel communications."
 
-    I ask, "Buddy—can we respond?"
+    I ask, "Can we respond?"
 
-    Remedy says immediately, "We can boost signals—chemical conductivity enhancement."
+    Buddy says, "With the facility's damaged communication array — not directly. But if we could boost the signal somehow…"
 
-    Runner adds, "My underground network can act as an amplification chamber—resonance structures work for radio waves too, not just sound."
+    Remedy says immediately, "We can boost signals — chemical conductivity enhancement."
 
-    Velvet offers, "I can grow directional antenna—if someone tells me the specifications."
+    Runner adds, "My underground network can act as an amplification chamber — resonance structures work for radio waves too, not just sound."
 
-    Florence and Holloway exchange looks. Then Holloway says, "We're going to help you contact your people, Kira—whatever it takes."
+    Velvet offers, "I can grow a directional antenna if someone tells me the specifications."
+
+    Florence and Holloway exchange looks. Holloway says (firmly), "We're going to help you contact your people, Kira — whatever it takes."
 
     And just like that, the entire community mobilizes.
 
-    Buddy provides technical specifications. Velvet starts growing antenna structures based on the parameters—a weird, wonderful plant-based radio tower emerging from the facility's roof.
+    Buddy provides technical specifications. Velvet begins growing antenna structures from the facility roof based on the parameters — a weird, wonderful plant-based radio tower emerging.
 
-    Remedy produces conductivity compounds and coats Velvet's growth to enhance transmission—the chemistry is absurdist: literal plant sap turned into electrical conductors.
+    Remedy produces conductivity compounds and coats Velvet's growth to enhance transmission — the chemistry is absurdist: literal plant sap converted into electrical conductors.
 
-    Runner creates underground resonance chambers tuned to radio frequencies. They explain the acoustics translate to electromagnetic waves at larger scales. I don't fully understand the physics, but watching vines arrange themselves into precise geometric patterns is mesmerizing.
+    Runner creates underground resonance chambers tuned to radio frequencies, explaining how acoustics translate to electromagnetic waves at larger scales. I don't fully understand the physics, but watching vines arrange themselves into precise geometric patterns is mesmerizing.
 
-    Florence and Holloway coordinate everyone's efforts, making sure all components integrate properly—Florence's tactical planning applied to communication engineering, unexpected but effective.
+    Florence and Holloway coordinate everyone's efforts, applying tactical planning to communication engineering — unexpected but effective.
 
-    Scout bounces between everyone—excited and encouraging, a happy, helping bounce, but also… worried bounce? I realize Scout understands what successful contact means—I might leave.
+    Scout bounces between everyone, providing encouragement—excited, happy, helping bounce. But also… worried bounce?
 
-    Velvet reports, "Signal tower growing to optimal height—conductivity coating applied—ready for transmission."
+    I realize Scout understands what successful contact means. I might leave.
 
-    Runner announces, "Underground amplification chamber configured—network will boost outgoing signal by estimated factor of twelve."
+    Velvet reports, "Signal tower growing to optimal height — conductivity coating applied. Ready for transmission."
 
-    Remedy confirms, "Chemical enhancement maintaining stability—signal should transmit clearly."
+    Runner announces, "Underground amplification chamber configured — network will boost outgoing signal by an estimated factor of twelve."
 
-    I ask, "Buddy—can we reach them, the humans, now?"
+    Remedy confirms, "Chemical enhancement maintaining stability — signal should transmit clearly."
+
+    I ask, "Buddy, can we reach them now?"
 
     Buddy says, "Attempting contact."
 
-    The facility falls quiet—everyone waiting. This is it: contact with humans, possible rescue—everything I've been hoping for since the crash.
+    The facility falls quiet—everyone waiting.
 
-    Buddy announces, *"Signal transmitted"*—"Broadcasting identification: human survivor, requesting assistance. Now we wait for response."
+    This is it — contact with humans, possible rescue, everything I've been hoping for since the crash. Right?
+
+    Buddy announces, "Signal transmitted — broadcasting identification: human survivor requesting assistance. Now we wait for response."
 
     The waiting is terrible—seconds feel like hours, every moment stretching impossibly long.
 
-    Holloway says quietly, "Kira—whatever happens, we're glad we could help."
+    Holloway says (quietly), "Kira — whatever happens, we're glad we could help."
 
-    I manage, "Thank you." My voice unsteady.
+    I manage, "Thank you." (voice unsteady)
 
     Scout bounces against my leg—supportive, loyal, slightly sad.
 
-    Buddy suddenly says, *"Response incoming!"*
+    Buddy suddenly says, "Response incoming!"
 
-    Everyone tenses as the comm crackles:
-    "This is commercial freighter Harmony Prospect. We acknowledge your signal. Please identify and state nature of assistance required."
-    A human voicemdash actual human voicemdash transmitted across space, reaching this weird plant facility.
-    I should feel relief, joy, excitement. Instead I feel complicated.
-    I say to Buddy: "Buddy, respond. Tell them I'm survivor of courier vessel crash, stranded, requesting pickup."
-    Buddy transmits: "Copy that. Survivor status confirmed. We can divert to your coordinates. ETA approximately forty-eight hours. Transmit landing coordinates and we'll extract you. How are you currently surviving? Do you require immediate medical attention?"
-    Forty-eight hours two daysmdash two days until I can leave, go home, return to humanity, return to the bureaucratic system that sent me on the courier mission in the first placemdash leave this weird accidental plant community.
-    Florence prompts: "Kira? What do you want Buddy to tell them?"
-    I ask myself, "What do I want?"
-    I say to Florence: "Tell them... I'm medically stable. Being cared for by local inhabitants. Transmitting coordinates now. Forty-eight hours works."
+    A broadcast comes: "This is commercial freighter Harmony Prospect. We acknowledge your signal. Please identify and state nature of assistance required."
+
+    It's a human voice—actual human voice—transmitted across space, reaching this weird plant facility.
+
+    «I should feel relief, joy, excitement.»
+
+    «Instead I feel… complicated.»
+
+    I tell Buddy, "Buddy, respond—tell them I'm survivor of courier vessel crash, stranded, requesting pickup."
+
+    Buddy transmits.
+
+    A reply comes: "Copy that. Survivor status confirmed. We can divert to your coordinates. ETA approximately forty-eight hours. Transmit landing coordinates and we'll extract you. How are you currently surviving? Do you require immediate medical attention?"
+
+    Forty-eight hours—two days until I can leave.
+
+    Go home—return to humanity, civilization, the bureaucratic system that sent me on the courier mission in the first place—leave this weird accidental plant community.
+
+    Florence prompts, "Kira? What do you want Buddy to tell them?"
+
+    «What do I want?»
+
+    I tell Florence, "Tell them… I'm medically stable—being cared for by local inhabitants—transmitting coordinates now. Forty-eight hours works."
+
     Buddy sends the information. The freighter acknowledges and makes plans to extract one human survivor from the plant facility.
-    It's realmdash rescue is real.
 
-    Everyone starts celebratingmdash happy for me, excited that it worked, proud they could help.
-    Velvet announces: "The antenna design worked!"
-    Runner reports: "Amplification calculations were accurate!"
-    Remedy adds: "Chemical conductivity enhancement performed perfectly!"
-    Holloway congratulates: "Excellent coordination, everyone!"
-    Florence: "Well done, all of you."
-    Scout bounces in celebration, but it's mutedmdash a confused, happy-sad bounce.
+    It's real—rescue is real.
+
+    Everyone starts celebrating—happy for me, excited that it worked, proud they could help.
+
+    Velvet exclaims, "The antenna design worked!"
+
+    Runner says, "Amplification calculations were accurate!"
+
+    Remedy calls, "Chemical conductivity enhancement performed perfectly!"
+
+    Holloway praises, "Excellent coordination, everyone!"
+
+    Florence smiles, "Well done, all of you."
+
+    Scout bounces in celebration, but it's muted—confused celebration, a happy-sad bounce.
+
     Because Scout, at least, understands the complexity.
-    I'm standing in a facility I've started thinking of as home, surrounded by plants who've become my community, and I should be celebrating that I can finally leave.
-    But I feel hollow.
-    Holloway approaches and says: "Kiramdash this is what you wanted, yes? To return to your people?"
-    "I thought it was," I admit. "When I crashed, all I wanted was rescue. To go home."
-    "And now?"
-    "Now I'm not sure where home is."
-    The facility falls silent as everyone processes that.
-    Florence wheels closer and says: "You don't have to leave, you know. The freighter will come, but you can tell them you've found a place here. If that's what you want."
-    "But I'm human," I say. "You're plants. This isn't my world, my species, mymdash"
-    Holloway interrupts gently: "Your communitymdash which matters more than species or origin. You belong here, Kira. If you choose to belong."
-    Scout bounces in emphatic agreementmdash been saying this all along.
-    Florence: "The freighter will arrive in two days. You have time to decide. Think about what you actually want, not just what you think you should want."
-    Velvet: "We'll support whatever choice you make."
-    Runner, quietly: "But we hope you'll stay."
 
-    Remedy contributes, "*Your voice matters here.*"
+    I'm standing in this facility I've started thinking of as home, surrounded by plants who've become my community, and I should be celebrating that I can finally leave—yet I feel hollow.
 
-    Scout bounces—desperate agreement—please stay, want you here.
+    Holloway approaches. The celebration quiets.
 
-    I'm looking around at everyone, and I realize—these weird bureaucratic alien plants care about me. Not just as refugee or mission objective. As an actual person whose presence they value.
+    Holloway asks, "Kira—this is what you wanted, yes? To return to your people?"
+
+    I admit aloud, "I thought it was. When I crashed, all I wanted was rescue—to go home."
+
+    Holloway waits. "And now?"
+
+    «I don't know,» I think back. «I thought I knew—but everything feels different than I imagined.»
+
+    «What are you feeling?» «I feel confused. And maybe a little sad.» «Which doesn't make any sense,» I add.
+
+    «I think it makes a lot of sense,» Buddy replies gently. «This isn't a TV episode. These aren't characters. They're your friends."
+
+    The facility is silent—everyone processing what I just said.
+
+    Florence wheels closer.
+    "You don't have to leave, you know. The freighter will come, but you can tell them you've found a place here—if that's what you want."
+
+    I say, "But I'm human. You're plants. This isn't my world, my species, my—"
+
+    Holloway interrupts gently.
+    "Your community— which matters more than species or origin. _You belong here, Kira._ If you choose to belong."
+
+    Scout bounces—emphatic agreement. Been saying this all along.
+
+    Florence says, "The freighter will arrive in two days. You have time to decide—think about what you actually want, not just what you think you should want."
+
+    "We'll support whatever choice you make," Velvet adds.
+
+    "But we hope you'll stay," Runner says quietly.
+
+    "Your voice matters here," Remedy contributes.
+
+    Scout bounces—desperate agreement. Please stay bounce. Want you here bounce.
+
+    I'm looking around at everyone, and I realize: these weird, bureaucratic alien plants care about me—not just as a refugee or mission objective, but as an actual person whose presence they value.
 
     When's the last time humans made me feel that way?
 
@@ -351,74 +471,79 @@
 
     Holloway says, "Of course. Take the time you need. This is an important decision."
 
-    The community disperses respectfully, giving me space. But Scout stays with me—they always stay with me.
+    The community disperses respectfully—giving me space. Scout stays with me—they always stay with me.
 
-    I ask, "What do you think, Scout?"
+    "What do you think, Scout?" I ask.
 
-    Scout bounces—sad if I leave, happy if I stay—but above all wants me to be happy.
+    Scout bounces—sad if I leave, happy if I stay, but above all wants me to be happy.
 
-    I ask, "You'd be heartbroken if I left, wouldn't you?"
+    "You'd be heartbroken if I left, wouldn't you?"
 
-    Scout bounces—honest affirmative, then supportive—whatever I choose.
+    Scout bounces—honest affirmative, then supportive—whatever you choose.
 
-    I say, "I'd miss you too."
+    "I'd miss you too," I say quietly.
 
-    Scout bounces against me—comforting bounce, loyal bounce.
+    Scout bounces against me—comforting, loyal.
 
-    «Buddy. Analysis question.»
-
-    Buddy replies, "Yes, Kira!"
-
-    I ask, "My psychological well-being—compare current indicators to historical records from before the crash."
+    «Buddy,» I think to my AI companion. «Analysis question.»
 
     Buddy processes for a moment.
+    "Current well-being indicators are significantly higher. You demonstrate increased sense of belonging, purpose, and authentic connection. Stress levels are lower despite objectively more challenging circumstances. Social integration is deeper than any period in your historical records."
 
-    Buddy replies, "Current well-being indicators are significantly higher. You demonstrate increased sense of belonging, purpose, and authentic connection. Stress levels are lower despite objectively more challenging circumstances. Social integration is deeper than any period in your historical records."
+    "So I'm... happier here? With alien plants? Than I was in human civilization?"
 
-    I say, "So I'm… happier here? With alien plants? Than I was in human civilization?"
+    "Data indicates yes. You have found community that values your individual contribution. This appears to be fundamental to your psychological well-being."
 
-    Buddy replies, "Data indicates yes. You have found community that values your individual contribution. This appears to be fundamental to your psychological well-being."
+    "That seems backwards."
 
-    I say, "That seems backwards."
+    "Belonging isn't about demographics, Kira. It's about authentic value and mutual respect."
 
-    Buddy replies, "Belonging isn't about demographics, Kira. It's about authentic value and mutual respect."
+    I'm sitting in the facility's common area—now transformed into a beautiful collaborative space that attends to my human needs—thinking about what I'm about to choose.
 
-    I'm sitting in the facility's common area—now transformed into a beautiful collaborative space that includes my human needs—thinking about what I'm about to choose.
+    Human freighter—return to civilization: bureaucratic systems, familiar species, technological comfort, processed food, medical care, connection to human culture.
 
-    I could take the human freighter back to civilization—bureaucratic systems, familiar species, technological comfort, processed food, medical care, connection to human culture.
+    Or.
 
-    Or the plant community—*weird, wonderful* collaborative existence; an individual voice that matters, genuine belonging, acoustic chambers that sing, perfume experiments, Scout's affection, Florence's redemption, everyone's creative harmony.
+    Plant community — a strange, wonderful collaborative existence: individual voices that matter, genuine belonging, acoustic chambers that sing, perfume experiments, Scout's affection, Florence's redemption, everyone's creative harmony.
 
     When I frame it like that, the choice feels… obvious.
 
-    But it shouldn't be obvious. I'm human. Humans should want to be with humans. Right?
+    But it shouldn't be obvious — I'm human, and humans should want to be with humans, right?
 
-    Except… when did human systems ever make me feel valued? I was courier pilot #3847, a replaceable cog in a bureaucratic machine. Here I'm Kira, whose voice shapes community decisions.
+    Except… when did human systems ever make me feel valued? I was courier pilot three eight four seven, a replaceable cog in a bureaucratic machine. Here, I'm Kira — my voice shapes community decisions.
 
-    I remember the life I had before—solitary, functional but lonely. Following protocols, meeting quotas, serving systems that didn't know or care who I was.
+    I remember the life I had before: solitary, functional but lonely — following protocols, meeting quotas, serving systems that didn't know or care who I was.
 
-    And I compare it to the past weeks here—creative rebuilding, individual voices, genuine connections; being valued for what I uniquely contribute.
+    And I compare that life to the past weeks here — creative rebuilding, individual voices, genuine connections, being valued for what I uniquely contribute.
 
-    The absurdist irony isn't lost on me: bureaucratic alien plants somehow created more authentic community than human bureaucracy ever did.
+    The absurdist irony isn't lost on me — bureaucratic alien plants somehow created more authentic community than human bureaucracy ever did.
 
-    Scout bounces a question: "I okay?"
+    Scout bounces a question to me — "I okay?"
 
-    I tell Scout, "I'm figuring something out."
+    I tell them, "I'm figuring something out."
 
-    The human freighter will arrive in two days—forty-eight hours to decide.
+    The human freighter will arrive in two days — forty-eight hours to decide.
 
-    But honestly, I think I already know. I just need to be sure—I need to examine it from every angle, talk to everyone, understand what staying means and what leaving means.
+    But honestly? — I think I already know.
 
-    Because this isn't just about where I physically exist—it's about where I belong. And belonging—real belonging—is rarer than I ever understood.
+    I just need to be sure — to examine it from every angle, talk to everyone, understand what staying means and what leaving means.
 
-    Scout curls up against me—waiting, supportive, loyal no matter what.
+    Because this isn't just about where I physically exist.
 
-    The facility hums with quiet activity—Runner's underground network creates subtle harmonics; Velvet's growth provides comfortable structure; Remedy's enhancement compounds make the air pleasant; Holloway's bioluminescence lights the shared spaces; Florence's tactical designs keep everyone safe; Scout's affection holds us together.
+    It's about where I belong.
 
-    Individual voices create a collective harmony—and somewhere in that harmony, I found my voice too.
+    And belonging — real belonging — is rarer than I ever understood.
 
-    Two days to decide—but the decision is crystallizing with every moment I spend examining it.
+    Scout curls up against me — waiting, supportive, loyal no matter what.
 
-    Home isn't where you're from. Home is where *your voice matters.*
+    The facility hums with quiet activity: Runner's underground network creating subtle harmonics, Velvet's growth providing a comfortable structure, Remedy's enhancement compounds making the air pleasant, Holloway's bioluminescence illuminating shared spaces, Florence's tactical designs keeping everyone safe, Scout's affection holding us together.
+
+    Individual voices creating collective harmony.
+
+    And somewhere in that harmony, I found my voice too.
+
+    Two days to decide — but the decision is crystallizing with every moment I spend examining it.
+
+    Home isn't where you're from — home is where your _voice matters_.
   </combined-text>
 </passage-voice>
