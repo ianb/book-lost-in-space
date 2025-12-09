@@ -1,7 +1,4 @@
-<chapter-placement version="1.0.0">
-  <reasoning-chapter-placement>
-    THE ORACLE EPISODE! This is the climax of the journey - reaching Elder Heartwood after three weeks of travel through seven territories. Kira is THRILLED to finally arrive. The Ancient Grove is awe-inspiring. "Mav finally reached the Oracle!" Hills are beautiful, Oakshade and Mossmantle are another delightful guide pair. Journey was the adventure - but meeting Elder Heartwood is the MOMENT.
-  </reasoning-chapter-placement>
+<chapter-placement version="1.1.0">
   <chapter-objective>
     Experience the journey climax as triumph and wonder - reaching Elder Heartwood is AMAZING. Present the question. Journey itself was already the reward, whatever the answer turns out to be.
   </chapter-objective>
@@ -27,15 +24,6 @@
 
     Buddy: Asks questions about Elder Heartwood's communication method. Curious, helpful.
   </character-development>
-  <reasoning-scene-outline>
-    Three passages mirroring the structure of Chapters 6-7 but with destination focus:
-
-    Passage 1: First day in Territory Three - establishing hill terrain, Oakshade and Mossmantle's partnership, climbing challenges, Kira's confidence. Scout loves the hills. Camp for night.
-
-    Passage 2: Second day - harder climbing, approaching Elder Heartwood's location, sense of scale and age, arrival at the vast grove. Presenting the question with appropriate ceremony. The moment feels significant.
-
-    Passage 3: Establishing the wait, beginning return journey. Plants hopeful and confident, sharing stories about Elder Heartwood's wisdom. Kira cautiously optimistic. Journey itself was meaningful but they're still counting on the "real" answer. Ends with anticipation building.
-  </reasoning-scene-outline>
   <scene-outline>
     **Scene 1: Into the Hills** (~1800 words)
     Territory Three's first day. Hill country terrain - climbing, elevation, views. Oakshade and Mossmantle's dynamic (tree steadiness + moss practicality). Kira demonstrating journey skills, adapting confidently. Scout enthusiastic about terrain. Different challenges from forest/wetlands but Kira handles them well. Evening camp with new guides, reflecting on journey growth.
@@ -46,8 +34,4 @@
     **Scene 3: Hope and Return** (~1800 words)
     Beginning journey back. Plants sharing Elder Heartwood stories, confident this wisdom will solve everything. Kira cautiously hopeful - wants to believe but has learned not to expect immediate solutions. Reflecting that the journey taught her a lot even while waiting for the "real" answer. Scout content. Return to Territory Two boundary, ready to traverse back. Ends with anticipation: what will Elder Heartwood say?
   </scene-outline>
-  <sources>
-    <ref ref="/stories/Mandatory_Assistance/story-acts.card" role="Act structure and chapter breakdown"/>
-    <ref ref="/stories/Mandatory_Assistance/story-arc.card" role="Plot arc and character development"/>
-  </sources>
 </chapter-placement>

@@ -1,40 +1,37 @@
 <!-- this file is automatically managed by ske validate; do not edit -->
 <versions>
-  <version number="1.0.0" archived-at="2025-12-02T00:50:22.482Z">
+  <version number="1.0.0" archived-at="2025-12-09T07:07:29.188Z">
     <changelog-entry>
-      <message>Initial version</message>
+      <message>Updated voice to enthusiastic/curious for Kira+Buddy character changes</message>
     </changelog-entry>
     <chapter-placement version="1.0.0">
       <reasoning-chapter-placement>
-        Act 2 chapter approaching the climax. The journey to Elder Heartwood serves as the "test" or "challenge" - proving Kira can cooperate with guides, trust the process, handle difficult terrain. Territory Three shows continued growth in journey skills, confidence, and relationship-building with new guides. This chapter builds hope that reaching Elder Heartwood will provide THE answer to help Kira survive properly. The anticipation needs to feel earned - this journey has been hard work, and they're finally reaching the goal. Sets up Chapter 9's disappointment when Elder Heartwood's response fails completely.
-
-        Kira is now confident as a traveler, applies lessons from previous territories, adapts faster. Shows growth from nervous first-time journeyer (Chapter 6) to competent traveler handling new challenges. The guides continue differentiating - Oakshade and Mossmantle have their own dynamic, different from previous pairs.
-
-        Structurally, this mirrors Chapters 6-7 (territory journey, new guides, three days) but with escalation: the destination matters. This isn't just transit, it's pilgrimage. The arrival at Elder Heartwood should feel momentous.
+        THE ORACLE EPISODE! This is the climax of the journey - reaching Elder Heartwood after three weeks of travel through seven territories. Kira is THRILLED to finally arrive. The Ancient Grove is awe-inspiring. "Mav finally reached the Oracle!" Hills are beautiful, Oakshade and Mossmantle are another delightful guide pair. Journey was the adventure - but meeting Elder Heartwood is the MOMENT.
       </reasoning-chapter-placement>
       <chapter-objective>
-        Complete the journey to Elder Heartwood through Territory Three's hill country. Present the question about human survival needs to the ultimate authority. Build hope and anticipation that Elder Heartwood's wisdom will solve the challenges the plants have struggled with. Establish that this journey itself has been valuable (skills learned, relationships deepened) while setting up the false hope that external authority will provide THE answer.
+        Experience the journey climax as triumph and wonder - reaching Elder Heartwood is AMAZING. Present the question. Journey itself was already the reward, whatever the answer turns out to be.
       </chapter-objective>
       <acts-covered>Act 2 (Quest &amp; Learning) - penultimate chapter before Elder Heartwood's disappointing response</acts-covered>
       <key-beats>
-        - Territory Three terrain challenges (hills, climbing, elevation) show Kira's competence
-        - Oakshade and Mossmantle's partnership dynamic (different from previous guide pairs)
-        - Approaching Elder Heartwood with appropriate gravitas - ancient, enormous, remote
-        - Presenting the question: how do we properly help Kira survive as a human?
-        - Building collective hope that THIS will be the real answer (plants confident, Kira cautiously hopeful)
-        - Establishing the wait - Elder Heartwood will take time to respond
-        - Journey was itself valuable even while waiting for "real" answer
+        - Hills are BEAUTIFUL - Kira loves the views, the climbing
+        - Oakshade (tree-steady) and Mossmantle (moss-practical) are wonderful
+        - "The terrain keeps changing and it's AMAZING every time"
+        - Approaching the Ancient Grove - sense of scale, age, wonder
+        - Elder Heartwood is ENORMOUS, ancient, connected to everything
+        - "This is the Oracle episode!" Kira genuinely moved
+        - Presenting the question feels momentous - the journey has earned this
+        - Even before the answer: "The journey was already the adventure"
       </key-beats>
       <character-development>
-        Kira: Demonstrates journey competence gained through Territories 1-2, adapts quickly to new terrain, confident in the pattern. Learning to appreciate each guide pair's unique approach. Growing impatient with deferring to distant authority - wants solutions NOW but accepts the process. Still hopeful external wisdom will help.
+        Kira: THRIVING as a traveler, hills are exciting terrain. "Mav would love this view!" Meeting Elder Heartwood is genuinely moving. The journey itself was the reward.
 
-        Oakshade: Steady, patient, focused on long-term thinking. Tree perspective - measured, considers implications. Calm authority without being bureaucratic.
+        Oakshade: Steady tree-perspective. Long-term thinking. Kira finds the calm centering.
 
-        Mossmantle: Grounded, practical, focused on immediate terrain. Earthy wisdom, notices details. Complements Oakshade's big-picture thinking.
+        Mossmantle: Practical, grounded. Notices terrain details. Complements Oakshade.
 
-        Scout: Continues as constant companion, communication with Kira now effortless and rich. The journey has deepened their bond.
+        Scout: Journey companion, communication effortless now. Found family complete.
 
-        Buddy: Less intrusive, more genuinely helpful. Learning when to offer information vs when to stay quiet.
+        Buddy: Asks questions about Elder Heartwood's communication method. Curious, helpful.
       </character-development>
       <reasoning-scene-outline>
         Three passages mirroring the structure of Chapters 6-7 but with destination focus:
@@ -59,7 +56,6 @@
         <ref ref="/stories/Mandatory_Assistance/story-acts.card" role="Act structure and chapter breakdown"/>
         <ref ref="/stories/Mandatory_Assistance/story-arc.card" role="Plot arc and character development"/>
       </sources>
-      <changelog-entry version="1.0.0">Initialized</changelog-entry>
     </chapter-placement>
   </version>
 </versions>
