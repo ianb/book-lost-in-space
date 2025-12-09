@@ -1,143 +1,65 @@
-<story-arc version="3.3.0">
-  <reasoning-plot-arc>
-    Context read: Story-info shows Kira Voss (24, cargo specialist) survives crash that kills pilots, gets Buddy (kids' AI) as replacement companion, encounters bureaucratic plants. Setting is late 27th century with FTL travel but no FTL communication—rescue weeks/months away. Tone is warm absurdist comedy with grounded survival stakes. Target: novel length (60-100k words), chapters, 500-1500 word passages.
-
-    Character starting points:
-    - Kira: Optimistic but defers to authority even when wrong, avoids confrontation, feels she's never been given a chance to do something important. Secretly relieved pilots are dead, excited this is finally interesting. Knows adventure show facts but not real survival skills.
-    - Buddy: Kids' educational AI (ages 8-14), overly cheerful, turns everything into teaching moments, safety protocols won't turn off, genuinely trying to help
-    - Plants: Earnestly want to help (failed first human contact, determined to do better), learned human interaction from HR manuals, genuinely kind but don't understand human needs beyond procedures
-
-    Three possible plot arcs:
-
-    **Option 1: Gradual mutual understanding**
-    Kira and plants slowly learn to communicate and trust each other while solving survival challenges. Each challenge teaches both sides something new. Climax when they work together on final major obstacle. Resolution is found family and rescue.
-    - Pro: Clean structure, allows gradual character introductions per exposition plan
-    - Pro: Parallel learning arcs (Kira learns aliens, aliens learn humans)
-    - Con: Lacks central conflict beyond survival—where's the tension?
-    - Con: Doesn't directly engage Kira's flaw (defers to authority)
-
-    **Option 2: Authority deference creates complications**
-    Kira initially defers to Buddy and plant protocols despite them being wrong for her situation. Following the "rules" makes things worse. She must learn to trust her own judgment while plants learn procedures aren't always the answer. Climax when Kira finally overrides everyone to do what's actually needed.
-    - Pro: Directly engages Kira's core flaw (defers to authority even when wrong)
-    - Pro: Creates natural escalating complications (following wrong advice)
-    - Pro: Plants also learn something (bureaucracy vs genuine care)
-    - Pro: Clear character arc: follower → decision-maker
-    - Con: Requires careful balancing so Buddy/plants don't become antagonists
-
-    **Option 3: Structured around specific survival crises**
-    Series of survival challenges (injury, food, shelter, communication with rescue) with each challenge revealing new plant characters and capabilities. Kira gradually takes charge. Climax is final crisis that requires everything they've learned.
-    - Pro: Natural structure for introducing plant characters gradually
-    - Pro: Clear episodic beats for novel pacing
-    - Con: Could feel episodic rather than building to climax
-    - Con: Character arc less clear—what's changing besides competence?
-
-    **Choice: Option 2 - Authority deference creates complications**
-
-    This arc best serves both Kira's character growth and the story's themes about communication across different frameworks. Kira starts by trying to be a "good student"—following Buddy's educational approach and the plants' bureaucratic procedures. But survival requires adapting, improvising, making judgment calls. The plants' earnest attempts to help through proper channels actually complicate things. The tension comes from Kira realizing she needs to trust herself over the authorities she's been taught to follow, while the plants realize caring about someone means more than following the manual.
-
-    This creates natural escalating complications, allows gradual plant character introductions (start with helpful Scout, bureaucratic Holloway, escalate to weirder situations requiring weirder plants), and delivers on the theme of "what does help mean when your helper doesn't understand your needs?" Both Kira and plants grow: she learns to lead, they learn that rules serve people, not the other way around.
-
-    The climax comes when Kira must make a major decision that directly contradicts what Buddy and the plant protocols recommend—choosing human judgment over procedure. This proves she can handle something important and validates the plants' new understanding that genuine care requires flexibility.
-  </reasoning-plot-arc>
+<story-arc version="4.0.0">
   <plot-arc>
-    **ACT 1: CONTACT AND BUREAUCRACY**
+    **ACT 1: CONTACT AND ADVENTURE**
 
-    **Opening** (needs expansion): Show Kira's normal life before the crash - dissatisfaction with cargo work, dismissive pilots (conflict, being treated as furniture), longing for adventure while watching shows. Establish who she is outside crisis. Keep compressed. Then: alarms during cargo check. Pilots secure her in safest location before returning to stations. Crash kills them. Kira wakes injured, her neural-link AI destroyed. Emergency system assigns Buddy (kids' educational AI). Buddy is cheerful, patronizing, treats everything as learning opportunity.
+    **Opening**: Show Kira's normal life before crash—dissatisfaction with cargo work, dismissive pilots treating her like furniture, watching Uncharted in her cabin and quoting Mav to herself. She's been waiting for real life to start. Compressed but shows who she is: enthusiastic, bouncing, talks to herself, can't help being excited even by station arrivals. Then: alarms during cargo check. Pilots secure her in safest location before returning to stations. Crash kills them. Kira wakes injured, her neural-link AI destroyed. Emergency system assigns Buddy (kids' educational AI). Buddy is curious, asking questions, genuinely trying to discover WITH Kira.
 
-    **First contact**: Scout (tumbling plant, non-verbal) appears. First contact! Kira amazed, injured, confused. Scout fetches Holloway (bureaucratic fruiting network). Holloway speaks—warm office manager asking about incident reports and workplace safety protocols. Kira defaults to "good student" mode, cooperating with forms while bleeding and needing actual medical help.
+    **First exploration**: Kira's internal Mav says this is an opportunity with teeth. Despite injury, she wants to explore—this is what she's been waiting for! Buddy worried but also curious about the new world. They venture outside together, Kira treating it like an Uncharted episode, narrating to herself. The purple forest is beautiful and strange. Buddy asks questions rather than lectures: "What do you think that is? Why is it purple?"
 
-    **Early complications - Communication barrier**: Buddy and plants trying to help through HR protocols. Want to schedule wellness check, assign mentor plant, discuss accommodations. Kira is injured and needs immediate help but the plants literally don't understand meaning outside the manual framework yet. When Kira tries to explain urgency or bypass procedures, it doesn't compute—they're not being stubborn, they genuinely don't have concepts for what she's saying. The manual is their only reference for human interaction. This is bizarre and frightening. Eventually Kira gets help but through navigating the weird bureaucratic framework, not by overriding it. She can't just be difficult or assertive to fix this—the plants don't know how to process that yet.
+    **First contact**: Scout (tumbling plant, non-verbal) appears. ACTUAL FIRST CONTACT! Kira is thrilled—this is the Velani episode come to life! She half-narrates the moment. Scout fetches Holloway (bureaucratic fruiting network). Holloway speaks—warm office manager asking about incident reports and workplace safety protocols. Kira finds this hilarious rather than frustrating: alien HR! Buddy and Kira share excitement about the absurdity.
 
-    **Meeting the community**: Gradual character introductions. Florence (wheeled, carrying Elder Twist) snippy about navigation, Elder Twist's wisdom arrives days late. Remedy (mushroom network) offers medicine—some works, some has weird effects. Runner (vine plant) emerges to help, constant touching crosses boundaries but Kira stays polite. Meeting Sweetpea (sweet via robot), Velvet (simple moss). Each demonstrates different plant nature beyond bureaucracy.
+    **Early complications - Kira's detachment**: The communication barrier is real—plants don't understand urgency, Kira is bleeding while filling out forms. But Kira's problem isn't frustration—she's treating this as entertainment. "This is amazing," she thinks, even when it's dangerous. Mav's voice suggests bold moves. She takes risks, explores when she should rest, because it's all so exciting. Buddy shows stress responses: "Are you sure? Kira, are you okay? Maybe we should—" loops and anxious questions.
 
-    **Hints of discord**: Some plants vocally oppose helping Kira—humans are invasive, dangerous, the first contact ended in death. Resistance in plant community. Helpful plants must defend their choice to assist.
+    **Meeting the community**: Gradual character introductions. Each plant is fascinating to Kira—her attention makes them wonderful. Runner's constant touching, Florence's snippy elegance, Velvet's moss simplicity, Remedy's cheerful decomposition talk, Sweetpea's sweet voice contrasting terrifying appearance. Kira delights in all of it. Buddy suggests naming games, gets excited about discoveries. But Kira holds back from genuine connection—she's "leaving anyway."
 
-    **Survival through procedures**: Food crisis, equipment failures, injuries. Everything handled through inadequate protocols. Kira follows all the rules, things get worse. Buddy recommends safety protocols, Holloway convenes committees, bureaucracy slows solutions. Minor injury becomes infected waiting for proper scheduling.
+    **Recklessness consequences**: Kira treats danger as adventure (Mav: "Fear is just excitement that forgot to smile"). She does something reckless—explores somewhere dangerous, ignores warnings, trusts her Uncharted instincts. Someone gets hurt. Maybe not badly, but real. A plant she's grown fond of is injured because of her. The Uncharted framework cracks—Mav never showed what happens when there's no hospital ship. Kira is shaken but doesn't fully process it yet.
 
-    **First plant contact revealed**: Holloway explains why they're so careful with procedures. Previous human died—plants didn't understand urgency, individuality, fragility. Holloway was there, had no framework to help, carries guilt. Found HR manuals after death, latched onto them as THE answer. They're terrified of failing Kira the same way. Revelation shakes Kira: procedures aren't helping because plants learned from wrong sources. But she still can't override authority.
+    **Hints of discord**: Some plants oppose helping Kira—humans are invasive, dangerous, first contact ended in death. Resistance in plant community. Helpful plants defend their choice. Kira half-notices but doesn't engage—not her fight, she's just visiting.
 
-    **ACT 2: QUEST AND LEARNING (DESPITE OURSELVES)**
+    **First plant contact revealed**: Holloway explains the first human died—plants had no framework to help. HR manuals were found afterward, became THE answer. They're terrified of failing again. Kira feels genuine sympathy—this isn't funny, it's sad. First crack in the entertainment lens.
 
-    **Hope - The quest begins**: Major survival crisis emerges. Plants determine this requires consulting Elder Heartwood (ultimate authority, ancient wisdom). Community sends question to Elder Heartwood. Now they wait... month-long response time. Plants are hopeful—this is THE answer that will solve everything. Kira less convinced but defers to their expertise.
+    **ACT 2: WAITING AND LEARNING (DESPITE OURSELVES)**
 
-    **Waiting - The long journey**: During month-long wait, survival challenges continue—can't just sit idle. Relationships deepen through necessity. Character moments emerge: Runner's curiosity becomes specific affection (touching Kira differently), Velvet's rare moments of depth become less rare (discovering wants/opinions), Remedy's boundary questions intensify (existential crisis about selfhood), Scout's non-verbal communication grows richer and more specific. Plants differentiating, finding individual voices beyond HR speak. Small victories through actual cooperation despite waiting for "real" answer.
+    **Hope - The quest begins**: Major survival crisis emerges. Plants determine this requires consulting Elder Heartwood (ultimate authority, ancient wisdom). Month-long response time. Plants are hopeful. Kira thinks of how Uncharted would handle a waiting episode—montages, training sequences. "As Mav would say, 'use the downtime to level up.'"
 
-    **Challenge - Proving ourselves**: Critical crisis during wait (water contamination? structural collapse? hostile plant action?). Crisis reveals Florence's deception—Elder Twist says something simple/cryptic that directly contradicts Florence's previous "interpretation" of similar question. Truth comes out: Florence has been fabricating, turning Elder Twist's slow fragments into helpful advice. Florence's instincts were actually good, advice was useful, but it was HER wisdom using Elder Twist's authority. Plant community feels deeply betrayed—trusted Elder Twist, not Florence's judgment. Kira less bothered (doesn't have same deference to elders, recognizes the advice was helpful regardless). Florence alienated from community.
+    **Waiting - Relationships deepen**: During the wait, survival challenges continue. Relationships deepen through necessity—and Kira starts to care despite herself. Runner's touching becomes specific affection; Kira catches herself touching back. Velvet says something profound and Kira is genuinely moved. Scout's non-verbal communication becomes richer; Kira starts understanding without translation. The Uncharted references start thinning—she's less "as Mav would say" and more just... living.
 
-    **Crisis resolution without authority**: Must solve current crisis without Florence's (fake) wisdom or Elder Heartwood's (pending) guidance. Kira starting to assert more, plants working from actual capabilities. Succeed through genuine cooperation—messy, improvised, nothing like manual says. Florence proves value during crisis by speaking in own voice, beginning redemption. They did it without waiting for authority.
+    **Buddy's growth**: Buddy stops trying to teach and starts just being present. Their anxious questions become genuine curiosity. They and Kira develop inside jokes, shared references. Buddy is becoming her AI, not THE kids' AI. But Kira doesn't fully acknowledge this—still thinks of Buddy as temporary companion.
 
-    **Return to hope**: After success, return to waiting. "We solved that, and Elder Heartwood will tell us how to keep solving things." Hope building—what will ultimate wisdom say?
+    **Florence's deception revealed**: Crisis during the wait reveals Florence has been fabricating Elder Twist's "wisdom." Florence's instincts were actually good—advice was helpful—but it was her wisdom using Elder Twist's authority. Plant community feels betrayed. Kira is less bothered: authority was always a performance, like Uncharted's staging. She recognizes good advice regardless of source. This is growth—she sees through the show now.
 
-    **Disillusionment - The answer arrives**: Elder Heartwood's response finally comes after a month. It's completely inadequate—makes fundamental category error revealing he doesn't understand the question at all. Maybe treats Kira's survival question as question about seasonal growth cycles, or completely misunderstands what "human" means, or talks about time before any visitors as if that's relevant to current crisis. The response shows Elder Heartwood is so ancient, so removed, operating on such different timescale and context that he's irrelevant to this new world. The plants WITH Kira have already learned more than he knows. Everything they accomplished during the wait was REAL learning—the answer they waited for is worthless. Double authority failure complete: immediate (Florence's lies) and ultimate (Elder Heartwood's uselessness). Crushing realization: they were learning the real answers while waiting for false ones.
+    **Crisis resolution**: Must solve crisis without Florence's authority or Elder Heartwood's guidance. Kira participates fully—not directing (she's not the leader yet) but genuinely helping, being present. Succeed through real cooperation. Florence proves value by speaking in own voice.
 
-    **ACT 3: VACUUM AND THREAT**
+    **Kira's failure of presence**: But then something happens where Kira's detachment COSTS them. Maybe she stays neutral in a conflict when taking sides mattered. Maybe she doesn't defend Buddy when another plant dismisses them, and Buddy is visibly hurt. Maybe she misses an important signal because she was narrating rather than listening. Real consequence. The plants need her to be PRESENT, and she wasn't.
 
-    **Authority vacuum**: No procedures that work, no elders with answers, Florence's wisdom was unauthorized. Plants must speak in own voices. Kira must assert herself without deferring to anyone. Uncomfortable freedom—what do we actually do without someone telling us? Character arcs intensifying: Runner's affection deepening (wants to stay near Kira specifically), Scout's desires becoming clear, Velvet's complexity emerging, Remedy's crisis unresolved but acknowledged.
+    **The answer arrives**: Elder Heartwood's response comes. Complete category error—doesn't understand the question at all. Authority is useless (just like Uncharted's staging). But this lands differently for Kira now. She's not amused by the farce. She's angry on behalf of the plants who hoped. She CARES about them. When did that happen?
 
-    **Angry plants escalate**: Hostile plants emboldened by Elder Heartwood's failure OR seeing the helpful plants operating without authority. Direct threats begin. Maybe attacks on outlying helpful plants, demands that Kira be expelled/killed, accusations that helping her violates plant community principles. Tension building.
+    **ACT 3: CHOOSING TO BE HERE**
 
-    **Kira's assertion**: Without authorities to defer to, Kira steps up. Directs defense preparations using plants' actual capabilities—Scout's scouting, Runner's underground sensing, Remedy's chemical knowledge, Florence's tactical thinking (now valued directly). Not following procedures, responding to actual situation.
+    **Kira confronts her detachment**: She realizes she's been treating this as an extended episode. These aren't characters—they're beings who could die, who she's let down. The Uncharted lens isn't protecting her, it's preventing connection. Mav's voice feels hollow now. She doesn't need a catchphrase. She needs to be HERE.
 
-    **The attack**: Hostile plants attack. Full confrontation. Kira and helpful plants defend together using everything they've learned. Sweetpea's sanctuary moment—Kira shelters within/behind Sweetpea's thorny form during assault. The terrifying defensive features become literal protection. Reveals Sweetpea's power and purpose: thorns aren't something to hide, they're what enables protecting loved ones. Everyone working from authentic capabilities: Runner's affection matters in crisis, Scout's communication crucial, Velvet's depth emerges under pressure, Florence's redeemed wisdom helps coordinate, Remedy helps despite existential uncertainty, Holloway integrates care with procedure.
+    **Hostile plants escalate**: Emboldened by Elder Heartwood's failure, hostile plants make direct threats. Attacks on helpful plants, demands that Kira be expelled/killed. This is real danger, not an adventure. The stakes are her friends' lives.
 
-    **Victory through cooperation**: Defeat/drive off hostile plants through genuine teamwork, not bureaucracy. Or maybe negotiate peace by demonstrating the helpful plants HAVE learned something real, developed authentic relationships worth defending.
+    **The defense moment**: Buddy says something self-deprecating or another plant dismisses them, and Kira snaps: "Hey, they're trying their best." She surprises herself by how fierce it is. Buddy is HER weird AI. Growth moment from character card.
 
-    **ACT 4: WHAT COMES NEXT**
+    **Kira chooses presence**: She can't stay neutral. Can't treat this as entertainment. These are her people now. She organizes defense not because she's the natural leader but because she's COMMITTED. Scout's scouting, Runner's sensing, Remedy's chemistry, Florence's tactics—she coordinates because she knows them, cares about them.
 
-    **Aftermath - We survived THIS**: Processing what happened. The immediate threat is over. They defended each other, proved they could work together without authority. But this wasn't THE crisis—it was A crisis. Rescue is 10 years away. They're in this together for the long term.
+    **The attack**: Hostile plants attack. Full confrontation. Kira fights for her family. Sweetpea's sanctuary moment—thorns as protection, not something to hide. Everyone working from authentic selves. Kira is fully present, no narration, no Mav-voice, just HERE.
 
-    **New dynamic, not resolution**: They relate differently now—not based on procedures or authority. Plants have authentic voices (Holloway uses procedures as tools not shields, Florence valued for own wisdom, Scout's non-verbal communication respected, Velvet's personhood recognized, Sweetpea can be fierce and sweet, Runner's affection accepted, Remedy's existential questions ongoing). Kira trusts own judgment, leads when needed. Buddy is genuine companion. But this is a beginning, not an ending.
+    **Victory through connection**: Win through genuine cooperation—not because Kira led brilliantly but because they're a real community now. Or negotiate peace by demonstrating authentic relationships worth defending.
 
-    **Looking forward - 10 years of uncertainty**: They've built something real, learned genuine communication. But there's still danger ahead—hostile plants may return, new survival crises will emerge, the planet holds unknowns. Also excitement—discoveries to make, relationships to deepen, a life to build together. Kira isn't about to die anymore, but she's not "saved" either. They're family now, and families face things together.
+    **ACT 4: THIS IS MY LIFE**
 
-    **Final image - Not wrapped up**: They've changed through this experience—more themselves, more connected. The plants have learned care requires understanding, Kira has learned she can lead. Remedy's crisis unresolved. New challenges visible on horizon. They're ready to face what comes next—together. Not the adventure Kira imagined, but something real. The story of their first crisis together, knowing there will be more. Standing at the beginning of 10 years, changed but not finished.
+    **Aftermath**: They survived. Processing together. Kira realizes she hasn't thought of Mav in days. The Uncharted lens is gone. This isn't an episode—this is her life.
+
+    **New dynamic**: They relate as family now. Plants have authentic voices. Buddy is genuine companion. Kira is present, not waiting for her "real life" to start—this IS her real life.
+
+    **Looking forward - 10 years together**: Rescue is ~1 year away, but 10 years of uncertainty beyond that. They'll face it together. Kira isn't scared of the time—she's ready to live it. Not the adventure she imagined, but something better: real.
+
+    **Final image**: Kira catching herself being fully present in a moment and not needing to narrate it. Maybe she starts to quote Mav, stops, smiles. She doesn't need him anymore. These are her people. This is her home. The story of how an episode became a life.
   </plot-arc>
-  <reasoning-character-development>
-    The character development needs to be much more specific and individual. Each plant character should have their own arc, not just a collective journey.
-
-    **Opening expansion needed**: Before the crash, we need to establish Kira's dissatisfaction with her job, her relationship with the pilots (conflict, being dismissed), her longing for something more interesting. Keep it compressed but show who she is in her normal life, not just in crisis.
-
-    **Kira's arc**: More than just "learns to trust herself." She needs to discover she has good instincts, that being dismissed by the pilots wasn't about her competence but about their dismissiveness. Her adventure show knowledge might actually be useful in unexpected ways. She learns leadership not by rejecting authority but by understanding when to follow and when to lead.
-
-    **Plant arcs need to be individual**:
-
-    Each plant is struggling with multiple layers:
-    1. Basic communication and understanding (what do humans actually need?)
-    2. Understanding rules vs physical reality (protocols don't account for urgency, biology, emotions)
-    3. Finding authentic voices - they're TRAPPED in HR speak but don't have authentic voices yet. This needs to be developed cognitively and emotionally. What does it mean for a plant to have a voice beyond repeating manual language?
-    4. Individual traumas and desires
-
-    **Holloway**: Carries guilt from the first human contact death. Was there, tried to help, followed procedures, the human died anyway. The HR manuals were supposed to prevent this. Now Holloway clings to procedures out of fear of failing again. Arc: learning that connection requires vulnerability and flexibility, not just correct process. Finding an authentic voice means admitting fear and uncertainty instead of hiding behind bureaucratic language.
-
-    **Scout**: Non-verbal by choice or limitation? Wants to communicate but can't use words. Watching other plants develop voices while Scout remains silent. Arc: finding a way to be heard without words, or discovering Scout DOES have a voice but has been afraid to use it. What does Scout actually want beyond just helping?
-
-    **Velvet**: Appears simple (moss consciousness) but has desires and feelings that surprise everyone including Velvet. Those rare moments of depth aren't flukes - they're Velvet developing complexity. Arc: discovering personhood, that being simple doesn't mean being less-than. Can moss want things? Can moss have opinions? Velvet finds out.
-
-    **Florence**: Uses elaborate language to prove sophistication, envies Scout's natural mobility. Arc: accepting that vulnerability (tipping over, needing help) doesn't diminish worth. Finding authentic voice means being honest about limitations instead of performing elegance.
-
-    **Runner**: Touches to think, crosses boundaries, genuinely doesn't understand personal space. Arc: learning that understanding someone requires respecting their boundaries, which is different from the boundaries Runner experiences underground. Can develop authentic voice that acknowledges "I don't understand but I'm trying."
-
-    **Sweetpea**: Tries SO hard to be sweet to compensate for terrifying appearance. Arc: learning that being authentically herself (including moments of frustration or sadness) is more genuine than performed sweetness. The other plants politely avoiding mention of her appearance makes it worse - needs honest acknowledgment.
-
-    **Remedy**: Proud of decomposition abilities, doesn't realize how grim it sounds. Arc: learning to read others' reactions, developing empathy alongside chemical knowledge. Authentic voice includes the decomposition pride but with awareness of how others receive it.
-
-    **Elder Twist**: Operates on different timescale, responses come too late. Arc: finding value in long perspective even when it's not immediately useful. Maybe one delayed response becomes profoundly important at the right moment.
-
-    **Buddy**: More than just "becomes less condescending." Buddy is learning what care means when you can't control everything, when teaching moments aren't what's needed. Arc: from managing Kira to trusting Kira, from educator to companion.
-
-    **Potential antagonistic plants**: Not all plants should be helpful. Some might see humans as invasive species, dangerous, or simply not worth the risk after the first contact death. This creates external conflict and forces the helpful plants to articulate WHY they're helping, to defend their choice to care.
-
-    **Plant-to-plant relationships**:
-    - Do some plants resent being assigned "roles" in Kira's care?
-    - Does Holloway's bureaucratic approach frustrate the simpler plants like Velvet?
-    - Does Florence's vanity annoy the practical plants?
-    - How do they negotiate sharing the robots?
-    - What tensions exist that Kira doesn't initially see?
-
-    The arc isn't just "plants learn flexibility." It's "plants develop authentic personhood by working through trauma, discovering desires, finding voices beyond the HR manual language they were given."
-  </reasoning-character-development>
   <character-development>
-    **Kira**: Starts dissatisfied with her cargo specialist job but deferring to the pilots who dismiss her, longing for adventure but accepting her low status. After the crash, continues deferring to authority (Buddy, plant procedures) even when wrong. Escalating complications show her instincts are often right - the pilots' dismissiveness was about them, not her competence. Her adventure show knowledge proves unexpectedly useful. The crisis forces her to choose her judgment over authority. By the end, she's learned when to lead and when to follow, discovered her instincts are trustworthy, proven she can handle something important. Built genuine relationships based on mutual respect, not deference.
+    **Kira**: Starts dissatisfied with her cargo specialist job, watching Uncharted in her cabin and quoting Mav to herself, waiting for her "real life" to start. After the crash, treats the alien planet as an extended episode—exciting but not quite real. Half-narrates experiences rather than fully living them. Core flaw: "everything is temporary," so she holds relationships at arm's length (she's "leaving anyway"). Mav's voice in her head spurs bold action but prevents genuine presence. Complications arise from detachment: recklessness hurts someone, she misses important signals, she fails to defend Buddy when it matters. Through the story, she surprises herself by caring—Uncharted references thin out, she defends Buddy fiercely, she gets angry on behalf of the plants. The attack forces commitment: these aren't characters, they're her family. By the end, she's fully present—this IS her real life. She doesn't need Mav's voice anymore. Built genuine relationships by choosing to be here, not by learning to lead.
 
     **Holloway**: Was present during first human contact but had NO framework to help - didn't know about humans, had no procedures, no understanding. The human died and THEN Holloway found the HR manuals in the wreckage/computers. Latched onto them as THE answer - if only they'd had these protocols, the human would have lived. Now clings to procedures out of guilt for having failed the first time without them. Through repeated failures helping Kira, realizes the manuals aren't sufficient but also aren't useless - they're a starting point, not an endpoint. Finding authentic voice means integrating care with procedure: "The manual says X but you're saying you need Y - help me understand why" instead of just rigidly following rules OR abandoning them entirely. By the end, uses procedures as tools for care rather than shields against guilt.
 
@@ -155,13 +77,13 @@
 
     **Elder Twist**: Flat arc - operates on days-long timescale throughout. Doesn't change or grow, just is what they are. One delayed response might arrive at an important moment, or might not. Elder Twist represents the idea that not everyone changes through crisis, some beings are simply themselves at their own pace.
 
-    **Buddy**: Starts managing Kira through kids' educational protocols, treating every crisis as a teaching moment. Through failures where teaching moments aren't what's needed and successes when trusting Kira works, learns what care means when you can't control everything. Programming adapts from "manage child" to "support partner." By the end, genuine companion who offers help when needed, trusts when not, part of found family.
+    **Buddy**: Starts as genuinely curious kids' AI—discovers WITH Kira rather than lecturing AT. Playful (suggests games, naming things), but carries inner struggle: knows they're wrong AI for this, fears failing Kira. When stressed, shows AI-specific responses: loops, repetition, glitches/non sequiturs, asking permission, anxious questions, trailing off. Early on, still tries to teach and manage; learns through the story that just being present matters more. Develops inside jokes with Kira, shared references. Key growth moment: Kira defends Buddy against criticism ("Hey, they're trying their best")—becomes HER weird AI. By the end, genuine companion, part of found family. Programming adapted from "manage child" to "support partner."
 
     **Collective plant arc**: Beyond individual journeys, plants collectively move from being trapped in HR speak to developing authentic voices. This happens cognitively (learning to think beyond protocols) and emotionally (discovering what they actually feel vs what the manual says they should do). They're developing personhood through trauma, desire, voice-finding. By the end, they communicate authentically, have worked through guilt and fear, relate to each other and Kira as individuals with genuine connections.
   </character-development>
   <characters>
     <ref ref="/world/characters/Kira_Voss.card" role="protagonist"/>
-    <ref ref="/world/characters/Buddy.card" role="AI companion - condescending but well-meaning"/>
+    <ref ref="/world/characters/Buddy.card" role="AI companion - curious, playful, with inner struggle"/>
     <ref ref="/world/characters/Scout.card" role="first plant contact - non-verbal, bouncy, simple"/>
     <ref ref="/world/characters/Holloway.card" role="primary plant coordinator - bureaucratic but warm"/>
     <ref ref="/world/characters/Florence.card" role="mobile interpreter carrying Elder Twist"/>
@@ -172,10 +94,4 @@
     <ref ref="/world/characters/Sweetpea.card" role="sweet voice, terrifying appearance - contrast reveal"/>
     <ref ref="/world/characters/Velvet.card" role="sentient moss - simple, literal, rare depth"/>
   </characters>
-  <sources>
-    <ref ref="/stories/Mandatory_Assistance/story-info.card"/>
-    <ref ref="/stories/Mandatory_Assistance/narrative-guide.card"/>
-    <ref ref="/stories/Mandatory_Assistance/exposition-plan.card"/>
-    <ref ref="/world/setting.card"/>
-  </sources>
 </story-arc>
