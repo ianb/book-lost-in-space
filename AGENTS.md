@@ -55,6 +55,17 @@ You may put freeform notes in `.md` files
 
 `*.history.card` files show the history of a card file. Auto-managed, do not edit.
 
+## Todos
+
+Cards can have embedded todos for tracking follow-up work:
+
+- `ske todo add path.card -m "Work needed"` - Add a todo
+- `ske todo list` - See pending todos
+- `ske todo mark path.card#/T1 done` - Mark complete (removes from card)
+- `ske snapshot path.card -m "msg" --todo-done=T1` - Complete todos during snapshot
+
+Use for internal reminders, not external feedback (use critiques for that).
+
 ## Core Concepts
 
 **References**: `<ref ref="/world/characters/Name.card" role="Reason for reference" />`

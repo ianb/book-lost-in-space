@@ -10,16 +10,21 @@ description: Using ske snapshot to archive card versions and manage semantic ver
 ```bash
 ske snapshot path/to/file.card -m "Character needed stronger motivation" --no-feedback
 ske snapshot path/to/file.card -m "Expanded backstory" --from-feedback="Motivation wasn't clear"
+ske snapshot path/to/file.card -m "Added backstory" --no-feedback --todo-done=T1,T3
 ```
 
 **Required options:**
 - `-m` message - explain WHY the changes were made (not WHAT - the diff shows that)
 - Either `--from-feedback="..."` OR `--no-feedback` (you must specify one)
 
+**Optional:**
+- `--todo-done=T1,T3` - Mark specified todos as done (removes them after archiving)
+
 **What it does:**
 - AI analyzes changes and determines bump type (major/minor/patch)
 - Archives content to `.history.card` with changelog entry
 - Clears reasoning fields after archiving
+- Removes todos specified in `--todo-done` (errors if ID doesn't exist)
 - Validates refs before snapshot (must pass before archiving)
 
 ## Writing Good Changelog Messages
