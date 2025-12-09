@@ -1,21 +1,4 @@
-<chapter-placement version="1.0.0">
-  <reasoning-chapter-placement>
-    Context: Chapter 4, final chapter of Act 1. Previous chapter ended with Kira sleeping, content, found family forming.
-
-    From chapter.card: Daily life adaptation, food challenges (as comedy), Elder Heartwood introduction, conclude Act 1.
-
-    From story-acts.card Act 1: Adventure established, foundation for quest. Final chapter should show Kira settled and happy before Act 2 quest begins.
-
-    Key dramatic moments:
-    - First morning at facility - Kira enjoying the routine
-    - Food situation as hilarious bureaucratic challenge
-    - Kira actively enjoying the game of navigating the system
-    - Plants showing individual personalities - Kira caring about each
-    - Mention of Elder Heartwood - Kira excited to have a quest!
-    - This is her life and she's genuinely into it
-
-    Show: Kira thriving, relationships deepening, survival with joy, hope for adventure (Elder quest).
-  </reasoning-chapter-placement>
+<chapter-placement version="2.0.0">
   <chapter-objective>
     Conclude Act 1 by showing Kira embracing daily life with delight, establishing survival basics (especially food - with comedy), and introducing Elder Heartwood who gives her a quest for Act 2.
   </chapter-objective>
@@ -34,17 +17,6 @@
   <character-development>
     Kira shows genuine enjoyment of the situation - not just coping but thriving. Learns plant personalities and genuinely cares about each. Joy at the absurdity is real, not defense mechanism. Scout becomes beloved companion. Holloway trusted and appreciated. Remedy fascinating. Florence beautiful. She's forming real attachments. Excited about Elder Heartwood - finally a QUEST like Uncharted!
   </character-development>
-  <reasoning-scene-outline>
-    Need to show: Morning routine (with delight), food challenge (as comedy), Elder introduction (as exciting quest setup).
-
-    Scene 1: Morning wellness - Waking up, daily check-ins, wound care. Kira finds routine charming. Scout present. Buddy curious. ~1500-1800 words.
-
-    Scene 2: Food protocols - Hunger becomes an issue but approached with humor. Dietary assessment forms are HILARIOUS (cultural preferences! religious restrictions!). Working with Remedy on what humans can eat. Comedy throughout. ~1700-2000 words.
-
-    Scene 3: Elder mentioned - Kira asks about who's in charge. Elder Heartwood introduced - a QUEST! Like Uncharted! Kira excited. Files formal request. Act 1 ends with joy and forward momentum. ~1500-1800 words.
-
-    3 scenes to conclude Act 1, total ~4700-5600 words.
-  </reasoning-scene-outline>
   <scene-outline>
     **SCENE 1: Morning Wellness**
     - **Purpose**: Establish daily routine, show Kira enjoying it
@@ -66,9 +38,4 @@
 
     **TOTAL ESTIMATED LENGTH**: 4,700-5,600 words (3 scenes)
   </scene-outline>
-  <sources>
-    <ref ref="/stories/Mandatory_Assistance/story-acts.card" role="Act 1 conclusion and chapter breakdown"/>
-    <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/chapter.card" role="Chapter summary and focus"/>
-    <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/3_Medical_Treatment/passage.card" role="Previous chapter ending"/>
-  </sources>
 </chapter-placement>
