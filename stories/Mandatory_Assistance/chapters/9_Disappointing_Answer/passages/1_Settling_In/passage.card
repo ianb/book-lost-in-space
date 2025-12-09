@@ -1,7 +1,4 @@
-<passage version="2.0.0" number="1" name="Settling In">
-  <reasoning-passage>
-    Back at the facility after the journey. Time has passed - a couple weeks. Showing how things have actually improved: Kira and plants cooperating better, applying journey lessons, communication working more smoothly. Concrete examples of success: Scout's companionship deepening, plants responding better to Kira's needs, survival challenges being solved through collaboration. But underneath the genuine progress, everyone still talks about Elder Heartwood's response as when they'll get THE answer. Current success feels provisional, like they're just making do until real wisdom arrives. ~1800 words establishing that they've learned a lot while waiting, setting up the irony that they don't actually need Elder Heartwood's response.
-  </reasoning-passage>
+<passage version="3.0.0" number="1" name="Settling In">
   <text>
     Two weeks back at the facility, and I'm starting to forget what it feels like to walk all day.
 
@@ -9,9 +6,13 @@
 
     What's stayed is everything else.
 
-    "Kira, morning wellness check!" Buddy announces cheerfully.
+    "Kira, morning wellness check!" Buddy announces. "Also, I've been thinking—do you think Scout dreams? They make little bouncing motions when they sleep."
 
-    I sit up, stretching. Scout is already bouncing by the door—they've started sleeping in my room, curled up in the corner. Not guarding exactly, just... present. Companion behavior, not assignment.
+    I sit up, stretching. Scout IS already bouncing by the door—they've started sleeping in my room, curled up in the corner. Not guarding exactly, just... present. Companion behavior, not assignment.
+
+    "I don't know, Buddy. Do YOU dream?"
+
+    "I... hm. That's a really good question. I'll have to think about that."
 
     "Morning, Scout."
 
@@ -69,7 +70,13 @@
 
     Together.
 
-    After breakfast (mushroom paste that Remedy has been slowly improving—it's almost tolerable now), Runner and I head to the water filtration area. Scout bounces along, because Scout goes everywhere I go.
+    After breakfast (mushroom paste that Remedy has been slowly improving—still terrible, but NOW it's terrible in an interesting way rather than just a bad way), Runner and I head to the water filtration area. Scout bounces along, because Scout goes everywhere I go.
+
+    "You know," I tell Buddy, "Mav always said the best crew members are the ones who show up without being asked."
+
+    "Scout definitely qualifies," Buddy agrees. "Do you think they'd like a title? Like 'Official Companion' or 'Best Bouncing Friend'?"
+
+    I laugh. When did Buddy start making jokes?
 
     The filter is definitely making a weird noise. Sort of a grinding sound that seems bad.
 
@@ -89,13 +96,15 @@
 
     This is what the journey taught us. Trust each other, adapt quickly, solve problems as they arise.
 
-    "Kira," Buddy says quietly, "you're developing excellent practical problem-solving skills! Did you know that collaborative maintenance approaches increase equipment longevity by—"
+    "Kira," Buddy says thoughtfully, "we're actually pretty good at this, aren't we?"
 
-    "Buddy, I'm working."
+    "Yeah," I say, surprised by the question. "We kind of are."
 
-    "Oh! Right. Sorry."
+    "I was never supposed to be a maintenance AI. But I like figuring things out with you. Is that weird?"
 
-    Even Buddy is learning. The teaching moments are getting less intrusive, more... optional. Buddy still offers information, but now there's space around it. Room for me to say "not now."
+    "Not weird at all, Buddy."
+
+    Buddy's been different lately. Less lecturing, more... wondering. Asking questions instead of providing answers. I like this Buddy better.
 
     Back in the common area, Remedy is waiting with the muscle recovery treatment. It's a thick paste that smells earthy but not unpleasant.
 
@@ -128,6 +137,16 @@
     And we're good at it now.
 
     That realization hits me as I'm helping Runner organize the supply storage. We're actually good at this. The plants understand my needs better, I understand their frameworks, we've built a functional rhythm.
+
+    And I'm... happy?
+
+    I stop what I'm doing, caught off guard by the feeling. When did that happen? I catch myself humming—actually humming—while sorting nutrient packets.
+
+    "Buddy," I say quietly. "How long has it been since I asked you about rescue timelines?"
+
+    "Seventeen days," Buddy says. "I noticed you stopped checking. I wasn't sure if I should mention it."
+
+    Seventeen days. I haven't thought about rescue in seventeen days.
 
     "Runner," I say slowly, "have you noticed things are working better?"
 
@@ -192,8 +211,4 @@
     Two weeks after journey, facility life functioning well through collaboration and adaptation. Plants hopeful Elder Heartwood's response (arriving soon) will provide THE framework. Kira realizes they're already learning what they need through daily practice but doesn't voice this doubt. Waiting for response while already living the answers.
   </leaves-off>
   <title>Making Do</title>
-  <sources>
-    <ref ref="/stories/Mandatory_Assistance/chapters/9_Disappointing_Answer/chapter-placement.card" role="Chapter structure and objectives"/>
-    <ref ref="/stories/Mandatory_Assistance/narrative-guide.card" role="Voice, tone, and style"/>
-  </sources>
 </passage>

@@ -35,4 +35,47 @@
       </sources>
     </outline>
   </version>
+  <version number="2.0.0" archived-at="2025-12-09T13:38:01.900Z">
+    <changelog-entry>
+      <message>Updated voice - Kira's attention becomes asset; Buddy can track positions</message>
+    </changelog-entry>
+    <outline version="2.0.0">
+      <must-convey>
+        Peaceful delegation rejected. Hostile plants refuse coexistence - Kira's presence is contamination. Attack is coming. Group tries to prepare but coordination is poor without Florence's tactical thinking.
+      </must-convey>
+      <hook-questions>
+        Can they survive an attack while fractured? Will they ask Florence for help? How serious is this threat?
+      </hook-questions>
+      <launching-situation>
+        Group still fractured from Florence revelation. Runner and Velvet sent at dawn to negotiate with hostile plants for peaceful coexistence.
+      </launching-situation>
+      <location-impression>
+        Dawn light on facility. Tension in the air. The borders of their territory suddenly feeling very fragile.
+      </location-impression>
+      <story-goal>
+        Show the peaceful option failing. Demonstrate how badly they need Florence's tactical thinking through their disorganized preparation. Set up the desperate situation of the coming attack.
+      </story-goal>
+      <pov-inner-life>
+        Kira watching the delegation fail, watching her friends flounder—and realizing she KNOWS them. She's been paying attention this whole time. She knows Scout is fast. She knows Florence thinks tactically. She knows what each plant is actually GOOD at. That attention is about to become their greatest asset.
+      </pov-inner-life>
+      <outline>
+        - Dawn. Runner and Velvet departing as peaceful delegation
+        - Kira and others waiting anxiously—Buddy: "Your heart rate is elevated"
+        - Delegation returns with grim news - rejected, Kira is "contamination"
+        - No coexistence possible - attack coming
+        - Group scrambles to prepare defenses
+        - Protocols consulted: useless
+        - Everyone has ideas but no strategy
+        - Kira watching them flounder, realizing: she KNOWS these plants
+        - She's been paying attention this whole time
+        - "Buddy, can you track positions?" "I... yes? I think so?"
+        - The attention that made her a good friend is about to make her useful
+      </outline>
+      <plot-arc-act>Act 3: Vacuum and Threat</plot-arc-act>
+      <concludes-arc>false</concludes-arc>
+      <concludes-chapter>false</concludes-chapter>
+      <time-at-start>2687-04-22T06:00</time-at-start>
+      <time-at-end>2687-04-22T10:00</time-at-end>
+    </outline>
+  </version>
 </versions>

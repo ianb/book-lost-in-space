@@ -1,7 +1,4 @@
-<passage version="2.0.0" number="3" name="What We Know">
-  <reasoning-passage>
-    Processing the aftermath of Elder Heartwood's failure. Plants struggling with what to do now—Holloway especially shaken (third authority failure: pilots, HR manuals, now Elder Heartwood), others uncertain and discouraged. Kira realizes she needs to help them see what they've actually learned. Points out concrete examples: Remedy's refined treatments, Runner's boundary respect, Holloway's flexible check-ins, Velvet's growing awareness, Scout's companionship. The journey wasn't just waiting—it was teaching. They've been learning the real answers through trial and error, paying attention to each other, adapting daily. The response failure is liberating rather than crushing: don't need external authority, already know how to help each other. Shift from disappointment to cautious hope based on their own accomplishments. New dynamic: we figure this out together, no procedures or wisdom from above. Ends with recognition that this is actually better—their own genuine understanding instead of following someone else's framework. ~1800 words turning devastation into determination.
-  </reasoning-passage>
+<passage version="3.0.0" number="3" name="What We Know">
   <text>
     The rest of the day is very quiet.
 
@@ -39,7 +36,15 @@
 
     Holloway finally looks at me. "What do you mean?"
 
-    "I mean... things ARE working. Not perfectly, but way better than they were. You ask what I need instead of scheduling automatic treatments. Remedy refines medicines based on my feedback. Runner waits for permission. We solve problems together without committees or waiting for approval." I gesture around. "This morning, before the messenger arrived, I was thinking about how good we've gotten at daily cooperation."
+    "You know what happened in Uncharted Season 4, when Mav finally reached the Oracle of Veris?"
+
+    Holloway blinks. "The... the show you watch? With the human adventurer?"
+
+    "The Oracle was fake. A projection, a trick. Mav was devastated for three whole episodes." I lean forward. "But you know what he figured out? The crew he built along the way—THEY were the real answer. He'd been so focused on reaching the Oracle that he didn't notice he'd already found what he was looking for."
+
+    Scout bounces—understanding dawning.
+
+    "I mean... things ARE working, Holloway. Not perfectly, but way better than they were. You ask what I need instead of scheduling automatic treatments. Remedy refines medicines based on my feedback. Runner waits for permission. We solve problems together without committees or waiting for approval." I gesture around. "This morning, before the messenger arrived, I was thinking about how good we've gotten at daily cooperation. I haven't thought about rescue in seventeen days."
 
     "But that's just... making do. Improvising. Not systematic understanding."
 
@@ -93,7 +98,19 @@
 
     "Didn't help is generous," Runner mutters. "It was useless. Worse than useless—it showed Elder Heartwood doesn't even understand the question."
 
-    "But here's what I've been thinking about," I continue. "What if the waiting period was the answer?"
+    "Can I tell you something? About that show I watch?"
+
+    The plants look confused. Scout bounces encouragingly.
+
+    "In Season 4, the main character—Mav—he spends half the season trying to reach this Oracle. Ancient wisdom that's supposed to answer all his questions. And when he finally gets there?" I pause. "It's fake. The Oracle doesn't exist. Just an old projection system running on loop."
+
+    "That's... a sad story," Velvet says.
+
+    "No, that's the thing—it's NOT sad. Because Mav realizes: the crew he built during the journey? His friends? THEY were the answer. He already had what he needed. He just couldn't see it because he was so focused on finding the 'real' answer."
+
+    Understanding ripples through the room.
+
+    "What if that's us?" I continue. "What if the waiting period was the answer?"
 
     Velvet stirs slightly. "Explain."
 
@@ -198,8 +215,4 @@
     Processing Elder Heartwood's failure, shifting from disappointment to recognition: they've already learned what they needed through cooperation and adaptation. No external authority will solve this—trusting their own experience together. Freed from waiting, ready to continue building their own understanding. Cautious hope based on what they've accomplished.
   </leaves-off>
   <title>Our Own Wisdom</title>
-  <sources>
-    <ref ref="/stories/Mandatory_Assistance/chapters/9_Disappointing_Answer/chapter-placement.card" role="Chapter structure and objectives"/>
-    <ref ref="/stories/Mandatory_Assistance/narrative-guide.card" role="Voice, tone, and style"/>
-  </sources>
 </passage>
