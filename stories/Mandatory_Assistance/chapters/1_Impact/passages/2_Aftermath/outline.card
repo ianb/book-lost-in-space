@@ -6,7 +6,7 @@
     Survival is now the goal - Kira must assess damage and figure out how to stay alive despite injuries and being alone.
   </story-goal>
   <pov-inner-life>
-    Kira's full chatty internal monologue on display. She rambles to cope with trauma - talks herself through assessing injuries, makes dark jokes, compares situation to adventure shows (they never showed THIS part), notices cargo specialist details even in crisis. The voice that was stripped away by terror in Passage 1 returns as her coping mechanism. Grief for pilots and lost AI processed through the rambling.
+    Kira's full chatty internal monologue on display. She rambles to cope with trauma - talks herself through assessing injuries, makes dark jokes, filters everything through Uncharted lens. Mav's voice appears: "Panic is a choice. Choose something else." Her internal narration kicks in - half-talking to imaginary audience. The voice stripped away by terror returns as her coping mechanism. She notices cargo specialist details even in crisis, comparing herself to Mav assessing a crash site. Grief for pilots processed through the Uncharted framework - they'd be supporting characters who died to establish stakes. That thought horrifies her a little, but it's how she copes.
   </pov-inner-life>
   <outline>
     **BEAT 1: Waking in pain** (110-130 words)
@@ -21,7 +21,8 @@
     **BEAT 2: Assessment and coping** (120-150 words)
     - Kira talks herself through the panic: "Okay. Okay okay okay"
     - Rambling internal monologue kicks in fully - her coping mechanism
-    - Compares to adventure shows: "They never show the waking up part, do they?"
+    - Mav's voice: "Panic is a choice. Choose something else." She grabs onto it
+    - Uncharted reference: "They never show the waking up part, do they? Mav always cuts to the action."
     - Catalogs injuries more systematically (cargo specialist habits)
     - Leg: gash, bleeding but not arterial
     - Ribs: bruised not broken (she hopes)
@@ -75,7 +76,7 @@
     - No FTL communication means rescue is... weeks? Months?
     - Does anyone even know they crashed?
     - The rambling: "This is fine. This is... not fine. This is the opposite of fine."
-    - Adventure shows never covered solo survival with head trauma
+    - Uncharted never covered solo survival with head trauma - Mav always had Kit
     - But she's alive and Jensen and Reed aren't
     - And SAM isn't
     - Grief trying to surface, she pushes it down
@@ -85,23 +86,27 @@
     **BEAT 7: Determination emerges** (80-110 words)
     - Kira starts treating leg wound, hands shaking
     - Talking herself through it: medical supplies, pressure, bandage
-    - "I can do this. I've done hard things before. Like... that time... okay I haven't done anything like this before."
-    - Dark humor returning
+    - Mav's voice: "The universe rewards the bold. So be bold."
+    - "I can do this. Mav's done worse. Well, TV-worse. This is real-worse."
     - But she's doing it - treating wound, staying functional
     - Looks at hole in hull: light, trees outside, alien planet
-    - "Well. Wanted adventure. Got it."
+    - Her heart rate spikes - not just fear, something else. Excitement?
+    - This is it. This is what she watched Uncharted for. A real alien planet.
+    - "As Mav would say: the adventure is just beginning."
     - Determination: figure out supplies, water, shelter
     - Survive long enough for rescue
     - Conveys: Resilient despite fear, moving forward
 
     **TOTAL: 790-1010 words across 7 beats**
   </outline>
-  <plot-arc-act>Act 1 (Contact &amp; Bureaucracy) - establishing crisis</plot-arc-act>
+  <plot-arc-act>Act 1 (Contact &amp; Adventure) - establishing crisis</plot-arc-act>
   <concludes-arc>false</concludes-arc>
   <concludes-chapter>false</concludes-chapter>
   <time-at-start>2687-03-15T14:38</time-at-start>
   <time-at-end>2687-03-15T17:30</time-at-end>
   <sources>
-    <ref ref="/todo/stories/TBD/chapters/TBD/passages/TBD/passage-placement.card#v0.0.0" role="TBD"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/chapter-placement.card" role="Scene 2 outline"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/2_Aftermath/passage-placement.card" role="Passage objectives"/>
+    <ref ref="/stories/Mandatory_Assistance/narrative-guide.card" role="Tone and pacing guidance"/>
   </sources>
 </outline>
