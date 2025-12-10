@@ -1,28 +1,25 @@
-# Story: Mandatory_Assistance
+# Storywriting instructions for stories/Mandatory_Assistance
 
 ## Story Goal
 Not yet defined - fill in story-info.card
 
 ## Narrative Style
-- **Narrative stance**: First person, present tense, limited (Kira's POV)
-- **POV character**: Kira_Voss
-- **Tone**: Warm absurdist comedy with grounded stakes. Optimistic and curious even in crisis, finding genuine delight in bureaucratic weirdness rather than cynicism. Maintains tension from survival pressure while celebrating the earnest (if confused) attempts at cross-cultural communication. No mean-spirited humor—the aliens are trying their best, and so is Kira.
 
-## CARD_EDIT_LOOP Reminder
-Always use `ske create` for new cards, `ske instructions` for guidance.
-Verify work with user before snapshot.
+All passage.card text must be written with the narrative stance: First person, present tense, limited (Kira's POV)
 
-## Creation Mode
-This story has existing structure. When adding content:
+POV character: /world/characters/Kira_Voss.card.card
 
-**For chapters**:
-1. chapter-placement.card - where it fits in story
-2. chapter.card - chapter-level planning
+Tone: Warm absurdist comedy with grounded stakes. Optimistic and curious even in crisis, finding genuine delight in bureaucratic weirdness rather than cynicism. Maintains tension from survival pressure while celebrating the earnest (if confused) attempts at cross-cultural communication. No mean-spirited humor—the aliens are trying their best, and so is Kira.
 
-**For passages**:
-1. passage-placement.card - where it fits
-2. outline.card - scene planning and beats
-3. passage.card - actual prose (LAST)
+Reading level: Upper middle grade to young adult (ages 10-15)
 
-Always fill supporting cards BEFORE writing prose.
-Respect the **narrative-stance** above in all prose.
+Rating: PG
+
+# Writing
+
+This story is ready to write! Follow CARD_EDIT_LOOP and move the story forward:
+1. Add a new chapter (when ready)
+2. Fill out chapter-placement.card and chapter.card
+3. Add a new passage (when ready)
+4. Fill out the passage's passage-placement.card and outline.card FIRST
+5. Once all these are completed write passage.card
