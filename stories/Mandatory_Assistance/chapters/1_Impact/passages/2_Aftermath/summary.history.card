@@ -1,0 +1,109 @@
+<!-- this file is automatically managed by ske validate; do not edit -->
+<versions>
+  <version number="2.0.0" archived-at="2025-12-10T20:02:05.196Z">
+    <changelog-entry>
+      <message>Initial version</message>
+    </changelog-entry>
+    <!-- Generated automatically, do not edit except with ske gen summaries -->
+    <summary version="2.0.0">
+      <sources>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/2_Aftermath/passage#v2.0.2"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/passage#v4.1.0"/>
+      </sources>
+      <narrative-promises>
+        <reasoning>Walked through each open promise from the previous passage and checked what this passage actually shows. Two clear payoffs occur: the fate of the pilots (we learn Jensen and Reed are dead while Kira survives) and Jensen's protective moment toward Kira (he looked at her, strapped her in and sacrificed himself). Several prior threads remain unresolved (bio-samples, why navigation failed/coordinates mismatch). Two tentative threads from before (SAM as continuing companion, Vega Station as a likely destination) are contradicted or superseded by the crash and the loss of SAM. The passage also introduces multiple new ongoing setups: Kira is now stranded on an unknown, breathable-but-alien world with damaged cargo and no functioning ship AI or immediate communications; she resolves to survive and begins sorting supplies. I classify which items are firm (explicit, story-impacting facts/setups) and which are tentative (soft hints about future significance).</reasoning>
+        <fulfilled>
+          <promise id="SURVIVAL_OF_CREW_AND_PASSENGERS">The passage reveals the outcome of the crash: Jensen and Reed are dead; Kira survived (injured). The question of who lived and who died is resolved.</promise>
+          <promise id="JENSEN_KIRA_RELATIONSHIP_SHIFT">Jensen physically secures Kira in the crash seat, looks at her, and sacrifices himself trying to save the ship — the previously hinted change in his behavior toward Kira is realized.</promise>
+        </fulfilled>
+        <lapsed>
+          <promise id="SAM_MONITORING_AND_CHARACTER_ROLE">Previously suggested that SAM would continue to monitor and influence events; this passage shows SAM is gone/offline (neural link silent), so that promise of an active companion AI is superseded.</promise>
+          <promise id="VEGA_STATION_POTENTIAL_MYSTERY_OR_SETTING">Kira had expected Vega Station as the destination; the crash onto an unknown planet means the Vega Station expectation is no longer relevant to the immediate story.</promise>
+        </lapsed>
+        <open>
+          <promise id="BIO_SAMPLES_TEMPERATURE_FLUCTUATION" tentative="false" introduced="1">The biological-samples container was previously flagged as showing temperature fluctuations; the cargo bay is badly damaged and containers are torn/crushed, but the status/location/condition of the biological samples is not confirmed.</promise>
+          <promise id="BIO_SAMPLES_COMPROMISE_OR_RELEASE" tentative="false" introduced="1">Because cargo was ripped open and containers are damaged, the earlier possibility that biological samples were compromised or released remains unresolved and potentially urgent.</promise>
+          <promise id="COORDINATES_MISMATCH_SECRET_MISSION" tentative="false" introduced="1">The earlier cockpit crosstalk ('coordinates don't match, we're not supposed to—') is still unexplained. The ship ended up on an unknown planet; whether they were diverted, off-course intentionally, or headed to a forbidden location remains open.</promise>
+          <promise id="NAVIGATION_FAILURE_CAUSE" tentative="false" introduced="1">Navigation/stabilizer/communications systems failed and atmospheric entry happened unexpectedly; the root cause (mechanical failure, external interference, sabotage, or deliberate action) is still unknown.</promise>
+          <promise id="STRANDED_ON_UNKNOWN_PLANET" tentative="false" introduced="2">Kira is explicitly stranded on an unknown alien world with breathable atmosphere, injured and alone; this sets the central survival/setting situation for upcoming scenes.</promise>
+          <promise id="SAM_DESTROYED_OR_OFFLINE" tentative="false" introduced="2">Kira's neural link to SAM returns silence and the passage implies the ship's AI is irretrievably offline or destroyed; this is now an established fact that will affect future ability to access ship systems or data.</promise>
+          <promise id="COMMS_DOWN_NO_IMMEDIATE_RESUE" tentative="false" introduced="2">The passage asserts there is no way to call for immediate help and Kira expects rescue will be delayed (rescue only triggered by failure to report at destination), establishing isolation and a long wait for outside assistance.</promise>
+          <promise id="CARGO_DAMAGE_AND_SUPPLIES_STATUS" tentative="true" introduced="2">Many containers are torn from restraints, some crushed or split open and supplies (terraforming gear, first-aid items) are scattered. The overall survivability of supplies/water/food/equipment is an open question Kira begins to assess.</promise>
+          <promise id="ALIEN_ENVIRONMENT_BREATHABLE_AND_STRANGE_FLORA" tentative="true" introduced="2">Through the hull breach Kira sees breathable atmosphere and unfamiliar vegetation (purple-ish trees). The planet's habitability, resources, and possible dangers are introduced but not yet explored.</promise>
+          <promise id="KIRA_SURVIVAL_RESOLVE_AND_RESOURCEFULNESS" tentative="true" introduced="2">Kira's internal decision to suppress grief, inventory her wounds and supplies, and actively treat herself establishes a character arc promise: she will attempt to survive using resourcefulness and the remaining gear.</promise>
+        </open>
+      </narrative-promises>
+      <facts>
+        <reasoning>I extracted only significant, long-term facts or state changes introduced in the passage that will affect continuity (survivor status, deaths, AI status, cargo damage, breathable atmosphere, available medical supplies, and expected rescue delay). I did not record transient details (Kira's immediate actions, pain, or exact layout) or repeat items already in the provided summary. I flagged no contradictions with previously established facts.</reasoning>
+        <established>
+          <fact id="CHANGE_JENSEN_DEAD">Jensen (the pilot who showed personal concern) is dead—found slumped over the controls with no pulse after the crash.</fact>
+          <fact id="CHANGE_REED_DEAD">Reed (crew/pilot) is dead—found still and unresponsive against the cockpit wall after the crash.</fact>
+          <fact id="CHANGE_SAM_OFFLINE_OR_DESTROYED">The ship AI SAM is offline/unavailable in Kira's neural link and is presumed fried or destroyed by the crash or systems failure.</fact>
+          <fact id="CHANGE_KIRA_SOLO_SURVIVOR">Kira appears to be the only surviving crew member aboard the shuttle at the crash site (the pilots are dead and the AI is gone).</fact>
+          <fact id="CHANGE_TERRAFORMING_CONTAINERS_DAMAGED_AND_SPILLED">At least one container of terraforming equipment was split open and its contents spilled across the cargo bay deck (cargo sustained significant damage).</fact>
+          <fact id="CHANGE_CONTAINER_CRUSHED_PRESSING_ON_LEGS">One cargo container was crushed nearly flat and was pinning Kira's legs before she freed herself (cargo caused crush injuries).</fact>
+          <fact id="CHANGE_EMERGENCY_KIT_CRUSHED">The mounted emergency kit near the cargo bay is crushed/destroyed in the wreck.</fact>
+          <fact id="CHANGE_FIRST_AID_SUPPLIES_SCATTERED_AND_ACCESSIBLE">First aid supplies from a broken container are scattered across the deck and are accessible to Kira (antiseptic, bandages, pressure pad present).</fact>
+          <fact id="CHANGE_PLANET_ATMOSPHERE_BREATHABLE_AT_CRASH_SITE">The atmosphere at the crash site is breathable (Kira is breathing air that has daylight and smells of smoke and a green, grassy note).</fact>
+          <fact id="CHANGE_ALIEN_FLORA_VISIBLE_PURPLE_TREES">There are visible alien trees (purplish coloration) outside the hull breach, indicating alien flora at the site.</fact>
+          <fact id="CHANGE_EXPECTED_RESUE_DELAY_WEEKS_TO_MONTHS">Kira expects she cannot call for immediate help and estimates that rescue (triggered by failure to report to destination) will take weeks to months to arrive.</fact>
+        </established>
+        <conflicts/>
+      </facts>
+      <timing>
+        <reasoning>
+          Reference point: previous passage ends at 2687-03-15T14:38, immediately after violent impact and blackout. The current passage begins when the POV character regains consciousness — cues: dark, pain, taste of blood, smell of smoke, awareness of weight on her legs, then deliberate assessment (legs, ribs, head), feeling a hole in the hull letting in daylight, and movement (wiggling free, dragging to cockpit, checking pilots). Those actions imply she was unconscious for a short period (seconds to a few minutes) and then conscious and mobile for a longer stretch of time while performing self-aid and scene assessment. The passage ends when she finishes applying a bandage, surveys surviving supplies, sees the planet through the hull, and resolves to survive — cues: finished bandage, planning next steps (water/food/shelter), emotional shift from panic/grief to determination.
+
+          Time estimates: regaining consciousness, assessing injuries, freeing herself from the cargo, crawling to the cockpit, checking the pilots, attempting to ping SAM, gathering and using first-aid supplies, and completing a bandage are actions that together plausibly occupy on the order of minutes to a few tens of minutes. A compact realistic window is roughly 5–20 minutes from impact to the end-state described. 
+
+          What likely happened in the gap from the previous passage: immediate blackout at impact, a short interval of unconsciousness, then regaining consciousness and performing the self-rescue and triage described (freeing leg, locating first-aid supplies, checking cockpit, determining pilots are dead/unresponsive, discovering SAM is offline, applying bandage, surveying the wreck and outside). 
+
+          Key timing cues from the text: ‘‘Silence. Darkness. Nothing’’ (blackout) → ‘‘Not dead… Dark. Pain everywhere…’’ (waking) → ‘‘There’s light coming from somewhere — a hole…’’ (some external damage and daylight visible) → physical actions (wiggling free, dragging to cockpit, checking pulses, opening first-aid kit, wrapping the leg) → finishing bandage and planning next steps (end of passage). 
+
+          Assessment of plausibility: overall plausible. A few points to note: regaining consciousness within a few minutes after a violent crash and being coherent enough to do methodical self-triage is believable for a survivor with non-fatal injuries and a mild-to-moderate concussion rather than a severe traumatic brain injury. Freeing a leg from a cargo container by wiggling and then immediately being able to crawl and operate small hand tasks (checking pulses, opening kit, wrapping) is plausible but depends on luck — the container shifting enough to free her is a fortunate but not impossible outcome after structural settling. Declaring both pilots dead after a manual pulse check is standard and quick to do. SAM being irreparably offline after the crash is consistent with catastrophic systems failure. The time to wrap a pressure bandage and gather scattered supplies fits comfortably within a 10–20 minute window. 
+
+          Minor caveats: if her head trauma were more severe, her coherent internal monologue and fine motor control might be less likely; similarly, moving large masses or clearing heavy debris would normally take more effort/time or require tools. None of these undermine plausibility, they just rely on the survivor having been fortunate (non-arterial leg wound, no spinal paralysis, cargo shifting free).
+        </reasoning>
+        <starts>~2687-03-15T14:40</starts>
+        <ends>~2687-03-15T14:55</ends>
+        <gap-from-previous>≈2 minutes (previous ended at 2687-03-15T14:38; blackout for seconds to a minute, then regaining consciousness and beginning self-triage). During the gap she was unconscious from the impact and then briefly re-awoke to assess and act.</gap-from-previous>
+        <plausibility>Plausible. The sequence — regain consciousness, self-assess, free a trapped limb, crawl to the cockpit, check pilots, find AI offline, retrieve scattered first-aid supplies and apply a pressure bandage — can reasonably occur within ~5–20 minutes after impact. The main assumptions are: the protagonist sustained non-life‑immediately-fatal injuries (no massive arterial bleed or catastrophic brain injury), the cargo shifted enough to free her leg (fortunate but possible), and ship systems were catastrophically damaged (explaining SAM's silence). If her head trauma were severe or the leg wound arterial, the scene would be less plausible without additional help or more time.</plausibility>
+      </timing>
+      <characters>
+        <reasoning>Kira Voss is the narrator and on-scene throughout the passage. Jensen and Reed are mentioned and found dead, and SAM (the AI) and Mav (Maverick Stone/Uncharted) are referenced, but none of those names correspond to the provided character cards. No other available characters enter or exit during this passage. Relevant entities: the passage references the TV show Uncharted (Mav/Maverick Stone) and an unknown/alien planet (the scene takes place on an uncharted alien world), matching the provided entity cards.</reasoning>
+        <present>
+          <character ref="/world/characters/Kira_Voss.card"/>
+        </present>
+        <entities>
+          <entity ref="/world/entities/Sector_7-Gamma-412_Planet.card"/>
+          <entity ref="/world/entities/Uncharted_with_Maverick_Stone.card"/>
+        </entities>
+      </characters>
+      <story-so-far>
+        <reasoning>The passage confirms the crash and gives concrete outcomes that must replace the previous implication of a blackout. I will add Kira's survival, her injuries, her escape from being pinned under a cargo container, and her discovery that both pilots (Jensen and Reed) are dead. I will record that the shipboard AI (SAM) is offline/unresponsive, that the cargo bay and emergency kit are heavily damaged but scattered first-aid supplies remain, and that Kira bandages her leg. I will note that there is breathable atmosphere and alien vegetation visible through a hull breach and that Kira is effectively stranded with no immediate communications—rescue will likely take weeks or months. I will consolidate earlier technical-detail bullets (navigation/stabilizers failures, extreme descent, cargo impact) into a single concise crash-causing-failures bullet and remove speculative wording that the earlier passage implied rather than confirmed. I will keep the manifest detail about the biological-samples temperature fluctuation because it remains a potential plot element.</reasoning>
+        <summary>
+          - Kira Voss is the cargo handler on a shuttle delivering three cargo containers of mining equipment, two containers of terraforming supplies, and one labeled “Biological Samples — Temperature Controlled”; that biological container showed a temperature fluctuation on her manifest.
+          - During approach to Vega Station the cockpit crew (Jensen and Reed) argued about unexpected coordinates and a mismatch in the flight plan.
+          - The shuttle suffered multiple critical failures (navigation and stabilizers offline, alarms for an incorrect atmospheric entry angle), came in at an extreme ~40° descent, and something in the cargo bay broke free and struck the hull.
+          - The shuttle crashed after extreme heating and structural stress.
+          - Kira survived but was pinned under a cargo container; she freed herself, assessed injuries, and found the cargo bay wrecked with some first-aid supplies scattered despite the emergency kit being crushed.
+          - Kira reached the cockpit and discovered Jensen and Reed unresponsive/deceased.
+          - Shipboard AI SAM is unresponsive/offline; Kira cannot access onboard AI assistance or immediate communications.
+          - Kira applied a pressure bandage to a bleeding leg wound and plans to inventory supplies (water, food, shelter) to survive until rescue.
+          - Through a hull breach Kira sees breathable atmosphere and alien vegetation (purple-tinged trees); she is stranded on an unknown planet and expects rescue could take weeks or months.
+        </summary>
+      </story-so-far>
+      <emotional-journey>
+        <reasoning>POV feelings: Kira moves through a tight sequence of emotions — immediate relief and disbelief at surviving, rapid bodily-focused assessment that channels panic into methodical thinking, a sharp collapse into grief and isolation on confirming Jensen, Reed, and SAM are dead, and then a forced pivot into pragmatic determination and a flicker of wonder at the alien world. Her feelings are driven by physical pain, the loss of human and AI companions, and an urgent survival imperative. Reader experience: the reader rides the same oscillation — initial exhale that she lives, then a gut-punch of loss when the pilots and AI are confirmed dead, then a slow-building tension as she organizes herself to survive. The overall experience is intimate and immediate: we're close to Kira's inner monologue, so the emotional shifts land viscerally. Multiple beats vs single tone: there are multiple distinct beats — relief/acceptance, grief/dread/isolation, then resolution/determination with a hint of wonder. Compared to the emotional pattern so far: the passage continues the established arc from the earlier crash beats (suspense and dread) but moves past raw helplessness into active survival. Previously Kira had a moment of vulnerable acceptance facing possible death; here she actually survives and shows the next stage — processing loss and making survival choices. Surprises: nothing in this passage is a strong structural surprise given the prior setup — the confirmation of dead pilots and a fried AI is emotionally devastating but consistent with the crash. No deliberate hidden secret is revealed, and no main character acts out of character. Character growth: Kira shifts from stunned, near-panic vulnerability to purposeful actor — she runs a medical inventory, improvises despite injury, suppresses immediate grief to prioritize survival, and reframes the catastrophe into the beginning of an 'adventure.' That is a substantive inward change: she discovers reserve and commits to survival, showing 'strength-discovered' and a refusal to be paralyzed by grief.</reasoning>
+        <beats>
+          <beat tags="acceptance, relief">Immediate, raw relief and disbelief when she realizes she's not dead. The POV experiences a small, almost incredulous gratitude that she survived the impact despite severe pain and incapacitation; the reader shares a quick cathartic exhale with her.</beat>
+          <beat tags="dread, grief">Hollow, crushing grief and dread when she finds Jensen and Reed unresponsive and discovers SAM is gone. The beat shifts to isolation and the loss of the only emotional anchors aboard—this is where the scene's emotional weight concentrates and the reader feels the full horror and loneliness alongside Kira.</beat>
+          <beat tags="determination, hope">A pragmatic, determined survival beat: Kira runs a self-assessment, scavenges first aid, and forces herself to prioritize action over despair. Mixed with the determination is a small, bittersweet wonder at the alien landscape — a sliver of the longing/hope that framed her earlier daydreams, now reframed as necessity. The reader shifts from mourning to a tense, cautious investment in her ability to survive.</beat>
+        </beats>
+        <character-development>
+          <development character="Kira Voss" tag="strength-discovered">Moves from stunned vulnerability toward active survival. She measures injuries, improvises first aid, forces herself to defer grief, and reframes the disaster as a problem she can solve. This reveals inner resourcefulness and a decision to act rather than capitulate to despair.</development>
+        </character-development>
+      </emotional-journey>
+    </summary>
+  </version>
+</versions>

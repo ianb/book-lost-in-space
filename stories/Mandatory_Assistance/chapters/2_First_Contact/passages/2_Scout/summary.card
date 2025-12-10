@@ -1,0 +1,104 @@
+<!-- Generated automatically, do not edit except with ske gen summaries -->
+<summary version="3.1.0">
+  <sources>
+    <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/2_Scout/passage#v3.1.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/passage#v4.1.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/2_Aftermath/passage#v2.0.2"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/3_Buddy_Arrives/passage#v2.0.1"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/4_Taking_Stock/passage#v2.1.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/1_Into_the_Purple/passage#v3.0.0"/>
+  </sources>
+  <narrative-promises>
+    <reasoning>This passage converts earlier atmospheric hints about mobile flora and a charged, watched silence into explicit first contact: a moving plant-sphere approaches, inspects Kira, backs off when she flinches, and then signals others (rustling in the canopy). I treated any prior promise that directly described moving/curious plants or a first-contact setup as paid off. No earlier ship/cargo/long-range mysteries were contradicted, so they remain active. Several new, concrete story hooks are introduced by the encounter itself: the presence of a plant community responding to the plant-ball, the plant's apparent helpful interest in Kira's wound, and the plants' responsiveness to her behavior. I marked as tentative the soft, speculative inferences (e.g., whether the plants can actually help heal wounds), and as firm the observed behaviors (group approach, sensitivity to flinching). I found no prior promises that were clearly abandoned or made irrelevant by the passage, so LAPSED_PROMISES is empty.</reasoning>
+    <fulfilled>
+      <promise id="MOBILE_FLORA_OBSERVABLE">Previously suggested canopy structures were moving/tracking Kira; here we see a discrete mobile plant-sphere actively moving, tracking, and interacting—confirming mobile flora are present and observable.</promise>
+      <promise id="PLANTS_SHOW_CURIOUS_INTENT">Earlier soft hint that plants behaved as if curious is paid off: the plant-sphere approaches, inspects, hesitates, and behaves like an investigating/curious agent.</promise>
+      <promise id="SENSE_OF_BEING_WATCHED_FIRST_CONTACT_SETUP">The charged, watched quiet that set up imminent first contact is resolved into an actual first-contact encounter with a plant-sphere and the indication of more approaching.</promise>
+    </fulfilled>
+    <open>
+      <promise id="BIO_SAMPLES_TEMPERATURE_FLUCTUATION" tentative="false" introduced="1">Glowing biological-samples container previously flagged for temperature/power problems remains unresolved and could still affect power/safety decisions.</promise>
+      <promise id="BIO_SAMPLES_COMPROMISE_OR_RELEASE" tentative="false" introduced="1">Damaged cargo and the glowing cooler create an unresolved risk that biological samples were compromised or released; nothing in this passage changes that risk.</promise>
+      <promise id="COORDINATES_MISMATCH_SECRET_MISSION" tentative="false" introduced="1">Earlier hints of coordinate/route discrepancies or hidden mission details remain unexplained and relevant to why the shuttle/crew are here.</promise>
+      <promise id="NAVIGATION_FAILURE_CAUSE" tentative="false" introduced="1">The root cause of the shuttle's navigation/communications/stabilizer failure (mechanical, interference, or sabotage) has not been revealed.</promise>
+      <promise id="STRANDED_ON_UNKNOWN_PLANET" tentative="false" introduced="2">Kira remains injured and stranded on an uncharted but breathable world; survival stakes and choices driven by this status continue.</promise>
+      <promise id="CARGO_DAMAGE_AND_SUPPLIES_STATUS" tentative="true" introduced="2">The exact state of mission supplies (what survived, what is mission-critical) is still unresolved and will affect survival decisions.</promise>
+      <promise id="BUDDY_CHILDLIKE_PERSONA" tentative="false" introduced="3">Buddy's childlike, enthusiastic persona continues to shape the scene and decisions in the field.</promise>
+      <promise id="BUDDY_LACKS_ALIEN_PLANET_KNOWLEDGE" tentative="false" introduced="3">Buddy still lacks hard data about the planet and cannot identify local hazards; that limitation remains relevant to problem-solving.</promise>
+      <promise id="BUDDY_PARTNERSHIP_AND_EMOTIONAL_SUPPORT" tentative="false" introduced="3">Buddy's emergent partnership and morale support for Kira continues to play a role in choices and tone.</promise>
+      <promise id="BUDDY_WILL_AFFECT_TONE_AND_STRATEGY" tentative="true" introduced="3">Buddy's framing (excited, treasure-hunt lens) continues to alter tone and could influence tactical choices going forward.</promise>
+      <promise id="NEARBY_FRESH_WATER_SOURCE" tentative="false" introduced="4">The stream ~800 meters away remains the immediate objective; Kira has not yet reached it.</promise>
+      <promise id="LIFE_SUPPORT_EMERGENCY_POWER_48_HOURS" tentative="false" introduced="4">Shuttle life-support is still on emergency power with limited duration; that time constraint continues to pressure choices.</promise>
+      <promise id="RESCUE_ESTIMATE_DELAYED_LONG" tentative="true" introduced="4">Buddy's earlier estimate that detection/recovery will take a long time (weeks or longer) remains an unresolved pressure on survival decisions.</promise>
+      <promise id="ALIEN_PLANTS_POTENTIALLY_NONEDIBLE" tentative="true" introduced="4">The edibility/biocompatibility of local plants remains untested; although plants are interacting, nothing confirms they are safe to consume.</promise>
+      <promise id="BIO_SAMPLES_POWER_DRAIN_CONSTRAINT" tentative="false" introduced="4">The glowing biological-samples cooler still consumes power that can't be shut down—an unresolved tradeoff between preserving samples and saving power.</promise>
+      <promise id="KIRA_WILL_TRAVEL_800M_ON_INJURED_LEG" tentative="false" introduced="4">Kira committed to traversing ~800 meters to the stream while injured; she is en route and her mobility remains a live problem.</promise>
+      <promise id="ALIEN_FOREST_LIGHT_ANOMALY" tentative="true" introduced="5">The perpetual-twilight / narrow purple spectral filtering of the forest remains an unusual environmental factor that may have physiological or ecological consequences.</promise>
+      <promise id="ECOSYSTEM_ABSENCE_OF_FAUNA" tentative="true" introduced="5">The earlier observation of striking silence and lack of audible fauna remains an ecological mystery—this passage shows plant life but does not resolve whether animals exist or how the ecosystem functions.</promise>
+      <promise id="FOREST_FLOOR_MANAGED_PATTERN" tentative="true" introduced="5">The unusually clear, easy-to-walk forest floor (as if managed) remains unexplained—still could be ecological or agent-driven.</promise>
+      <promise id="LEG_BANDAGE_SEEPING_WORSENING" tentative="false" introduced="5">Kira's bandage is still seeping and her pain flares; the wound's condition and risk (mobility loss, infection) remains unresolved.</promise>
+      <promise id="PLANT_COMMUNITY_APPROACH_IMMINENT" tentative="false" introduced="6">The plant-sphere orients toward the trees and rustling indicates more individuals are responding and approaching—imminent group-level contact is now likely.</promise>
+      <promise id="PLANT_HELPFUL_INTERACTION_WITH_WOUNDS" tentative="true" introduced="6">The plant-sphere extended a tendril toward Kira's bandage and focused on the wound, suggesting plants may investigate or attempt to assist/influence injuries (healing or diagnostic), but this is not yet demonstrated.</promise>
+      <promise id="PLANT_RESPONDS_TO_HUMAN_BEHAVIOR" tentative="false" introduced="6">The plant immediately backed off when Kira flinched, indicating these organisms perceive human reactions and modify behavior in response—an observed, actionable trait for future encounters.</promise>
+    </open>
+  </narrative-promises>
+  <facts>
+    <reasoning>This passage introduces a new, significant element of the planet’s biosphere: mobile, sentient plant-organisms (spherical "plant balls") that interact with humans in a curious and apparently non‑aggressive way. These facts matter long-term because they affect survival options (potential allies or medical assistance), how Kira will move through and interact with the environment, Buddy’s usefulness (Buddy’s database lacks relevant references), and future contact / diplomacy beats. Also the spheres originate in the canopy and travel in groups, so the forest is not only populated by static plants — that changes expectations about the ecosystem and possible encounters. None of these statements simply describe a transient action; they establish recurring creatures, behaviors, and relationships that should be remembered later.</reasoning>
+    <established>
+      <fact id="CHANGE_PLANT_SPHERE_DISCOVERED">Kira encountered a spherical, mobile plant organism (a "plant ball") — about basketball-sized, brownish-green and fuzzy, composed of woven branches/leaf-like material.</fact>
+      <fact id="CHANGE_PLANT_SPHERE_MORPHOLOGY_TENDRIL_AND_SURFACE">The plant sphere's surface moves and pulses; it can extend thin tendrils and rearrange tiny branches on its surface.</fact>
+      <fact id="CHANGE_PLANT_SPHERE_BEHAVIOR_CURIOUS_NONAGGRESSIVE">The plant sphere exhibits deliberate, curious behavior (bouncing/hopping, rolling, circling to observe) and is not aggressive toward Kira.</fact>
+      <fact id="CHANGE_PLANT_SPHERE_RESPONDS_TO_HUMAN_CUES">The plant sphere reacted to Kira's flinch by retreating several meters and giving space, indicating sensitivity to human movement and an ability to modify behavior accordingly.</fact>
+      <fact id="CHANGE_PLANT_SPHERE_INVESTIGATES_INJURY_POSSIBLE_AIDING">The plant extended a tendril toward Kira's bandaged leg—interpreted as investigation or an attempt to help—indicating the organisms can detect and respond to injury.</fact>
+      <fact id="CHANGE_PLANT_SPHERES_SOCIAL_AND_CANOPY_ORIGIN">The sphere signaled/oriented toward the canopy and other movement/noise approached; there are multiple similar organisms active in the canopy that can be mobilized/are moving toward a focal point.</fact>
+      <fact id="CHANGE_FIRST_CONTACT_CONFIRMED">Kira has made direct first contact with indigenous life on the planet and perceives a moment of mutual recognition, marking a significant human–planet relationship moment.</fact>
+    </established>
+    <conflicts/>
+  </facts>
+  <timing>
+    <reasoning>The new passage picks up immediately where the previous one left off: the protagonist is already in the forest, alert, and following a moving presence in the trees. There are no scene breaks, time jumps, or explicit clock readings in the text—events unfold in continuous present-tense action (stop, observe, sphere drops, approach, interaction, other rustling). The strongest authoritative time cue is the provided previous passage end time (2687-03-15T19:45), so the most defensible start for this passage is the same moment. The sequence of events (object falls, several bounces/approaches, a brief crouch, a startled flinch and recovery, exchange, then the object departs and others are heard approaching) is short and contained; all of it plausibly takes only a few minutes. I estimate roughly 3–5 minutes for the whole interaction, so I place the passage end about four minutes after the start. I note a minor discrepancy in the metadata: the previous passage summary lists ~2687-03-15T19:20, but the authoritative previous-outline-timing gives 2687-03-15T19:45; I used the authoritative 19:45 timestamp as the reference. The characters' actions (crouching, flinching, brief conversation, observing the plant-sphere, then it departing) fit easily within a multi-minute window; no implausible travel distances or actions are required during this interval.</reasoning>
+    <starts>2687-03-15T19:45</starts>
+    <ends>2687-03-15T19:49</ends>
+    <gap-from-previous>none — immediate continuation from the previous passage (0–1 minutes). The action flows directly from the prior scene; no off-screen tasks or travel are implied between passages.</gap-from-previous>
+    <plausibility>Plausible. The interaction described (object dropping, close-range approach, a few exchanges, a reflexive flinch and recovery, then the object departing and other rustling approaching) can reasonably occur in a 3–5 minute window. The protagonist's limited movement and pain from the leg wound also align with a short timespan. The only potential confusion is the earlier summary timestamp (~19:20) which conflicts with the authoritative previous-outline-timing (19:45); using the authoritative 19:45 makes the immediate continuation clear and entirely plausible.</plausibility>
+  </timing>
+  <characters>
+    <reasoning>The passage is narrated and centered on Kira Voss (first-person) and Buddy (speaking companion). No other named characters from the provided character list appear or speak. The internal reference to “Mav” / Maverick is mentioned but there is no corresponding character card in the available list, so it is not included. The plant sphere and other alien life are described but are not in the character list. The scene takes place on an alien world, so the Sector_7-Gamma-412 planet entity is relevant. No new listed characters enter during the scene and none of the listed characters leave before the passage ends.</reasoning>
+    <present>
+      <character ref="/world/characters/Kira_Voss.card"/>
+      <character ref="/world/characters/Buddy.card"/>
+    </present>
+    <entities>
+      <entity ref="/world/entities/Sector_7-Gamma-412_Planet.card"/>
+    </entities>
+  </characters>
+  <story-so-far>
+    <reasoning>The new passage contains a clear, plot-relevant first-contact event with an alien plant organism and confirms there are multiple such organisms in the canopy. I added a bullet describing the encounter (sphere-shaped sentient plant, curious behavior, attempted contact with Kira's injured leg, Kira flinched, the creature retreated and then left toward approaching others). I consolidated earlier atmospheric description into a single bullet that notes the forest is plant-dominated with no detectable animal life (the previous color/texture details are not plot-essential). I kept existing critical logistics (crash, casualties, SAM offline, Buddy online, supplies, life support time, active biological container, freshwater stream, Kira's worsening leg) and placed the new first-contact bullets in chronological order. I removed extraneous sensory adjectives and repeated environmental minutiae that don't affect future plot developments.</reasoning>
+    <summary>
+      - Shuttle carrying mining/terraforming supplies and a temperature-sensitive container labeled 'Biological Samples' suffered a failure during approach; cargo broke loose, struck the hull, and the shuttle crashed; Kira Voss survived; pilots Jensen and Reed are deceased.
+      - Shipboard AI SAM is offline; an emergency system activated Kira's neural link and brought a childlike assistant AI called Buddy online.
+      - Hull breach exposed breathable atmosphere and alien vegetation; shuttle is a temporary shelter and rescue is uncertain (weeks to months); communications and distress beacon are broken.
+      - Salvageable supplies include three sealed water containers (~3 days), seven days of food rations, medical supplies and some damaged tools.
+      - Life support is on emergency power with roughly 48 hours remaining; the biological samples container remains active, glowing and drawing power but cannot be shut down.
+      - Buddy's external scan located a freshwater stream ~800 meters southwest; Kira gathered gear and left the shuttle to reach it despite a worsening leg wound (bandage seeping).
+      - The alien forest appears plant-dominated with no detectable animal life; Kira detected deliberate movement in the canopy and proceeded cautiously.
+      - A spherical, sentient plant creature (a "plant ball") dropped from the canopy and approached Kira, displaying deliberate, curious movement and circling her.
+      - The plant extended a tendril toward Kira's injured leg; Kira flinched, the creature retreated, then cautiously re-approached before orienting back toward the trees and departing.
+      - More movement and rustling in the canopy indicate additional plant creatures approaching; Kira and Buddy recognize this as first contact.
+    </summary>
+  </story-so-far>
+  <emotional-journey>
+    <reasoning>POV feelings: Kira experiences a rush of astonished joy and curiosity at what she immediately interprets as "first contact," quickly layered with animal fear when the unknown reaches toward her injured leg. That fear is visceral and reflexive—she flinches, experiences pain and embarrassment—then softens into relief, apology, and a renewed openness as she recognizes the plant's gentleness. The reader rides that same arc: initial wonder (a payoff after the buildup of alien-plant weirdness), a spike of suspense/fear at the tendril, then relief and a warm, intimate moment of interspecies recognition. There are multiple beats rather than a single tone: wonder/joy, a sharp vulnerable fear, then relief/acceptance/intimacy. Compared to the emotional pattern so far, this passage continues and deepens the story's recurring wonder at the world but flips the earlier unease about the plants into a surprising benignity—so dread is defused rather than escalated. The passage also reinforces the Kira–Buddy partnership (Buddy as excited witness) and advances Kira's personal arc: she confronts a reflexive fear, admits embarrassment, and chooses to re-engage with curiosity rather than retreat. The main surprise for the reader is the reversal of the plants' apparent menace into helpful curiosity: the environment that had felt watchful now approaches with deliberate, nonthreatening intent. No deliberate secret is revealed, and no established character behaves out-of-character; the surprise is primarily a world/reversal effect.</reasoning>
+    <beats>
+      <beat tags="wonder, joy">Kira's immediate reaction to the spherical plant is exhilaration and awe—she recognizes the moment as 'first contact' and literally grins. The reader experiences a bright uplift after prior tension: a cathartic magical moment that reframes the alien flora as potentially social rather than merely hostile or alien.</beat>
+      <beat tags="fear, vulnerability">When a tendril reaches toward Kira's bandage she flinches violently, pain and instinctual fear dominating her body. This is a raw, animal beat: Kira's reflex betrays her explorer persona. The reader feels sudden suspense and sympathetic embarrassment—the scene's tension peaks here.</beat>
+      <beat tags="acceptance, intimacy">Upon seeing the plant back away and apparently respond to her flinch, Kira softens, apologizes, and chooses to re-engage—crouching, speaking, and accepting curiosity in return. The moment becomes intimate and conciliatory; the reader moves from anxiety to relief and a warm sense of connection across species.</beat>
+    </beats>
+    <surprises>
+      <surprise tags="world, reversal">Given the previous quiet, watchful forest and hints that plants were 'tracking' Kira, the reader is likely primed to expect threat. Instead the plant-sphere is curious and even caretaking—approaching to inspect and (apparently) tend toward her injury. That flips the earlier expectation that the flora are hostile or merely eerie and reframes the environment as capable of benign, active engagement.</surprise>
+    </surprises>
+    <character-development>
+      <development character="Kira Voss" tag="fear-confronted">Kira reveals the gap between her idealized explorer identity and her human instincts: she flinches and is embarrassed, but she immediately owns it, apologizes, and chooses to re-engage with the alien life. That sequence is a small but clear emotional growth—she tolerates vulnerability and converts it into curiosity rather than retreat.</development>
+      <development character="Kira Voss" tag="trust-built">By deliberately crouching, speaking gently, and forgiving herself for flinching, Kira extends trust to an unknown life-form. The moment deepens her capacity to build connection rather than default to defensive isolation—reinforcing her emergent explorer/bridge identity.</development>
+    </character-development>
+  </emotional-journey>
+</summary>
