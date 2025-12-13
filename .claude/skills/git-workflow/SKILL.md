@@ -32,7 +32,7 @@ By `ske validate`:
 - TODO reference fixes
 
 By `ske snapshot`:
-- Version archives (`.history.card` files)
+- Version archives (`.cardhistory` files)
 - Cleared reasoning fields
 - Version bumps
 

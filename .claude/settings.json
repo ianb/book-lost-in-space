@@ -1,10 +1,32 @@
 {
   "permissions": {
     "allow": [
-      "Skill(*)",
+      "Skill",
       "Bash(ske:*)",
       "Bash(find:*)",
       "Bash(grep:*)"
+    ],
+    "deny": [
+      "Edit(*.cardhistory)",
+      "Write(*.cardhistory)",
+      "Edit(*.json)",
+      "Write(*.json)"
     ]
-  }
+  },
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Write|Edit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "ske lint"
+          }
+        ]
+      }
+    ]
+  },
+  "projectAnnouncements": [
+    "Your ske environment was initialized on December 13, 2025"
+  ]
 }

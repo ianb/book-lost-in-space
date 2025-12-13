@@ -64,7 +64,7 @@ ske todo mark path/to/card.card#/T1 ignored -m "No longer needed"
 | `ignored` | Won't do | **Removed from card** |
 | `invalid` | No longer applicable | **Removed from card** |
 
-When marked done/ignored/invalid, the todo is immediately removed from the card. The history remains in `.history.card` if the card was snapshotted while the todo existed.
+When marked done/ignored/invalid, the todo is immediately removed from the card. The history remains in `.cardhistory` if the card was snapshotted while the todo existed.
 
 ### Complete Todos During Snapshot
 

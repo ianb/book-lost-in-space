@@ -5,31 +5,18 @@ description: Creating passages with ske create, filling placement/outline/passag
 
 # Creating Passages
 
-## Command
+Follow CARD_EDIT_LOOP for each card. Order of creation:
 
-```bash
-ske create /stories/Story_Name/chapters/1_Chapter/passages/1_Scene_Name
-```
+1. `ske create /stories/Story_Name/chapters/1_Chapter/passages/1_Scene_Name`
+2. Fill passage-placement.card (maps to chapter scenes)
+3. Fill outline.card (goals, beats, act)
+4. Fill passage.card (the prose itself)
 
-Creates: passage-placement.card, outline.card, passage.card
+## Writing passage.card
 
-## When to Create
-
-- **passage-placement.card**: Create after chapter-placement.card (for chapter passages) or story-acts.card (for story-level passages) but before outline.card.
-- **outline.card**: Build after scene outlines but before drafting prose. Update when passages change beats or when new branches are added.
-- **passage.card**: Create or update a passage after its outline is approved. Revise whenever prose, timeline, or choice structure changes.
-
-## Workflow Strategy
-
-1. **Map to chapter scenes** - passage-placement.card
-2. **Plan the passage** - outline.card (goals, beats, act)
-   - Use `ske instructions` for field guidance
-   - Ask user if passage goals are unclear
-3. **Write the prose** - passage.card
-   - Fill `<reasoning>` FIRST (voice, tone, key moments)
-   - Check narrative-guide for POV, length bounds, tone
-   - Check writing-samples for voice consistency
-   - Use `ske instructions` for field details
+Before writing prose, check:
+- narrative-guide.card for POV, tone, length bounds
+- writing-samples.card for voice consistency
 
 ## When to Confirm with User
 

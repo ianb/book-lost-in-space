@@ -9,7 +9,7 @@ Voice configuration in `story-info.card` controls text-to-speech audio generatio
 
 ## Three Voice Fields
 
-Use `ske instructions /stories/StoryName/story-info.card` for complete voice list and field details.
+Edit story-info.card to configure voice settings. The rules provide guidance on available options.
 
 ### `<voice>` - Voice Selection
 
@@ -47,6 +47,28 @@ Simpler, neutral style for headings. Keep clear and steady, avoid drama. 1-2 sen
 - Tone shifts (minor bump)
 - POV character changes (major bump)
 - Fine-tuning (patch bump)
+
+## Per-Passage Voice Override
+
+Override story-level voice settings for individual passages using `<voice-override>` in passage.card:
+
+```xml
+<voice-override>
+  <voice>onyx</voice>
+  <voice-style>Affect: deep, authoritative. Tone: ominous. Pacing: slow.</voice-style>
+  <notes>This passage has a dreamlike quality—read with softer, distant tone.</notes>
+</voice-override>
+```
+
+All subtags are optional—include only what you need:
+- `<voice>`: Different TTS voice for this passage
+- `<voice-style>`: Different performance style
+- `<notes>`: Instructions for stage directions (passed to AI during passage-voice generation)
+
+**Use cases**:
+- Different character takes over narration
+- Applying critique feedback to narration (use `<notes>`)
+- Special tone for flashbacks, dreams, or dramatic moments
 
 ## Audio Generation Workflow
 

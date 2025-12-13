@@ -17,7 +17,7 @@ critiques/
 └── done/           # Completed (kept for reference)
 ```
 
-Note: `ignored` and `invalid` critiques are deleted (after archiving in `.history.card`).
+Note: `ignored` and `invalid` critiques are deleted (after archiving in `.cardhistory`).
 
 ## Commands
 

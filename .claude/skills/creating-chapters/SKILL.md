@@ -5,29 +5,16 @@ description: Creating chapters with ske create, organizing scenes, and chapter p
 
 # Creating Chapters
 
-## Command
+Prerequisite: story outlines exist (story-arc.card, story-acts.card)
 
-```bash
-ske create /stories/Story_Name/chapters/1_Chapter_Title
-```
+Follow CARD_EDIT_LOOP for each card. Order of creation:
 
-Creates: chapter.card, chapter-placement.card
+1. `ske create /stories/Story_Name/chapters/1_Chapter_Title`
+2. Fill chapter.card (chapter metadata)
+3. Fill chapter-placement.card (maps acts to chapter, breaks into scenes)
+4. Create passages: `ske create .../passages/1_Scene_Name`
 
-## Prerequisites
-
-Story outlines must exist first (story-arc, story-acts).
-
-## When to Create
-
-- **chapter.card**: Define chapter metadata after establishing outline acts and major beats. Update when reordering passages or renaming the chapter.
-- **chapter-placement.card**: Create after story-acts.card is complete but before writing passages. Update when story acts change or chapter structure is revised.
-
-## Workflow Strategy
-
-1. **Fill chapter.card** - Use `ske instructions` for fields
-2. **Map acts to chapter** - chapter-placement.card
-3. **Break into scenes** - chapter-placement.card (typical: 3-7 scenes)
-4. **Create first passage**: `ske create .../passages/1_Scene_Name`
+Typical: 3-7 scenes per chapter.
 
 ## When to Confirm with User
 

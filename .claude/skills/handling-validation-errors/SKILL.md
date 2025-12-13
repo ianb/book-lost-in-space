@@ -51,7 +51,7 @@ Multiple passages marked as concluding chapter in Chapter_Name
 <field-name> must be one of: value1, value2, value3 (got "invalid")
 ```
 
-**Fix**: Check `ske instructions` for the file to see allowed values for that field.
+**Fix**: Check the field's allowed values in the cardspec or Claude rules when editing the file.
 
 ## Common Warnings
 

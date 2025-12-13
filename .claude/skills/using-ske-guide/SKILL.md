@@ -65,6 +65,6 @@ If path exists, shows:
 2. Pick a task from the list
 3. Run: `ske guide [path]` for that specific task
 4. If blocked, resolve prerequisites first
-5. If ready, run: `ske instructions [path]`
-6. Make edits, snapshot, validate
+5. Edit the file (rules provide guidance automatically)
+6. Snapshot, validate
 7. Return to step 1
