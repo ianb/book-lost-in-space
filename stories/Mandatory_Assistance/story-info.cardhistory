@@ -1,0 +1,64 @@
+<!-- this file is automatically managed by ske validate; do not edit -->
+<versions>
+  <version number="1.0.0" archived-at="2025-11-27T16:02:34.786Z">
+    <story-info version="1.0.0">
+      <reasoning-story-info>
+        <!-- For instructions on filling out reasoning: ske instructions stories/Mandatory_Assistance/story-info.card -->
+      </reasoning-story-info>
+      <title>Mandatory Assistance</title>
+      <pov-character ref="/world/world/world/characters/Kira_Voss.card" role="protagonist"/>
+      <opening-situation>TBD</opening-situation>
+      <voice>TBD</voice>
+      <voice-style>TBD</voice-style>
+      <changelog-entry>
+        <!-- Each time you change this file add a description of what AND WHY you made changes to this element -->
+      </changelog-entry>
+    </story-info>
+  </version>
+  <version number="2.0.0" archived-at="2025-11-27T16:22:06.715Z">
+    <story-info version="2.1.0">
+      <reasoning-story-info>
+        <!-- For instructions on filling out reasoning: ske instructions stories/Mandatory_Assistance/story-info.card -->
+      </reasoning-story-info>
+      <title>Mandatory Assistance</title>
+      <pov-character ref="/world/world/world/characters/Kira_Voss.card" role="protagonist"/>
+      <opening-situation>
+        The cargo ship's alarms are screaming. In the brief, chaotic moments before impact, the pilots—arrogant but professional—get Kira secured in the safest part of the ship before returning to their stations. The crash kills them both. When Kira wakes in the wreckage, injured and alone with limited supplies and no way to call for help, the plants start talking to her about workplace safety protocols.
+        <voice>marin</voice>
+        <voice-style>Affect: earnest, chatty, enthusiastic, curious. Tone: warm and optimistic, gently self-deprecating. Pacing: natural but gets faster when nervous or excited, with occasional tangents and self-corrections.</voice-style>
+        <changelog-entry version="2.1.0">
+          Updated opening to show the crash scene where the pilots secure Kira before dying—establishing they were professional despite being assholes, and giving Kira complicated feelings about their deaths
+        </changelog-entry>
+      </opening-situation>
+    </story-info>
+  </version>
+  <version number="2.1.0" archived-at="2025-11-27T18:19:51.942Z">
+    <story-info version="2.1.0">
+      <reasoning-story-info>
+        <!-- For instructions on filling out reasoning: ske instructions stories/Mandatory_Assistance/story-info.card -->
+      </reasoning-story-info>
+      <title>Mandatory Assistance</title>
+      <pov-character ref="/world/world/world/characters/Kira_Voss.card" role="protagonist"/>
+      <opening-situation>The cargo ship's alarms are screaming. In the brief, chaotic moments before impact, the pilots—arrogant but professional—get Kira secured in the safest part of the ship before returning to their stations. The crash kills them both. When Kira wakes in the wreckage, injured and alone with limited supplies and no way to call for help, the plants start talking to her about workplace safety protocols.</opening-situation>
+      <voice>marin</voice>
+      <voice-style>Affect: earnest, chatty, enthusiastic, curious. Tone: warm and optimistic, gently self-deprecating. Pacing: natural but gets faster when nervous or excited, with occasional tangents and self-corrections.</voice-style>
+      <changelog-entry version="2.1.0">Updated opening to show crash scene with pilots saving Kira</changelog-entry>
+    </story-info>
+  </version>
+  <version number="2.2.0" archived-at="2025-12-04T18:26:36.981Z">
+    <changelog-entry>
+      <message>catching up on missed snapshots</message>
+    </changelog-entry>
+    <story-info version="2.2.0">
+      <reasoning-story-info>
+        <!-- For instructions on filling out reasoning: ske instructions stories/Mandatory_Assistance/story-info.card -->
+      </reasoning-story-info>
+      <title>Mandatory Assistance</title>
+      <visibility>public</visibility>
+      <pov-character ref="/world/world/characters/Kira_Voss.card" role="protagonist"/>
+      <opening-situation>The cargo ship's alarms are screaming. In the brief, chaotic moments before impact, the pilots—arrogant but professional—get Kira secured in the safest part of the ship before returning to their stations. The crash kills them both and destroys Kira's neural-link AI companion. When Kira wakes in the wreckage, injured and alone, the emergency system assigns her Buddy—a kids' educational AI—as a replacement. Now she's got limited supplies, no way to call for help, an overly-cheerful AI treating her like a child, and the plants start talking to her about workplace safety protocols.</opening-situation>
+      <voice>marin</voice>
+      <voice-style>Affect: earnest, chatty, enthusiastic, curious. Tone: warm and optimistic, gently self-deprecating. Pacing: natural but gets faster when nervous or excited, with occasional tangents and self-corrections.</voice-style>
+    </story-info>
+  </version>
+</versions>

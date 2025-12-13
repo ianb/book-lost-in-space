@@ -1,0 +1,29 @@
+<!-- this file is automatically managed by ske validate; do not edit -->
+<versions>
+  <version number="1.0.0" archived-at="2025-12-04T18:24:49.092Z">
+    <changelog-entry>
+      <message>catching up on missed snapshots</message>
+    </changelog-entry>
+    <outline version="1.0.0">
+      <reasoning>
+        <!-- For instructions on filling out reasoning: ske instructions stories/Mandatory_Assistance/chapters/3_Onboarding/passages/3_Medical_Treatment/outline.card -->
+      </reasoning>
+      <story-goal>
+        Get proper medical treatment, survive injury, finally rest after hours of bureaucracy
+      </story-goal>
+      <pov-inner-life>
+        Kira in real pain, injury worsened from delays. Frustrated by MORE forms but also desperate for treatment. Remedy's decomposition comments unsettling but their practical competence reassuring. Watching chemistry happen - first genuine medical care. Exhaustion complete by end but relief overwhelming. Recognition: they helped. It took forever and was filtered through absurd procedures, but they helped.
+      </pov-inner-life>
+      <outline>
+        Remedy appears as mushrooms fruiting around medical chamber, robot arriving for manipulation. Documentation: allergies, consent forms for each compound. Injury examination - worse than before, infection risk, pain significant. Remedy's observations: "Flesh proteins breaking down, bacterial colonization beginning, very decomposable wound - not that we want that!" Treatment synthesis begins - growing specific medicinal mushrooms, extracting compounds, testing each one, documenting everything. Hours of careful chemistry while Kira waits in pain. Treatment applied - antibacterial compounds, pain relief, wound cleaning. Finally works. Injury stabilized. Kira utterly exhausted, finally allowed to rest. Chapter ends with sleep.
+      </outline>
+      <plot-arc-act>Act 1 (Contact &amp; Bureaucracy) - concluding onboarding chapter</plot-arc-act>
+      <concludes-arc>false</concludes-arc>
+      <concludes-chapter>true</concludes-chapter>
+      <sources>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/chapter-placement.card" role="Scene 3 outline"/>
+        <ref ref="/world/world/characters/Remedy.card" role="Remedy's character and manner"/>
+      </sources>
+    </outline>
+  </version>
+</versions>

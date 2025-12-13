@@ -1,0 +1,178 @@
+<!-- this file is automatically managed by ske validate; do not edit -->
+<versions>
+  <version number="3.0.0" archived-at="2025-12-10T20:02:05.040Z">
+    <changelog-entry>
+      <message>Initial version</message>
+    </changelog-entry>
+    <!-- Generated automatically, do not edit except with ske gen summaries -->
+    <summary version="3.0.0">
+      <sources>
+        <ref ref="/stories/Mandatory_Assistance/chapters/12_Victory_Through_Voice/passages/3_Recognition/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/passage#v4.1.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/2_Aftermath/passage#v2.0.2"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/3_Buddy_Arrives/passage#v2.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/4_Taking_Stock/passage#v2.1.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/1_Into_the_Purple/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/2_Scout/passage#v3.1.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/3_Wellness_Check/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/1_Intake/passage#v2.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/2_Orientation/passage#v2.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/3_Medical_Treatment/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/1_Morning_Wellness/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/2_Dietary_Assessment/passage#v2.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/3_Seeking_Solutions/passage#v2.1.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/5_Settling_In/passages/1_Time_Passing/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/5_Settling_In/passages/2_Journey_Option/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/5_Settling_In/passages/3_Preparation/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/6_Through_the_Forest/passages/1_First_Day/passage#v4.1.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/6_Through_the_Forest/passages/2_Deeper_In/passage#v4.1.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/6_Through_the_Forest/passages/3_Boundary/passage#v4.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/7_Rivers_and_Wetlands/passages/1_River_Crossing/passage#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/7_Rivers_and_Wetlands/passages/2_Wetlands/passage#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/7_Rivers_and_Wetlands/passages/3_Second_Boundary/passage#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/8_Hills_and_Heights/passages/1_Climbing/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/8_Hills_and_Heights/passages/2_The_Ancient_Grove/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/8_Hills_and_Heights/passages/3_Hope_and_Return/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/9_Disappointing_Answer/passages/1_Settling_In/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/9_Disappointing_Answer/passages/2_The_Answer_Arrives/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/9_Disappointing_Answer/passages/3_What_We_Know/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/10_Trust_Complicated/passages/1_False_Wisdom/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/10_Trust_Complicated/passages/2_The_Deception/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/10_Trust_Complicated/passages/3_Broken_Trust/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/11_Under_Attack/passages/1_Delegation_Fails/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/11_Under_Attack/passages/2_Attack_Begins/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/11_Under_Attack/passages/3_Desperate_Cooperation/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/12_Victory_Through_Voice/passages/1_Voices_Emerging/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/12_Victory_Through_Voice/passages/2_Together_Not_Just_Coordinated/passage#v2.0.0"/>
+      </sources>
+      <narrative-promises>
+        <reasoning>I compared the current passage to the prior open promises and judged which threads were paid off, which were contradicted or superseded, and which remain active or were newly set up. I treated strong, explicit developments as either fulfilled (if they resolve a prior open promise) or lapsed (if they directly contradict or supersede a prior open promise). Tentative/soft hints were preserved where the passage continued to treat them as unresolved, and new future-facing setups introduced by the aftermath (recovery needs, social norms, leadership shift) were added as promises to track. I avoided listing items that were both introduced and immediately completed in the same passage (per the instruction).</reasoning>
+        <fulfilled>
+          <promise id="GROUP_COOPERATION_TRANSITIONING_FROM_NECESSITY_TO_AUTHENTICITY">The group moved from necessity-driven cooperation to an authentic, participatory working relationship: they improvised together, acknowledged each other's contributions, and practiced inclusive decision-making.</promise>
+        </fulfilled>
+        <lapsed>
+          <promise id="FLORENCE_EXILE_OR_SEPARATION">Previously Florence remained socially/physically separate; in this passage she is explicitly invited into recovery and positions herself among the group—her prior isolated status is superseded.</promise>
+        </lapsed>
+        <open>
+          <promise id="HOSTILE_PLANTS_TERRITORIAL_MARKERS" tentative="false" introduced="29">Hostile plant aggression and territorial probing remain important to where and how defenses are placed; the withdrawal after the command node's destruction doesn't eliminate ongoing perimeter-focused threats.</promise>
+          <promise id="FLORENCE_TRUST_REBUILDING" tentative="true" introduced="30">Florence's reintegration is clearly progressing (recognition, invitation to recovery), but trust and full acceptance are still incomplete and will take time.</promise>
+          <promise id="FLORENCE_IDENTITY_CRISIS" tentative="true" introduced="30">Questions about Florence's role and authority remain: she is shifting from a controlling coordinator to a participatory member, but her long-term identity/role is unresolved.</promise>
+          <promise id="POSSIBILITY_OF_POST_ATTACK_REPENTANCE_OR_RESENTMENT" tentative="true" introduced="32">The group openly acknowledges past hurt and the need to process betrayal; whether they move toward forgiveness, grudging dependence, or lingering resentment is still undecided.</promise>
+          <promise id="FLORENCE_WILL_WITHDRAW_IF_REJECTED" tentative="false" introduced="33">Florence once threatened to return to isolation if rejected; the group invited her in and she accepted, but the conditional behavior (withdrawal if later rejected) remains a relevant risk for future social dynamics.</promise>
+          <promise id="HOSTILE_PLANTS_ADAPTIVE_TACTICS" tentative="true" introduced="33">Hostiles showed sophisticated coordination via a command node; while that node was destroyed, adaptive tactics as a threat modality remain possible in future iterations.</promise>
+          <promise id="RESOURCE_SHORTAGE_THREAT" tentative="true" introduced="33">Remedy, Velvet, Runner and others are depleted; recovery and future defenses will be constrained by resources and recharge times.</promise>
+          <promise id="DAILY_COOPERATION_TRACK_ADAPT" tentative="false" introduced="28">The group's habit of tracking what works and iterating tactics continues to be a required survival practice and has been reinforced by the successful improvisation.</promise>
+          <promise id="TRUST_EACH_OTHER_OVER_ELDER" tentative="false" introduced="28">The tension over whether the group will rely on internal judgment or defer to Florence persists; this passage shows a mixed pattern of shared authority that must be tracked.</promise>
+          <promise id="RUNNER_MEDICAL_NEEDS_UNCERTAIN" tentative="true" introduced="34">Runner is injured and regenerating; their medical recovery and longer-term viability remain open and important to future operations.</promise>
+          <promise id="REMEDY_RECHARGE_DELAY" tentative="false" introduced="34">Remedy is depleted and producing healing compounds slowly; the delay to recover chemical defensive/offensive capacity will constrain future choices.</promise>
+          <promise id="HOSTILE_EXTENDED_SIEGE_EXPECTED" tentative="false" introduced="34">Although the immediate coordinated assault was defeated and the command node destroyed, a longer-term campaign or renewed siege from hostiles remains likely later; they will regroup even if slowly.</promise>
+          <promise id="FLORENCE_EXHAUSTION_RISK" tentative="true" introduced="34">Florence's platform is damaged and she expended huge effort coordinating; exhaustion and reduced leadership capacity remain risks going forward.</promise>
+          <promise id="STRUCTURAL_DAMAGE_REPAIR_NEEDS" tentative="true" introduced="34">Velvet explicitly notes the facility needs serious repair; rebuilding, triage, and resource allocation are immediate logistical promises to be addressed.</promise>
+          <promise id="VELVET_PERIMETER_FAILURE_RISK" tentative="true" introduced="34">Velvet is substantially depleted and the perimeter remains vulnerable to sustained or renewed pressure.</promise>
+          <promise id="BUDDY_INTEGRATED_TACTICAL_ROLE" tentative="true" introduced="35">Buddy continues to observe and comment on group dynamics; their social/analytic role remains potentially influential even if not yet tactically central.</promise>
+          <promise id="POST_BATTLE_RESOURCE_CRISIS" tentative="false" introduced="36">Immediate resource shortages (chemicals, growth mass, medical supplies) remain a pressing constraint on recovery and defense reconstitution.</promise>
+          <promise id="GROUP_TRUST_SOLIDIFICATION" tentative="true" introduced="36">The shared victory has strengthened trust in meaningful ways, but whether that solidifies into durable, stable trust is still uncertain and must be tracked.</promise>
+          <promise id="ENEMY_DECOUPLED_ADAPTATION" tentative="true" introduced="36">With the command node destroyed, the enemy might adapt by decentralizing or developing new coordination methods; this remains a plausible future threat vector.</promise>
+          <promise id="FLORENCE_PARTICIPATORY_LEADERSHIP" tentative="true" introduced="37">A new social pattern is established where Florence practices enabling, participatory leadership (integrating others' ideas rather than imposing plans). This shift is visible but only nascent and not yet guaranteed long-term.</promise>
+          <promise id="LONG_TERM_TRUST_BUILDING_REQUIRED" tentative="true" introduced="37">The group explicitly frames forgiveness and full trust as a long-term process ('we're not offering forgiveness' / 'that takes time'), committing to an extended period of processing and boundary-setting.</promise>
+          <promise id="STRUCTURAL_REPAIR_AND_RESOURCE_DRIVE" tentative="false" introduced="37">The facility needs deliberate rebuilding and resource acquisition; the passage sets up an upcoming effort to repair, resupply, and reconstitute defenses (a practical plotline).</promise>
+          <promise id="COMMUNITY_INCLUSION_AS_NORM" tentative="true" introduced="37">The group has offered inclusion to Florence as a social norm (they 'want' her there, not just 'need' her in crisis). Whether this inclusion becomes a durable social norm is an open promise.</promise>
+          <promise id="SCOUT_BRIDGE_ROLE" tentative="true" introduced="37">Scout is shown as an emotional/social bridge who believed in Florence; the passage suggests Scout may continue to play an important role in integrating and smoothing social relations.</promise>
+        </open>
+      </narrative-promises>
+      <facts>
+        <reasoning>This passage records post-battle, medium- and long-term changes to the facility's status and to interpersonal/community dynamics that will matter later (repairs/resource needs, formal removal of the command node, and Florence's social reintegration). I excluded transient details and scene-level descriptions. No statements here directly contradict earlier established facts; most details are developments or confirmations of prior events (e.g., the hostile command node being neutralized and now removed).</reasoning>
+        <established>
+          <fact id="CHANGE_COMMAND_NODE_REMOVAL_COORDINATED">Runner and Remedy coordinated the physical extraction and disposal of the withering hostile command-node root system, moving the mass outside the facility perimeter.</fact>
+          <fact id="CHANGE_RECOVERY_BEGINS_IMMEDIATELY_POST_BATTLE">The facility's organized recovery efforts begin immediately after the engagement, with defenders shifting from combat to repair, cleanup, and medical care.</fact>
+          <fact id="CHANGE_VELVET_STRUCTURAL_ASSESSMENT_AND_REBUILD_NEEDS">Velvet assessed that barriers held but the facility sustained serious structural damage and will require time and external resources to rebuild.</fact>
+          <fact id="CHANGE_FLORENCE_OFFERED_RECOGNITION_AND_INVITED_TO_JOIN_RECOVERY">Holloway and the collective formally acknowledged Florence's contributions, offered recognition (explicitly not immediate forgiveness), and invited Florence to join the recovery effort and community; Florence accepted the invitation.</fact>
+          <fact id="CHANGE_FLORENCE_SOCIAL_REINTEGRATION_DEEPENED">Florence's social status shifted from partially reintegrated/isolated to being included in the common area and recovery activities—present and participating rather than excluded at the periphery.</fact>
+          <fact id="CHANGE_GROUP_REPAIR_AND_WELLNESS_GATHERING_ESTABLISHED">The group held a recovery/gathering in the least-damaged section of the facility to rest, share battle experiences, coordinate repairs, and provide mutual emotional processing.</fact>
+          <fact id="CHANGE_GROUP_TRUST_AND_COOPERATION_DEEPENED">Mutual recognition of contributions during the battle materially deepened group trust and cooperative dynamics; members explicitly credited each other's unique innovations and expressed renewed willingness to include one another in decisions.</fact>
+          <fact id="CHANGE_REMEDY_PRODUCING_HEALING_COMPOUNDS_SLOWLY">During recovery Remedy is producing healing compounds slowly (allocating limited resources or synthesizing biologically-derived medicines) to support wounded defenders.</fact>
+          <fact id="CHANGE_SCOUT_LOYALTY_REWARDED">Scout's prior loyalty to Florence is publicly recognized and reinforces Scout's role as an emotional/relational bridge supporting Florence's reintegration.</fact>
+        </established>
+        <conflicts/>
+      </facts>
+      <timing>
+        <reasoning>The passage opens with immediate aftermath language (“The aftermath feels different than I expected.” “Recovery starts immediately.”) and continues through the recovery work and a group debrief that “continues into late afternoon,” before people finally disperse to rest. The previous passage end time was given as the authoritative 2687-04-23T14:00, and the current passage is clearly the immediate aftermath of that victory. Time cues inside the passage (immediate recovery, active disposal of the command node, damage assessment, an extended conversational recovery gathering, and then “continues into late afternoon” followed by everyone settling to rest) indicate the passage spans several hours of the same afternoon.</reasoning>
+        <starts>2687-04-23T14:00</starts>
+        <ends>2687-04-23T17:30</ends>
+        <gap-from-previous>none (immediate continuation). The passage begins directly after the previous passage ended at 2687-04-23T14:00 and describes events that follow without any intervening long gap.</gap-from-previous>
+        <plausibility>Plausible. The sequence—immediate disposal of the withering command node, structural damage assessment, an hours-long recovery/debrief conversation, and then people settling to rest—fits into a multi-hour late-afternoon window (roughly 3–4 hours). Removing a massive root system and moving it outside could be labor-intensive, but the text describes coordinated plant abilities (Runner + Remedy + others) and committed resources, which makes it believable within a few hours. One minor note: a full physical/biological recovery might realistically take longer than a single afternoon, but the passage only claims conversational/emotional recovery and initial healing/regeneration, not full restoration, so the timing remains reasonable. Also: there is an internal metadata inconsistency (a previous-passage summary showed 10:25), but per instructions the authoritative previous end time 2687-04-23T14:00 was used.</plausibility>
+      </timing>
+      <characters>
+        <reasoning>I read the passage and noted every named character who speaks or is described as present. The scene includes Kira (narrator), Scout, Florence, Velvet, Remedy, Runner, Holloway, and Buddy (the AI companion who appears later). From the prior-present list, Buddy was not present at the end of the previous passage, so Buddy enters during this passage. No character who was present at the start leaves and remains absent by the end; some (Runner/Remedy) briefly perform tasks away from the core but are present again in the recovery scene, so I list no exits. The passage also explicitly references the fictional show Uncharted, so I include that entity from the available list.</reasoning>
+        <present>
+          <character ref="/world/world/characters/Kira_Voss.card"/>
+          <character ref="/world/world/characters/Scout.card"/>
+          <character ref="/world/world/characters/Florence.card"/>
+          <character ref="/world/world/characters/Velvet.card"/>
+          <character ref="/world/world/characters/Remedy.card"/>
+          <character ref="/world/world/characters/Runner.card"/>
+          <character ref="/world/world/characters/Holloway.card"/>
+          <character ref="/world/world/characters/Buddy.card"/>
+        </present>
+        <entered>
+          <character ref="/world/world/characters/Buddy.card"/>
+        </entered>
+        <entities>
+          <entity ref="/world/entities/Uncharted_with_Maverick_Stone.card"/>
+        </entities>
+      </characters>
+      <story-so-far>
+        <reasoning>The passage describes the immediate aftermath of the battle: removal of the withering command node, damage assessment, and a major social shift—Holloway leads a reconciliation-style conversation recognizing Florence’s change from controlling commander to an empowering leader. The group offers Florence inclusion in the recovery community (recognition but not full forgiveness); Florence tentatively accepts. Recovery begins: shared storytelling, acknowledgment of individual contributions (Runner, Velvet, Remedy, Holloway), continued depletion/injury and need for repairs/resources, and the group resting together in the common area. I consolidated prior tactical-detail bullets into a concise account of the battle outcome and kept persistent logistical problems (damage, depleted resources, injured defenders). I removed fine-grained blow-by-blow tactical notes that are now background and kept plot-relevant consequences and the new interpersonal alliance developments.</reasoning>
+        <summary>
+          - Mining shuttle crashed during approach; Kira Voss survived; SAM remains offline and Kira’s neural assistant Buddy (and Scout) are active.
+          - Hull breach exposed breathable atmosphere and alien vegetation; local plant collective sheltered Kira and used the shuttle as shelter.
+          - An active Biological Samples container remains powered and uncontrollable; Remedy (salvage-built humanoid doctor) treated Kira but has limited chemical resources.
+          - Hostile plants launched coordinated multi-pronged assaults (spores, corrosive vines, thorns, roots); defenders contracted to an inner perimeter and improvised layered defenses and chemical traps.
+          - Runner located a large underground hostile command node ~50 m east; combined plan (Velvet+Runner growth, Remedy chemicals, Holloway guarding, coordinated attack) forced the node to surface and defenders destroyed it, which collapsed hostile coordination.
+          - Victory came at high cost: facility damaged, defenses and supplies depleted; Runner seriously injured, Velvet withered/depleted, Remedy chemically exhausted, Holloway drained, Florence damaged but less isolated.
+          - Immediately after the battle Runner and Remedy extracted the withering command-node root mass and moved it outside the facility perimeter for disposal; Velvet assessed structural damage and declared substantial repairs and resources necessary.
+          - Florence reports the hostile plants withdrew completely and will be slow to reorganize, giving the survivors time to recover and rebuild.
+          - Holloway initiated a frank conversation with Florence acknowledging past betrayals and pain but recognizing Florence’s recent shift from control to empowerment; Holloway clarified this is recognition, not forgiveness, and invited Florence to join the community recovery.
+          - Florence tentatively accepted the invitation to join recovery and sit with the group rather than isolate; Holloway and others emphasized they value her beyond tactical utility.
+          - The recovery gathering: plants and humans shared battle experiences, acknowledged each other’s contributions (Runner’s underground intelligence, Velvet’s barriers, Remedy’s chemical innovations), and reinforced cooperative decision-making.
+          - Buddy (Kira’s AI) and Scout observed the change: cooperation now feels genuine and voluntary rather than purely necessity-driven.
+          - Everyone rested together in the common area; wounds remain and trust is fragile, but the hostile threat is neutralized and a foundation for authentic cooperation and Florence’s reintegration has been established.
+        </summary>
+      </story-so-far>
+      <emotional-journey>
+        <reasoning>
+          POV feelings and why: Kira is exhausted but quietly elated — a relieved, slightly stunned satisfaction that the group not only survived but did so by genuinely becoming a team. She watches recognition and repair happen, and that calm, attentive witnessing (she notices small gestures, Scout’s bounces, Holloway’s tone) roots her in present belonging. The emotional texture comes from relief plus a cautious hope that social wounds might begin to heal.
+
+          Reader experience: The reader shares catharsis (the tactical victory is paid-for and believable) followed by a slow, tender emotional unwind: surprise softens into warmth as fractured relationships begin to be repaired. The scene trades high-adrenaline suspense for quieter moral complexity — forgiveness is not instant, but recognition and inclusion are offered, which feels earned and emotionally satisfying.
+
+          Beats and tone: There are multiple beats layered here — an overall dominant tone of relieved hope, with a central interlocking beat of vulnerability/acknowledgment (Holloway to Florence) and a closing beat of intimate belonging. The passage moves from physical/operational aftermath into relational aftermath: tactical consequences give way to moral consequences.
+
+          Comparison to prior pattern: Earlier scenes alternated between high-threat suspense and warm comedic/strange intimacy. This passage continues the arc from crisis to fragile reconciliation: instead of action-forward determination, it focuses on repair and the social work that follows survival. It deepens the story’s recurring themes (trust, collective improvisation, Kira’s integration) rather than introducing a new tonal direction.
+
+          Surprises: There’s a mild but meaningful surprise in tone and decision-making — Holloway (previously strict and procedural) explicitly offers recognition and a genuine invitation to join recovery. It feels like a reversal of the group’s prior formal exile and enforces that the community can change its moral posture based on observed choices rather than sticking rigidly to punishment.
+
+          Character change: Several characters take small but significant relational steps: Florence moves from isolated fabricator to accepted participant (fragile hope and acceptance); Holloway shifts from rule-enforcer to relationship-builder; Runner/Velvet/Remedy are verbally acknowledged and thereby discover/confirm their own value; Kira registers a quiet internal growth — she’s no longer narrating events as an outsider but is present and part of the group. These are incremental, believable developments (no instant forgiveness, but a real opening).
+
+          Overall: The passage is a recuperative, intimate aftermath beat that foregrounds moral complexity (hurt remains) while rewarding collaborative courage with recognition. It’s emotionally steady, earned, and character-driven rather than melodramatic.
+        </reasoning>
+        <beats>
+          <beat tags="relief, hope">POV (Kira): exhausted relief and quiet satisfaction — the visceral adrenaline has ebbed and been replaced by the recognition that they won together. Cause: the command node is destroyed and survivors are intact, and the immediate threat has withdrawn. Reader: experiences cathartic release tempered by awareness of cost (depletion, injuries).</beat>
+          <beat tags="vulnerability, acceptance">POV &amp; group: Holloway’s acknowledgment to Florence produces a fragile, complex beat — hurt and betrayal are named, but recognition and willingness to include are offered. Cause: explicit moral reckoning where contribution and the quality of leadership (empowerment vs control) are named. Reader: feels tender moral relief and emotional complexity — forgiveness is not granted but the possibility of repair appears.</beat>
+          <beat tags="intimacy, joy">POV (Kira) and group: communal resting and sharing after the battle creates a close, warm beat: plants trade combat stories, give credit, and physically include Florence in the common area. Kira notices and feels genuinely present and part of the group. Reader: experiences comforting warmth — a quiet, earned sense of belonging rather than triumphant euphoria.</beat>
+        </beats>
+        <surprises>
+          <surprise tags="character, reversal">Holloway — previously enforcing Florence’s separation and insisting on institutional accountability — offers explicit recognition and an invitation to join recovery. This reverses the prior operational exile (Holloway’s procedural enforcement) into a relational inclusion: it’s an unexpected softening that reframes leadership as recognition rather than only punishment.</surprise>
+        </surprises>
+        <character-development>
+          <development character="Florence" tag="trust-built">Moves from isolated, trust-broken exile toward fragile acceptance and inclusion: she allows herself hope, accepts the group’s invitation to join recovery, and acknowledges that current choices can matter even while past betrayals are unresolved.</development>
+          <development character="Holloway" tag="relationship-shift">Shifts from strict procedural enforcer to a relationship-oriented leader who names pain but chooses to recognize genuine change; offers community inclusion without erasing the betrayal’s consequences.</development>
+          <development character="Runner" tag="strength-discovered">Voices newfound confidence — recognizes that their underground intelligence and tactical contributions matter and that being listened to made them feel competent.</development>
+          <development character="Velvet" tag="trust-built">Is explicitly acknowledged and valued for creative barrier designs and for being enabled to adapt; receives social validation that reinforces cooperative identity.</development>
+          <development character="Remedy" tag="strength-discovered">Is recognized for innovation beyond standard protocols (turning defense into offense) and therefore experiences an expansion in self-concept as a creative tactical contributor.</development>
+          <development character="Kira Voss" tag="identity-shift">Quietly shifts from narrating events as an observer to being present and emotionally integrated in the group — she witnesses reconciliation rather than framing it for an external audience, signaling inward growth.</development>
+          <development character="Plant collective (group)" tag="relationship-shift">Collectively moves from fractured, punitive reactions to a more generative, inclusive posture: they can name hurt, but they also recognize agency and value contributions, establishing a new social norm of empowerment.</development>
+        </character-development>
+      </emotional-journey>
+    </summary>
+  </version>
+</versions>

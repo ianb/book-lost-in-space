@@ -1,0 +1,174 @@
+<!-- this file is automatically managed by ske validate; do not edit -->
+<versions>
+  <version number="4.0.0" archived-at="2025-12-10T20:02:05.483Z">
+    <changelog-entry>
+      <message>Initial version</message>
+    </changelog-entry>
+    <!-- Generated automatically, do not edit except with ske gen summaries -->
+    <summary version="4.0.0">
+      <sources>
+        <ref ref="/stories/Mandatory_Assistance/chapters/7_Rivers_and_Wetlands/passages/2_Wetlands/passage#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/passage#v4.1.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/2_Aftermath/passage#v2.0.2"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/3_Buddy_Arrives/passage#v2.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/4_Taking_Stock/passage#v2.1.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/1_Into_the_Purple/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/2_Scout/passage#v3.1.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/3_Wellness_Check/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/1_Intake/passage#v2.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/2_Orientation/passage#v2.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/3_Medical_Treatment/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/1_Morning_Wellness/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/2_Dietary_Assessment/passage#v2.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/3_Seeking_Solutions/passage#v2.1.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/5_Settling_In/passages/1_Time_Passing/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/5_Settling_In/passages/2_Journey_Option/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/5_Settling_In/passages/3_Preparation/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/6_Through_the_Forest/passages/1_First_Day/passage#v4.1.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/6_Through_the_Forest/passages/2_Deeper_In/passage#v4.1.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/6_Through_the_Forest/passages/3_Boundary/passage#v4.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/7_Rivers_and_Wetlands/passages/1_River_Crossing/passage#v4.0.0"/>
+      </sources>
+      <narrative-promises>
+        <reasoning>I reviewed the prior open-promises list and compared each item to events and dialogue in this passage. The passage mainly reinforces guide competence, demonstrates wetland-specific hazards (a ground collapse), clarifies wetland communication (waterborne chemicals and flower-pattern signaling), and establishes that the next day will end with a boundary handoff to Territory Three guides. I treated explicit statements and repeated mechanics as firm (e.g., waterborne chemical signalling, flower-sign patterns, the routine of wetland collapses and guide extraction), and I treated ongoing character/arc items (Kira's growth/confidence) as tentative ongoing promises. I only marked a promise as fulfilled when the passage presented clear, concrete payoff for an earlier promise (Streamwalker demonstrably handled Kira's extraction and behaved in ways that show they were prepared for Kira's needs), and I lapsed a promise only when the passage directly contradicted or abandoned it (Streamwalker's earlier line about going deeper into the wetlands tomorrow was contradicted by Brightbloom saying the next day is the last day together and they'll reach the boundary by afternoon). Most earlier logistical/plot promises (bio-samples, being stranded, life-support power window, Elder Heartwood petition, route through seven territories, etc.) remain relevant and so are carried forward.</reasoning>
+        <fulfilled>
+          <promise id="STREAMWALKER_PREPARED_KIRA_SPECIFICATIONS">Streamwalker had claimed to have reviewed Kira's documentation and be prepared for her needs; in this passage Streamwalker successfully and calmly rescues Kira from a wetland collapse and guides her safely, demonstrating that preparation in practice.</promise>
+        </fulfilled>
+        <lapsed>
+          <promise id="WETLAND_DEEP_HEART_CHALLENGES">Streamwalker previously promised they'd go deeper into the wetlands 'tomorrow' (a near-term promise of increasing wetland challenges). In this passage Brightbloom says tomorrow is the last day together and they'll meet Territory Three at the boundary by afternoon—this contradicts the earlier 'deeper tomorrow' plan, so the original promise as-stated has been abandoned or rescheduled.</promise>
+        </lapsed>
+        <open>
+          <promise id="BIO_SAMPLES_TEMPERATURE_FLUCTUATION" tentative="false" introduced="1">The glowing biological-samples container with temperature/power problems remains unresolved and could still affect power/safety decisions.</promise>
+          <promise id="BIO_SAMPLES_COMPROMISE_OR_RELEASE" tentative="false" introduced="1">Damaged cargo and the glowing cooler still pose an unresolved risk that biological samples were compromised or released.</promise>
+          <promise id="COORDINATES_MISMATCH_SECRET_MISSION" tentative="false" introduced="1">Hints of coordinate/route discrepancies or hidden mission details remain unexplained and relevant to why the shuttle/crew are here.</promise>
+          <promise id="NAVIGATION_FAILURE_CAUSE" tentative="false" introduced="1">The root cause of the shuttle's navigation/communications/stabilizer failure (mechanical, interference, or sabotage) remains unresolved.</promise>
+          <promise id="STRANDED_ON_UNKNOWN_PLANET" tentative="false" introduced="2">Kira remains effectively stranded on an uncharted but breathable world; traveling between territories doesn't remove the broader stranded/survival stakes.</promise>
+          <promise id="CARGO_DAMAGE_AND_SUPPLIES_STATUS" tentative="true" introduced="2">Exact state of mission supplies (what survived, what is mission-critical) remains unresolved; plant synthesis of food reduces but does not eliminate uncertainty.</promise>
+          <promise id="LIFE_SUPPORT_EMERGENCY_POWER_48_HOURS" tentative="false" introduced="4">Shuttle/facility life-support emergency power with limited duration remains an unresolved constraint affecting decisions.</promise>
+          <promise id="RESCUE_ESTIMATE_DELAYED_LONG" tentative="true" introduced="4">The earlier tentative expectation that recovery/detection will take a long time remains unresolved and continues to shape planning.</promise>
+          <promise id="BIO_SAMPLES_POWER_DRAIN_CONSTRAINT" tentative="false" introduced="4">The glowing biological-samples cooler's ongoing power draw and its tradeoffs remain unresolved.</promise>
+          <promise id="PREVIOUS_VISITOR_DEATH_LEARNED_HUMAN_PROTOCOLS" tentative="false" introduced="7">The plants' backstory about a previous visitor and any associated death or history that informed protocols remains unresolved and may influence future interactions.</promise>
+          <promise id="PLANTS_MAY_MISINTERPRET_HUMAN_CUSTOMS" tentative="true" introduced="7">Because the plants learned 'Standard' from human materials, their model of human behavior/help may be skewed; their literal/formal processes remain relevant.</promise>
+          <promise id="LIVING_FACILITY_BREATHING_ARCHITECTURE" tentative="false" introduced="8">The facility's living, breathing vine architecture remains a core environmental factor shaping the world even as travel continues.</promise>
+          <promise id="PLANT_NETWORK_SHARED_CONSCIOUSNESS" tentative="false" introduced="8">The fungal/plant signalling network and the idea of shared communication and resource exchange remain active and relevant to future scenes.</promise>
+          <promise id="COLLECTIVE_EMERGENCY_CONTACT" tentative="false" introduced="8">The plants' offer to act as a collective emergency contact remains possible but unused in this passage.</promise>
+          <promise id="REMEDY_TREATMENT_EFFECTIVE_6_8_HOURS" tentative="false" introduced="8">Earlier detail about the time-window of Remedy's treatment (6–8 hours) remains unresolved; the passage shows ongoing recovery but doesn't confirm or refute the window.</promise>
+          <promise id="ROBOT_PLANT_COMMUNICATION_INTEGRATION" tentative="false" introduced="10">Remedy and the fungal/plant network's coordinated signalling and harvesting remain functionally active in the background.</promise>
+          <promise id="DAILY_HEALTH_STATUS_CHECKS" tentative="false" introduced="11">Holloway's daily 'health status update' remains a recurring protocol and continues offstage.</promise>
+          <promise id="SCOUT_COMMUNICATION_PROGRESS" tentative="true" introduced="11">Kira's learning of Scout's nonverbal language continues; Scout's interactions in this passage show ongoing progress but the skill remains active and incomplete.</promise>
+          <promise id="LONG_TERM_FOOD_SAFETY_UNKNOWN" tentative="true" introduced="12">Long-term biocompatibility and safety of novel fungal proteins and vitamin formulations remain unresolved despite immediate acceptance on the trip.</promise>
+          <promise id="REGULAR_MEAL_SCHEDULE_THREE_TIMES_DAILY" tentative="false" introduced="12">Remedy/Holloway's recurring meal schedule continues to be followed in practice and remains a background constraint.</promise>
+          <promise id="ELDER_HEARTWOOD_QUERY_SUBMITTED" tentative="false" introduced="13">Kira's formal petition to Elder Heartwood is still pending; travel is proceeding while that query waits.</promise>
+          <promise id="ELDER_HEARTWOOD_RESPONSE_8_12_WEEKS" tentative="false" introduced="13">Holloway's earlier estimated response timeline (8–12 weeks) remains outstanding and has not arrived.</promise>
+          <promise id="ELDER_GUIDANCE_PENDING" tentative="true" introduced="13">The content/outcome of Elder Heartwood's guidance remains unresolved and may affect future decisions.</promise>
+          <promise id="TRAVEL_QUEST_TO_ANCIENT_GROVE" tentative="false" introduced="14">The Ancient Grove journey remains the larger quest across territories; travel continues toward that destination.</promise>
+          <promise id="FLORENCE_WILL_PREPARE_VOCABULARY_PATTERNS" tentative="false" introduced="14">Florence's promise to prepare vocabulary patterns/dictionary entries remains outstanding.</promise>
+          <promise id="BUDDY_CATALOGS_FLOWER_LESSONS" tentative="false" introduced="14">Buddy continues to catalog and record flower-language lessons during travel.</promise>
+          <promise id="TRAVEL_SEVEN_TERRITORIES_ROUTE_DETAILS" tentative="false" introduced="15">The route through seven distinct territories remains the structural arc for the journey; Day Three is in progress and the full route remains unresolved.</promise>
+          <promise id="TRAVEL_TIME_ESTIMATE_25_DAYS" tentative="false" introduced="15">Holloway's planning estimate (~25 days) remains an actionable timeline but is not yet validated by completed travel.</promise>
+          <promise id="TERRITORY_VARIETY_AND_CHALLENGES" tentative="false" introduced="15">Differences between territories and episodic obstacles/cultural encounters remain a live expectation; the wetlands continue to illustrate this pattern.</promise>
+          <promise id="RESEARCH_WETLAND_DECOMPOSITION" tentative="true" introduced="15">Buddy/Remedy's interest in observing aquatic/wetland decomposition remains a research subplot to pursue later in the route; the wetlands make this more immediate.</promise>
+          <promise id="KIRA_WILL_DOCUMENT_DECOMPOSITION_FOR_REMEDY" tentative="false" introduced="16">Kira's commitment to take notes on decomposition patterns in the wetlands for Remedy remains outstanding and actionable.</promise>
+          <promise id="KIRA_WILL_PRACTICE_AND_RETURN_SHOW_FLOWER_LANGUAGE_PROGRESS" tentative="false" introduced="16">Kira vowed to practice flower-language on the road and return to demonstrate progress to Florence; this remains an ongoing thread.</promise>
+          <promise id="PLANT_NETWORK_EXPEDITED_PROCESSING_MAY_SIGNAL_SPECIAL_SCRUTINY" tentative="true" introduced="16">The plants' attentive service and 'first human traveler' status may bring special scrutiny or favors; positive attention continues but outcome is unresolved.</promise>
+          <promise id="BUDDY_WILL_STUDY_INTER_TERRITORIAL_PROTOCOLS" tentative="false" introduced="16">Buddy plans to question and catalog inter-territorial communication/administrative protocols; this continues to drive conversational scenes.</promise>
+          <promise id="KIRA_ATTACHMENT_TO_GUIDES" tentative="true" introduced="18">Kira's emotional attachment to Leafwhisper and Rootwalker was foregrounded earlier and remains an ongoing emotional stake (she's also forming new attachments to current guides).</promise>
+          <promise id="PLANT_GOVERNANCE_CONSENSUS_GROVES" tentative="false" introduced="18">Leafwhisper's promised 'Consensus Groves' — a plant governance structure — remains a later destination/encounter deeper in the forest and is still outstanding.</promise>
+          <promise id="SPIRAL_TYPES_LAYERED_TIME_COMMUNICATION_CHALLENGE" tentative="false" introduced="18">Spiral-type plants perceive time in layered, non-linear ways; Leafwhisper warned communication will be challenging — this remains unresolved.</promise>
+          <promise id="TERRITORY_TWO_GUIDES_AND_WETLAND_GUIDANCE" tentative="false" introduced="19">Streamwalker and Brightbloom are the Territory Two guides escorting Kira through the wetlands; they are actively guiding and their competence remains relevant to future scenes.</promise>
+          <promise id="TERRITORY_TWO_WETLAND_TERRAIN_CHALLENGES" tentative="false" introduced="19">Streamwalker and Brightbloom described wetlands ahead; the narrative promise of soft ground, deceptive patches, and water-related obstacles is ongoing (this passage demonstrates one such collapse).</promise>
+          <promise id="ROOTWALKER_TOUCH_POTENTIAL_FORESHADOW" tentative="true" introduced="19">Rootwalker's deliberate shoulder touch and charged farewell were presented as emotionally significant and may foreshadow Rootwalker's future relevance or Kira's ongoing attachment.</promise>
+          <promise id="WETLAND_RIVER_STONES_MAINTAINED_BY_NETWORK" tentative="false" introduced="20">Streamwalker previously asserted a path of stones beneath the river placed/maintained by the plant network; that remains a physical element to be relied on or tested later.</promise>
+          <promise id="WETLAND_RIVER_HELPFULNESS" tentative="true" introduced="20">The atmospheric idea that some water features will assist travelers (current guiding rather than fighting) remains ambiguous and usable in future scenes (rivers helped earlier, but wetlands can test footing).</promise>
+          <promise id="WETLAND_DEEP_HEART_CHALLENGES" tentative="false" introduced="20">ORIGINAL (now lapsed): the promise that they'd go deeper into the wetland 'heart' tomorrow and face softer ground/more water.</promise>
+          <promise id="WATER_WEIGHT_IMPACTS_CARRY_LOAD" tentative="true" introduced="20">Buddy's observation that water adds roughly two kilograms to clothing/gear remains a logistic factor for travel decisions.</promise>
+          <promise id="NETWORK_REPUTATION_BROADCAST_BY_GUIDES" tentative="true" introduced="20">Brightbloom's comment about Territory Three 'hearing' about Kira's crossing establishes that guides broadcast traveler reputation; this social-network thread remains active.</promise>
+          <promise id="PLANT_WATER_CHEMICAL_COMMUNICATION" tentative="false" introduced="21">New firm worldbuilding: Streamwalker explains that wetland plants communicate via chemical compounds carried in water currents — an established mechanism for plant-to-plant signalling in this territory.</promise>
+          <promise id="BRIGHTBLOOM_FLOWER_SIGNAL_SYSTEM" tentative="false" introduced="21">New firm detail: Brightbloom's flowers use deliberate bloom/closure patterns and scent/color layers to encode messages (e.g., 'safe path ahead', 'water nearby'); these signals are actionable and likely to be used again.</promise>
+          <promise id="WETLAND_GROUND_COLLAPSE_FREQUENCY" tentative="false" introduced="21">New firm claim: wetland footing failures (collapses/sinks) are routine tests of travelers (Brightbloom/Streamwalker quantify frequency like 'every third or fourth traveler'), implying recurrence and deliberate extraction/training patterns.</promise>
+          <promise id="PLANT_NETWORK_TESTS_TRAVELERS" tentative="false" introduced="21">New firm behavioral promise: the plant guides explicitly regard wetland footing events as tests and manage/rescue travelers accordingly; this creates a predictable pattern of testing-and-rescue in the environment.</promise>
+          <promise id="BOUNDARY_MEETING_TERRITORY_THREE" tentative="false" introduced="21">New firm scheduling: Brightbloom announces that tomorrow is the last day with the Territory Two guides and that they'll reach the boundary by afternoon to meet Territory Three guides — a near-term handoff to occur.</promise>
+          <promise id="KIRA_TRAVELER_CONFIDENCE_GROWTH" tentative="true" introduced="21">New tentative character-development promise: Kira is explicitly growing confidence and trust in guides and the travel process; this arc of growing competence will likely influence future choices and interactions.</promise>
+        </open>
+      </narrative-promises>
+      <facts>
+        <reasoning>This passage adds durable details about how Territory Two's plants communicate and operate, plus a measurable safety/behavior pattern and an important psychological shift in Kira. These will matter later for travel logistics, risk assessment, and Kira's willingness to follow plant guidance (e.g., when facing hazards or making decisions under stress). I excluded transient descriptives (mud on a boot, single-shelter arrival) and items already captured in earlier facts (e.g., Scout comfort in water, wetlands being spongy, Streamwalker's testing behavior) and focused on novel, repeatable, or character/state changes that could affect future scenes.</reasoning>
+        <established>
+          <fact id="CHANGE_WETLAND_HYDROCHEMICAL_COMMUNICATION">Wetland plants communicate primarily via chemical compounds carried through water currents—an analog to 'scent on wind' where water transports encoded chemical signals that neighboring plants interpret.</fact>
+          <fact id="CHANGE_BRIGHTBLOOM_FLOWER_PATTERN_ENCODING">Brightbloom can produce sequential flower-opening patterns (specific counts/positions over time) that encode discrete messages for mobile observers (examples given: a pattern meaning 'safe path ahead' and another meaning 'water nearby').</fact>
+          <fact id="CHANGE_BRIGHTBLOOM_SPEAKS_SEVEN_DIALECTS">Brightbloom is fluent in seven distinct plant 'dialects' (a marker of advanced cross-territory or cross-species communication ability).</fact>
+          <fact id="CHANGE_STREAMWALKER_VINE_EXTRACTION_ABILITY">Streamwalker can extend vines to physically secure and extract a trapped traveler from wetland collapse—using calm, coordinated actions and a counted lift to free them safely.</fact>
+          <fact id="CHANGE_WETLAND_COLLAPSE_FREQUENCY">Wetland footing failures (travelers sinking through deceptive ground) are relatively common—approximately every third or fourth traveler experiences such a collapse—making extraction a routine guide task in this territory.</fact>
+          <fact id="CHANGE_KIRA_TRUST_IN_GUIDES_SOLIDIFIED">Kira's trust in the guides deepened into instinctive compliance under stress: when her leg sank she immediately followed Streamwalker's instructions without hesitation, indicating a shift from tentative confidence to active, trust-based cooperation.</fact>
+        </established>
+        <conflicts/>
+      </facts>
+      <timing>
+        <reasoning>Start cues: The passage opens with "The second morning starts with questions," and describes squelchy, wetter ground compared to "yesterday," so it begins the morning after the previous passage's evening shelter. The previous passage ended at ~2687-03-25T21:00 (evening). How much time passes during the passage: the narrative moves from morning through midday/afternoon activities (the wetland collapse, extended walking, commentary about the sun warming damp clothes) and ends at another raised-platform shelter in the evening. That implies a single daytime span (morning → evening) of travel and short incidents. End cues: they "reach another raised platform shelter" and settle for the night with discussion of "tomorrow" being the last day together, which marks the passage ending in evening. Gap from previous passage: overnight rest between the prior evening (2687-03-25T21:00) and this passage's morning—about 10–12 hours. What likely happened in that gap: camp setup, sleep, morning preparations/breakfast, packing, and setting off again. Timing of events inside the passage: the wetland sink and rescue take only minutes; the rest is hours of careful walking and intermittent explanation/demonstration, consistent with a day of travel. Any timing issues: none significant. The activities described (short rescue, drying/warming while walking, reaching shelter by evening) fit within a typical waking day. The chosen approximate start and end times reflect a reasonable overnight gap and a daytime travel period.</reasoning>
+        <starts>2687-03-26T07:30 (approximate morning)</starts>
+        <ends>2687-03-26T19:00 (approximate evening)</ends>
+        <gap-from-previous>~10.5 hours overnight (previous ended 2687-03-25T21:00; passage begins next morning). Likely: camp overnight, sleep, morning prep and departure.</gap-from-previous>
+        <plausibility>Plausible. The timeline allows for an overnight rest after the previous evening shelter and a full day of travel through wetlands. The rescue from the wet collapse is brief and consistent with Streamwalker's quick vine response; drying while walking and reaching a new evening shelter are reasonable within a single day. No implausible time compression or unexplained long gaps are present.</plausibility>
+      </timing>
+      <characters>
+        <reasoning>Characters appearing in the passage are those explicitly present or mentioned: Kira (the narrator "I"), the guides Brightbloom and Streamwalker, Scout, Buddy, and the previously-mentioned Leafwhisper and Rootwalker. All of these were already present at the start of the passage (per the previous-present list), so no one enters during the scene. No character leaves before the passage ends—everyone remains with the group as they reach the evening shelter. No available entity card (Sector 7-Gamma-412_Planet or Uncharted_with_Maverick_Stone) is referenced in this passage, so I list no entities as relevant.</reasoning>
+        <present>
+          <character ref="/world/world/characters/Kira_Voss.card"/>
+          <character ref="/world/world/characters/Brightbloom.card"/>
+          <character ref="/world/world/characters/Streamwalker.card"/>
+          <character ref="/world/world/characters/Scout.card"/>
+          <character ref="/world/world/characters/Buddy.card"/>
+          <character ref="/world/world/characters/Leafwhisper.card"/>
+          <character ref="/world/world/characters/Rootwalker.card"/>
+        </present>
+        <entities/>
+      </characters>
+      <story-so-far>
+        <reasoning>This passage adds details about Territory Two's communication methods (water-borne chemical signaling and Brightbloom's flower-pattern visual codes), an on-trail rescue, and Kira's growing trust and confidence. It also advances the timeline to the next-day boundary with Territory Three. No earlier unresolved items (Biological Samples, SAM offline, broken external comms, Elder Heartwood) are resolved, so they remain. I consolidated repetitive guide-character details and kept only plot-relevant developments: communication methods demonstrated, Scout testing, the wetland collapse and Streamwalker's rescue, Buddy's monitoring, Kira's psychological growth, and arrival at the next shelter with a planned handoff to Territory Three guides the following day.</reasoning>
+        <summary>
+          - Shuttle carrying mining/terraforming supplies and a container labeled “Biological Samples” struck the hull during approach and crashed; Kira Voss survived while several crew died.
+          - Shipboard AI SAM is offline; emergency protocols brought Kira’s neural link online and an assistant AI, Buddy, was instantiated; external communications and the ship’s distress beacon remain broken.
+          - Hull breach exposed breathable atmosphere and alien vegetation; a local plant collective (including Scout, Holloway, cooperative spheres, Central Coordination) found and sheltered Kira; the crashed shuttle served as temporary shelter.
+          - The Biological Samples container remains active, glowing, drawing power, and cannot be shut down.
+          - Kira integrated with the plant collective and Remedy (a salvage-built humanoid doctor); Remedy treated Kira’s injured leg and cleared her medically within a week.
+          - Kira petitioned Elder Heartwood in the Ancient Grove for formal permissions; Elder response is pending.
+          - Kira received inter‑territorial travel approval; departure was organized with Buddy and Scout assigned to accompany her.
+          - Territory One guides Leafwhisper (network specialist) and Rootwalker (terrain specialist) escorted Kira through Territory One; she learned key aspects of plant society (fungal/root networks, merged organisms, varied cognition types).
+          - On the third morning Kira reached the boundary to Territory Two; Territory Two guides Streamwalker (flowing, water-oriented) and Brightbloom (florally expressive) met the group; Leafwhisper and Rootwalker departed; Scout remained with Kira.
+          - Two hours into Territory Two Kira noted wetlands' softer, wetter terrain and different plant communication style; Streamwalker led using submerged paths and guided footing across water features.
+          - They crossed a chest‑deep river via a submerged stone path; Buddy monitored Kira's physiological/emotional state and offered practical suggestions; Kira adapted and celebrated the successful crossing.
+          - Second morning in Territory Two: guides explained wetland communication—plants send chemical signals through water currents; Brightbloom demonstrated visual flower‑pattern signaling that encodes messages (examples: 'safe path ahead', 'water nearby'); Scout playfully tested the water communication by splashing.
+          - Later that day Kira's left foot collapsed through deceptive wetland ground and sank to mid‑thigh; Streamwalker instructed her to stay still and extended vines to secure and pull her free; the rescue was calm and routine.
+          - Buddy monitored Kira's vitals and offered breathing exercises; Kira declined and recovered from adrenaline, muddy but uninjured.
+          - Kira realized she now trusts and follows guides without hesitation—evidence of growing confidence and adaptability as a traveler.
+          - They continued and reached another raised‑platform shelter surrounded by tall purple reeds; the guides said the next day would be the last with them and they would reach Territory Three boundary to meet new guides.
+          - Outstanding unresolved issues still matter: the active Biological Samples container, SAM remaining offline, broken external communications/distress beacon, and Elder Heartwood’s pending response.
+        </summary>
+      </story-so-far>
+      <emotional-journey>
+        <reasoning>
+          POV feelings and why: Kira moves from curious and engaged to a spike of fear (when her left foot collapses) and then into relief, calm, and a quiet pride. The fear is immediate and bodily—panic at sinking thigh-deep—but it is short-circuited by the guides' confident, procedural rescue. Afterward Kira experiences a steady, reflective satisfaction: she recognizes her own growth (trusting without hesitation) and the normalization of these risks into routine travel.
+
+          Reader experience: The reader shares the curiosity at the opening (learning about water-based plant communication), then is drawn into a brief, visceral suspense when Kira’s leg collapses. The rescue resolves that suspense quickly and cleanly, producing relief and a warm afterglow of reassurance. The last emotional note is quietly uplifting — the reader senses Kira’s consolidation into a competent traveler and feels companionable warmth toward the guides.
+
+          Multiple beats or single tone: There are three emotional beats: wonder/curiosity (learning about water-communication), sudden fear/suspense (the swamp collapse), and relief/acceptance with self-recognition (being pulled free and realizing she now trusts and has grown). The passage therefore contains multiple distinct beats but they form a coherent arc from curiosity through crisis to growth and calm.
+
+          Comparison to pattern so far: This continues the established arc of Kira moving from frightened survivor to confident traveler. Earlier scenes showed tentative trust (river crossing, relearning to rely on guides); here that trust is enacted reflexively and affirmed. Tonally the passage is lighter and more secure than early aftermath beats, matching the steadying, hopeful pattern of recent travel sections.
+
+          Surprises for the reader: There are no major surprises in the sense of hidden secrets or character reversals. The calm, routine handling of a sinking traveler is consistent with what we already know about the guides’ competence; learning that the wetlands regularly 'test' travelers is new information but not a narrative surprise.
+
+          Character growth/revelation: Kira reveals and consolidates real trust: she does not hesitate or panic, she follows instructions automatically, and afterward recognizes that trust as personal growth. This is a concrete trust-built and skill-learned moment in her arc — from ‘‘I hope they help’’ to ‘‘I trusted them and it worked.’’ The guides’ competence and comforting habits are reinforced but not newly revealed — they continue to display established personalities (Brightbloom exuberant, Streamwalker calm).
+        </reasoning>
+        <beats>
+          <beat tags="wonder">Kira's curiosity and delight as she asks about and learns how wetland plants communicate through dissolved chemical signals and visual flower-patterns. The reader shares her intellectual delight and the scene's gentle world-building lifts mood and intimacy with the guides.</beat>
+          <beat tags="suspense, fear">Immediate bodily panic when Kira's left foot collapses into the swamp — a sudden personal danger that spikes tension. The reader experiences visceral suspense as the guides respond; the moment is short but emotionally sharp, focused on Kira's physical vulnerability.</beat>
+          <beat tags="relief, acceptance">Swift, procedural rescue by Streamwalker and the guides produces quick relief. That relief folds into a calmer, reflective acceptance as Kira realizes she trusted without hesitation and recognizes her own growth as a traveler. The reader experiences warm reassurance and quiet pride for the POV character.</beat>
+        </beats>
+        <character-development>
+          <development character="Kira Voss" tag="trust-built">Consolidates trust in the guides and in the travel process: when her leg collapses she follows instructions without hesitation and later recognizes that this reflexive trust marks real growth. She also demonstrates practical competence in travel settings (staying calm, following protocol).</development>
+          <development character="Kira Voss" tag="skill-learned">Learns from experience: the swamp incident functions as a competence/skill moment — she handles the physical aftermath, keeps walking, and integrates the lesson into her sense of being a 'proper traveler.'</development>
+        </character-development>
+      </emotional-journey>
+    </summary>
+  </version>
+</versions>

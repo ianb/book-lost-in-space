@@ -1,0 +1,120 @@
+<!-- this file is automatically managed by ske validate; do not edit -->
+<versions>
+  <version number="1.0.0" archived-at="2025-12-04T18:24:10.985Z">
+    <changelog-entry>
+      <message>catching up on missed snapshots</message>
+    </changelog-entry>
+    <outline version="1.0.0">
+      <reasoning>
+        <!-- For instructions on filling out reasoning: ske instructions stories/Mandatory_Assistance/chapters/1_Impact/passages/4_Taking_Stock/outline.card -->
+      </reasoning>
+      <story-goal>
+        Survival goal becomes concrete: assess resources, understand environment, plan next steps. Can't stay in shuttle—must venture outside to find water, food, shelter. Rescue is distant, survival is immediate.
+      </story-goal>
+      <pov-inner-life>
+        Kira shifts into problem-solving mode - cargo specialist's methodical approach kicks in. Internal monologue less rambling, more focused: priorities, calculations, next steps. Still chatty but purposeful. Buddy's voice interrupts with teaching moments, Kira's learned to redirect ("Buddy, just the numbers"). Shows her adaptability. Fear present but managed—she's functional in crisis. Dark humor about the absurdity (of course nothing works, of course rescue is months away) but no despair. Determination: she's going to survive this.
+      </pov-inner-life>
+      <outline>
+        **BEAT 1: Supply inventory** (120-150 words)
+        - Kira and Buddy go through cargo bay systematically
+        - Buddy wants to teach inventory categorization methods
+        - "Buddy, I need counts, not lessons on taxonomy"
+        - Results: Water (3 days), food rations (1 week), medical supplies (adequate), tools (some salvageable)
+        - Kira's internal: Not enough. Need water source fast.
+        - One container of biological samples still temperature-controlled (waste of power but can't shut it off without code)
+        - Buddy cheerfully points out this is "great practice for resource management!"
+        - Kira notes what's useful: emergency shelter tarp, cutting tools, scanner
+        - Cargo specialist eye: prioritizes portable, multi-use items
+        - Conveys: Limited supplies, need external resources soon, Kira's methodical approach
+
+        **BEAT 2: Shuttle systems check** (100-130 words)
+        - Check what systems still function
+        - Life support: running on emergency power (48 hours max)
+        - Communication: destroyed in crash
+        - Propulsion: completely dead
+        - Distress beacon: tries to activate, nothing
+        - Buddy explains how distress beacons work
+        - Kira: "I know HOW they work, I want to know WHY THIS ONE DOESN'T"
+        - Buddy: "Oh! It's broken! The crash damaged the—"
+        - Shuttle is unfixable, not going anywhere
+        - No way to call for help
+        - Kira's internal: Okay. No quick rescue. No evacuation. This shuttle is home until it's not.
+        - Conveys: Stranded, no help coming quickly, shuttle is temporary shelter only
+
+        **BEAT 3: Environment scan** (120-150 words)
+        - Buddy helps run external sensors (enthusiastically)
+        - "Isn't it exciting to explore a new planet? Let's learn about the local ecosystem!"
+        - Atmosphere: breathable (confirmed), oxygen/nitrogen similar to Earth
+        - Temperature: moderate, within human tolerance
+        - No radiation concerns
+        - Sensors detect water source approximately 800 meters southwest
+        - Plant life abundant (purple-ish vegetation visible through hull breach)
+        - No animal life detected on current scans
+        - No human settlements, structures, or technology signatures
+        - Buddy: "This is just like a field trip! But we should remember safety protocols for outdoor exploration!"
+        - Kira's internal: Unknown planet. Alone. At least I can breathe and there's water.
+        - Conveys: Planet is survivable, water nearby, but completely unknown and uninhabited
+
+        **BEAT 4: Rescue timeline realization** (100-130 words)
+        - Kira calculates when rescue might come
+        - They were on routine run, not due at destination for 6 days
+        - When they don't arrive, investigation starts
+        - But without distress beacon, no location data
+        - Search could take weeks to backtrack route
+        - Then they have to GET here—nearest station is...
+        - "Buddy, calculate travel time from Kepler Station to these coordinates"
+        - Buddy: "Great math practice! Let's break this into steps—"
+        - "Just the answer, Buddy"
+        - "Three weeks minimum, Kira! Isn't it amazing how fast modern ships—"
+        - Kira: So minimum one month, probably two, possibly longer
+        - Internal: I need to survive for MONTHS
+        - Conveys: Rescue is distant, she's on her own for extended period
+
+        **BEAT 5: Survival priorities** (120-150 words)
+        - Kira thinks through immediate needs
+        - Talks it out (cargo specialist habit), Buddy chimes in
+        - Water: 3 days supply, need to find source (800m away per scan)
+        - Food: 1 week rations, need to determine if local plants edible (probably not compatible)
+        - Shelter: shuttle for now, but life support dying, might need alternative
+        - Medical: her leg needs monitoring, infection risk
+        - Safety: unknown planet, unknown hazards
+        - Buddy offers to teach about wilderness survival
+        - Kira: "Later. Right now I need to prioritize."
+        - Decision: Water first. Today, if possible. Can't survive without it.
+        - Then assess food options, better shelter
+        - Methodical. Scientific. One problem at a time.
+        - Conveys: Problem-solving mode, Martian energy, clear priorities
+
+        **BEAT 6: Decision to venture outside** (140-180 words)
+        - Kira looks at the hole in the hull, purple trees beyond
+        - Injured leg, bruised ribs, head still aching
+        - Should rest. Should wait.
+        - But water is three days and 800 meters is close enough
+        - If she doesn't go today, when?
+        - Buddy: "Kira, I'm detecting elevated stress markers! Maybe we should—"
+        - "Buddy, I need to go outside. Help me prep."
+        - Pause. "Are you sure? The safety protocols recommend—"
+        - "I'm sure. What do I need?"
+        - Buddy shifts: "Okay! Let's make a safety checklist! First aid kit, check! Water container, check! Scanning device, check! Emergency shelter tarp—"
+        - Kira gathers supplies while Buddy narrates
+        - Tests weight on injured leg—painful but manageable
+        - Looks out at alien world: purple vegetation, unknown
+        - Internal: Terrified. But also... this is what I wanted, right? Adventure?
+        - "Okay. Let's do this."
+        - Buddy: "Safety first, Kira! I'm so proud of you for being prepared!"
+        - She almost smiles. Almost.
+        - Conveys: Determined despite fear, venturing into unknown, end of Chapter 1
+
+        **TOTAL: 700-890 words across 6 beats**
+      </outline>
+      <plot-arc-act>Act 1 (Contact &amp; Bureaucracy) - concluding immediate crash survival, setting up planet exploration</plot-arc-act>
+      <concludes-arc>false</concludes-arc>
+      <concludes-chapter>true</concludes-chapter>
+      <sources>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/chapter-placement.card" role="Scene 4 outline"/>
+        <ref ref="/stories/Mandatory_Assistance/narrative-guide.card" role="Problem-solving tone and Martian energy"/>
+        <ref ref="/world/world/characters/Kira_Voss.card" role="Kira's resourcefulness and cargo specialist habits"/>
+      </sources>
+    </outline>
+  </version>
+</versions>

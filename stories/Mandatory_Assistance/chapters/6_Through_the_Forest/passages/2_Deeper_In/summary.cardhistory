@@ -1,0 +1,148 @@
+<!-- this file is automatically managed by ske validate; do not edit -->
+<versions>
+  <version number="4.1.0" archived-at="2025-12-10T20:02:05.371Z">
+    <changelog-entry>
+      <message>Initial version</message>
+    </changelog-entry>
+    <!-- Generated automatically, do not edit except with ske gen summaries -->
+    <summary version="4.1.0">
+      <sources>
+        <ref ref="/stories/Mandatory_Assistance/chapters/6_Through_the_Forest/passages/2_Deeper_In/passage#v4.1.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/passage#v4.1.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/2_Aftermath/passage#v2.0.2"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/3_Buddy_Arrives/passage#v2.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/4_Taking_Stock/passage#v2.1.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/1_Into_the_Purple/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/2_Scout/passage#v3.1.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/3_Wellness_Check/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/1_Intake/passage#v2.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/2_Orientation/passage#v2.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/3_Medical_Treatment/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/1_Morning_Wellness/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/2_Dietary_Assessment/passage#v2.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/3_Seeking_Solutions/passage#v2.1.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/5_Settling_In/passages/1_Time_Passing/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/5_Settling_In/passages/2_Journey_Option/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/5_Settling_In/passages/3_Preparation/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/6_Through_the_Forest/passages/1_First_Day/passage#v4.1.0"/>
+      </sources>
+      <narrative-promises>
+        <reasoning>This passage continues Day Two of the journey and largely reinforces worldbuilding and character beats from earlier scenes rather than resolving high-level expedition stakes. It demonstrates more evidence for the forest's active network (electrical signalling, shared resources), Rootwalker's nonverbal alerting, and the presence/use of maintained paths and rest shelters — all of which were set up previously and are now repeatedly demonstrated. Scout shows observable learning (rest-stop patterns, exploration behaviors), but that progress remains ongoing rather than fully completed. Several long-term plot threads (damaged bio-samples, power constraints, rescue timeline, elder response, life-support emergency, the reason for the original navigation failure, etc.) are not mentioned and remain relevant. The passage introduces a few new, concrete foreshadowing beats — explicit mention of “Consensus Groves” (governance structures), a transfer to Territory Two mid-afternoon tomorrow (and the guides’ planned departure), and the warning about communicating with Spiral-type plants (time-perception differences) — which serve as firm hooks for upcoming scenes. Emotional stakes (Kira forming attachment to this team) are also introduced as a tentative promise. Because most operational and rescue-related stakes remain unaddressed and still matter to the overall plot, they are carried forward as open promises. I mark as fulfilled those items from the prior open list that this passage directly demonstrated again: forest electrical transmission of information, Rootwalker’s nonverbal alert system, the fact that paths/rest infrastructure exist and are used, and the concrete, realized Day One pace/distance. I do not mark any high-level mission or safety promises as lapsed because nothing in this passage contradicts or removes them; instead, they remain unresolved and relevant.</reasoning>
+        <fulfilled>
+          <promise id="FOREST_NETWORK_ELECTRICAL_TRANSMISSION">Leafwhisper's explanation and ongoing narration demonstrate that mycorrhizal/mycelial networks transmit information rapidly (electrical signalling) and coordinate across species; the passage repeatedly shows the network coordinating resources and communication across the forest.</promise>
+          <promise id="ROOTWALKER_NONVERBAL_ALERTS">Rootwalker's habit of stopping, pacing, and giving minimal verbal cues ('Time', directional words) is shown again and used reliably as a guidance/alert system during the walk and rest stops.</promise>
+          <promise id="PLANT_MAINTAINED_PATHS_AND_REST_INFRASTRUCTURE">The party uses multiple designated rest stops, maintained path markers, woven shelters and moss beds; the passage demonstrates that territories maintain travel infrastructure and rest shelters.</promise>
+          <promise id="TRAVEL_PACE_23KM_DAY_ONE">The timeline/distance for Day One (about 23 km) is established as an actual completed segment of the trip and the party proceeds into Day Two consistent with that pace.</promise>
+        </fulfilled>
+        <open>
+          <promise id="BIO_SAMPLES_TEMPERATURE_FLUCTUATION" tentative="false" introduced="1">The glowing biological-samples container with temperature/power problems remains unresolved and could still affect power/safety decisions.</promise>
+          <promise id="BIO_SAMPLES_COMPROMISE_OR_RELEASE" tentative="false" introduced="1">Damaged cargo and the glowing cooler still pose an unresolved risk that biological samples were compromised or released; no new evidence in this passage resolves that risk.</promise>
+          <promise id="COORDINATES_MISMATCH_SECRET_MISSION" tentative="false" introduced="1">Hints of coordinate/route discrepancies or hidden mission details remain unexplained and relevant to why the shuttle/crew are here.</promise>
+          <promise id="NAVIGATION_FAILURE_CAUSE" tentative="false" introduced="1">The root cause of the shuttle's navigation/communications/stabilizer failure (mechanical, interference, or sabotage) has not been revealed and is still unresolved.</promise>
+          <promise id="STRANDED_ON_UNKNOWN_PLANET" tentative="false" introduced="2">Kira remains effectively stranded on an uncharted but breathable world; being outside the facility and traveling doesn't remove the larger stranded/survival stakes.</promise>
+          <promise id="CARGO_DAMAGE_AND_SUPPLIES_STATUS" tentative="true" introduced="2">Exact state of mission supplies (what survived, what is mission-critical) remains unresolved; plant synthesis of food reduces but does not eliminate this uncertainty.</promise>
+          <promise id="LIFE_SUPPORT_EMERGENCY_POWER_48_HOURS" tentative="false" introduced="4">Shuttle/facility life-support emergency power with limited duration remains an unresolved constraint affecting decisions.</promise>
+          <promise id="RESCUE_ESTIMATE_DELAYED_LONG" tentative="true" introduced="4">The earlier tentative expectation that recovery/detection will take a long time remains unresolved and continues to shape planning.</promise>
+          <promise id="BIO_SAMPLES_POWER_DRAIN_CONSTRAINT" tentative="false" introduced="4">The glowing biological-samples cooler's ongoing power draw and its tradeoffs remain unresolved.</promise>
+          <promise id="PREVIOUS_VISITOR_DEATH_LEARNED_HUMAN_PROTOCOLS" tentative="false" introduced="7">The plants' backstory about a previous visitor and any associated death or history that informed protocols remains unresolved.</promise>
+          <promise id="PLANTS_MAY_MISINTERPRET_HUMAN_CUSTOMS" tentative="true" introduced="7">Because the plants learned 'Standard' from human materials, their model of human behavior/help may be skewed; their literal/formal processes remain relevant (the passage even references HR manuals and wellness checks).</promise>
+          <promise id="LIVING_FACILITY_BREATHING_ARCHITECTURE" tentative="false" introduced="8">The facility's living, breathing vine architecture remains a core environmental factor and continues to shape the world even as the scene moves into the forest.</promise>
+          <promise id="PLANT_NETWORK_SHARED_CONSCIOUSNESS" tentative="false" introduced="8">The fungal/plant signalling network and the idea of shared communication and resource exchange remain active and relevant to future scenes.</promise>
+          <promise id="COLLECTIVE_EMERGENCY_CONTACT" tentative="false" introduced="8">The plants' offer to act as a collective emergency contact remains possible but unused in this scene.</promise>
+          <promise id="REMEDY_TREATMENT_EFFECTIVE_6_8_HOURS" tentative="false" introduced="8">Earlier detail about the time-window of Remedy's treatment (6–8 hours) remains unresolved; the passage shows healing but does not confirm the original time-window detail.</promise>
+          <promise id="ROBOT_PLANT_COMMUNICATION_INTEGRATION" tentative="false" introduced="10">Remedy and the fungal/plant network's coordinated signalling and harvesting remain functionally active in the background; the forest network's activity supports this integration.</promise>
+          <promise id="REMEDY_DECOMPOSITION_KNOWING_WARNING" tentative="true" introduced="11">Remedy's earlier casual/ominous comment about decomposition remains an atmospheric, tentative hint; it has not been addressed here.</promise>
+          <promise id="DAILY_HEALTH_STATUS_CHECKS" tentative="false" introduced="11">Holloway's daily 'health status update' remains a recurring protocol and continues to exist offstage.</promise>
+          <promise id="SCOUT_COMMUNICATION_PROGRESS" tentative="true" introduced="11">Kira is still learning Scout's nonverbal language; the passage shows Scout adapting and participating on the trip but the learning/progress remains ongoing.</promise>
+          <promise id="LONG_TERM_FOOD_SAFETY_UNKNOWN" tentative="true" introduced="12">Long-term biocompatibility and safety of novel fungal proteins and vitamin formulations remain unresolved despite immediate acceptance on the trip.</promise>
+          <promise id="REGULAR_MEAL_SCHEDULE_THREE_TIMES_DAILY" tentative="false" introduced="12">Remedy/Holloway's recurring meal schedule continues to be followed in practice; the larger implications remain open.</promise>
+          <promise id="ELDER_HEARTWOOD_QUERY_SUBMITTED" tentative="false" introduced="13">Kira's formal petition to Elder Heartwood is still pending; travel is the active alternative while that query waits.</promise>
+          <promise id="ELDER_HEARTWOOD_RESPONSE_8_12_WEEKS" tentative="false" introduced="13">Holloway's earlier estimated response timeline (8–12 weeks) remains outstanding and has not arrived; travel proceeded instead.</promise>
+          <promise id="ELDER_GUIDANCE_PENDING" tentative="true" introduced="13">The content/outcome of Elder Heartwood's guidance remains unresolved and may affect future decisions.</promise>
+          <promise id="TRAVEL_QUEST_TO_ANCIENT_GROVE" tentative="false" introduced="14">The Ancient Grove journey is underway—Day Two is complete and the larger quest across territories continues.</promise>
+          <promise id="FLORENCE_WILL_PREPARE_VOCABULARY_PATTERNS" tentative="false" introduced="14">Florence promised to prepare vocabulary patterns/dictionary entries; a formal set hasn't been delivered yet.</promise>
+          <promise id="BUDDY_CATALOGS_FLOWER_LESSONS" tentative="false" introduced="14">Buddy is still cataloging and recording flower-language lessons; this continues as an ongoing task during travel.</promise>
+          <promise id="TRAVEL_SEVEN_TERRITORIES_ROUTE_DETAILS" tentative="false" introduced="15">The route through seven distinct territories remains the structural arc for the journey; Day Two fits into that route but the full passage through seven territories is unresolved.</promise>
+          <promise id="TRAVEL_TIME_ESTIMATE_25_DAYS" tentative="false" introduced="15">Holloway's planning estimate (~25 days) remains an actionable timeline but is not yet validated by completed travel.</promise>
+          <promise id="TERRITORY_VARIETY_AND_CHALLENGES" tentative="false" introduced="15">Differences between territories and the likely episodic obstacles/cultural encounters remain a live expectation after Day Two's contrasting environment and practices.</promise>
+          <promise id="RESEARCH_WETLAND_DECOMPOSITION" tentative="true" introduced="15">Buddy/Remedy's interest in observing aquatic/wetland decomposition remains an explicit research subplot to be pursued later in the route.</promise>
+          <promise id="KIRA_WILL_DOCUMENT_DECOMPOSITION_FOR_REMEDY" tentative="false" introduced="16">Kira's explicit commitment to take notes on decomposition patterns in wetlands for Remedy is still outstanding (wetlands have not yet been reached).</promise>
+          <promise id="KIRA_WILL_PRACTICE_AND_RETURN_SHOW_FLOWER_LANGUAGE_PROGRESS" tentative="false" introduced="16">Kira's vow to practice flower-language on the road and return to demonstrate progress to Florence remains in effect; she is actively practicing.</promise>
+          <promise id="PLANT_NETWORK_EXPEDITED_PROCESSING_MAY_SIGNAL_SPECIAL_SCRUTINY" tentative="true" introduced="16">The plants' attentive service and the 'first human traveler' label may foreshadow special scrutiny or favors; the passage reinforces that the guides are attentive and proud.</promise>
+          <promise id="BUDDY_WILL_STUDY_INTER_TERRITORIAL_PROTOCOLS" tentative="false" introduced="16">Buddy plans to question and catalog inter-territorial communication/administrative protocols; this continues to drive conversational scenes on the trip.</promise>
+          <promise id="BUDDY_WILL_STUDY_INTER_TERRITORIAL_PROTOCOLS" tentative="false" introduced="16">Buddy plans to question and catalog inter-territorial communication/administrative protocols; this continues to drive conversational scenes on the trip.</promise>
+          <promise id="KIRA_ATTACHMENT_TO_GUIDES" tentative="true" introduced="18">Kira is forming an emotional attachment to Leafwhisper and Rootwalker; this tentative emotional stake may complicate the planned transfer to new guides tomorrow.</promise>
+          <promise id="PLANT_GOVERNANCE_CONSENSUS_GROVES" tentative="false" introduced="18">Leafwhisper explicitly promises 'Consensus Groves' — a plant governance structure — as an upcoming location/encounter deeper in the forest, foreshadowing civic/ritual or political scenes.</promise>
+          <promise id="SPIRAL_TYPES_LAYERED_TIME_COMMUNICATION_CHALLENGE" tentative="false" introduced="18">Spiral-type plants perceive time in layered, non-linear ways; Leafwhisper warns communication will be challenging — this sets up likely misunderstandings or special interaction scenes.</promise>
+          <promise id="TRANSFER_TO_TERRITORY_TWO_NEXT_DAY" tentative="false" introduced="18">Leafwhisper states that tomorrow the party will reach the boundary mid-afternoon and be transferred to Territory Two guides, while Rootwalker and Leafwhisper return home.</promise>
+        </open>
+      </narrative-promises>
+      <facts>
+        <reasoning>Selected facts are those that introduce new, persistent worldbuilding or traveler-state details that will matter later: a named plant social structure (Consensus Groves), a newly described cognitive class of plants (Spiral-types) with unusual time perception, clarification of Scout's sensory modalities (limits on thought-sharing), the concrete distance/time result for Day Two of Kira's trek, and the immediate schedule for crossing Territory One (boundary transfer mid-afternoon and guides' return). I did not include transient details (meal taste, momentary emotions) or items already captured in the long previous fact list. I found no contradictions with the previously established facts.</reasoning>
+        <established>
+          <fact id="CHANGE_KIRA_COMPLETED_DAY_TWO_20_KM">On Day Two of the escorted journey Kira and her guides covered approximately 20 kilometers and reached the second rest shelter in the evening.</fact>
+          <fact id="CHANGE_CONSENSUS_GROVES_EXIST">The plant collective includes named decision-making / governance entities called 'Consensus Groves' used for group coordination and decisions.</fact>
+          <fact id="CHANGE_SPIRAL_TYPE_SPECIES">There exists a class of plants ('Spiral-types') that process information via rotational growth patterns and experience time in layered/concurrent states (past/present/future simultaneously), making cross-species communication with linear-time species challenging.</fact>
+          <fact id="CHANGE_SCOUT_SENSORY_MODALITY">Scout primarily perceives other organisms through physical bounce patterns, surface texture, and chemical signatures rather than direct thought-sharing; plant species vary in how much networked/mental information they share.</fact>
+          <fact id="CHANGE_BOUNDARY_TRANSFER_SCHEDULE">Territory One crossing is treated as a three-day relay; tomorrow is the final day in Territory One with a mid-afternoon boundary transfer to Territory Two guides, and Leafwhisper and Rootwalker will return home after handing Kira off.</fact>
+        </established>
+        <conflicts/>
+      </facts>
+      <timing>
+        <reasoning>Temporal cues in the passage indicate it begins the morning after the previous passage’s evening rest and runs through that second day until evening. Opening lines: “I wake sore but excited” and Leafwhisper’s “Good morning! Ready for day two?” place the start at morning. The passage then moves through daytime walking, rest stops, an afternoon of questions, and ends when they reach the second rest shelter “that evening” and finish twenty kilometers, with plans for tomorrow. The previous passage ended at night (authoritative outline time 2687-03-23T20:00); this passage therefore begins the next morning and ends the same calendar day in the evening. The likely activities in the gap are sleep, night shelter, and morning routines (breakfast, packing, starting out).</reasoning>
+        <starts>2687-03-24T07:00 (approx morning)</starts>
+        <ends>2687-03-24T18:00 (approx evening)</ends>
+        <gap-from-previous>~11 hours (from 2687-03-23T20:00 to ~2687-03-24T07:00). Likely used for sleep, night at the shelter, morning water/breakfast (mushroom paste), and preparing to set out.</gap-from-previous>
+        <plausibility>Plausible. An ~11-hour overnight gap is a normal interval for sleeping and morning routine after ending the previous passage at ~20:00. The day’s described activity—walking ~20 km with multiple rest stops, explanatory conversation, and at least one midday rest—fits comfortably into a roughly 10–11 hour daytime window (start in the morning, end by early-to-late evening). No timing contradictions appear within the passage. Note: there is an inconsistent earlier note showing the previous passage’s end as 2687-03-23T18:00, but per the instruction the authoritative previous end time 2687-03-23T20:00 was used; either previous-end choice still yields the same qualitative gap (overnight) and the schedule remains plausible.</plausibility>
+      </timing>
+      <characters>
+        <reasoning>Start-of-scene baseline includes characters carried over from the previous passage, but only those who are mentioned or appear in this passage should be listed as present. The narrator (Kira Voss) is the first-person speaker. Buddy speaks early, Leafwhisper is nearby and speaks extensively, Rootwalker appears with water and guides the pace, and Scout explores and interacts. Holloway is mentioned by Leafwhisper as an example ("Some species like Holloway back at the facility...") so Holloway is included because they are referenced in the passage. No other named characters from the available list are mentioned. The passage does not explicitly describe any character leaving the scene, so no one is listed as exited. None of the provided entity cards are referenced (the passage mentions Territory One and a facility but those entity cards are not in the available-entities list), so the entities list is empty.</reasoning>
+        <present>
+          <character ref="/world/world/characters/Kira_Voss.card"/>
+          <character ref="/world/world/characters/Buddy.card"/>
+          <character ref="/world/world/characters/Scout.card"/>
+          <character ref="/world/world/characters/Rootwalker.card"/>
+          <character ref="/world/world/characters/Leafwhisper.card"/>
+          <character ref="/world/world/characters/Holloway.card"/>
+        </present>
+        <entered>
+          <character ref="/world/world/characters/Holloway.card"/>
+        </entered>
+        <entities/>
+      </characters>
+      <story-so-far>
+        <reasoning>This passage advances the travel through Territory One (day two) and deepens Kira’s learning about plant society and inter-species cognition. I added facts about day-two distance, the guides’ personalities and motivations, and key conceptual revelations (plant governance, mycorrhizal/networked communication, Spiral-type non-linear time perception, spectrum of communication abilities, Scout’s sensory mode). I consolidated/trimmed some earlier sensory or repetitive details (e.g., specific tastes, repetitive notes about Buddy recording) and kept unresolved, plot-relevant problems (active Biological Samples container, SAM offline, broken external comms/distress beacon, Elder Heartwood delay). I retained chronological order and focused bullets on actions, developments, and items that matter going forward (travel progress, transfers, social bonds, scientific/communication revelations).</reasoning>
+        <summary>
+          - Shuttle carrying mining/terraforming supplies and a container labeled “Biological Samples” struck the hull during approach and crashed; Kira Voss survived while several crew died.
+          - Shipboard AI SAM is offline; emergency protocols brought Kira’s neural link online and Buddy, an assistant AI, was instantiated; external communications and the ship’s distress beacon remain broken.
+          - Hull breach exposed breathable atmosphere and alien vegetation; a local plant collective (Scout, Holloway, cooperative spheres, Central Coordination) found and sheltered Kira; the crashed shuttle served as temporary shelter.
+          - The Biological Samples container remains active, glowing, drawing power, and cannot be shut down.
+          - Kira integrated with Scout, Holloway, Remedy (a salvage-built humanoid doctor), Buddy and the plant collective; Remedy treated Kira’s injured leg and cleared her medically within a week.
+          - Kira petitioned Elder Heartwood in the Ancient Grove for formal permissions; Elder response will take weeks.
+          - Kira submitted an inter‑territorial travel request; it was approved on an expedited timeline and departure was set for dawn with Buddy and Scout accompanying.
+          - Two guides (Leafwhisper: mobile, talkative mycorrhizal/network specialist; Rootwalker: quiet, methodical terrain specialist) were assigned and departed with Kira into Territory One.
+          - Day one established travel patterns (Rootwalker leads steady pace, Leafwhisper explains ecology and network behavior); roughly ~23 km covered in ~8–9 hours with regular rests and a woven plant shelter camp.
+          - Day two: Kira woke sore but adapted to the rhythm; Buddy asked many questions and Scout remained an inquisitive mobile companion.
+          - During day two Kira learned major conceptual details about plant society: formalized governance/Consensus Groves, extensive root/fungal networks for resource and information sharing, and merged root/trunk structures creating physically integrated organisms.
+          - Kira learned that inter-species cognition varies on a spectrum: some species (e.g., Holloway) access networked underground communication; others (like Scout) rely on physical/chemical perception; some Spiral-type species perceive time nonlinearly (layers rather than sequence), complicating communication.
+          - Leafwhisper and Rootwalker explained their motivations for guiding (Leafwhisper: exploration and information-sharing; Rootwalker: terrain/navigation) and demonstrated complementary communication styles.
+          - By evening of day two Kira reached ~20 km for the day; Leafwhisper said the boundary to Territory Two will be reached mid-afternoon tomorrow and Kira will transfer to Territory Two guides; Leafwhisper and Rootwalker will return home.
+          - Outstanding unresolved issues still matter: the active Biological Samples container, SAM remaining offline, broken external communications/distress beacon, and Elder Heartwood’s pending response.
+        </summary>
+      </story-so-far>
+      <emotional-journey>
+        <reasoning>POV feelings: Kira wakes physically sore but emotionally buoyant — excited, determined, and increasingly at ease in the rhythm of travel. The passage foregrounds her embodied adaptation (muscles aching, then settling into a remembered gait) and a growing emotional attachment to her guides and the living forest (tightness in the chest, missing Earth trees reframed as longing). Reader experience: warm reassurance and gentle uplift with a thread of bittersweetness; the scene reduces prior high-stakes tension and emphasizes repair, learning, and belonging. Multiple beats vs dominant tone: there are several emotional beats layered here — (1) physical soreness turning into determination/acceptance as she finds rhythm, (2) wonder and intellectual curiosity as the forest’s social complexity is explained, and (3) intimate, slightly melancholic attachment at the prospect of imminent parting. Compared to the story so far: this continues and deepens the existing trajectory from isolated survivor to integrated traveler — the passage is quieter and restorative rather than suspenseful, reinforcing trust-built and identity-shift beats already present. Surprises: none meaningful — the information about governance, consensus groves, and the guides’ personalities reiterates earlier worldbuilding rather than contradicting expectations. Character change: Kira shows measurable physical adaptation (her body remembering the rhythm) and deepening social attachment to the guides (acceptance/trust). Minor learning also occurs for Scout (picking up rest-stop patterns). No major reversals or secrets are revealed.</reasoning>
+        <beats>
+          <beat tags="determination, acceptance">Kira wakes sore but excited; initial bodily pain gives way to a dull background ache as she finds the walking rhythm. The dominant feeling is resolute acceptance — her body and mind settling into travel. The reader feels relief and steady encouragement, watching recovery translated into practical forward motion.</beat>
+          <beat tags="wonder, longing">Leafwhisper explains complex cognitive/ecological structures and Kira experiences intellectual wonder at the forest-as-society. This is paired with a tight, nostalgic longing when she compares these living systems to Earth trees. The reader shares awe at the alien social ecology and a tender, elegiac sense of what Kira has lost and gained.</beat>
+          <beat tags="intimacy, acceptance">At day's end Kira feels warm attachment and a small ache at the impending goodbye to her guides. The beat is intimate and quietly bittersweet — belonging in the present coupled with acceptance that the team will part tomorrow. The reader experiences cozy, bittersweet closure of the day rather than suspense.</beat>
+        </beats>
+        <character-development>
+          <development character="Kira Voss" tag="trust-built">Physically and psychologically adapts further to travel: her body 'remembers' the walking rhythm (improved stamina/skill) and she deepens emotional attachment to her guides, accepting them as a found team/family.</development>
+          <development character="Kira Voss" tag="skill-learned">Demonstrates clear embodied learning—reduced visible fatigue and more efficient movement after a day of walking, showing practical skill acquisition and strengthened resilience.</development>
+          <development character="Scout" tag="skill-learned">Shows small behavioral learning (adopting rest-stop patterns and calmly settling against Kira), indicating growing social attunement to human travel routines.</development>
+        </character-development>
+      </emotional-journey>
+    </summary>
+  </version>
+</versions>

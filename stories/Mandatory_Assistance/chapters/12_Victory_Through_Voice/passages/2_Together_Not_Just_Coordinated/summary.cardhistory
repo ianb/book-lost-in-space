@@ -1,0 +1,167 @@
+<!-- this file is automatically managed by ske validate; do not edit -->
+<versions>
+  <version number="2.0.0" archived-at="2025-12-10T20:02:05.029Z">
+    <changelog-entry>
+      <message>Initial version</message>
+    </changelog-entry>
+    <!-- Generated automatically, do not edit except with ske gen summaries -->
+    <summary version="2.0.0">
+      <sources>
+        <ref ref="/stories/Mandatory_Assistance/chapters/12_Victory_Through_Voice/passages/2_Together_Not_Just_Coordinated/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/passage#v4.1.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/2_Aftermath/passage#v2.0.2"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/3_Buddy_Arrives/passage#v2.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/4_Taking_Stock/passage#v2.1.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/1_Into_the_Purple/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/2_Scout/passage#v3.1.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/3_Wellness_Check/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/1_Intake/passage#v2.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/2_Orientation/passage#v2.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/3_Medical_Treatment/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/1_Morning_Wellness/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/2_Dietary_Assessment/passage#v2.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/3_Seeking_Solutions/passage#v2.1.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/5_Settling_In/passages/1_Time_Passing/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/5_Settling_In/passages/2_Journey_Option/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/5_Settling_In/passages/3_Preparation/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/6_Through_the_Forest/passages/1_First_Day/passage#v4.1.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/6_Through_the_Forest/passages/2_Deeper_In/passage#v4.1.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/6_Through_the_Forest/passages/3_Boundary/passage#v4.0.1"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/7_Rivers_and_Wetlands/passages/1_River_Crossing/passage#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/7_Rivers_and_Wetlands/passages/2_Wetlands/passage#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/7_Rivers_and_Wetlands/passages/3_Second_Boundary/passage#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/8_Hills_and_Heights/passages/1_Climbing/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/8_Hills_and_Heights/passages/2_The_Ancient_Grove/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/8_Hills_and_Heights/passages/3_Hope_and_Return/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/9_Disappointing_Answer/passages/1_Settling_In/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/9_Disappointing_Answer/passages/2_The_Answer_Arrives/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/9_Disappointing_Answer/passages/3_What_We_Know/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/10_Trust_Complicated/passages/1_False_Wisdom/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/10_Trust_Complicated/passages/2_The_Deception/passage#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/10_Trust_Complicated/passages/3_Broken_Trust/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/11_Under_Attack/passages/1_Delegation_Fails/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/11_Under_Attack/passages/2_Attack_Begins/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/11_Under_Attack/passages/3_Desperate_Cooperation/passage#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/12_Victory_Through_Voice/passages/1_Voices_Emerging/passage#v3.0.0"/>
+      </sources>
+      <narrative-promises>
+        <reasoning>This passage delivers the imminent attack set up previously, shows the group's new collaborative leadership in action, and resolves several tactical setups from the last passage while leaving longer-term social and resource issues open. Specific payoffs: the planned imminent assault happened and the defensive/tactical elements (Runner's misdirection, Velvet's layered barriers, Remedy's trap-focus) were executed and tested; a major reveal (the hostile command node) was located and destroyed. Florence's shift to collaborative leadership was demonstrated in the heat of battle (so that promise is satisfied in action), and the group's move from necessity-driven coordination toward authentic cooperation was strongly reinforced but not finalized. No major previous open promise is directly contradicted or rendered irrelevant; most are strengthened or remain risks going forward (resource depletion, structural damage, Runner's injuries, hostile adaptation). I introduce three forward-looking narrative threads: immediate post-battle resource crisis (firm), whether the newly strengthened trust will solidify into lasting cooperation (tentative), and the likelihood that hostiles—having lost a central node—will adapt by decentralizing or changing tactics (tentative). No previous open promise is clearly abandoned by the story (hence no lapses), but several have now been fulfilled and should be marked as such.</reasoning>
+        <fulfilled>
+          <promise id="FLORENCE_COLLABORATIVE_LEADERSHIP">Florence's shift from command-only to soliciting, integrating, and coordinating others' ideas was demonstrated repeatedly during the preparation and battle.</promise>
+          <promise id="HOSTILES_IMMINENT_ATTACK">The predicted imminent attack actually began in this passage (minutes before the engagement), triggering the planned defensive responses.</promise>
+          <promise id="RUNNER_MISDIRECTION_DEPLOYED">Runner's deliberately placed false weak point successfully lured a large hostile commitment to the northwest and was tested in the engagement.</promise>
+          <promise id="VELVET_LAYERED_DEFENSE_DEPLOYMENT">Velvet's layered barriers were built and used in the attack; layers and gaps functioned as intended during the engagement.</promise>
+          <promise id="REMEDY_FOCUSED_TRAP_DEPLOYMENT">Remedy concentrated limited chemical production into aggressive trap zones in the gaps and those traps were deployed and effective during the assault.</promise>
+        </fulfilled>
+        <open>
+          <promise id="HOSTILE_PLANTS_TERRITORIAL_MARKERS" tentative="false" introduced="29">Hostile plant aggression remains perimeter-focused and territorial probing continues to shape where we defend and what areas are vulnerable.</promise>
+          <promise id="FLORENCE_EXILE_OR_SEPARATION" tentative="false" introduced="30">Florence remains socially and physically somewhat separate; she has moved closer to the group but is still not fully included.</promise>
+          <promise id="FLORENCE_TRUST_REBUILDING" tentative="true" introduced="30">Florence's reintegration and the rebuilding of trust is in progress—this passage shows significant progress but not full reconciliation or acceptance.</promise>
+          <promise id="FLORENCE_IDENTITY_CRISIS" tentative="true" introduced="30">Questions about Florence's role, authority, and belonging persist after a failed plan and a collaborative recovery; her long-term identity/role is unresolved.</promise>
+          <promise id="POSSIBILITY_OF_POST_ATTACK_REPENTANCE_OR_RESENTMENT" tentative="true" introduced="32">Whether the group moves toward real forgiveness, grudging dependence, or lingering resentment after the conflict is still undecided despite cooperative success.</promise>
+          <promise id="FLORENCE_WILL_WITHDRAW_IF_REJECTED" tentative="false" introduced="33">Florence previously stated she'll return to isolation if rejected; she remains present but that condition still matters going forward.</promise>
+          <promise id="HOSTILE_PLANTS_ADAPTIVE_TACTICS" tentative="true" introduced="33">Hostile plants have shown sophisticated, adaptive tactics (including coordinated probing and command-node coordination); this adaptive threat remains active.</promise>
+          <promise id="RESOURCE_SHORTAGE_THREAT" tentative="true" introduced="33">Remedy, Velvet, Runner and others are operationally depleted; limited resources and stamina remain a critical constraint for future actions.</promise>
+          <promise id="DAILY_COOPERATION_TRACK_ADAPT" tentative="false" introduced="28">The group's practice of tracking what works and iterating tactics continues; this successful adaptation must continue if they are to survive future attacks.</promise>
+          <promise id="TRUST_EACH_OTHER_OVER_ELDER" tentative="false" introduced="28">The longer-term question of whether the group will rely on internal judgment or defer to Florence persists—this passage shows a mixed, collaborative pattern that remains unsettled.</promise>
+          <promise id="RUNNER_MEDICAL_NEEDS_UNCERTAIN" tentative="true" introduced="34">Runner emerged badly torn and leaking after the battle; their medical needs and recovery are unresolved and urgent.</promise>
+          <promise id="REMEDY_RECHARGE_DELAY" tentative="false" introduced="34">Remedy is nearly empty after concentrated trap deployments; the production/recharge delay remains a constraint for future defense and recovery.</promise>
+          <promise id="HOSTILE_EXTENDED_SIEGE_EXPECTED" tentative="false" introduced="34">Although today's coordinated assault was defeated, hostiles will regroup and a longer-term campaign or renewed siege remains likely.</promise>
+          <promise id="FLORENCE_EXHAUSTION_RISK" tentative="true" introduced="34">Florence continues heavy coordination under damage and stress; exhaustion and physical damage to her platform remain risks for future leadership capacity.</promise>
+          <promise id="STRUCTURAL_DAMAGE_REPAIR_NEEDS" tentative="true" introduced="34">The facility is heavily damaged from assaults and the central eruption; repairs and triage will be necessary and will affect priorities and capabilities.</promise>
+          <promise id="VELVET_PERIMETER_FAILURE_RISK" tentative="true" introduced="34">Velvet's resource depletion and barrier breaches show the perimeter remains vulnerable under sustained or renewed pressure.</promise>
+          <promise id="GROUP_COOPERATION_TRANSITIONING_FROM_NECESSITY_TO_AUTHENTICITY" tentative="true" introduced="35">The group has moved toward authentic cooperation (not only necessity-driven) by jointly improvising a solution; whether this holds long-term is unresolved.</promise>
+          <promise id="BUDDY_INTEGRATED_TACTICAL_ROLE" tentative="true" introduced="35">Buddy's early integration into tactical monitoring was reinforced earlier; his continued tactical usefulness and role in future coordination remain relevant.</promise>
+          <promise id="POST_BATTLE_RESOURCE_CRISIS" tentative="false" introduced="36">After the engagement Remedy, Velvet, Runner and other resources are critically depleted; recovering supplies and capability will be an immediate, constraining problem.</promise>
+          <promise id="GROUP_TRUST_SOLIDIFICATION" tentative="true" introduced="36">The shared victory has strengthened mutual trust and demonstrated cooperative effectiveness; whether this develops into stable, durable trust remains uncertain.</promise>
+          <promise id="ENEMY_DECOUPLED_ADAPTATION" tentative="true" introduced="36">With the central hostile command node destroyed, the immediate coordination collapse is real — but hostiles may adapt by decentralizing or developing new coordination methods, creating a different future threat.</promise>
+        </open>
+      </narrative-promises>
+      <facts>
+        <reasoning>I extracted only novel, durable facts that will matter later: discovery and elimination of a hostile command node (changes the tactical/strategic situation), the defenders' use of a specific collective tactic to force that node to surface, the resulting loss of hostile coordination and retreat, and the defenders' resource/state changes (Remedy exhausted, Velvet heavily depleted, Florence less isolated, stronger practical teamwork). I avoided repeating prior established facts (Runner injured, prior reserves low, core intact, etc.) unless this passage updated their state. No statements in the passage contradict earlier facts, so no conflicts are flagged.</reasoning>
+        <established>
+          <fact id="CHANGE_HOSTILE_COMMAND_NODE_DISCOVERED">Defenders identified a central hostile command node (a massive underground root network emitting bioluminescent signals) located ~50 meters east that was coordinating the assaults.</fact>
+          <fact id="CHANGE_TACTIC_FORCE_COMMAND_NODE_SURFACE_SUCCESS">The defenders executed a coordinated tactic—combined downward growth (Velvet + Runner) plus Remedy's chemical accelerants/withering compounds—to force the hostile command node to surface into the perimeter.</fact>
+          <fact id="CHANGE_HOSTILE_COMMAND_NODE_DESTROYED">The command node surfaced into the facility perimeter and was attacked simultaneously (Velvet constriction, Runner severing, Remedy chemicals, Holloway blocking) and collapsed/destroyed, causing hostile forces to lose coordination and withdraw.</fact>
+          <fact id="CHANGE_REMEDY_CHEMICAL_RESERVES_DEPLETED">Remedy expended essentially all remaining chemical/defensive reagents during the counterattack and is now chemically empty (no further significant chemical deployments available).</fact>
+          <fact id="CHANGE_VELVET_RESOURCE_DEPLETION_AND_WITHERED">Velvet diverted substantial growth/resources during the gambit and is now heavily depleted/withered and damaged from resource exhaustion.</fact>
+          <fact id="CHANGE_GROUP_COLLECTIVE_TACTICS_AND_TRUST_STRENGTHENED">The successful improvisational, multi-agent operation materially strengthened the party's practical ability to collaborate: members report increased willingness to listen, contribute, and trust one another for coordinated action (functional/teamwork trust, not full social reconciliation).</fact>
+          <fact id="CHANGE_FLORENCE_PARTIAL_REINTEGRATION_PROGRESS">Florence remains socially separate but is noticeably less isolated—others accepted and executed a plan she coordinated and she acknowledged the group's contributions, marking measurable progress toward reintegration.</fact>
+        </established>
+        <conflicts/>
+      </facts>
+      <timing>
+        <reasoning>
+          Temporal cues in the text place this passage immediately after the previous one. The previous passage ends with the hostile plants returning and everyone in position/preparation; the current passage opens with 'The attack starts subtly' and immediate action (Florence calling 'Positions!' and the first assault hitting the eastern wall). The previous-passage authoritative end time provided is 2687-04-23T10:00, so this passage begins essentially at that moment. The scene describes a sequence of combat phases (eastern approach, northern, underground surge at a false weak point, a failed solo attempt, a rapid regroup and collective plan, then the combined downward growth, eruption of the command node, and the final coordinated defeat). Those events unfold without any explicit long breaks or scene cuts, implying continuous action. 
+
+          I estimate the battle sequence takes on the order of tens of minutes (not hours): initial probes and the chemical trap response, Runner's attempted underground approach and failure, the short countdown (30s/10s) for the deliberate feint, Velvet's exhaustion and immediate follow-on plan, and the combined downward growth and surfacing of the command node all fit into a single connected combat episode. Taken together, a plausible duration is roughly 15–30 minutes. 
+
+          Note: there is a conflicting time in the materials (a summary-end time of 2687-04-23T10:50 appears), but the prompt marked 2687-04-23T10:00 as authoritative; this analysis uses the authoritative 10:00 end of the previous passage as the reference point.
+        </reasoning>
+        <starts>2687-04-23T10:00</starts>
+        <ends>2687-04-23T10:25</ends>
+        <gap-from-previous>none — the passage begins immediately following the previous passage (continuous action). Events flow straight from readiness/preparation into the attack and counterattack.</gap-from-previous>
+        <plausibility>
+          Plausible. The timeline supports a continuous combat episode lasting on the order of 15–30 minutes: initial probes and trap activations, short coordinated countdowns (30s/10s), a failed solo underground effort, and a rapid regroup to a collective plan. The characters' actions (redirecting barriers, deploying chemicals, initiating a coordinated diversion, then combining growth and chemical accelerants) are all described as rapid, emergency improvisations and can reasonably occur within this window in the story's fictional biology/tech context.
+
+          Minor caveat: the most dramatic element — forcing a large subterranean command node to surface via accelerated growth and chemical gradients — might seem like it would normally take longer than minutes in realistic biology. However, the text explicitly has growth accelerants and focused, high-resource efforts (and the plants already operate on faster-than-human timescales in the scene), so within the established speculative-fiction rules it is acceptable. Overall, no major timing contradictions internal to the passage; the only external discrepancy is a conflicting summary time (10:50) which I did not use because the prompt labeled 2687-04-23T10:00 authoritative.
+        </plausibility>
+      </timing>
+      <characters>
+        <reasoning>Characters explicitly named or clearly present in this passage: the narrator (Kira Voss, referred to as “me”), Scout, Florence, Velvet, Remedy, Runner, and Holloway. No other named characters from the available list are mentioned. Nobody new arrives during the scene — characters (Runner, Velvet, Remedy, etc.) move, dive, or surface but were already present at the start. Likewise, no character leaves the scene before it ends. The scene takes place in/around the damaged facility; of the available entity cards, the planetary/location card that fits is Sector_7-Gamma-412_Planet. Uncharted_with_Maverick_Stone is not referenced.</reasoning>
+        <present>
+          <character ref="/world/world/characters/Kira_Voss.card"/>
+          <character ref="/world/world/characters/Scout.card"/>
+          <character ref="/world/world/characters/Florence.card"/>
+          <character ref="/world/world/characters/Velvet.card"/>
+          <character ref="/world/world/characters/Remedy.card"/>
+          <character ref="/world/world/characters/Runner.card"/>
+          <character ref="/world/world/characters/Holloway.card"/>
+        </present>
+        <entities>
+          <entity ref="/world/entities/Sector_7-Gamma-412_Planet.card"/>
+        </entities>
+      </characters>
+      <story-so-far>
+        <reasoning>This passage describes the renewed coordinated assault, specific tactical exchanges (east neutralized by Remedy, north stalled by Runner, northwest false-weakness overcommitted attackers), Runner locating an underground hostile command node but failing alone, and the group's collective solution to force that node to surface (Velvet+Runner growth with Remedy chemicals) and destroy it. I added those events and outcomes, updated character/resource statuses (Runner, Velvet, Remedy, Holloway, Florence), and consolidated earlier imminent-attack/defense-readiness notes into the actual attack sequence and its resolution. I removed or merged details that were tactical minutiae or superseded by the new outcome (e.g., the previous "~20 minutes to readiness" estimate and ongoing siege prediction), keeping only facts that still matter going forward.</reasoning>
+        <summary>
+          - Mining shuttle crashed during approach; Kira Voss survived while several crew died; ship AI (SAM) remains offline and Kira’s neural assistant Buddy activated; external communications and distress beacon are broken.
+          - Hull breach exposed breathable atmosphere and alien vegetation; local plant collective sheltered Kira and used the crashed shuttle as temporary shelter.
+          - An active Biological Samples container remains powered, glowing, and cannot be shut down.
+          - Remedy (salvage-built humanoid doctor) treated Kira; Remedy's chemical production is slow and now becomes a scarce resource.
+          - Hostile plants launched organized, multi-pronged assaults (spore clouds, corrosive vines, projectile thorns, subterranean roots) that forced contraction to a fortified inner perimeter; an earlier subterranean root surge nearly split defenses.
+          - Florence shifted from issuing sole commands to soliciting and integrating others' ideas; Buddy was incorporated into tactical coordination and provided continuous motion-tracking of hostile groups.
+          - Runner implemented an underground misdirection (false weak point in the northwest) to draw attacks away from the southwest life-support concentration; Velvet proposed layered barrier defenses and began growing them; Remedy proposed chemical trap deployment in barrier gaps.
+          - The renewed attack began with coordinated bioluminescent signaling. Eastern assault punched through the first barrier and was neutralized by Remedy's chemical trap.
+          - Northern assault probed but stalled when Runner severed roots from below.
+          - The northwest false-weakness drew a massive commitment of hostile forces and risked overwhelming the trap; southern forces attacked simultaneously, straining resources and defenses.
+          - Runner located a large underground hostile command node ~50 meters east but a solo underground assault failed; the attackers anticipated and countered the approach.
+          - The group decided on a collective plan: force the command node to surface by combined downward growth (Velvet + Runner) while Remedy deployed growth accelerants and withering compounds and Holloway guarded Kira.
+          - Velvet and Runner combined growth downward, Remedy poured chemical accelerants/withering compounds, the command node was forced to surface into the facility core, and all defenders attacked it together.
+          - Defenders destroyed the hostile command node (Velvet constricted, Runner severed connections, Remedy dissolved tissue chemically, Holloway blocked escape), which cut the attackers' coordination; hostile plants lost cohesion and withdrew.
+          - Outcome and consequences: decisive tactical victory but heavy cost—facility damaged, defenses depleted; Runner seriously injured/leaking, Velvet withered/depleted, Remedy chemically exhausted, Holloway drained, Florence damaged but less isolated.
+          - Significant intangible change: the group demonstrated effective collective improvisation and growing operational trust—Florence remains a leader but is now coordinating and relying on collaborative decision-making rather than sole planning.
+        </summary>
+      </story-so-far>
+      <emotional-journey>
+        <reasoning>This passage is a high-adrenaline, tactical set-piece whose emotional arc moves from focused dread into collective determination and ends in exhausted relief — with an important relational aftershock: stronger, pragmatic trust replaces (but doesn't erase) earlier fractures. POV (Kira) experiences escalating fear and responsibility at the attack’s opening, then a sudden, nerve-tinged empowerment when the group shifts from following Florence to genuinely contributing. The reader rides the same rhythm: tight suspense during the assault and Runner’s silence, anxious investment during the improvised gambit, and cathartic relief when the command node falls. There are multiple beats (threat → improvisation → resolution) rather than a single tone, and the scene deepens an ongoing emotional pattern: earlier ruptures and distrust give way here to operational, earned cooperation. The main surprise is tactical/plot-level (finding and surfacing a central hostile command node and the reversal of bringing it into the perimeter), and several characters reveal or consolidate new tendencies — especially willingness to share risk, acknowledge limits, and act together — shifting trust from fractured to functional but still incomplete.</reasoning>
+        <beats>
+          <beat tags="suspense, dread">Opening assault: Kira feels alarmed and vulnerable as coordinated hostiles strike multiple approaches and the false weakness attracts overwhelming force; Runner’s strained radio and the underground surge escalate physiological fear. The reader experiences tight, visceral suspense — the scene is immediate, noisy, and dangerous, focused on whether defenses and people will hold.</beat>
+          <beat tags="determination, empowerment">Mid-battle improvisation: after the initial plan falters (Runner can’t reach the node alone), the group shifts to a collectively-built gambit (combined growth, chemical support, surfacing the command node). Kira is scared but also secretly bolstered by being part of a group decision; Florence moves from sole planner to coordinator. The reader feels adrenaline mixed with uplift — the emotional payoff is the team’s agency and mutual reliance.</beat>
+          <beat tags="relief, hope">Climax and aftermath: the command node is forced up and destroyed; hostile coordination collapses. Kira feels exhausted, relieved, and newly hopeful about practical cooperation; the plants are depleted but alive. The reader shares cathartic relief tempered by the knowledge the win is costly and trust remains provisional — there’s an intimate, fragile warmth in the shared success.</beat>
+        </beats>
+        <surprises>
+          <surprise tags="plot, reversal">Discovery and handling of a central hostile 'command node' underground — and the decision to 'bring it up' into the facility’s perimeter — reverses expected tactics (rather than a lone subterranean strike, they force the enemy into the defenders’ domain). This is a plot-level surprise: the presence of a single coordinating root network that can be targeted and the inventive, inverse tactic to surface and neutralize it.</surprise>
+        </surprises>
+        <character-development>
+          <development character="Kira Voss" tag="trust-built">Moves from anxious observer to emotionally engaged participant — she feels empowered by the collective decision-making and notes the shift from being managed to being a tactical asset. Her sense of belonging deepens: pragmatic trust increases.</development>
+          <development character="Florence" tag="relationship-shift">Shifts from trying to plan everything herself toward genuine coordination: she solicits input, adapts in real time, and openly praises the group’s improvisation even while remaining slightly apart. This reduces her isolation and shows growth in leadership style.</development>
+          <development character="Runner" tag="vulnerability-shown">Exposes limits (injury, failing to solo the command node) and yet contributes decisively to a shared strategy — showing vulnerability plus willingness to keep fighting and to combine strengths with Velvet.</development>
+          <development character="Velvet" tag="strength-discovered">Demonstrates sacrificial, tactical flexibility: redirects growth under strain, then joins Runner in a combined subterranean effort. Velvet’s actions reveal increased operational courage and cooperative scope.</development>
+          <development character="Remedy" tag="strength-discovered">Although chemically depleted, Remedy commits remaining resources and pivots roles (from local defender to growth-accelerant and withering-agent). This reveals adaptive pragmatism and willingness to expend itself for the group.</development>
+          <development character="Holloway" tag="moral-choice">Moves from procedural distance toward taking collective responsibility — proposing 'we go together' and endorsing a shared approach, which signals a moral/relational choice to act with others rather than enforce exclusion.</development>
+        </character-development>
+      </emotional-journey>
+    </summary>
+  </version>
+</versions>

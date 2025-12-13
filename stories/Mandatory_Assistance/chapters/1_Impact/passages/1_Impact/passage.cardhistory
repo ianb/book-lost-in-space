@@ -1,0 +1,381 @@
+<!-- this file is automatically managed by ske validate; do not edit -->
+<versions>
+  <version number="1.0.0" archived-at="2025-11-29T12:59:02.359Z">
+    <passage version="1.0.0" number="1" name="Impact">
+      <reasoning-passage/>
+      <text>
+        TBD
+      </text>
+      <summary>
+        TBD
+      </summary>
+      <leaves-off>
+        TBD
+      </leaves-off>
+      <title>TBD</title>
+      <sources>
+        <ref ref="/todo/stories/TBD/outline.card#v0.0.0"/>
+      </sources>
+      <changelog-entry version="1.0.0">Initialized</changelog-entry>
+    </passage>
+  </version>
+  <version number="2.0.0" archived-at="2025-11-29T13:06:53.684Z">
+    <passage version="2.0.0" number="1" name="Impact">
+      <reasoning-passage>
+        Context from outline.card: 5-beat sequence - in media res (alarms), escalation (system failures), terror builds (helpless in cargo bay), impact (violent), silence (unconsciousness). Target 300-400 words.
+
+        From narrative-guide.card:
+        - First person, present tense, limited (Kira's POV)
+        - Target passage length 500-1500 words BUT this is Scene 1 which is estimated 300-400
+        - PG rating - no strong profanity
+        - Tone: warm absurdist comedy with grounded stakes - BUT this passage is the "grounded stakes" part, comedy comes later
+
+        Key decision: This passage is NOT the chatty Kira voice yet. That emerges in Scene 2 (Aftermath). This is pure visceral terror—sensory, immediate, stripped down. First person present tense but focused on physical sensation and fear, not rambling internal monologue. The contrast will make Scene 2's voice emergence more effective.
+
+        Emotional goal: Terror then silence. Reader should feel the danger is real. Stakes established immediately.
+
+        Sensory focus: Sound (alarms, metal screaming, crashes), physical (being thrown around, straps cutting in, pain), sight (red lights, sparks, darkness), heat (atmospheric entry).
+
+        Pacing: Short punchy sentences during crisis, sentence fragments okay for impact, present tense immediacy. Build to crescendo then sudden cut to silence.
+
+        No dialogue - Kira is alone in cargo bay, can't reach pilots.
+
+        Must convey without exposition: shuttle crashing, Kira aboard, systems failing, violent impact, she survives (unconscious).
+
+        Length check: 5 beats, ~60-80 words each = 300-400 words target
+      </reasoning-passage>
+      <text>
+        The alarms won't stop.
+
+        Red lights pulse through the cargo bay as the shuttle shudders, atmosphere tearing at the hull. I'm strapped into the jumpseat, cargo containers rattling in their restraints around me. We're coming in wrong—too steep, too fast, the angle all kinds of bad.
+
+        "Nav system offline," the automated voice announces, flat and unhelpful.
+
+        Then life support fails.
+
+        Then the stabilizers.
+
+        The shuttle pitches sideways and I slam against the straps hard enough to bruise. My ribs scream. Can't breathe. Can't reach the cockpit—it's through a sealed door and I'm cargo, just cargo, riding in back while the pilots up front try to save us and probably can't.
+
+        Heat. The hull's burning up. Metal shrieks. Something tears loose and crashes into the wall next to my head.
+
+        I'm going to die.
+
+        The thought is crystal clear, clinical, completely certain. This is it. Twenty-four years old and I'm going to die in the back of a cargo shuttle, strapped in like freight, while the whole thing comes apart around me.
+
+        Impact hits like a wall.
+
+        Everything—
+
+        Silence.
+
+        Darkness.
+
+        Nothing.
+      </text>
+      <summary>
+        Kira's shuttle crashes while entering an unknown planet's atmosphere. System failures cascade—navigation, life support, stabilizers all fail. Kira, trapped in the cargo bay and unable to reach the pilots, experiences the terror of inevitable impact before everything goes dark.
+      </summary>
+      <leaves-off>
+        Silence and darkness. Kira is unconscious after the violent impact, fate unknown. Next passage will show her waking up in the wreckage.
+      </leaves-off>
+      <title>Impact</title>
+      <sources>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/outline.card" role="Passage beats and structure"/>
+        <ref ref="/stories/Mandatory_Assistance/narrative-guide.card" role="POV, tone, and style guidance"/>
+      </sources>
+      <changelog-entry version="1.0.0">Initialized</changelog-entry>
+      <changelog-entry version="2.0.0">Completed opening crash passage: 230 words of visceral terror, first person present but stripped-down voice (chatty personality emerges in Scene 2)</changelog-entry>
+    </passage>
+  </version>
+  <version number="3.0.0" archived-at="2025-11-29T13:10:36.298Z">
+    <passage version="3.0.0" number="1" name="Impact">
+      <reasoning-passage>
+        Context from outline.card: 7-beat sequence - normal (Kira's hopes), pilots (relationship), something's wrong, crisis escalates, pilots' choice, terror, impact/darkness. Target 250-370 words in outline, prose will be ~400-550 words.
+
+        From narrative-guide.card:
+        - First person, present tense, limited (Kira's POV)
+        - Target passage length 500-1500 words
+        - PG rating
+        - Tone: warm absurdist comedy with grounded stakes - establish the voice (chatty, enthusiastic) THEN show the stakes
+
+        Key revision: This passage DOES show Kira's chatty voice in the opening beats, then strips it away as terror builds. The contrast shows what the crash does to her.
+
+        Emotional arc: Hope/enthusiasm → routine interaction → unease → fear → terror → silence
+
+        Voice shift: Beats 1-2 have her rambling internal monologue (comparing to shows, being enthusiastic). Beat 3-4 voice becomes questioning, worried. Beats 5-7 voice fragments into raw fear.
+
+        Must establish:
+        - Kira's optimism and dreams (adventure, first contact)
+        - Two years in this boring job
+        - Pilots treat her like furniture
+        - She notices things but defers to authority
+        - Pilots are arrogant but professional, do right thing in crisis
+        - Real danger, she could die
+
+        Pacing: Longer flowing sentences early (her rambling mind), shorter punchy sentences as crisis builds, fragments during terror.
+      </reasoning-passage>
+      <text>
+        Three cargo containers of mining equipment, two of terraforming supplies, one marked "Biological Samples - Temperature Controlled." I tap the last entry into my manifest and lean back against the cargo bay wall. Maybe Kepler-288 will be interesting. Maybe it'll have one of those stations with the viewing platforms where you can actually see the planet below instead of just gray corridors and identical loading docks.
+
+        Probably not, though. Two years doing this job and every station looks the same.
+
+        The ship hums around me, that steady thrum that means we're about to drop out of FTL. In the shows I used to watch—okay, still watch—this would be the moment where the explorer's about to discover something amazing. A new civilization, first contact, something that changes everything. I'm pretty sure checking inventory logs doesn't count.
+
+        "Voss, secure for approach."
+
+        Jensen's voice crackles through the intercom, flat and bored. I straighten up, start strapping into the jumpseat.
+
+        "Secured," I say, trying for cheerful-but-professional. "The bio-samples container is still showing that temperature fluctuation, do you want me to—"
+
+        Silence. They've already cut the feed. Right. Mobile furniture doesn't need to talk back.
+
+        I finish buckling the straps and pull them tight. The shuttle shudders as we hit atmosphere, which is normal. The shaking gets worse, which is—probably normal? I'm cargo crew, not pilot. They'd say something if it wasn't normal.
+
+        An alarm bleats. Atmospheric entry angle off.
+
+        That's not normal.
+
+        I should say something. Except what would I say? They can see the readings. They're pilots, they know what they're doing, and I'm just the person who loads freight. I grip the straps tighter and tell myself it's fine.
+
+        The alarm gets louder. Another one joins it.
+
+        "Navigation system offline," the automated voice announces, way too calm for the situation.
+
+        Then life support fails.
+
+        Then the stabilizers.
+
+        The shuttle lurches sideways and I slam against the straps hard enough to feel my ribs creak. The cargo containers are rattling in their restraints, the secured ones, which means we're pulling forces that shouldn't be possible during a standard approach. We're coming in wrong—too steep, too fast, the angle all kinds of bad.
+
+        The door between the cargo bay and cockpit unseals with a hiss. Jensen appears, takes one look at me strapped in the jumpseat, and nods once.
+
+        "Stay there, Voss," he says, and his voice is different than I've ever heard it. Not bored. Not contemptuous. Almost gentle. "Cargo bay's structurally reinforced. You'll be safer than us."
+
+        He seals the door again before I can respond. Through the thin wall I hear him and Reed shouting at each other, at the systems, trying to save the ship. Trying to save me.
+
+        I'm alone in the cargo bay. Can't help. Can't see. Can't do anything but sit here strapped in while the whole thing shakes itself apart.
+
+        Heat builds. The hull's burning as we tear through the atmosphere. Metal screams. Something rips free and slams into the wall next to my head with a sound like thunder.
+
+        I'm going to die.
+
+        The thought is crystal clear, clinical, completely certain. This is it. Twenty-four years old and I'm going to die in the back of a cargo shuttle, strapped in like freight, while two pilots I barely knew die trying to save me.
+
+        Impact hits like a wall.
+
+        Everything—
+
+        Silence.
+
+        Darkness.
+
+        Nothing.
+      </text>
+      <summary>
+        Kira finishes inventory in the cargo bay, hoping this run to Kepler-288 might finally be interesting after two years of identical stations. The pilots treat her like mobile furniture. During atmospheric approach, alarms sound—entry angle off, then cascading failures. Pilot Jensen briefly appears to confirm she's in the safest spot before sealing her in the cargo bay and returning to the cockpit to try to save the ship. Kira experiences the terror of the crash knowing the pilots are dying to save her, then impact and darkness.
+      </summary>
+      <leaves-off>
+        Silence and darkness after violent impact. Kira is unconscious, fate unknown. Next passage will show her waking up in the wreckage to find the pilots dead.
+      </leaves-off>
+      <title>Impact</title>
+      <sources>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/outline.card" role="Passage beats and structure"/>
+        <ref ref="/stories/Mandatory_Assistance/narrative-guide.card" role="POV, tone, and style guidance"/>
+        <ref ref="/world/world/world/characters/Kira_Voss.card" role="Kira's voice, character traits, hopes and dreams"/>
+      </sources>
+      <changelog-entry version="1.0.0">Initialized</changelog-entry>
+      <changelog-entry version="2.0.0">Completed opening crash passage: 230 words of visceral terror, first person present but stripped-down voice (chatty personality emerges in Scene 2)</changelog-entry>
+      <changelog-entry version="3.0.0">Major revision: Expanded from 230 to 560 words. Now establishes Kira's character (hopes, dreams, pilot relationship) before crash. Shows her chatty voice being stripped away by terror. Matches revised 7-beat outline.</changelog-entry>
+    </passage>
+  </version>
+  <version number="4.0.0" archived-at="2025-12-01T21:42:08.116Z">
+    <passage version="4.0.0" number="1" name="Impact">
+      <reasoning-passage>
+        <!-- For instructions on filling out reasoning: ske instructions stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/passage.card -->
+      </reasoning-passage>
+      <text>
+        Three cargo containers of mining equipment, two of terraforming supplies, one marked "Biological Samples - Temperature Controlled." I tap the last entry into my manifest and lean back against the cargo bay wall. Maybe Kepler-288 will be interesting. Maybe it'll have one of those stations with the viewing platforms where you can actually see the planet below instead of just gray corridors and identical loading docks.
+
+        Probably not, though. Two years doing this job and every station looks the same.
+
+        The ship hums around me, that steady thrum that means we're about to drop out of FTL. In the shows I used to watch—okay, still watch—this would be the moment where the explorer's about to discover something amazing. A new civilization, first contact, something that changes everything. I'm pretty sure checking inventory logs doesn't count.
+
+        "Voss, secure for approach."
+
+        Jensen's voice crackles through the intercom, but it's not flat and bored like usual. Tense. I straighten up, start strapping into the jumpseat.
+
+        "Secured," I say, trying for cheerful-but-professional. "The bio-samples container is still showing that temperature fluctuation, do you want me to—"
+
+        "—coordinates don't match, we're not supposed to—" Reed's voice, cutting across, before the feed goes dead.
+
+        Not supposed to be where? They've already cut the connection before I can ask. Right. They never explain things to cargo crew.
+
+        I finish buckling the straps and pull them tight. The shuttle shudders as we hit atmosphere, which is normal. The shaking gets worse, which is—probably normal? I'm cargo crew, not pilot. They'd say something if it wasn't normal.
+
+        An alarm bleats. Atmospheric entry angle off.
+
+        That's not normal.
+
+        I should say something. Except what would I say? They can see the readings. They're pilots, they know what they're doing, and I'm just the person who loads freight. I grip the straps tighter and tell myself it's fine.
+
+        The alarm gets louder. Another one joins it.
+
+        "Navigation system offline," the automated voice announces, way too calm for the situation.
+
+        Red warning lights flood the cargo bay. More alarms join the chorus.
+
+        "Stabilizers offline."
+
+        The shuttle lurches sideways and I slam against the straps hard enough to feel my ribs creak. The cargo containers are rattling in their restraints, the secured ones, which means we're pulling forces that shouldn't be possible during a standard approach. We're coming in wrong—too steep, too fast, the angle all kinds of bad.
+
+        The door between the cargo bay and cockpit unseals with a hiss. Jensen appears, face grim, and he's moving before I can say anything. Hands on my harness, unbuckling me.
+
+        "What—"
+
+        "Move." He hauls me up, half-drags me toward the back of the bay where the crash seat is recessed into the reinforced bulkhead. I've never used it. Never thought I'd need to.
+
+        "Descent angle's shot!" Reed shouts from the cockpit. "We're coming in at forty degrees!"
+
+        Jensen shoves me into the crash seat, yanks the five-point harness across my chest and cinches it tight. Then tighter. His hands check each buckle, methodical, like this is just another pre-flight checklist.
+
+        For a second, he looks at me. Actually looks at me, not through me. First time in two years.
+
+        "Hold on, Voss."
+
+        Then he's gone, sealing the door behind him. Through the thin wall I hear him and Reed shouting at each other, at the systems, fighting for every second. Fighting for me.
+
+        I'm alone in the cargo bay. Can't help. Can't see. Can't do anything but sit here strapped in while the whole thing shakes itself apart.
+
+        Heat builds. The hull's burning as we tear through the atmosphere. Metal screams. Something rips free and slams into the wall next to my head with a sound like thunder.
+
+        I'm going to die.
+
+        The thought is crystal clear, clinical, completely certain. This is it. Twenty-four years old and I'm going to die strapped into a crash seat, while two pilots who never even liked me die trying to save me.
+
+        Impact hits like a wall.
+
+        Everything—
+
+        Silence.
+
+        Darkness.
+
+        Nothing.
+      </text>
+      <summary>
+        Kira finishes inventory in the cargo bay, hoping this run might finally be interesting after two years of identical stations. As FTL drops, she catches tense fragments from the pilots—coordinates don't match, they're not supposed to be here. During atmospheric approach, alarms cascade as systems fail. Jensen rushes in and physically moves Kira to the reinforced crash seat, strapping her in tight—the first time in two years he's actually looked at her. She experiences the terror of the crash knowing the pilots are fighting to save her, then impact and darkness.
+      </summary>
+      <leaves-off>
+        Silence and darkness after violent impact. Kira is unconscious, fate unknown. Next passage will show her waking up in the wreckage to find the pilots dead.
+      </leaves-off>
+      <title>Impact</title>
+      <sources>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/outline.card" role="Passage beats and structure"/>
+        <ref ref="/stories/Mandatory_Assistance/narrative-guide.card" role="POV, tone, and style guidance"/>
+        <ref ref="/world/world/world/characters/Kira_Voss.card" role="Kira's voice, character traits, hopes and dreams"/>
+      </sources>
+      <changelog-entry>
+        <!-- Each time you change this file add a description of what AND WHY you made changes to this element -->
+      </changelog-entry>
+    </passage>
+  </version>
+  <version number="4.0.1" archived-at="2025-12-07T23:56:18.767Z">
+    <changelog-entry>
+      <message>Address reader feedback on destination name, atmosphere entry confusion, word choice, and add SAM interaction</message>
+      <from-feedback>Critiques C1-C3, C5 from Ian Bicking</from-feedback>
+    </changelog-entry>
+    <passage version="4.0.1" number="1" name="Impact">
+      <reasoning-passage>
+        <!-- For instructions on filling out reasoning: ske instructions stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/passage.card -->
+      </reasoning-passage>
+      <text>
+        Three cargo containers of mining equipment, two of terraforming supplies, one marked "Biological Samples - Temperature Controlled." I tap the last entry into my manifest and lean back against the cargo bay wall. Maybe Vega Station will be interesting. Maybe it'll have one of those viewing platforms where you can actually see the planet below instead of just gray corridors and identical loading docks.
+
+        Probably not, though. Two years doing this job and every station looks the same.
+
+        "Your optimism metrics are slightly elevated today," SAM notes in my neural link, her voice warm and familiar. "Feeling hopeful about this run?"
+
+        "Just bored enough to imagine something interesting might happen," I tell her. "Don't get excited."
+
+        "Noted. I'll contain my enthusiasm."
+
+        The ship hums around me, that steady thrum that means we're about to drop out of FTL. In the shows I used to watch—okay, still watch—this would be the moment where the explorer's about to discover something amazing. A new civilization, first contact, something that changes everything. I'm pretty sure checking inventory logs doesn't count.
+
+        "Voss, secure for approach."
+
+        Jensen's voice crackles through the intercom, but it's not flat and bored like usual. Tense. I straighten up, start strapping into the jumpseat.
+
+        "Secured," I say, trying for cheerful-but-professional. "The bio-samples container is still showing that temperature fluctuation, do you want me to—"
+
+        "—coordinates don't match, we're not supposed to—" Reed's voice, cutting across, before the feed goes dead.
+
+        Not supposed to be where? They've already cut the connection before I can ask. Right. They never explain things to cargo crew.
+
+        I finish buckling the straps and pull them tight. The shuttle shudders—hard—and I grab the armrests. We're supposed to be docking at a station. Why is there shaking? The vibration gets worse, the kind of rattling you feel in your teeth.
+
+        An alarm bleats. Atmospheric entry angle off.
+
+        Atmospheric entry? We're not supposed to be entering atmosphere. We're supposed to be in space, approaching a station, not—
+
+        I should say something. Except what would I say? They can see the readings. They're pilots, they know what they're doing, and I'm just the person who loads freight. I grip the straps tighter and tell myself it's fine.
+
+        The alarm gets louder. Another one joins it.
+
+        "Navigation system offline," the automated voice announces, way too calm for the situation.
+
+        Red warning lights flood the cargo bay. More alarms join the chorus.
+
+        "Stabilizers offline."
+
+        The shuttle lurches sideways and I slam against the straps hard enough to feel my ribs creak. The cargo containers are rattling in their restraints, the secured ones, which means we're pulling forces that shouldn't be possible during a standard approach. We're coming in wrong—too steep, too fast, the angle all kinds of bad.
+
+        The door between the cargo bay and cockpit unseals with a hiss. Jensen appears, face grim, and he's moving before I can say anything. Hands on my harness, unbuckling me.
+
+        "What—"
+
+        "Move." He hauls me up, half-drags me toward the back of the bay where the crash seat is recessed into the reinforced bulkhead. I've never used it. Never thought I'd need to.
+
+        "Descent angle's shot!" Reed shouts from the cockpit. "We're coming in at forty degrees!"
+
+        Jensen shoves me into the crash seat, yanks the five-point harness across my chest and cinches it tight. Then tighter. His hands check each buckle, methodical, like this is just another pre-flight checklist.
+
+        For a second, he looks at me. Actually looks at me, not through me. First time in two years.
+
+        "Hold on, Voss."
+
+        Then he's gone, sealing the door behind him. Through the thin wall I hear him and Reed shouting at each other, at the systems, fighting for every second. Fighting for me.
+
+        I'm alone in the cargo bay. Can't help. Can't see. Can't do anything but sit here strapped in while the whole thing shakes itself apart.
+
+        Heat builds. The hull's burning as we tear through the atmosphere. Metal screams. Something rips free and slams into the wall next to my head with a sound like thunder.
+
+        I'm going to die.
+
+        The thought is crystal clear, cold, completely certain. This is it. Twenty-four years old and I'm going to die strapped into a crash seat, while two pilots who never even liked me die trying to save me.
+
+        Impact hits like a wall.
+
+        Everything—
+
+        Silence.
+
+        Darkness.
+
+        Nothing.
+      </text>
+      <summary>
+        Kira finishes inventory in the cargo bay, hoping this run might finally be interesting after two years of identical stations. As FTL drops, she catches tense fragments from the pilots—coordinates don't match, they're not supposed to be here. During atmospheric approach, alarms cascade as systems fail. Jensen rushes in and physically moves Kira to the reinforced crash seat, strapping her in tight—the first time in two years he's actually looked at her. She experiences the terror of the crash knowing the pilots are fighting to save her, then impact and darkness.
+      </summary>
+      <leaves-off>
+        Silence and darkness after violent impact. Kira is unconscious, fate unknown. Next passage will show her waking up in the wreckage to find the pilots dead.
+      </leaves-off>
+      <title>Impact</title>
+      <sources>
+        <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/1_Impact/outline.card" role="Passage beats and structure"/>
+        <ref ref="/stories/Mandatory_Assistance/narrative-guide.card" role="POV, tone, and style guidance"/>
+        <ref ref="/world/world/characters/Kira_Voss.card" role="Kira's voice, character traits, hopes and dreams"/>
+      </sources>
+    </passage>
+  </version>
+</versions>
