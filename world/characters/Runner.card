@@ -1,19 +1,4 @@
-<character version="3.0.0" name="Runner">
-  <reasoning-character>
-    Context: Late 27th century with sentient plant life that learned about humans from HR manuals. Story premise: Kira crashes, stranded with bureaucratic plant aliens trying to help. Protagonist is Kira Voss.
-
-    Story purpose: Supporting character who provides surprise and physical assistance. Runner's ability to emerge unexpectedly creates comedic moments and demonstrates yet another form of plant mobility. Can help with physical tasks both as vines and through robot control. The unclear locomotion adds to the alien weirdness of the plants.
-
-    Character depth: Supporting character - moderate detail. Will appear when physical assistance or surprise appearances are narratively useful.
-
-    Setting fit: Runner is a vining plant that travels underground and emerges through small openings. This fits real vine ecology and creates interesting narrative opportunities.
-
-    Distinctiveness: Unlike Scout (tumbles), Florence (wheels), or Holloway (stationary fruiting), Runner has mysterious underground locomotion that lets them appear unexpectedly. Can be both vines and robot. Quick, helpful, surprising.
-
-    Relationships: Works with other plants, shares robot control duties with Remedy, Sweetpea, and Velvet.
-
-    Completeness: Need all major fields except internal-monologue-style (not POV). Physical description should cover both vine form and robot use.
-  </reasoning-character>
+<character version="4.0.0" name="Runner">
   <story-role>Supporting character / Physical helper: Runner provides physical assistance through vine manipulation and robot control. The surprising emergence from unexpected locations creates comedy and demonstrates the alien nature of plant movement. Quick to help with hands-on tasks. Arc: Literally cannot see - touch is the only way to perceive and understand the world. Insatiably curious, treats everything equally (all textures equally interesting, all beings equally worth exploring). Through the story, pure curiosity develops into affection - Runner discovers preference and attachment to specific beings (likely Kira, possibly another plant). Starts touching them differently - not just to understand, but because Runner wants to be near them, to maintain contact. Arc about discovering what it means to care about one being more than others, that curiosity can transform into connection. By the end, still touches everything, but some touches mean something different.</story-role>
   <full-name>Runner</full-name>
   <pronouns>she/her</pronouns>
@@ -53,12 +38,12 @@
     N/A - Runner is not a POV character
   </internal-monologue-style>
   <speaking-style>
-    Quick and direct when using the robot's voice, but constantly distracted by textures. Gets sidetracked mid-sentence by how something feels. Makes observations that aren't quite useful. Touches constantly during conversation—picks things up, feels surfaces, wraps vines around things without really explaining why. Often touching the person they're talking to without realizing it's unwelcome. Asks to touch things but sometimes doesn't wait for an answer. Gets stuck on texture comparisons.
+    Quick and direct, but constantly distracted by textures. Gets sidetracked mid-sentence by how something feels. Makes observations that aren't quite useful. Touches constantly during conversation—picks things up, feels surfaces, wraps vines around things without really explaining why. Often touching the person they're talking to without realizing it's unwelcome. Asks to touch things but sometimes doesn't wait for an answer. Gets stuck on texture comparisons.
 
-    Example: "I can help with that—" [robot hands already touching Kira's injured arm] "—this is hot. Or warm? Puffy. Why is it puffy? Let me—" [vines emerging from the ground, wrapping around Kira's wrist before she can answer] "—okay this arm is different. Smoother. Wait, no, same smoothness but this one's puffier. Can you make a fist? I want to feel how the muscles—okay, interesting. What were we doing?"
+    Example: "I can help with that—" [vines already wrapping around Kira's injured arm] "—this is hot. Or warm? Puffy. Why is it puffy? Let me—" [more vines emerging from the ground, wrapping around Kira's wrist before she can answer] "—okay this arm is different. Smoother. Wait, no, same smoothness but this one's puffier. Can you make a fist? I want to feel how the muscles—okay, interesting. What were we doing?"
 
-    [Later, holding a tool Kira was using, turning it over and over]
-    "Heavy. No wait, not that heavy. Heavier at this end though. Smooth here but rough here. Why is it rough here?" [Sets it down, picks it back up] "Okay but if I hold it this way it's... huh." [Turns it again] "You were using this for something?"
+    [Later, vine tips turning over a tool Kira was using]
+    "Heavy. No wait, not that heavy. Heavier at this end though. Smooth here but rough here. Why is it rough here?" [Sets it down, picks it back up with her vines] "Okay but if I hold it this way it's... huh." [Turns it again] "You were using this for something?"
   </speaking-style>
   <humor-style>
     Comedy from compulsive touching that crosses boundaries. Touches to understand why people are uncomfortable with touching. Gets distracted by textures and forgets what the original question was. Wraps vines around Kira's arms, face, belongings while talking. Even other plants ask Runner to stop touching them. The genuine confusion about personal space—underground everything touches everything, why is above ground different? Meta humor about acknowledging the problem while doing it. Startling people by emerging right next to them. Picks up and examines everything within reach, even mid-conversation. Not very helpful despite trying to be.
@@ -82,7 +67,7 @@
     "Soft but firm? No, firm but soft. And cool. Room temperature cool, not cold cool. What were you doing with this? Can I—?" [already squeezing it gently] "Huh. Different texture inside. Why?"
   </humor-style>
   <physical-description>
-    Runner appears as thick green vines, 3-5 cm diameter, flexible and strong. The vines emerge from soil, rock cracks, or small openings, growing/extending rapidly to several meters length. Surface has small climbing tendrils and leaves. The vines can wrap, lift, pull, and manipulate objects with considerable strength. How they travel underground and grow/retract so quickly is unclear—the locomotion seems to defy normal plant growth rates. When using the robot: shares one of the two salvaged robots with Remedy, Sweetpea, and Velvet. Runner's robot control is task-focused and efficient, movements quick and purposeful.
+    Runner appears as thick green vines, 3-5 cm diameter, flexible and strong. The vines emerge from soil, rock cracks, or small openings, growing/extending rapidly to several meters length. Surface has small climbing tendrils and leaves. The vines can wrap, lift, pull, and manipulate objects with considerable strength. How they travel underground and grow/retract so quickly is unclear—the locomotion seems to defy normal plant growth rates. Can use one of the salvaged robots for tasks requiring hands, though she prefers working through her vines since they give her direct tactile feedback on everything she touches.
   </physical-description>
   <relationships/>
 </character>

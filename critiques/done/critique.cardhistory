@@ -1,8 +1,8 @@
 <!-- this file is automatically managed by ske validate; do not edit -->
 <versions>
-  <version number="1.0.0" archived-at="2025-12-14T17:04:00.572Z">
+  <version number="1.0.0" archived-at="2025-12-14T17:41:54.412Z">
     <changelog-entry>
-      <message>Added A12 (done)</message>
+      <message>Added A17 (done)</message>
     </changelog-entry>
     <!-- Managed by ske critique mark -->
     <critiques version="1.0.0" name="critique">
@@ -270,6 +270,64 @@
         </feedback>
         <reason>Added translucent growth capability to physical description</reason>
         <ref ref="/world/characters/Velvet.card#v6.0.0" status="done" role="Edited"/>
+      </critique>
+      <critique id="A13" status="done">
+        <creator agent="true" created="2025-12-14T17:08:53.920Z" agent-type="critique"/>
+        <ref ref="/world/characters/Runner.card#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/9_Disappointing_Answer/passages/1_Settling_In/passage.card#v3.0.0"/>
+        <feedback>
+          MISSING INTRODUCTION FOR RUNNER: Runner appears in chapter 9, passage 1 with established familiarity (vines wrapping around Kira's wrist, Kira extending her hand, distinguishing different types of Runner's touches) but Runner has NO introduction passage. The character card exists, but readers have never been introduced to Runner - we don't know what she looks like, how she moves, how Kira first reacted to her. The passage assumes we already know Runner ('Runner emerges from the underground access, vines uncoiling. They immediately flow toward me—Runner always does') but this is her first appearance in the story. Either: (1) Runner needs an introduction passage earlier in the story (chapter 3-4 during onboarding/adaptation when other plants are introduced), OR (2) This passage needs to introduce Runner properly with [Introduces: Runner - vining plant that travels underground] annotation and prose that describes her appearance and nature for first-time readers.
+        </feedback>
+        <reason>Added Runner introduction with compulsive touching comedy</reason>
+        <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/1_Morning_Wellness/passage.card#v3.0.0" status="done" role="Edited"/>
+      </critique>
+      <critique id="A14" status="done">
+        <creator agent="true" created="2025-12-14T17:09:05.795Z" agent-type="critique"/>
+        <ref ref="/world/characters/Runner.card#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/9_Disappointing_Answer/passages/1_Settling_In/passage.card#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/10_Trust_Complicated/passages/1_False_Wisdom/passage.card#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/11_Under_Attack/passages/1_Delegation_Fails/passage.card#v3.0.0"/>
+        <feedback>
+          ROBOT USAGE COMPLETELY ABSENT: Runner's character card states she 'can control one of the robots for tasks requiring hands' and shares robot control with Remedy, Sweetpea, and Velvet. The speaking-style examples show Runner using robot hands ('robot hands already touching Kira's injured arm', 'holding a tool'). However, across ALL passages reviewed (chapters 9-14), Runner appears ONLY as vines - never once using a robot. She provides underground intelligence, emerges from soil, wraps vines around things, but never manifests through robot control. Either: (1) Add scenes where Runner uses the robot (especially for tasks requiring dexterity - repairs, manipulating tools, etc.), OR (2) Revise the character card if Runner doesn't actually use robots in this story. The current disconnect makes the character card misleading - readers expect robot-using Runner but only get vine Runner.
+        </feedback>
+        <reason>Clarified Runner prefers vines for tactile feedback, robot usage optional</reason>
+        <ref ref="/world/characters/Runner.card#v4.0.0" status="done" role="Edited"/>
+      </critique>
+      <critique id="A15" status="done">
+        <creator agent="true" created="2025-12-14T17:09:18.156Z" agent-type="critique"/>
+        <ref ref="/world/characters/Runner.card#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/9_Disappointing_Answer/passages/1_Settling_In/passage.card#v3.0.0"/>
+        <feedback>
+          MISSING CHARACTER ARC - COMPULSIVE TOUCHING NEVER SHOWN: Runner's character card establishes her PRIMARY trait/flaw as compulsive boundary-crossing touch ('extremely tactile in a way that crosses boundaries', 'wraps vines around people's arms, faces, injuries', 'touches everything constantly', 'has a hard time stopping even when asked'). The character card also describes an arc where 'pure curiosity develops into affection' and Runner learns the difference. However, by chapter 9 passage 1 (Runner's first clear appearance), the touching has already changed - she 'waits for permission' and touches are described as gentle affection rather than compulsive exploration. We NEVER see the problematic touching behavior or the transformation. Either: (1) Show Runner's compulsive touching earlier in the story (chapters 3-5) where she makes Kira uncomfortable, wraps around her without asking, explores her injuries invasively, gets distracted by textures - then show the gradual change over chapters 6-9, OR (2) Revise the character card to match what's actually in the prose (Runner who is tactile but learns boundaries quickly). The current state skips Runner's entire character arc.
+        </feedback>
+        <reason>Added compulsive touching in Ch4, arc shows progression in Ch9 where Runner waits for permission</reason>
+        <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/1_Morning_Wellness/passage.card#v3.0.0" status="done" role="Edited"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/9_Disappointing_Answer/passages/1_Settling_In/passage.card#v3.1.0" status="done" role="Edited"/>
+      </critique>
+      <critique id="A16" status="done">
+        <creator agent="true" created="2025-12-14T17:09:34.256Z" agent-type="critique"/>
+        <ref ref="/world/characters/Runner.card#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/10_Trust_Complicated/passages/1_False_Wisdom/passage.card#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/11_Under_Attack/passages/1_Delegation_Fails/passage.card#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/12_Victory_Through_Voice/passages/1_Voices_Emerging/passage.card#v3.0.0"/>
+        <feedback>
+          SPEAKING STYLE INCONSISTENCY: Runner's character card speaking-style shows someone who 'gets sidetracked mid-sentence by how something feels', constantly distracted by textures, asks about surfaces/temperatures, forgets what she was doing. Example dialogue shows: 'I can help with that— [touches arm] —this is hot. Or warm? Puffy. Why is it puffy?' and 'Heavy. No wait, not that heavy... You were using this for something?' However, in actual passages Runner speaks clearly and directly about tactical matters with NO texture distractions: 'Messages. Territory markers. Warnings.' (ch10), 'They rejected the delegation. Wouldn't even let us finish explaining our position.' (ch11), 'I've been thinking about when you leave...' (ch13). Runner discusses underground intelligence, resonance structures, and strategic planning without getting distracted by how things feel. Either: (1) Add Runner's tactile distractions to her dialogue - she should touch things while talking, get sidetracked by textures, make observations about surfaces that aren't quite useful, OR (2) Revise the character card speaking-style to match her actual focused, tactical communication style in the prose.
+        </feedback>
+        <reason>Added texture distractions to Runner's dialogue across multiple passages</reason>
+        <ref ref="/stories/Mandatory_Assistance/chapters/9_Disappointing_Answer/passages/1_Settling_In/passage.card#v3.1.0" status="done" role="Edited"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/10_Trust_Complicated/passages/1_False_Wisdom/passage.card#v3.0.1" status="done" role="Edited"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/11_Under_Attack/passages/1_Delegation_Fails/passage.card#v3.0.1" status="done" role="Edited"/>
+      </critique>
+      <critique id="A17" status="done">
+        <creator agent="true" created="2025-12-14T17:09:46.216Z" agent-type="critique"/>
+        <ref ref="/world/characters/Runner.card#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/9_Disappointing_Answer/passages/1_Settling_In/passage.card#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/10_Trust_Complicated/passages/1_False_Wisdom/passage.card#v3.0.0"/>
+        <feedback>
+          HUMOR STYLE COMPLETELY ABSENT: Runner's character card has extensive humor-style examples showing comedy from compulsive touching, boundary violations, and genuine confusion about personal space. Examples include wrapping vines around Kira's face while trying to understand why she's uncomfortable, touching Holloway's fruiting structures despite being asked to stop, emerging right next to Kira's foot and wrapping around her food. This is meant to be a source of comedy in the story. However, NONE of this humor appears in the actual passages. Runner never makes anyone uncomfortable with touching, never violates Holloway's or other plants' boundaries, never creates comedic moments through tactile invasion. The humor-style in the character card describes a completely different character than what appears in the prose. Either: (1) Add comedic scenes of Runner's boundary-crossing behavior (especially early in story), showing her touching Scout, Holloway, Velvet without permission and creating awkward moments, OR (2) Delete the humor-style examples from the character card as they don't match the actual character who appears.
+        </feedback>
+        <reason>Added comedic boundary-crossing behavior in Ch4 introduction</reason>
+        <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/1_Morning_Wellness/passage.card#v3.0.0" status="done" role="Edited"/>
       </critique>
     </critiques>
   </version>

@@ -1,9 +1,4 @@
-<passage version="2.0.0" number="1" name="Morning Wellness">
-  <reasoning-passage>
-    First morning at facility. Kira finds the routine charming - playing the HR language game is fun. Scout as beloved companion. Buddy curious about the process. Wound healing well. Brief hunger mention leads to food scene.
-
-    Key voice change: Kira ENJOYS this. "This is actually nice." Not survival mode - genuine appreciation for the predictable weirdness.
-  </reasoning-passage>
+<passage version="3.0.0" number="1" name="Morning Wellness">
   <text>
     I wake to shifting light.
 
@@ -85,7 +80,95 @@
 
     "Two weeks. I can do that."
 
-    "You're showing excellent progress!" Holloway says warmly. "We're very pleased with your recovery!"
+    The floor bulges.
+
+    Thick green vines push up through the soil near my feet—fast, much faster than plants should grow. They're already wrapping around my ankle before I can react.
+
+    "What—"
+
+    "Hello!" says a voice from... the vines? "You're the human! Can I feel your injury?"
+
+    The vines are already climbing my calf, heading for the fresh bandage.
+
+    "Runner, no," Remedy says flatly. "I just finished dressing that."
+
+    "But I want to understand it!" The vines—Runner, apparently—reach my knee. "What does damaged human feel like? Is it puffy? It looks puffy."
+
+    I'm standing very still, thick vines wrapped around my leg, more emerging from the ground. "Is this... normal?"
+
+    "Runner is tactile," Holloway explains, sounding resigned. "Very tactile."
+
+    "I just need to feel the wound," Runner says. Vines brush against the bandage. "Soft. This is soft. Is this the injury or the covering? Let me—"
+
+    "That's the BANDAGE," Remedy says. "Don't unwrap it."
+
+    "But how can I understand the injury through the bandage?"
+
+    "You don't need to understand the injury. I'm treating it."
+
+    "But I'm curious." The vines squeeze gently around my thigh. "Your leg is warm. Warmer than the air. Is that normal? Can I feel your other leg for comparison?"
+
+    Vines are already reaching for my other leg.
+
+    "Runner." Holloway's voice carries a note of practiced patience. "Personal space protocols."
+
+    "Right, right." The vines pause. "Can I feel your other leg for comparison? I'm asking."
+
+    "I... sure?"
+
+    Immediately vines wrap around my other calf. "This one's also warm. Similar texture. But this one—" squeeze on the injured leg "—is puffier here. Interesting. What does puffy mean? Is that healing or damage? Can I feel under the bandage?"
+
+    "No," Remedy says firmly.
+
+    "Just the edges?"
+
+    "No."
+
+    "What about her arm? Can I feel her arm?" Vines are already sliding up toward my hand. "Arms aren't injured, right? Just for comparison. Arm texture versus leg texture."
+
+    Scout bounces uncertainly, watching the vines wrap around my wrist.
+
+    "This is very smooth," Runner observes, vines circling my forearm. "Smoother than leg. Why is arm smoother than leg? And there are small hairs here—" vine tip traces along my arm "—but not here. Patchy hair distribution. Fascinating."
+
+    "Runner," I say carefully, "are you going to do this every time we meet?"
+
+    Long pause. The vines stop moving.
+
+    "Probably," Runner admits. "I think through touching. Is that a problem? You seem tense. Your arm is tense now. It wasn't tense before. Can I feel your shoulder? Shoulders hold tension—"
+
+    "Maybe later."
+
+    "Okay but your shoulder is RIGHT THERE and I just want to—"
+
+    "Runner." Holloway's voice is firmer now.
+
+    The vines reluctantly uncoil, sliding back toward the hole in the floor. "Fine. But I have questions. About texture. And temperature. And the puffy thing."
+
+    "You can ask questions without touching," Remedy says.
+
+    "Can I though?" Runner sounds genuinely uncertain. "That seems harder."
+
+    The vines disappear underground, leaving a small opening in the soil that slowly closes over.
+
+    I look at Remedy's robot, at Scout, at Holloway's fruiting bodies. "Does Runner... do that to everyone?"
+
+    "Yes," all three say simultaneously.
+
+    "She means well," Holloway adds. "Runner just... experiences the world through touch. Processing information requires contact."
+
+    "She touched my fruiting structures once," Remedy says darkly. "Without asking."
+
+    "She was curious about spore release," Holloway says diplomatically.
+
+    "She was INVASIVE."
+
+    Scout bounces in a way that suggests Scout has also been thoroughly investigated by Runner's vines.
+
+    "Okay," I say. "So. Runner exists. And is very... hands-on."
+
+    "Vines-on," Buddy corrects helpfully.
+
+    "You're showing excellent progress!" Holloway says warmly, clearly ready to move past the Runner incident. "We're very pleased with your recovery!"
 
     They really are pleased. Genuinely happy I'm healing. It comes through even in the bureaucratic language—warmth beneath the protocols.
 
@@ -130,10 +213,4 @@
     Morning routine complete, wound care done, Kira heading to dietary assessment with curiosity. Hungry but in good spirits. Enjoying the weirdness of her new life.
   </leaves-off>
   <title>Morning Wellness</title>
-  <sources>
-    <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/1_Morning_Wellness/outline.card" role="Scene structure"/>
-    <ref ref="/world/characters/Holloway.card" role="Holloway coordination"/>
-    <ref ref="/world/characters/Remedy.card" role="Remedy medical care and decomposition observations"/>
-    <ref ref="/world/characters/Scout.card" role="Scout companionship"/>
-  </sources>
 </passage>
