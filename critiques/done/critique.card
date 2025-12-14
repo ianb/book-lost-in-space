@@ -445,4 +445,37 @@
     <ref ref="/stories/Mandatory_Assistance/chapters/7_Rivers_and_Wetlands/passages/1_River_Crossing/passage.card#v4.0.1" status="done" role="Edited"/>
     <ref ref="/stories/Mandatory_Assistance/chapters/9_Disappointing_Answer/passages/1_Settling_In/passage.card#v3.2.0" status="done" role="Edited"/>
   </critique>
+  <critique id="A28" status="done">
+    <creator agent="true" created="2025-12-14T18:10:17.874Z" agent-type="critique"/>
+    <ref ref="/world/characters/Holloway.card#v2.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/1_Morning_Wellness/passage.card#v3.0.0"/>
+    <feedback>
+      Holloway's omnipresence comedy underutilized: The character card specifically calls out that 'I'm already there' is Holloway's signature comedic line that 'becomes comedic through repetition' and that their 'uncanny omnipresence' is both helpful and eerie. The humor-style field emphasizes 'The uncanny omnipresence—"I am already there"—becomes comedic through repetition.' However, in Morning Wellness passage, Holloway appears (line 19) via fruiting body but doesn't use this signature line. This is a perfect setup - Kira needs her wellness check, Holloway appears - but the comedic opportunity is missed. The character's distinctive humor element (appearing everywhere simultaneously through fruiting bodies) should be deployed more consistently throughout the story. This comedic beat should happen regularly enough to become a running gag that readers anticipate, not just occasionally. The passage treats Holloway's appearance as routine rather than playing up the delightful weirdness of a plant that's always already wherever you need them.
+    </feedback>
+    <reason>Added 'I'm already here' gag in Ch4 and omnipresence callback in Ch5</reason>
+    <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/1_Morning_Wellness/passage.card#v3.0.1" status="done" role="Edited"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/5_Settling_In/passages/1_Time_Passing/passage.card#v3.0.1" status="done" role="Edited"/>
+  </critique>
+  <critique id="A29" status="done">
+    <creator agent="true" created="2025-12-14T18:10:29.446Z" agent-type="critique"/>
+    <ref ref="/world/characters/Holloway.card#v2.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/1_Intake/passage.card#v2.0.1"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/2_Dietary_Assessment/passage.card#v2.0.1"/>
+    <feedback>
+      Missing Holloway's personal warmth and remembered details: The character card emphasizes that Holloway has 'warmth and personality even if it sounds alien,' shows 'genuine concern,' 'remembers details about Kira and asks how she's doing,' and gets 'satisfaction from successful coordination.' However, in both Intake (passage 1) and Dietary Assessment (passage 2), Holloway conducts lengthy form-filling sessions without displaying these personal touches. Compare to the speaking-style example in the character card where Holloway says 'Oh good, I'm already there—I fruiting near the water source earlier. Kira, we need to document...' - notice how it starts with personal acknowledgment BEFORE diving into bureaucracy. In the actual passages, Holloway jumps straight into forms without asking 'How are you feeling today?' or 'I noticed you seemed tired yesterday' or referencing previous conversations. The 'office manager energy: remembers details about Kira, shows genuine concern' is missing. The bureaucracy is there but the caring office manager personality underneath it is insufficiently portrayed.
+    </feedback>
+    <reason>Added personal warmth - asking about pain, remembering details</reason>
+    <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/1_Intake/passage.card#v2.1.0" status="done" role="Edited"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/1_Morning_Wellness/passage.card#v3.0.1" status="done" role="Edited"/>
+  </critique>
+  <critique id="A32" status="done">
+    <creator agent="true" created="2025-12-14T18:11:04.768Z" agent-type="critique"/>
+    <ref ref="/world/characters/Holloway.card#v2.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/5_Settling_In/passages/2_Journey_Option/passage.card#v2.0.0"/>
+    <feedback>
+      Holloway's distributed consciousness flaw not shown when explaining journey: The character card establishes that Holloway's 'distributed consciousness means Holloway sometimes starts conversations mid-thought, assuming Kira knows context from a different fruiting body.' This specific flaw/quirk should appear when explaining complex multi-territory journey logistics in Journey Option passage. Holloway is explaining intricate travel details (lines 6-108) but speaks in complete, linear explanations without any mid-conversation jumps or assumptions that Kira already knows something Holloway mentioned to a different fruiting body earlier. This is a perfect opportunity to show the alien distributed cognition - Holloway could reference details they already explained 'earlier' (but to a fruiting body Kira wasn't near), or start mid-thought about Territory Three before explaining Territory Two. The passage treats Holloway as a single unified consciousness presenting information clearly, when the character card describes someone whose distributed nature creates communication quirks.
+    </feedback>
+    <reason>Added distributed consciousness quirk - starting mid-thought from different fruiting body</reason>
+    <ref ref="/stories/Mandatory_Assistance/chapters/5_Settling_In/passages/2_Journey_Option/passage.card#v3.0.0" status="done" role="Edited"/>
+  </critique>
 </critiques>

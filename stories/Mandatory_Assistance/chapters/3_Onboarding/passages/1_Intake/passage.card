@@ -1,9 +1,4 @@
-<passage version="2.0.1" number="1" name="Intake">
-  <reasoning-passage>
-    Context from outline.card: Kira finds the facility and bureaucracy DELIGHTFUL, not exhausting. Living architecture amazes her - "Mav would lose his mind!" Buddy asking curious questions. Playing along with HR language is fun. Emergency contact moment is brief and she finds joy anyway.
-
-    Key voice changes: Wonder at facility, delight at paperwork absurdity, Buddy curious not lecturing, Uncharted references, "This is AMAZING" not "I want to scream."
-  </reasoning-passage>
+<passage version="2.1.0" number="1" name="Intake">
   <text>
     The forest opens into a clearing, and I stop dead.
 
@@ -33,7 +28,15 @@
 
     Inside, the chamber has smoothly curved walls formed by the woven vines. More bioluminescence provides gentle light. Something like a desk occupies the center—a flat vine surface that has clearly been shaped for the purpose. Multiple fruiting bodies dot the space, all oriented toward me.
 
-    "Let's begin your intake processing!" Holloway says warmly.
+    "Before we begin—" Holloway's voice softens. "How are you feeling? That leg looks painful. Do you need to rest first?"
+
+    The question catches me off guard. Genuine concern, underneath all the bureaucracy.
+
+    "I'm okay. Really. The temporary treatment is helping."
+
+    "Good. Good." The fruiting bodies bob with what might be relief. "We'll get you proper medical care after intake. But if you need to stop at any point, just say so. We can always pause the forms."
+
+    "Let's begin your intake processing!" Holloway says, warmth still present but now shifting into official mode.
 
     "Paperwork!" I'm laughing. "Of course there's paperwork."
 
@@ -198,10 +201,4 @@
     Kira following Scout deeper into the facility toward orientation, excited for four hours of workplace safety training. Leg hurts but spirits are high. Buddy sharing her wonder at the adventure.
   </leaves-off>
   <title>Intake</title>
-  <sources>
-    <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/1_Intake/outline.card" role="Beat structure and scene planning"/>
-    <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/1_Intake/passage-placement.card" role="Passage objectives"/>
-    <ref ref="/world/characters/Holloway.card" role="Holloway's warm bureaucratic voice"/>
-    <ref ref="/world/characters/Scout.card" role="Scout's non-verbal comfort and encouragement"/>
-  </sources>
 </passage>
