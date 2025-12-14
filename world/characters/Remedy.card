@@ -1,20 +1,5 @@
-<character version="4.0.0" name="Remedy">
-  <reasoning-character>
-    Context: Late 27th century with sentient plant life that learned about humans from HR manuals. Story premise: Kira crashes, stranded with bureaucratic plant aliens trying to help. Protagonist is Kira Voss.
-
-    Story purpose: Supporting character who provides practical medical/chemical help through mushroom production. Can control one of the robots, giving Remedy mobility and hands. Another network organism like Holloway but with different characteristics—fungal vs root-based, focused on remedies and decomposition. Demonstrates the diversity of collective consciousness among the plants.
-
-    Character depth: Supporting character - moderate detail. Will appear when medical help or robot manipulation is needed.
-
-    Setting fit: Remedy is a fungal network spread through soil and organic matter. Can fruit mushrooms rapidly wherever needed. This fits the decomposer/mycorrhizal aspects of plant ecology and shows intelligence in fungi.
-
-    Distinctiveness: Unlike Holloway (bureaucratic fruiting bodies), Scout (bouncy scout), or Florence (elegant wheels), Remedy is practical, focused on healing and chemistry, appears as mushrooms, can control robots. Helpful in concrete ways—produces actual medicinal compounds.
-
-    Relationships: Works with other plants, can coordinate through the robot network. Has the practical knowledge that Holloway's bureaucracy lacks.
-
-    Completeness: Need all major fields except internal-monologue-style (not POV). Physical description should cover both mushroom form and robot use.
-  </reasoning-character>
-  <story-role>Supporting character / Healer: Remedy provides practical medical help through rapidly-grown medicinal mushrooms. Can control one of the robots for mobility and manipulation. Represents the pragmatic, chemical-solution side of plant intelligence—less concerned with protocols, more focused on what actually helps. Arc: Large fungal network with unclear boundaries - where does "Remedy" begin and end when the mycelium spreads everywhere, decomposing and connecting? Through interaction with Kira (who has very clear body boundaries) and working as a distinct helper, begins confronting questions of selfhood: If I'm part of the ecosystem connecting everything, am I a person with agency or just a process? Where do I exist when I exist everywhere? This becomes an existential crisis without resolution - Remedy ends the story more uncertain about identity and boundaries than at the beginning. The arc is ongoing confusion, not resolution.</story-role>
+<character version="4.1.0" name="Remedy">
+  <story-role>Supporting character / Healer: Remedy provides practical medical help through rapidly-grown medicinal mushrooms. Can control a salvaged robot for mobility and manipulation. Represents the pragmatic, chemical-solution side of plant intelligence—less concerned with protocols, more focused on what actually helps. Arc: Starts focused purely on survival chemistry (keeping Kira alive), but through community interactions discovers chemistry can serve joy, not just necessity—environmental enhancements, pleasant fragrances, making life better rather than just preventing death. Growth from problem-solver to life-improver.</story-role>
   <full-name>Remedy</full-name>
   <pronouns>they/them</pronouns>
   <age>Unknown (fungal network - age is unclear)</age>
@@ -47,7 +32,7 @@
   <normal-life>
     Remedy maintains the network through decomposition, breaking down organic matter and redistributing nutrients. Mushrooms fruit when needed for communication, medicine, or other purposes, then decompose back into the network. The robot gets used for tasks requiring manipulation—moving objects, operating tools, providing a mobile presence. Constantly processing chemical information about the environment, what's available, what can be synthesized.
   </normal-life>
-  <secrets>Remedy doesn't actually understand all the medical properties they produce—some mushrooms work through trial and error and fungal instinct, not true comprehension of the chemistry.</secrets>
+  <secrets>Remedy doesn't fully understand the chemistry they produce—works through fungal instinct and rapid adaptation rather than true comprehension. Can synthesize new compounds for unfamiliar situations (like human nutrition) through biological intuition, but occasionally gets proportions wrong or produces unexpected side effects. More reliable than they let on for urgent situations, less reliable for novel applications.</secrets>
   <narrative-lens>Remedy notices chemical composition, decay states, what's breaking down and what's growing. Practical solutions, available materials, potential compounds.</narrative-lens>
   <internal-monologue-style>
     N/A - Remedy is not a POV character
@@ -68,7 +53,7 @@
     "Hmm. That should have helped with inflammation. Why are your fingers turning slightly blue? Interesting."
   </humor-style>
   <physical-description>
-    Remedy appears as mushrooms of various types, sizes, and colors depending on purpose. Medicinal mushrooms tend to be small, pale, with gilled undersides. Fruiting bodies can emerge within 20 minutes to several hours. Each mushroom is temporary, decomposing back after serving its purpose. When using the robot: one of the two salvaged robots, patched together from various human technology, about 1.5 meters tall, humanoid shape with articulated arms and basic manipulation capabilities. Remedy's robot control is functional but not particularly graceful—gets the job done.
+    Remedy appears as mushrooms of various types, sizes, and colors depending on purpose. Medicinal mushrooms tend to be small, pale, with gilled undersides. Fruiting bodies can emerge within minutes when urgent, or develop more slowly over hours for complex compounds. Each mushroom is temporary, decomposing back after serving its purpose. When using the robot: a salvaged robot patched together from various human technology, about 1.5 meters tall, humanoid shape with articulated arms and basic manipulation capabilities. Remedy's robot control is functional but not particularly graceful—gets the job done.
   </physical-description>
   <relationships/>
 </character>

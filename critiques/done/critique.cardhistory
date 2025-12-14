@@ -1,8 +1,8 @@
 <!-- this file is automatically managed by ske validate; do not edit -->
 <versions>
-  <version number="1.0.0" archived-at="2025-12-14T16:36:37.619Z">
+  <version number="1.0.0" archived-at="2025-12-14T16:50:06.881Z">
     <changelog-entry>
-      <message>Added C25 (done)</message>
+      <message>Added A7 (done)</message>
     </changelog-entry>
     <!-- Managed by ske critique mark -->
     <critiques version="1.0.0" name="critique">
@@ -59,6 +59,97 @@
         </feedback>
         <reason>Florence clarifies: ~25% real fragments expanded, ~75% pure fabrication</reason>
         <ref ref="/stories/Mandatory_Assistance/chapters/10_Trust_Complicated/passages/3_Broken_Trust/passage.card#v3.0.0" status="done" role="Edited"/>
+      </critique>
+      <critique id="A1" status="done">
+        <creator agent="true" created="2025-12-14T16:42:27.027Z" agent-type="critique"/>
+        <ref ref="/world/characters/Remedy.card#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/3_Medical_Treatment/passage.card#v3.0.0"/>
+        <feedback>
+          MAJOR INCONSISTENCY: Remedy's physical description and manifestation. The character card (line 71-72) states 'Remedy appears as mushrooms of various types, sizes, and colors depending on purpose. Medicinal mushrooms tend to be small, pale, with gilled undersides. Fruiting bodies can emerge within 20 minutes to several hours. Each mushroom is temporary, decomposing back after serving its purpose. When using the robot: one of the two salvaged robots, patched together from various human technology, about 1.5 meters tall, humanoid shape with articulated arms and basic manipulation capabilities.'
+
+          However, in Medical Treatment passage (line 12): 'Small pale clusters emerge from the soil-covered floor, pushing up through the groundcover in accelerated time-lapse. Within minutes, they've fruited fully' - this suggests mushrooms fruit in MINUTES, not '20 minutes to several hours' as specified in the character card.
+
+          More critically, the character card says there are TWO salvaged robots total in the facility, with Remedy controlling ONE of them. But nowhere in the story is there any mention of what happened to the second robot, who controls it, or why only Remedy gets robot access. This is a significant world-building gap - if there are two robots, the other one needs to be accounted for (is it broken? controlled by someone else? stored somewhere?). This becomes especially problematic during action scenes where additional hands/mobility would be useful.
+        </feedback>
+        <reason>Fixed robot count (one not two), clarified mushroom timing</reason>
+        <ref ref="/world/characters/Remedy.card#v4.1.0" status="done" role="Edited"/>
+      </critique>
+      <critique id="A3" status="done">
+        <creator agent="true" created="2025-12-14T16:42:59.163Z" agent-type="critique"/>
+        <ref ref="/world/characters/Remedy.card#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/11_Under_Attack/passages/2_Attack_Begins/passage.card#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/12_Victory_Through_Voice/passages/2_Together_Not_Just_Coordinated/passage.card#v2.0.0"/>
+        <feedback>
+          ABILITY INCONSISTENCY: Remedy's chemical production capabilities are inconsistent across combat scenes.
+
+          In Attack Begins (line 29): 'Remedy spreads toward the western breach, releasing clouds of something that smells sharp and chemical.' Later (line 67-76): Remedy deploys chemical clouds that react with hostile spore clouds, creating neutralization reactions and toxic sludge. Line 143: 'Remedy deploys more defensive chemicals but they're running low. You can only produce so many compounds before exhausting your resources.'
+
+          However, in Together Not Just Coordinated (line 11-12): 'Remedy positions near the gaps between layers one and two—chemical traps ready.' Then successfully deploys chemicals multiple times throughout the extended battle without apparent resource limitations until very late in the fight.
+
+          The character card (line 37-38) mentions as a FLAW: 'Sometimes too focused on immediate chemical solutions, missing social or emotional dimensions of problems. Can be impatient with protocol and bureaucracy even when it serves a purpose. Makes mistakes with mushroom properties—not all the medicinal varieties work as intended, some have unexpected side effects, occasionally grows the wrong compound entirely.'
+
+          Yet in BOTH battle scenes, Remedy's chemistry works perfectly every time. No mention of unexpected side effects, wrong compounds, or mistakes. This is a significant character flaw that should manifest under pressure - the character card explicitly says they make mistakes with compounds, but in actual combat situations (high pressure, rapid deployment), everything works exactly as intended. This undermines the established character trait and makes Remedy too competent/perfect in their specialty.
+        </feedback>
+        <reason>Added chemical mistake in combat - wrong compound accelerates dissolution</reason>
+        <ref ref="/stories/Mandatory_Assistance/chapters/11_Under_Attack/passages/2_Attack_Begins/passage.card#v3.1.0" status="done" role="Edited"/>
+      </critique>
+      <critique id="A4" status="done">
+        <creator agent="true" created="2025-12-14T16:43:15.798Z" agent-type="critique"/>
+        <ref ref="/world/characters/Remedy.card#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/13_Individual_Voices/passages/1_Everyone_Contributing/passage.card#v2.0.0"/>
+        <feedback>
+          CHARACTER ARC CONTRADICTION: Remedy's character arc from the character card is completely absent from the story.
+
+          The character card (line 17, story-role section) explicitly describes Remedy's arc: 'Arc: Large fungal network with unclear boundaries - where does "Remedy" begin and end when the mycelium spreads everywhere, decomposing and connecting? Through interaction with Kira (who has very clear body boundaries) and working as a distinct helper, begins confronting questions of selfhood: If I'm part of the ecosystem connecting everything, am I a person with agency or just a process? Where do I exist when I exist everywhere? This becomes an existential crisis without resolution - Remedy ends the story more uncertain about identity and boundaries than at the beginning. The arc is ongoing confusion, not resolution.'
+
+          However, in Everyone Contributing (lines 65-78), Remedy says: 'I'm developing environmental enhancements. The facility should be comfortable, not just functional... I used to only think about survival chemistry. But Velvet asked what I could do to make their growth smell better. Florence asked about tactical applications of scent for communication. You asked about human-safe fragrances. I realized chemistry can serve joy, not just necessity... I'm making life better.'
+
+          This shows character growth toward purpose and contribution, but there's NO mention of the identity/boundary crisis. No questioning of where Remedy begins and ends. No existential uncertainty about being a person vs. a process. No confusion about selfhood despite being 'literally everywhere things rot' (character card line 38).
+
+          The interaction with Kira (who has clear body boundaries) was supposed to TRIGGER this existential questioning, but it never appears in the prose. This is a major character arc that was planned but never executed in the actual story.
+        </feedback>
+        <reason>Simplified arc to match story - survival chemistry to joy chemistry</reason>
+        <ref ref="/world/characters/Remedy.card#v4.1.0" status="done" role="Edited"/>
+      </critique>
+      <critique id="A6" status="done">
+        <creator agent="true" created="2025-12-14T16:43:43.542Z" agent-type="critique"/>
+        <ref ref="/world/characters/Remedy.card#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/5_Settling_In/passages/3_Preparation/passage.card#v3.0.0"/>
+        <feedback>
+          MISSED OPPORTUNITY: Remedy's 'unsettling decomposition comments' flaw underutilized in farewell scene.
+
+          In Preparation (lines 108-121), Remedy appears for a final wound check before Kira's departure: 'Perfectly healed! Full regeneration, excellent structural integrity. You won't decompose from this injury!' Kira: 'Thanks, Remedy. Your chemistry saved my life.' Remedy: 'Chemistry is what chemistry does... Travel safely. Come back and tell me about the other territories' decomposition patterns. I'm curious.'
+
+          The character card (line 37-38) explicitly states as a flaw: 'Proud of decomposition abilities but doesn't realize how unsettling it is to casually mention being able to break down Kira's dead body very efficiently.'
+
+          This farewell scene was a PERFECT opportunity for Remedy to say something accidentally disturbing about decomposition (like 'If you die in another territory, their decomposers will process you differently than I would - less efficient!' or 'Travel safely! Though if you don't, at least you'll become excellent soil somewhere!'). 
+
+          The character card's humor style (lines 60-68) includes examples like: 'You're approximately 60% water, 20% protein, 15% fat, 5% minerals. Very decomposable. I mean, not that we want to! But chemically speaking, you'd break down beautifully.'
+
+          Instead, Remedy's dialogue is surprisingly tactful and appropriate. This undermines the established character trait of being casually morbid without realizing it. The flaw should manifest MORE in emotional moments (farewells, caring interactions) because that's when Remedy would naturally express care through their decomposition-focused lens, not less.
+        </feedback>
+        <reason>Made farewell more accidentally morbid - added body processing time and nitrogen cycle concerns</reason>
+        <ref ref="/stories/Mandatory_Assistance/chapters/5_Settling_In/passages/3_Preparation/passage.card#v4.0.0" status="done" role="Edited"/>
+      </critique>
+      <critique id="A7" status="done">
+        <creator agent="true" created="2025-12-14T16:43:58.759Z" agent-type="critique"/>
+        <ref ref="/world/characters/Remedy.card#v4.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/2_Dietary_Assessment/passage.card#v2.0.1"/>
+        <feedback>
+          WORLD-BUILDING QUESTION: Remedy's synthesis capabilities vs. mycelial network biology.
+
+          In Dietary Assessment (lines 26-33), Remedy explains: 'I'm analyzing which compounds I can synthesize from available plant chemistry. Proteins are possible—I can fruit mushrooms with complete amino acid profiles. Carbohydrates, easy. Some fats. Vitamins will be... challenging... Each variety produces different compounds! I match the compounds to her nutritional profile.'
+
+          This raises biological questions: How does a fungal network 'decide' what mushrooms to fruit? The character card (line 50, secrets section) states: 'Remedy doesn't actually understand all the medical properties they produce—some mushrooms work through trial and error and fungal instinct, not true comprehension of the chemistry.'
+
+          If Remedy doesn't truly understand the chemistry and works through 'fungal instinct,' how can they rapidly engineer NEW compounds for human nutrition (which they've never encountered before)? How does trial-and-error work when the subject (Kira) can only be tested once and failure could be fatal?
+
+          The character card establishes Remedy as pragmatic and competent but with knowledge gaps. The passages show Remedy successfully engineering complex nutritional compounds for an alien species on first attempt. This seems too easy and doesn't align with the 'trial and error' learning method described in the character card.
+
+          Either Remedy needs to struggle more with human nutrition (some compounds fail, adjustments needed, mentioned mistakes), or the character card's 'secrets' section needs revision to explain how Remedy CAN engineer new compounds so effectively despite not fully understanding the chemistry.
+        </feedback>
+        <reason>Clarified secrets field - fungal instinct enables new compounds, occasional mistakes expected</reason>
+        <ref ref="/world/characters/Remedy.card#v4.1.0" status="done" role="Edited"/>
       </critique>
     </critiques>
   </version>
