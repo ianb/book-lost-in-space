@@ -1,4 +1,4 @@
-<passage version="3.0.1" number="1" name="False Wisdom">
+<passage version="3.0.2" number="1" name="False Wisdom">
   <text>
     Five days after we stopped waiting for Elder Heartwood's wisdom, we get our first real threat.
 
@@ -166,7 +166,7 @@
 
     "No," Holloway says firmly. "You've lost that privilege. Leave Elder Twist with us."
 
-    The words are harsh, formal. This isn't Holloway being bureaucratic—this is Holloway being hurt.
+    The words are harsh, formal. This isn't Holloway being bureaucratic—this is Holloway being something else. Hurt? I'm not sure Holloway would call it that. But their fruiting bodies have dimmed—the warm bioluminescence gone gray at the edges, like something vital has been drained. Whatever Holloway is feeling, they don't seem to have words for it yet.
 
     Florence wheels toward Elder Twist. Her tendrils hover over the pot's housing—the housing that's been part of her platform for longer than I've known her. Her flowers have gone almost white, drained of all color.
 
@@ -227,4 +227,7 @@
     Florence's deception revealed—she's been fabricating Elder Twist's wisdom, though her advice was actually sound. Plants angry about dishonesty and violated trust. Florence isolated, stripped of Elder Twist. Kira questioning whether the lie matters if advice was good. Hostile plant threat still looming. Group fractured, planning to discuss tonight. Trust damaged at worst possible time.
   </leaves-off>
   <title>Elder Twist Speaks</title>
+  <voice-override>
+    <notes>Holloway flutes rather than speaks—musical, woodwind tones.</notes>
+  </voice-override>
 </passage>

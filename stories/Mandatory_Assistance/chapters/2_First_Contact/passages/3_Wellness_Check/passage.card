@@ -208,4 +208,7 @@
     <ref ref="/world/characters/Holloway.card" role="Holloway's voice, appearance, and backstory"/>
     <ref ref="/world/entities/Sector_7-Gamma-412_Planet.card" role="Purple forest setting"/>
   </sources>
+  <voice-override>
+    <notes>Holloway flutes rather than speaks—musical, woodwind tones.</notes>
+  </voice-override>
 </passage>

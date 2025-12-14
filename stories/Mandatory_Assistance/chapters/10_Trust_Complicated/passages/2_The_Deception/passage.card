@@ -1,4 +1,4 @@
-<passage version="3.0.0" number="2" name="The Deception">
+<passage version="3.1.0" number="2" name="The Deception">
   <text>
     The evening gathering feels like a trial.
 
@@ -69,6 +69,20 @@
     "I created REAL value using borrowed authority," Florence corrects. "The advice helped! The outcomes were good! Does the source actually matter if the guidance works?"
 
     "Yes," Holloway says firmly. "The source matters. Trust requires honesty. You violated that."
+
+    There's something strange in how Holloway processes this—more like cataloging a protocol failure than grieving a personal betrayal. "The system functioned incorrectly. False inputs produced real outputs. That's... a significant disruption to reliable coordination."
+
+    Runner's vines twitch. "Holloway, she LIED to us. It's not just about coordination disruption."
+
+    "I understand that," Holloway says, but there's genuine confusion underneath the words. "The deception is the problem. I'm noting the deception."
+
+    "You're noting it like it's an incident report," I say quietly. "This is Florence. Someone you worked with every day."
+
+    Holloway's fruiting bodies shift, uncertain. "I know. I'm... processing that. It's difficult to separate the procedural violation from the..." They trail off, searching for words they don't quite have.
+
+    "The hurt," Runner supplies.
+
+    "Yes. That."
 
     "We just spent the last week learning that authority doesn't actually have better answers!" Florence argues. "Elder Heartwood failed us. The HR manuals failed. We learned to trust our own judgment instead of waiting for wisdom from above. And now you're angry that I... what, proved that point first? Showed you that wisdom doesn't require authority?"
 
@@ -193,4 +207,7 @@
     Full confrontation complete. Florence admits widespread fabrication, defends herself (advice was good, wouldn't have been heard otherwise) but plants can't get past dishonesty. Florence separated from group, alone without Elder Twist or trust. Group fractured, uncertain how to respond to hostile plants, can't trust Florence's advice even if it's sound. Internal crisis compounding external threat. No resolution, just complexity and hurt.
   </leaves-off>
   <title>Good Advice, Bad Source</title>
+  <voice-override>
+    <notes>Holloway flutes rather than speaks—musical, woodwind tones.</notes>
+  </voice-override>
 </passage>

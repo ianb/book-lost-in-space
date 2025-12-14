@@ -1,4 +1,4 @@
-<passage version="3.0.0" number="1" name="Official Choice">
+<passage version="3.0.1" number="1" name="Official Choice">
   <text>
     The freighter appears in the sky just after dawn.
 
@@ -78,7 +78,11 @@
 
         "This is highly irregular."
 
-        "Belonging usually is," I say.
+        "I've documented your objection," Holloway says mildly. "I've also documented that you're wrong."
+
+        Torres blinks at this unexpected sass from a plant.
+
+        "Belonging usually is," I say, trying not to smile.
 
         Torres turns back to me. "Ms. Voss, I need to be absolutely certain this is your genuine choice and not coercion or impairment. What would convince me?"
 
@@ -93,4 +97,7 @@
     Kira has stated her choice clearly. Torres skeptical but willing to investigate. About to tour facility and see evidence of genuine community. Sets up demonstration of authentic belonging.
   </leaves-off>
   <title>Choosing To Stay</title>
+  <voice-override>
+    <notes>Holloway flutes rather than speaks—musical, woodwind tones.</notes>
+  </voice-override>
 </passage>

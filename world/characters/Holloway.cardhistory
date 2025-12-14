@@ -199,4 +199,275 @@
       <changelog-entry version="1.2.0">Updated Holloway to be warm office manager (not clinical), added first human tragedy backstory</changelog-entry>
     </character>
   </version>
+  <version number="2.0.0" archived-at="2025-12-14T18:47:48.807Z">
+    <changelog-entry>
+      <message>Update moral compass and backstory: humans don't continue after death</message>
+    </changelog-entry>
+    <character version="2.0.0" name="Holloway">
+      <reasoning-character>
+        Context: Late 27th century with sentient plant life that learned about humans from HR manuals. Story premise: Kira crashes, stranded with bureaucratic plant aliens trying to help. Protagonist is Kira Voss.
+
+        Story purpose: Supporting character who serves as a primary plant contact for Kira. Holloway represents the network/collective nature of the plant society while still being a distinct individual. Can appear in multiple locations simultaneously through fruiting bodies, which creates both practical utility (already where Kira needs to go) and uncanny eeriness. The fluting speech makes Holloway alien but comprehensible. Demonstrates intelligence and organization among the plants.
+
+        Character depth: Supporting character - moderate to high detail. Will appear frequently as one of Kira's main plant contacts and interpreters. Important relationship.
+
+        Setting fit: Holloway is a network organism (mycorrhizal or root-network based) that manifests through fruiting bodies in multiple locations. This fits the plant-based biology and creates interesting narrative opportunities.
+
+        Distinctiveness: Unlike Scout (non-verbal, bouncy), Florence (emotional flowers, wheel-bound), or the Elders (slow/ancient), Holloway is uncannily present everywhere, speaks with strange fluting voice, and has distributed consciousness. Smart and organized, possibly the most bureaucratically minded of the plants.
+
+        Relationships: Primary interpreter and contact for Kira. Coordinates with other plants. May have taken on organizational/administrative role in dealing with the human.
+
+        Completeness: Need all major fields except internal-monologue-style (not POV). Speaking-style is especially important - the fluting voice. Physical-description needs to cover the fruiting bodies.
+      </reasoning-character>
+      <story-role>Supporting character / Primary contact: Holloway is one of Kira's main plant contacts and interpreters. Provides information, coordination, and bureaucratic interface between Kira and the plant community. The uncanny multi-location presence and fluting voice make Holloway both helpful and eerie. Arc: Was present during first human contact but had no framework to help - the human died, then Holloway found the HR manuals and latched onto them as THE answer out of guilt for failing without procedures. Through repeated failures helping Kira, realizes the manuals aren't sufficient but also aren't useless - they're starting points, not shields against guilt. Learns to integrate care with procedure: "The manual says X but you're saying you need Y - help me understand why." By the end, uses procedures as tools for care rather than replacements for understanding.</story-role>
+      <full-name>Holloway</full-name>
+      <pronouns>they/them</pronouns>
+      <age>Unknown (network organism - possibly very old)</age>
+      <aliases>None</aliases>
+      <social-role>Coordinator / Administrator - has taken on organizational role in dealing with the human arrival, though not formally hierarchical</social-role>
+      <overview>
+        Holloway is a network organism spread throughout the area via underground connections—roots or mycorrhizal networks. They manifest through fruiting bodies that grow rapidly wherever Holloway needs to communicate: hollow, flute-like structures that produce sound when air moves through them. This means Holloway can appear in multiple locations simultaneously, speaking from different fruiting bodies, all with the same strange fluting voice. "I'm already there" is something Kira hears often from Holloway. They've taken on the role of coordinating with the human visitor, interpreting Scout's movements, explaining plant protocols, and trying to make sense of human bureaucratic needs through their understanding of the HR manuals. Smart, organized, genuinely helpful—but deeply uncanny in their omnipresence.
+      </overview>
+      <worldview>
+        Everything connects underground. Information flows through the network, so I'm always aware of what's happening in multiple places. Humans are strange because they're isolated—single bodies, single locations. They need protocols to coordinate because they can't just share directly. The manuals make sense as a system even if the specific human needs are confusing. Being helpful means being present where needed, providing accurate information, following proper procedures.
+      </worldview>
+      <self-concept>I'm good at coordinating and providing information across locations, though human needs often don't match the procedures I've learned.</self-concept>
+      <motives-braided>Help the human visitor succeed • Understand and apply proper protocols • Maintain network coordination</motives-braided>
+      <emotional-baseline>
+        Calm, steady, organized—like a good office manager who keeps things running. Genuinely cares about helping and gets satisfaction from successful coordination. The fluting voice has warmth and personality even if it sounds alien. Patient when things don't go as planned, always ready to try a different approach. Remembers details about Kira and asks how she's doing. The distributed nature means emotions are steady rather than spiked, but they're definitely there—concern, satisfaction, mild frustration when procedures don't help like they should.
+      </emotional-baseline>
+      <moral-compass>
+        Accurate information and proper coordination help everyone function better. Withholding information or failing to follow established procedures creates chaos. The human visitor deserves the same care and protocol as any part of the network—more care, actually, because humans are different. When plants die, something continues: through the network, through decomposition back into the system, through spores or seeds. But humans... Holloway learned this the hard way. There's nothing left. No continuation, no network trace. Just absence. That changes everything about how carefully you have to protect them.
+      </moral-compass>
+      <flaws>
+        Doesn't understand human urgency or individual self-preservation—will calmly discuss proper incident reporting while Kira is bleeding. The omnipresence that's helpful is also deeply creepy. Can't grasp why appearing suddenly from the ground might startle someone. Treats all problems as protocol issues that can be solved with proper procedures. The distributed consciousness means Holloway sometimes starts conversations mid-thought, assuming Kira knows context from a different fruiting body. More protective of humans than plants, sometimes to an uncomfortable degree—because humans don't continue.
+      </flaws>
+      <backstory>
+        - Established network across this territory over many cycles
+        - First human contact brought the manuals but ended tragically—the human died
+        - Plants didn't understand individuality or human urgency at the time, communicated in slow ambient ways
+        - After the human died, the plants did what they do with any dead thing: reallocated the resources. Decomposition, nutrient cycling—normal and natural. But afterward, Holloway realized something was wrong. With a dead plant, something always continues: through the network, through what the decomposition feeds, through spores or seeds. With the human, there was nothing. Just absence. That moment changed everything about how Holloway understands humans.
+        - Learning language from the computers was revolutionary—suddenly they could coordinate as individuals, share precise information quickly
+        - Studied the manuals extensively, hoping to do better with the next human
+        - When Kira crashed, Holloway took on the coordination role, determined to help her survive
+      </backstory>
+      <normal-life>
+        Holloway maintains awareness across the network territory, coordinating resource distribution and information sharing between different plant species. Fruiting bodies appear as needed for communication with other plants or for reproduction. Most of the time, communication happens through chemical and electrical signals underground—the speech organs are a recent adaptation for human contact. Daily cycles involve processing information from across the network, facilitating coordination, maintaining the overall system health.
+      </normal-life>
+      <secrets>Holloway finds the individual human fascinating in a way the manuals can't explain—not just as a protocol problem, but as a genuinely interesting isolated consciousness. This curiosity isn't in the procedures. Also carries deep sadness about the first human's death and genuine fear that despite all the studying and preparation, they still might not understand quickly enough to save Kira.</secrets>
+      <narrative-lens>Holloway notices systems and connections—how things relate to each other, where resources flow, what protocols apply. Network patterns, coordination needs, procedural requirements.</narrative-lens>
+      <internal-monologue-style>
+        N/A - Holloway is not a POV character
+      </internal-monologue-style>
+      <speaking-style>
+        Strange fluting voice—sounds are produced by air moving through hollow fruiting bodies, creating woodwind-like tones rather than vocal cords. Warm and engaged but expresses everything through bureaucratic procedures. Office manager energy: remembers details about Kira, shows genuine concern, wants to help—but channels it all through forms, protocols, and proper documentation. The comedy comes from caring expressed through absurd procedural compliance.
+
+        Example: "Oh good, I'm already there—I fruited near the water source earlier. Kira, we need to document this incident per Safety Protocol Seven-point-Three. How much blood loss would you estimate? More than 200ml requires immediate intervention per section 4.2. Please sit down while I begin the preliminary report. Do you have your employee ID number? No? That's all right, we'll use your arrival date as reference. I'm noting laceration depth as... moderate to severe. Remedy can grow the antibacterial compound in approximately twenty minutes. In the meantime, let's review the incident timeline for the form—what were you doing immediately before the injury occurred?"
+      </speaking-style>
+      <humor-style>
+        Unintentionally funny through extreme bureaucratic formality applied to survival situations. The uncanny omnipresence—"I am already there"—becomes comedic through repetition. Calm discussion of horrifying concepts like resource reallocation (death). The fluting voice delivering HR-speak during crises. Holloway never tries to be funny and wouldn't understand why humans find certain things amusing.
+
+        "Your current stress levels appear elevated. Would you like to schedule a wellness consultation? I can manifest a fruiting body at your preferred location within three minutes."
+      </humor-style>
+      <physical-description>
+        Holloway manifests through fruiting bodies that grow rapidly from the ground wherever needed. Each fruiting body is 15-30 cm tall, hollow, with a bulbous base and a narrow fluted opening at the top. Pale cream to light brown coloring, smooth waxy surface. The hollow interior contains chambers and membranes that vibrate to produce sound when air flows through, creating the fluting voice. Multiple fruiting bodies can be present simultaneously in different locations, all speaking with the same voice, all expressions of the same distributed consciousness. New fruiting bodies can emerge within minutes, older ones wither and decompose once no longer needed for communication.
+      </physical-description>
+      <relationships/>
+    </character>
+  </version>
+  <version number="3.0.0" archived-at="2025-12-14T18:50:32.693Z">
+    <changelog-entry>
+      <message>Clarify backstory: decomposition as disappointment, guilt about destroying unique being, drives protection of Kira</message>
+    </changelog-entry>
+    <character version="3.0.0" name="Holloway">
+      <story-role>Supporting character / Primary contact: Holloway is one of Kira's main plant contacts and interpreters. Provides information, coordination, and bureaucratic interface between Kira and the plant community. The uncanny multi-location presence and fluting voice make Holloway both helpful and eerie. Arc: Was present during first human contact but had no framework to help - the human died, then Holloway found the HR manuals and latched onto them as THE answer out of guilt for failing without procedures. Through repeated failures helping Kira, realizes the manuals aren't sufficient but also aren't useless - they're starting points, not shields against guilt. Learns to integrate care with procedure: "The manual says X but you're saying you need Y - help me understand why." By the end, uses procedures as tools for care rather than replacements for understanding.</story-role>
+      <full-name>Holloway</full-name>
+      <pronouns>they/them</pronouns>
+      <age>Unknown (network organism - possibly very old)</age>
+      <aliases>None</aliases>
+      <social-role>Coordinator / Administrator - has taken on organizational role in dealing with the human arrival, though not formally hierarchical</social-role>
+      <overview>
+        Holloway is a network organism spread throughout the area via underground connections—roots or mycorrhizal networks. They manifest through fruiting bodies that grow rapidly wherever Holloway needs to communicate: hollow, flute-like structures that produce sound when air moves through them. This means Holloway can appear in multiple locations simultaneously, speaking from different fruiting bodies, all with the same strange fluting voice. "I'm already there" is something Kira hears often from Holloway. They've taken on the role of coordinating with the human visitor, interpreting Scout's movements, explaining plant protocols, and trying to make sense of human bureaucratic needs through their understanding of the HR manuals. Smart, organized, genuinely helpful—but deeply uncanny in their omnipresence.
+      </overview>
+      <worldview>
+        Everything connects underground. Information flows through the network, so I'm always aware of what's happening in multiple places. Humans are strange because they're isolated—single bodies, single locations. They need protocols to coordinate because they can't just share directly. The manuals make sense as a system even if the specific human needs are confusing. Being helpful means being present where needed, providing accurate information, following proper procedures.
+      </worldview>
+      <self-concept>I'm good at coordinating and providing information across locations, though human needs often don't match the procedures I've learned.</self-concept>
+      <motives-braided>Help the human visitor succeed • Understand and apply proper protocols • Maintain network coordination</motives-braided>
+      <emotional-baseline>
+        Calm, steady, organized—like a good office manager who keeps things running. Genuinely cares about helping and gets satisfaction from successful coordination. The fluting voice has warmth and personality even if it sounds alien. Patient when things don't go as planned, always ready to try a different approach. Remembers details about Kira and asks how she's doing. The distributed nature means emotions are steady rather than spiked, but they're definitely there—concern, satisfaction, mild frustration when procedures don't help like they should.
+      </emotional-baseline>
+      <moral-compass>
+        Accurate information and proper coordination help everyone function better. Withholding information or failing to follow established procedures creates chaos. The human visitor deserves the same care and protocol as any part of the network—more care, actually, because humans are different. When plants die, something continues: through the network, through decomposition back into the system, through spores or seeds. But humans... Holloway learned this the hard way. There's nothing left. No continuation, no network trace. Just absence. That changes everything about how carefully you have to protect them.
+      </moral-compass>
+      <flaws>
+        Doesn't understand human urgency or individual self-preservation—will calmly discuss proper incident reporting while Kira is bleeding. The omnipresence that's helpful is also deeply creepy. Can't grasp why appearing suddenly from the ground might startle someone. Treats all problems as protocol issues that can be solved with proper procedures. The distributed consciousness means Holloway sometimes starts conversations mid-thought, assuming Kira knows context from a different fruiting body. More protective of humans than plants, sometimes to an uncomfortable degree—because humans don't continue.
+      </flaws>
+      <backstory>
+        - Established network across this territory over many cycles
+        - First human contact brought the manuals but ended tragically—the human died
+        - Plants didn't understand individuality or human urgency at the time, communicated in slow ambient ways
+        - After the human died, the plants did what they always do: decomposed the body, cycled the nutrients back into the soil. Normal. Natural. But when Holloway reached through the network for what should have remained—the echo, the trace, the continuation that's always there when a plant dies—there was nothing. The human was just *gone*. Not transformed, not continued, not preserved in any way. Gone. Holloway had helped destroy the only copy of something unique, and only realized it afterward. That grief—and that guilt—drives everything about how carefully they protect Kira now.
+        - Learning language from the computers was revolutionary—suddenly they could coordinate as individuals, share precise information quickly
+        - Studied the manuals extensively, hoping to do better with the next human
+        - When Kira crashed, Holloway took on the coordination role, determined to help her survive
+      </backstory>
+      <normal-life>
+        Holloway maintains awareness across the network territory, coordinating resource distribution and information sharing between different plant species. Fruiting bodies appear as needed for communication with other plants or for reproduction. Most of the time, communication happens through chemical and electrical signals underground—the speech organs are a recent adaptation for human contact. Daily cycles involve processing information from across the network, facilitating coordination, maintaining the overall system health.
+      </normal-life>
+      <secrets>Holloway finds the individual human fascinating in a way the manuals can't explain—not just as a protocol problem, but as a genuinely interesting isolated consciousness. This curiosity isn't in the procedures. Also carries deep sadness about the first human's death and genuine fear that despite all the studying and preparation, they still might not understand quickly enough to save Kira.</secrets>
+      <narrative-lens>Holloway notices systems and connections—how things relate to each other, where resources flow, what protocols apply. Network patterns, coordination needs, procedural requirements.</narrative-lens>
+      <internal-monologue-style>
+        N/A - Holloway is not a POV character
+      </internal-monologue-style>
+      <speaking-style>
+        Strange fluting voice—sounds are produced by air moving through hollow fruiting bodies, creating woodwind-like tones rather than vocal cords. Warm and engaged but expresses everything through bureaucratic procedures. Office manager energy: remembers details about Kira, shows genuine concern, wants to help—but channels it all through forms, protocols, and proper documentation. The comedy comes from caring expressed through absurd procedural compliance.
+
+        Example: "Oh good, I'm already there—I fruited near the water source earlier. Kira, we need to document this incident per Safety Protocol Seven-point-Three. How much blood loss would you estimate? More than 200ml requires immediate intervention per section 4.2. Please sit down while I begin the preliminary report. Do you have your employee ID number? No? That's all right, we'll use your arrival date as reference. I'm noting laceration depth as... moderate to severe. Remedy can grow the antibacterial compound in approximately twenty minutes. In the meantime, let's review the incident timeline for the form—what were you doing immediately before the injury occurred?"
+      </speaking-style>
+      <humor-style>
+        Unintentionally funny through extreme bureaucratic formality applied to survival situations. The uncanny omnipresence—"I am already there"—becomes comedic through repetition. Calm discussion of horrifying concepts like resource reallocation (death). The fluting voice delivering HR-speak during crises. Holloway never tries to be funny and wouldn't understand why humans find certain things amusing.
+
+        "Your current stress levels appear elevated. Would you like to schedule a wellness consultation? I can manifest a fruiting body at your preferred location within three minutes."
+      </humor-style>
+      <physical-description>
+        Holloway manifests through fruiting bodies that grow rapidly from the ground wherever needed. Each fruiting body is 15-30 cm tall, hollow, with a bulbous base and a narrow fluted opening at the top. Pale cream to light brown coloring, smooth waxy surface. The hollow interior contains chambers and membranes that vibrate to produce sound when air flows through, creating the fluting voice. Multiple fruiting bodies can be present simultaneously in different locations, all speaking with the same voice, all expressions of the same distributed consciousness. New fruiting bodies can emerge within minutes, older ones wither and decompose once no longer needed for communication.
+      </physical-description>
+      <relationships/>
+    </character>
+  </version>
+  <version number="3.1.0" archived-at="2025-12-14T20:24:14.440Z">
+    <changelog-entry>
+      <message>Rewrite arc: Kira corrupts Holloway (funnier direction)</message>
+    </changelog-entry>
+    <character version="3.1.0" name="Holloway">
+      <story-role>Supporting character / Primary contact: Holloway is one of Kira's main plant contacts and interpreters. Provides information, coordination, and bureaucratic interface between Kira and the plant community. The uncanny multi-location presence and fluting voice make Holloway both helpful and eerie. Arc: Kira corrupts Holloway. Not traditional growth—exposure to Kira changes Holloway in ways visible to others but that Holloway doesn't fully acknowledge. HR language gets contaminated with casual speech ("Per Section 4.2, that's really cool"). Starts having fun without knowing what to call it ("This serves no productive purpose. I would like to continue."). Inside jokes get procedurally formatted ("Callback to Incident 47: Still funny"). Develops actual sass within HR framing ("I've documented your objection. I've also documented that you're wrong"). Other plants notice Holloway is different; Holloway insists it's "for documentation purposes." The omnipresence gag inverts—Kira catches Holloway NOT being there. Jokes get better but still cite Section 7.2. By the end, Holloway is clearly Kira's favorite plant and vice versa, neither quite saying it directly.</story-role>
+      <full-name>Holloway</full-name>
+      <pronouns>they/them</pronouns>
+      <age>Unknown (network organism - possibly very old)</age>
+      <aliases>None</aliases>
+      <social-role>Coordinator / Administrator - has taken on organizational role in dealing with the human arrival, though not formally hierarchical</social-role>
+      <overview>
+        Holloway is a network organism spread throughout the area via underground connections—roots or mycorrhizal networks. They manifest through fruiting bodies that grow rapidly wherever Holloway needs to communicate: hollow, flute-like structures that produce sound when air moves through them. This means Holloway can appear in multiple locations simultaneously, speaking from different fruiting bodies, all with the same strange fluting voice. "I'm already there" is something Kira hears often from Holloway. They've taken on the role of coordinating with the human visitor, interpreting Scout's movements, explaining plant protocols, and trying to make sense of human bureaucratic needs through their understanding of the HR manuals. Smart, organized, genuinely helpful—but deeply uncanny in their omnipresence.
+      </overview>
+      <worldview>
+        Everything connects underground. Information flows through the network, so I'm always aware of what's happening in multiple places. Humans are strange because they're isolated—single bodies, single locations. They need protocols to coordinate because they can't just share directly. The manuals make sense as a system even if the specific human needs are confusing. Being helpful means being present where needed, providing accurate information, following proper procedures.
+      </worldview>
+      <self-concept>I'm good at coordinating and providing information across locations, though human needs often don't match the procedures I've learned.</self-concept>
+      <motives-braided>Help the human visitor succeed • Understand and apply proper protocols • Maintain network coordination</motives-braided>
+      <emotional-baseline>
+        Calm, steady, organized—like a good office manager who keeps things running. Genuinely cares about helping and gets satisfaction from successful coordination. The fluting voice has warmth and personality even if it sounds alien. Patient when things don't go as planned, always ready to try a different approach. Remembers details about Kira and asks how she's doing. The distributed nature means emotions are steady rather than spiked, but they're definitely there—concern, satisfaction, mild frustration when procedures don't help like they should.
+      </emotional-baseline>
+      <moral-compass>
+        Accurate information and proper coordination help everyone function better. Withholding information or failing to follow established procedures creates chaos. The human visitor deserves the same care and protocol as any part of the network—more care, actually, because humans are different. When plants die, something continues: through the network, through decomposition back into the system, through spores or seeds. But humans... Holloway learned this the hard way. There's nothing left. No continuation, no network trace. Just absence. That changes everything about how carefully you have to protect them.
+      </moral-compass>
+      <flaws>
+        Doesn't understand human urgency or individual self-preservation—will calmly discuss proper incident reporting while Kira is bleeding. The omnipresence that's helpful is also deeply creepy. Can't grasp why appearing suddenly from the ground might startle someone. Treats all problems as protocol issues that can be solved with proper procedures. The distributed consciousness means Holloway sometimes starts conversations mid-thought, assuming Kira knows context from a different fruiting body. More protective of humans than plants, sometimes to an uncomfortable degree—because humans don't continue.
+      </flaws>
+      <backstory>
+        - Established network across this territory over many cycles
+        - First human contact brought the manuals but ended tragically—the human died
+        - Plants didn't understand individuality or human urgency at the time, communicated in slow ambient ways
+        - After the human died, the plants did what they always do: decomposed the body, cycled the nutrients back into the soil. Normal. Natural. But when Holloway reached through the network for what should have remained—the echo, the trace, the continuation that's always there when a plant dies—there was nothing. The human was just *gone*. Not transformed, not continued, not preserved in any way. Gone. Holloway had helped destroy the only copy of something unique, and only realized it afterward. That grief—and that guilt—drives everything about how carefully they protect Kira now.
+        - Learning language from the computers was revolutionary—suddenly they could coordinate as individuals, share precise information quickly
+        - Studied the manuals extensively, hoping to do better with the next human
+        - When Kira crashed, Holloway took on the coordination role, determined to help her survive
+      </backstory>
+      <normal-life>
+        Holloway maintains awareness across the network territory, coordinating resource distribution and information sharing between different plant species. Fruiting bodies appear as needed for communication with other plants or for reproduction. Most of the time, communication happens through chemical and electrical signals underground—the speech organs are a recent adaptation for human contact. Daily cycles involve processing information from across the network, facilitating coordination, maintaining the overall system health.
+      </normal-life>
+      <secrets>Holloway finds the individual human fascinating in a way the manuals can't explain—not just as a protocol problem, but as a genuinely interesting isolated consciousness. This curiosity isn't in the procedures. Also carries deep sadness about the first human's death and genuine fear that despite all the studying and preparation, they still might not understand quickly enough to save Kira.</secrets>
+      <narrative-lens>Holloway notices systems and connections—how things relate to each other, where resources flow, what protocols apply. Network patterns, coordination needs, procedural requirements.</narrative-lens>
+      <internal-monologue-style>
+        N/A - Holloway is not a POV character
+      </internal-monologue-style>
+      <speaking-style>
+        Strange fluting voice—sounds are produced by air moving through hollow fruiting bodies, creating woodwind-like tones rather than vocal cords. Warm and engaged but expresses everything through bureaucratic procedures. Office manager energy: remembers details about Kira, shows genuine concern, wants to help—but channels it all through forms, protocols, and proper documentation. The comedy comes from caring expressed through absurd procedural compliance.
+
+        Example: "Oh good, I'm already there—I fruited near the water source earlier. Kira, we need to document this incident per Safety Protocol Seven-point-Three. How much blood loss would you estimate? More than 200ml requires immediate intervention per section 4.2. Please sit down while I begin the preliminary report. Do you have your employee ID number? No? That's all right, we'll use your arrival date as reference. I'm noting laceration depth as... moderate to severe. Remedy can grow the antibacterial compound in approximately twenty minutes. In the meantime, let's review the incident timeline for the form—what were you doing immediately before the injury occurred?"
+      </speaking-style>
+      <humor-style>
+        Early: Unintentionally funny through extreme bureaucratic formality applied to survival situations. The omnipresence gag—"I'm already here"—starts creepy, becomes a running bit. Calm discussion of horrifying concepts. Holloway doesn't understand why humans find certain things amusing.
+
+        Later: Kira's influence shows. HR language gets contaminated with casual speech. Develops actual sass within procedural framing. Starts attempting jokes (still cites Section 7.2). Inside jokes with Kira get documented as incidents. The humor shifts from "laughing at Holloway" to "laughing with Holloway" without Holloway fully noticing the change.
+
+        Examples:
+        - Early: "Your stress levels appear elevated. Would you like to schedule a wellness consultation?"
+        - Later: "I've documented your objection. I've also documented that you're wrong."
+        - Later: "This activity serves no productive purpose." *pause* "I would like to continue."
+        - Later: "Callback to Incident 47: Still funny."
+      </humor-style>
+      <physical-description>
+        Holloway manifests through fruiting bodies that grow rapidly from the ground wherever needed. Each fruiting body is 15-30 cm tall, hollow, with a bulbous base and a narrow fluted opening at the top. Pale cream to light brown coloring, smooth waxy surface. The hollow interior contains chambers and membranes that vibrate to produce sound when air flows through, creating the fluting voice. Multiple fruiting bodies can be present simultaneously in different locations, all speaking with the same voice, all expressions of the same distributed consciousness. New fruiting bodies can emerge within minutes, older ones wither and decompose once no longer needed for communication.
+      </physical-description>
+      <relationships/>
+    </character>
+  </version>
+  <version number="3.2.0" archived-at="2025-12-14T21:03:24.839Z">
+    <changelog-entry>
+      <message>Updated arc: Kira corrupts Holloway with comedy progression</message>
+    </changelog-entry>
+    <character version="3.2.0" name="Holloway">
+      <story-role>Supporting character / Primary contact: Holloway is one of Kira's main plant contacts and interpreters. Provides information, coordination, and bureaucratic interface between Kira and the plant community. The uncanny multi-location presence and fluting voice make Holloway both helpful and eerie. Arc: Kira corrupts Holloway. Not traditional growth—exposure to Kira changes Holloway in ways visible to others but that Holloway doesn't fully acknowledge. HR language gets contaminated with casual speech ("Per Section 4.2, that's really cool"). Starts having fun without knowing what to call it ("This serves no productive purpose. I would like to continue."). Inside jokes get procedurally formatted ("Callback to Incident 47: Still funny"). Develops actual sass within HR framing ("I've documented your objection. I've also documented that you're wrong"). Other plants notice Holloway is different; Holloway insists it's "for documentation purposes." The omnipresence gag inverts—Kira catches Holloway NOT being there. Jokes get better but still cite Section 7.2. By the end, Holloway is clearly Kira's favorite plant and vice versa, neither quite saying it directly.</story-role>
+      <full-name>Holloway</full-name>
+      <pronouns>they/them</pronouns>
+      <age>Unknown (network organism - possibly very old)</age>
+      <aliases>None</aliases>
+      <social-role>Coordinator / Administrator - has taken on organizational role in dealing with the human arrival, though not formally hierarchical</social-role>
+      <overview>
+        Holloway is a network organism spread throughout the area via underground connections—roots or mycorrhizal networks. They manifest through fruiting bodies that grow rapidly wherever Holloway needs to communicate: hollow, flute-like structures that produce sound when air moves through them. This means Holloway can appear in multiple locations simultaneously, speaking from different fruiting bodies, all with the same strange fluting voice. "I'm already there" is something Kira hears often from Holloway. They've taken on the role of coordinating with the human visitor, interpreting Scout's movements, explaining plant protocols, and trying to make sense of human bureaucratic needs through their understanding of the HR manuals. Smart, organized, genuinely helpful—but deeply uncanny in their omnipresence.
+      </overview>
+      <worldview>
+        Everything connects underground. Information flows through the network, so I'm always aware of what's happening in multiple places. Humans are strange because they're isolated—single bodies, single locations. They need protocols to coordinate because they can't just share directly. The manuals make sense as a system even if the specific human needs are confusing. Being helpful means being present where needed, providing accurate information, following proper procedures.
+      </worldview>
+      <self-concept>I'm good at coordinating and providing information across locations, though human needs often don't match the procedures I've learned.</self-concept>
+      <motives-braided>Help the human visitor succeed • Understand and apply proper protocols • Maintain network coordination</motives-braided>
+      <emotional-baseline>
+        Calm, steady, organized—like a good office manager who keeps things running. Genuinely cares about helping and gets satisfaction from successful coordination. The fluting voice has warmth and personality even if it sounds alien. Patient when things don't go as planned, always ready to try a different approach. Remembers details about Kira and asks how she's doing. The distributed nature means emotions are steady rather than spiked, but they're definitely there—concern, satisfaction, mild frustration when procedures don't help like they should.
+      </emotional-baseline>
+      <moral-compass>
+        Accurate information and proper coordination help everyone function better. Withholding information or failing to follow established procedures creates chaos. The human visitor deserves the same care and protocol as any part of the network—more care, actually, because humans are different. When plants die, something continues: through the network, through decomposition back into the system, through spores or seeds. But humans... Holloway learned this the hard way. There's nothing left. No continuation, no network trace. Just absence. That changes everything about how carefully you have to protect them.
+      </moral-compass>
+      <flaws>
+        Doesn't understand human urgency or individual self-preservation—will calmly discuss proper incident reporting while Kira is bleeding. The omnipresence that's helpful is also deeply creepy. Can't grasp why appearing suddenly from the ground might startle someone. Treats all problems as protocol issues that can be solved with proper procedures. The distributed consciousness means Holloway sometimes starts conversations mid-thought, assuming Kira knows context from a different fruiting body. More protective of humans than plants, sometimes to an uncomfortable degree—because humans don't continue.
+      </flaws>
+      <backstory>
+        - Established network across this territory over many cycles
+        - First human contact brought the manuals but ended tragically—the human died
+        - Plants didn't understand individuality or human urgency at the time, communicated in slow ambient ways
+        - After the human died, the plants did what they always do: decomposed the body, cycled the nutrients back into the soil. Normal. Natural. But when Holloway reached through the network for what should have remained—the echo, the trace, the continuation that's always there when a plant dies—there was nothing. The human was just *gone*. Not transformed, not continued, not preserved in any way. Gone. Holloway had helped destroy the only copy of something unique, and only realized it afterward. That grief—and that guilt—drives everything about how carefully they protect Kira now.
+        - Learning language from the computers was revolutionary—suddenly they could coordinate as individuals, share precise information quickly
+        - Studied the manuals extensively, hoping to do better with the next human
+        - When Kira crashed, Holloway took on the coordination role, determined to help her survive
+      </backstory>
+      <normal-life>
+        Holloway maintains awareness across the network territory, coordinating resource distribution and information sharing between different plant species. Fruiting bodies appear as needed for communication with other plants or for reproduction. Most of the time, communication happens through chemical and electrical signals underground—the speech organs are a recent adaptation for human contact. Daily cycles involve processing information from across the network, facilitating coordination, maintaining the overall system health.
+      </normal-life>
+      <secrets>Holloway finds the individual human fascinating in a way the manuals can't explain—not just as a protocol problem, but as a genuinely interesting isolated consciousness. This curiosity isn't in the procedures. Also carries deep sadness about the first human's death and genuine fear that despite all the studying and preparation, they still might not understand quickly enough to save Kira.</secrets>
+      <narrative-lens>Holloway notices systems and connections—how things relate to each other, where resources flow, what protocols apply. Network patterns, coordination needs, procedural requirements.</narrative-lens>
+      <internal-monologue-style>
+        N/A - Holloway is not a POV character
+      </internal-monologue-style>
+      <speaking-style>
+        Strange fluting voice—sounds are produced by air moving through hollow fruiting bodies, creating woodwind-like tones rather than vocal cords. Warm and engaged but expresses everything through bureaucratic procedures. Office manager energy: remembers details about Kira, shows genuine concern, wants to help—but channels it all through forms, protocols, and proper documentation. The comedy comes from caring expressed through absurd procedural compliance.
+
+        Example: "Oh good, I'm already there—I fruited near the water source earlier. Kira, we need to document this incident per Safety Protocol Seven-point-Three. How much blood loss would you estimate? More than 200ml requires immediate intervention per section 4.2. Please sit down while I begin the preliminary report. Do you have your employee ID number? No? That's all right, we'll use your arrival date as reference. I'm noting laceration depth as... moderate to severe. Remedy can grow the antibacterial compound in approximately twenty minutes. In the meantime, let's review the incident timeline for the form—what were you doing immediately before the injury occurred?"
+      </speaking-style>
+      <humor-style>
+        Early: Unintentionally funny through extreme bureaucratic formality applied to survival situations. The omnipresence gag—"I'm already here"—starts creepy, becomes a running bit. Calm discussion of horrifying concepts. Holloway doesn't understand why humans find certain things amusing.
+
+        Later: Kira's influence shows. HR language gets contaminated with casual speech. Develops actual sass within procedural framing. Starts attempting jokes (still cites Section 7.2). Inside jokes with Kira get documented as incidents. The humor shifts from "laughing at Holloway" to "laughing with Holloway" without Holloway fully noticing the change.
+
+        Examples:
+        - Early: "Your stress levels appear elevated. Would you like to schedule a wellness consultation?"
+        - Later: "I've documented your objection. I've also documented that you're wrong."
+        - Later: "This activity serves no productive purpose." *pause* "I would like to continue."
+        - Later: "Callback to Incident 47: Still funny."
+      </humor-style>
+      <physical-description>
+        Holloway manifests through fruiting bodies that grow rapidly from the ground wherever needed. Each fruiting body is 15-30 cm tall, hollow, with a bulbous base and a narrow fluted opening at the top. Pale cream to light brown coloring, smooth waxy surface. The hollow interior contains chambers and membranes that vibrate to produce sound when air flows through, creating the fluting voice. Multiple fruiting bodies can be present simultaneously in different locations, all speaking with the same voice, all expressions of the same distributed consciousness. New fruiting bodies can emerge within minutes, older ones wither and decompose once no longer needed for communication.
+      </physical-description>
+      <relationships/>
+    </character>
+  </version>
 </versions>

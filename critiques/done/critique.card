@@ -478,4 +478,133 @@
     <reason>Added distributed consciousness quirk - starting mid-thought from different fruiting body</reason>
     <ref ref="/stories/Mandatory_Assistance/chapters/5_Settling_In/passages/2_Journey_Option/passage.card#v3.0.0" status="done" role="Edited"/>
   </critique>
+  <critique id="A33" status="done">
+    <creator agent="true" created="2025-12-14T18:11:16.572Z" agent-type="critique"/>
+    <ref ref="/world/characters/Holloway.card#v2.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/3_Wellness_Check/passage.card#v3.0.0"/>
+    <feedback>
+      Holloway's moral compass inconsistency about resource allocation: The character card states in moral-compass that Holloway believes 'Individual parts can be lost (it's natural resource reallocation), but the system should continue functioning properly.' This is reinforced in flaws: 'Views death/injury as resource allocation rather than tragedy.' However, in Wellness Check passage (lines 143-156), when discussing the first human's death, Holloway's response is emotionally appropriate sadness and regret: 'The fluting has changed quality. Sadder.' and 'They didn't survive. We didn't understand quickly enough...' This emotional response contradicts the established moral framework. If Holloway views individual death as 'natural resource reallocation,' they shouldn't express personal sadness about it - or if they DO feel sad (which is more compelling), the character card's moral-compass and flaws need revision to explain why this human's death affected them differently than they view death generally. The passage makes Holloway more emotionally human than the character card's alien perspective allows.
+    </feedback>
+    <reason>Updated moral compass and backstory to reflect realization about human death</reason>
+    <ref ref="/world/characters/Holloway.card#v3.0.0" status="done" role="Edited"/>
+  </critique>
+  <critique id="A30" status="done">
+    <creator agent="true" created="2025-12-14T18:10:40.974Z" agent-type="critique"/>
+    <ref ref="/world/characters/Holloway.card#v2.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/12_Victory_Through_Voice/passages/3_Recognition/passage.card#v3.0.0"/>
+    <feedback>
+      Holloway's character growth showing but backstory guilt missing: The character card establishes crucial backstory - Holloway 'carries deep sadness about the first human's death' and their arc involves moving from using 'procedures as shields against guilt' to 'tools for care.' In the Recognition passage, Holloway demonstrates growth by acknowledging Florence's value and offering community (lines 17-101), which shows the 'integrating care with procedure' part of the arc. However, there's no reference to why this growth matters to Holloway personally - the guilt over the first human's death. When Holloway says (line 37) 'What you did before—the fabrications, the betrayals—that still hurt' and later discusses recognition despite pain, this is a perfect moment to reference why Holloway understands both the need for procedure AND the need for genuine care - because procedures alone failed the first human. The character's motivation (guilt, desire to do better) is missing from this pivotal growth moment. We see the growth but not what's driving it.
+    </feedback>
+    <reason>Added guilt revelation in What We Know passage</reason>
+    <ref ref="/stories/Mandatory_Assistance/chapters/9_Disappointing_Answer/passages/3_What_We_Know/passage.card#v3.1.0" status="done" role="Edited"/>
+  </critique>
+  <critique id="A25" status="done">
+    <creator agent="true" created="2025-12-14T18:09:34.815Z" agent-type="critique"/>
+    <ref ref="/world/characters/Holloway.card#v2.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/3_Wellness_Check/passage.card#v3.0.0"/>
+    <feedback>
+      Holloway's speaking-style consistency issue: The character card establishes that Holloway's fluting voice produces 'woodwind-like tones' through air moving through hollow fruiting bodies, and the speaking style should be 'warm and engaged but expresses everything through bureaucratic procedures.' However, in the Wellness Check passage (lines 28, 40, 66, 104, etc.), Holloway speaks with normal punctuation and cadence without any indication of the distinctive fluting quality. The voice sounds like a regular person using bureaucratic language, not a woodwind-like instrument. Compare to the speaking-style example in the character card which has more formal, procedural structure. The passages don't capture the alien quality of communication through fruiting bodies - it reads too human. Either the passages need to incorporate more distinctive alien speech patterns (perhaps unusual pauses, musical cadences, or references to the physical mechanism), or the character card needs to acknowledge that the fluting voice translates cleanly into standard speech patterns.
+    </feedback>
+    <reason>Added voice-override notes to all Holloway passages</reason>
+  </critique>
+  <critique id="A27" status="done">
+    <creator agent="true" created="2025-12-14T18:10:06.117Z" agent-type="critique"/>
+    <ref ref="/world/characters/Holloway.card#v2.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/9_Disappointing_Answer/passages/2_The_Answer_Arrives/passage.card#v3.0.0"/>
+    <feedback>
+      Holloway's arc contradiction regarding authority frameworks: The character card states Holloway's story arc involves 'learning to integrate care with procedure' and that 'Through repeated failures helping Kira, realizes the manuals aren't sufficient but also aren't useless—they're starting points, not shields against guilt. By the end, uses procedures as tools for care rather than replacements for understanding.' However, in The Answer Arrives passage (line 157-158), after Elder Heartwood's failure, Holloway says 'Another month wait? Two months? For what—more wisdom about ecosystem balance over centuries? Elder Heartwood doesn't think in time frames that help us.' This reads as complete rejection of authority frameworks, not integration. Where is the nuance? Holloway should be processing that Elder Heartwood's wisdom ISN'T useless (just like the HR manuals weren't), it's just being applied wrong. The passage shows bitter rejection when the character arc calls for painful integration - recognizing that authorities have value but aren't complete answers. This is a pivotal moment in Holloway's arc and it's missing the complexity the character card promises.
+    </feedback>
+    <reason>Rewrote arc to funnier direction: Kira corrupts Holloway</reason>
+    <ref ref="/world/characters/Holloway.card#v3.2.0" status="done" role="Edited"/>
+  </critique>
+  <critique id="A26" status="done">
+    <creator agent="true" created="2025-12-14T18:09:53.803Z" agent-type="critique"/>
+    <ref ref="/world/characters/Holloway.card#v2.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/10_Trust_Complicated/passages/1_False_Wisdom/passage.card#v3.0.1"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/10_Trust_Complicated/passages/2_The_Deception/passage.card#v3.0.0"/>
+    <feedback>
+      Holloway's emotional range missing in Florence confrontation: The character card establishes Holloway has 'warmth and personality' in their fluting voice, can show 'concern, satisfaction, mild frustration,' and carries 'deep sadness about the first human's death.' However, in the Florence deception confrontation (False Wisdom passage lines 103-169, and The Deception passage throughout), Holloway's emotional expression is limited to 'controlled but tense,' 'dangerous tone,' 'voice shaking,' and 'tiredly.' This is a MAJOR betrayal from someone Holloway trusted - we should see more of their emotional range. Where is the hurt? The grief at another authority figure failing? The personal pain of being lied to by someone they worked closely with? The character card says they 'definitely' have emotions and 'remembers details about Kira and asks how she's doing' - this caring personality should make Florence's betrayal cut deeper. The passages show Holloway as primarily bureaucratic and formal in their hurt, when the character card suggests they should be more emotionally present and expressive, even through their bureaucratic language.
+    </feedback>
+  </critique>
+  <critique id="A31" status="done">
+    <creator agent="true" created="2025-12-14T18:10:53.630Z" agent-type="critique"/>
+    <ref ref="/world/characters/Holloway.card#v2.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/10_Trust_Complicated/passages/2_The_Deception/passage.card#v3.0.0"/>
+    <feedback>
+      Holloway's flaw about not grasping human urgency should surface in Florence confrontation: The character card lists as a key flaw that Holloway 'doesn't understand human urgency or individual self-preservation—will calmly discuss proper incident reporting while Kira is bleeding' and 'views death/injury as resource allocation rather than tragedy.' This flaw should create interesting tension in The Deception passage when discussing Florence's betrayals. Holloway is processing betrayal through authority/trust frameworks (lines 71-72: 'Trust requires honesty. You violated that'), but the character card suggests Holloway should struggle to understand WHY Florence's deception feels urgent to the other plants or why the emotional betrayal matters more than the factual accuracy of the advice. The passage shows Holloway being hurt and formal, but not displaying the characteristic flaw of not quite grasping the urgency/emotional weight from an individual perspective. This is a plant who calmly discusses 'resource reallocation' (death) - that alien perspective should color how they process interpersonal betrayal.
+    </feedback>
+  </critique>
+  <critique id="A34" status="done">
+    <creator agent="true" created="2025-12-14T18:11:30.186Z" agent-type="critique"/>
+    <ref ref="/world/characters/Holloway.card#v2.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/2_Dietary_Assessment/passage.card#v2.0.1"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/1_Intake/passage.card#v2.0.1"/>
+    <feedback>
+      Bureaucratic comedy timing needs improvement: The character card's humor-style emphasizes 'Unintentionally funny through extreme bureaucratic formality applied to survival situations' with the example 'Your current stress levels appear elevated. Would you like to schedule a wellness consultation? I can manifest a fruiting body at your preferred location within three minutes.' The comedy comes from bureaucratic language during crises. However, in Dietary Assessment passage, Holloway conducts forms AFTER Kira is fed and stable (the passage even notes 'I'm hungry but genuinely interested'). In Intake passage, Kira has already received preliminary treatment and is stable. The bureaucratic absurdity would land harder if Holloway was conducting 'Section Two: Dietary Restrictions' and asking about kosher requirements WHILE Kira is actively starving, or processing intake paperwork while Kira is still bleeding. The character card's comedy relies on inappropriate timing (calm bureaucracy during urgent crisis), but the passages have resolved the urgent situations before the paperwork begins, reducing comedic impact. The timing undermines the humor.
+    </feedback>
+  </critique>
+  <critique id="A35" status="done">
+    <creator agent="true" created="2025-12-14T20:45:21.106Z" agent-type="critique"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/9_Disappointing_Answer/passages/1_Settling_In/passage.card#v3.2.0"/>
+    <feedback>
+      The omnipresence inversion gag at lines 99-119 in 'Settling In' is excellent and perfectly timed for Holloway's character arc. At chapter 9, Kira has been influencing Holloway for weeks, making this the right point for the gag to invert. The passage shows Kira actually having to FIND Holloway (who isn't omnipresent for once), and Holloway's response reveals the corruption: 'I wasn't—I mean, I could have fruited near the filter if you needed—' followed by the contaminated HR language at line 117: 'Per Section 3.2—' pause, then 'that's actually nice. To hear.' This demonstrates both the language contamination ('that's actually nice') and Holloway not fully acknowledging the change. However, there's a consistency issue: the character card says the omnipresence gag should invert with 'Kira catches Holloway NOT being there,' but line 117 has Holloway saying 'I'll... note that preference' which feels too self-aware. Holloway should be more confused about their own changed behavior, not accommodating Kira's preference so readily. The character card specifies: 'Other plants notice Holloway is different; Holloway insists it's "for documentation purposes."' This self-justification pattern is missing here.
+    </feedback>
+  </critique>
+  <critique id="A36" status="done">
+    <creator agent="true" created="2025-12-14T20:45:35.262Z" agent-type="critique"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/10_Trust_Complicated/passages/1_False_Wisdom/passage.card#v3.0.1"/>
+    <ref ref="/world/characters/Holloway.card#v3.2.0"/>
+    <feedback>
+      The emotional depth added at line 169 in 'False Wisdom' is a significant character moment but creates a consistency issue with Holloway's established voice and alien perspective. The passage reads: 'This isn't Holloway being bureaucratic—this is Holloway being hurt. And I realize: Holloway trusted Florence. Worked alongside her. Asked for her interpretations, valued her input, built coordination around her role. That trust is personal, not just procedural. Holloway's fruiting bodies have dimmed—the warm bioluminescence gone gray at the edges, like something vital has been drained.' This is strong emotional writing, but earlier in the SAME passage (lines 73-85), Holloway processes the betrayal very differently: 'There's something strange in how Holloway processes this—more like cataloging a protocol failure than grieving a personal betrayal. "The system functioned incorrectly. False inputs produced real outputs. That's... a significant disruption to reliable coordination."' These two characterizations contradict each other. Lines 73-85 show Holloway struggling to separate procedural violation from personal hurt, which is perfectly alien and true to their character. But by line 169, Kira is confidently interpreting Holloway's hurt as personal, not procedural, which undermines the earlier alien perspective. The character card emphasizes Holloway's distributed nature and difficulty with human-style emotions. The line 169 addition humanizes Holloway too much, too quickly, without showing the alien struggle to process personal betrayal.
+    </feedback>
+  </critique>
+  <critique id="A37" status="done">
+    <creator agent="true" created="2025-12-14T20:45:46.238Z" agent-type="critique"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/10_Trust_Complicated/passages/2_The_Deception/passage.card#v3.0.0"/>
+    <ref ref="/world/characters/Holloway.card#v3.2.0"/>
+    <feedback>
+      The alien perspective on betrayal added at lines 73-85 in 'The Deception' is excellent and perfectly captures Holloway's character. The passage shows Holloway struggling to process betrayal in alien terms: 'There's something strange in how Holloway processes this—more like cataloging a protocol failure than grieving a personal betrayal. "The system functioned incorrectly. False inputs produced real outputs. That's... a significant disruption to reliable coordination."' Runner calls this out: 'Holloway, she LIED to us. It's not just about coordination disruption.' And Holloway responds with genuine confusion: 'I understand that... The deception is the problem. I'm noting the deception.' This beautifully shows the distributed network organism struggling with individual-level emotional betrayal. Kira's observation 'You're noting it like it's an incident report' and Holloway searching for words they don't have ('the... They trail off, searching for words they don't quite have') before Runner supplies 'The hurt' - this is exactly right for Holloway's alien psychology. The character card establishes Holloway as a network organism with steady rather than spiked emotions, and this passage respects that while showing genuine struggle. No consistency issues here - this is a strong character moment that maintains Holloway's alien perspective while showing vulnerability.
+    </feedback>
+  </critique>
+  <critique id="A38" status="done">
+    <creator agent="true" created="2025-12-14T20:46:02.117Z" agent-type="critique"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/13_Individual_Voices/passages/1_Everyone_Contributing/passage.card#v2.0.0"/>
+    <ref ref="/world/characters/Holloway.card#v3.2.0"/>
+    <feedback>
+      The 'having fun' gag at lines 185-189 and inside jokes at lines 197-201 represent the culmination of Holloway's character arc and work well thematically, but there's a progression issue. Line 185: 'This serves no productive purpose,' Holloway observes as we all relax. Then, after a pause: 'I would like to continue.' This perfectly matches the character card's humor-style example: 'This activity serves no productive purpose.' *pause* 'I would like to continue.' Line 197: 'Callback to the water filter incident,' Holloway announces solemnly. 'Still funny.' And line 199: Runner asks 'Holloway, are you making jokes now?' Holloway: 'I'm noting observations relevant to community morale.' These are exactly the kinds of corrupted-by-Kira moments the character card specifies. HOWEVER, the issue is that by chapter 13 (late in the story), Holloway should be MORE corrupted, showing more sass and less self-justification. The character card says 'By the end, Holloway is clearly Kira's favorite plant and vice versa, neither quite saying it directly' and 'Jokes get better but still cite Section 7.2.' The gags here are good but feel early-arc, not end-arc. At this point, Holloway should be delivering actual sass like 'I've documented your objection. I've also documented that you're wrong' (which appears in chapter 14, not 13). The progression feels slightly out of order.
+    </feedback>
+  </critique>
+  <critique id="A39" status="done">
+    <creator agent="true" created="2025-12-14T20:46:12.402Z" agent-type="critique"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/14_Choosing_Home/passages/1_Official_Choice/passage.card#v3.0.0"/>
+    <ref ref="/world/characters/Holloway.card#v3.2.0"/>
+    <feedback>
+      The sass gag at lines 81-83 in 'Official Choice' is perfectly executed and represents peak Holloway corruption. Torres says 'This is highly irregular.' Holloway responds: 'I've documented your objection. I've also documented that you're wrong.' This is the exact example from the character card's humor-style section showing developed sass within HR framing. The timing is perfect - this is chapter 14, near the end of the story, when Holloway should be showing maximum Kira-influence. The delivery is deadpan bureaucratic while being genuinely sassy, which captures both Holloway's original nature and their corruption. Torres's reaction ('blinks at this unexpected sass from a plant') confirms the comedy lands. No consistency issues - this is exactly what Holloway's end-game characterization should be. The only minor note: this level of sass appearing in chapter 14 makes the chapter 13 'having fun' gag feel even more early-arc by comparison, reinforcing the progression issue noted in A38.
+    </feedback>
+  </critique>
+  <critique id="A40" status="done">
+    <creator agent="true" created="2025-12-14T20:46:25.171Z" agent-type="critique"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/14_Choosing_Home/passages/3_Where_Voices_Belong/passage.card#v3.0.0"/>
+    <ref ref="/world/characters/Holloway.card#v3.2.0"/>
+    <feedback>
+      The 'best human' gag at lines 41-45 in 'Where Voices Belong' is character-consistent and sweet but lacks the specific pattern established in the character card. Holloway says: 'You're clearly the best human.' Kira laughs: 'I'm the only human you've ever worked with.' Holloway: 'My point stands.' This is gentle humor and fits Holloway's warmth, but it doesn't demonstrate the key characteristic of Holloway's late-arc humor style: sass within HR framing, or citing sections for jokes. The character card's humor-style section specifies that even late-game jokes should 'still cite Section 7.2.' This gag is just... a regular joke. It's sweet and in-character for a network organism who cares about Kira, but it doesn't show the specific bureaucratic-language-contaminated-with-casual-warmth pattern that defines Holloway's corruption arc. Compare to the sass gag in passage 1 of this same chapter ('I've documented your objection. I've also documented that you're wrong') which perfectly balances bureaucratic form with corrupted content. The 'best human' gag could be strengthened by adding some procedural framing, like: 'Per my comprehensive evaluation of human performance metrics, you're clearly the best human.' 'I'm the only human—' 'My documentation stands.'
+    </feedback>
+  </critique>
+  <critique id="A41" status="done">
+    <creator agent="true" created="2025-12-14T20:46:40.589Z" agent-type="critique"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/9_Disappointing_Answer/passages/1_Settling_In/passage.card#v3.2.0"/>
+    <feedback>
+      The transition into the omnipresence inversion gag (lines 99-119) has a minor flow issue. Line 98: 'I should tell Holloway about the new maintenance schedule,' Kira says. Line 99: 'I say, looking around for a fruiting body.' The phrase 'I say' is jarring here because Kira hasn't spoken aloud - she's thinking/narrating. The prose is in first-person present tense, so 'I say' implies dialogue, but there's no dialogue tag or quote marks. It should be something like: 'I look around for a fruiting body' or 'I think, looking around for a fruiting body' or 'I realize, looking around for a fruiting body.' The current phrasing breaks the narrative flow by implying speech where there is none. This is a minor technical issue but it occurs right at the entry point of an added gag, making it more noticeable.
+    </feedback>
+  </critique>
+  <critique id="A42" status="done">
+    <creator agent="true" created="2025-12-14T20:46:56.370Z" agent-type="critique"/>
+    <ref ref="/world/characters/Holloway.card#v3.2.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/9_Disappointing_Answer/passages/1_Settling_In/passage.card#v3.2.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/13_Individual_Voices/passages/1_Everyone_Contributing/passage.card#v2.0.0"/>
+    <ref ref="/stories/Mandatory_Assistance/chapters/14_Choosing_Home/passages/1_Official_Choice/passage.card#v3.0.0"/>
+    <feedback>
+      Reviewing Holloway's comedy progression across the edited passages reveals an inconsistent arc that doesn't build smoothly. The character card specifies a clear corruption progression: Early (unintentionally funny bureaucracy) → Middle (HR language contaminated with casual speech, starts having fun without naming it, inside jokes get procedurally formatted) → Late (develops actual sass, jokes get better but still cite Section 7.2, clearly Kira's favorite). The edited passages show: Chapter 9 (Settling In): Omnipresence inversion with some language contamination ('Per Section 3.2—that's actually nice. To hear.') - this is early-to-middle corruption. Chapter 13 (Everyone Contributing): 'Having fun' gag and 'Callback to water filter incident' - these feel early-arc, the kind of moments that should happen BEFORE chapter 9. Chapter 14 (Official Choice): Full sass ('I've documented your objection. I've also documented that you're wrong.') - perfect late-arc corruption. The progression should be linear and building, but instead it peaks in chapter 14 after regressing in chapter 13. The chapter 13 moments feel like they belong around chapters 6-8, when Kira is first corrupting Holloway. By chapter 13 (after major story events like Florence's betrayal and the hostile plant battle), Holloway should already be past the 'observing I'm having fun without naming it' stage and into the 'delivering actual sass' stage. Consider moving the 'having fun' and 'callback' gags to earlier passages, or upgrading the chapter 13 humor to match the late-arc sass level shown in chapter 14.
+    </feedback>
+  </critique>
 </critiques>

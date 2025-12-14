@@ -1,4 +1,4 @@
-<passage version="3.0.0" number="3" name="Where Voices Belong">
+<passage version="3.1.0" number="3" name="Where Voices Belong">
   <text>
     The celebration isn't planned. It just... happens.
 
@@ -38,7 +38,11 @@
 
     "Every voice matters," I say, understanding it fully now. "Not the same—individual. That's what makes the harmony rich."
 
-    "Exactly," Holloway says. "That's what we've all learned. Protocol tells us what to do. Community shows us who we can be."
+    "Exactly," Holloway says. "That's what we've all learned. Protocol tells us what to do. Community shows us who we can be." A pause. "Per Section 7.2: Employee Recognition. You're clearly the best human."
+
+    I laugh. "I'm the only human you've ever worked with."
+
+    "My point stands. I've documented it."
 
     Runner surfaces nearby. "I'm designing new acoustic chambers. Want to help?"
 
@@ -169,4 +173,7 @@
     Novel complete. Kira has found permanent home with plant community. Individual voices create harmony. Belonging achieved through authentic value transcending species. Future hopeful and collaborative. Thematic payoff delivered: home is where your voice matters, where differences enrich rather than divide. Story ends with Kira certain, Scout content, community thriving, futures being built together. Weird, absurd, wonderful. And home.
   </leaves-off>
   <title>Home</title>
+  <voice-override>
+    <notes>Holloway flutes rather than speaks—musical, woodwind tones.</notes>
+  </voice-override>
 </passage>

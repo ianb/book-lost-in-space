@@ -1,4 +1,4 @@
-<passage version="3.0.0" number="3" name="What We Know">
+<passage version="3.1.0" number="3" name="What We Know">
   <text>
     The rest of the day is very quiet.
 
@@ -20,7 +20,13 @@
 
     I sit down next to them. Scout has been following me all day—extra attentive, worried about everyone.
 
-    "The HR manuals were supposed to help," Holloway says quietly. "They were our framework after... after we failed the first human. Concrete guidance. We thought if we just followed the protocols, we wouldn't fail again." A pause. "But they didn't work for you. Too rigid, too procedural, didn't account for actual needs."
+    "The HR manuals were supposed to help," Holloway says quietly. "They were our framework after... after we failed the first human. Concrete guidance. We thought if we just followed the protocols, we wouldn't fail again."
+
+    Their voice catches. "We didn't understand, Kira. When the human died, we did what we always do—cycled the nutrients back into the soil. Normal. Natural. But afterward, when I reached through the network for what should have remained..." A long pause. "There was nothing. Humans don't continue. They just stop. And we didn't know that until after."
+
+    The weight of it sits between us. They've been carrying this the whole time.
+
+    "But they didn't work for you either," Holloway continues, voice steadier now. "The manuals. Too rigid, too procedural, didn't account for actual needs."
 
     "You adapted," I point out. "You stopped just following the manual."
 
@@ -215,4 +221,7 @@
     Processing Elder Heartwood's failure, shifting from disappointment to recognition: they've already learned what they needed through cooperation and adaptation. No external authority will solve this—trusting their own experience together. Freed from waiting, ready to continue building their own understanding. Cautious hope based on what they've accomplished.
   </leaves-off>
   <title>Our Own Wisdom</title>
+  <voice-override>
+    <notes>Holloway flutes rather than speaks—musical, woodwind tones.</notes>
+  </voice-override>
 </passage>

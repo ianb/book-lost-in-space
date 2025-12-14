@@ -1,4 +1,4 @@
-<passage version="2.0.0" number="1" name="Everyone Contributing">
+<passage version="2.0.1" number="1" name="Everyone Contributing">
   <text>
     Three weeks since the battle.
 
@@ -178,13 +178,27 @@
 
     "I think so," Buddy says thoughtfully. "TV can't show the quiet parts. But the quiet parts are where trust actually grows."
 
-    "Break time," Holloway announces. "Everyone's been working hard. Let's rest and appreciate progress."
+    "Break time," Holloway announces. "Everyone's been working hard. Per Section 8.3, mandatory rest periods improve productivity by 23%."
+
+    "Did you just make up that statistic?" I ask.
+
+    "I made up Section 8.3," Holloway says serenely. "The statistic is real. I've been tracking."
+
+    Runner's vines ripple with what might be laughter. "Holloway, when did you get funny?"
+
+    "I've always been funny. You just weren't documenting it properly."
 
     The community settles into various comfortable positions. Velvet's seating arrangements get tested—everyone trying them out, adjusting, suggesting modifications.
 
     Runner demonstrates the acoustic chambers—different spaces creating different harmonics. It's weird and wonderful, hearing plant voices resonate through intentionally designed architecture.
 
     Remedy shares experimental scents. Some pleasant, some strange, one that makes everyone immediately request they never produce it again. Absurdist comedy in plant perfume testing.
+
+    "Callback to the water filter incident," Holloway announces solemnly. "Still funny."
+
+    Everyone pauses. Then Runner makes a sound that might be laughter. "Holloway, are you making jokes now?"
+
+    "I'm noting observations relevant to community morale."
 
     Scout bounces between everyone, spreading social glue, making sure nobody's isolated.
 
@@ -263,4 +277,7 @@
     Weeks of rebuilding complete. Kira has realized she genuinely belongs in this community, her voice matters, this is home. Individual voices are creating collective harmony in transformed facility. Everyone integrated including Florence. But Buddy just detected possible human signal—potential rescue. Everything about to change as possibility of going home emerges.
   </leaves-off>
   <title>Individual Harmony</title>
+  <voice-override>
+    <notes>Holloway flutes rather than speaks—musical, woodwind tones.</notes>
+  </voice-override>
 </passage>

@@ -157,4 +157,7 @@
     <ref ref="/world/characters/Holloway.card" role="Holloway documentation"/>
     <ref ref="/world/characters/Scout.card" role="Scout support"/>
   </sources>
+  <voice-override>
+    <notes>Holloway flutes rather than speaks—musical, woodwind tones.</notes>
+  </voice-override>
 </passage>

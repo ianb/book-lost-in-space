@@ -1,4 +1,4 @@
-<passage version="3.2.0" number="1" name="Settling In">
+<passage version="3.3.0" number="1" name="Settling In">
   <text>
     Two weeks back at the facility, and I'm starting to forget what it feels like to walk all day.
 
@@ -95,6 +95,28 @@
     And just like that, we've identified a problem and created a solution. No committees, no scheduled review periods, no waiting for proper procedures. Just: here's the issue, here's the fix, let's implement it.
 
     This is what the journey taught us. Trust each other, adapt quickly, solve problems as they arise.
+
+    "I should tell Holloway about the new maintenance schedule," I tell Runner, looking around for a fruiting body.
+
+    There isn't one.
+
+    I blink. "Holloway?"
+
+    Nothing. No fruiting body sprouting nearby, no fluting voice announcing they're already here.
+
+    "Huh." I actually have to go FIND Holloway. That's... new.
+
+    Runner's vines ripple with what might be amusement. "Holloway is in the supply room. Organizing. They do that when stressed."
+
+    I head toward the supply room, Scout bouncing along. And sure enough, there's Holloway, surrounded by carefully categorized nutrient compounds.
+
+    "Oh!" Holloway's fruiting bodies straighten when they see me. "I wasn't—I mean, I could have fruited near the filter if you needed—I was organizing supply records. For documentation purposes."
+
+    "It's fine," I say, smiling. "Just updating you on the maintenance rotation. Also, it's kind of nice to find you somewhere for once instead of you being everywhere already."
+
+    Holloway makes a sound I can't quite interpret. "I'll... note that preference. Per Section 3.2—" a pause, then something less formal, "—that's actually nice. To hear."
+
+    Did Holloway just... I file that away. Something's different, but I can't quite name it yet.
 
     "Kira," Buddy says thoughtfully, "we're actually pretty good at this, aren't we?"
 
@@ -221,4 +243,7 @@
     Two weeks after journey, facility life functioning well through collaboration and adaptation. Plants hopeful Elder Heartwood's response (arriving soon) will provide THE framework. Kira realizes they're already learning what they need through daily practice but doesn't voice this doubt. Waiting for response while already living the answers.
   </leaves-off>
   <title>Making Do</title>
+  <voice-override>
+    <notes>Holloway flutes rather than speaks—musical, woodwind tones.</notes>
+  </voice-override>
 </passage>

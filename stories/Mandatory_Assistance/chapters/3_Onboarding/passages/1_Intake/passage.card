@@ -1,4 +1,4 @@
-<passage version="2.1.0" number="1" name="Intake">
+<passage version="2.2.0" number="1" name="Intake">
   <text>
     The forest opens into a clearing, and I stop dead.
 
@@ -36,7 +36,15 @@
 
     "Good. Good." The fruiting bodies bob with what might be relief. "We'll get you proper medical care after intake. But if you need to stop at any point, just say so. We can always pause the forms."
 
-    "Let's begin your intake processing!" Holloway says, warmth still present but now shifting into official mode.
+    A beat. Holloway's voice shifts seamlessly: "Speaking of which—Section One: Pre-Injury Activity Log. What were you doing in the thirty minutes before sustaining your current laceration?"
+
+    "I was... crashing? From orbit?"
+
+    "Excellent, I'll note: high-velocity uncontrolled descent. And your safety equipment status at time of incident?"
+
+    "Everything was on fire."
+
+    "Fire suppression systems: inadequate. Noted." Holloway sounds genuinely sympathetic while also absolutely committed to the form. "Let's begin your full intake processing!"
 
     "Paperwork!" I'm laughing. "Of course there's paperwork."
 
@@ -201,4 +209,7 @@
     Kira following Scout deeper into the facility toward orientation, excited for four hours of workplace safety training. Leg hurts but spirits are high. Buddy sharing her wonder at the adventure.
   </leaves-off>
   <title>Intake</title>
+  <voice-override>
+    <notes>Holloway flutes rather than speaks—musical, woodwind tones.</notes>
+  </voice-override>
 </passage>
