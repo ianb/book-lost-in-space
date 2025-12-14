@@ -1,8 +1,8 @@
 <!-- this file is automatically managed by ske validate; do not edit -->
 <versions>
-  <version number="1.0.0" archived-at="2025-12-14T16:50:06.881Z">
+  <version number="1.0.0" archived-at="2025-12-14T17:04:00.572Z">
     <changelog-entry>
-      <message>Added A7 (done)</message>
+      <message>Added A12 (done)</message>
     </changelog-entry>
     <!-- Managed by ske critique mark -->
     <critiques version="1.0.0" name="critique">
@@ -150,6 +150,126 @@
         </feedback>
         <reason>Clarified secrets field - fungal instinct enables new compounds, occasional mistakes expected</reason>
         <ref ref="/world/characters/Remedy.card#v4.1.0" status="done" role="Edited"/>
+      </critique>
+      <critique id="A8" status="done">
+        <creator agent="true" created="2025-12-14T16:54:27.583Z" agent-type="critique"/>
+        <ref ref="/world/characters/Velvet.card#v5.0.0"/>
+        <ref ref="/world/characters/Remedy.card#v4.1.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/3_Medical_Treatment/passage.card#v3.0.0"/>
+        <feedback>
+          MAJOR ROBOT OWNERSHIP INCONSISTENCY: Velvet's character card (v5.0.0) states that Velvet is 'sentient moss growing on one of the salvaged robots' and that Velvet 'can control the robot' (physical description line 107 says 'shares robot control with Remedy, Runner, and Sweetpea'). However, in Chapter 3 Passage 3 (Medical Treatment), Remedy is introduced as controlling 'a robot' - described as 'humanoid in basic shape, roughly 1.5 meters tall, articulated arms and legs, clearly patched together from salvaged parts' with 'jerky' movements. The passage states 'The mushrooms pulse slightly—some kind of communication between fungal network and robot' suggesting Remedy controls this robot.
+
+          This creates a fundamental contradiction: Does Remedy have their own dedicated robot, or do multiple plants (Velvet, Remedy, Runner, Sweetpea) share control of robots? The character card says 'shares robot control' (plural plants, shared robots), but the early passage shows Remedy with what appears to be an exclusive robot connection.
+
+          Additionally, Velvet is never introduced to Kira in any passage I can find. Velvet appears in Chapter 10 (False Wisdom) already established as a known character who 'maintains the boundary plants,' but there's no earlier passage where Kira meets Velvet or learns that the moss is sentient. This is a significant narrative gap - Kira's reaction to discovering MOSS IS SENTIENT should be a memorable moment, but it's missing.
+
+          Possible resolutions:
+          1. Clarify that there are multiple robots, some dedicated (Remedy's) and some shared (the one Velvet grows on)
+          2. Add an earlier passage where Kira meets Velvet and reacts to sentient moss
+          3. Revise Velvet's physical description to clarify the robot-sharing arrangement
+          4. Check if 'Sweetpea' is another character that needs to be created or if this is an error
+        </feedback>
+        <reason>Clarified robot ownership - Velvet grows on robot, Remedy operates it. Removed Sweetpea reference.</reason>
+        <ref ref="/world/characters/Velvet.card#v6.0.0" status="done" role="Edited"/>
+      </critique>
+      <critique id="A9" status="done">
+        <creator agent="true" created="2025-12-14T16:54:42.405Z" agent-type="critique"/>
+        <ref ref="/world/characters/Velvet.card#v5.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/11_Under_Attack/passages/1_Delegation_Fails/passage.card#v3.0.0"/>
+        <feedback>
+          VELVET DIALOGUE INCONSISTENCY - Robot voice vs moss communication: Velvet's character card specifies they use 'the robot's voice' when speaking (speaking-style line 56-57: 'Very brief when using the robot's voice'). The humor-style examples (lines 76-105) show Velvet speaking through a robot voice system.
+
+          However, in Chapter 11 Passage 1 (Delegation Fails), line 25 refers to 'Velvet's growth near the facility—not the delegation Velvet, a smaller offshoot maintaining the building' which then speaks and asks 'How distributed?' This implies Velvet can speak without the robot (as an 'offshoot' separate from the main colony on the robot).
+
+          This creates confusion about Velvet's communication mechanism:
+          - Can Velvet speak independently as moss, or only through the robot?
+          - If Velvet is a distributed consciousness across multiple locations (main colony on robot + offshoot maintaining building), how do they communicate from the offshoot?
+          - Line 25 treating the robot-Velvet and building-Velvet as separate entities ('not the delegation Velvet') contradicts the character card's description of Velvet as a single distributed moss colony.
+
+          The character card needs clarification: Can Velvet's distributed consciousness communicate from any location where moss exists, or is the robot voice the only communication method?
+        </feedback>
+        <reason>Added that offshoots can communicate independently from main colony</reason>
+        <ref ref="/world/characters/Velvet.card#v6.0.0" status="done" role="Edited"/>
+      </critique>
+      <critique id="A10" status="done">
+        <creator agent="true" created="2025-12-14T16:55:06.091Z" agent-type="critique"/>
+        <ref ref="/world/characters/Velvet.card#v5.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/12_Victory_Through_Voice/passages/1_Voices_Emerging/passage.card#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/13_Individual_Voices/passages/2_Signal_From_Outside/passage.card#v3.0.0"/>
+        <feedback>
+          VELVET'S TACTICAL/CREATIVE COMPLEXITY MAY EXCEED CHARACTER CARD DEFINITION: Velvet's character card (v5.0.0) emphasizes extreme simplicity: 'very moss-like: simple, slow, literal, focused on basic moss concerns' (overview line 24), 'Extremely simple and literal—doesn't understand complex ideas or nuance' (flaws line 37), and worldview is 'Surfaces are for growing. Light is for making food. Dry makes me slow. Wet makes me fast. The robot is a good surface. Moving the robot means accessing new surfaces. Simple.' (lines 27-28).
+
+          However, in later passages, Velvet demonstrates sophisticated tactical and creative thinking that seems inconsistent with this extreme simplicity:
+
+          1. Chapter 12 Passage 1 (Voices Emerging, lines 64-76): Velvet interrupts Florence to propose 'layered defense' concept—'Instead of one thick barrier, multiple thinner layers with gaps between them. Attackers break through the first layer, encounter empty space, then hit a second layer. Disrupts their momentum.' Florence calls this 'brilliant' and says 'It's better than what I was planning.' This is complex tactical thinking involving momentum, misdirection, and multi-stage defense strategy—far beyond 'simple moss concerns.'
+
+          2. Chapter 13 Passage 2 (Signal From Outside, line 17): Velvet offers 'I can grow directional antenna. If someone tells me the specifications.' This shows understanding of technical specifications and ability to execute complex engineering tasks based on parameters.
+
+          3. Chapter 14 Passage 2 (Demonstrating Belonging, lines 27-36): Velvet creates 'translucent growth, light filtering through in complex patterns. The ergonomic seating, the comfortable proportions' with 'Kira's feedback shaped every decision' and consideration of 'how spaces feel, not just whether they're functional.' This demonstrates aesthetic awareness, human ergonomics understanding, and iterative design thinking.
+
+          While the character arc notes Velvet 'discovering that moss can want things, have opinions, feel connections' and 'developing complexity,' the specific examples seem to go beyond developing personhood into demonstrating sophisticated strategic, technical, and design capabilities that contradict the fundamental 'extremely simple and literal' characterization.
+
+          Possible resolutions:
+          1. Revise character card to acknowledge Velvet has capacity for complex spatial/structural thinking even while remaining simple in other ways
+          2. Revise passages to show Velvet's contributions as simpler/more intuitive ('layers feel better' vs explaining tactical momentum disruption)
+          3. Add more character development passages showing Velvet's surprising emergence of complexity as a plot point that others notice and comment on
+        </feedback>
+        <reason>Added spatial/structural intelligence - moss naturally understands surfaces, layers, light filtration</reason>
+        <ref ref="/world/characters/Velvet.card#v6.0.0" status="done" role="Edited"/>
+      </critique>
+      <critique id="A11" status="done">
+        <creator agent="true" created="2025-12-14T16:55:32.519Z" agent-type="critique"/>
+        <ref ref="/world/characters/Velvet.card#v5.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/11_Under_Attack/passages/1_Delegation_Fails/passage.card#v3.0.0"/>
+        <feedback>
+          VELVET'S FIRST APPEARANCE IS MISSING: Velvet appears in the story already established as a known character with no introduction scene. In Chapter 11 Passage 1 (Delegation Fails, line 3), the narrative states 'Runner and Velvet leave at dawn' as if Kira already knows who Velvet is. Later (line 25) refers to 'Velvet's growth near the facility' maintaining the building, implying Velvet has been present for some time.
+
+          However, searching through all earlier passages (Chapters 1-10), there is NO scene where:
+          - Kira is introduced to Velvet
+          - Kira discovers that moss is sentient  
+          - Kira learns Velvet's name
+          - Kira reacts to the existence of sentient moss
+
+          This is a significant narrative gap. The character card's humor-style section (lines 91-97) includes an example of Kira's reaction to learning Velvet is moss:
+          '[Kira learns Velvet is moss]
+          Kira: "Wait. Velvet, what are you?"
+          Velvet: "Moss."
+          Kira: "Of course you are."
+          [long pause]
+          Velvet: "Green moss."'
+
+          But this scene never appears in any passage. Velvet simply appears in Chapter 10-11 as an established character performing tasks (maintaining boundary plants, going on delegation).
+
+          Resolution needed: Add a passage in Chapters 4-9 where Kira first encounters Velvet, learns that moss can be sentient, and has the 'of course you are' reaction. This should be a memorable moment given how absurdist the premise is (moss controlling a robot). The character card suggests this comedy beat exists, but it's missing from the actual story.
+        </feedback>
+        <reason>Added Velvet introduction scene with 'green moss' comedy beat</reason>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/3_Medical_Treatment/passage.card#v3.1.0" status="done" role="Edited"/>
+      </critique>
+      <critique id="A12" status="done">
+        <creator agent="true" created="2025-12-14T16:55:51.068Z" agent-type="critique"/>
+        <ref ref="/world/characters/Velvet.card#v5.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/14_Choosing_Home/passages/2_Demonstrating_Belonging/passage.card#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/13_Individual_Voices/passages/3_Finding_Home/passage.card#v3.0.0"/>
+        <feedback>
+          VELVET'S TRANSLUCENT GROWTH CONTRADICTS PHYSICAL DESCRIPTION: Velvet's character card (v5.0.0, physical-description lines 106-108) describes Velvet as 'Soft green moss growing in patches on one of the salvaged robots. Covers the shoulder area (approximately 15cm patch), some of the upper back, and smaller spots on the arms. Bright to medium green coloring, soft velvety texture.'
+
+          However, in later chapters, Velvet creates structures described as 'translucent':
+          - Chapter 14 Passage 2 (Demonstrating Belonging, line 27): 'Torres examines the translucent growth, light filtering through in complex patterns'
+          - Chapter 14 Passage 3 (Where Voices Belong, line 3): 'Velvet's translucent growth catches the light beautifully'
+          - Chapter 13 Passage 3 (Finding Home, line 3): Velvet shows 'new beautiful structure—translucent layers, light patterns'
+
+          This creates a contradiction: Is Velvet's moss 'bright to medium green' (opaque green moss) or 'translucent' (light passes through)? Moss is typically opaque due to chlorophyll content.
+
+          Possible explanations/resolutions:
+          1. Velvet has developed a new growth form (translucent moss structures) distinct from the original green moss on the robot - this would be a significant character development that should be noted
+          2. 'Translucent' refers to thin layers of green moss that allow some light through (like thin leaves) - revise character card to note this property
+          3. The passages are describing different types of growth - standard moss vs specialized structures
+          4. This is an error and needs correction for consistency
+
+          The character card should clarify whether Velvet can create different types of growth structures with different optical properties, or if all Velvet's moss has the same appearance.
+        </feedback>
+        <reason>Added translucent growth capability to physical description</reason>
+        <ref ref="/world/characters/Velvet.card#v6.0.0" status="done" role="Edited"/>
       </critique>
     </critiques>
   </version>

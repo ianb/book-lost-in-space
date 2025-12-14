@@ -1,9 +1,4 @@
-<passage version="3.0.0" number="3" name="Medical Treatment">
-  <reasoning-passage>
-    Context from outline.card: Kira finds Remedy FASCINATING, not frustrating. Decomposition comments are weird but Remedy's competence is reassuring. "This is the weirdest doctor's visit ever. And I love it." Plant chemistry is actually interesting to watch. Treatment works - real relief. Genuine connection beneath protocols.
-
-    Key voice changes: Curiosity about mushroom medicine, appreciation for thorough care, Buddy asking questions about the chemistry, warmth at the end.
-  </reasoning-passage>
+<passage version="3.1.0" number="3" name="Medical Treatment">
   <text>
     The medical chamber is smaller, more enclosed. Vine walls curve protectively. Bioluminescent patches provide brighter light—clinical, almost.
 
@@ -15,7 +10,7 @@
 
     A robot enters through the doorway.
 
-    It's humanoid in basic shape—roughly 1.5 meters tall, articulated arms and legs, clearly patched together from salvaged parts. The movement is functional but jerky, not smooth like Florence's wheeled grace.
+    It's humanoid in basic shape—roughly 1.5 meters tall, articulated arms and legs, clearly patched together from salvaged parts. The movement is functional but jerky, not smooth like Florence's wheeled grace. There's moss growing on its shoulder—a soft green patch about the size of my hand, spreading partway down the back.
 
     "Kira Voss," the robot's voice says. Direct, practical. "I'm Remedy. Let's look at that leg."
 
@@ -28,6 +23,54 @@
     "I AM the doctor!" Remedy sounds proud. "I synthesize compounds. The mushrooms are my chemistry lab."
 
     "That's amazing," I say, grinning despite my aching leg. "This is the weirdest doctor's visit ever."
+
+    The moss on the robot's shoulder shifts slightly. I blink.
+
+    "Did that moss just move?"
+
+    "Hello," says a voice. Very slow. Very calm. Coming from... the moss.
+
+    I stare at the green patch on the robot's shoulder. "Is the moss talking?"
+
+    "I am Velvet," the moss says.
+
+    Long pause.
+
+    "The moss has a name," I say to no one in particular.
+
+    "Yes," Velvet confirms.
+
+    "I'm sorry, I just—" I look at Remedy, at Scout, at Holloway's fruiting bodies on the wall. "What exactly IS Velvet?"
+
+    "Moss," Velvet says, as if this should be obvious.
+
+    "Of course. Of course the moss is sentient. Why wouldn't it be." I'm laughing now, slightly hysterical. "So you're—what, moss that grew on the robot and became aware?"
+
+    Very long pause.
+
+    "Green moss," Velvet clarifies, like this is an important distinction I've missed.
+
+    "Right. Green moss. Not... other moss."
+
+    "Other moss is not me," Velvet agrees. "I am green."
+
+    Buddy makes a sound that might be electronic laughter. "I like Velvet."
+
+    "Good light in here," Velvet observes, apparently done with introductions. The moss settles back into stillness.
+
+    I look at Remedy. "Does Velvet... live on you?"
+
+    "Velvet lives on the robot," Remedy corrects. "I control the robot through the fungal network. Velvet just grows here. Good surface, apparently."
+
+    "Good surface," Velvet confirms. "Stable. Moves to different light."
+
+    "So you're two separate... beings? Sharing the robot?"
+
+    "Velvet grows. I operate." Remedy sounds like this is perfectly normal. "Velvet helps sometimes. When not too dry."
+
+    "A little dry today," Velvet adds.
+
+    I file this away under "things about this planet I will never fully understand" and refocus on my throbbing leg.
 
     "First, documentation," Holloway's voice emerges from fruiting bodies along the wall. "Medical consent forms and allergy verification."
 
@@ -170,9 +213,4 @@
     Kira sleeping in assigned quarters, injury properly treated, Scout keeping watch. First day on planet complete—she had FUN despite everything. Found family forming. Chapter 3 concludes.
   </leaves-off>
   <title>Medical Treatment</title>
-  <sources>
-    <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/3_Medical_Treatment/outline.card" role="Scene structure"/>
-    <ref ref="/world/characters/Remedy.card" role="Remedy's character, chemistry focus, decomposition commentary"/>
-    <ref ref="/world/characters/Holloway.card" role="Documentation coordination"/>
-  </sources>
 </passage>
