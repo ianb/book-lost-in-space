@@ -1,8 +1,8 @@
 <!-- this file is automatically managed by ske validate; do not edit -->
 <versions>
-  <version number="1.0.0" archived-at="2025-12-14T21:49:11.661Z">
+  <version number="1.0.0" archived-at="2025-12-14T22:35:53.802Z">
     <changelog-entry>
-      <message>Added A47 (done)</message>
+      <message>Added A49 (done)</message>
     </changelog-entry>
     <!-- Managed by ske critique mark -->
     <critiques version="1.0.0" name="critique">
@@ -637,6 +637,30 @@
         <ref ref="/world/characters/Buddy.card#v5.0.0"/>
         <feedback>
           Overall characterization issue: Buddy is written more like a generically helpful AI companion than the specific kids' educational AI described in the character card. The card establishes Buddy as designed for 'STEM learning and safety guidance for children ages 8-14' with 'safety protocols calibrated for field trips, emotional support designed for scraped knees.' This should create frequent friction with adult survival situations. The card's overview states 'the mismatch comes from safety protocols calibrated for field trips, emotional support designed for scraped knees, and an assumption that there's always a trusted adult nearby to handle the serious stuff.' But in practice, Buddy rarely shows this mismatch in problematic ways. They provide appropriate help, ask reasonable questions, and offer useful support without the comedy/tension that should come from kid-oriented programming in adult contexts. The character is missing: (1) safety protocols that flag 'dangerous' activities Kira must do anyway (the card says 'might flag dangerous activities that are necessary'), (2) trying to defer serious issues to 'a trusted adult' when Kira IS the adult, (3) emotional support calibrated for minor childhood problems applied to life-threatening situations, (4) treating serious adult emotions as beyond their protocols. These specific mismatches between Buddy's design and the actual situation should create both comedy and genuine character struggle. Without them, Buddy is just a helpful AI who happens to be enthusiastic, rather than a distinctively mismatched kids' AI trying their best in impossible circumstances. The character needs more moments where their specific programming creates problems or inappropriate responses, not just general AI helpfulness.
+        </feedback>
+      </critique>
+      <critique id="A48" status="done">
+        <creator agent="true" created="2025-12-14T22:07:22.117Z" agent-type="critique"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/1_Into_the_Purple/passage.card#v4.0.0"/>
+        <feedback>
+          Buddy's 'Shadow Friend' naming suggestion (lines 123-132) interrupts tension escalation at a critical moment. The scene is building mystery and unease—Kira has spotted movement, feels watched, the quiet feels charged. Then Buddy's field-trip suggestion deflates the horror/mystery mood before it peaks. 
+
+          The content is good character work (Buddy reverting to kid-AI protocols under stress), but the placement breaks pacing. Lines 134-146 continue building tension AFTER this insertion, which means the insertion splits the escalation into two parts with a comedic break in between.
+
+          Suggested fix: Move the naming suggestion to after line 146 ('something is following us'), once the reader has felt the full weight of being watched. The self-correction would land better as a nervous response to sustained tension rather than an early interruption. This preserves both the character moment AND the scene's building dread.
+        </feedback>
+      </critique>
+      <critique id="A49" status="done">
+        <creator agent="true" created="2025-12-14T22:07:47.389Z" agent-type="critique"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/1_Intake/passage.card#v2.2.1"/>
+        <feedback>
+          Form literacy module insertion (lines 117-129) has dialogue flow and tonal issues:
+
+          1. Dialogue disconnect: Line 129 ('Buddy, you have no idea how normal and weird this is') doesn't connect to the preceding exchange. Kira just reassured Buddy ('It's okay. We're both figuring this out'), then immediately follows with a line that reads like mild criticism or confusion. This line seems orphaned—unclear what 'normal and weird' refers to at this moment.
+
+          2. Comedy rhythm interruption: The emotional beat (lines 125-127, Buddy expressing insecurity about not helping right) is good character work, but it interrupts the absurdist comedy momentum right before Holloway launches into medical history. The scene was building comedic energy (emergency contact = 'the collective'), and this serious pause makes it harder to jump back into the bureaucratic comedy.
+
+          Suggested fixes: (a) Either cut line 129 or rewrite it to clearly connect to Buddy's self-doubt, (b) Consider moving Buddy's insecurity moment to after the medical history section is complete, letting the comedy section flow uninterrupted, OR (c) make the emotional beat shorter so it doesn't break the rhythm as much.
         </feedback>
       </critique>
     </critiques>
