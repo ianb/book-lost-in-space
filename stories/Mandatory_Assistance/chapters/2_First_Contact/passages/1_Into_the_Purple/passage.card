@@ -1,15 +1,4 @@
-<passage version="3.0.0" number="1" name="Into the Purple">
-  <reasoning-passage>
-    Context from outline.card: 5-beat sequence establishing planet's sensory reality and building to awareness of being watched. Target 800-1000 words.
-
-    From passage-placement: Must immerse reader in alien planet while showing Kira's injury and building anticipation. Use Sector_7-Gamma-412_Planet.card for sensory details.
-
-    Voice: Kira's chatty internal monologue tinged with wonder and pain. Sensory-rich prose - purple twilight, thick humid air, eerie quiet, growing scent. Buddy's enthusiastic narration. Emotional arc: wonder → appreciation → pain reminder → unease → anticipation.
-
-    Pacing: Start with wonder (longer flowing sentences), quicken during pain moment (shorter), slow again for atmosphere, accelerate toward tension of being watched.
-
-    Planet sensory checklist: Purple everything, twilight light quality, thick leathery leaves, deeper rustling sound, humid air, floral-earthy scent, eerie quiet (no animals), smooth warm bark, soft springy groundcover.
-  </reasoning-passage>
+<passage version="4.0.0" number="1" name="Into the Purple">
   <text>
     The first thing I notice is the light.
 
@@ -131,7 +120,15 @@
 
     "Buddy, any life signs?"
 
-    "No animals... but the plants are reading really weird. Like they're... doing something?"
+    "No animals... but the plants are reading really weird. Like they're... doing something?" A beat, then Buddy's voice shifts to something more hesitant. "Should we... name it? The thing that's watching? Naming things makes them less scary. We could call it 'Shadow Friend' or—"
+
+    "Buddy."
+
+    "Right. Not the time. Sorry." Another pause. "It's just—when my students get scared, naming the scary thing helps them feel brave. But you're not... this isn't a field trip, is it."
+
+    "No," I whisper. "This is real."
+
+    "Okay. I'll be quiet. I'll just... watch with you."
 
     There. Again. Higher up, something definitely moving among the branches.
 
@@ -170,10 +167,4 @@
     Kira is walking through the forest, aware of being watched by something moving in the trees. She's cautious but still heading toward water. Next passage will reveal Scout as the observer, beginning first contact.
   </leaves-off>
   <title>Into the Purple</title>
-  <sources>
-    <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/1_Into_the_Purple/outline.card" role="Passage beats and structure"/>
-    <ref ref="/world/entities/Sector_7-Gamma-412_Planet.card" role="Planet sensory details"/>
-    <ref ref="/stories/Mandatory_Assistance/narrative-guide.card" role="POV and tone"/>
-    <ref ref="/stories/Mandatory_Assistance/chapters/1_Impact/passages/4_Taking_Stock/passage.card" role="Previous passage ending"/>
-  </sources>
 </passage>
