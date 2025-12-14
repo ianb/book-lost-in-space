@@ -1,0 +1,65 @@
+<!-- this file is automatically managed by ske validate; do not edit -->
+<versions>
+  <version number="1.0.0" archived-at="2025-12-14T16:36:37.619Z">
+    <changelog-entry>
+      <message>Added C25 (done)</message>
+    </changelog-entry>
+    <!-- Managed by ske critique mark -->
+    <critiques version="1.0.0" name="critique">
+      <critique id="C21" status="done">
+        <creator agent="true" created="2025-12-14T16:27:49.392Z" agent-type="critique"/>
+        <ref ref="/world/characters/Florence.card#v3.1.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/10_Trust_Complicated/passages/1_False_Wisdom/passage.card#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/10_Trust_Complicated/passages/2_The_Deception/passage.card#v2.0.0"/>
+        <feedback>
+          Florence's flowers should betray her emotions during the deception revelation (Ch 10), but no flower colors are mentioned in either confrontation passage. Her character card emphasizes 'The flowers betray emotions she tries to keep controlled—petals tightening when irritated, color shifts when pleased or embarrassed' and 'emotional flower displays make it hard to hide feelings even when she wants to.' The revelation scene in Ch10 passage 1 (False Wisdom) is highly emotional—Florence makes 'a small sound' of distress when caught, her platform 'goes very still,' she's defensive and hurt. But there are no flower color descriptions. Ch10 passage 2 (The Deception) is even more emotional—Florence shouts (which the text notes 'Florence doesn't shout'), she's bitter, in pain, feeling small and manipulated. But again, no flower colors mentioned. This is a missed opportunity for visual storytelling and contradicts the character card's emphasis that her flowers betray emotions she wants to hide. During these confrontations, her flowers should be displaying her emotional state—perhaps mortified colors, defensive tightening, shifts between anger and hurt—precisely because she CAN'T hide her feelings even though she wants to.
+        </feedback>
+        <reason>Added flower color descriptions to emotional scenes</reason>
+        <ref ref="/stories/Mandatory_Assistance/chapters/10_Trust_Complicated/passages/1_False_Wisdom/passage.card#v2.0.0" status="done" role="Edited"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/10_Trust_Complicated/passages/2_The_Deception/passage.card#v2.0.0" status="done" role="Edited"/>
+      </critique>
+      <critique id="C22" status="done">
+        <creator agent="true" created="2025-12-14T16:28:03.742Z" agent-type="critique"/>
+        <ref ref="/world/characters/Florence.card#v3.1.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/10_Trust_Complicated/passages/2_The_Deception/passage.card#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/10_Trust_Complicated/passages/3_Broken_Trust/passage.card#v3.0.0"/>
+        <feedback>
+          Florence's reaction to losing her Elder Twist interpretation role lacks emotional depth. Her character card establishes that 'Carrying Elder Twist gave me value' and 'took on the role of carrying Elder Twist when the small ancient tree needed mobility' and 'Much of her time is spent waiting for Elder Twist to formulate responses.' This is her primary identity. When Holloway says 'Leave Elder Twist with us. You've lost that privilege' (Ch10 passage 2), Florence's response is minimal—she 'carefully maneuvers Elder Twist's pot off her platform' and 'wheels away slowly, alone for the first time since I've known her.' The text notes 'The absence of Elder Twist on her back is stark' but this is from Kira's POV in passage 3, not Florence's emotional experience. For someone whose entire identity was built around this role ('Being useful means making yourself available, mobile, capable of bridging gaps between fast and slow, young and old'), the physical separation from Elder Twist should be devastating. The moment she sets down the pot should have more weight—perhaps hesitation, flowers betraying distress, the physical lightness of her platform without that weight feeling wrong. The loss of this role is deeply tied to her self-concept ('I'm more refined than the others give me credit for, and carrying Elder Twist is an honor even when it's difficult'), yet this pivotal separation moment feels understated.
+        </feedback>
+        <reason>Deepened Elder Twist separation with emotional weight, hesitation, and flower grief</reason>
+        <ref ref="/stories/Mandatory_Assistance/chapters/10_Trust_Complicated/passages/1_False_Wisdom/passage.card#v2.0.0" status="done" role="Edited"/>
+      </critique>
+      <critique id="C23" status="done">
+        <creator agent="true" created="2025-12-14T16:28:20.804Z" agent-type="critique"/>
+        <ref ref="/world/characters/Florence.card#v3.1.0"/>
+        <feedback>
+          Florence's platform tipping is described as a defining flaw that happens 'frequently' and is 'deeply humiliating,' but it never appears in the story passages. The character card emphasizes this extensively: 'When the platform tips over (which happens more often than she'd like), Florence becomes acutely distressed—flowers closing tight, colors shifting to mortified hues' and 'Worst of all: the wheeled platform frequently tips over on uneven terrain, leaving Florence stuck on her back like an upturned turtle, completely helpless and unable to right herself. This is deeply humiliating for someone who prides herself on elegance' and 'Uneven ground is a constant concern—rocks, roots, slopes all risk tipping the platform over. When it happens (more often than Florence would like to admit), she has to wait, mortified, for someone to come flip her back upright.' This detail appears in multiple fields (emotional-baseline, flaws, normal-life, secrets). However, searching through passages found zero instances of 'tipping' in the story. This is problematic because: (1) It's presented as a frequent occurrence that should appear at least once during the story, especially during the journey chapters or combat scenes with unstable terrain. (2) It's tied to her character arc about vanity, dignity, and needing help from others—themes central to her deception and redemption. (3) It creates vulnerability that would deepen her relationship with other characters who help her. (4) The contrast between her claims of 'elegant wheeled superiority' and this humiliating reality would add meaningful complexity. Either the character card overstates this trait, or passages should include at least one tipping incident.
+        </feedback>
+        <reason>Added platform tipping scene when Kira visits Florence in exile</reason>
+        <ref ref="/stories/Mandatory_Assistance/chapters/10_Trust_Complicated/passages/3_Broken_Trust/passage.card#v3.0.0" status="done" role="Edited"/>
+      </critique>
+      <critique id="C24" status="done">
+        <creator agent="true" created="2025-12-14T16:28:35.443Z" agent-type="critique"/>
+        <ref ref="/world/characters/Florence.card#v3.1.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/10_Trust_Complicated/passages/2_The_Deception/passage.card#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/10_Trust_Complicated/passages/3_Broken_Trust/passage.card#v3.0.0"/>
+        <feedback>
+          The geography and nature of Florence's 'exile' is vague and inconsistent with story logistics. In Ch10 passage 2, Holloway says 'I think Florence should... separate from the group for now' and 'There are other chambers in the facility. You can use one. You're not banned, Florence. But we need distance.' Florence responds 'You're exiling me' and Holloway corrects 'I'm asking for space.' This suggests temporary separation within the same facility. However, Ch10 passage 3 and Ch11 passage 1 describe 'Florence's chamber in the far wing—smaller than the common areas, more isolated' and Florence watching 'through the window' to see hostile plants gathering. The issue: If Florence is just in another room of the same living facility, why is this framed as 'exile'? The facility is described as a living structure grown/maintained by the plants, not a vast complex with distant wings. Florence on her wheeled platform should be able to roll back to the common area in minutes. The 'far wing' and watching through windows suggests significant physical distance, but there's no established geography explaining how large the facility is or why Florence can't just... return whenever. Is she physically prevented from entering common areas? Is it social exile enforced by distance? The mechanics of the separation need clarification—either the facility is much larger than established, or the 'exile' is more social/voluntary than geographical.
+        </feedback>
+        <reason>Clarified geography: old storage wing with rough corridor, social exile not physical lockout</reason>
+        <ref ref="/stories/Mandatory_Assistance/chapters/10_Trust_Complicated/passages/3_Broken_Trust/passage.card#v3.0.0" status="done" role="Edited"/>
+      </critique>
+      <critique id="C25" status="done">
+        <creator agent="true" created="2025-12-14T16:28:49.843Z" agent-type="critique"/>
+        <ref ref="/world/characters/Florence.card#v3.1.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/10_Trust_Complicated/passages/1_False_Wisdom/passage.card#v2.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/10_Trust_Complicated/passages/2_The_Deception/passage.card#v2.0.0"/>
+        <feedback>
+          The moral distinction between 'fabrication' and 'interpretation' needs clearer definition. Florence's character arc hinges on whether she 'fabricated' wisdom or 'interpreted/embellished' Elder Twist's cryptic responses, but the passages don't establish clear boundaries. In Ch10 passage 1, Florence admits 'Most of it' was her own when asked 'How much of Elder Twist's wisdom have you actually been interpreting versus... creating?' In passage 2, she says Elder Twist 'does speak. Sometimes. The fragments are real. But they're... slow. Cryptic. Not immediately helpful. So I... expanded them. Made them relevant. Turned wisdom into actionable guidance.' This creates ambiguity: Is Florence taking real fragments and expanding them (interpretation), or inventing advice whole-cloth and attributing it to Elder Twist (fabrication)? The character card says 'Florence sometimes gives her own opinions as if they're Elder Twist's wisdom, when she knows the elder hasn't actually responded yet or wouldn't care about the issue' (secrets field). This suggests pure fabrication. However, the story-role says 'Elder Twist's responses are too slow or simple to be helpful, so Florence improvises, turning cryptic fragments into actionable wisdom,' which sounds more like aggressive interpretation. This distinction matters enormously for the moral weight—embellishing real (but cryptic) wisdom is different from complete fabrication. The passages should clarify whether Florence had ANY Elder Twist fragments to work from for the hostile plant advice, or if that was pure invention.
+        </feedback>
+        <reason>Florence clarifies: ~25% real fragments expanded, ~75% pure fabrication</reason>
+        <ref ref="/stories/Mandatory_Assistance/chapters/10_Trust_Complicated/passages/3_Broken_Trust/passage.card#v3.0.0" status="done" role="Edited"/>
+      </critique>
+    </critiques>
+  </version>
+</versions>

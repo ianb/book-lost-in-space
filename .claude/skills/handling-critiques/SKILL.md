@@ -70,6 +70,49 @@ ske critique mark <critique-path> <status> [passage-paths...] [options]
 - `--dry-run` - Preview changes without applying
 - `--verbose` - Show detailed output
 
+### Add Agent Critique
+
+```bash
+ske critique add ref <card-paths...> -m "Critique message" [--status <status>] [--agent-type <type>]
+```
+
+Creates a critique programmatically, typically from an AI agent during research or review tasks. Use this when you discover an issue, inconsistency, or concern that should be tracked but isn't being addressed immediately.
+
+**Arguments:**
+- `ref` - Literal keyword (required)
+- `card-paths` - One or more card paths to reference (required, at least one)
+- `-m, --message <text>` - The critique text (required)
+
+**Options:**
+- `--status <status>` - Critique status (default: `unconfirmed`)
+- `--agent-type <type>` - Identifies the agent creating the critique (e.g., `search`, `review`)
+
+**Important:** The message should be self-contained and detailed enough to understand without any surrounding context. Include:
+- What the issue is
+- Why it matters
+- Specific examples or references if relevant
+- What might need to change
+
+**Examples:**
+
+```bash
+# Flag a character consistency issue found during search
+ske critique add ref world/characters/Marcus.card stories/MyStory/passages/3_Confrontation/passage.card \
+  -m "Marcus is described as having brown eyes in his character card, but the passage at progress 0.45 describes him as having 'piercing blue eyes that seemed to see through her lies.' This contradicts the established character description and should be corrected to maintain consistency." \
+  --agent-type search
+
+# Note a plot concern discovered during review
+ske critique add ref stories/MyStory/passages/5_Revelation/passage.card \
+  -m "The revelation that Sarah knew about the conspiracy all along undermines the tension built in chapters 1-4 where she appears genuinely confused. Consider either foreshadowing her knowledge more subtly in earlier passages, or adjusting this revelation to show she only recently discovered the truth." \
+  --agent-type review
+
+# Flag a world-building inconsistency
+ske critique add ref world/setting.card world/entities/Magic_System.card \
+  -m "The setting card states magic is rare and feared, but the magic system entity describes common household enchantments. These descriptions conflict - either magic should be portrayed as more accepted in the setting, or the magic system should emphasize that household enchantments are the exception that proves the rule of magic being rare."
+```
+
+The critique is saved to `critiques/{status}/agent.card` with an auto-assigned unique ID (C1, C2, etc.).
+
 ## Workflow
 
 ### 1. Fetch and Review

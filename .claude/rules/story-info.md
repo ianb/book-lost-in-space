@@ -59,9 +59,28 @@ unsettled but hopeful". This gets piped directly into story CLAUDE.md to keep it
 top-of-mind during all creation. Write something that REFLECTS what the user says,
 concise and unambiguous so it works in isolation.
 
+Focus on VISCERAL emotions - the physical, felt experiences readers have while reading.
+Think about what sensations you want to create in the reader's body and mind:
+
+**Threat/tension**: suspense (held-breath uncertainty), dread (approaching doom), shock/startle (jolt, flinch), anxious vigilance (braced, scanning), panic spike (urgent, breath-short)
+
+**Curiosity/cognition**: curiosity pull (wanting-to-know that tugs forward), pattern-hunting (active theorizing, connecting), reveal-click (satisfying snap of understanding), surprise flip (reinterpretation whiplash)
+
+**Moral heat**: outrage (hot indignation), justice appetite (need for reckoning), contempt (cold disgust), comeuppance anticipation (pleasure in setup for takedown)
+
+**Social discomfort + humor**: cringe-comedy (secondhand embarrassment that stays funny), benign violation (wrong-but-safe thrill triggering laughter), delighted amusement (light grin, buoyant), absurd joy (laughter at gleeful wrongness)
+
+**Warmth/attachment**: protectiveness ("don't hurt them" urgency), tender warmth (softened attention, safe closeness), belonging glow (cozy inclusion)
+
+**Release**: relief (tension drops, exhale), cathartic release (pressure valve: tears or laughter)
+
+**Body responses**: disgust/squeamishness (recoil), arousal/desire
+
 **When creating:**
 Ask the user what they want readers to feel or experience. Write their answer concisely.
 This is not about plot or theme - it's about the intended effect on the reader.
+Probe for the visceral, physical sensations: Do they want readers holding their breath?
+Cringing? Feeling warm and safe? Hungry for justice?
 
 **Good examples:**
 - The reader should feel cozy and safe, like curling up with a warm drink.
@@ -69,6 +88,10 @@ This is not about plot or theme - it's about the intended effect on the reader.
 - - Reader feels the weight of impossible choices
 - Build dread slowly, then release
 - End with bittersweet hope
+- - Cringe-comedy: secondhand embarrassment that stays funny
+- Pattern-hunting satisfaction as clues connect
+- Comeuppance anticipation building to cathartic release
+- Suspense tension building to shock, then protective warmth for the survivor.
 
 ## `<visibility>` (required) [high priority]
 

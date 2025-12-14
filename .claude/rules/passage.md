@@ -8,6 +8,8 @@ paths: **/passage.card
 
 Before writing, read the context: Read this passage's outline.card to understand the beat sequence. Read the narrative-guide.card for tone, style, and passage-length. If this isn't the first passage, read the previous passage to understand where it left off. Confirm you've read these by briefly stating the passage objective and target length.
 
+Review writing-samples.card: Which writing sample(s) from writing-samples.card are most applicable to this passage? Consider the mood, pacing, and type of scene. Name the specific sample(s) and note what stylistic elements you'll draw from them.
+
 Identify what this passage must express: What does this passage have to express beyond the factual beats? What is the intended emotional impact on the reader? How will you achieve it through word choice, pacing, and sensory detail? Which key-tensions from the story are in play?
 
 Plan the delivery: How will you deliver the must-convey facts from outline.card without exposition dumps? What sensory details will ground the reader? Does the timeline align with previous passages?
