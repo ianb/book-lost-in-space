@@ -1,8 +1,8 @@
 <!-- this file is automatically managed by ske validate; do not edit -->
 <versions>
-  <version number="1.0.0" archived-at="2025-12-14T17:41:54.412Z">
+  <version number="1.0.0" archived-at="2025-12-14T17:54:29.554Z">
     <changelog-entry>
-      <message>Added A17 (done)</message>
+      <message>Added A24 (done)</message>
     </changelog-entry>
     <!-- Managed by ske critique mark -->
     <critiques version="1.0.0" name="critique">
@@ -328,6 +328,72 @@
         </feedback>
         <reason>Added comedic boundary-crossing behavior in Ch4 introduction</reason>
         <ref ref="/stories/Mandatory_Assistance/chapters/4_Adaptation/passages/1_Morning_Wellness/passage.card#v3.0.0" status="done" role="Edited"/>
+      </critique>
+      <critique id="A18" status="done">
+        <creator agent="true" created="2025-12-14T17:47:58.007Z" agent-type="critique"/>
+        <ref ref="/world/characters/Scout.card#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/14_Choosing_Home/passages/2_Demonstrating_Belonging/passage.card#v3.0.0"/>
+        <feedback>
+          CRITICAL CONSISTENCY VIOLATION: Scout has internal narration voice in passage text.
+
+          In passage 14.2 Demonstrating Belonging, line 59, Scout's bounces are narrated with words:
+
+          'Scout bounces between me and Torres. Love Kira bounce. Happy Kira staying bounce. Want captain to understand bounce.'
+
+          This directly contradicts Scout's character card which explicitly states Scout CANNOT SPEAK and communicates entirely through movement (speaking-style: 'N/A - Scout cannot speak. Communicates entirely through movement: bouncing patterns, circling, rolling speeds, and positioning').
+
+          The character card's story-role section specifies Scout's arc is about developing 'richer forms of non-verbal communication beyond just tumbling and being interpreted by others' - this means Scout should NEVER have verbal internal narration or word-based thoughts attributed to them, even in prose shorthand.
+
+          The passage gives Scout word-thoughts like 'Love Kira bounce' and 'Want captain to understand bounce.' This breaks the fundamental constraint of the character. Scout's communication should be shown through physical movement only, with interpretation coming from Kira or others observing the bouncing patterns.
+
+          CORRECTION NEEDED: Rewrite these lines to show Scout's physical bouncing behavior without attributing verbal thoughts. For example: 'Scout bounces excitedly between me and Torres - enthusiastic, insistent bounces that seem to be trying to demonstrate something to the captain.' Let readers and characters interpret the meaning from the physical movement, not from word-based narration.
+        </feedback>
+        <reason>Removed word-thoughts, now shows Scout's bounces through Kira's interpretation</reason>
+        <ref ref="/stories/Mandatory_Assistance/chapters/14_Choosing_Home/passages/2_Demonstrating_Belonging/passage.card#v3.0.1" status="done" role="Edited"/>
+      </critique>
+      <critique id="A19" status="done">
+        <creator agent="true" created="2025-12-14T17:47:58.336Z" agent-type="critique"/>
+        <ref ref="/world/characters/Scout.card#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/2_Scout/passage.card#v3.1.0"/>
+        <feedback>
+          INCONSISTENCY: Scout uses tendrils to communicate in first appearance, but this method is never used again and contradicts character card description.
+
+          In passage 2.2 (Scout's introduction), lines 85-87 describe: 'A small tendril extends from the sphere's surface. Thin, delicate, reaching toward my bandage. Getting closer.'
+
+          Scout's character card describes Scout as communicating 'entirely through movement: bouncing patterns, circling, rolling speeds, and positioning' with no mention of tendrils as a communication method. The physical-description specifies 'Small leaves and thin tendrils protrude from the surface' but these are described as part of the fuzzy appearance, not as communication tools.
+
+          After this first passage, Scout NEVER uses tendrils again throughout the entire story. All subsequent Scout communication is through bouncing, rolling, circling, and positioning - which matches the character card. This creates an inconsistency where Scout has an ability in the first encounter that disappears and is never referenced again.
+
+          SUGGESTED FIX: Either (1) remove the tendril-reaching moment from passage 2.2 and replace with a different physical approach (bouncing closer, circling tighter around the injury), OR (2) establish tendrils as a deliberate communication tool in the character card and have Scout use them occasionally throughout the story for specific purposes (like pointing or indicating).
+        </feedback>
+        <reason>Replaced tendril-reaching with pressing against leg - consistent movement-based communication</reason>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/2_Scout/passage.card#v3.2.0" status="done" role="Edited"/>
+      </critique>
+      <critique id="A24" status="done">
+        <creator agent="true" created="2025-12-14T17:49:13.287Z" agent-type="critique"/>
+        <ref ref="/world/characters/Scout.card#v3.0.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/2_First_Contact/passages/2_Scout/passage.card#v3.1.0"/>
+        <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/3_Medical_Treatment/passage.card#v3.1.0"/>
+        <feedback>
+          PHYSICAL DESCRIPTION INCONSISTENCY: Scout's size described differently across passages.
+
+          Scout's character card physical-description specifies: 'Spherical plant organism, approximately 30 cm in diameter.'
+
+          This is quite specific - 30 centimeters (about 12 inches, roughly the size of a large beach ball).
+
+          However, in passage 2.2 (First Contact), Scout is described as: 'maybe the size of a basketball' which is approximately 24 cm diameter - noticeably smaller than the character card specification.
+
+          In passage 3.3 (Medical Treatment), Scout is described as pressing 'against my hand' and later as a 'small plant' - language that's consistent with the 30cm specification.
+
+          ISSUE: The basketball comparison in the introduction creates a mental image that's about 20% smaller than Scout's actual size. This matters because:
+          1. A 30cm sphere is notably larger and heavier than a basketball
+          2. Physical interactions (Scout pressing against Kira's leg, settling near her) would feel different with the larger size
+          3. Consistency helps readers maintain a stable mental image
+
+          SUGGESTED FIX: In passage 2.2, change 'maybe the size of a basketball' to 'maybe the size of a large beach ball' or 'roughly thirty centimeters across' to match the character card specification. Alternatively, if basketball-sized feels more appropriate for the story, update the character card to specify approximately 24cm diameter.
+        </feedback>
+        <reason>Updated character card to basketball-sized (~24cm)</reason>
+        <ref ref="/world/characters/Scout.card#v3.1.0" status="done" role="Edited"/>
       </critique>
     </critiques>
   </version>

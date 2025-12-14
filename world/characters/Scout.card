@@ -1,19 +1,4 @@
-<character version="3.0.0" name="Scout">
-  <reasoning-character>
-    Context: Late 27th century with sentient plant life that learned about humans from HR manuals. Story premise: Kira crashes, stranded with bureaucratic plant aliens trying to help. Protagonist is Kira Voss. Other characters include Buddy (AI companion) and various plant characters.
-
-    Story purpose: Supporting character who helps with discovery and alerts. Scout draws attention to things Kira needs to notice - hazards, resources, interesting locations. Can't speak directly, so creates opportunities for other plants to interpret Scout's movements. Shows the diversity and strangeness of plant life. Provides physical comedy and demonstrates how plant communication works differently.
-
-    Character depth: Supporting character - moderate detail. Will appear regularly as a helper/guide but not a POV character or major relationship focus.
-
-    Setting fit: Scout is a tumbler plant - bounces and rolls with butterfly-like control that appears random but is actually deliberate. This fits the plant-based alien life and their diverse forms.
-
-    Distinctiveness: Unlike other plants, Scout cannot speak at all. Purely physical/kinetic communication. Enthusiastic and energetic where many other plants are slower or more methodical. Acts as messenger and scout.
-
-    Relationships: Works with other plants who interpret Scout's movements. Helpful to Kira in practical ways - leading her to things, warning her.
-
-    Completeness: Skip speaking-style (can't speak), internal-monologue-style (not POV), worldview (can't express verbally), self-concept (same). Need physical-description, overview, emotional-baseline, flaws, how they communicate nonverbally.
-  </reasoning-character>
+<character version="3.1.0" name="Scout">
   <story-role>Supporting character / Helper: Scout is a non-speaking tumbler plant who draws attention to important things - hazards, resources, interesting discoveries. Acts as messenger and guide, demonstrating how alien the plant communication methods are while providing practical help to Kira. Arc: Never speaks throughout the story but develops richer forms of non-verbal communication beyond just tumbling and being interpreted by others. Discovers new ways to express nuance, emotion, specificity without words. Others (including Kira) learn to read Scout better, to listen without needing verbal translation. Scout develops clearer desires/preferences that can be communicated physically. By the end, Scout has a fuller voice that doesn't require speech - communication is validated as equally rich and complex as verbal language.</story-role>
   <full-name>Scout</full-name>
   <pronouns>it/its</pronouns>
@@ -58,7 +43,7 @@
     Scout doesn't have humor - Scout is humor. The comedy comes from earnest enthusiasm expressed through bouncing. Frantic circling around something mildly interesting. The apparent randomness of movement patterns that turn out to be precise communication. Physical comedy from a plant-ball taking its job very seriously.
   </humor-style>
   <physical-description>
-    Spherical plant organism, approximately 30 cm in diameter. Outer surface is a tight weave of flexible brownish-green stems/branches forming a ball shape. Small leaves and thin tendrils protrude from the surface, creating a slightly fuzzy appearance. Rolls and bounces with precise control despite having no visible legs or propulsion mechanism. Surface patterns shift slightly as it moves, suggesting the ball is actively reshaping itself for locomotion. Color shifts toward more green in sunlight, more brown in shade.
+    Spherical plant organism, roughly basketball-sized (about 24 cm in diameter). Outer surface is a tight weave of flexible brownish-green stems/branches forming a ball shape. Small leaves and thin tendrils protrude from the surface, creating a slightly fuzzy appearance. Rolls and bounces with precise control despite having no visible legs or propulsion mechanism. Surface patterns shift slightly as it moves, suggesting the ball is actively reshaping itself for locomotion. Color shifts toward more green in sunlight, more brown in shade.
   </physical-description>
   <relationships/>
 </character>
