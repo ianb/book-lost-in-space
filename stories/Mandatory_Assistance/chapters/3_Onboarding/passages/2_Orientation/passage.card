@@ -1,9 +1,4 @@
-<passage version="2.0.1" number="2" name="Orientation">
-  <reasoning-passage>
-    Context from outline.card: Kira finds the workplace safety training HILARIOUS, not exhausting. Florence introduced with beautiful flowers - Kira fascinated by flower-language, wants to learn it. Buddy asks curious questions about what colors mean. Quiz is comedy. "This is the weirdest, best training I've ever had."
-
-    Key voice changes: Delight at absurdity, genuine interest in Florence's flower-emotions, Buddy curious not lecturing, laughter throughout.
-  </reasoning-passage>
+<passage version="3.0.0" number="2" name="Orientation">
   <text>
     The orientation chamber is larger than the intake room, with vine-walled surfaces that curve into something almost like a classroom. Bioluminescent patches provide steady light. Several of those vine-formed seats face toward a flat presentation surface.
 
@@ -33,7 +28,7 @@
 
     "Yes! I want to learn everything."
 
-    Scout bounces once—encouragement or approval, hard to say.
+    Scout bounces once—encouragement or approval, hard to say. I'm starting to wonder if Scout's different bounces mean different things. Fast versus slow? Direction? I'll have to pay attention.
 
     Holloway's voice emerges from a fruiting body near the wall: "Florence has prepared a comprehensive presentation on workplace safety fundamentals. Please give your full attention!"
 
@@ -212,9 +207,4 @@
     Kira cleared for medical evaluation, following Scout deeper into the facility. High spirits, enjoying the adventure. Florence glowing with pleasure at being appreciated. Remedy's medical treatment next.
   </leaves-off>
   <title>Orientation</title>
-  <sources>
-    <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/2_Orientation/outline.card" role="Scene structure"/>
-    <ref ref="/world/characters/Florence.card" role="Florence's character, flowers, speaking style"/>
-    <ref ref="/world/characters/Holloway.card" role="Holloway coordinating"/>
-  </sources>
 </passage>

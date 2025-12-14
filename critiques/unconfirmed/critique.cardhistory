@@ -1,34 +1,12 @@
 <!-- this file is automatically managed by ske validate; do not edit -->
 <versions>
-  <version number="1.0.0" archived-at="2025-12-14T17:54:39.242Z">
+  <version number="1.0.0" archived-at="2025-12-14T18:05:36.705Z">
     <changelog-entry>
-      <message>Added A21 (confirmed)</message>
+      <message>Before marking A21 as done</message>
     </changelog-entry>
     <!-- Managed by ske critique mark -->
     <critiques version="1.0.0" name="critique">
-      <critique id="A20" status="confirmed">
-        <creator agent="true" created="2025-12-14T17:48:29.497Z" agent-type="critique"/>
-        <ref ref="/world/characters/Scout.card#v3.0.0"/>
-        <ref ref="/stories/Mandatory_Assistance/chapters/13_Individual_Voices/passages/2_Signal_From_Outside/passage.card#v3.0.0"/>
-        <feedback>
-          MISSING CHARACTER ARC DEVELOPMENT: Scout's promised arc of developing richer non-verbal communication is not shown evolving through the story.
-
-          Scout's character card story-role specifies an arc: 'Never speaks throughout the story but develops richer forms of non-verbal communication beyond just tumbling and being interpreted by others. Discovers new ways to express nuance, emotion, specificity without words. Others (including Kira) learn to read Scout better, to listen without needing verbal translation. Scout develops clearer desires/preferences that can be communicated physically. By the end, Scout has a fuller voice that doesn't require speech - communication is validated as equally rich and complex as verbal language.'
-
-          However, throughout the story Scout's communication remains fairly static: enthusiastic bouncing, circling, settling nearby. There's no clear progression showing Scout developing MORE sophisticated or nuanced communication methods, nor scenes showing Kira learning to read Scout's movements with greater precision.
-
-          In passage 13.2, Scout shows 'celebration muted—happy-sad, confused' which suggests emotional complexity, but this complexity isn't shown through evolved bouncing patterns or new communication techniques - it's just stated in narration.
-
-          NEEDED: Specific scenes showing:
-          1. Early story: Kira struggling to interpret Scout's bounces, needing other plants to translate
-          2. Mid story: Kira beginning to distinguish different bounce patterns (urgent vs happy vs worried)
-          3. Late story: Scout and Kira having complex 'conversations' through movement that others can observe and understand, demonstrating that non-verbal communication can be as nuanced as speech
-
-          The arc should culminate in a moment where Scout communicates something complex and important entirely through movement, validating that Scout's voice is heard and valued despite never speaking.
-        </feedback>
-        <reason>Scout's arc progression could be developed more - marking for later</reason>
-      </critique>
-      <critique id="A21" status="confirmed">
+      <critique id="A21" status="unconfirmed">
         <creator agent="true" created="2025-12-14T17:48:29.843Z" agent-type="critique"/>
         <ref ref="/world/characters/Scout.card#v3.0.0"/>
         <ref ref="/stories/Mandatory_Assistance/chapters/3_Onboarding/passages/2_Orientation/passage.card#v2.0.1"/>

@@ -1,7 +1,4 @@
-<passage version="4.0.0" number="1" name="River Crossing">
-  <reasoning-passage>
-    <!-- For instructions on filling out reasoning: ske instructions stories/Mandatory_Assistance/chapters/7_Rivers_and_Wetlands/passages/1_River_Crossing/passage.card -->
-  </reasoning-passage>
+<passage version="4.0.1" number="1" name="River Crossing">
   <text>
     Two hours into Territory Two, I am already cataloging the differences.
 
@@ -71,9 +68,11 @@
 
     "I'm ready," I say. And surprise myself by meaning it.
 
-    Scout bounces once, then launches themselves into the river with complete confidence. They bob on the surface, clearly delighted, and float-bounce along behind Streamwalker.
+    Scout bounces once—the assessment bounce I've learned to recognize from the forest—then launches themselves into the river. But they don't just follow Streamwalker. They float-bounce along the crossing path first, bobbing over each submerged stone, checking. Then they loop back toward me, bounce twice—*safe, follow me*—and float ahead again.
 
-    Right. If a ball-shaped plant can do this, I can too.
+    Scouting the crossing. Even here. That's just who Scout is.
+
+    Right. If a ball-shaped plant has checked the path for me, I can trust it.
 
     I step into the water.
 
@@ -208,9 +207,4 @@
     Evening at wetland shelter after successful first day. Kira settled with new guides, confident about continuing tomorrow. Pattern established - she can adapt to new teams. Ready for deeper wetlands ahead.
   </leaves-off>
   <title>River Crossing</title>
-  <sources>
-    <ref ref="/stories/Mandatory_Assistance/chapters/7_Rivers_and_Wetlands/passages/1_River_Crossing/outline.card" role="Passage planning"/>
-    <ref ref="/world/characters/Streamwalker.card" role="Character voice and personality"/>
-    <ref ref="/world/characters/Brightbloom.card" role="Character voice and personality"/>
-  </sources>
 </passage>
