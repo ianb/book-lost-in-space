@@ -1,168 +1,199 @@
 <!-- Generated automatically, do not edit except with ske gen passage-voice -->
-<passage-voice version="3.1.0">
-  <ref ref="passage.card#v3.1.0"/>
-  <reasoning>
-    I reviewed the passage for elements that hinder TTS narration and listed adjustments: 1) Several short, staccato sentences were merged for smoother speech. 2) All dialogue was put on its own line with a lead-in speaker tag so the narrator's voice can clearly identify speakers. 3) Ambiguous internal lines were clarified where the speaker could be confused (internal Mav marked as internal thought). 4) I inserted one dramatic pause marker (¶) where the narrator's sense of awareness and wonder needed room to breathe. 5) Emphasized words originally marked with asterisks were converted to _italics_ for emphasis; the clearly internal thought was converted to «double angle» quotes. 6) I removed inline adverb descriptors like "sounds awed" from the text and instead placed those performance cues in the STAGE_DIRECTIONS. 7) I preserved original meaning and structure without altering story content.
-
-    Items noted that needed adjustment:
-    - Staccato sentences: Several (e.g., "Once.", "An awareness.") merged.
-    - Dialogue without clear lead-in: adjusted so each line has a speaker lead-in and is on its own line.
-    - Ambiguous pronouns: clarified where necessary (kept simple; most pronouns were clear). 
-    - Pauses: added em dashes and a dramatic pause paragraph marker (¶) where appropriate.
-    - Italics/emphasis: converted to _italics_ for emphasis; internal thought converted to «...». 
-    - Symbols: none beyond simple measurements; spelled out "ten centimeters" was kept as numeric context but original already clear.
-    - Unusual names: "Velani" and "Mav" flagged for pronunciation guidance.
-  </reasoning>
+<passage-voice version="3.2.0">
+  <ref ref="passage.card#v3.2.0"/>
+  <reasoning>I reviewed the passage for voiceover needs and looked for short staccato sentences, unclear dialog attribution, ambiguous pronouns, places needing pauses, overly formal phrasing, and italicized/emphasized words that the TTS can't render. I replaced three-dot ellipses with the prescribed ellipsis character (…), used em dashes (—) for medium pauses, inserted a paragraph with only "¶" for a dramatic pause, converted italic/emphasized words to double angle quotes (per the rules), made dialog lines stand alone with lead-ins, grouped multi-beat speaker lines, converted adverb/gesture notes into succinct stage-direction phrasing in the STAGE_DIRECTIONS section, and left the story content unchanged.</reasoning>
   <content-change/>
   <chunks>
     <chunk>
       <text>
         Something drops from the canopy ahead of me.
 
-        I stop dead, heart hammering against my ribs, my hand going instinctively to the emergency beacon at my belt—though what good that would do.
+        I stop dead — my heart hammering against my ribs. My hand goes instinctively to the emergency beacon at my belt, though what good that would do—
 
         The thing sits on the groundcover, completely still.
 
-        It's round, sphere-shaped, maybe the size of a basketball. The surface looks brownish-green and fuzzy—not fur, but something plant-like: thin branches or leaves woven tight together. It just sits there in the filtered purple light, utterly motionless. Not threatening. Just... there.
-
-        I stare at it. It stares back. Does it stare? There are no eyes visible, but I feel a _presence_ to it. An awareness.
-
         ¶
 
-        My heart is pounding, but I'm also—I'm grinning—oh my god.
+        It's — round. Sphere-shaped, maybe the size of a basketball. The surface looks brownish-green and fuzzy — not fur, but something plant-like: thin branches or leaves woven tight together. It just sits in the filtered purple light, utterly motionless.
 
-        I whisper, "Buddy, are you seeing this?"
+        Not threatening. Just — there.
 
-        Buddy says, "*It's... it's ALIVE!*"
+        I stare at it. It stares back — does it stare? There are no eyes visible, but I feel a «presence» to it. My heart is pounding but I'm also — I'm grinning — oh my god.
 
-        The sphere bounces—once. A small hop, maybe ten centimeters off the ground.
+        I whisper,
+        "Buddy — are you seeing this?"
 
-        I gasp—but I'm still grinning.
+        Buddy, awed, says,
+        "It's… it's *ALIVE!* It dropped from the trees — what *IS* it?"
 
-        The sphere bounces again, rolling slightly forward—toward me.
+        The sphere bounces. Once. A small hop — maybe ten centimeters off the ground.
 
-        My voice is shaking but not from fear. I say, "Buddy—this is first contact. *This is THE VELANI EPISODE.*"
+        I gasp — but I'm still grinning.
 
-        Buddy says, "The what?"
+        The sphere bounces again, this time rolling slightly forward — «toward» me.
 
-        I say, "Just—watch. Don't scare it."
+        I say,
+        "Buddy — this is first contact. This is *THE VELANI EPISODE.*"
 
-        The sphere—the _plant ball_—bounces closer, not fast, not aggressive. Its movement has a quality like watching a butterfly: almost random, fluttering this way and that, bouncing in an arc, rolling sideways, then bouncing again in a completely different direction—yet somehow it ends up exactly where it wants to be. Closer to me each time.
+        "The what?" Buddy asks.
+
+        I say,
+        "Just — watch. Don't scare it."
+
+        The sphere — the «plant ball» — bounces closer. Not fast, not aggressive. The movement has a quality like… like watching a butterfly. It flutters this way and that, bouncing in an arc, rolling sideways, bouncing again in a different direction — and somehow it ends up exactly where it intends. Closer to me each time.
 
         Not random. Not mindless. Curious.
 
-        It circles around me at a careful distance, and I turn to keep it in view, wincing as my injured leg protests. The plant sphere continues its circuit, observing me from different angles. Or at least it feels like observation.
+        It circles around me at a careful distance, and I turn to keep it in view, wincing as my injured leg protests. The plant sphere continues its circuit, observing me from different angles. Or at least — it feels like observation.
 
-        I try, "Hello?"
+        I try,
+        "Hello?"
 
-        The sphere keeps bouncing. No response. Just that same gentle tumbling movement.
+        The sphere keeps bouncing. No response — just that same gentle tumbling movement.
 
-        I ask, "Buddy, is it trying to communicate?"
+        I ask,
+        "Buddy, is it trying to communicate?"
 
-        Buddy says, "I'm not receiving any communication signals on standard frequencies. Perhaps it doesn't possess—"
+        Buddy replies,
+        "I'm not receiving any communication signals on standard frequencies. Perhaps it doesn't possess—"
 
-        The plant ball rolls closer, stopping about a meter away, close enough that I can see the surface isn't smooth—tiny branches shift and reposition themselves like fingers flexing. The whole thing seems to breathe, to pulse, to do something.
+        The plant ball rolls closer, stopping about a meter away. Close enough that I can see the surface isn't smooth — tiny branches shift and reposition themselves like fingers flexing. The whole thing seems to breathe, to pulse, or something.
 
         Living. Definitely living. And moving with clear purpose.
 
-        My heart is still racing, but it doesn't feel threatening. It feels more like when you meet a friendly dog and it sniffs you, trying to figure out what you are—curious, investigating.
+        My heart is still racing, but it doesn't feel threatening. It feels more like — when you meet a friendly dog and it sniffs you, trying to figure out what you are. Curious. Investigating.
 
-        Internal Mav: «First contact rule one: show you're not a threat.»
+        Internal Mav — «First contact rule one: show you're not a threat.»
 
-        I crouch down slowly, careful of my injured leg, getting to the plant's level. I say softly, "Hello. I'm Kira."
+        I crouch down slowly, careful of my injured leg, getting to the plant's level.
 
-        The sphere bounces enthusiastically—three quick hops.
+        I say softly,
+        "Hello — I'm Kira."
 
-        Buddy says, "It's coming toward you! Is that good? Should we be scared?"
+        The sphere bounces enthusiastically — three quick hops.
 
-        I say, "I don't think so. Look at it—it's curious. Just like us."
+        Buddy says, excited,
+        "It's coming toward you! Is that good? Should we be scared?"
+
+        I say,
+        "I don't think so. Look at it — it's curious. Just like us."
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: Wonder and cautious excitement—measured curiosity with sudden small bursts of awe. Keep the pace generally steady, slowing for moments of observation and pausing briefly at the dramatic marker.
+        Tone &amp; pacing: Measured curiosity that builds to excited wonder; calm, observational delivery with occasional brighter emphasis when the narrator grows excited.
 
-        - For "I stop dead, heart hammering..." adopt an abrupt stop then a short, breathy intake—hold a medium pause on the em dash.
-        - At the paragraph break marked "¶" take a long, silent beat (dramatic pause) before continuing.
-        - Read narrator lines with curious warmth; when describing the sphere's motion, flatten to calm, observational cadence.
-        - For Buddy's line "*It's... it's ALIVE!*" deliver loud and awed—surprised, breathy, and excited.
-        - For narrator lines like "*This is THE VELANI EPISODE.*" voice should shake slightly with excitement; emphasize "THE VELANI EPISODE" noticeably but not angrily.
-        - Render Internal Mav («First contact rule one...») softer and inward, as an internal aside—slightly quicker, lower volume.
-        - For the sphere's bounces and hops use small rhythmic beats in the voice when reading those action fragments (e.g., "The sphere bounces—once.").
+        - Read the opening line with a sharp, surprised stop on "I stop dead —" then slow into the next clause.
+        - Pause dramatically at the paragraph containing only "¶" to let the image settle.
+        - For the line "I whisper," lower volume and slow pace, then place the dialog line on its own with a slightly brighter tone.
+        - When reading Buddy's dialog, convey awe and rising excitement; make *ALIVE!* louder and sharper.
+        - Emphasize the words in *bold* as louder/forceful moments (for example: *THE VELANI EPISODE*).
+        - For internal Mav (the «» section), use a slightly inward, reflective tone—quieter than narration.
+        - Use small, curious inflections for descriptions of the sphere's movement; when the narrator grins, brighten the voice.
+        - Keep the ending lines calm and affectionate, gentle reassurance on "I don't think so..."
       </stage-directions>
     </chunk>
     <chunk>
       <text>
-        I ask the sphere, "Are you trying to figure me out?"
-        I add, "Because same, honestly."
-        The sphere bounces again, rolling forward.
-        Buddy says, *"Kira! You're talking to an ALIEN!"*
-        I grin like an idiot and say, "I know! I KNOW!"
-        The sphere rolls forward—closer, right up to me, examining.
-        It begins to circle me again, slower this time—deliberate; then it stops at my injured leg, the bandage visible through my torn pants, and bounces in place—focused.
-        I hold very still.
-        A small tendril extends from the sphere's surface—thin, delicate, reaching toward my bandage, getting closer.
-        My breath catches—the tendril is maybe five centimeters away now, stretching out so carefully, so _gently_—
-        I jerk back, scrambling to my feet; pain explodes through my leg and I gasp, grabbing at the injury.
-        The plant ball rolls backward—fast, several meters—then stops. It just sits there, not approaching.
-        I stand, breathing hard, one hand pressed against my thigh; my heart hammers. That was pure instinct, a pure fear response—something unknown reaching for me and every animal part of my brain screamed _danger_.
-        But looking at the sphere now… it isn't moving—it backed off the instant I flinched and gave me space.
-        It wasn't attacking; it was concerned—curious about my injury, trying to help.
-        I'm embarrassed—Mav never would have flinched. I say, "No, wait—I'm sorry. That was my fault. I didn't mean to scare you."
-        The plant ball doesn't move; it just sits there, giving me space.
-        Buddy says quietly, "I think you hurt its feelings."
-        I say, "I know." I feel terrible—"I know."
-        First contact—actual first contact—and I flinched at a creature trying to help me. Some explorer I'm turning out to be.
-        I take a slow breath and crouch down again. I say softly, "It's okay—you can… I'm okay. I just got scared."
-        The sphere hesitates—at least it feels like hesitation—then rolls forward slowly and stops closer this time, but not touching, giving me space.
+        I ask the sphere — "Are you trying to figure me out? Because same, honestly."
+
+        The sphere bounces more.
+
+        I say — "I'm going to take that as a yes."
+
+        Buddy exclaims, joyfully — "Kira! You're talking to an *ALIEN*!"
+
+        I say, grinning like an idiot — "I know — I KNOW!"
+
+        The sphere rolls forward, closer, right up to me, examining. It begins to circle me again, slower this time — deliberate. It stops at my injured leg, the bandage visible through my torn pants, and bounces in place — focused.
+
+        I hold very still. The sphere rolls closer, right up against my leg, pressing gently against the bandage — examining.
+
+        My breath catches. It's _touching_ me now, the fuzzy surface brushing against my injured leg so carefully, so _gently_…
+
+        I jerk back, scrambling to my feet. Pain explodes through my leg and I gasp, grabbing at the injury.
+
+        The plant ball immediately rolls backward fast, several meters, then stops. It just sits there, not approaching.
+
+        I stand, breathing hard, one hand pressed against my thigh. My heart hammers. That was pure instinct — pure fear response. Something unknown reached for me and every animal part of my brain screamed *danger*.
+
+        But looking at the sphere now… it isn't moving — it backed off the instant I flinched, gave me space.
+
+        It wasn't attacking — it was concerned, curious about my injury, trying to help.
+
+        I say, embarrassed — "No, wait — I'm sorry. That was my fault. I didn't mean to scare you."
+
+        The plant ball doesn't move, just sits there, giving me space.
+
+        Buddy says, quietly — "I think you hurt its feelings."
+
+        I say, feeling terrible — "I know."
+
+        First contact — actual first contact — and I flinched at a creature trying to help me. Some explorer I'm turning out to be.
+
+        I take a slow breath, then crouch down again.
+
+        I say — "It's okay — you can—I'm okay. I just got scared."
+
+        The sphere hesitates — at least it feels like hesitation — then rolls forward slowly. It stops closer this time, but not touching, giving me space.
+
         We regard each other.
-        No words, no shared language, but _something_ passes between us in that moment—some kind of… recognition?
-        The plant is curious and I'm curious—same thing, different species. This is what Mav talks about—the connection before language.
-        I say softly, "Thank you—for trying to help."
-        The sphere bounces once—an acknowledgment?
+
         ¶
-        The moment hangs in the purple twilight, in the eerie quiet of the alien forest—human and plant-thing watching each other.
-        Then the sphere suddenly shifts—its whole surface rippling as branches realign—it orients toward the trees, no eyes but the direction unmistakable.
-        More movement approaches; I can hear it now—rustling in the canopy, the sound of many things moving through the branches—others coming.
-        The plant ball bounces once more—definite farewell—then tumbles away rapidly toward the approaching sounds, disappearing into the purple shadows between the trees.
+
+        No words, no shared language, but _something_ passes between us in that moment — some kind of… recognition? The plant is curious. I'm curious. Same thing, different species.
+
+        This is what Mav talks about — the connection before language.
+
+        I say softly — "Thank you. For trying to help."
+
+        The sphere bounces once — acknowledgment?
+
+        The moment hangs there in the purple twilight, in the eerie quiet of the alien forest — human and plant-thing, watching each other.
+
+        Then the sphere suddenly shifts: its whole surface rippling, branches realigning. It orients toward the trees.
+
+        More movement approaches — I can hear it now, rustling in the canopy, the sound of many things moving through the branches.
+
+        The plant ball bounces once more — definitely farewell — then tumbles away rapidly toward the approaching sounds, disappearing into the purple shadows between the trees.
+
         I stand slowly, grinning despite everything.
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: Warm, curious, and cautious—measured observation with sudden spikes of startled energy. Slow down for reflective beats and use short, rhythmic pops for the sphere's bounces.
+        Tone &amp; pacing: Gentle, curious, and intimate, shifting briefly into startled tension, then settling into calm wonder; keep measured pacing with brighter emphasis on exclamations.
 
-        - For "I ask the sphere, \"Are you trying to figure me out?\"" use light, playful curiosity.
-        - For Buddy's line "*\"Kira! You're talking to an ALIEN!\"*" deliver loud and breathy excitement—surprised joy.
-        - On "My breath catches—the tendril..." take a medium pause on the em dash—hold the breathiness.
-        - For the flinch: make the "I jerk back..." abrupt and sharp—sudden intake of breath, immediate wince.
-        - After "The sphere bounces once—an acknowledgment?" insert a long, silent beat at the paragraph containing only "¶"—hold the pause, then continue slowly.
-        - When the moment hangs in the purple twilight, slow the cadence and soften the voice to reflective wonder.
-        - For the sphere's departures and bounces ("bounces once", "bounces once more") use small rhythmic emphasis—shorter, staccato beats—then relax into the final grin.
+        - Read the opening line with a light, curious inflection on "I ask the sphere —" then a conversational delivery for the quote.
+        - For Buddy's line, brighten and raise volume slightly on "You're talking to an *ALIEN*!" to convey awe.
+        - When the narrator reacts ("My breath catches... I jerk back"), snap into a quicker, more breathy cadence to sell the surprise and pain.
+        - On internal regret lines ("I say, embarrassed — ..." / "I say, feeling terrible — ..."), lower volume and slow pace; keep them intimate.
+        - Pause briefly at each em dash — for a medium pause — and use the paragraph-only "¶" as a long, reflective pause after "We regard each other."
+        - Make the final lines quieter and warm, with a small, rueful smile in the voice on "I stand slowly, grinning despite everything."
       </stage-directions>
     </chunk>
     <chunk>
       <text>
-        I say, "Buddy, that was *FIRST CONTACT*."
+        I say to Buddy — "Buddy, that was *FIRST CONTACT*."
 
-        Buddy says, "*That was amazing! You did so well! What do you think it was?*"
+        Buddy replies — "That was amazing — you did so well — what do you think it was?"
 
-        I say, "I don't know—there are more coming."
+        I say — "I don't know — but there are more coming."
 
-        The sounds are getting closer—more rustling, more movement.
+        The sounds are getting closer — more rustling, more movement.
 
-        I can't wait to find out what else lives on this planet.
+        And I can't wait — time to find out what else lives on this planet.
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: Warm and curious with a cautious undercurrent—build from surprised joy into quiet tension, then end on eager anticipation.
+        Overall tone &amp; pacing: Warm and curious, building to bright excitement, then a subtle tightening of tension as sounds approach, finishing on eager wonder.
 
-        - For "I say, "Buddy, that was *FIRST CONTACT*."": deliver warm wonder; small, delighted emphasis on "FIRST CONTACT."  
-        - For "Buddy says, "*That was amazing! You did so well! What do you think it was?*"": full-throated excitement—louder and breathy; treat as a burst of joy.  
-        - For "I say, "I don't know—there are more coming."": measured, slightly tense—use the em dash as a medium pause, then a calm, wary finish.  
-        - For "The sounds are getting closer—more rustling, more movement.": lower the volume; slow down and tighten the delivery—build quiet tension across the clause break.  
-        - For the final line "I can't wait to find out what else lives on this planet.": release into eager anticipation—brighter, quicker, hopeful.  
-        - Keep transitions smooth; avoid abrupt jumps in tone except where noted.  
+        - Read "I say to Buddy —" in a close, conversational voice; then brighten and raise volume slightly on the quoted line "Buddy, that was *FIRST CONTACT*." — emphasize *FIRST CONTACT*.
+        - For "Buddy replies —" shift to fast, delighted energy; treat the em dashes as short, surprised beats: "That was amazing — you did so well — what do you think it was?"
+        - On "I say — \"I don't know — but there are more coming.\"" lower the volume a touch, add a trace of awe and concern across the em dash.
+        - For "The sounds are getting closer — more rustling, more movement." increase pacing slightly and lean into "closer" — a subtle edge of tension; pause at the em dash.
+        - Read "And I can't wait — time to find out what else lives on this planet." with eager anticipation; let "can't wait" have a slight rush, then settle into warm curiosity for the final phrase.
         - Closing cadence: Soft landing; warm fall, lingering last syllable, cozy pause.
       </stage-directions>
     </chunk>
   </chunks>
   <unusual-pronunciations>
+    <word text="Kira"/>
     <word text="Mav"/>
     <word text="Velani"/>
   </unusual-pronunciations>
@@ -170,104 +201,144 @@
   <combined-text>
     Something drops from the canopy ahead of me.
 
-    I stop dead, heart hammering against my ribs, my hand going instinctively to the emergency beacon at my belt—though what good that would do.
+    I stop dead — my heart hammering against my ribs. My hand goes instinctively to the emergency beacon at my belt, though what good that would do—
 
     The thing sits on the groundcover, completely still.
 
-    It's round, sphere-shaped, maybe the size of a basketball. The surface looks brownish-green and fuzzy—not fur, but something plant-like: thin branches or leaves woven tight together. It just sits there in the filtered purple light, utterly motionless. Not threatening. Just... there.
+    It's — round. Sphere-shaped, maybe the size of a basketball. The surface looks brownish-green and fuzzy — not fur, but something plant-like: thin branches or leaves woven tight together. It just sits in the filtered purple light, utterly motionless.
 
-    I stare at it. It stares back. Does it stare? There are no eyes visible, but I feel a _presence_ to it. An awareness.
+    Not threatening. Just — there.
 
-    My heart is pounding, but I'm also—I'm grinning—oh my god.
+    I stare at it. It stares back — does it stare? There are no eyes visible, but I feel a «presence» to it. My heart is pounding but I'm also — I'm grinning — oh my god.
 
-    I whisper, "Buddy, are you seeing this?"
+    I whisper,
+    "Buddy — are you seeing this?"
 
-    Buddy says, "*It's... it's ALIVE!*"
+    Buddy, awed, says,
+    "It's… it's *ALIVE!* It dropped from the trees — what *IS* it?"
 
-    The sphere bounces—once. A small hop, maybe ten centimeters off the ground.
+    The sphere bounces. Once. A small hop — maybe ten centimeters off the ground.
 
-    I gasp—but I'm still grinning.
+    I gasp — but I'm still grinning.
 
-    The sphere bounces again, rolling slightly forward—toward me.
+    The sphere bounces again, this time rolling slightly forward — «toward» me.
 
-    My voice is shaking but not from fear. I say, "Buddy—this is first contact. *This is THE VELANI EPISODE.*"
+    I say,
+    "Buddy — this is first contact. This is *THE VELANI EPISODE.*"
 
-    Buddy says, "The what?"
+    "The what?" Buddy asks.
 
-    I say, "Just—watch. Don't scare it."
+    I say,
+    "Just — watch. Don't scare it."
 
-    The sphere—the _plant ball_—bounces closer, not fast, not aggressive. Its movement has a quality like watching a butterfly: almost random, fluttering this way and that, bouncing in an arc, rolling sideways, then bouncing again in a completely different direction—yet somehow it ends up exactly where it wants to be. Closer to me each time.
+    The sphere — the «plant ball» — bounces closer. Not fast, not aggressive. The movement has a quality like… like watching a butterfly. It flutters this way and that, bouncing in an arc, rolling sideways, bouncing again in a different direction — and somehow it ends up exactly where it intends. Closer to me each time.
 
     Not random. Not mindless. Curious.
 
-    It circles around me at a careful distance, and I turn to keep it in view, wincing as my injured leg protests. The plant sphere continues its circuit, observing me from different angles. Or at least it feels like observation.
+    It circles around me at a careful distance, and I turn to keep it in view, wincing as my injured leg protests. The plant sphere continues its circuit, observing me from different angles. Or at least — it feels like observation.
 
-    I try, "Hello?"
+    I try,
+    "Hello?"
 
-    The sphere keeps bouncing. No response. Just that same gentle tumbling movement.
+    The sphere keeps bouncing. No response — just that same gentle tumbling movement.
 
-    I ask, "Buddy, is it trying to communicate?"
+    I ask,
+    "Buddy, is it trying to communicate?"
 
-    Buddy says, "I'm not receiving any communication signals on standard frequencies. Perhaps it doesn't possess—"
+    Buddy replies,
+    "I'm not receiving any communication signals on standard frequencies. Perhaps it doesn't possess—"
 
-    The plant ball rolls closer, stopping about a meter away, close enough that I can see the surface isn't smooth—tiny branches shift and reposition themselves like fingers flexing. The whole thing seems to breathe, to pulse, to do something.
+    The plant ball rolls closer, stopping about a meter away. Close enough that I can see the surface isn't smooth — tiny branches shift and reposition themselves like fingers flexing. The whole thing seems to breathe, to pulse, or something.
 
     Living. Definitely living. And moving with clear purpose.
 
-    My heart is still racing, but it doesn't feel threatening. It feels more like when you meet a friendly dog and it sniffs you, trying to figure out what you are—curious, investigating.
+    My heart is still racing, but it doesn't feel threatening. It feels more like — when you meet a friendly dog and it sniffs you, trying to figure out what you are. Curious. Investigating.
 
-    Internal Mav: «First contact rule one: show you're not a threat.»
+    Internal Mav — «First contact rule one: show you're not a threat.»
 
-    I crouch down slowly, careful of my injured leg, getting to the plant's level. I say softly, "Hello. I'm Kira."
+    I crouch down slowly, careful of my injured leg, getting to the plant's level.
 
-    The sphere bounces enthusiastically—three quick hops.
+    I say softly,
+    "Hello — I'm Kira."
 
-    Buddy says, "It's coming toward you! Is that good? Should we be scared?"
+    The sphere bounces enthusiastically — three quick hops.
 
-    I say, "I don't think so. Look at it—it's curious. Just like us."
+    Buddy says, excited,
+    "It's coming toward you! Is that good? Should we be scared?"
 
-    I ask the sphere, "Are you trying to figure me out?"
-    I add, "Because same, honestly."
-    The sphere bounces again, rolling forward.
-    Buddy says, *"Kira! You're talking to an ALIEN!"*
-    I grin like an idiot and say, "I know! I KNOW!"
-    The sphere rolls forward—closer, right up to me, examining.
-    It begins to circle me again, slower this time—deliberate; then it stops at my injured leg, the bandage visible through my torn pants, and bounces in place—focused.
-    I hold very still.
-    A small tendril extends from the sphere's surface—thin, delicate, reaching toward my bandage, getting closer.
-    My breath catches—the tendril is maybe five centimeters away now, stretching out so carefully, so _gently_—
-    I jerk back, scrambling to my feet; pain explodes through my leg and I gasp, grabbing at the injury.
-    The plant ball rolls backward—fast, several meters—then stops. It just sits there, not approaching.
-    I stand, breathing hard, one hand pressed against my thigh; my heart hammers. That was pure instinct, a pure fear response—something unknown reaching for me and every animal part of my brain screamed _danger_.
-    But looking at the sphere now… it isn't moving—it backed off the instant I flinched and gave me space.
-    It wasn't attacking; it was concerned—curious about my injury, trying to help.
-    I'm embarrassed—Mav never would have flinched. I say, "No, wait—I'm sorry. That was my fault. I didn't mean to scare you."
-    The plant ball doesn't move; it just sits there, giving me space.
-    Buddy says quietly, "I think you hurt its feelings."
-    I say, "I know." I feel terrible—"I know."
-    First contact—actual first contact—and I flinched at a creature trying to help me. Some explorer I'm turning out to be.
-    I take a slow breath and crouch down again. I say softly, "It's okay—you can… I'm okay. I just got scared."
-    The sphere hesitates—at least it feels like hesitation—then rolls forward slowly and stops closer this time, but not touching, giving me space.
+    I say,
+    "I don't think so. Look at it — it's curious. Just like us."
+
+    I ask the sphere — "Are you trying to figure me out? Because same, honestly."
+
+    The sphere bounces more.
+
+    I say — "I'm going to take that as a yes."
+
+    Buddy exclaims, joyfully — "Kira! You're talking to an *ALIEN*!"
+
+    I say, grinning like an idiot — "I know — I KNOW!"
+
+    The sphere rolls forward, closer, right up to me, examining. It begins to circle me again, slower this time — deliberate. It stops at my injured leg, the bandage visible through my torn pants, and bounces in place — focused.
+
+    I hold very still. The sphere rolls closer, right up against my leg, pressing gently against the bandage — examining.
+
+    My breath catches. It's _touching_ me now, the fuzzy surface brushing against my injured leg so carefully, so _gently_…
+
+    I jerk back, scrambling to my feet. Pain explodes through my leg and I gasp, grabbing at the injury.
+
+    The plant ball immediately rolls backward fast, several meters, then stops. It just sits there, not approaching.
+
+    I stand, breathing hard, one hand pressed against my thigh. My heart hammers. That was pure instinct — pure fear response. Something unknown reached for me and every animal part of my brain screamed *danger*.
+
+    But looking at the sphere now… it isn't moving — it backed off the instant I flinched, gave me space.
+
+    It wasn't attacking — it was concerned, curious about my injury, trying to help.
+
+    I say, embarrassed — "No, wait — I'm sorry. That was my fault. I didn't mean to scare you."
+
+    The plant ball doesn't move, just sits there, giving me space.
+
+    Buddy says, quietly — "I think you hurt its feelings."
+
+    I say, feeling terrible — "I know."
+
+    First contact — actual first contact — and I flinched at a creature trying to help me. Some explorer I'm turning out to be.
+
+    I take a slow breath, then crouch down again.
+
+    I say — "It's okay — you can—I'm okay. I just got scared."
+
+    The sphere hesitates — at least it feels like hesitation — then rolls forward slowly. It stops closer this time, but not touching, giving me space.
+
     We regard each other.
-    No words, no shared language, but _something_ passes between us in that moment—some kind of… recognition?
-    The plant is curious and I'm curious—same thing, different species. This is what Mav talks about—the connection before language.
-    I say softly, "Thank you—for trying to help."
-    The sphere bounces once—an acknowledgment?
 
-    The moment hangs in the purple twilight, in the eerie quiet of the alien forest—human and plant-thing watching each other.
-    Then the sphere suddenly shifts—its whole surface rippling as branches realign—it orients toward the trees, no eyes but the direction unmistakable.
-    More movement approaches; I can hear it now—rustling in the canopy, the sound of many things moving through the branches—others coming.
-    The plant ball bounces once more—definite farewell—then tumbles away rapidly toward the approaching sounds, disappearing into the purple shadows between the trees.
+    No words, no shared language, but _something_ passes between us in that moment — some kind of… recognition? The plant is curious. I'm curious. Same thing, different species.
+
+    This is what Mav talks about — the connection before language.
+
+    I say softly — "Thank you. For trying to help."
+
+    The sphere bounces once — acknowledgment?
+
+    The moment hangs there in the purple twilight, in the eerie quiet of the alien forest — human and plant-thing, watching each other.
+
+    Then the sphere suddenly shifts: its whole surface rippling, branches realigning. It orients toward the trees.
+
+    More movement approaches — I can hear it now, rustling in the canopy, the sound of many things moving through the branches.
+
+    The plant ball bounces once more — definitely farewell — then tumbles away rapidly toward the approaching sounds, disappearing into the purple shadows between the trees.
+
     I stand slowly, grinning despite everything.
 
-    I say, "Buddy, that was *FIRST CONTACT*."
+    I say to Buddy — "Buddy, that was *FIRST CONTACT*."
 
-    Buddy says, "*That was amazing! You did so well! What do you think it was?*"
+    Buddy replies — "That was amazing — you did so well — what do you think it was?"
 
-    I say, "I don't know—there are more coming."
+    I say — "I don't know — but there are more coming."
 
-    The sounds are getting closer—more rustling, more movement.
+    The sounds are getting closer — more rustling, more movement.
 
-    I can't wait to find out what else lives on this planet.
+    And I can't wait — time to find out what else lives on this planet.
   </combined-text>
 </passage-voice>

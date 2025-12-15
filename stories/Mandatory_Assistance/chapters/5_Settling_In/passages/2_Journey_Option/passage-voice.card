@@ -1,295 +1,327 @@
 <!-- Generated automatically, do not edit except with ske gen passage-voice -->
-<passage-voice version="2.0.0">
-  <ref ref="passage.card#v2.0.0"/>
-  <reasoning>
-    <!-- For instructions on filling out reasoning: ske instructions stories/Mandatory_Assistance/chapters/5_Settling_In/passages/2_Journey_Option/passage-voice.card -->
-  </reasoning>
+<passage-voice version="3.0.0">
+  <ref ref="passage.card#v3.0.0"/>
+  <reasoning>Reviewed the passage for voiceover needs. Noted multiple short, staccato sentences to merge; several dialog lines where speaker attribution should be lead-in then quote; ambiguous pronouns were minimal but clarified who is speaking; places that need medium or long pauses flagged (em dashes and a dramatic pause); some gestures and non-voice sounds converted to stage-direction brackets; all internal thoughts and italics handling rules checked (none to convert); symbols none; ensured dialog 'pops' and that repeated beats by the same speaker are combined with em dashes.</reasoning>
   <content-change/>
   <chunks>
     <chunk>
       <text>
-        Over the next hour, Holloway explains how the journey would work — and it is, predictably, complicated.
+        Over the next hour, Holloway explains the journey—and it sounds *AMAZING*.
 
-        Multiple fruiting bodies consult coordination documents that materialize as fungal growth along the walls as Holloway outlines the plan.
+        Holloway says, "So the third territory's river system requires specialized guides, which is why I mentioned the timing." [multiple fruiting bodies consult coordination documents—fungal growth materializes along the walls]
 
-        Holloway says, "The route to Elder Heartwood's grove passes through seven distinct network territories — each territory has its own coordination network, protocols, and jurisdiction requirements. Territory One is here — this facility's network. Territory Two begins approximately three days' travel east. Then Territory Three, Four — culminating in Territory Seven, where Elder Heartwood's Ancient Grove resides."
+        I blink and say, "Wait, what? You mentioned timing?"
 
-        I take notes on a salvaged data pad. Scout watches from my lap, occasionally bouncing encouragingly.
+        Holloway says, "Yes—earlier, about the seasonal water levels—oh, that was a different fruiting body, in the medical wing. You weren't there." [fruiting bodies rustle apologetically]
 
-        I ask, "Three days between territories? So, roughly twenty-one days total?"
+        I say, "I... wasn't, no."
 
-        Holloway replies, "Approximately! Though some territories are smaller, others larger — and travel pace depends on various factors — terrain conditions, rest requirements, processing time at territorial boundaries..."
+        Holloway says, "Right—sorry, distributed consciousness. I sometimes forget which conversations happened where. Let me start from the beginning. The route to Elder Heartwood's grove passes through seven distinct network territories. Each territory has its own coordination network, protocols, and jurisdiction requirements."
 
-        I ask, "Processing time?"
-
-        Holloway says, "Each territorial boundary requires coordination transfer — permissions verification — documentation review — guide handoff protocols."
-
-        Of course — bureaucracy doesn't stop just because you're traveling.
+        Seven territories. *SEVEN*.
 
         ¶
 
-        But still — two to three weeks of moving forward, making progress, getting closer to the goal, versus two months of sitting still.
+        I whisper to Buddy, "Buddy—this is the pilgrimage episode. Season 3, when Mav crosses through seven kingdoms to reach the Temple."
+
+        Buddy says, "I noticed!" [delighted]
+
+        Buddy says, "Different cultures! Border crossings! I wonder if they have toll roads."
+
+        Holloway says, "Territory One is here—this facility's network. Territory Two begins approximately three days' travel east. Then Territory Three, Four..." [a fungal diagram grows across the wall—more abstract art than a map]
+
+        Holloway continues, "Culminating in Territory Seven, where Elder Heartwood's Ancient Grove resides."
+
+        Buddy asks, "What are the different territories like? Are they all forests?"
+
+        Holloway says, "Excellent question—no, quite varied. Territory Two is dense forest. Territory Three transitions to wetlands and river systems. Territory Four involves significant elevation changes—hills and rocky terrain. Then we return to forest, then plains, and finally the Ancient Grove."
+
+        I say, "Different landscapes!" [practically bouncing as much as Scout]
+
+        I add, "Different plant cultures! Different *PAPERWORK*!"
+
+        Holloway says, "Each territory does have distinct administrative approaches—some more formal, others more relaxed."
+
+        I ask, "MORE formal than this? Is that possible?"
+
+        [fruiting bodies rustle—plant laughter]
 
         I ask, "What about guides? You mentioned guide assignments?"
 
-        Holloway says, "Yes! Travelers require guides familiar with routes and territorial protocols. Different networks specialize in different terrains — some guides excel at forest navigation, others at river crossing, others at mountain passages. You'd be assigned appropriate guides for each territory."
+        Holloway says, "Yes—travelers require guides familiar with routes and territorial protocols. Different networks specialize in different terrains: some guides excel at forest navigation, others at river crossing, others at mountain passages."
 
-        I ask, "Multiple guides? Like, different plants for different sections?"
+        I ask, "Multiple guides? Like different plants for different sections?"
 
-        Holloway answers, "Exactly. Each territory would provide guides skilled in their local conditions. They'd escort you to the next boundary, coordinate transfer, and return home while the next territory's guides take over."
+        Holloway says, "Exactly. Each territory provides guides skilled in local conditions. They escort you to the next boundary, coordinate transfer, and return home while the next territory's guides take over."
 
-        I try to imagine it — a plant relay race, with me as the baton being passed between runners. Weird, but functional.
+        I grin, "A relay race—I'm the baton!"
 
-        Holloway says, "Oh yes. Formal arrival notification would be filed through coordination channels — Elder's grove would prepare appropriate reception protocols. Though..." — Holloway's voice takes on that uncertain quality again — "this is quite unusual. Most beings simply wait for query responses. Physical journeys to Elder Heartwood are rare."
+        Holloway says, "An excellent metaphor."
 
-        Holloway adds, "But possible. Yes — absolutely possible. Just uncommon."
-
-        Buddy says, "Kira, I should mention that extended travel involves certain risks — unfamiliar terrain, potential exposure to elements, physical exertion while still recovering from injury —"
-
-        I say, "My injury's healed — Remedy cleared me yesterday. Wound fully closed, tissue regenerated. I'm fine."
+        Buddy asks, "What happens at the boundaries? Is there, like, passport control?"
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: Evenly paced, conversational with moments of quiet reflection — keep explanations clear and deliberate, with small, wry amusement when the narrator imagines the relay.
+        Overall tone: conversational, curious, and lightly amused; pace is mostly steady with quick moments of excitement and a few deliberate pauses for emphasis.
 
-        - Narration: read the opening line evenly, with a slight weary smile on "predictably, complicated." 
-        - "Holloway says, \"The route to Elder Heartwood's grove...\"": calm, methodical, like someone reading a technical briefing — use medium pauses at each em dash.
-        - "I ask, \"Three days between territories?\"": curious, a touch of surprise — brief upward intonation on the question.
-        - "Of course — bureaucracy...": wry, almost resigned; place a longer beat at the pilcrow paragraph (¶) that follows.
-        - "But still — two to three weeks...": reflective, slightly hopeful; use the em dash as a medium pause for emphasis.
-        - Buddy's warning: slightly concerned, practical — increase firmness on the enumerated risks with medium pauses between clauses.
-        - Final line, narrator's reply: confident, clipped reassurance; end with a short, definite stop on "I'm fine."
+        - Read the Holloway lines with a musical, woodwind-like flute quality—airy and slightly melodic; reference: the lines that begin with "Holloway says,"
+        - Put each dialog line on its own line and use the preceding "X says," lead-in. For example, read the phrase "Holloway says, "So the third territory's river system requires specialized guides..." as a single spoken beat.
+        - Emphasize *AMAZING*, *SEVEN*, and *PAPERWORK* with noticeably more volume and excitement—these are marked in the text with asterisks.
+        - Treat each em dash (—) as a medium pause (~300-400ms). For example, pause slightly at "Yes—earlier," and "Territory One is here—this facility's network."
+        - Treat ellipses (...) as a trailing/hesitant pause (~500-600ms); for example at "Then Territory Three, Four..."
+        - When you see a bracketed stage direction like "[fruiting bodies rustle apologetically]", make it brief and descriptive—soft background sound or a shift in tone rather than full narration.
+        - When you encounter the isolated paragraph containing only "¶", insert a long dramatic pause (about 1 second) before continuing.
       </stage-directions>
     </chunk>
     <chunk>
       <text>
-        Holloway says, "Physically, yes! But metabolically, you're still adjusting to the local nutrition. Extended travel might stress your system further."
+        Holloway says, "Permission verification, documentation review, coordination transfer protocols—very organized process."
 
-        Valid point—annoying, but valid.
+        I say, "Border bureaucracy—seven different sets of border bureaucracy. This is incredible."
 
-        I ask Holloway, "What about food? For the journey? I can't exactly pack mushroom paste for three weeks."
+        Holloway explains food arrangements—each territory synthesizes mushroom paste, still terrible but consistent; shelter—rest facilities throughout; water—varies by terrain; guides ensure access.
 
-        Holloway replies, "Each territory would provide appropriate nutrition—guide plants can synthesize compounds compatible with human requirements. We'd transmit your dietary documentation ahead via network coordination. Meals would be available at each stop."
+        Every detail makes it more real—this isn't hypothetical; this is an actual journey I could take.
 
-        Scout bounces approvingly—mushroom paste will follow me on the road.
+        I ask, "How soon could I leave—if I filed the travel request?"
 
-        Fantastic.
+        Holloway says, "Guide availability varies—current assessment suggests perhaps three to four days for arrangements."
 
-        I ask, "Shelter? Water? All the basic survival stuff?"
+        I say, "So... four days prep, twenty-one days travel—about twenty-five days total?"
 
-        Holloway says, "Territories maintain rest facilities for travelers—smaller than this facility, but functional. Water access varies by terrain; some territories have abundant springs, others require more careful resource management. Your guides would ensure appropriate provisions."
+        Holloway says, "Approximately! Variables include rest stops, boundary processing, terrain conditions."
 
-        I process this—so basically, a bureaucratic road trip: multiple territories, multiple guides, documentation at every boundary, mushroom paste the whole way.
+        Twenty-five days of adventure—through seven territories, meeting seven different plant cultures—versus sitting here for two more months.
 
-        ¶
+        Holloway says gently, "There are considerations to discuss—the journey involves challenges: unfamiliar territories, different network protocols, physical exertion over multiple weeks."
 
-        And at the end, Elder Heartwood—an actual face-to-face meeting instead of waiting months for relay communication.
+        I say, "Challenges are part of the adventure!"
+        I add, "Mav would say—'fear is just excitement that forgot to smile.'"
 
-        I ask, "How soon could I leave if I filed the travel request?"
+        Holloway admits, "That's... actually quite wise."
 
-        Holloway consults, then says, "Guide availability varies... Current assessment suggests… perhaps three to four days for arrangements—filing the request, securing guide assignments, preparing documentation, coordinating with receiving territories..."
+        I add, "Also—I can't promise I won't try to pet interesting plants; that might be a challenge."
 
-        Three to four days—so, total timeline: call it four days of prep plus twenty-one days of travel—twenty-five days, roughly.
+        Buddy laughs. Scout bounces—possibly volunteering as the designated petting recipient.
 
-        Versus the fifty-one to seventy-seven days of waiting I was counting this morning—half the time, maybe less.
+        Holloway continues, "And Elder Heartwood's response might not be immediate—even when you arrive. They exist in very slow time. You could journey three weeks and still wait for Elder to process your presence."
 
-        And I'd be _doing something_.
+        I say, "But I'd be there—in person! Much better than waiting for relay transmission."
 
-        Scout bounces in my lap, sensing the energy building.
+        Holloway says, "True! Direct presence does facilitate communication—though I should mention: Elder Heartwood's wisdom is profound, but they may not have the answers you seek."
 
-        Holloway says gently, "There are considerations to discuss—the journey involves challenges: traveling through unfamiliar territories, adapting to different network protocols, physical exertion over multiple weeks. And Elder Heartwood exists in very slow time—you could journey three weeks and still wait additional time for Elder to process your presence and formulate guidance."
+        I nod and say, "I know. But even if Elder can't help with getting home, I'll have traveled through seven territories, met different plant cultures, learned things I never would have learned here—that's worth something."
 
-        I say, "But I'd be there—in person. Able to communicate directly once Elder was ready. Not waiting for relay transmission through seven territories."
+        Buddy says thoughtfully, "Even if the quest doesn't give you what you expect—the journey itself has value."
 
-        Holloway replies, "True! Direct presence does facilitate certain types of communication. Though I should mention—Elder Heartwood's wisdom is profound, but Elder may not have the answers you seek. They handle exceptions, yes, but 'stranded human needing rescue' may be beyond even Elder's capabilities."
+        I exclaim, "*LITERALLY* a Mav quote—season two, episode seven!"
 
-        I've considered that, of course—Elder Heartwood is very old and very wise, not a magic solution to impossible problems.
+        Buddy says, "Is it? I was just saying what seemed true."
 
-        But sitting here waiting isn't a solution either.
+        I say, "Buddy, you're becoming wise—it's concerning."
+
+        Holloway's fruiting bodies rustle—warmth in the sound.
+
+        Holloway says, "I think the journey might serve you well—meeting different communities, engaging with diverse perspectives... valuable experiences."
+
+        I say, "I want to do it—the decision was made the moment I heard *SEVEN* territories."
+
+        Scout bounces enthusiastically.
+
+        I ask, "Buddy, you're coming, right? You can ask questions about all seven different network architectures."
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: Even, conversational, thoughtful with a touch of wry amusement; use medium pauses at em dashes and one longer silence at the pilcrow paragraph.
+        Overall tone &amp; pacing: conversational, curious, lightly amused; steady pacing with quick excitement on exclamations and gentle pauses where em dashes appear.
 
-        - Read "Holloway says, "Physically, yes!..."" calm and methodical, like a technical briefing—use medium pauses at the em dashes.
-        - For "Valid point—annoying, but valid." adopt a wry, resigned tone; let the em dash breathe.
-        - When Scout actions appear ("Scout bounces approvingly—" / "Scout bounces in my lap"), lighten the voice—small, amused inflection.
-        - Deliver "Fantastic." as a brief ironic beat—slightly louder, then drop immediately.
-        - Hold a longer silence at the standalone paragraph "¶"—this separates logistics from the goal; pause ~700–900ms.
-        - Emphasize numbers and timeline optimism in "Three to four days—so, total timeline..." with measured hopefulness; slight lift on "twenty-five days, roughly." 
-        - Stress _doing something_ with gentle emphasis—make the word "doing" stand out emotionally.
-        - When Holloway warns about challenges, increase firmness and clarity; treat the lists of risks with deliberate pacing and medium pauses at em dashes.
+        - Read Holloway lines with a soft, musical, flute-like quality—airy and slightly melodic. Reference: any line that begins with "Holloway says" or "Holloway continues."
+        - Put each dialog line on its own breath and treat lead-ins like "I say," "Holloway says," "Buddy says," as part of the spoken beat.
+        - Emphasize *SEVEN* and *LITERALLY* with louder volume and bright excitement. Emphasize *LITERALLY* more forcefully.
+        - Pause slightly at each em dash—treat as a medium pause (~300-400ms). For ellipses (...) use a trailing, hesitant pause (~500-600ms).
+        - For "Buddy laughs" allow a short, genuine laugh after the narration line; for "Scout bounces" use a quick, high-energy bounce in tone.
+        - When reading "Holloway's fruiting bodies rustle—warmth in the sound," soften voice and add a gentle, rustling inflection rather than literal narration.
+        - Keep all lines grounded in a single narrator voice but vary tone for character lines as noted (Holloway = fluted/melodic; Buddy = warm, slightly surprised; Scout = bouncy).
       </stage-directions>
     </chunk>
     <chunk>
       <text>
-        I say carefully, "I understand. Elder might not be able to help, but they're still my best option—and I'd rather spend three weeks trying to reach them than three months waiting to find out they can't help anyway."
+        Buddy says, "Absolutely! I've been wondering how plant communication differs across territoriesand I want to see the wetlands—Remedy mentioned unique decomposition patterns in aquatic environments!"
 
-        Holloway's fruiting bodies rustle—consideration, maybe approval.
+        I say, "We're going to learn SO MUCH decomposition."
 
-        Holloway says, "Your reasoning is sound. Active pursuit versus passive waiting—both have merit, but for your particular situation, I think the journey might serve you well. Even if Elder's guidance proves limited, the experience of traveling through network territories, meeting different plant communities, engaging with diverse perspectives—that has value too."
+        Buddy says, "We really are!"
 
-        It does— I haven't thought about it that way, but Holloway's right. I'll learn more in three weeks of travel than three months in this facility—and I'll go completely insane if I have to eat mushroom paste in the same quarters for two more months.
+        Scout bounces three timesthat's definitely a yes to coming along.
 
-        I say, "I want to do it—I'm ready to file the travel request and make the journey."
+        Holloway says, "Excellent! Then let's begin the travel request documentation. This will require several forms: Traveler Information, Route Selection, Guide Request Specifications, Territorial Coordination Notifications, Resource Requirement Assessments, Inter-Territorial Communication Protocols..."
 
-        Scout bounces—big, enthusiastic. Buddy makes a thoughtful sound.
+        I clap my hands together and say, "*MORE FORMS!*"
 
-        The AI says, "Kira, I'm obligated to note that this involves significant uncertainty and potential risk—"
+        I add, "Travel forms! International travel forms! This is the best day!"
 
-        I say, "Yeah, I know. I crashed on an alien planet last week. My baseline risk tolerance is pretty high right now."
+        Holloway corrects gently, "Inter-territorial."
 
-        The AI says, "Fair point. I'll support whatever decision you make. Though I should mention: I'd be traveling with you, yes? I have limited battery reserves, but I can monitor your health and provide companionship throughout the journey."
+        I say, "INTER-TERRITORIAL! Even better!"
 
-        I say, "Of course you're coming—*both of you*."
+        Buddy is already taking notes. Scout settles in my lap, ready for paperwork.
 
-        I look down at Scout and ask, "You want to go on a road trip through bureaucratic plant territories?"
+        I open a fresh document on the data pad, grinning so hard my face hurts.
 
-        Scout bounces three times—big and enthusiastic.
+        *SEVEN* territoriesdifferent landscapesnew plant friends.
 
-        Holloway says warmly, "Excellent! Then let's begin the travel request documentation. This will require several forms, naturally—Traveler Information—Route Selection—Guide Request Specifications—Territorial Coordination Notifications—Resource Requirement Assessments…"
-
-        More forms—obviously. But these forms have purpose—these forms lead somewhere.
-
-        I open a fresh document on the data pad and say, "I'm ready. Let's do this."
-
-        ¶
-
-        Because waiting is over.
-
-        The journey is beginning.
+        Best. Quest. Ever.
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: Even, conversational, quietly resolute; use medium pauses at em dashes and a longer silence at the pilcrow paragraph for dramatic emphasis.
+        Overall tone &amp; pacing: conversational, bright, and slightly giddy; steady pacing with quick excitement on exclamations and gentle, musical phrasing for Holloway.
 
-        - Read "I say carefully, "I understand..."" in a thoughtful, measured voice—calm conviction.
-        - For Holloway lines, adopt a warm, slightly formal tone—use medium pauses at the em dashes and a gentle approving quality on "consideration, maybe approval."
-        - When speaking as the AI, be slightly clinical and cautious—clear enunciation and measured pacing for warnings and logistical lists.
-        - Scout's actions (
+        - Read all dialog lines on their own breath; use the lead-in tags ("Buddy says," "I say," "Holloway says,") as part of the spoken beat.
+        - Holloway lines: flute-like, airy, slightly melodic—soft and musical on every Holloway lead-in and quote.
+        - Emphasize *SEVEN* with a louder, bright emphasis; give the list after it medium-paced beats separated by short pauses for each em dash.
+        - For the shouted/excited bits: "*MORE FORMS!*" is louder and bursting—snap the energy; the following "Travel forms! International travel forms!" is still excited but slightly breathier.
+        - When reading the long list inside Holloway's quote, allow a gentle, rhythmic cadence and treat the ellipsis as a trailing, hesitant pause (~500	600ms).
+        - For small physical actions in narration: "Scout bounces three times"—use a quick, high-energy bounce-in-tone; "Buddy is already taking notes"—warm, steady; "I open a fresh document...grinning so hard my face hurts"—playful, slightly breathy grin in voice.
+        - Closing cadence: Soft landing; warm fall, lingering last syllable, cozy pause.
       </stage-directions>
     </chunk>
   </chunks>
   <unusual-pronunciations>
     <word text="Buddy"/>
-    <word text="Elder"/>
     <word text="Elder Heartwood"/>
     <word text="Holloway"/>
-    <word text="Kira"/>
-    <word text="Remedy"/>
+    <word text="Mav"/>
     <word text="Scout"/>
   </unusual-pronunciations>
   <title>Journey Option</title>
   <combined-text>
-    Over the next hour, Holloway explains how the journey would work — and it is, predictably, complicated.
+    Over the next hour, Holloway explains the journey—and it sounds *AMAZING*.
 
-    Multiple fruiting bodies consult coordination documents that materialize as fungal growth along the walls as Holloway outlines the plan.
+    Holloway says, "So the third territory's river system requires specialized guides, which is why I mentioned the timing." [multiple fruiting bodies consult coordination documents—fungal growth materializes along the walls]
 
-    Holloway says, "The route to Elder Heartwood's grove passes through seven distinct network territories — each territory has its own coordination network, protocols, and jurisdiction requirements. Territory One is here — this facility's network. Territory Two begins approximately three days' travel east. Then Territory Three, Four — culminating in Territory Seven, where Elder Heartwood's Ancient Grove resides."
+    I blink and say, "Wait, what? You mentioned timing?"
 
-    I take notes on a salvaged data pad. Scout watches from my lap, occasionally bouncing encouragingly.
+    Holloway says, "Yes—earlier, about the seasonal water levels—oh, that was a different fruiting body, in the medical wing. You weren't there." [fruiting bodies rustle apologetically]
 
-    I ask, "Three days between territories? So, roughly twenty-one days total?"
+    I say, "I... wasn't, no."
 
-    Holloway replies, "Approximately! Though some territories are smaller, others larger — and travel pace depends on various factors — terrain conditions, rest requirements, processing time at territorial boundaries..."
+    Holloway says, "Right—sorry, distributed consciousness. I sometimes forget which conversations happened where. Let me start from the beginning. The route to Elder Heartwood's grove passes through seven distinct network territories. Each territory has its own coordination network, protocols, and jurisdiction requirements."
 
-    I ask, "Processing time?"
+    Seven territories. *SEVEN*.
 
-    Holloway says, "Each territorial boundary requires coordination transfer — permissions verification — documentation review — guide handoff protocols."
+    I whisper to Buddy, "Buddy—this is the pilgrimage episode. Season 3, when Mav crosses through seven kingdoms to reach the Temple."
 
-    Of course — bureaucracy doesn't stop just because you're traveling.
+    Buddy says, "I noticed!" [delighted]
 
-    But still — two to three weeks of moving forward, making progress, getting closer to the goal, versus two months of sitting still.
+    Buddy says, "Different cultures! Border crossings! I wonder if they have toll roads."
+
+    Holloway says, "Territory One is here—this facility's network. Territory Two begins approximately three days' travel east. Then Territory Three, Four..." [a fungal diagram grows across the wall—more abstract art than a map]
+
+    Holloway continues, "Culminating in Territory Seven, where Elder Heartwood's Ancient Grove resides."
+
+    Buddy asks, "What are the different territories like? Are they all forests?"
+
+    Holloway says, "Excellent question—no, quite varied. Territory Two is dense forest. Territory Three transitions to wetlands and river systems. Territory Four involves significant elevation changes—hills and rocky terrain. Then we return to forest, then plains, and finally the Ancient Grove."
+
+    I say, "Different landscapes!" [practically bouncing as much as Scout]
+
+    I add, "Different plant cultures! Different *PAPERWORK*!"
+
+    Holloway says, "Each territory does have distinct administrative approaches—some more formal, others more relaxed."
+
+    I ask, "MORE formal than this? Is that possible?"
+
+    [fruiting bodies rustle—plant laughter]
 
     I ask, "What about guides? You mentioned guide assignments?"
 
-    Holloway says, "Yes! Travelers require guides familiar with routes and territorial protocols. Different networks specialize in different terrains — some guides excel at forest navigation, others at river crossing, others at mountain passages. You'd be assigned appropriate guides for each territory."
+    Holloway says, "Yes—travelers require guides familiar with routes and territorial protocols. Different networks specialize in different terrains: some guides excel at forest navigation, others at river crossing, others at mountain passages."
 
-    I ask, "Multiple guides? Like, different plants for different sections?"
+    I ask, "Multiple guides? Like different plants for different sections?"
 
-    Holloway answers, "Exactly. Each territory would provide guides skilled in their local conditions. They'd escort you to the next boundary, coordinate transfer, and return home while the next territory's guides take over."
+    Holloway says, "Exactly. Each territory provides guides skilled in local conditions. They escort you to the next boundary, coordinate transfer, and return home while the next territory's guides take over."
 
-    I try to imagine it — a plant relay race, with me as the baton being passed between runners. Weird, but functional.
+    I grin, "A relay race—I'm the baton!"
 
-    Holloway says, "Oh yes. Formal arrival notification would be filed through coordination channels — Elder's grove would prepare appropriate reception protocols. Though..." — Holloway's voice takes on that uncertain quality again — "this is quite unusual. Most beings simply wait for query responses. Physical journeys to Elder Heartwood are rare."
+    Holloway says, "An excellent metaphor."
 
-    Holloway adds, "But possible. Yes — absolutely possible. Just uncommon."
+    Buddy asks, "What happens at the boundaries? Is there, like, passport control?"
 
-    Buddy says, "Kira, I should mention that extended travel involves certain risks — unfamiliar terrain, potential exposure to elements, physical exertion while still recovering from injury —"
+    Holloway says, "Permission verification, documentation review, coordination transfer protocols—very organized process."
 
-    I say, "My injury's healed — Remedy cleared me yesterday. Wound fully closed, tissue regenerated. I'm fine."
+    I say, "Border bureaucracy—seven different sets of border bureaucracy. This is incredible."
 
-    Holloway says, "Physically, yes! But metabolically, you're still adjusting to the local nutrition. Extended travel might stress your system further."
+    Holloway explains food arrangements—each territory synthesizes mushroom paste, still terrible but consistent; shelter—rest facilities throughout; water—varies by terrain; guides ensure access.
 
-    Valid point—annoying, but valid.
+    Every detail makes it more real—this isn't hypothetical; this is an actual journey I could take.
 
-    I ask Holloway, "What about food? For the journey? I can't exactly pack mushroom paste for three weeks."
+    I ask, "How soon could I leave—if I filed the travel request?"
 
-    Holloway replies, "Each territory would provide appropriate nutrition—guide plants can synthesize compounds compatible with human requirements. We'd transmit your dietary documentation ahead via network coordination. Meals would be available at each stop."
+    Holloway says, "Guide availability varies—current assessment suggests perhaps three to four days for arrangements."
 
-    Scout bounces approvingly—mushroom paste will follow me on the road.
+    I say, "So... four days prep, twenty-one days travel—about twenty-five days total?"
 
-    Fantastic.
+    Holloway says, "Approximately! Variables include rest stops, boundary processing, terrain conditions."
 
-    I ask, "Shelter? Water? All the basic survival stuff?"
+    Twenty-five days of adventure—through seven territories, meeting seven different plant cultures—versus sitting here for two more months.
 
-    Holloway says, "Territories maintain rest facilities for travelers—smaller than this facility, but functional. Water access varies by terrain; some territories have abundant springs, others require more careful resource management. Your guides would ensure appropriate provisions."
+    Holloway says gently, "There are considerations to discuss—the journey involves challenges: unfamiliar territories, different network protocols, physical exertion over multiple weeks."
 
-    I process this—so basically, a bureaucratic road trip: multiple territories, multiple guides, documentation at every boundary, mushroom paste the whole way.
+    I say, "Challenges are part of the adventure!"
+    I add, "Mav would say—'fear is just excitement that forgot to smile.'"
 
-    And at the end, Elder Heartwood—an actual face-to-face meeting instead of waiting months for relay communication.
+    Holloway admits, "That's... actually quite wise."
 
-    I ask, "How soon could I leave if I filed the travel request?"
+    I add, "Also—I can't promise I won't try to pet interesting plants; that might be a challenge."
 
-    Holloway consults, then says, "Guide availability varies... Current assessment suggests… perhaps three to four days for arrangements—filing the request, securing guide assignments, preparing documentation, coordinating with receiving territories..."
+    Buddy laughs. Scout bounces—possibly volunteering as the designated petting recipient.
 
-    Three to four days—so, total timeline: call it four days of prep plus twenty-one days of travel—twenty-five days, roughly.
+    Holloway continues, "And Elder Heartwood's response might not be immediate—even when you arrive. They exist in very slow time. You could journey three weeks and still wait for Elder to process your presence."
 
-    Versus the fifty-one to seventy-seven days of waiting I was counting this morning—half the time, maybe less.
+    I say, "But I'd be there—in person! Much better than waiting for relay transmission."
 
-    And I'd be _doing something_.
+    Holloway says, "True! Direct presence does facilitate communication—though I should mention: Elder Heartwood's wisdom is profound, but they may not have the answers you seek."
 
-    Scout bounces in my lap, sensing the energy building.
+    I nod and say, "I know. But even if Elder can't help with getting home, I'll have traveled through seven territories, met different plant cultures, learned things I never would have learned here—that's worth something."
 
-    Holloway says gently, "There are considerations to discuss—the journey involves challenges: traveling through unfamiliar territories, adapting to different network protocols, physical exertion over multiple weeks. And Elder Heartwood exists in very slow time—you could journey three weeks and still wait additional time for Elder to process your presence and formulate guidance."
+    Buddy says thoughtfully, "Even if the quest doesn't give you what you expect—the journey itself has value."
 
-    I say, "But I'd be there—in person. Able to communicate directly once Elder was ready. Not waiting for relay transmission through seven territories."
+    I exclaim, "*LITERALLY* a Mav quote—season two, episode seven!"
 
-    Holloway replies, "True! Direct presence does facilitate certain types of communication. Though I should mention—Elder Heartwood's wisdom is profound, but Elder may not have the answers you seek. They handle exceptions, yes, but 'stranded human needing rescue' may be beyond even Elder's capabilities."
+    Buddy says, "Is it? I was just saying what seemed true."
 
-    I've considered that, of course—Elder Heartwood is very old and very wise, not a magic solution to impossible problems.
+    I say, "Buddy, you're becoming wise—it's concerning."
 
-    But sitting here waiting isn't a solution either.
+    Holloway's fruiting bodies rustle—warmth in the sound.
 
-    I say carefully, "I understand. Elder might not be able to help, but they're still my best option—and I'd rather spend three weeks trying to reach them than three months waiting to find out they can't help anyway."
+    Holloway says, "I think the journey might serve you well—meeting different communities, engaging with diverse perspectives... valuable experiences."
 
-    Holloway's fruiting bodies rustle—consideration, maybe approval.
+    I say, "I want to do it—the decision was made the moment I heard *SEVEN* territories."
 
-    Holloway says, "Your reasoning is sound. Active pursuit versus passive waiting—both have merit, but for your particular situation, I think the journey might serve you well. Even if Elder's guidance proves limited, the experience of traveling through network territories, meeting different plant communities, engaging with diverse perspectives—that has value too."
+    Scout bounces enthusiastically.
 
-    It does— I haven't thought about it that way, but Holloway's right. I'll learn more in three weeks of travel than three months in this facility—and I'll go completely insane if I have to eat mushroom paste in the same quarters for two more months.
+    I ask, "Buddy, you're coming, right? You can ask questions about all seven different network architectures."
 
-    I say, "I want to do it—I'm ready to file the travel request and make the journey."
+    Buddy says, "Absolutely! I've been wondering how plant communication differs across territoriesand I want to see the wetlands—Remedy mentioned unique decomposition patterns in aquatic environments!"
 
-    Scout bounces—big, enthusiastic. Buddy makes a thoughtful sound.
+    I say, "We're going to learn SO MUCH decomposition."
 
-    The AI says, "Kira, I'm obligated to note that this involves significant uncertainty and potential risk—"
+    Buddy says, "We really are!"
 
-    I say, "Yeah, I know. I crashed on an alien planet last week. My baseline risk tolerance is pretty high right now."
+    Scout bounces three timesthat's definitely a yes to coming along.
 
-    The AI says, "Fair point. I'll support whatever decision you make. Though I should mention: I'd be traveling with you, yes? I have limited battery reserves, but I can monitor your health and provide companionship throughout the journey."
+    Holloway says, "Excellent! Then let's begin the travel request documentation. This will require several forms: Traveler Information, Route Selection, Guide Request Specifications, Territorial Coordination Notifications, Resource Requirement Assessments, Inter-Territorial Communication Protocols..."
 
-    I say, "Of course you're coming—*both of you*."
+    I clap my hands together and say, "*MORE FORMS!*"
 
-    I look down at Scout and ask, "You want to go on a road trip through bureaucratic plant territories?"
+    I add, "Travel forms! International travel forms! This is the best day!"
 
-    Scout bounces three times—big and enthusiastic.
+    Holloway corrects gently, "Inter-territorial."
 
-    Holloway says warmly, "Excellent! Then let's begin the travel request documentation. This will require several forms, naturally—Traveler Information—Route Selection—Guide Request Specifications—Territorial Coordination Notifications—Resource Requirement Assessments…"
+    I say, "INTER-TERRITORIAL! Even better!"
 
-    More forms—obviously. But these forms have purpose—these forms lead somewhere.
+    Buddy is already taking notes. Scout settles in my lap, ready for paperwork.
 
-    I open a fresh document on the data pad and say, "I'm ready. Let's do this."
+    I open a fresh document on the data pad, grinning so hard my face hurts.
 
-    Because waiting is over.
+    *SEVEN* territoriesdifferent landscapesnew plant friends.
 
-    The journey is beginning.
+    Best. Quest. Ever.
   </combined-text>
 </passage-voice>

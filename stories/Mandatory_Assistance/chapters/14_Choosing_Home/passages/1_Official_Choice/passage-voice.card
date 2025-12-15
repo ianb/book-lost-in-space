@@ -1,227 +1,261 @@
 <!-- Generated automatically, do not edit except with ske gen passage-voice -->
-<passage-voice version="3.0.0">
-  <ref ref="passage.card#v3.0.0"/>
+<passage-voice version="3.0.1">
+  <ref ref="passage.card#v3.0.1"/>
   <reasoning>
-    Reviewed the passage for voiceover needs. Found these issues to adjust:
-    1. Staccato sentences: multiple very short sentences (e.g., "Big moment bounce.", "Calm. Certain.") that should be merged for smoother TTS flow.
-    2. Dialog speaker clarity: several quotes lacked a clear lead-in or had speaker tags after quotes; moved speaker labels before quoted lines to make speaker identification explicit for a single narrator voice.
-    3. Ambiguous internal thought: Buddy's line occurs "in my mind" and should be marked clearly as internal thought using the required double-angle punctuation.
-    4. Pauses: places that benefit from explicit pause markers (dramatic moment before the internal encouragement) — inserted an explicit long pause marker paragraph (¶) and used em dashes and ellipses consistently for medium and trailing pauses.
-    5. Formal/stilted lines: preserved meaning but combined short, clipped lines into fuller spoken sentences to sound natural aloud.
-    6. Symbols/formatting: removed original inline italics underscores and replaced internal-thought italic usage with double angles; used _italics_ sparingly for emotive emphasis where appropriate.
-    All edits are formatting and voice-friendly adaptations only; no narrative meaning was changed.
+    Read the passage and identified voiceover issues to address:
+    1. Staccato sentences: several one- to three-word sentences (e.g., "Big moment bounce.", "Here it is. The moment.") that read awkwardly aloud and should be merged or smoothed.
+    2. Dialog presentation: dialog was split across short fragments and attribution lines; speaker clarity can be improved by leading into quotes and placing dialog on its own lines.
+    3. Ambiguous pronouns: repeated uses of "they" and "them" (plants / community / rescuers) could confuse a listener; I kept speaker cues nearby to reduce ambiguity.
+    4. Places that require a pause: dramatic beats around "the moment" and before Kira's decision benefit from a long pause; internal thought needs clear marking and separation.
+    5. Formal/stilted text: a few lines read as written-for-text rather than spoken narration and were slightly smoothed while retaining original meaning.
+    6. Non-text elements: the ship name was italicized in the original; I preserved emphasis as _Harmony Prospect_ for clarity but removed markup that would be read literally by TTS.
+    Edits were limited to voice-friendly formatting (merging short sentences, clearer dialog lines, pause markers, internal thought formatting). No narrative content was changed.
   </reasoning>
   <content-change/>
   <chunks>
     <chunk>
       <text>
-        The freighter appears in the sky just after dawn.
+        The freighter appears in the sky just after dawn. I'm standing outside the facility with Scout, watching it descend — the whole community is gathered, not crowding but present, supporting me whatever happens.
 
-        I'm standing outside the facility with Scout, watching it descend. The whole community is gathered—not crowding, just… present—supporting me, whatever happens.
+        Scout bounces — nervous, excited, a big-moment bounce.
 
-        Scout bounces, nervous-excited—big moment bounce.
+        I say, "Yeah — big moment."
 
-        I say, "Yeah. Big moment."
+        The commercial freighter _Harmony Prospect_ lands smoothly — professional operation. Two figures emerge: Captain Torres and a medical officer.
 
-        The commercial freighter Harmony Prospect lands smoothly—a professional operation. Two figures emerge: Captain Torres and a medical officer.
+        I walk forward to meet them — calm, certain.
 
-        I walk forward to meet them, calm and certain.
+        I say formally, "Captain Torres — thank you for coming."
 
-        I say formally, "Captain Torres, thank you for coming."
+        Torres is tall, efficient-looking, clearly used to command.
 
-        Captain Torres asks, "Kira Voss? Survivor of courier vessel crash?"
+        Torres says, "Kira Voss? Survivor of courier vessel crash?"
 
         I say, "That's me."
 
-        Captain Torres says, "We're here to extract you and return you to human civilization. Are you ready to depart?"
+        Torres says, "We're here to extract you and return you to human civilization. Are you ready to depart?"
 
-        Here it is—the moment.
+        Here it is — the moment.
 
         ¶
 
-        In my mind, Buddy says quietly—«You've got this, Kira.»
+        In my mind, Buddy says quietly: «You've got this, Kira.»
 
         I say, "Thanks, Buddy."
 
-        This is the scene from every TV finale—the moment the hero makes their big choice. In Uncharted, Mav would have a prepared, dramatic speech—dramatic lighting, swelling music.
+        This is the scene from every TV finale — the moment the hero makes their big choice. In Uncharted, Mav would have some dramatic speech prepared, probably with dramatic lighting and swelling music. I don't need that — I just need to tell the truth.
 
-        I don't need that. I just need to tell the truth.
+        I say clearly, "Thank you for coming — but I'm choosing to stay here. This is my home."
 
-        I say clearly, "Thank you for coming. But I'm choosing to stay here. This is my home."
+        Torres blinks.
 
-        Captain Torres blinks. He says, "I'm sorry—what?"
+        Torres says, "I'm sorry, what?"
 
-        I say, "I'm choosing to remain with this community. I'm not being held—this is my free decision."
+        I say, "I'm choosing to remain with this community — I'm not being held. This is my free decision."
 
-        The medical officer—Dr. Chen, according to her badge—steps forward immediately. Dr. Chen says, "We need to evaluate you. After weeks stranded, there could be psychological effects—Stockholm syndrome, alien influence…"
+        The medical officer — Dr. Chen, according to her badge — steps forward immediately.
 
-        I say, "You're welcome to scan me—I'm neurologically sound, fully lucid, and making this choice freely."
+        Dr. Chen says, "We need to evaluate you — after weeks stranded, there could be psychological effects, Stockholm syndrome, alien influence —"
 
-        Dr. Chen pulls out a medical scanner and runs it over me—she frowns at the readings. Dr. Chen says, "Vitals normal. No foreign substances. Neural patterns indicate… you're actually healthier than baseline."
+        I say, "You're welcome to scan me — I'm neurologically sound, fully lucid, and making this choice freely."
+
+        Dr. Chen pulls out a medical scanner, runs it over me, and frowns at the readings.
+
+        Dr. Chen says, "Vitals normal. No foreign substances. Neural patterns indicate… you're actually healthier than baseline."
 
         I say, "I told you."
 
-        Captain Torres is processing this. He says, "Ms. Voss, you've been stranded with alien life forms for weeks. It's natural to form attachment to your rescuers, but—"
+        Torres is processing this.
 
-        I say, "They're not my rescuers—they're my community."
+        Torres says, "Ms. Voss, you've been stranded with alien life forms for weeks. It's natural to form attachment to your rescuers, but—"
 
-        Captain Torres says, "They're plants."
+        I say, "They're not my rescuers. They're my community."
 
-        I say, "They're people who value my individual contribution—which is more than I can say for the human bureaucracy that sent me on that courier mission."
+        Torres says, "They're plants."
 
-        Captain Torres looks past me at the facility—the weird, wonderful plant construction, the artistic growth, the absurd but functional design. He says, "This isn't an appropriate environment for a human."
+        I say, "They're people who value my individual contribution — which is more than I can say for the human bureaucracy that sent me on that courier mission."
 
-        I say calmly, "It's more appropriate than any environment I've lived in. Captain, I understand this is irregular—but I'm a legal adult, sound mind, making an informed choice. I'm choosing to stay."
+        Torres looks past me at the facility — the weird, wonderful plant construction, the artistic growth, the absurd but functional design.
 
-        Captain Torres says, "We have regulations—"
+        Torres says, "This isn't an appropriate environment for a human."
 
-        I say, "About rescue refusal? Yes—I'm refusing rescue. Not because I'm impaired or coerced—because I found something rare: _authentic belonging_."
+        I keep my voice calm, rational, and say, "It's more appropriate than any environment I've lived in — Captain, I understand this is irregular. But I'm a legal adult, sound mind, making an informed choice. I'm choosing to stay."
+
+        Torres says, "We have regulations—"
+
+        I say, "About rescue refusal? Yes. I'm refusing rescue — not because I'm impaired or coerced, but because I found something rare: authentic belonging."
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: Calm, measured, with moments of small, controlled tension; use medium pauses at em dashes and a single long pause at the ¶ marker for dramatic effect.
+        Overall tone &amp; pacing: Holloway's narration should be musical and flute-like — calm, measured, and quietly resolute, with clear diction and occasional small, natural breath pauses.
 
-        - Read narration evenly and quietly, slightly breathy during reflective lines like "This is my home." 
-        - On lines labeled with a speaker, make the speaker ID clear before the quote: e.g., say "Captain Torres asks," then deliver the quoted line.
-        - At em dashes (—) insert a medium pause; at ellipses (…) allow a trailing, hesitant pause.
-        - At the paragraph with only "¶" hold a longer, contemplative silence before continuing.
-        - Deliver Buddy's internal line «You've got this, Kira.» softer and slightly closer, as an inner voice.
-        - When Dr. Chen reports scanner results, let the tone be clinical and slightly surprised on "you're actually healthier than baseline."
-        - Keep the final declaration about "authentic belonging" steady and sincere; use slight emphasis on the italicized phrase.
+        - Read the opening lines gently and observantly: "The freighter appears in the sky just after dawn."
+        - For "Scout bounces — nervous, excited, a big-moment bounce." use a light, amused warmth on the word "Scout" and a quick, playful cadence at the end.
+        - Speak dialog lines on their own with a small pause before each quoted line; for example, lead into "Captain Torres — thank you for coming." with a formal, polite tone.
+        - At "Here it is — the moment." allow a long, silent beat: insert the single-paragraph pause marker "¶" then continue; this is the dramatic hinge.
+        - Internal thought line («You've got this, Kira.») should be softer and intimate, spoken as if only in her mind — lower volume and breathy quality.
+        - When Kira asserts her decision, grow firmer but still controlled: "Thank you for coming — but I'm choosing to stay here. This is my home." Emphasize "choosing" and "home." 
+        - When other characters interrupt or exclaim (Torres, Dr. Chen), slightly shift tone: Torres — clipped, official; Dr. Chen — brisk and clinical. Return to the narrator's flute-like quality between lines.
       </stage-directions>
     </chunk>
     <chunk>
       <text>
-        Dr. Chen continues scanning. Dr. Chen reports, "Her well-being indicators are significantly elevated. Stress levels below norm, social integration metrics high, psychological markers all positive."
+        Dr. Chen says, "Her well-being indicators are significantly elevated — stress levels below norm, social integration metrics high, psychological markers all positive."
 
         I say, "That's because I'm happy here."
 
-        Captain Torres hesitates. Captain Torres asks, "The company sent us to extract a human survivor. Standard protocol—"
+        Torres watches, struggling.
 
-        I finish, "Doesn't cover this situation. I know. But I'm still choosing to stay."
+        Torres says, "The company sent us to extract a human survivor. Standard protocol—"
 
-        Holloway approaches carefully. Holloway says, "Captain Torres, I'm the facility coordinator. Kira is a valued community member. She's free to leave anytime she chooses. We would never hold her against her will."
+        I finish, "I know — but I'm still choosing to stay."
 
-        Captain Torres examines Holloway with obvious skepticism. Captain Torres says, "You're… a plant."
+        Holloway approaches carefully.
 
-        Holloway replies, "I'm a sentient being who values individual voices contributing to collective harmony. Kira's voice matters here."
+        Holloway says, "Captain Torres — I'm the facility coordinator. Kira is a valued community member. She's free to leave anytime she chooses. We would never hold her against her will."
 
-        Captain Torres says, "This is highly irregular."
+        Torres examines Holloway with obvious skepticism.
 
-        I say, "Belonging usually is."
+        Torres says, "You're… a plant."
 
-        Captain Torres turns back to me. Captain Torres asks, "Ms. Voss, I need to be absolutely certain this is your genuine choice and not coercion or impairment. What would convince me?"
+        Holloway says, "I'm a sentient being who values individual voices contributing to collective harmony — Kira's voice matters here."
 
-        I say, "Let me show you—tour the facility. Talk to everyone. See what we've built together. Then decide if this looks like captivity or community."
+        Torres says, "This is highly irregular."
 
-        Captain Torres exchanges looks with Dr. Chen, then nods. Captain Torres says, "Show me."
+        Holloway says, "I've documented your objection — I've also documented that you're wrong."
+
+        Torres blinks at this unexpected sass from a plant.
+
+        I say, trying not to smile, "Belonging usually is."
+
+        Torres turns back to me.
+
+        Torres says, "Ms. Voss — I need to be absolutely certain this is your genuine choice and not coercion or impairment. What would convince me?"
+
+        I say, "Let me show you — tour the facility, talk to everyone, see what we've built together, then decide if this looks like captivity or community."
+
+        Torres exchanges looks with Dr. Chen, then nods.
+
+        Torres says, "Show me."
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: Calm and measured, with restrained tension in Torres' lines and a warm, steady sincerity in the narrator's responses; allow medium pauses at em dashes and a slightly trailing hesitation on ellipses.
+        Overall tone &amp; pacing: Calm, observant, and measured — conversational where Kira speaks, clipped and official for Torres, clinical for Dr. Chen, and flute-like for Holloway; allow clear medium pauses at em dashes and hesitant falls at ellipses.
 
-        - Read the opening clinical line "Dr. Chen reports" with a neutral, slightly surprised medical tone on "significantly elevated."
-        - Deliver "I say, \"That's because I'm happy here.\"" simply and warmly; no extra emphasis—natural, steady.
-        - On "Captain Torres hesitates." shorten breath, then read the lead-in "Captain Torres asks," with guarded skepticism before his quoted words.
-        - For interrupted or dashed lines (use the em dash —), insert a medium pause: about 300–400ms. Example: read "Let me show you—tour the facility" with a brief, deliberate beat at the dash.
-        - For hesitant ellipses (…) such as in "You're… a plant." allow a trailing/hesitant pause (~500–600ms) and soften delivery on the ellipsis.
-        - Keep Holloway's speech calm, reassuring, and slightly formal; deliver it as a continuous block to show steadiness and conviction.
-        - Closing cadence: "Firm terminal fall; decisive stop" on the final line "Show me."
+        - Read the Dr. Chen line briskly and clinically: "Dr. Chen says, "Her well-being indicators are significantly elevated — stress levels below norm, social integration metrics high, psychological markers all positive."" — clear, slightly detached.
+        - For "I say, "That's because I'm happy here."" use a steady, personal warmth — plain and sincere.
+        - Torres' lines should be clipped and suspicious: give a short pause before each Torres quote; on "Standard protocol—" end on a sharp, expectant break.
+        - Holloway: flute-like, musical and measured. For each Holloway quote, use a gentle, polite cadence and slightly longer vowel shapes; treat the em dash as a soft, deliberate pause.
+        - For "You're… a plant." use a hesitant, incredulous beat on the ellipsis, then a short stunned drop on "a plant." Keep it reactive.
+        - When Kira says, "Let me show you — tour the facility..." speak invitingly and confident — a rolling list with medium pauses at the em dash and commas.
+        - For the final exchange, make Torres' acceptance compact and decisive on "Show me." — Firm terminal fall; decisive stop.
       </stage-directions>
     </chunk>
   </chunks>
-  <unusual-pronunciations>
-    <word text="Buddy"/>
-    <word text="Dr. Chen"/>
-    <word text="Harmony Prospect"/>
-    <word text="Kira Voss"/>
-    <word text="Mav"/>
-    <word text="Scout"/>
-    <word text="Torres"/>
-    <word text="Uncharted"/>
-  </unusual-pronunciations>
   <title>Choosing To Stay</title>
   <combined-text>
-    The freighter appears in the sky just after dawn.
+    The freighter appears in the sky just after dawn. I'm standing outside the facility with Scout, watching it descend — the whole community is gathered, not crowding but present, supporting me whatever happens.
 
-    I'm standing outside the facility with Scout, watching it descend. The whole community is gathered—not crowding, just… present—supporting me, whatever happens.
+    Scout bounces — nervous, excited, a big-moment bounce.
 
-    Scout bounces, nervous-excited—big moment bounce.
+    I say, "Yeah — big moment."
 
-    I say, "Yeah. Big moment."
+    The commercial freighter _Harmony Prospect_ lands smoothly — professional operation. Two figures emerge: Captain Torres and a medical officer.
 
-    The commercial freighter Harmony Prospect lands smoothly—a professional operation. Two figures emerge: Captain Torres and a medical officer.
+    I walk forward to meet them — calm, certain.
 
-    I walk forward to meet them, calm and certain.
+    I say formally, "Captain Torres — thank you for coming."
 
-    I say formally, "Captain Torres, thank you for coming."
+    Torres is tall, efficient-looking, clearly used to command.
 
-    Captain Torres asks, "Kira Voss? Survivor of courier vessel crash?"
+    Torres says, "Kira Voss? Survivor of courier vessel crash?"
 
     I say, "That's me."
 
-    Captain Torres says, "We're here to extract you and return you to human civilization. Are you ready to depart?"
+    Torres says, "We're here to extract you and return you to human civilization. Are you ready to depart?"
 
-    Here it is—the moment.
+    Here it is — the moment.
 
-    In my mind, Buddy says quietly—«You've got this, Kira.»
+    In my mind, Buddy says quietly: «You've got this, Kira.»
 
     I say, "Thanks, Buddy."
 
-    This is the scene from every TV finale—the moment the hero makes their big choice. In Uncharted, Mav would have a prepared, dramatic speech—dramatic lighting, swelling music.
+    This is the scene from every TV finale — the moment the hero makes their big choice. In Uncharted, Mav would have some dramatic speech prepared, probably with dramatic lighting and swelling music. I don't need that — I just need to tell the truth.
 
-    I don't need that. I just need to tell the truth.
+    I say clearly, "Thank you for coming — but I'm choosing to stay here. This is my home."
 
-    I say clearly, "Thank you for coming. But I'm choosing to stay here. This is my home."
+    Torres blinks.
 
-    Captain Torres blinks. He says, "I'm sorry—what?"
+    Torres says, "I'm sorry, what?"
 
-    I say, "I'm choosing to remain with this community. I'm not being held—this is my free decision."
+    I say, "I'm choosing to remain with this community — I'm not being held. This is my free decision."
 
-    The medical officer—Dr. Chen, according to her badge—steps forward immediately. Dr. Chen says, "We need to evaluate you. After weeks stranded, there could be psychological effects—Stockholm syndrome, alien influence…"
+    The medical officer — Dr. Chen, according to her badge — steps forward immediately.
 
-    I say, "You're welcome to scan me—I'm neurologically sound, fully lucid, and making this choice freely."
+    Dr. Chen says, "We need to evaluate you — after weeks stranded, there could be psychological effects, Stockholm syndrome, alien influence —"
 
-    Dr. Chen pulls out a medical scanner and runs it over me—she frowns at the readings. Dr. Chen says, "Vitals normal. No foreign substances. Neural patterns indicate… you're actually healthier than baseline."
+    I say, "You're welcome to scan me — I'm neurologically sound, fully lucid, and making this choice freely."
+
+    Dr. Chen pulls out a medical scanner, runs it over me, and frowns at the readings.
+
+    Dr. Chen says, "Vitals normal. No foreign substances. Neural patterns indicate… you're actually healthier than baseline."
 
     I say, "I told you."
 
-    Captain Torres is processing this. He says, "Ms. Voss, you've been stranded with alien life forms for weeks. It's natural to form attachment to your rescuers, but—"
+    Torres is processing this.
 
-    I say, "They're not my rescuers—they're my community."
+    Torres says, "Ms. Voss, you've been stranded with alien life forms for weeks. It's natural to form attachment to your rescuers, but—"
 
-    Captain Torres says, "They're plants."
+    I say, "They're not my rescuers. They're my community."
 
-    I say, "They're people who value my individual contribution—which is more than I can say for the human bureaucracy that sent me on that courier mission."
+    Torres says, "They're plants."
 
-    Captain Torres looks past me at the facility—the weird, wonderful plant construction, the artistic growth, the absurd but functional design. He says, "This isn't an appropriate environment for a human."
+    I say, "They're people who value my individual contribution — which is more than I can say for the human bureaucracy that sent me on that courier mission."
 
-    I say calmly, "It's more appropriate than any environment I've lived in. Captain, I understand this is irregular—but I'm a legal adult, sound mind, making an informed choice. I'm choosing to stay."
+    Torres looks past me at the facility — the weird, wonderful plant construction, the artistic growth, the absurd but functional design.
 
-    Captain Torres says, "We have regulations—"
+    Torres says, "This isn't an appropriate environment for a human."
 
-    I say, "About rescue refusal? Yes—I'm refusing rescue. Not because I'm impaired or coerced—because I found something rare: _authentic belonging_."
+    I keep my voice calm, rational, and say, "It's more appropriate than any environment I've lived in — Captain, I understand this is irregular. But I'm a legal adult, sound mind, making an informed choice. I'm choosing to stay."
 
-    Dr. Chen continues scanning. Dr. Chen reports, "Her well-being indicators are significantly elevated. Stress levels below norm, social integration metrics high, psychological markers all positive."
+    Torres says, "We have regulations—"
+
+    I say, "About rescue refusal? Yes. I'm refusing rescue — not because I'm impaired or coerced, but because I found something rare: authentic belonging."
+
+    Dr. Chen says, "Her well-being indicators are significantly elevated — stress levels below norm, social integration metrics high, psychological markers all positive."
 
     I say, "That's because I'm happy here."
 
-    Captain Torres hesitates. Captain Torres asks, "The company sent us to extract a human survivor. Standard protocol—"
+    Torres watches, struggling.
 
-    I finish, "Doesn't cover this situation. I know. But I'm still choosing to stay."
+    Torres says, "The company sent us to extract a human survivor. Standard protocol—"
 
-    Holloway approaches carefully. Holloway says, "Captain Torres, I'm the facility coordinator. Kira is a valued community member. She's free to leave anytime she chooses. We would never hold her against her will."
+    I finish, "I know — but I'm still choosing to stay."
 
-    Captain Torres examines Holloway with obvious skepticism. Captain Torres says, "You're… a plant."
+    Holloway approaches carefully.
 
-    Holloway replies, "I'm a sentient being who values individual voices contributing to collective harmony. Kira's voice matters here."
+    Holloway says, "Captain Torres — I'm the facility coordinator. Kira is a valued community member. She's free to leave anytime she chooses. We would never hold her against her will."
 
-    Captain Torres says, "This is highly irregular."
+    Torres examines Holloway with obvious skepticism.
 
-    I say, "Belonging usually is."
+    Torres says, "You're… a plant."
 
-    Captain Torres turns back to me. Captain Torres asks, "Ms. Voss, I need to be absolutely certain this is your genuine choice and not coercion or impairment. What would convince me?"
+    Holloway says, "I'm a sentient being who values individual voices contributing to collective harmony — Kira's voice matters here."
 
-    I say, "Let me show you—tour the facility. Talk to everyone. See what we've built together. Then decide if this looks like captivity or community."
+    Torres says, "This is highly irregular."
 
-    Captain Torres exchanges looks with Dr. Chen, then nods. Captain Torres says, "Show me."
+    Holloway says, "I've documented your objection — I've also documented that you're wrong."
+
+    Torres blinks at this unexpected sass from a plant.
+
+    I say, trying not to smile, "Belonging usually is."
+
+    Torres turns back to me.
+
+    Torres says, "Ms. Voss — I need to be absolutely certain this is your genuine choice and not coercion or impairment. What would convince me?"
+
+    I say, "Let me show you — tour the facility, talk to everyone, see what we've built together, then decide if this looks like captivity or community."
+
+    Torres exchanges looks with Dr. Chen, then nods.
+
+    Torres says, "Show me."
   </combined-text>
 </passage-voice>

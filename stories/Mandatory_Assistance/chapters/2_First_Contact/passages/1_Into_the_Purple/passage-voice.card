@@ -1,335 +1,367 @@
 <!-- Generated automatically, do not edit except with ske gen passage-voice -->
-<passage-voice version="3.0.0">
-  <ref ref="passage.card#v3.0.0"/>
-  <reasoning>
-    Reviewing the passage for voiceover: 
-    1. Staccato sentences: Several short, choppy sentences (e.g., "Not purple—", "Holy shit.") should be merged to flow naturally for a narrator. 
-    2. Dialog speaker clarity: Buddy's lines come as internal bursts; dialog should be on separate lines with a clear lead-in so the listener knows who is speaking. 
-    3. Ambiguous pronouns: Mostly clear, but keeping speaker tags for Buddy avoids confusion when multiple voices are present. 
-    4. Places that require a pause: Before "And that's when the quiet hits me" needs a long, dramatic pause; also use medium pauses to separate thoughts. 
-    5. Text too formal/stilted: Some sentences can be slightly smoothed for spoken cadence without changing meaning. 
-    6. Symbols/non-text: "800 meters" should be read as "eight hundred meters." 
-
-    Edits will: merge short sentences, join adjacent short paragraphs when they continue a thought, put dialog on its own lines with lead-ins, use em dashes and ellipses for pauses, mark a long pause with a paragraph containing only "¶", convert numeric measurement to words, and apply *bold* and _italics_ for emphasis where helpful. No content meaning will be altered.
-  </reasoning>
+<passage-voice version="4.0.1">
+  <ref ref="passage.card#v4.0.1"/>
+  <reasoning>Reviewing the passage for voiceover adjustments I found: 1) Several staccato short sentences that should be merged for smoother TTS flow (e.g., single-word or &lt;4-word sentences that aren’t punchlines). 2) Multiple dialogue lines where the speaker could be unclear to a listener — label speakers and place dialog on their own lines. 3) A few ambiguous pronouns (mostly fine, but I clarified speaker cues for rapid back-and-forth). 4) Places that need explicit pauses (notably the moment the quiet 'hits' and at transitions). 5) Some phrasing is slightly literary/stilted for spoken delivery and benefits from minor smoothing without changing meaning. 6) Numeric and episodic references and measurements should be read aloud (e.g., "Season 3, Episode 7" -&gt; "Season three, Episode seven" and "800 meters" -&gt; "eight hundred meters"). I did only voice-formatting edits (dialog formatting, merged short sentences, spelled-out numbers, explicit pauses, emphasis markers).</reasoning>
   <content-change/>
   <chunks>
     <chunk>
       <text>
-        The first thing I notice is the light — not purple. I expected purple, saw it through the hull breach — but it's the quality of it, like stepping into perpetual twilight even though it's midday. Sunlight filters through the canopy overhead, turning lavender and soft, dreamlike. Everything glows.
+        The first thing I notice is the light. Not the purple I expected—I saw that through the hull breach—but the quality of it, like stepping into perpetual twilight even though it's midday. Sunlight filters through the canopy overhead, turning everything lavender and soft, dreamlike. Everything glows.
 
-        The second thing is the ground — soft. My boots sink slightly into a groundcover that feels like moss but isn't: purple-black and springy, almost pleasant underfoot. I take another step, then another — equipment bag heavy on my shoulder. The forest stretches ahead of me: tree trunks the width of ancient oaks but smooth and burgundy-dark. When I look up, the leaves are nearly black from below, but when the light catches them just right they glow deep violet.
+        The second thing is the ground—my boots sink slightly into groundcover that feels like moss but isn't: purple-black and springy, almost pleasant underfoot. I take another step and another, equipment bag heavy on my shoulder. The forest stretches ahead, tree trunks the width of ancient oaks but smooth and burgundy-dark. Looking up, the leaves are nearly black from below, yet when the light catches them just right they glow deep violet.
 
-        *Holy shit* — I'm on an alien planet.
+        Holy shit—I'm on an alien planet.
+
+        In Season three, Episode seven, Mav called this the "first glimpse moment"—stepping onto a new world and taking in everything before the adventure really starts. I get it now—I completely get it.
 
         Buddy's voice bursts into my head —
-        "Isn't this exciting, Kira! Let's talk about alien photosynthesis! You see, on Earth, plants use chlorophyll which absorbs red and blue light, but here the dominant photosynthetic pigment appears to—"
+        "*Kira, LOOK at this!* Why is everything purple? Is it because the sun is different? The light feels different!"
 
-        I laugh despite everything — the pain in my leg, the dead pilots, the fact that I might die out here. Buddy wants to teach me about photosynthesis.
-
-        I say —
-        "Later, Buddy. Right now I just want to get to the water."
+        I whisper —
+        "_It's so beautiful. Buddy, this is actually happening._"
 
         Buddy replies —
-        "Of course! Safety first! The stream is approximately eight hundred meters southwest. I'll guide you!"
+        "*I know!* I've never seen anything like this! What do you think those trees are made of? They don't look like Earth trees at all!"
 
-        Southwest — right. I adjust my grip on the bag and start walking.
+        I'm grinning despite everything—despite the pain in my leg, the dead pilots, the fact that I might die out here. I'm on an alien planet and Buddy is as excited as I am.
 
-        ¶
+        Buddy adds —
+        "The stream is eight hundred meters southwest. Want to explore on the way?"
+
+        I say —
+        "Absolutely."
+
+        Southwest—right. I adjust my grip on the bag and start walking.
 
         And that's when the quiet hits me.
 
-        No birdsong. No insects buzzing. No rustle of small animals in the undergrowth. Just wind moving through the canopy — a soft, almost musical sound, deeper than Earth leaves, like the forest itself is breathing. My own footfalls become the loudest thing, muffled by the springy groundcover but still present. Still _very, very_ alone.
+        ¶
 
-        I ask —
-        "Buddy, you said no animal life detected, right?"
+        There is no birdsong, no insects buzzing, no rustle of small animals in the undergrowth—just wind moving through the canopy, a soft, almost musical sound deeper than Earth leaves, like the forest itself is breathing. My own footfalls become the loudest thing, muffled by the springy groundcover but still present.
 
-        Buddy —
-        "Correct! The ecosystem appears entirely plant-based! Fascinating, really — on Earth, animals fill numerous ecological niches, but here it seems the plant life has adapted to—"
+        I ask Buddy —
+        "Do you hear that? Or... not hear it?"
 
-        I cut him off —
-        "So it's just… quiet. No animals means no animal sounds."
+        Buddy says —
+        "*It's so QUIET!* Where are the animals? Do you think there aren't any?"
 
-        "Exactly! Though plant-based ecosystems can create their own acoustic environments through—"
+        I say —
+        "You said no fauna detected. So maybe... just plants?"
 
-        I tune him out, focusing on the silence. It's beautiful in a way — peaceful, but also wrong. Earth forests are never this quiet. There's always something: birds, insects, wind rattling dry leaves, water somewhere. Here there's just that soft breathing of thick leaves and my own footsteps.
+        Buddy says —
+        "A whole planet with just plants? That's so weird! And cool! Is that possible?"
 
-        The forest floor is oddly clear, too. No undergrowth tangling my feet, no fallen branches to navigate around. Just the purple-black groundcover and those massive trees, spaced far enough apart that walking between them is easy. Almost like someone maintains it.
+        I say —
+        "It's happening, so... apparently?"
 
-        That thought makes me uneasy, but I push it down.
+        Mav would love this—he'd probably do a whole episode about how the ecosystem works without pollinators or predators.
+
+        The quiet is beautiful, in a way: peaceful but strange. Earth forests are never this silent—there's always something. Here there's only the soft breathing of thick leaves and my own footsteps.
+
+        Buddy says quietly —
+        "It feels like something's listening. Is that weird to say?"
+
+        I answer —
+        "No. I feel it too."
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: Observant and slightly breathless at first, then amused, shifting to wary and quiet; hold a long, heavy pause when the silence becomes apparent.
+        Overall tone &amp; pacing: Wonder mixed with underlying unease—start bright and curious, then slow and quieter when the scene grows silent.
 
-        - Read the opening lines with calm curiosity; use a measured, descriptive pace for the scene-setting and color detail. 
-        - For "*Holy shit* — I'm on an alien planet." make "*Holy shit*" louder and sharper, then drop to stunned wonder for "I'm on an alien planet." 
-        - Lead into each dialog with the narration cue then place the quoted line on its own line. For Buddy's lines: bright, fast, enthusiastic — slightly chipper and scientific. 
-        - Use the paragraph containing only "¶" as a long, silent beat before "And that's when the quiet hits me." Pause about 1.2–1.5 seconds there. 
-        - Emphasize the em dash pauses as medium breaks (~300–400 ms); render ellipses (…) as a trailing, hesitant drop (~500–600 ms). 
-        - For "Still _very, very_ alone." stretch and soften "very, very" to underline isolation. 
-        - End quietly and tensely on the last sentence; let the final line trail a beat before moving on.
+        - For "The first thing I notice is the light." use a thoughtful, soft curiosity, moderate pace.
+        - For Buddy's excited lines (e.g., "*Kira, LOOK at this!*") raise volume and energy, emphasize *LOOK* loudly.
+        - For narrator whispers (lines introduced with "I whisper —") drop to a hushed, intimate tone and slow slightly.
+        - Pause on the single-line paragraph "And that's when the quiet hits me." then insert a long dramatic pause at "¶"—hold the silence noticeably before continuing.
+        - For the list of missing sounds ("There is no birdsong, no insects buzzing...") use a measured, slightly puzzled cadence, with the em-dash acting as a soft beat.
+        - When Buddy says "*It's so QUIET!*" contrast earlier excitement with a sharp, surprised quieter shout—emphasize *QUIET*.
+        - End with a small, shared quiet on the last two lines; make the final reply "No. I feel it too." soft and steady.
       </stage-directions>
     </chunk>
     <chunk>
       <text>
-        I keep walking. The equipment bag digs into my shoulder. The air is thick—humid in a way that makes my skin feel damp, my hair already curling with moisture. It smells like growing things: sweet and earthy and floral all at once, with an edge of something unfamiliar underneath—not bad—just… other.
+        The forest floor is oddly clear, too — no undergrowth tangling my feet, no fallen branches to navigate around. Just the purple-black groundcover and those massive trees, spaced far enough apart that walking between them is easy, almost like someone maintains it.
 
-        The light shifts as I move deeper into the forest. Filtered through that purple canopy, everything takes on dreamlike lavender tones. Shadows aren't gray—they're purple-black, deep and soft. I pass a tree whose branches twist back toward the trunk in a way that makes my brain itch—wrong: the shapes are tree-like enough to be familiar but alien enough to remind me constantly: you're not home.
+        That thought makes me uneasy, but I push it down and keep walking. The equipment bag digs into my shoulder. The air is thick — humid in a way that makes my skin feel damp, my hair already curling with moisture. It smells like growing things: sweet and earthy and floral all at once, with an edge of something unfamiliar underneath. Not bad. Just _other_. 
 
-        Buddy, delighted —
-        "Kira, I'm detecting some interesting atmospheric data! The oxygen-nitrogen ratio is remarkably similar to Earth, but there are trace elements that suggest—"
+        The light shifts as I move deeper into the forest. Filtered through that purple canopy, everything takes on dreamlike lavender tones. Shadows aren't gray — they're purple-black, deep and soft. I pass a tree whose branches twist back toward the trunk in a way that makes my brain itch — wrong. The shapes are tree-like enough to be familiar but alien enough to remind me constantly: you're not home.
 
-        I ask —
-        "Buddy. Is the air safe to breathe?"
+        Buddy notices — "The shadows are purple! Is that because the light is different?"
 
-        Buddy, quick and cheerful —
-        "Oh! Yes! Completely safe! Though the photosynthetic pigments I mentioned earlier create a unique light spectrum that—"
+        I say, "Must be. The canopy filters out everything except the purple spectrum." I'm half-narrating in my head, describing this to an imaginary audience — "And here our intrepid explorer enters the purple forest..."
 
-        I say —
-        "Safe. Got it. Thanks."
+        Buddy asks, "Are you narrating? Like on Uncharted?"
 
-        Our rhythm is getting better. Extract the useful information, let the rest go. Buddy means well. I'm learning to work with—
+        I laugh, caught. "Maybe. A little."
 
-        Pain flares up my leg, sudden and sharp enough to stop me mid-step.
+        Buddy brightens — "That's fun! Can I do it too?"
 
-        I've been walking on adrenaline, ignoring the bandaged wound, focused on getting to water. But the injury doesn't care about my focus. I lean against the nearest tree trunk—smooth bark, faintly warm even in the shade—and try to breathe through it.
+        I say, "Sure. What would you say?"
 
-        The bandage is seeping. I can see it darkening through my pants. This is stupid. I'm injured, alone, should be resting not hiking through an alien forest. But water is eight hundred meters and I need it and the shuttle's life support is dying and—
+        Buddy tries, "And... Kira walks bravely through the alien forest, not knowing what awaits! The purple shadows hide many secrets!"
 
-        Buddy —
-        "Kira, I'm detecting elevated pain signals! Your injury requires—"
+        I reply, "Pretty good! Very dramatic."
 
-        I say —
-        "I'm fine. How much farther?"
+        Buddy: "Thanks! This is exciting!"
 
-        A pause. Then, quieter:
-        Buddy —
-        "Approximately six hundred meters remaining. Are you sure you can—"
-
-        I say —
-        "I'm sure."
-
-        I push off the tree, test weight on my leg. It hurts. It's going to keep hurting. But I can walk.
-
-        So I do.
-
-        The limp is more pronounced now. Beauty doesn't make injury hurt less. Wonder doesn't erase the fact that I could die out here.
-
-        I'm maybe fifty meters farther when I see it.
-
-        Movement—high in the trees to my left, something shifting.
-
-        I stop, heart suddenly pounding. I say —
-        "Buddy, did you see that?"
-
-        Buddy —
-        "See what, Kira?"
-
-        I point, even though Buddy doesn't have eyes.
-
-        "Something moved. Up there."
-
-        The forest is still again. Nothing but that soft wind-breath through the leaves.
-
-        But I saw it. I'm sure I saw it.
-
-        The quiet feels different now—not peaceful but charged, aware.
+        It is. It really is. Despite everything
 
         ¶
 
-        I'm not alone.
+        Pain flares up my leg, sudden and sharp enough to stop me mid-step.
 
-        Buddy, uncertainty creeping into his usually cheerful tone —
-        "I'm not detecting any animal life forms, but in an unknown environment, sensors can miss—"
+        I've been walking on adrenaline, ignoring the bandaged wound, focused on getting to water. But the injury doesn't care about my focus. I lean against the nearest tree trunk — smooth bark, faintly warm even in the shade — and try to breathe through it.
 
-        There. Again. Higher up, something definitely moving among the branches.
+        The bandage is seeping; I can see it darkening through my pants.
 
-        Plant life has to be—no fauna detected, Buddy said—but plants don't move like that—quick, purposeful, tracking—
+        Buddy's voice is worried — "Kira, your leg looks worse. Are you okay? Should we stop?"
+
+        I say, "I'm fine. Just need a second."
+
+        Buddy asks, "I don't want you to get hurt worse. How much farther to the water?"
+
+        After a pause while Buddy calculates — "Approximately six hundred meters. Tell me if you need to stop, okay? Promise?"
+
+        I answer, "I promise."
+
+        Mav's voice in my head says, "The universe rewards the bold." But Mav had a medical team in orbit. I have Buddy and a bleeding leg and six hundred meters to go.
+
+        I push off the tree and test weight on my leg. It hurts. It's going to keep hurting. But I can walk.
+
+        So I do.
+
+        The limp is more pronounced now. Adventure or not, I could die out here. Beauty doesn't make injury hurt less.
+
+        I'm maybe fifty meters farther when I see it — movement high in the trees to my left, something shifting.
+
+        I stop, heart suddenly pounding.
+
+        I say, "Buddy, did you see that?"
+
+        Buddy responds, "Something moved! I saw it too! What was it?"
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: Start observant and measured, slightly breathless at times; grow more pained and determined during the wound beats; shift to taut alertness and stillness as the movement appears, then hold a long, heavy pause at "¶" before the revelation.
+        Overall tone &amp; pacing: Start with curiosity and quiet wonder; keep a steady, observant pace that shifts to quieter, breathier when the injury appears, then quickened and tense when the movement is spotted.
 
-        - Read the opening description with calm curiosity and a measured pace; allow the sensory details to breathe.  
-        - For the lead-ins to dialog use a neutral narration tone, then deliver the quoted lines on their own line.  
-        - Buddy's lines: bright, chipper, slightly scientific — quick delivery but clear. Use the em dash break before the quote as a short beat.  
-        - When pain flares, tighten the breath, shorten phrases, and make the physical effort audible but not theatrical.  
-        - For "The quiet feels different now—not peaceful but charged, aware." slow slightly and lower volume, then insert the paragraph "¶" as a long silent beat (about 1.2–1.5 seconds).  
-        - After "¶" read "I'm not alone." with controlled certainty — quiet but unmistakable.  
-        - Keep all em dash pauses as medium breaks (~300–400 ms) and ellipses (…) as trailing, hesitant drops (~500–600 ms).
+        - For the opening description use a soft, curious tone and a relaxed pace on "The forest floor is oddly clear..."
+        - On "— wrong." drop your voice slightly, slow down to convey unease.
+        - For dialog lines, give Buddy a brighter, more energetic tone for excitement: "The shadows are purple!" and "That's fun! Can I do it too?" — lift energy and clarity.
+        - When you narrate internal half-jokes ("And here our intrepid explorer...") use a slightly amused, stage-narrator cadence — conversational, a touch theatrical.
+        - Insert a full, silent beat at the paragraph with only "¶" to let the reader feel the sudden onset of pain; hold the silence noticeably before continuing.
+        - When the pain hits, make breaths audible in the voice: shorter, grittier, slower. On "The bandage is seeping;" be factual but strained.
+        - Build tension into the final lines: faster pacing and rising volume into "I stop, heart suddenly pounding," then a sharp, alert tone for "Buddy, did you see that?"
       </stage-directions>
     </chunk>
     <chunk>
       <text>
-        Except this is an alien planet, and the scans detected extensive plant life—what if…?
+        I say, "I don't know—something in the trees."
 
-        Movement again—closer this time, not threatening exactly but deliberate, watching.
+        The forest is still again, nothing but that soft wind-breath through the leaves. But I saw it—I'm sure I saw it. The quiet feels different now, not peaceful—charged, aware. I'm not alone.
 
-        My voice comes out too loud in the quiet, startling even me.
-        I say—"Hello?"
+        I say, "Buddy, any life signs?"
 
-        There is nothing, yet I feel it—I feel watched.
+        Buddy says, "No animals685 but the plants are reading really weird—like they're doing something? Should we name it? Naming things makes them less—"
 
-        The forest isn't empty—something is out there in the purple twilight, curious, observing.
+        I say, "Buddy, not now."
 
-        All teachable moment forgotten, Buddy says—
-        "Kira, I recommend we proceed with caution—unknown environment protocols suggest—"
+        Buddy says, "Right. Sorry."
 
-        I reply—"Yeah—caution. Got it."
+        There—again—higher up, something definitely moving among the branches.
 
-        I keep walking, slower now, every sense alert—my hand finds the cutting tool in my bag though I don't know what good it would do.
+        Plants that move? But plants don't move like that—quick, purposeful, tracking—
 
-        The movement follows me—staying in the trees, keeping pace.
+        Except this is an alien planet—what if the plants here685
 
-        Something is out there—and whatever it is, it's _very_ curious about me.
+        Movement again—closer this time. Not threatening exactly, but deliberate, watching.
+
+        I call, "Hello?"
+
+        Nothing.
+
+        ¶
+
+        But I feel it—I feel watched. The forest isn't empty—something is out there in the purple twilight, curious, observing.
+
+        Buddy says, "Kira? I think something's following us."
+
+        My heart is racing, but also—this is the moment. My internal voice, Mav, says, «First contact begins with curiosity. Be curious back.»
+
+        I say, "I think so too—let's keep going—slowly."
+
+        I walk on, every sense alert, my hand finding the cutting tool in my bag. The movement follows me—staying in the trees, keeping pace.
+
+        Something is out there, and whatever it is, it's curious about me.
+
+        This is it—what I watched Uncharted for.
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: Taut, observant, quietly tense; let the lines breathe and keep a careful, listening quality throughout.
+        Overall tone &amp; pacing: Quiet curiosity that builds to alert, charged watchfulness—keep a steady, observant pace that tightens into focused suspense as the unseen presence reveals itself.
 
-        - Read the opening line with thoughtful curiosity and a small trailing hesitation on "what if…?" to suggest worry and possibility.
-        - For "I say—\"Hello?\"" use a startled, louder moment then immediately rein it in; the line should sound surprised and tentative.
-        - Read the line "There is nothing, yet I feel it—I feel watched." with growing unease on the second clause; emphasize "I feel watched" as a low, tightened statement.
-        - For Buddy's block: keep the voice bright, slightly chipper and a bit clinical — quick delivery but clear; pause at the em dash after "Buddy says—" then deliver his quote with a short, interrupted cadence at the trailing em dash.
-        - For the reply, "I reply—\"Yeah—caution. Got it.\"" use a resigned, clipped tone—acknowledgement without relief.
-        - When narrating the physical actions (walking, hand finding tool), slow marginally and make them grounded and precise; let the listener sense the steady caution.
-        - Emphasize the last line's underscored phrase: give a quiet, slightly unsettled emphasis to "_very_ curious about me." Hold a short beat after the final sentence.
-        - Closing cadence: Soft landing; uncertain fall, lingering last syllable, short quiet pause.
+        - For "I don't know—something in the trees." use a low, curious whisper; small pause at the em dash to suggest listening.
+        - For "The forest is still again..." maintain a soft, descriptive cadence—measured, slightly breathy, then tighten on "I'm sure I saw it."
+        - For dialog lead-ins like "I say, \"Buddy, any life signs?\"" speak clearly and directly; shift to Buddy's voice brighter and a bit nervous for "Buddy says, \"No animals...\"" with a trailing, hesitant fall on the ellipsis.
+        - For the beats in "There—again—higher up..." use small startled lifts on the short beats, then a firmer, slower cadence on "something definitely moving among the branches."
+        - For "I call, \"Hello?\"" start slightly louder than the surrounding lines, then drop to softer when it meets "Nothing." — follow with the paragraph-only "¶" to hold a long, silent beat.
+        - For the internal Mav line «First contact begins with curiosity. Be curious back.» read as intimate inner thought—softer, almost sotto voce, separated from the external narration.
+        - Closing cadence: Slight lift on the last line's excitement, then a soft landing; warm fall, short lingering pause
       </stage-directions>
     </chunk>
   </chunks>
+  <unusual-pronunciations>
+    <word text="Buddy"/>
+    <word text="Kira"/>
+    <word text="Mav"/>
+  </unusual-pronunciations>
   <title>Into the Purple</title>
   <combined-text>
-    The first thing I notice is the light — not purple. I expected purple, saw it through the hull breach — but it's the quality of it, like stepping into perpetual twilight even though it's midday. Sunlight filters through the canopy overhead, turning lavender and soft, dreamlike. Everything glows.
+    The first thing I notice is the light. Not the purple I expected—I saw that through the hull breach—but the quality of it, like stepping into perpetual twilight even though it's midday. Sunlight filters through the canopy overhead, turning everything lavender and soft, dreamlike. Everything glows.
 
-    The second thing is the ground — soft. My boots sink slightly into a groundcover that feels like moss but isn't: purple-black and springy, almost pleasant underfoot. I take another step, then another — equipment bag heavy on my shoulder. The forest stretches ahead of me: tree trunks the width of ancient oaks but smooth and burgundy-dark. When I look up, the leaves are nearly black from below, but when the light catches them just right they glow deep violet.
+    The second thing is the ground—my boots sink slightly into groundcover that feels like moss but isn't: purple-black and springy, almost pleasant underfoot. I take another step and another, equipment bag heavy on my shoulder. The forest stretches ahead, tree trunks the width of ancient oaks but smooth and burgundy-dark. Looking up, the leaves are nearly black from below, yet when the light catches them just right they glow deep violet.
 
-    *Holy shit* — I'm on an alien planet.
+    Holy shit—I'm on an alien planet.
+
+    In Season three, Episode seven, Mav called this the "first glimpse moment"—stepping onto a new world and taking in everything before the adventure really starts. I get it now—I completely get it.
 
     Buddy's voice bursts into my head —
-    "Isn't this exciting, Kira! Let's talk about alien photosynthesis! You see, on Earth, plants use chlorophyll which absorbs red and blue light, but here the dominant photosynthetic pigment appears to—"
+    "*Kira, LOOK at this!* Why is everything purple? Is it because the sun is different? The light feels different!"
 
-    I laugh despite everything — the pain in my leg, the dead pilots, the fact that I might die out here. Buddy wants to teach me about photosynthesis.
-
-    I say —
-    "Later, Buddy. Right now I just want to get to the water."
+    I whisper —
+    "_It's so beautiful. Buddy, this is actually happening._"
 
     Buddy replies —
-    "Of course! Safety first! The stream is approximately eight hundred meters southwest. I'll guide you!"
+    "*I know!* I've never seen anything like this! What do you think those trees are made of? They don't look like Earth trees at all!"
 
-    Southwest — right. I adjust my grip on the bag and start walking.
+    I'm grinning despite everything—despite the pain in my leg, the dead pilots, the fact that I might die out here. I'm on an alien planet and Buddy is as excited as I am.
+
+    Buddy adds —
+    "The stream is eight hundred meters southwest. Want to explore on the way?"
+
+    I say —
+    "Absolutely."
+
+    Southwest—right. I adjust my grip on the bag and start walking.
 
     And that's when the quiet hits me.
 
-    No birdsong. No insects buzzing. No rustle of small animals in the undergrowth. Just wind moving through the canopy — a soft, almost musical sound, deeper than Earth leaves, like the forest itself is breathing. My own footfalls become the loudest thing, muffled by the springy groundcover but still present. Still _very, very_ alone.
+    There is no birdsong, no insects buzzing, no rustle of small animals in the undergrowth—just wind moving through the canopy, a soft, almost musical sound deeper than Earth leaves, like the forest itself is breathing. My own footfalls become the loudest thing, muffled by the springy groundcover but still present.
 
-    I ask —
-    "Buddy, you said no animal life detected, right?"
+    I ask Buddy —
+    "Do you hear that? Or... not hear it?"
 
-    Buddy —
-    "Correct! The ecosystem appears entirely plant-based! Fascinating, really — on Earth, animals fill numerous ecological niches, but here it seems the plant life has adapted to—"
-
-    I cut him off —
-    "So it's just… quiet. No animals means no animal sounds."
-
-    "Exactly! Though plant-based ecosystems can create their own acoustic environments through—"
-
-    I tune him out, focusing on the silence. It's beautiful in a way — peaceful, but also wrong. Earth forests are never this quiet. There's always something: birds, insects, wind rattling dry leaves, water somewhere. Here there's just that soft breathing of thick leaves and my own footsteps.
-
-    The forest floor is oddly clear, too. No undergrowth tangling my feet, no fallen branches to navigate around. Just the purple-black groundcover and those massive trees, spaced far enough apart that walking between them is easy. Almost like someone maintains it.
-
-    That thought makes me uneasy, but I push it down.
-
-    I keep walking. The equipment bag digs into my shoulder. The air is thick—humid in a way that makes my skin feel damp, my hair already curling with moisture. It smells like growing things: sweet and earthy and floral all at once, with an edge of something unfamiliar underneath—not bad—just… other.
-
-    The light shifts as I move deeper into the forest. Filtered through that purple canopy, everything takes on dreamlike lavender tones. Shadows aren't gray—they're purple-black, deep and soft. I pass a tree whose branches twist back toward the trunk in a way that makes my brain itch—wrong: the shapes are tree-like enough to be familiar but alien enough to remind me constantly: you're not home.
-
-    Buddy, delighted —
-    "Kira, I'm detecting some interesting atmospheric data! The oxygen-nitrogen ratio is remarkably similar to Earth, but there are trace elements that suggest—"
-
-    I ask —
-    "Buddy. Is the air safe to breathe?"
-
-    Buddy, quick and cheerful —
-    "Oh! Yes! Completely safe! Though the photosynthetic pigments I mentioned earlier create a unique light spectrum that—"
+    Buddy says —
+    "*It's so QUIET!* Where are the animals? Do you think there aren't any?"
 
     I say —
-    "Safe. Got it. Thanks."
+    "You said no fauna detected. So maybe... just plants?"
 
-    Our rhythm is getting better. Extract the useful information, let the rest go. Buddy means well. I'm learning to work with—
+    Buddy says —
+    "A whole planet with just plants? That's so weird! And cool! Is that possible?"
+
+    I say —
+    "It's happening, so... apparently?"
+
+    Mav would love this—he'd probably do a whole episode about how the ecosystem works without pollinators or predators.
+
+    The quiet is beautiful, in a way: peaceful but strange. Earth forests are never this silent—there's always something. Here there's only the soft breathing of thick leaves and my own footsteps.
+
+    Buddy says quietly —
+    "It feels like something's listening. Is that weird to say?"
+
+    I answer —
+    "No. I feel it too."
+
+    The forest floor is oddly clear, too — no undergrowth tangling my feet, no fallen branches to navigate around. Just the purple-black groundcover and those massive trees, spaced far enough apart that walking between them is easy, almost like someone maintains it.
+
+    That thought makes me uneasy, but I push it down and keep walking. The equipment bag digs into my shoulder. The air is thick — humid in a way that makes my skin feel damp, my hair already curling with moisture. It smells like growing things: sweet and earthy and floral all at once, with an edge of something unfamiliar underneath. Not bad. Just _other_. 
+
+    The light shifts as I move deeper into the forest. Filtered through that purple canopy, everything takes on dreamlike lavender tones. Shadows aren't gray — they're purple-black, deep and soft. I pass a tree whose branches twist back toward the trunk in a way that makes my brain itch — wrong. The shapes are tree-like enough to be familiar but alien enough to remind me constantly: you're not home.
+
+    Buddy notices — "The shadows are purple! Is that because the light is different?"
+
+    I say, "Must be. The canopy filters out everything except the purple spectrum." I'm half-narrating in my head, describing this to an imaginary audience — "And here our intrepid explorer enters the purple forest..."
+
+    Buddy asks, "Are you narrating? Like on Uncharted?"
+
+    I laugh, caught. "Maybe. A little."
+
+    Buddy brightens — "That's fun! Can I do it too?"
+
+    I say, "Sure. What would you say?"
+
+    Buddy tries, "And... Kira walks bravely through the alien forest, not knowing what awaits! The purple shadows hide many secrets!"
+
+    I reply, "Pretty good! Very dramatic."
+
+    Buddy: "Thanks! This is exciting!"
+
+    It is. It really is. Despite everything
 
     Pain flares up my leg, sudden and sharp enough to stop me mid-step.
 
-    I've been walking on adrenaline, ignoring the bandaged wound, focused on getting to water. But the injury doesn't care about my focus. I lean against the nearest tree trunk—smooth bark, faintly warm even in the shade—and try to breathe through it.
+    I've been walking on adrenaline, ignoring the bandaged wound, focused on getting to water. But the injury doesn't care about my focus. I lean against the nearest tree trunk — smooth bark, faintly warm even in the shade — and try to breathe through it.
 
-    The bandage is seeping. I can see it darkening through my pants. This is stupid. I'm injured, alone, should be resting not hiking through an alien forest. But water is eight hundred meters and I need it and the shuttle's life support is dying and—
+    The bandage is seeping; I can see it darkening through my pants.
 
-    Buddy —
-    "Kira, I'm detecting elevated pain signals! Your injury requires—"
+    Buddy's voice is worried — "Kira, your leg looks worse. Are you okay? Should we stop?"
 
-    I say —
-    "I'm fine. How much farther?"
+    I say, "I'm fine. Just need a second."
 
-    A pause. Then, quieter:
-    Buddy —
-    "Approximately six hundred meters remaining. Are you sure you can—"
+    Buddy asks, "I don't want you to get hurt worse. How much farther to the water?"
 
-    I say —
-    "I'm sure."
+    After a pause while Buddy calculates — "Approximately six hundred meters. Tell me if you need to stop, okay? Promise?"
 
-    I push off the tree, test weight on my leg. It hurts. It's going to keep hurting. But I can walk.
+    I answer, "I promise."
+
+    Mav's voice in my head says, "The universe rewards the bold." But Mav had a medical team in orbit. I have Buddy and a bleeding leg and six hundred meters to go.
+
+    I push off the tree and test weight on my leg. It hurts. It's going to keep hurting. But I can walk.
 
     So I do.
 
-    The limp is more pronounced now. Beauty doesn't make injury hurt less. Wonder doesn't erase the fact that I could die out here.
+    The limp is more pronounced now. Adventure or not, I could die out here. Beauty doesn't make injury hurt less.
 
-    I'm maybe fifty meters farther when I see it.
+    I'm maybe fifty meters farther when I see it — movement high in the trees to my left, something shifting.
 
-    Movement—high in the trees to my left, something shifting.
+    I stop, heart suddenly pounding.
 
-    I stop, heart suddenly pounding. I say —
-    "Buddy, did you see that?"
+    I say, "Buddy, did you see that?"
 
-    Buddy —
-    "See what, Kira?"
+    Buddy responds, "Something moved! I saw it too! What was it?"
 
-    I point, even though Buddy doesn't have eyes.
+    I say, "I don't know—something in the trees."
 
-    "Something moved. Up there."
+    The forest is still again, nothing but that soft wind-breath through the leaves. But I saw it—I'm sure I saw it. The quiet feels different now, not peaceful—charged, aware. I'm not alone.
 
-    The forest is still again. Nothing but that soft wind-breath through the leaves.
+    I say, "Buddy, any life signs?"
 
-    But I saw it. I'm sure I saw it.
+    Buddy says, "No animals685 but the plants are reading really weird—like they're doing something? Should we name it? Naming things makes them less—"
 
-    The quiet feels different now—not peaceful but charged, aware.
+    I say, "Buddy, not now."
 
-    I'm not alone.
+    Buddy says, "Right. Sorry."
 
-    Buddy, uncertainty creeping into his usually cheerful tone —
-    "I'm not detecting any animal life forms, but in an unknown environment, sensors can miss—"
+    There—again—higher up, something definitely moving among the branches.
 
-    There. Again. Higher up, something definitely moving among the branches.
+    Plants that move? But plants don't move like that—quick, purposeful, tracking—
 
-    Plant life has to be—no fauna detected, Buddy said—but plants don't move like that—quick, purposeful, tracking—
+    Except this is an alien planet—what if the plants here685
 
-    Except this is an alien planet, and the scans detected extensive plant life—what if…?
+    Movement again—closer this time. Not threatening exactly, but deliberate, watching.
 
-    Movement again—closer this time, not threatening exactly but deliberate, watching.
+    I call, "Hello?"
 
-    My voice comes out too loud in the quiet, startling even me.
-    I say—"Hello?"
+    Nothing.
 
-    There is nothing, yet I feel it—I feel watched.
+    But I feel it—I feel watched. The forest isn't empty—something is out there in the purple twilight, curious, observing.
 
-    The forest isn't empty—something is out there in the purple twilight, curious, observing.
+    Buddy says, "Kira? I think something's following us."
 
-    All teachable moment forgotten, Buddy says—
-    "Kira, I recommend we proceed with caution—unknown environment protocols suggest—"
+    My heart is racing, but also—this is the moment. My internal voice, Mav, says, «First contact begins with curiosity. Be curious back.»
 
-    I reply—"Yeah—caution. Got it."
+    I say, "I think so too—let's keep going—slowly."
 
-    I keep walking, slower now, every sense alert—my hand finds the cutting tool in my bag though I don't know what good it would do.
+    I walk on, every sense alert, my hand finding the cutting tool in my bag. The movement follows me—staying in the trees, keeping pace.
 
-    The movement follows me—staying in the trees, keeping pace.
+    Something is out there, and whatever it is, it's curious about me.
 
-    Something is out there—and whatever it is, it's _very_ curious about me.
+    This is it—what I watched Uncharted for.
   </combined-text>
 </passage-voice>

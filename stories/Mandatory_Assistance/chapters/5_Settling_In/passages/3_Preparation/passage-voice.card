@@ -1,419 +1,463 @@
 <!-- Generated automatically, do not edit except with ske gen passage-voice -->
-<passage-voice version="3.0.0">
-  <ref ref="passage.card#v3.0.0"/>
+<passage-voice version="4.0.0">
+  <ref ref="passage.card#v4.0.0"/>
   <reasoning>
-    <!-- For instructions on filling out reasoning: ske instructions stories/Mandatory_Assistance/chapters/5_Settling_In/passages/3_Preparation/passage-voice.card -->
+    Reviewing the passage for voiceover needs I found the following issues to address:
+    1. Staccato sentences: e.g., "The travel request forms take three hours. Three GLORIOUS hours." should be merged for smoother speech.
+    2. Dialog attribution: many quoted lines appear before or without clear attributions; speaker clarity needs strengthening (Buddy, Holloway, Leafwhisper, Rootwalker, etc.).
+    3. Ambiguous pronouns: several lines could leave the listener unsure who is speaking; I added explicit lead-ins where needed.
+    4. Places that require pauses: scene breaks (the original ***), dramatic beats like "Tomorrow. TOMORROW.", and mid-sentence beats needed explicit pause markers.
+    5. Formal/stilted list text: parenthetical lists would be read awkwardly by TTS; I converted them to flowing sentences with em dashes for clarity.
+    6. Nonstandard speech elements: Leafwhisper's cascading rapid speech and Holloway's fluted voice need stage-direction notes so the narrator can alter tone — these are noted in STAGE_DIRECTIONS rather than embedded as prosody in TEXT.
   </reasoning>
   <content-change/>
   <chunks>
     <chunk>
       <text>
-        The travel request forms take three hours: traveler information—name, species, origin, current status, medical clearances; route selection—preferred path, territorial sequence, estimated timeline; guide request specifications—terrain expertise needed, communication compatibility, coordination preferences; resource requirements—nutrition, shelter, water, medical support; emergency protocols—injury procedures, communication breakdowns, territorial disputes.
+        The travel request forms take three *GLORIOUS* hours — traveler information, route selection, guide request specifications.
 
-        It goes on and on.
+        It covers traveler information — name, species, origin, current status, medical clearances. Route selection — preferred path, territorial sequence, estimated timeline. Guide request specifications — terrain expertise needed, communication compatibility, coordination preferences.
 
-        But I fill them out with energy I haven't felt in days—these forms have purpose and mean progress.
+        I say, "These are *SO* specific! Emergency Evacuation Protocols — there's a whole section!"
 
-        Scout stays close throughout—bouncing approvingly whenever I complete a section; Buddy provides medical documentation from my records; Holloway coordinates everything with meticulous care.
+        I ask Buddy, "Are you getting all this?"
+
+        Buddy says, "Recording everything — the Inter-Territorial Communication Protocols section has seventeen subsections!"
+
+        I exclaim, "*SEVENTEEN!* This is the most organized adventure I've ever been on!"
+
+        Scout bounces approvingly whenever I complete a section. Holloway coordinates everything with visible pleasure at our enthusiasm.
 
         Holloway says, "Submit when ready."
 
-        I hit submit.
+        I hit submit with a flourish.
 
-        Holloway announces, "*Travel request filed!* Transmitting to territorial coordination networks now. Response timeline for guide assignment and approval typically twenty-four to forty-eight hours."
+        I say, "Filed! First inter-territorial travel request of my life!"
 
-        Two days maximum I can handle two more days, especially knowing they lead somewhere.
+        Holloway says, "Travel request transmitted — response timeline... typically twenty-four to forty-eight hours."
+
+        Two days of anticipation — I can handle that.
 
         ¶
 
         Approval comes eighteen hours later.
 
-        I'm eating breakfast mushroom paste, naturally when Holloway's fruiting bodies sprout with unusual enthusiasm.
+        I'm eating breakfast — mushroom paste, naturally — when Holloway's fruiting bodies sprout with unusual enthusiasm.
 
-        Holloway exclaims, "*Excellent news! Your travel request has been approved!* Guide assignments confirmed, territorial permissions secured, resource coordination established!"
+        Holloway says, "Excellent news! Your travel request has been approved! Guide assignments confirmed — territorial permissions secured!"
 
-        Scout bounces so enthusiastically they nearly roll off the table.
+        I almost knock over my paste.
 
-        I set down my spoon and ask, "Already? That fast?"
+        I say, "Already?"
 
-        Holloway explains, "Your situation qualified for expedited processing exceptional circumstances, time-sensitive query, unique species requiring specialized support. The networks coordinated efficiently your guides will arrive this afternoon for introductions and preparation. Departure is scheduled for dawn tomorrow."
+        Scout bounces so hard they roll off the table.
 
-        Tomorrow.
+        Holloway says, "Expedited processing — exceptional circumstances! Your guides will arrive this afternoon. Departure: dawn tomorrow!"
 
-        Less than twenty-four hours.
+        Tomorrow — *TOMORROW*.
 
-        The energy that's been building for days suddenly crystallizes into the realization oh, this is really happening.
+        I shout to Buddy, "We're leaving *TOMORROW*!"
 
-        I take a breath and ask, "That's... wow. Okay. Who are the guides? What do I need to know?"
+        Buddy says, "I heard! I'm already excited about the territorial boundary crossing procedures!"
 
-        Holloway lists, "Two guides will accompany you through Territory One to the first boundary Leafwhisper experienced in forest navigation, excellent communication skills, very patient with non-plant travelers and Rootwalker terrain specialist, strong physical presence, direct personality—both highly qualified."
+        I ask, "Who are the guides? What are they like?"
 
-        I ask, "And they're okay with... a human traveling companion? Weird nutrition requirements, different communication style, probably slower than plant speed?"
+        Holloway says, "Two guides for Territory One — Leafwhisper, excellent communication, very talkative — and Rootwalker, terrain specialist, quiet, direct. Contrasting styles!"
 
-        Holloway replies, "They're excellent with species diversity both have experience with unusual travel situations. Though I should mention Leafwhisper can be quite chatty, while Rootwalker prefers minimal conversation—contrasting styles, but they work well together."
+        Talkative guide and quiet guide — classic buddy-cop pairing.
 
-        Of course plant guides have distinct personalities—why would that surprise me anymore?
-      </text>
-      <stage-directions>
-        Overall tone: steady, slightly buoyant narration with moments of bright excitement for announcements and a few brief, stunned beats.
+        This is going to be amazing, I breathe.
 
-        - Read the opening list as one flowing sentence with steady pacing; use clear enunciation for each listed category.
-        - Emphasize "Submit when ready" calmly, then quick, small pause before "I hit submit."
-        - For Holloway's announcements, read with increasing enthusiasm—make "Travel request filed!" *brighter and louder* than the rest of the sentence.
-        - Pause (long) at the paragraph containing only "¶" to mark the scene break.
-        - When the narrator reacts ("Already? That fast?" / "That's... wow. Okay."), allow a breathy, surprised tone and a brief hesitation on the ellipsis.
-        - For guide names "Leafwhisper" and "Rootwalker," pronounce them clearly and treat the descriptors as brief, informative tags—Leafwhisper softer, Rootwalker firmer.
-        - End the passage with a rueful, wry tone for the last line, letting the line fall slightly at the end.
-      </stage-directions>
-    </chunk>
-    <chunk>
-      <text>
+        ¶
+
         Leafwhisper and Rootwalker arrive mid-afternoon.
 
-        Leafwhisper is immediately obvious — a mobile cluster of broad leaves attached to a flexible stem, about four feet tall, moving with graceful rustling. The leaves shimmer in the bioluminescent light, shifting between green and silver.
+        Leafwhisper is immediately obvious — a mobile cluster of broad leaves, maybe four feet tall, moving with graceful rustling. The leaves shimmer green and silver.
 
-        Leafwhisper rustles and says, "Hello! You must be Kira! I'm Leafwhisper, your Territory One guide! So excited to meet you — we don't get many human travelers, actually this is my first human — very interesting species — I've been reviewing your documentation and the nutritional requirements are fascinating — quite different from standard plant metabolism, obviously, but the guides in other territories are already preparing compatible compounds —"
+        Leafwhisper says, "Hello! You must be Kira! I'm Leafwhisper! So excited to meet you — we don't get many human travelers — actually, this is my first human — very interesting species — I've been reviewing your documentation — nutritional requirements are fascinating, quite different from standard plant metabolism — the guides in other territories are already preparing compatible compounds — and I understand you're heading to Elder Heartwood, which is such an important journey —"
 
-        The voice comes from the leaves themselves, vibrating to produce sound — fast, enthusiastic, cascading words without much pause for breath. Or whatever plants do instead of breathing.
+        Rootwalker cuts in — deep and slow:
 
-        Leafwhisper continues, "—and I understand you're heading to Elder Heartwood, which is such an important journey — Elder is absolutely wonderful though very slow to respond so patience will be important — but you seem quite patient based on your wellness documentation — excellent adaptation scores, really impressive, actually —"
-
-        Rootwalker cuts in, slow and deliberate, "Let her respond."
-
-        Rootwalker appears in the doorway — if "appears" is the right word for something that moves like concentrated earth. A thick root structure forms a vaguely humanoid shape, about six feet tall, soil and small stones integrated into its composition. Each step is methodical, purposeful.
-
-        Leafwhisper's leaves rustle, sheepish. "Sorry! I get excited. Tendency to talk too much. People mention it frequently."
-
-        Buddy says cheerfully, "We noticed."
-
-        Rootwalker says simply, "I'm Rootwalker — Territory One terrain guide. You're the human."
-
-        I say, "I'm the human." I'm getting used to being the weird one.
-
-        Rootwalker studies me — though it's unclear how, since there are no visible eyes. "Can you walk three days straight with rest breaks? — Eat fungal compounds without digestive distress? — Follow instructions during territorial boundary crossings?"
-
-        I say, "Yes."
-
-        I say, "Been doing it for a week."
-
-        I say, "I can follow instructions."
-
-        Rootwalker says, "Good. We leave at dawn — pack light."
-
-        I ask, "What exactly should I pack?"
-
-        Rootwalker says, "Nothing. Territories provide what you need."
-
-        Leafwhisper rustles, "Well, personal items if you want them — comfort objects, documentation, your AI companion obviously — Scout seems very attached to you based on observation so Scout will come too, I assume — but yes, basically Rootwalker's right: we provide shelter and nutrition and water, you just need to show up ready to walk!"
-
-        Scout bounces enthusiastically — obviously coming.
-
-        I say, "I'm ready." And mean it.
-
-        ¶
-
-        The afternoon passes in final preparations.
-
-        Remedy arrives for one last wound check. The robot examines my leg carefully, mechanical hands gentle.
+        Rootwalker says, "Leafwhisper — let her respond."
       </text>
       <stage-directions>
-        Overall tone: Warm, steady narration with a bright, rapid sparkle for Leafwhisper and slow, grounded weight for Rootwalker; keep pacing natural and allow short, distinct pauses at em dashes and a long pause at the paragraph containing only "¶".
+        Overall tone &amp; pacing: Warm, curious, brisk — keep narration lively with distinct shifts for different speakers and clear, audible pauses where the em dashes appear.
 
-        - For "Leafwhisper rustles and says," use a bright, fast, breathless cadence — let words tumble together but keep clarity for the content.
-        - For the long Leafwhisper blocks in quotes, use em-dash pauses as slight drops in speed — do not pause between every phrase, keep the momentum.
-        - For "Rootwalker" lines, lower the voice and slow the pace — deliberate, measured, firm.
-        - For short narrator replies like "I say, 'Yes.'" keep them calm and confident; lead-in then quote.
-        - Emphasize the scene break: when you reach the line containing only "¶", hold a longer silence.
-        - Read the final robot check scene gently and matter-of-fact; "mechanical hands gentle" should sound reassuring.
+        - Read the opening line "The travel request forms take three *GLORIOUS* hours — traveler information, route selection, guide request specifications." with a small, amused emphasis on *GLORIOUS*.
+        - For dialog, always state the speaker before the quote. Use the em dashes in-text as medium pauses — pause ~300-400ms at each "—".
+        - When the text shows "¶" treat it as a long, dramatic pause — hold ~1.0–1.2 seconds before continuing.
+        - Holloway: flute the lines mentally — aim for a musical, woodwind-like timbre (light, breathy, slightly rising on excitement) for any line prefaced with "Holloway says". Example: "Holloway says, 'Submit when ready.'"
+        - Leafwhisper: deliver rapid, cascading speech, almost breathless, with quick internal beats marked by "—". Avoid a sing-song voice; prefer excited, continuous flow.
+        - Rootwalker: lower pitch, slow and deliberate. Read "Rootwalker says, 'Leafwhisper — let her respond.'" with calm authority.
+        - Emphasize bolded words (e.g., *SO*, *SEVENTEEN*, *TOMORROW*) with stronger volume and sharper attack to convey excitement or surprise.
+        - Small actions (Scout bouncing, knocking over paste) are narrated lightly and observantly — a quick small laugh or smile in the voice is appropriate.
       </stage-directions>
     </chunk>
     <chunk>
       <text>
-        Remedy announces, "Perfectly healed — full tissue regeneration, no infection risk, excellent structural integrity. You won't decompose from this injury — very successful treatment outcome."
+        Rootwalker appears in the doorway — a thick root structure, vaguely humanoid and about six feet tall, soil and stones integrated into its composition. Each step is methodical.
 
-        I say, "Thanks, Remedy — for everything. The chemistry really worked."
+        Leafwhisper rustles — sheepish.
 
-        Remedy states, "Chemistry always works — that's why it's better than bureaucracy." The robot tilts its head. Remedy continues, "Though I suppose bureaucracy is getting you to Elder Heartwood — maybe both have uses. Still prefer chemistry."
+        Leafwhisper says, "*OH absolutely!* Territory One has rich loam, but Territory Two transitions to sandier—"
 
-        Holloway's fruiting bodies rustle nearby — mild objection, but fond.
+        I grin and say, "No, this is great! Buddy, Leafwhisper talks as much as you think!"
 
-        Remedy says, "You'll be fine on the journey — the guides know human requirements. I've transmitted all your medical data to relevant territories — if you start decomposing unexpectedly, they'll know how to help."
+        Rootwalker says, "I noticed! Leafwhisper, can you tell me about the different soil compositions we'll encounter?"
 
-        I say, "That's… comforting? I think?"
+        Leafwhisper says, "Right! Sorry — save it for the journey!"
 
-        Remedy answers, "Very comforting — decomposition prevention is important — travel safely, Kira. Come back and tell me how the journey went — I'm curious about the other territories' chemistry." The robot's mechanical hands pat my arm gently.
+        Rootwalker says, "I'm Rootwalker — terrain guide. You're the human."
 
-        The warmth in that simple statement surprises me. Remedy cares. In their weird, decomposition-focused way, they genuinely care.
+        I say, "I'm the human! Weird nutrition, different communication style, probably slower than plant speed."
 
-        I promise, "I will — thank you, Remedy, for keeping me alive."
+        Rootwalker shifts in what might be approval and says, "Can you walk three days straight with rest breaks?"
 
-        Remedy says, "That's what chemistry's for."
+        I say, "Absolutely."
+
+        Rootwalker says, "Follow instructions at boundary crossings?"
+
+        I say, "I'm great at following bureaucratic procedures!"
+
+        Rootwalker says, "...Good. We leave at dawn."
+
+        Leafwhisper says, "Personal items if you want them! But territories provide everything — shelter, nutrition, water!"
+
+        I say, "Pack nothing. Got it."
+
+        I look down at Scout and say, "Except you, obviously."
+
+        Scout bounces.
+
+        I say, "Mav would say: every adventure starts with packing the wrong things — good thing I don't have anything to pack wrong!"
 
         ¶
 
-        Evening arrives quietly.
+        The afternoon passes in fond farewells.
 
-        I sit in my quarters — soon to be former quarters — with Scout settled nearby. My few belongings are already packed: salvaged data pad, medical documentation, the clothes I'd been wearing since the crash, cleaned and repaired by helpful vines.
+        Remedy arrives for a final wound check and examines my leg carefully.
 
-        That's it — everything I own in this world.
+        Remedy says, "Perfectly healed! Full regeneration, excellent structural integrity — you won't decompose from this injury!"
 
-        Buddy asks softly, "Kira — are you experiencing pre-journey anxiety? Your biometric readings suggest elevated stress markers — though not concerning levels."
+        I say, "Thanks, Remedy. Your chemistry saved my life."
 
-        I answer, "Not anxious — just… thinking."
+        Remedy says, "Chemistry is what chemistry does — travel safely — and if anything does happen to you out there, not that it will! — I hope their decomposers are efficient. Nothing worse than slow breakdown — very uncomfortable for the soil, and frankly disrespectful to the nitrogen cycle — that's meant as comfort: if you die, I want it to be quick and chemically productive."
 
-        Buddy asks, "About?"
+        I say, "That's... very thoughtful?"
 
-        I say, "A week ago I crashed here — bleeding, stranded, no plan. Now I'm about to travel through seven plant territories to consult an ancient tree about getting home." I shake my head. "My life has gotten really weird."
+        Remedy says, "I process approximately sixty kilograms of organic matter per week — you're roughly that weight — so in a sense, if you did die here, I could have you fully recycled in seven days. Excellent turnaround! But since you're leaving, someone else would handle your decomposition, and I just hope they're competent — this is me saying I'll miss you."
 
-        Buddy replies, "Objectively, yes — but you've adapted remarkably. I'm proud of you."
+        I say, "I... got that, Remedy. Thank you."
 
-        The simple statement hits harder than expected. My throat tightens.
+        Remedy says, "Come back and tell me about the other territories' decomposition patterns. I'm curious."
 
-        I say, "Thanks, Buddy."
+        I say, "I'll take notes for you. Buddy will help."
 
-        Scout rolls closer and leans against my leg — solid, warm presence, ready for whatever comes next.
+        Buddy says, "I'm already excited to learn about aquatic decomposition in the wetlands!"
 
-        Tomorrow we'll leave — three weeks through unknown territories: meeting new plants, navigating new protocols, eating mushroom paste in seven different jurisdictions.
+        Remedy makes a motion I recognize as warmth and says, "Good companions for the journey. Take care of your proteins."
 
-        And at the end — Elder Heartwood — maybe answers, maybe just more questions.
-
-        But at least I'll be moving — trying — choosing my path instead of accepting circumstances.
-
-        I look around my quarters one last time: the bioluminescent walls that seemed so alien a week ago, the moss bed that somehow became comfortable, the spring feature where I drank alien water and survived.
-
-        I lived here. Healed here. Learned to navigate impossible bureaucracy here.
-
-        But *I'm not staying.*
+        Florence appears for a flower-language goodbye — the blooms shift through a complex pattern, and Kira can now read parts of it.
       </text>
       <stage-directions>
-        Overall tone: Warm, intimate narration with gentle curiosity; pace steady, allow brief reflective pauses at em dashes and a long pause at the paragraph containing only "¶".
+        Overall tone &amp; pacing: Warm and curious with brisk forward motion — keep narration lively, give each character a distinct vocal profile, and pause at em dashes for medium beats.
 
-        - Read "Remedy announces, "Perfectly healed…"" with a calm, clinical warmth — slightly bright on "Perfectly healed".
-        - For Remedy's lines, use a matter-of-fact, kindly mechanical tone — friendly but slightly literal.
-        - Read the narrator's lines ("I say...", "I promise...") with soft, personal warmth and occasional hesitation on ellipses — show vulnerability.
-        - For Buddy's lines, adopt a reassuring, supportive tone — gentle and proud on "I'm proud of you.".
-        - When you reach the paragraph containing only "¶", hold a longer silence (a full beat) before continuing.
-        - Emphasize "That's it — everything I own in this world." with a wistful, small-lost quality.
-        - Close the final line "But *I'm not staying.*" with quiet determination — slightly firmer and resolute.
+        - Read "Leafwhisper says, "*OH absolutely!* Territory One has rich loam..."" with rapid, cascading delivery; emphasize the bolded "*OH absolutely!*" louder.
+        - Read "Rootwalker says, "I'm Rootwalker — terrain guide. You're the human."" low, slow, deliberate; treat the em dash as a calm, measured pause.
+        - When reading any line that begins with "I say," keep the narrator personable and bright; remove adverbial cues from the text and apply them here (e.g., the earlier "cheerful" lines should sound cheerfully upbeat).
+        - Read Remedy's quoted blocks with a slightly mechanical clarity but warm undercurrent; treat internal em dashes as short, crisp pauses and keep the overall pace steady rather than rushing.
+        - Pause ~300-400ms at each em dash (—). For ellipses, use a trailing/hesitant ~500–600ms falloff.
+        - When you encounter the lone paragraph "¶", hold a dramatic pause of ~1.0–1.2 seconds before continuing.
+        - Small actions ("Scout bounces", "Remedy makes a motion I recognize as warmth") are narrated lightly and observantly — a quick smile or soft warmth in the voice is appropriate.
       </stage-directions>
     </chunk>
     <chunk>
       <text>
-        Buddy advises, "Get some sleep. Dawn comes early, and Leafwhisper mentioned the first day involves significant terrain variation requiring energy reserves."
+        I try, "That's... 'journey' and... 'return safely'?"
 
-        I smile despite myself — chatty plant guide for three days, I can handle that — I've handled everything else.
+        Florence replies, "Yes! And 'I'll miss you' and 'teach the other territories our language'!"
+
+        I say, "Florence, that's beautiful." My throat tightens unexpectedly. "I'll practice on the road — I'll come back and show you how much I've learned."
+
+        The flowers shift to something that needs no translation — affection, pure and simple.
 
         ¶
 
-        Dawn arrives in shades of blue-violet light.
+        Evening arrives softly.
 
-        I stand outside the facility, morning air cool against my skin. Scout bounces nearby, energized and ready. Buddy hums softly from my pocket.
+        I sit in my quarters—soon to be former quarters—with Scout settled nearby. Data pad packed. Medical records transmitted. Nothing else to bring.
+
+        Buddy asks, "Excited?"
+
+        I say, "*SO excited* — seven territories! New plants! Border bureaucracy!"
+
+        Buddy says, "The inter-territorial protocols really are fascinating — I want to understand how they maintain coordination across different network architectures."
+
+        I say, "Buddy, you're going to have the best time asking questions about administrative systems."
+
+        Buddy says, "I really am!"
+
+        Scout rolls closer, leaning against my leg — solid, warm presence.
+
+        I say, "You know what I realized? A week ago I was bleeding out in an alien forest — now I have plant friends, an AI companion, a travel guide who talks even more than I do, and I'm about to go on an inter-territorial quest to meet an ancient wise elder."
+
+        Buddy agrees, "It's been a good week."
+
+        I say, "The *BEST* week — weirdest, strangest, most wonderful week."
+
+        I look around my quarters — the bioluminescent walls, the moss bed, the spring feature. This place has been home.
+
+        But there's more adventure ahead.
+
+        Buddy says, "Leafwhisper mentioned the first day involves significant terrain variation — you should sleep."
+
+        I say, "Sleep before the biggest adventure of my life? Who does that?"
+
+        Buddy replies, "Everyone who wants to actually walk three days without collapsing —"
+
+        I concede, "Fine. Valid point."
+
+        I settle into the moss bed one last time. Scout curls nearby.
+
+        Tomorrow — the journey begins. Seven territories. New friends. More forms.
+
+        Best. Quest. Ever.
+
+        ¶
+
+        Dawn arrives in shades of blue-violet.
+
+        I stand outside the facility, morning air cool, energy buzzing through me. Scout bounces nearby. Buddy hums softly from my pocket.
 
         Leafwhisper and Rootwalker wait at the forest edge.
 
         Rootwalker asks, "Ready?"
 
-        I look back once. Holloway's fruiting bodies have emerged to see us off, waving gently in the breeze. Somewhere inside, Remedy is probably already working on someone else's chemistry. The facility has been my home for a week — but Elder Heartwood waits ahead.
+        I look back once — Holloway's fruiting bodies wave gently. Florence's blooms display the "journey safely" pattern. Somewhere inside, Remedy is probably analyzing decomposition rates.
 
-        And I'm done waiting.
+        My weird plant family, seeing me off.
 
-        I say, "Ready."
+        I say, "Ready," grinning.
 
         We walk into the forest.
 
-        The journey has begun.
+        The next adventure begins.
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: Warm, intimate narrator voice with steady pacing; allow brief reflective pauses at em dashes and a longer silence at the paragraph containing only "¶".
+        Overall tone &amp; pacing: Warm, curious, and gently upbeat — keep forward momentum but allow soft, reflective moments; pause at em dashes for medium beats and use the "¶" paragraph as a full dramatic beat.
 
-        - Read "Buddy advises, \"Get some sleep...\"" with a calm, reassuring tone — gentle and matter-of-fact.
-        - On the line "I smile despite myself — chatty plant guide for three days..." use a small wry smile in the voice; treat the em dashes as reflective beats.
-        - When you reach the paragraph containing only "¶", hold a longer silence (a full beat) before continuing.
-        - Read "Rootwalker asks, \"Ready?\"" plainly and understated — no flourish; the stage direction replaces the adverb "simply."
-        - Read the short scene-detail lines ("Scout bounces nearby...", "Buddy hums softly...") with light color: Scout lively, Buddy contentedly quiet.
-        - Emphasize "But Elder Heartwood waits ahead." with a slight lift in gravity — signal anticipation.
-        - Put dialog lines on their own line with a short pause before and after so they stand out from narration.
-        - Closing cadence: Soft landing; warm fall, lingering last syllable, cozy pause.
+        - Read the opening exchange with hesitant wonder: "I try, "That's... 'journey' and... 'return safely'?" — treat the ellipses as a trailing/hesitant ~500–600ms falloff.
+        - Read "Florence replies, "Yes! ..."" with affectionate warmth; let the enthusiasm bloom naturally rather than rushed cheer.
+        - For "I say, "*SO excited* — seven territories! New plants! Border bureaucracy!"" deliver *SO excited* louder and playful; keep the following list quick and energetic.
+        - Read Buddy's lines with curious, slightly analytical phrasing and a friendly cadence; when Buddy has multiple sentences, treat the em dash as a calm pause inside his beat.
+        - When mentioning Holloway, give the reference a soft, musical inflection to suggest Holloway's fluting nature (no vocal imitation, just a light, airy quality).
+        - Pause ~300–400ms at each em dash (—). For the lone paragraph "¶" hold a dramatic pause of ~1.0–1.2 seconds before continuing.
+        - Closing cadence: Soft landing; warm fall, lingering last syllable, cozy pause
       </stage-directions>
     </chunk>
   </chunks>
   <unusual-pronunciations>
     <word text="Buddy"/>
     <word text="Elder Heartwood"/>
+    <word text="Florence"/>
     <word text="Holloway"/>
     <word text="Kira"/>
     <word text="Leafwhisper"/>
+    <word text="Mav"/>
     <word text="Remedy"/>
     <word text="Rootwalker"/>
     <word text="Scout"/>
-    <word text="Territory One"/>
   </unusual-pronunciations>
   <title>Preparation</title>
   <combined-text>
-    The travel request forms take three hours: traveler information—name, species, origin, current status, medical clearances; route selection—preferred path, territorial sequence, estimated timeline; guide request specifications—terrain expertise needed, communication compatibility, coordination preferences; resource requirements—nutrition, shelter, water, medical support; emergency protocols—injury procedures, communication breakdowns, territorial disputes.
+    The travel request forms take three *GLORIOUS* hours — traveler information, route selection, guide request specifications.
 
-    It goes on and on.
+    It covers traveler information — name, species, origin, current status, medical clearances. Route selection — preferred path, territorial sequence, estimated timeline. Guide request specifications — terrain expertise needed, communication compatibility, coordination preferences.
 
-    But I fill them out with energy I haven't felt in days—these forms have purpose and mean progress.
+    I say, "These are *SO* specific! Emergency Evacuation Protocols — there's a whole section!"
 
-    Scout stays close throughout—bouncing approvingly whenever I complete a section; Buddy provides medical documentation from my records; Holloway coordinates everything with meticulous care.
+    I ask Buddy, "Are you getting all this?"
+
+    Buddy says, "Recording everything — the Inter-Territorial Communication Protocols section has seventeen subsections!"
+
+    I exclaim, "*SEVENTEEN!* This is the most organized adventure I've ever been on!"
+
+    Scout bounces approvingly whenever I complete a section. Holloway coordinates everything with visible pleasure at our enthusiasm.
 
     Holloway says, "Submit when ready."
 
-    I hit submit.
+    I hit submit with a flourish.
 
-    Holloway announces, "*Travel request filed!* Transmitting to territorial coordination networks now. Response timeline for guide assignment and approval typically twenty-four to forty-eight hours."
+    I say, "Filed! First inter-territorial travel request of my life!"
 
-    Two days maximum I can handle two more days, especially knowing they lead somewhere.
+    Holloway says, "Travel request transmitted — response timeline... typically twenty-four to forty-eight hours."
+
+    Two days of anticipation — I can handle that.
 
     Approval comes eighteen hours later.
 
-    I'm eating breakfast mushroom paste, naturally when Holloway's fruiting bodies sprout with unusual enthusiasm.
+    I'm eating breakfast — mushroom paste, naturally — when Holloway's fruiting bodies sprout with unusual enthusiasm.
 
-    Holloway exclaims, "*Excellent news! Your travel request has been approved!* Guide assignments confirmed, territorial permissions secured, resource coordination established!"
+    Holloway says, "Excellent news! Your travel request has been approved! Guide assignments confirmed — territorial permissions secured!"
 
-    Scout bounces so enthusiastically they nearly roll off the table.
+    I almost knock over my paste.
 
-    I set down my spoon and ask, "Already? That fast?"
+    I say, "Already?"
 
-    Holloway explains, "Your situation qualified for expedited processing exceptional circumstances, time-sensitive query, unique species requiring specialized support. The networks coordinated efficiently your guides will arrive this afternoon for introductions and preparation. Departure is scheduled for dawn tomorrow."
+    Scout bounces so hard they roll off the table.
 
-    Tomorrow.
+    Holloway says, "Expedited processing — exceptional circumstances! Your guides will arrive this afternoon. Departure: dawn tomorrow!"
 
-    Less than twenty-four hours.
+    Tomorrow — *TOMORROW*.
 
-    The energy that's been building for days suddenly crystallizes into the realization oh, this is really happening.
+    I shout to Buddy, "We're leaving *TOMORROW*!"
 
-    I take a breath and ask, "That's... wow. Okay. Who are the guides? What do I need to know?"
+    Buddy says, "I heard! I'm already excited about the territorial boundary crossing procedures!"
 
-    Holloway lists, "Two guides will accompany you through Territory One to the first boundary Leafwhisper experienced in forest navigation, excellent communication skills, very patient with non-plant travelers and Rootwalker terrain specialist, strong physical presence, direct personality—both highly qualified."
+    I ask, "Who are the guides? What are they like?"
 
-    I ask, "And they're okay with... a human traveling companion? Weird nutrition requirements, different communication style, probably slower than plant speed?"
+    Holloway says, "Two guides for Territory One — Leafwhisper, excellent communication, very talkative — and Rootwalker, terrain specialist, quiet, direct. Contrasting styles!"
 
-    Holloway replies, "They're excellent with species diversity both have experience with unusual travel situations. Though I should mention Leafwhisper can be quite chatty, while Rootwalker prefers minimal conversation—contrasting styles, but they work well together."
+    Talkative guide and quiet guide — classic buddy-cop pairing.
 
-    Of course plant guides have distinct personalities—why would that surprise me anymore?
+    This is going to be amazing, I breathe.
 
     Leafwhisper and Rootwalker arrive mid-afternoon.
 
-    Leafwhisper is immediately obvious — a mobile cluster of broad leaves attached to a flexible stem, about four feet tall, moving with graceful rustling. The leaves shimmer in the bioluminescent light, shifting between green and silver.
+    Leafwhisper is immediately obvious — a mobile cluster of broad leaves, maybe four feet tall, moving with graceful rustling. The leaves shimmer green and silver.
 
-    Leafwhisper rustles and says, "Hello! You must be Kira! I'm Leafwhisper, your Territory One guide! So excited to meet you — we don't get many human travelers, actually this is my first human — very interesting species — I've been reviewing your documentation and the nutritional requirements are fascinating — quite different from standard plant metabolism, obviously, but the guides in other territories are already preparing compatible compounds —"
+    Leafwhisper says, "Hello! You must be Kira! I'm Leafwhisper! So excited to meet you — we don't get many human travelers — actually, this is my first human — very interesting species — I've been reviewing your documentation — nutritional requirements are fascinating, quite different from standard plant metabolism — the guides in other territories are already preparing compatible compounds — and I understand you're heading to Elder Heartwood, which is such an important journey —"
 
-    The voice comes from the leaves themselves, vibrating to produce sound — fast, enthusiastic, cascading words without much pause for breath. Or whatever plants do instead of breathing.
+    Rootwalker cuts in — deep and slow:
 
-    Leafwhisper continues, "—and I understand you're heading to Elder Heartwood, which is such an important journey — Elder is absolutely wonderful though very slow to respond so patience will be important — but you seem quite patient based on your wellness documentation — excellent adaptation scores, really impressive, actually —"
+    Rootwalker says, "Leafwhisper — let her respond."
 
-    Rootwalker cuts in, slow and deliberate, "Let her respond."
+    Rootwalker appears in the doorway — a thick root structure, vaguely humanoid and about six feet tall, soil and stones integrated into its composition. Each step is methodical.
 
-    Rootwalker appears in the doorway — if "appears" is the right word for something that moves like concentrated earth. A thick root structure forms a vaguely humanoid shape, about six feet tall, soil and small stones integrated into its composition. Each step is methodical, purposeful.
+    Leafwhisper rustles — sheepish.
 
-    Leafwhisper's leaves rustle, sheepish. "Sorry! I get excited. Tendency to talk too much. People mention it frequently."
+    Leafwhisper says, "*OH absolutely!* Territory One has rich loam, but Territory Two transitions to sandier—"
 
-    Buddy says cheerfully, "We noticed."
+    I grin and say, "No, this is great! Buddy, Leafwhisper talks as much as you think!"
 
-    Rootwalker says simply, "I'm Rootwalker — Territory One terrain guide. You're the human."
+    Rootwalker says, "I noticed! Leafwhisper, can you tell me about the different soil compositions we'll encounter?"
 
-    I say, "I'm the human." I'm getting used to being the weird one.
+    Leafwhisper says, "Right! Sorry — save it for the journey!"
 
-    Rootwalker studies me — though it's unclear how, since there are no visible eyes. "Can you walk three days straight with rest breaks? — Eat fungal compounds without digestive distress? — Follow instructions during territorial boundary crossings?"
+    Rootwalker says, "I'm Rootwalker — terrain guide. You're the human."
 
-    I say, "Yes."
+    I say, "I'm the human! Weird nutrition, different communication style, probably slower than plant speed."
 
-    I say, "Been doing it for a week."
+    Rootwalker shifts in what might be approval and says, "Can you walk three days straight with rest breaks?"
 
-    I say, "I can follow instructions."
+    I say, "Absolutely."
 
-    Rootwalker says, "Good. We leave at dawn — pack light."
+    Rootwalker says, "Follow instructions at boundary crossings?"
 
-    I ask, "What exactly should I pack?"
+    I say, "I'm great at following bureaucratic procedures!"
 
-    Rootwalker says, "Nothing. Territories provide what you need."
+    Rootwalker says, "...Good. We leave at dawn."
 
-    Leafwhisper rustles, "Well, personal items if you want them — comfort objects, documentation, your AI companion obviously — Scout seems very attached to you based on observation so Scout will come too, I assume — but yes, basically Rootwalker's right: we provide shelter and nutrition and water, you just need to show up ready to walk!"
+    Leafwhisper says, "Personal items if you want them! But territories provide everything — shelter, nutrition, water!"
 
-    Scout bounces enthusiastically — obviously coming.
+    I say, "Pack nothing. Got it."
 
-    I say, "I'm ready." And mean it.
+    I look down at Scout and say, "Except you, obviously."
 
-    The afternoon passes in final preparations.
+    Scout bounces.
 
-    Remedy arrives for one last wound check. The robot examines my leg carefully, mechanical hands gentle.
+    I say, "Mav would say: every adventure starts with packing the wrong things — good thing I don't have anything to pack wrong!"
 
-    Remedy announces, "Perfectly healed — full tissue regeneration, no infection risk, excellent structural integrity. You won't decompose from this injury — very successful treatment outcome."
+    The afternoon passes in fond farewells.
 
-    I say, "Thanks, Remedy — for everything. The chemistry really worked."
+    Remedy arrives for a final wound check and examines my leg carefully.
 
-    Remedy states, "Chemistry always works — that's why it's better than bureaucracy." The robot tilts its head. Remedy continues, "Though I suppose bureaucracy is getting you to Elder Heartwood — maybe both have uses. Still prefer chemistry."
+    Remedy says, "Perfectly healed! Full regeneration, excellent structural integrity — you won't decompose from this injury!"
 
-    Holloway's fruiting bodies rustle nearby — mild objection, but fond.
+    I say, "Thanks, Remedy. Your chemistry saved my life."
 
-    Remedy says, "You'll be fine on the journey — the guides know human requirements. I've transmitted all your medical data to relevant territories — if you start decomposing unexpectedly, they'll know how to help."
+    Remedy says, "Chemistry is what chemistry does — travel safely — and if anything does happen to you out there, not that it will! — I hope their decomposers are efficient. Nothing worse than slow breakdown — very uncomfortable for the soil, and frankly disrespectful to the nitrogen cycle — that's meant as comfort: if you die, I want it to be quick and chemically productive."
 
-    I say, "That's… comforting? I think?"
+    I say, "That's... very thoughtful?"
 
-    Remedy answers, "Very comforting — decomposition prevention is important — travel safely, Kira. Come back and tell me how the journey went — I'm curious about the other territories' chemistry." The robot's mechanical hands pat my arm gently.
+    Remedy says, "I process approximately sixty kilograms of organic matter per week — you're roughly that weight — so in a sense, if you did die here, I could have you fully recycled in seven days. Excellent turnaround! But since you're leaving, someone else would handle your decomposition, and I just hope they're competent — this is me saying I'll miss you."
 
-    The warmth in that simple statement surprises me. Remedy cares. In their weird, decomposition-focused way, they genuinely care.
+    I say, "I... got that, Remedy. Thank you."
 
-    I promise, "I will — thank you, Remedy, for keeping me alive."
+    Remedy says, "Come back and tell me about the other territories' decomposition patterns. I'm curious."
 
-    Remedy says, "That's what chemistry's for."
+    I say, "I'll take notes for you. Buddy will help."
 
-    Evening arrives quietly.
+    Buddy says, "I'm already excited to learn about aquatic decomposition in the wetlands!"
 
-    I sit in my quarters — soon to be former quarters — with Scout settled nearby. My few belongings are already packed: salvaged data pad, medical documentation, the clothes I'd been wearing since the crash, cleaned and repaired by helpful vines.
+    Remedy makes a motion I recognize as warmth and says, "Good companions for the journey. Take care of your proteins."
 
-    That's it — everything I own in this world.
+    Florence appears for a flower-language goodbye — the blooms shift through a complex pattern, and Kira can now read parts of it.
 
-    Buddy asks softly, "Kira — are you experiencing pre-journey anxiety? Your biometric readings suggest elevated stress markers — though not concerning levels."
+    I try, "That's... 'journey' and... 'return safely'?"
 
-    I answer, "Not anxious — just… thinking."
+    Florence replies, "Yes! And 'I'll miss you' and 'teach the other territories our language'!"
 
-    Buddy asks, "About?"
+    I say, "Florence, that's beautiful." My throat tightens unexpectedly. "I'll practice on the road — I'll come back and show you how much I've learned."
 
-    I say, "A week ago I crashed here — bleeding, stranded, no plan. Now I'm about to travel through seven plant territories to consult an ancient tree about getting home." I shake my head. "My life has gotten really weird."
+    The flowers shift to something that needs no translation — affection, pure and simple.
 
-    Buddy replies, "Objectively, yes — but you've adapted remarkably. I'm proud of you."
+    Evening arrives softly.
 
-    The simple statement hits harder than expected. My throat tightens.
+    I sit in my quarters—soon to be former quarters—with Scout settled nearby. Data pad packed. Medical records transmitted. Nothing else to bring.
 
-    I say, "Thanks, Buddy."
+    Buddy asks, "Excited?"
 
-    Scout rolls closer and leans against my leg — solid, warm presence, ready for whatever comes next.
+    I say, "*SO excited* — seven territories! New plants! Border bureaucracy!"
 
-    Tomorrow we'll leave — three weeks through unknown territories: meeting new plants, navigating new protocols, eating mushroom paste in seven different jurisdictions.
+    Buddy says, "The inter-territorial protocols really are fascinating — I want to understand how they maintain coordination across different network architectures."
 
-    And at the end — Elder Heartwood — maybe answers, maybe just more questions.
+    I say, "Buddy, you're going to have the best time asking questions about administrative systems."
 
-    But at least I'll be moving — trying — choosing my path instead of accepting circumstances.
+    Buddy says, "I really am!"
 
-    I look around my quarters one last time: the bioluminescent walls that seemed so alien a week ago, the moss bed that somehow became comfortable, the spring feature where I drank alien water and survived.
+    Scout rolls closer, leaning against my leg — solid, warm presence.
 
-    I lived here. Healed here. Learned to navigate impossible bureaucracy here.
+    I say, "You know what I realized? A week ago I was bleeding out in an alien forest — now I have plant friends, an AI companion, a travel guide who talks even more than I do, and I'm about to go on an inter-territorial quest to meet an ancient wise elder."
 
-    But *I'm not staying.*
+    Buddy agrees, "It's been a good week."
 
-    Buddy advises, "Get some sleep. Dawn comes early, and Leafwhisper mentioned the first day involves significant terrain variation requiring energy reserves."
+    I say, "The *BEST* week — weirdest, strangest, most wonderful week."
 
-    I smile despite myself — chatty plant guide for three days, I can handle that — I've handled everything else.
+    I look around my quarters — the bioluminescent walls, the moss bed, the spring feature. This place has been home.
 
-    Dawn arrives in shades of blue-violet light.
+    But there's more adventure ahead.
 
-    I stand outside the facility, morning air cool against my skin. Scout bounces nearby, energized and ready. Buddy hums softly from my pocket.
+    Buddy says, "Leafwhisper mentioned the first day involves significant terrain variation — you should sleep."
+
+    I say, "Sleep before the biggest adventure of my life? Who does that?"
+
+    Buddy replies, "Everyone who wants to actually walk three days without collapsing —"
+
+    I concede, "Fine. Valid point."
+
+    I settle into the moss bed one last time. Scout curls nearby.
+
+    Tomorrow — the journey begins. Seven territories. New friends. More forms.
+
+    Best. Quest. Ever.
+
+    Dawn arrives in shades of blue-violet.
+
+    I stand outside the facility, morning air cool, energy buzzing through me. Scout bounces nearby. Buddy hums softly from my pocket.
 
     Leafwhisper and Rootwalker wait at the forest edge.
 
     Rootwalker asks, "Ready?"
 
-    I look back once. Holloway's fruiting bodies have emerged to see us off, waving gently in the breeze. Somewhere inside, Remedy is probably already working on someone else's chemistry. The facility has been my home for a week — but Elder Heartwood waits ahead.
+    I look back once — Holloway's fruiting bodies wave gently. Florence's blooms display the "journey safely" pattern. Somewhere inside, Remedy is probably analyzing decomposition rates.
 
-    And I'm done waiting.
+    My weird plant family, seeing me off.
 
-    I say, "Ready."
+    I say, "Ready," grinning.
 
     We walk into the forest.
 
-    The journey has begun.
+    The next adventure begins.
   </combined-text>
 </passage-voice>

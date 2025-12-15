@@ -1,361 +1,548 @@
 <!-- Generated automatically, do not edit except with ske gen passage-voice -->
-<passage-voice version="2.0.0">
-  <ref ref="passage.card#v2.0.0"/>
+<passage-voice version="3.1.0">
+  <ref ref="passage.card#v3.1.0"/>
   <reasoning>
-    <!-- For instructions on filling out reasoning: ske instructions stories/Mandatory_Assistance/chapters/4_Adaptation/passages/1_Morning_Wellness/passage-voice.card -->
+    1. Staccato sentences: Several very short sentences (e.g., "Morning. Probably.", "Remedy.") were merged or given dramatic spacing to avoid choppiness while keeping emphasis.
+    2. Dialog speaker clarity: Some lines lacked clear speaker lead-ins (e.g., "Buddy sounds cheerful"); I made each line's speaker explicit with lead-in then quoted dialog.
+    3. Ambiguous pronouns: Where speaker attribution might confuse a listener (e.g., multiple plant voices), I named the speaker before the quote (Buddy, Holloway, Remedy) to disambiguate.
+    4. Pauses: Added em dashes for medium pauses and an isolated paragraph with "¶" to mark a dramatic pause before the robot arrival.
+    5. Formal/stilted text: Kept the language mostly intact but joined very short sentences and smoothed some beats for natural spoken rhythm.
+    6. Symbols/non-text elements: None present in the passage; preserved numeric words as words ("nine hours").
+
+    Adjustments made follow the provided voiceover rules: dialog on its own lines, lead-in then quote style, multiple sequential beats by the same speaker combined into single blocks with em dashes, and the "¶" paragraph used for a long pause.
   </reasoning>
   <content-change/>
   <chunks>
     <chunk>
       <text>
-        Kira woke to shifting light—the bioluminescence brightening gradually, like a sunrise but bluer. The vine walls of her quarters glowed softly, pulsing with a gentle rhythm—morning, probably.
+        I wake to shifting light. The bioluminescence is brightening—gradual, like a sunrise but bluer. The vine walls of my quarters glow softly, pulsing with a gentle rhythm. Morning — probably.
 
-        Scout was still there, settled near the entrance. (Scout bounces once—greeting or relief, hard to say.)
+        Scout is still there, settled near the entrance; the small plant bounces twice when I stir — greeting, definitely. I'm learning Scout's language.
 
-        Kira said, "Morning." Her voice was rough. (Scout bounces again—enthusiastic.)
+        I say, "Morning, buddy."
+        Buddy says, "Good morning, Kira! You slept for approximately nine hours. Vital signs are stable. How do you feel?"
 
-        Buddy said, "Good morning, Kira. You slept for approximately nine hours. Vital signs are stable. Would you like a detailed sleep quality analysis?"
+        I respond, "Good, actually." I sit up carefully; my leg protests — still sore, but manageable. Healing pain, not injury pain. "I slept really well. This moss bed is surprisingly comfortable."
 
-        Kira said, "No." She sat up carefully—her leg protested, still sore but manageable. The pain was different now—healing pain, not injury pain—progress.
+        The facility is peaceful — just the faint rustle of living walls breathing and distant movement somewhere deeper in the structure. I slept in a plant building on an alien planet — and it was… nice?
 
-        The facility was surprisingly quiet—just the faint rustle of the living walls breathing, and distant movement deeper in the structure.
+        Holloway flutes from a fruiting body sprouting near the doorway.
 
-        She had slept in an alien plant building on an alien planet, with a bouncing plant sphere as her companion. This was her life now.
+        Holloway says, "Good morning! I was hoping you'd wake soon—time for your daily health status update!"
+
+        I ask, "Were you waiting for me?"
+
+        Holloway says, "Oh, I'm already here! I'm always already here — I have bodies near most occupied spaces. It's more efficient than traveling. Also — you mentioned yesterday your leg felt stiff in the mornings? I wanted to check if that's improving."
+
+        They remembered. Of course they remembered.
+
+        I grin. Here we go — the routine.
+
+        I say, "Good morning, Holloway!" — playing along. "I'm ready to provide my daily health status update per wellness protocol."
+
+        I'm getting good at this game — phrase it in their language and watch how happy it makes them.
+
+        Holloway says, "Excellent! How would you rate your overall wellness today on a scale of one to ten?"
+
+        I say, "Seven." I stand, testing my leg — stiff but functional. "Injury site shows improvement. Pain level reduced from yesterday. Sleep quality was good."
+
+        Holloway says, "Wonderful! Any new symptoms or concerns to report? — Perfect! I'm documenting: overall wellness seven out of ten, injury improving, no new concerns." Multiple fruiting bodies consult with each other. "Remedy will be here shortly for wound care assessment!"
+
+        There's something comforting about the predictability. I know what's coming — forms, wound care, documentation. The structure is actually kind of nice.
+
+        Scout bounces approvingly. The little plant has been there for everything since the forest — non-verbal support, gentle companionship.
+
+        Mushrooms begin fruiting in the corner — small pale clusters emerging rapidly from the soil.
+
+        Remedy.
 
         ¶
 
-        Holloway said, "Good morning! Time for your daily health status update!" (Voice coming from a fruiting body sprouting near the doorway.)
+        A minute later, the robot arrives, movements still jerky but purposeful.
 
-        There it was—the routine.
+        Remedy says, "Good morning, Kira — daily wound assessment protocol. How's the injury?"
 
-        Kira took a breath. Kira said, "Good morning, Holloway. I'm ready to provide my daily health status update per wellness protocol." See? She was learning—phrase it in their language, use their frameworks; the forms came faster that way.
+        I answer, "Better! Less pain, no infection signs."
 
-        Holloway said, "Excellent! How would you rate your overall wellness today on a scale of one to ten?"
-
-        Kira said, "Seven. Injury site shows improvement. Pain level reduced from yesterday. Sleep quality was good." She stood, testing her leg—stiff but functional.
-
-        Holloway said, "Wonderful! Any new symptoms or concerns to report?"
-
-        Kira said, "Negative. No new symptoms."
-
-        Holloway said, "Perfect. I'm documenting: overall wellness seven out of ten, injury improving, no new concerns." (Multiple fruiting bodies consult with each other.) Holloway continued, "Remedy will be here shortly for wound care assessment. Would you like me to update your care plan in the meantime?"
-
-        Kira said, "Yes, please update my care plan." (She says yes because saying yes made things happen; saying no only generated more questions.)
-
-        (Scout bounces approvingly.) The little plant had been there for every bureaucratic nightmare—nonverbal support that somehow helped more than Buddy's enthusiastic commentary.
-
-        Mushrooms began fruiting in the corner—small pale clusters emerging rapidly from the soil.
-
-        The robot arrived a minute later—movements still jerky but purposeful.
-
-        Remedy said, "Good morning, Kira. Daily wound assessment protocol. How's the injury?"
-
-        Kira said, "Better. Less pain, no signs of infection that I can see."
-
-        Remedy said, "Let's verify that assessment—remove the bandage, please."
-
-        Kira unwrapped the plant-fiber dressing. The wound beneath looked better—edges closed, redness reduced, no weeping. Chemistry was working.
+        Remedy says, "Let's verify that. Remove the bandage, please."
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: Calm, steady, slightly weary but attentive; take medium pauses at the em dashes and a longer, thoughtful pause at the lone "¶".
+        Overall tone &amp; pacing: Calm, observant, slightly amused — measured pacing with clear speaker shifts and a single dramatic pause before the robot arrives.
 
-        - For "Kira said, "Morning."": keep the line quiet, rough, brief.
-        - For parenthetical actions like "(Scout bounces...)": present these as small, bright movements—slightly faster cadence than the narration.
-        - For Buddy and Holloway lines: read them clearly and cheerfully—Buddy a touch upbeat; Holloway pleasantly procedural.
-        - For Kira's diagnostic lines ("Seven... Injury site shows improvement..."): measured, efficient, slightly clipped—she's reciting facts.
-        - At the paragraph with only "¶": pause longer—let the silence sit before Holloway's voice.
-        - For Remedy: adopt a direct, slightly mechanical cadence—neutral and precise.
-        - For the final wound reveal: soften and slow slightly on "edges closed, redness reduced, no weeping" to convey relief.
+        - Read narration in a relaxed, conversational tone with mild wonder when describing the environment: "The bioluminescence is brightening—gradual..."
+        - For "I say, \"Morning, buddy.\"" and similar first-person lines, keep them intimate and wry — slight smile in the voice.
+        - When "Buddy says..." use a bright, friendly tone — upbeat and supportive.
+        - Holloway: flute-like, musical, woodwind tones as noted — slightly breathy and rhythmic. Use medium pauses at em dashes in Holloway's lines ("—").
+        - Mark the dramatic pause with the single-paragraph "¶" — pause equivalent to a long beat before saying "A minute later...".
+        - Remedy: robotic, direct, efficient; slightly clipped and monotone on "Remedy says..." lines.
+        - Emphasize the small emotional beats (a grin, the comfort of routine) with softer, warmer delivery in those narration lines.
       </stage-directions>
     </chunk>
     <chunk>
       <text>
-        The robot examined it carefully, mechanical hands gentle.
+        I unwrap the plant-fiber dressing. The wound beneath looks better—edges closed, redness reduced, no weeping; the chemistry is working.
 
-        Remedy said, "Bacterial colonization successfully halted—cellular decomposition limited to damaged tissue only—that's good decomposition, the healing kind. New tissue formation progressing well. Your body is doing excellent work not dying."
+        Buddy asks, fascinated:
+        "How does the chemistry know what to do? Does it recognize human cells?"
 
-        Kira said, "Thanks—I'm trying."
+        Remedy examines my leg, explaining to Buddy:
+        "The antibacterial compounds don't need to 'know' anything—they break down bacterial cell walls on contact. Very effective. See how the wound edges are closing? New tissue formation. Your body is doing excellent work not dying, Kira."
 
-        Remedy said, "Very decomposable wound initially, but the antibacterial compounds prevented catastrophic tissue breakdown—human bodies are really quite remarkable at self-repair when we prevent the wrong kind of decomposition."
+        I say, "Thanks. I'm trying."
 
-        Scout bounced sympathetically.
+        Remedy sounds satisfied:
+        "Very decomposable wound initially, but the compounds prevented catastrophic breakdown—human bodies are really quite remarkable at self-repair."
 
-        Kira observed, "You're still talking about decomposition."
+        I observe, grinning: "You're still talking about decomposition."
 
-        Remedy said, "It's relevant! There's good decomposition—damaged cells breaking down so new ones can grow—and bad decomposition, which is bacteria eating you. We want one, not the other."
+        Remedy says, emphatic:
+        "It's relevant! Good decomposition—damaged cells breaking down so new ones can grow—versus bad decomposition, bacteria eating you. Important distinction!"
 
-        Kira said, "I appreciate the distinction."
+        I say, "I appreciate the education."
 
-        Remedy applied fresh antibacterial gel—cool, slightly tingly—and said, "New bandage required. I'll need to document wound closure percentage, tissue regeneration status, and treatment efficacy rating."
+        Buddy asks, curious:
+        "Can humans decompose things on purpose? For food or medicine?"
 
-        Of course—documentation.
+        I say, "Sort of! Fermentation—cheese, bread, beer—we use bacteria and fungi to break down food."
+
+        Remedy sounds delighted: *FASCINATING!*
+
+        I'm laughing now—standing in an alien medical chamber, discussing decomposition techniques with a mushroom robot while my AI companion takes notes; this is my life. And somehow, it's actually kind of great?
+
+        Remedy applies fresh bandages—soft, clean, properly secured—and states:
+        "Daily wound care for four to five more days, then every other day. Full healing in two weeks."
+
+        I say, "Two weeks—I can do that."
 
         ¶
 
-        Holloway called from the wall, "I have the wound assessment forms ready!"
+        Thick green vines push up through the soil near my feet—fast, much faster than plants should grow. They're already wrapping around my ankle before I can react.
 
-        Forms—always forms.
+        I start, "What—"
 
-        But Kira was learning this game too.
+        A voice from the vines—Runner, apparently—says:
+        "Hello! You're the human! Can I feel your injury?"
 
-        Kira reported, "Wound closure approximately seventy percent—tissue regeneration visible—treatment efficacy highly effective."
+        The vines are already climbing my calf, heading for the fresh bandage.
 
-        Holloway said, "Excellent self-assessment! Very thorough."
+        Remedy says flatly:
+        "Runner—no. I just finished dressing that."
 
-        Remedy applied fresh bandages—soft, clean, properly secured—and said, "You'll need daily wound care for another four to five days—then we can move to every other day—full healing maybe two weeks total."
+        Runner says, eager:
+        "But I want to understand it! What does damaged human feel like? Is it puffy? It looks puffy."
 
-        Two weeks—she could do two weeks. If rescue didn't come first—which seemed increasingly unlikely.
+        I'm standing very still; thick vines are wrapped around my leg, more emerging from the ground.
 
-        Holloway said, "I'll note the updated care timeline. You're showing excellent progress, Kira—we're very pleased with your recovery trajectory!"
+        Holloway explains, resigned: "Runner is tactile. Very tactile."
 
-        Several fruiting bodies sprouted and consulted.
+        Runner says, reaching: "I just need to feel the wound."
 
-        They really were pleased—genuinely happy she wasn't dying. The warmth came through even in the bureaucratic language.
+        Vines brush against the bandage.
 
-        Kira said, "Thank you—all of you. The treatment is working."
+        Runner says, probing:
+        "Soft. This is soft. Is this the injury or the covering? Let me—"
 
-        Remedy said proudly, "*Chemistry doesn't lie!* Unlike bureaucracy, which is mostly lying to yourself that procedures solve everything."
+        Remedy snaps, "That's the *BANDAGE*—don't unwrap it."
 
-        Holloway's fruiting bodies rustled—mild offense.
+        Runner asks, puzzled: "But how can I understand the injury through the bandage?"
 
-        Holloway countered, "Procedures provide structure and consistency—very important for coordinated care!"
+        Remedy replies, "You don't need to understand the injury. I'm treating it."
 
-        Remedy said, "*Structure is just organized lying.*"
+        Runner says, curious and insistent:
+        "But I'm curious. Your leg is warm—warmer than the air. Is that normal? Can I feel your other leg for comparison?"
 
-        Scout bounced between them—mediator or entertainer, hard to say.
-
-        Despite everything, Kira smiled. They had personalities, individual perspectives—Remedy's practical chemistry vs. Holloway's bureaucratic coordination—both trying to help in their own ways.
-
-        She was starting to see them as people, not just obstacles. That was probably dangerous—getting attached to the alien plants keeping her alive through workplace safety protocols. But also inevitable.
+        Vines are already reaching for my other leg.
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: Calm, slightly wry, conversational—steady pacing with medium pauses at em dashes and a longer, reflective pause at the lone "¶".
+        Overall tone &amp; pacing: Calm, mildly amused, and conversational with clear speaker changes; increase curiosity and quicken slightly during the vine eruption.
 
-        - Read the narrator lines with neutral warmth; keep descriptive phrases like "mechanical hands gentle" soft and observant.
-        - For "Remedy said" lines: adopt a precise, slightly mechanical cadence; when the line contains an aside use a small pause at the em dash ("—").
-        - For Kira: measured, human, quietly weary—merge short lines into single breaths (e.g., read "Thanks—I'm trying" as one beat).
-        - For Holloway: crisp, procedural, mild cheerfulness; the call from the wall should feel slightly distant but clear: "I have the wound assessment forms ready!"
-        - Emphasize the bolded lines louder and with a bit more confidence: "*Chemistry doesn't lie!*" and "*Structure is just organized lying.*"
-        - For actions like "Scout bounced sympathetically" and "Several fruiting bodies sprouted and consulted": make them quick, light movements—slightly brighter cadence than the narration.
-        - At the isolated "¶": hold a longer silence (about 1 second) before delivering Holloway's call so the pause registers.
+        - Read narration in a relaxed, wry voice; keep pacing measured and allow short breaths at em dashes in narration.
+        - For "Buddy asks, fascinated:" use a bright, eager tone on the quoted lines.
+        - Remedy should be clipped, robotic, and direct; when Remedy is "satisfied" or "delighted" add a touch of mechanical echo only in attitude, not in prosody.
+        - When the narrator speaks ("I say...", "I observe...") keep it intimate and slightly amused.
+        - Holloway lines should be flute-like and airy; give a slight musical inflection on "Runner is tactile. Very tactile."
+        - Runner (the vines) should sound tactile and curious—gentle, probing, with rising intonation on questions; make the vine actions feel tactile (light brushing) in the reader's voice.
+        - Mark the dramatic moment before the vines with the paragraph containing only "¶" — pause long before saying "Thick green vines..."
       </stage-directions>
     </chunk>
     <chunk>
       <text>
-        Kira asked, "Are there any other morning wellness tasks?"
+        Holloway says, "Runner. Personal space protocols."
 
-        Holloway suggested, "Hydration status?"
+        Runner says, "Right, right." *the vines pause* "Can I feel your other leg for comparison? I'm asking."
 
-        Kira gestured vaguely and said, "I should drink water—where's the…?"
+        I say, "I... sure?"
 
-        Scout bounced toward the spring feature—water flowed through shaped vines into a collection basin. Right—she'd seen it yesterday.
+        Immediately, vines wrap around my other calf.
 
-        Kira drank from cupped hands. The water was cool and clean, tasted faintly green—alien planet water processed through living architecture. Probably fine—hopefully.
+        Runner says, "This one's also warm. Similar texture. But this one" — *she squeezes the injured leg* — "is puffier here. Interesting. What does puffy mean? Is that healing or damage? Can I feel under the bandage?"
 
-        Not like she had options. Her stomach growled.
+        Remedy says firmly, "No."
 
-        Holloway said, "Oh—nutritional intake. Have you eaten since arrival?"
+        Runner says, "Just the edges?"
 
-        Kira paused, "No—there wasn't really… time, or food."
+        Remedy says, "No."
 
-        Several fruiting bodies exclaimed, "That's a significant oversight—humans require regular nutritional intake per biological maintenance protocols!"
+        Runner says, "What about her arm? Can I feel her arm?" *the vines slide up toward my hand* "Arms aren't injured, right? Just for comparison. Arm texture versus leg texture."
 
-        Kira said, "Yeah—we do. Is there… is there human-compatible food available?"
+        Scout bounces uncertainly, watching the vines wrap around my wrist.
+
+        Buddy says in my mind, "Kira, this seems like something you should discuss with a trusted adult. When someone touches you without permission, you should tell a—"
 
         ¶
 
-        Holloway said carefully, "We'll need to conduct a dietary assessment—and file nutritional accommodation requests. This may take some time."
+        Buddy continues in my mind, "Wait. You ARE the adult. I don't... my protocols don't have a path for this. What do adults do when other adults touch them too much?"
 
-        Of course it would. Kira's stomach growled again—more urgently.
+        I mutter, "They set boundaries."
 
-        Kira asked, "How much time?"
+        Buddy says in my mind, "Oh! Should I help you practice boundary-setting phrases? I have a whole module—"
 
-        Holloway said, "Standard dietary assessment protocol is approximately four hours—including forms, testing, and approval processes."
+        I say, "Buddy. Not now."
 
-        Four hours—while hungry, after not eating since the crash—how long, a day and a half?
+        Buddy says in my mind, "Right. Sorry. I'll just... be here."
 
-        Kira made herself say, "I understand—let's begin the dietary assessment process. I'm ready to provide nutritional requirements documentation."
+        Runner observes, "This is very smooth." *vines circle my forearm* "Smoother than leg. Why is arm smoother than leg? And there are small hairs here" — *a vine tip traces along my arm* — "but not here. Patchy hair distribution. Fascinating."
 
-        See? She was learning—phrase it in their framework. Work within the system. Even when her stomach was eating itself.
+        I say carefully, "Runner, are you going to do this every time we meet?"
 
-        Holloway said, "*Wonderful attitude!* I'll prepare the forms immediately!"
+        ¶
 
-        Remedy tilted its head and observed, "Humans can actually survive several weeks without food—though subjective discomfort increases significantly. Interesting how biological maintenance panic starts long before actual decomposition risk. Just providing context—your body won't start breaking down vital tissues for at least another week or two."
+        Runner admits, "Probably. I think through touching. Is that a problem? You seem tense. Your arm is tense now. It wasn't tense before. Can I feel your shoulder? Shoulders hold tension—"
 
-        Kira muttered, "_Very_ comforting, thanks."
+        I say, "Maybe later."
 
-        Scout bounced anxiously and pressed against her leg. Kira reached down to touch the fuzzy surface and said, "It's okay—I can wait four hours."
+        Runner says, "Okay but your shoulder is RIGHT THERE and I just want to—"
 
-        She had survived worse yesterday—workplace safety training, medical documentation while bleeding. This was just hungry paperwork.
+        Holloway's voice is firmer: "Runner."
 
-        She could adapt to this. She was adapting, apparently.
+        The vines reluctantly uncoil, sliding back toward the hole in the floor.
 
-        One absurd bureaucratic requirement at a time.
+        Runner says, "Fine. But I have questions. About texture. And temperature. And the puffy thing."
+
+        Remedy says, "You can ask questions without touching."
+
+        Runner replies, "Can I though?" *she sounds genuinely uncertain* "That seems harder."
+
+        The vines disappear underground, leaving a small opening in the soil that slowly closes over.
+
+        I look at Remedy's robot, at Scout, at Holloway's fruiting bodies. "Does Runner... do that to everyone?"
+
+        All three say simultaneously, "Yes."
+
+        Holloway adds, "She means well. Runner just... experiences the world through touch. Processing information requires contact."
+
+        Remedy says darkly, "She touched my fruiting structures once."
+
+        Holloway says diplomatically, "She was curious about spore release."
+
+        Remedy snaps, "*She was INVASIVE.*"
+
+        Scout bounces in a way that suggests Scout has also been thoroughly investigated by Runner's vines.
+
+        I say, "Okay. So. Runner exists. And is very... hands-on."
+
+        Buddy corrects helpfully, "Vines-on."
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: Dryly wry, restrained fatigue from Kira; steady pacing with medium pauses at em dashes and a longer pause at the lone "¶".
+        Overall tone &amp; pacing: Calm, mildly amused, and conversational; keep narration intimate and slightly wry, quickening slightly when Runner (the vines) speaks or acts.
 
-        - Read narrator lines with neutral warmth and a touch of wry resignation; keep pacing calm and conversational.
-        - For Kira: measured, quietly weary—merge short thoughts into single breaths and use a gentle, human inflection when she speaks; show small impatience on lines like "How much time?".
-        - For Holloway: crisp, procedural, mildly cheerful—keep delivery precise and slightly removed; treat em dashes as medium pauses.
-        - For Remedy (the robot): precise, observational, slightly tilted, almost clinical—deliver the block of text as one continuous, slightly detached beat.
-        - For the fruiting bodies and Scout: quick, brighter cadences—fruiting bodies alarmed and collective; Scout playful/anxious sounds should be light and quick.
-        - Pause cues: treat "…" as a trailing/hesitant pause; treat em dash (—) as a medium pause (~300–400ms); at the paragraph with only "¶" hold a longer pause (~1 second) before continuing.
-        - Emphasis: read *bolded* lines louder/with more force; read _italicized_ lines with a softer, ironic emphasis.
-        - Closing cadence: Plain closing cadence; clean fall, short pause.
+        - Read narration in a relaxed, wry voice; keep pacing measured and allow short breaths at em dashes.
+        - For lines introduced "Holloway says," use a flute-like, musical tone—airy and light on the delivery.
+        - Runner's lines should be curious and tactile—gentle, probing, with rising intonation on questions; read the stage directions (e.g., "*she squeezes the injured leg*") as short action notes, not as spoken aside.
+        - Remedy should be clipped and direct; when marked "darkly" or "firmly," add a cold edge but avoid exaggerated prosody.
+        - Buddy's internal voice is bright and eager at first, then confused and uncertain—shift from upbeat to hesitant during the long pause. Indicate internal speech by slightly softer volume.
+        - Use the paragraph containing only "¶" to hold a clear, longer beat before the next line; pause for effect before continuing.
+        - Emphasize "*She was INVASIVE.*" with force—this should sound like a sharp, angry accusation.
+      </stage-directions>
+    </chunk>
+    <chunk>
+      <text>
+        Holloway says, "You're showing excellent progress! — We're very pleased with your recovery!"
+
+        They really are pleased—genuinely happy I'm healing. It comes through even in the bureaucratic language—warmth beneath the protocols.
+
+        I say, "Thank you — all of you. The treatment is working."
+
+        Remedy says, "Chemistry doesn't lie!"
+
+        Scout bounces approvingly.
+
+        I drink water from the spring feature—cool, clean, faintly green. Then my stomach growls loudly.
+
+        Holloway says, "Oh! — Nutritional intake. Have you eaten since arrival?"
+
+        I say, "No — there wasn't time, or food."
+
+        Multiple fruiting bodies consult urgently, "We'll need to conduct a dietary assessment! — This may take some time—approximately four hours."
+
+        I grin.
+
+        I ask, "Dietary assessment forms? — I can't wait to see what those look like."
+
+        Holloway says, "Very thorough!"
+
+        Buddy asks, "What kind of questions do they ask?"
+
+        I say, "Let's find out — I'm ready to provide nutritional requirements documentation."
+
+        Remedy says, "Humans can survive weeks without food, though subjective discomfort increases — but we'd rather not test that!"
+
+        Several voices say, "Agreed — let's do the forms."
+
+        Scout bounces encouragingly and we head toward the medical chamber.
+
+        Four hours of dietary paperwork — then food.
+
+        This is the weirdest adventure I could have imagined — and I'm actually enjoying it.
+      </text>
+      <stage-directions>
+        Overall tone &amp; pacing: Calm, mildly amused, conversational and intimate; quicken slightly on small jokes and when characters like Scout or Remedy speak.
+
+        - Read narration in a relaxed, wry voice; allow short breaths at em dashes and keep phrasing natural and warm.
+        - For lines starting "Holloway says," use a flute-like, musical tone—airy and light: read "Holloway says, "You're showing excellent progress! — We're very pleased with your recovery!"" with gentle brightness.
+        - Remedy's lines should be clipped and confident—read "Remedy says, 'Chemistry doesn't lie!'" with crisp diction and slight pride.
+        - Buddy's question "What kind of questions do they ask?" should sound curious and bright—slightly higher pitch and faster pacing.
+        - When the narrator's stomach growls line appears, pause briefly before "Then my stomach growls loudly"—give the growl line a small, surprised emphasis.
+        - For the staff group lines ("Multiple fruiting bodies consult urgently" / "Several voices say"), use a slightly formal, procedural tone—then relax into warmth when the group agrees.
+        - Soft landing; warm fall, lingering last syllable, cozy pause.
       </stage-directions>
     </chunk>
   </chunks>
+  <unusual-pronunciations>
+    <word text="Holloway"/>
+    <word text="Kira"/>
+    <word text="bioluminescence"/>
+  </unusual-pronunciations>
   <title>Morning Wellness</title>
   <combined-text>
-    Kira woke to shifting light—the bioluminescence brightening gradually, like a sunrise but bluer. The vine walls of her quarters glowed softly, pulsing with a gentle rhythm—morning, probably.
+    I wake to shifting light. The bioluminescence is brightening—gradual, like a sunrise but bluer. The vine walls of my quarters glow softly, pulsing with a gentle rhythm. Morning — probably.
 
-    Scout was still there, settled near the entrance. (Scout bounces once—greeting or relief, hard to say.)
+    Scout is still there, settled near the entrance; the small plant bounces twice when I stir — greeting, definitely. I'm learning Scout's language.
 
-    Kira said, "Morning." Her voice was rough. (Scout bounces again—enthusiastic.)
+    I say, "Morning, buddy."
+    Buddy says, "Good morning, Kira! You slept for approximately nine hours. Vital signs are stable. How do you feel?"
 
-    Buddy said, "Good morning, Kira. You slept for approximately nine hours. Vital signs are stable. Would you like a detailed sleep quality analysis?"
+    I respond, "Good, actually." I sit up carefully; my leg protests — still sore, but manageable. Healing pain, not injury pain. "I slept really well. This moss bed is surprisingly comfortable."
 
-    Kira said, "No." She sat up carefully—her leg protested, still sore but manageable. The pain was different now—healing pain, not injury pain—progress.
+    The facility is peaceful — just the faint rustle of living walls breathing and distant movement somewhere deeper in the structure. I slept in a plant building on an alien planet — and it was… nice?
 
-    The facility was surprisingly quiet—just the faint rustle of the living walls breathing, and distant movement deeper in the structure.
+    Holloway flutes from a fruiting body sprouting near the doorway.
 
-    She had slept in an alien plant building on an alien planet, with a bouncing plant sphere as her companion. This was her life now.
+    Holloway says, "Good morning! I was hoping you'd wake soon—time for your daily health status update!"
 
-    Holloway said, "Good morning! Time for your daily health status update!" (Voice coming from a fruiting body sprouting near the doorway.)
+    I ask, "Were you waiting for me?"
 
-    There it was—the routine.
+    Holloway says, "Oh, I'm already here! I'm always already here — I have bodies near most occupied spaces. It's more efficient than traveling. Also — you mentioned yesterday your leg felt stiff in the mornings? I wanted to check if that's improving."
 
-    Kira took a breath. Kira said, "Good morning, Holloway. I'm ready to provide my daily health status update per wellness protocol." See? She was learning—phrase it in their language, use their frameworks; the forms came faster that way.
+    They remembered. Of course they remembered.
 
-    Holloway said, "Excellent! How would you rate your overall wellness today on a scale of one to ten?"
+    I grin. Here we go — the routine.
 
-    Kira said, "Seven. Injury site shows improvement. Pain level reduced from yesterday. Sleep quality was good." She stood, testing her leg—stiff but functional.
+    I say, "Good morning, Holloway!" — playing along. "I'm ready to provide my daily health status update per wellness protocol."
 
-    Holloway said, "Wonderful! Any new symptoms or concerns to report?"
+    I'm getting good at this game — phrase it in their language and watch how happy it makes them.
 
-    Kira said, "Negative. No new symptoms."
+    Holloway says, "Excellent! How would you rate your overall wellness today on a scale of one to ten?"
 
-    Holloway said, "Perfect. I'm documenting: overall wellness seven out of ten, injury improving, no new concerns." (Multiple fruiting bodies consult with each other.) Holloway continued, "Remedy will be here shortly for wound care assessment. Would you like me to update your care plan in the meantime?"
+    I say, "Seven." I stand, testing my leg — stiff but functional. "Injury site shows improvement. Pain level reduced from yesterday. Sleep quality was good."
 
-    Kira said, "Yes, please update my care plan." (She says yes because saying yes made things happen; saying no only generated more questions.)
+    Holloway says, "Wonderful! Any new symptoms or concerns to report? — Perfect! I'm documenting: overall wellness seven out of ten, injury improving, no new concerns." Multiple fruiting bodies consult with each other. "Remedy will be here shortly for wound care assessment!"
 
-    (Scout bounces approvingly.) The little plant had been there for every bureaucratic nightmare—nonverbal support that somehow helped more than Buddy's enthusiastic commentary.
+    There's something comforting about the predictability. I know what's coming — forms, wound care, documentation. The structure is actually kind of nice.
 
-    Mushrooms began fruiting in the corner—small pale clusters emerging rapidly from the soil.
+    Scout bounces approvingly. The little plant has been there for everything since the forest — non-verbal support, gentle companionship.
 
-    The robot arrived a minute later—movements still jerky but purposeful.
+    Mushrooms begin fruiting in the corner — small pale clusters emerging rapidly from the soil.
 
-    Remedy said, "Good morning, Kira. Daily wound assessment protocol. How's the injury?"
+    Remedy.
 
-    Kira said, "Better. Less pain, no signs of infection that I can see."
+    A minute later, the robot arrives, movements still jerky but purposeful.
 
-    Remedy said, "Let's verify that assessment—remove the bandage, please."
+    Remedy says, "Good morning, Kira — daily wound assessment protocol. How's the injury?"
 
-    Kira unwrapped the plant-fiber dressing. The wound beneath looked better—edges closed, redness reduced, no weeping. Chemistry was working.
+    I answer, "Better! Less pain, no infection signs."
 
-    The robot examined it carefully, mechanical hands gentle.
+    Remedy says, "Let's verify that. Remove the bandage, please."
 
-    Remedy said, "Bacterial colonization successfully halted—cellular decomposition limited to damaged tissue only—that's good decomposition, the healing kind. New tissue formation progressing well. Your body is doing excellent work not dying."
+    I unwrap the plant-fiber dressing. The wound beneath looks better—edges closed, redness reduced, no weeping; the chemistry is working.
 
-    Kira said, "Thanks—I'm trying."
+    Buddy asks, fascinated:
+    "How does the chemistry know what to do? Does it recognize human cells?"
 
-    Remedy said, "Very decomposable wound initially, but the antibacterial compounds prevented catastrophic tissue breakdown—human bodies are really quite remarkable at self-repair when we prevent the wrong kind of decomposition."
+    Remedy examines my leg, explaining to Buddy:
+    "The antibacterial compounds don't need to 'know' anything—they break down bacterial cell walls on contact. Very effective. See how the wound edges are closing? New tissue formation. Your body is doing excellent work not dying, Kira."
 
-    Scout bounced sympathetically.
+    I say, "Thanks. I'm trying."
 
-    Kira observed, "You're still talking about decomposition."
+    Remedy sounds satisfied:
+    "Very decomposable wound initially, but the compounds prevented catastrophic breakdown—human bodies are really quite remarkable at self-repair."
 
-    Remedy said, "It's relevant! There's good decomposition—damaged cells breaking down so new ones can grow—and bad decomposition, which is bacteria eating you. We want one, not the other."
+    I observe, grinning: "You're still talking about decomposition."
 
-    Kira said, "I appreciate the distinction."
+    Remedy says, emphatic:
+    "It's relevant! Good decomposition—damaged cells breaking down so new ones can grow—versus bad decomposition, bacteria eating you. Important distinction!"
 
-    Remedy applied fresh antibacterial gel—cool, slightly tingly—and said, "New bandage required. I'll need to document wound closure percentage, tissue regeneration status, and treatment efficacy rating."
+    I say, "I appreciate the education."
 
-    Of course—documentation.
+    Buddy asks, curious:
+    "Can humans decompose things on purpose? For food or medicine?"
 
-    Holloway called from the wall, "I have the wound assessment forms ready!"
+    I say, "Sort of! Fermentation—cheese, bread, beer—we use bacteria and fungi to break down food."
 
-    Forms—always forms.
+    Remedy sounds delighted: *FASCINATING!*
 
-    But Kira was learning this game too.
+    I'm laughing now—standing in an alien medical chamber, discussing decomposition techniques with a mushroom robot while my AI companion takes notes; this is my life. And somehow, it's actually kind of great?
 
-    Kira reported, "Wound closure approximately seventy percent—tissue regeneration visible—treatment efficacy highly effective."
+    Remedy applies fresh bandages—soft, clean, properly secured—and states:
+    "Daily wound care for four to five more days, then every other day. Full healing in two weeks."
 
-    Holloway said, "Excellent self-assessment! Very thorough."
+    I say, "Two weeks—I can do that."
 
-    Remedy applied fresh bandages—soft, clean, properly secured—and said, "You'll need daily wound care for another four to five days—then we can move to every other day—full healing maybe two weeks total."
+    Thick green vines push up through the soil near my feet—fast, much faster than plants should grow. They're already wrapping around my ankle before I can react.
 
-    Two weeks—she could do two weeks. If rescue didn't come first—which seemed increasingly unlikely.
+    I start, "What—"
 
-    Holloway said, "I'll note the updated care timeline. You're showing excellent progress, Kira—we're very pleased with your recovery trajectory!"
+    A voice from the vines—Runner, apparently—says:
+    "Hello! You're the human! Can I feel your injury?"
 
-    Several fruiting bodies sprouted and consulted.
+    The vines are already climbing my calf, heading for the fresh bandage.
 
-    They really were pleased—genuinely happy she wasn't dying. The warmth came through even in the bureaucratic language.
+    Remedy says flatly:
+    "Runner—no. I just finished dressing that."
 
-    Kira said, "Thank you—all of you. The treatment is working."
+    Runner says, eager:
+    "But I want to understand it! What does damaged human feel like? Is it puffy? It looks puffy."
 
-    Remedy said proudly, "*Chemistry doesn't lie!* Unlike bureaucracy, which is mostly lying to yourself that procedures solve everything."
+    I'm standing very still; thick vines are wrapped around my leg, more emerging from the ground.
 
-    Holloway's fruiting bodies rustled—mild offense.
+    Holloway explains, resigned: "Runner is tactile. Very tactile."
 
-    Holloway countered, "Procedures provide structure and consistency—very important for coordinated care!"
+    Runner says, reaching: "I just need to feel the wound."
 
-    Remedy said, "*Structure is just organized lying.*"
+    Vines brush against the bandage.
 
-    Scout bounced between them—mediator or entertainer, hard to say.
+    Runner says, probing:
+    "Soft. This is soft. Is this the injury or the covering? Let me—"
 
-    Despite everything, Kira smiled. They had personalities, individual perspectives—Remedy's practical chemistry vs. Holloway's bureaucratic coordination—both trying to help in their own ways.
+    Remedy snaps, "That's the *BANDAGE*—don't unwrap it."
 
-    She was starting to see them as people, not just obstacles. That was probably dangerous—getting attached to the alien plants keeping her alive through workplace safety protocols. But also inevitable.
+    Runner asks, puzzled: "But how can I understand the injury through the bandage?"
 
-    Kira asked, "Are there any other morning wellness tasks?"
+    Remedy replies, "You don't need to understand the injury. I'm treating it."
 
-    Holloway suggested, "Hydration status?"
+    Runner says, curious and insistent:
+    "But I'm curious. Your leg is warm—warmer than the air. Is that normal? Can I feel your other leg for comparison?"
 
-    Kira gestured vaguely and said, "I should drink water—where's the…?"
+    Vines are already reaching for my other leg.
 
-    Scout bounced toward the spring feature—water flowed through shaped vines into a collection basin. Right—she'd seen it yesterday.
+    Holloway says, "Runner. Personal space protocols."
 
-    Kira drank from cupped hands. The water was cool and clean, tasted faintly green—alien planet water processed through living architecture. Probably fine—hopefully.
+    Runner says, "Right, right." *the vines pause* "Can I feel your other leg for comparison? I'm asking."
 
-    Not like she had options. Her stomach growled.
+    I say, "I... sure?"
 
-    Holloway said, "Oh—nutritional intake. Have you eaten since arrival?"
+    Immediately, vines wrap around my other calf.
 
-    Kira paused, "No—there wasn't really… time, or food."
+    Runner says, "This one's also warm. Similar texture. But this one" — *she squeezes the injured leg* — "is puffier here. Interesting. What does puffy mean? Is that healing or damage? Can I feel under the bandage?"
 
-    Several fruiting bodies exclaimed, "That's a significant oversight—humans require regular nutritional intake per biological maintenance protocols!"
+    Remedy says firmly, "No."
 
-    Kira said, "Yeah—we do. Is there… is there human-compatible food available?"
+    Runner says, "Just the edges?"
 
-    Holloway said carefully, "We'll need to conduct a dietary assessment—and file nutritional accommodation requests. This may take some time."
+    Remedy says, "No."
 
-    Of course it would. Kira's stomach growled again—more urgently.
+    Runner says, "What about her arm? Can I feel her arm?" *the vines slide up toward my hand* "Arms aren't injured, right? Just for comparison. Arm texture versus leg texture."
 
-    Kira asked, "How much time?"
+    Scout bounces uncertainly, watching the vines wrap around my wrist.
 
-    Holloway said, "Standard dietary assessment protocol is approximately four hours—including forms, testing, and approval processes."
+    Buddy says in my mind, "Kira, this seems like something you should discuss with a trusted adult. When someone touches you without permission, you should tell a—"
 
-    Four hours—while hungry, after not eating since the crash—how long, a day and a half?
+    Buddy continues in my mind, "Wait. You ARE the adult. I don't... my protocols don't have a path for this. What do adults do when other adults touch them too much?"
 
-    Kira made herself say, "I understand—let's begin the dietary assessment process. I'm ready to provide nutritional requirements documentation."
+    I mutter, "They set boundaries."
 
-    See? She was learning—phrase it in their framework. Work within the system. Even when her stomach was eating itself.
+    Buddy says in my mind, "Oh! Should I help you practice boundary-setting phrases? I have a whole module—"
 
-    Holloway said, "*Wonderful attitude!* I'll prepare the forms immediately!"
+    I say, "Buddy. Not now."
 
-    Remedy tilted its head and observed, "Humans can actually survive several weeks without food—though subjective discomfort increases significantly. Interesting how biological maintenance panic starts long before actual decomposition risk. Just providing context—your body won't start breaking down vital tissues for at least another week or two."
+    Buddy says in my mind, "Right. Sorry. I'll just... be here."
 
-    Kira muttered, "_Very_ comforting, thanks."
+    Runner observes, "This is very smooth." *vines circle my forearm* "Smoother than leg. Why is arm smoother than leg? And there are small hairs here" — *a vine tip traces along my arm* — "but not here. Patchy hair distribution. Fascinating."
 
-    Scout bounced anxiously and pressed against her leg. Kira reached down to touch the fuzzy surface and said, "It's okay—I can wait four hours."
+    I say carefully, "Runner, are you going to do this every time we meet?"
 
-    She had survived worse yesterday—workplace safety training, medical documentation while bleeding. This was just hungry paperwork.
+    Runner admits, "Probably. I think through touching. Is that a problem? You seem tense. Your arm is tense now. It wasn't tense before. Can I feel your shoulder? Shoulders hold tension—"
 
-    She could adapt to this. She was adapting, apparently.
+    I say, "Maybe later."
 
-    One absurd bureaucratic requirement at a time.
+    Runner says, "Okay but your shoulder is RIGHT THERE and I just want to—"
+
+    Holloway's voice is firmer: "Runner."
+
+    The vines reluctantly uncoil, sliding back toward the hole in the floor.
+
+    Runner says, "Fine. But I have questions. About texture. And temperature. And the puffy thing."
+
+    Remedy says, "You can ask questions without touching."
+
+    Runner replies, "Can I though?" *she sounds genuinely uncertain* "That seems harder."
+
+    The vines disappear underground, leaving a small opening in the soil that slowly closes over.
+
+    I look at Remedy's robot, at Scout, at Holloway's fruiting bodies. "Does Runner... do that to everyone?"
+
+    All three say simultaneously, "Yes."
+
+    Holloway adds, "She means well. Runner just... experiences the world through touch. Processing information requires contact."
+
+    Remedy says darkly, "She touched my fruiting structures once."
+
+    Holloway says diplomatically, "She was curious about spore release."
+
+    Remedy snaps, "*She was INVASIVE.*"
+
+    Scout bounces in a way that suggests Scout has also been thoroughly investigated by Runner's vines.
+
+    I say, "Okay. So. Runner exists. And is very... hands-on."
+
+    Buddy corrects helpfully, "Vines-on."
+
+    Holloway says, "You're showing excellent progress! — We're very pleased with your recovery!"
+
+    They really are pleased—genuinely happy I'm healing. It comes through even in the bureaucratic language—warmth beneath the protocols.
+
+    I say, "Thank you — all of you. The treatment is working."
+
+    Remedy says, "Chemistry doesn't lie!"
+
+    Scout bounces approvingly.
+
+    I drink water from the spring feature—cool, clean, faintly green. Then my stomach growls loudly.
+
+    Holloway says, "Oh! — Nutritional intake. Have you eaten since arrival?"
+
+    I say, "No — there wasn't time, or food."
+
+    Multiple fruiting bodies consult urgently, "We'll need to conduct a dietary assessment! — This may take some time—approximately four hours."
+
+    I grin.
+
+    I ask, "Dietary assessment forms? — I can't wait to see what those look like."
+
+    Holloway says, "Very thorough!"
+
+    Buddy asks, "What kind of questions do they ask?"
+
+    I say, "Let's find out — I'm ready to provide nutritional requirements documentation."
+
+    Remedy says, "Humans can survive weeks without food, though subjective discomfort increases — but we'd rather not test that!"
+
+    Several voices say, "Agreed — let's do the forms."
+
+    Scout bounces encouragingly and we head toward the medical chamber.
+
+    Four hours of dietary paperwork — then food.
+
+    This is the weirdest adventure I could have imagined — and I'm actually enjoying it.
   </combined-text>
 </passage-voice>

@@ -1,110 +1,102 @@
 <!-- Generated automatically, do not edit except with ske gen passage-voice -->
-<passage-voice version="3.0.0">
-  <ref ref="passage.card#v3.0.0"/>
-  <reasoning>
-    Reviewing the passage for voiceover conversion I looked for: 1) staccato sentences to merge; 2) unclear dialog attribution; 3) ambiguous pronouns; 4) places needing explicit pauses (medium, trailing, or dramatic); 5) overly formal or written phrasing that should be smoothed for speech; 6) any symbols or non-text elements requiring conversion.
-
-    Findings:
-    - Several short standalone sentences and short paragraphs that read staccato and were merged for smoother speech.
-    - Dialog attributions were sometimes implied; I made speaker labels explicit and put dialog on its own lines with lead-ins.
-    - Pronouns could confuse when multiple characters are present; I kept speaker names in lead-ins to disambiguate where needed.
-    - Inserted explicit pauses: em dashes for medium pauses, ellipses for trailing/hesitant beats, and a single dramatic pause paragraph "¶" where the original indicated a pause.
-    - Converted gesture/volume adverbs into brief stage-direction text where helpful (kept short and descriptive).
-    - Kept content and meaning unchanged; formatting edits only to make the passage TTS-friendly.
-  </reasoning>
+<passage-voice version="3.1.0">
+  <ref ref="passage.card#v3.1.0"/>
+  <reasoning>Reviewed the passage for voiceover needs. Found: 1) Several short, staccato sentences that should be merged to flow naturally. 2) Multiple lines of dialog where speaker attribution could be clearer — I prefixed dialogue with the speaker. 3) A few pronouns that could be ambiguous to a listener; specified speaker names where helpful. 4) Places that call for a medium pause (—), hesitant trailing pauses (…) and one long dramatic pause (¶) after the line about reaching through the network. 5) Some phrasing is slightly formal; I smoothed a few sentences for spoken cadence without changing meaning. 6) No symbols requiring conversion beyond standard punctuation. Also noted the special note that Holloway "flutes" rather than speaks so stage directions call for a musical, woodwind tone on Holloway's lines.</reasoning>
   <content-change/>
   <chunks>
     <chunk>
       <text>
-        The rest of the day is very quiet.
+        The rest of the day is very quiet—after the messenger leaves, the plants disperse slowly and no one quite knows what to do with themselves. The answer they'd been building toward for weeks just… isn't an answer at all.
 
-        After the messenger leaves, the plants disperse slowly. No one quite knows what to do with themselves—the answer they'd been building toward for weeks just… isn't an answer at all.
-
-        I find Holloway in the maintenance room, organizing supply inventories — which is what Holloway does when stressed: create order through categorization.
+        I find Holloway in the maintenance room, organizing supply inventories—their way of making order when they're stressed.
 
         I say, "Hey."
 
-        Holloway, not looking up, says, "Kira. I'm documenting our current reserves — we should establish better tracking systems — prevent shortage scenarios."
+        Holloway doesn't look up. Holloway says, "Kira. I'm documenting our current reserves—we should establish better tracking systems to prevent shortage scenarios."
 
         I say, "Holloway."
 
-        Holloway says, "Perhaps a rotating stock methodology — first stored, first used — minimizes waste, ensures freshness…"
+        Holloway continues, "Perhaps a rotating stock methodology—first stored, first used—to minimize waste and ensure freshness—"
 
-        I say, "Holloway — you don't have to do this right now."
+        I say, "Holloway, you don't have to do this right now."
 
-        Their fruiting bodies droop slightly. "I don't know what else to do," Holloway admits.
+        Holloway's fruiting bodies droop slightly. Holloway admits, "I don't know what else to do."
 
-        I sit down next to them. Scout has been following me all day — extra attentive, worried about everyone.
+        I sit down next to them. Scout has been following me all day—extra attentive, worried about everyone.
 
-        Holloway says, "The H R manuals were supposed to help — they were our framework after… after we failed the first human. Concrete guidance. We thought if we just followed the protocols, we wouldn't fail again." — ¶ —
+        Holloway says quietly, "The HR manuals were supposed to help—they were our framework after… after we failed the first human. Concrete guidance. We thought if we just followed the protocols, we wouldn't fail again." Holloway's voice catches. "We didn't understand, Kira. When the human died, we did what we always do—cycled the nutrients back into the soil. Normal. Natural. But afterward, when I reached through the network for what should have remained…"
 
-        Holloway continues, "But they didn't work for you — too rigid, too procedural, didn't account for actual needs."
+        ¶
 
-        I say, "You adapted — you stopped just following the manual."
+        Holloway finishes, "There was nothing. Humans don't continue. They just stop. And we didn't know that until after."
 
-        Holloway replies, "Yes, but we hoped Elder Heartwood would provide the *REAL* framework — the comprehensive understanding we were missing — ancient wisdom that could explain what we were doing wrong, what we should do instead." Their arrangement shifts toward something like defeat. "And Elder Heartwood doesn't even know you're here — or knows but doesn't care, because your lifetime is irrelevant noise."
+        The weight of it sits between us—Holloway has been carrying this the whole time.
 
-        The bitterness in their voice is new. Holloway is usually so measured, so carefully bureaucratic.
+        Holloway continues, voice steadier now, "But they didn't work for you either—the manuals were too rigid, too procedural; they didn't account for actual needs."
 
-        Holloway says, "Every authority I've turned to has failed — the manuals failed, Elder Heartwood failed — I don't… I don't know what to trust now."
+        I point out, "You adapted—you stopped just following the manual."
 
-        Scout bounces — softly, a motion of concern and sympathy.
+        Holloway says, "Yes, but we hoped Elder Heartwood would provide the *REAL* framework—the comprehensive understanding we were missing—ancient wisdom that could explain what we were doing wrong, what we should do instead." Holloway's arrangement shifts—defeat.
+
+        Holloway adds, "And Elder Heartwood either doesn't know you're here—or knows and doesn't care, because your lifetime is irrelevant noise."
+
+        The bitterness in Holloway's voice is new; they're usually measured, carefully bureaucratic.
+
+        Holloway continues, "Every authority I've turned to has failed—the manuals failed, Elder Heartwood failed—I don't… I don't know what to trust now."
+
+        Scout bounces softly—concern, sympathy.
 
         I suggest, "What about trusting what's already working?"
 
-        Holloway finally looks at me. "What do you mean?"
+        Holloway finally looks at me and asks, "What do you mean?"
 
-        I say, "You know what happened in Uncharted Season Four, when Mav finally reached the Oracle of Veris?"
+        I ask, "You know what happened in Uncharted Season 4, when Mav finally reached the Oracle of Veris?"
 
-        Holloway blinks. "The… the show you watch? With the human adventurer?"
-
-        I lean forward. "The Oracle was fake — a projection, a trick. Mav was devastated for three whole episodes. But you know what he figured out? The crew he built along the way — THEY were the real answer. He'd been so focused on reaching the Oracle that he didn't notice he'd already found what he was looking for."
-
-        Scout bounces — understanding dawning.
+        Holloway blinks and replies, "The… the show you watch? With the human adventurer?"
       </text>
       <stage-directions>
-        Overall tone: Quiet, reflective, with occasional small surges of urgency when characters confront failure; pacing gentle, with deliberate pauses for thought.
+        Overall tone &amp; pacing: Intimate, measured, quietly tense. Keep a calm narrator voice; allow Holloway's lines to take a musical, slightly otherworldly quality and let pauses breathe.
 
-        - Read the opening lines measured and calm: "The rest of the day is very quiet." and "After the messenger leaves…".
-        - For "I say, "Hey."" use a light, conversational tone — an attempt to connect.
-        - For Holloway's long, procedural lines (for example, "Kira. I'm documenting our current reserves —…") keep a steady, slightly clipped voice, with medium pauses at the em dashes.
-        - For "Holloway — you don't have to do this right now." shift to a softer, comforting tone.
-        - Read the dramatic pause paragraph "¶" as a full silent beat in performance (do not rush past it).
-        - When delivering "Elder Heartwood… *REAL* framework" add force to *REAL* — slightly louder, edged with frustration.
-        - End with a small lift of warmth and hope on the final line: "Scout bounces — understanding dawning."
+        - Read narration with a steady, conversational pace; allow medium pauses at each em dash (—).
+        - For the long, reflective silence after "when I reached through the network for what should have remained…" insert a full pause (¶) and treat it as a beat of several seconds.
+        - Read Holloway's lines with a fluting, woodwind-like tone—slightly breathy, musical phrasing; remain measured and bureaucratic at first, then let bitterness edge in later lines.
+        - When a line shows hesitation or trailing thought (…): slow and soften the ending, letting it fall.
+        - Put each spoken line on its own breath — clear lead-in then the quoted line. For example, say: "I say, 'Hey.'" then pause briefly before the next line.
+        - When a narrator line describes a gesture or movement ("fruiting bodies droop slightly", "Holloway's arrangement shifts—defeat"), lower volume slightly and treat it as a soft stage direction.
+        - Emphasize *REAL* (read louder/stronger) where indicated, but do not add any extra prosodic ornaments beyond volume and clarity.
       </stage-directions>
     </chunk>
     <chunk>
       <text>
-        I say, "I mean... *ARE* things working, Holloway. Not perfectly, but way better than they were. You ask what I need instead of scheduling automatic treatments. Remedy refines medicines based on my feedback. Runner waits for permission. We solve problems together without committees or waiting for approval." 
+        I lean forward. "The Oracle was fake — a projection, a trick. Mav was devastated for three whole episodes. But you know what he figured out? The crew he built along the way — *THEY* were the real answer. He'd been so focused on reaching the Oracle that he didn't notice he'd already found what he was looking for."
 
-        I gesture around.
+        Scout bounces — understanding dawning.
 
-        I continue, "This morning, before the messenger arrived, I was thinking about how good we've gotten at daily cooperation— I haven't thought about rescue in seventeen days." 
+        I say, "I mean… things _ARE_ working, Holloway — not perfectly, but way better than they were. You ask what I need instead of scheduling automatic treatments. Remedy refines medicines based on my feedback. Runner waits for permission. We solve problems together without committees or waiting for approval."
 
-        Holloway says, "But that's just... making do. Improvising. Not systematic understanding."
+        I gesture around. "This morning, before the messenger arrived, I was thinking about how good we've gotten at daily cooperation. I haven't thought about rescue in seventeen days."
 
-        I say, "Is it though? Or have we actually learned a system through trial and error? We've built patterns, Holloway—actual functional patterns for how you help me and I work with you." 
+        Holloway says, "But that's just… making do — improvising. Not systematic understanding."
+
+        I say, "Is it though? Or have we actually learned a system through trial and error? We've built patterns, Holloway — actual functional patterns for how you help me and I work with you."
 
         Holloway is quiet, processing.
 
-        I say, "The journey taught us—nine days of figuring out cooperation with different guides. And then the weeks after—every day we've been learning. Small adjustments that compound, like Runner said. That's not just improvisation. That's actual knowledge we earned by paying attention to each other." 
+        I continue, "The journey taught us — nine days of figuring out cooperation with different guides. And then the weeks after — every day we've been learning. Small adjustments that compound, like Runner said. That's not just improvisation. That's actual knowledge we earned by paying attention to each other."
 
         Holloway says, "But without a framework—"
 
-        I say, "We *HAVE* a framework. It's just ours—made from experience, not handed down from authority."
+        I say, "We *HAVE* a framework — it's just ours. Made from experience, not handed down from authority."
 
-        Scout bounces—emphatic agreement.
+        Scout bounces, emphatic agreement.
 
-        Holloway's posture shifts—uncertainty, consideration.
+        Holloway's arrangement shifts — uncertainty, consideration. Holloway asks, "You're saying the learning we did while waiting for Elder Heartwood's response… that was the real answer?"
 
-        Holloway asks, "You're saying the learning we did while waiting for Elder Heartwood's response... that was the real answer?"
+        I say, "Yeah — I think it was."
 
-        I say, "Yeah. I think it was."
+        Holloway says, "But it feels so… improvised — uncertain. How do we know we're doing it right without authority to confirm?"
 
-        Holloway says, "But it feels so... improvised. Uncertain. How do we know we're doing it right without authority to confirm?"
-
-        I say, "How do we know authority is doing it right? The HR manuals failed you. Elder Heartwood failed you. Maybe authorities don't actually know better—they just sound more confident." 
+        I counter gently, "How do we know authority is doing it right?" I continue, "The HR manuals failed you. Elder Heartwood failed you. Maybe authorities don't actually know better — they just sound more confident."
 
         That lands. I can see it landing.
 
@@ -112,200 +104,200 @@
 
         ¶
 
-        Holloway says eventually, "I've spent so much energy looking for the right framework—the procedure that would make everything clear. And you're suggesting we already found it?"
+        Holloway says eventually, "I've spent so much energy looking for the right framework — the procedure that would make everything clear. And you're suggesting we already found it."
 
-        I say, "Not found—built. We're still building it. But yeah."
+        I say, "Not found — built. We're still building it, but yeah."
 
         Holloway says, "That's terrifying."
 
         I say, "Little bit, yeah."
 
-        Holloway says, "But also... maybe better? Because it's actually responsive to you specifically—not trying to fit you into general principles."
+        Holloway pauses, then says, "But also… also maybe better? Because it's actually responsive to you specifically — not trying to fit you into general principles."
 
         I say, "Exactly."
 
-        Holloway makes a sound like rustling leaves—almost a laugh. "I've been so worried about doing this wrong. Following the wrong framework. And the answer is there's no framework to follow, just... genuine attention and adaptation."
-
-        I say, "Genuine attention and adaptation sounds like a pretty good framework to me."
-
-        Holloway says, "It does, doesn't it?" His posture straightens—more upright, determined. "We should tell the others—they're struggling too."
-
-        We gather everyone in the common area that evening. The mood is still heavy—disappointment hanging over everything.
+        Holloway makes a sound like rustling leaves — almost a laugh. Holloway says, "I've been so worried about doing this wrong — following the wrong framework. And the answer is there's no framework to follow, just… genuine attention and adaptation."
       </text>
       <stage-directions>
-        Overall tone: Measured, reflective, warming into quiet conviction; pace gently deliberate with medium pauses at em dashes and a full silent beat at the marked dramatic pause.
+        Overall tone &amp; pacing: Intimate, measured, quietly tense. Keep a calm narrator voice; let Holloway's lines have a musical, flute‑like quality and allow medium pauses to breathe.
 
-        - Read the opening as calm and explanatory: "I say, "I mean... *ARE* things working, Holloway.""
-        - For the gesture line "I gesture around." use a loose, descriptive tone—brief beat then continue.
-        - Use medium pauses at em dashes—for example in "...daily cooperation— I haven't thought..." pause roughly 300–400ms.
-        - Read the dramatic pause paragraph "¶" as a full silent beat (do not rush past it); let the silence land before Holloway speaks again.
-        - Label short replies clearly: when you read "Holloway says, 'That's terrifying.'" make it a quieter, inward admission; for "I say, 'Little bit, yeah.'" respond with a small, rueful softness.
-        - When delivering the line with rising conviction—"We *HAVE* a framework."—add a touch more emphasis on *HAVE* (use force, not shouting) to show defensiveness turning into confidence.
-        - For Scout's movement lines like "Scout bounces—emphatic agreement." and "Scout settles between us," treat them as gentle, grounding beats—slight warmth in the narrator's voice.
+        - Read narration with a steady, conversational pace; treat em dashes (—) as medium pauses.
+        - For the long reflective silence after "We sit in silence for a bit. Scout settles between us, a comforting presence." insert the full pause marked by the paragraph "¶" and hold that as several seconds.
+        - Put each quoted spoken section on its own line. Use the lead-in then quote format: for example, read "I lean forward. \"The Oracle was fake…\"" as one breath into the speech after the lead-in.
+        - Read Holloway's lines with a fluting, woodwind tone—slightly breathy and musical; let hesitation (...) soften and fall.
+        - When the text notes a gesture or small sound (e.g., "I gesture around", "Scout bounces", "Holloway makes a sound like rustling leaves"), lower volume slightly and treat it as a soft stage direction.
+        - Emphasize *bold* words with more volume; emphasize _italics_ with gentle emotional shading.
+        - Maintain consistent pacing; allow slightly longer breaths before question lines and after the paragraph "¶".
       </stage-directions>
     </chunk>
     <chunk>
       <text>
-        Florence is uncharacteristically quiet with Elder Twist's pot settled beside her; Runner is coiled tight, Velvet has withdrawn to a thin layer, Remedy's edges are contracted — even Scout isn't bouncing much.
+        I say. "Genuine attention and adaptation sounds like a pretty good framework to me."
+        Holloway shifts—posture straighter, determined. Holloway says. "It does, doesn't it? We should tell the others—they're struggling too."
 
-        I start, "I know everyone is disappointed. The response we waited for didn't help."
+        We gather everyone in the common area that evening. The mood is still heavy—disappointment hanging over everything.
 
-        Runner mutters, "Didn't help is generous. It was useless. Worse than useless — it showed Elder Heartwood doesn't even understand the question."
+        Florence is uncharacteristically quiet, Elder Twist's pot settled beside her. Runner is coiled tight. Velvet has withdrawn to a thin layer. Remedy's edges are contracted. Even Scout isn't bouncing much.
 
-        I ask, "Can I tell you something? About that show I watch?"
+        I start. "I know everyone is disappointed. The response we waited for didn't help."
 
-        The plants look confused. Scout bounces encouragingly.
+        Runner mutters. "Didn't help is generous. It was useless—worse than useless—it showed Elder Heartwood doesn't even understand the question."
 
-        I say, "In Season 4, the main character — Mav — spends half the season trying to reach this Oracle, ancient wisdom that's supposed to answer all his questions. And when he finally gets there?"
+        I ask. "Can I tell you something about a show I watch?"
 
-        ¶
+        The plants look confused. Scout bounces—encouraging.
 
-        I say, "It's fake. The Oracle doesn't exist. Just an old projection system running on loop."
+        I say. "In Season 4, the main character—Mav—spends half the season trying to reach this Oracle, ancient wisdom that's supposed to answer all his questions—and when he finally gets there—it's fake. The Oracle doesn't exist. Just an old projection system running on loop."
 
-        Velvet says, "That's... a sad story."
+        Velvet says. "That's... a sad story."
 
-        I say, "No, that's the thing — it's *NOT* sad. Because Mav realizes: the crew he built during the journey — his friends — *THEY* were the answer. He already had what he needed. He just couldn't see it because he was so focused on finding the 'real' answer."
+        I say. "No, that's the thing—it's *NOT* sad. Because Mav realizes—the crew he built during the journey, his friends—*THEY* were the answer. He already had what he needed; he just couldn't see it because he was so focused on finding the 'real' answer." 
 
         Understanding ripples through the room.
 
-        I continue, "What if that's us? What if the waiting period was the answer?"
+        I continue. "What if that's us? What if the waiting period was the answer?"
 
-        Velvet stirs slightly. Velvet says, "Explain."
+        Velvet stirs slightly. "Explain."
 
-        I say, "Look at what we've learned since the journey. Remedy — you've refined three different treatments based on what I told you about how they felt. That's not improvisation — that's sophisticated iteration."
+        I say. "Look at what we've learned since the journey. Remedy—you've refined three different treatments based on what I told you about how they felt. That's not improvisation—that's sophisticated iteration."
 
-        Remedy's form shifts slightly. Remedy says, "I suppose... yes. I have been developing better formulations through your feedback."
+        Remedy shifts. "I suppose... yes. I have been developing better formulations through your feedback."
 
-        I say, "Runner — you've learned boundaries. Not by following a procedure, but by watching my reactions and adjusting."
+        I say. "Runner, you've learned boundaries—not by following a procedure, but by watching my reactions and adjusting."
 
-        Runner's vines uncurl a bit. Runner says, "It's been... difficult. But yes, I'm learning what makes you uncomfortable versus what you welcome."
+        Runner's vines uncurl a bit. "It's been... difficult. But yes, I'm learning what makes you uncomfortable versus what you welcome."
 
-        I say, "And Holloway — you stopped just scheduling wellness checks and started asking what I actually need. That's huge."
+        I say. "And Holloway, you stopped just scheduling wellness checks and started asking what I actually need. That's huge."
 
-        Holloway says, "I adapted the framework — integrated care with procedure instead of replacing one with the other."
+        Holloway says, sounding more confident now. "I adapted the framework—integrated care with procedure instead of replacing one with the other."
 
-        I look around at all of them. I say, "Exactly. Every single one of you has been learning how to help me — not by waiting for someone to tell you how, but by paying attention and adapting. That's the answer we needed — the process of learning together."
+        I look around at all of them. "Every single one of you has been learning how to help me—not by waiting for someone to tell you how, but by paying attention and adapting. That's the answer we needed—the process of learning together."
 
-        Scout bounces — agreement, excitement. They get it.
+        Scout bounces—agreement, excitement.
 
-        Florence says, "But it's so uncertain — how do we know we're doing it correctly without external confirmation?"
+        Florence says. "But it's so uncertain. How do we know we're doing it correctly without external confirmation?"
 
-        I say, "We know because it's working. I'm alive. I'm healthy — healthier than I was weeks ago. We cooperate better. That's confirmation, isn't it?"
-
-        Velvet surprises everyone by speaking up. Velvet says, "Good outcome is authority too. Different kind."
-
-        Everyone turns to look at Velvet. That might be the most philosophically complex thing Velvet has ever said.
+        I say simply. "We know because it's working. I'm alive. I'm healthy—healthier than I was weeks ago. We cooperate better. That's confirmation, isn't it?"
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: Measured and reflective, warming into quiet conviction — gentle medium pauses at em dashes and a full silent beat at the marked dramatic pause.
+        Overall tone &amp; pacing: Intimate, steady, quietly hopeful. Keep the narrator calm and conversational; allow Holloway's lines to be slightly flute-like and breathy. Use measured pauses at the marked em dashes and slightly longer breaths before and after key revelations.
 
-        - Read the opening merged sentence as calm observation — evenness in tone with a slight drop before the em dash.
-        - For each spoken line, give the lead-in attribution then deliver the quoted line as a distinct beat; keep speech natural and conversational.
-        - Pause briefly at every em dash — roughly 300–400ms — for example in "Worse than useless — it showed...".
-        - Deliver the dramatic pause paragraph "¶" as a full silent beat before continuing with "It's fake." Let the silence land.
-        - When delivering the moment of conviction — "*THEY* were the answer" — add a gentle lift and stronger emphasis on "*THEY*" (forceful but not loud).
-        - Treat action beats like "Scout bounces — agreement, excitement." as small, bright interjections — a hint of warmth in the narrator's voice.
-        - When Velvet's final line lands, make it slightly pleased and thoughtful — let the room's surprise register in a softer, reflective tone.
+        - Read "I say. \"Genuine attention...\"" as a clear, conversational opening—slightly reflective.
+        - For "Holloway shifts—posture straighter, determined. Holloway says." use a small uptick in confidence and a fluting timbre on Holloway's quoted lines.
+        - When delivering the Mav/Oracle revelation, slow down: treat the em dash before the reveal as a medium pause—let the "It's fake" land heavier than surrounding lines.
+        - Emphasize *bold* words (e.g., "*NOT*", "*THEY*") with stronger volume and gentle force, but do not shout—use clarity and conviction.
+        - For short physical beats like "Scout bounces—encouraging" and "Runner's vines uncurl a bit," lower volume and read them as quiet stage actions—soft, warm.
+        - Keep the closing lines straightforward and steady: "We know because it's working..." finish with a calm, assured tone that signals acceptance.
       </stage-directions>
     </chunk>
     <chunk>
       <text>
-        Remedy says slowly — "Velvet's right. We've been seeking external authority to confirm we're helping correctly. But the confirmation is… you're surviving. Thriving, even. That's validation of our learning."
+        Velvet speaks up—surprising everyone.
 
-        Runner realizes — "We don't need Elder Heartwood to tell us we're doing it right. We can see it's working."
+        Velvet says, "Good outcome is authority too — a different kind."
 
-        Holloway adds, connecting pieces — "The journey wasn't just transit to ask a question. The journey WAS learning cooperation. And the waiting period was learning adaptation. We were building the answer while thinking we were waiting for it."
+        Everyone turns to look—it's possibly the most philosophically complex thing Velvet has ever said.
+
+        Remedy says slowly, "Velvet's right — we've been seeking external authority to confirm we're helping correctly. But the confirmation is... you're surviving. Thriving, even. That's validation of our learning."
+
+        Runner realizes, "We don't need Elder Heartwood to tell us we're doing it right — we can see it's working."
+
+        Holloway adds, "The journey wasn't just transit to ask a question — the journey *WAS* learning cooperation. And the waiting period was learning adaptation. We were building the answer while thinking we were waiting for it."
 
         Florence is very quiet.
 
-        Florence says — "I fabricated Elder Twist's wisdom because I wanted to provide helpful guidance. My own thoughts, hidden behind authority. But maybe… maybe my own thoughts have value directly?"
+        Florence says, "I fabricated Elder Twist's wisdom because I wanted to provide helpful guidance — my own thoughts hidden behind authority. But maybe... maybe my own thoughts have value directly?"
 
-        I say firmly — "Yes. Your insights are good, Florence. You don't need Elder Twist's authority to make them valid."
+        I say firmly, "Your insights are good, Florence. You don't need Elder Twist's authority to make them valid."
 
         Florence's wheeled platform shifts.
 
-        Florence says — "That's uncomfortable. But perhaps true."
+        Florence says, "That's uncomfortable — but perhaps true."
 
-        Runner says — "This whole thing is uncomfortable. We wanted Elder Heartwood to solve the problem—tell us the framework. Instead we have to… trust ourselves?"
+        Runner says, "This whole thing is uncomfortable — we wanted Elder Heartwood to solve the problem, tell us the framework. Instead we have to... trust ourselves?"
 
-        I correct — "Trust each other. Not just yourselves alone—all of us together. What we're learning through cooperation."
+        I correct, "Trust each other — not just yourselves alone, but all of us together. What we're learning through cooperation."
 
-        Holloway admits — "That's still terrifying. No procedures to fall back on, no authority to confirm we're right—just our own messy learning."
+        Holloway admits, "That's still terrifying — no procedures to fall back on, no authority to confirm we're right. Just our own messy learning."
 
-        I agree — "Yeah. But also it's ours—actually responsive to what we need, not trying to force reality into someone else's framework."
+        I agree, "Yeah — but also it's ours. Actually responsive to what we need, not trying to force reality into someone else's framework."
 
-        Scout bounces enthusiastically, flows over to press against Holloway, presses Runner, then returns to me, connecting everyone and reminding us we're in this together.
+        Scout bounces—encouraging. Scout flows over to press against Holloway, then Runner, then back to me—connecting everyone, reminding us we're in this together.
 
-        Remedy speaks up — "So what do we do now?"
+        Remedy asks, "So what do we do now?"
 
-        I say — "Same thing we've been doing. Pay attention to what works, adapt what doesn't, keep learning together—we just stop waiting for someone else to tell us we're doing it right."
+        I say, "Same thing we've been doing — pay attention to what works, adapt what doesn't, keep learning together. We just stop waiting for someone else to tell us we're doing it right."
 
-        Velvet repeats — "Keep learning. Together. Good plan."
+        Velvet repeats, "Keep learning — together. Good plan."
 
-        Florence corrects — "Simple plan."
+        Florence corrects, "Simple plan."
 
-        Remedy points out — "Simple doesn't mean wrong. Sometimes the complex answer is that simple actually works."
+        Remedy points out, "Simple doesn't mean wrong — sometimes the complex answer is that simple actually works."
 
-        There's a shift in the room — not quite confidence yet, too much disappointment still lingering—but something like determination. Or maybe just acceptance.
-
-        We're on our own. No ancient wisdom coming to save us, no ultimate authority to provide the perfect framework.
+        There's a shift in the room—not quite confidence yet; too much disappointment still lingers, but something like determination. Or maybe just acceptance.
 
         ¶
 
+        We're on our own. No ancient wisdom coming to save us, no ultimate authority to provide the perfect framework.
+
         Just us, figuring it out together.
 
-        That should be terrifying—and it is, a little. But also? Maybe it's better this way.
+        That should be terrifying. And it is, a little.
 
-        We've built something real through trial and error and by paying attention to each other— not following someone else's procedures, but creating our own understanding.
+        But also... maybe it's better this way.
 
-        Holloway says — "Tomorrow we continue daily cooperation. Track what works, adjust what doesn't, build on what we've learned."
-
-        Runner adds — "And we trust that our experience is valid. We don't need external confirmation."
-
-        I say — "We have each other for confirmation—that's enough."
+        We've built something real through trial and error and paying attention to each other — not following someone else's procedures, but creating our own understanding.
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: Measured and reflective, warming into quiet conviction—gentle medium pauses at em dashes and a full silent beat at the marked dramatic pause.
+        Overall tone &amp; pacing: Intimate, steady, quietly hopeful. Keep the narrator calm and conversational; allow Holloway's lines to be slightly flute-like and breathy. Use measured pauses at em dashes and a longer, deliberate silence at the pilcrow paragraph.
 
-        - Read speaker lead-ins calmly and conversationally, then deliver each quoted line as a distinct beat: e.g., say "Remedy says slowly —" then pause slightly before the quote.
-        - For lines marked with hesitation ("…"), slow and fall at the end of the clause; e.g., "you're surviving…" carries a softer, trailing tone.
-        - Pause at every em dash () for a medium break (about 300–400ms), for example in "We wanted Elder Heartwood to solve the problem—tell us the framework."
-        - Deliver Florence's confession with hesitation and vulnerability; let the voice thin slightly on "maybe… maybe my own thoughts…"
-        - Treat Scout's action line as a bright, warm interjection—briefly lighter and affectionate in tone on "connecting everyone."
-        - Allow the paragraph "¶" to be a full silent beat before "Just us, figuring it out together." Let that silence land.
-        - End with quiet, growing conviction on the final line "We have each other for confirmation—that's enough," soft but sure.
+        - Read "Velvet says, \"Good outcome is authority too — a different kind.\"" as a mildly surprising, reflective observation—small uptick in curiosity.
+        - For "Remedy says slowly, \"Velvet's right...\"" slow down and let the ellipsis land as a hesitant beat; keep Remedy calm and thoughtful.
+        - Holloway's quoted lines should be delivered with a light, flute-like timbre—slightly breathy on the opening phrase and firmer on "*WAS*."
+        - Read stage-action lines like "Scout bounces—encouraging." softly, as a quiet visual note rather than a spoken exclamation.
+        - At the pilcrow paragraph containing only "¶", pause longer—hold that silence before launching into "We're on our own." to let the realization settle.
+        - Emphasize *bold* text with stronger, clearer volume (not shouting); use _italics_ for gentler emphasis.
+        - Keep dialog lead-ins clearly attributed; when delivering short, single-word attributions like "Florence says," maintain natural flow so the quoted line "pops" on its own.
       </stage-directions>
     </chunk>
     <chunk>
       <text>
-        Scout bounces—agreement, confidence, optimism. Scout always bounces optimistically, but this feels earned. We've been through something hard together and we're coming out the other side.
+        Holloway says  "Tomorrow, we continue daily cooperation. Track what works, adjust what doesn't, build on what we've learned."
 
-        Later, after everyone disperses, Scout and I return to my room. Velvet has maintained the moss bed perfectly—still soft, still the right humidity. Runner stopped by earlier to check the environmental controls without being asked, and Remedy left a new muscle recovery treatment with an adjusted formulation.
+        Runner adds  "And we trust that our experience is valid. We don't need external confirmation."
 
-        Small acts of care, repeated daily—no grand wisdom required.
+        I say  "We have each other for confirmation. *That's enough.*"
+
+        Scout bouncesagreement, confidence, optimism. Scout always bounces optimistically, but this feels earned. We've been through something hard together and we're coming out the other side.
+
+        Later, after everyone disperses, Scout and I return to my room. Velvet has maintained the moss bed perfectlystill soft, still the right humidity. Runner stopped by earlier to check the environmental controls without being asked. Remedy left a new muscle recovery treatment with adjusted formulation.
+
+        Small acts of care, repeated dailyno grand wisdom required.
 
         I lie down on the moss, Scout curling up in their corner.
 
-        "We're on our own."
-
-        But "on our own" means something different now—not alone, together; not abandoned by authority, freed from waiting for it.
-
-        The answer wasn't in Elder Heartwood's ancient roots. It was here all along, growing between us.
-
         ¶
+
+        *We're on our own.*
+
+        But "on our own" means something different nownot alone, but together; not abandoned by authority, but freed from waiting for it.
+
+        The answer wasn't in Elder Heartwood's ancient roots.
+
+        It was here all along, growing between us.
 
         We just needed Elder Heartwood to fail so we could see it.
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: Warm, reflective, quietly confident; measured pacing with gentle medium pauses at em dashes and a full silent beat before the final reveal.
+        Overall tone &amp; pacing: Intimate, steady, quietly hopeful—calm narration with small, clear lifts on each character's line; allow Holloway to be flute-like on their delivery.
 
-        - Read "Scout bounces—agreement, confidence, optimism." bright and light—a small lift on "optimism."
-        - For the room inventory line ("Velvet has maintained..."), adopt a steady, appreciative cadence—matter-of-fact, slight warmth on the names "Velvet," "Runner," "Remedy." 
-        - Deliver "Small acts of care, repeated daily—no grand wisdom required." with a small, wry smile—blend the two clauses into one breath.
-        - On the quoted beat "We're on our own." make it a distinct, intimate line—pause slightly after it to let it land.
-        - Read the explanation that follows ("But 'on our own' means...") calmly, merging the short clauses so the thought flows—use the em dashes as medium pauses.
-        - Pause fully at the paragraph containing only "¶"—hold silence to allow the revelation to settle.
-        - For the final line, "We just needed Elder Heartwood to fail so we could see it," soften and steady the voice, letting conviction and small relief come through.
+        - Read "Holloway says  \"Tomorrow...\"" with a light, woodwind quality—breathy on the opening phrase, firmer by the end of the line.
+        - Read "Runner adds  \"And we trust...\"" as calm and assured, slightly more pragmatic than Holloway.
+        - Read "I say  \"We have each other... *That's enough.*\"" warm and conclusive; give the bolded "*That's enough.*" a gentle emphasis—clear, not loud.
+        - For the line "Scout bouncesagreement, confidence, optimism." treat it as a quiet stage note—soft, slightly upbeat but not exultant.
+        - Read the domestic details (moss bed, environmental controls, remedy) in a steady, appreciative cadence—small, contented beats.
+        - Pause at the paragraph break containing only "¶"—hold this silence so the realization can settle before saying "*We're on our own.*"
+        - Read "*We're on our own.*" as a soft revelation—slightly brighter on "on our own," then settle into reflective warmth for the following lines.
         - Closing cadence: Soft landing; warm fall, lingering last syllable, cozy pause.
       </stage-directions>
     </chunk>
@@ -318,7 +310,6 @@
     <word text="Holloway"/>
     <word text="Kira"/>
     <word text="Mav"/>
-    <word text="Oracle of Veris"/>
     <word text="Remedy"/>
     <word text="Runner"/>
     <word text="Scout"/>
@@ -328,219 +319,222 @@
   </unusual-pronunciations>
   <title>Our Own Wisdom</title>
   <combined-text>
-    The rest of the day is very quiet.
+    The rest of the day is very quiet—after the messenger leaves, the plants disperse slowly and no one quite knows what to do with themselves. The answer they'd been building toward for weeks just… isn't an answer at all.
 
-    After the messenger leaves, the plants disperse slowly. No one quite knows what to do with themselves—the answer they'd been building toward for weeks just… isn't an answer at all.
-
-    I find Holloway in the maintenance room, organizing supply inventories — which is what Holloway does when stressed: create order through categorization.
+    I find Holloway in the maintenance room, organizing supply inventories—their way of making order when they're stressed.
 
     I say, "Hey."
 
-    Holloway, not looking up, says, "Kira. I'm documenting our current reserves — we should establish better tracking systems — prevent shortage scenarios."
+    Holloway doesn't look up. Holloway says, "Kira. I'm documenting our current reserves—we should establish better tracking systems to prevent shortage scenarios."
 
     I say, "Holloway."
 
-    Holloway says, "Perhaps a rotating stock methodology — first stored, first used — minimizes waste, ensures freshness…"
+    Holloway continues, "Perhaps a rotating stock methodology—first stored, first used—to minimize waste and ensure freshness—"
 
-    I say, "Holloway — you don't have to do this right now."
+    I say, "Holloway, you don't have to do this right now."
 
-    Their fruiting bodies droop slightly. "I don't know what else to do," Holloway admits.
+    Holloway's fruiting bodies droop slightly. Holloway admits, "I don't know what else to do."
 
-    I sit down next to them. Scout has been following me all day — extra attentive, worried about everyone.
+    I sit down next to them. Scout has been following me all day—extra attentive, worried about everyone.
 
-    Holloway says, "The H R manuals were supposed to help — they were our framework after… after we failed the first human. Concrete guidance. We thought if we just followed the protocols, we wouldn't fail again." —  —
+    Holloway says quietly, "The HR manuals were supposed to help—they were our framework after… after we failed the first human. Concrete guidance. We thought if we just followed the protocols, we wouldn't fail again." Holloway's voice catches. "We didn't understand, Kira. When the human died, we did what we always do—cycled the nutrients back into the soil. Normal. Natural. But afterward, when I reached through the network for what should have remained…"
 
-    Holloway continues, "But they didn't work for you — too rigid, too procedural, didn't account for actual needs."
+    Holloway finishes, "There was nothing. Humans don't continue. They just stop. And we didn't know that until after."
 
-    I say, "You adapted — you stopped just following the manual."
+    The weight of it sits between us—Holloway has been carrying this the whole time.
 
-    Holloway replies, "Yes, but we hoped Elder Heartwood would provide the *REAL* framework — the comprehensive understanding we were missing — ancient wisdom that could explain what we were doing wrong, what we should do instead." Their arrangement shifts toward something like defeat. "And Elder Heartwood doesn't even know you're here — or knows but doesn't care, because your lifetime is irrelevant noise."
+    Holloway continues, voice steadier now, "But they didn't work for you either—the manuals were too rigid, too procedural; they didn't account for actual needs."
 
-    The bitterness in their voice is new. Holloway is usually so measured, so carefully bureaucratic.
+    I point out, "You adapted—you stopped just following the manual."
 
-    Holloway says, "Every authority I've turned to has failed — the manuals failed, Elder Heartwood failed — I don't… I don't know what to trust now."
+    Holloway says, "Yes, but we hoped Elder Heartwood would provide the *REAL* framework—the comprehensive understanding we were missing—ancient wisdom that could explain what we were doing wrong, what we should do instead." Holloway's arrangement shifts—defeat.
 
-    Scout bounces — softly, a motion of concern and sympathy.
+    Holloway adds, "And Elder Heartwood either doesn't know you're here—or knows and doesn't care, because your lifetime is irrelevant noise."
+
+    The bitterness in Holloway's voice is new; they're usually measured, carefully bureaucratic.
+
+    Holloway continues, "Every authority I've turned to has failed—the manuals failed, Elder Heartwood failed—I don't… I don't know what to trust now."
+
+    Scout bounces softly—concern, sympathy.
 
     I suggest, "What about trusting what's already working?"
 
-    Holloway finally looks at me. "What do you mean?"
+    Holloway finally looks at me and asks, "What do you mean?"
 
-    I say, "You know what happened in Uncharted Season Four, when Mav finally reached the Oracle of Veris?"
+    I ask, "You know what happened in Uncharted Season 4, when Mav finally reached the Oracle of Veris?"
 
-    Holloway blinks. "The… the show you watch? With the human adventurer?"
+    Holloway blinks and replies, "The… the show you watch? With the human adventurer?"
 
-    I lean forward. "The Oracle was fake — a projection, a trick. Mav was devastated for three whole episodes. But you know what he figured out? The crew he built along the way — THEY were the real answer. He'd been so focused on reaching the Oracle that he didn't notice he'd already found what he was looking for."
+    I lean forward. "The Oracle was fake — a projection, a trick. Mav was devastated for three whole episodes. But you know what he figured out? The crew he built along the way — *THEY* were the real answer. He'd been so focused on reaching the Oracle that he didn't notice he'd already found what he was looking for."
 
     Scout bounces — understanding dawning.
 
-    I say, "I mean... *ARE* things working, Holloway. Not perfectly, but way better than they were. You ask what I need instead of scheduling automatic treatments. Remedy refines medicines based on my feedback. Runner waits for permission. We solve problems together without committees or waiting for approval." 
+    I say, "I mean… things _ARE_ working, Holloway — not perfectly, but way better than they were. You ask what I need instead of scheduling automatic treatments. Remedy refines medicines based on my feedback. Runner waits for permission. We solve problems together without committees or waiting for approval."
 
-    I gesture around.
+    I gesture around. "This morning, before the messenger arrived, I was thinking about how good we've gotten at daily cooperation. I haven't thought about rescue in seventeen days."
 
-    I continue, "This morning, before the messenger arrived, I was thinking about how good we've gotten at daily cooperation— I haven't thought about rescue in seventeen days." 
+    Holloway says, "But that's just… making do — improvising. Not systematic understanding."
 
-    Holloway says, "But that's just... making do. Improvising. Not systematic understanding."
-
-    I say, "Is it though? Or have we actually learned a system through trial and error? We've built patterns, Holloway—actual functional patterns for how you help me and I work with you." 
+    I say, "Is it though? Or have we actually learned a system through trial and error? We've built patterns, Holloway — actual functional patterns for how you help me and I work with you."
 
     Holloway is quiet, processing.
 
-    I say, "The journey taught us—nine days of figuring out cooperation with different guides. And then the weeks after—every day we've been learning. Small adjustments that compound, like Runner said. That's not just improvisation. That's actual knowledge we earned by paying attention to each other." 
+    I continue, "The journey taught us — nine days of figuring out cooperation with different guides. And then the weeks after — every day we've been learning. Small adjustments that compound, like Runner said. That's not just improvisation. That's actual knowledge we earned by paying attention to each other."
 
     Holloway says, "But without a framework—"
 
-    I say, "We *HAVE* a framework. It's just ours—made from experience, not handed down from authority."
+    I say, "We *HAVE* a framework — it's just ours. Made from experience, not handed down from authority."
 
-    Scout bounces—emphatic agreement.
+    Scout bounces, emphatic agreement.
 
-    Holloway's posture shifts—uncertainty, consideration.
+    Holloway's arrangement shifts — uncertainty, consideration. Holloway asks, "You're saying the learning we did while waiting for Elder Heartwood's response… that was the real answer?"
 
-    Holloway asks, "You're saying the learning we did while waiting for Elder Heartwood's response... that was the real answer?"
+    I say, "Yeah — I think it was."
 
-    I say, "Yeah. I think it was."
+    Holloway says, "But it feels so… improvised — uncertain. How do we know we're doing it right without authority to confirm?"
 
-    Holloway says, "But it feels so... improvised. Uncertain. How do we know we're doing it right without authority to confirm?"
-
-    I say, "How do we know authority is doing it right? The HR manuals failed you. Elder Heartwood failed you. Maybe authorities don't actually know better—they just sound more confident." 
+    I counter gently, "How do we know authority is doing it right?" I continue, "The HR manuals failed you. Elder Heartwood failed you. Maybe authorities don't actually know better — they just sound more confident."
 
     That lands. I can see it landing.
 
     We sit in silence for a bit. Scout settles between us, a comforting presence.
 
-    Holloway says eventually, "I've spent so much energy looking for the right framework—the procedure that would make everything clear. And you're suggesting we already found it?"
+    Holloway says eventually, "I've spent so much energy looking for the right framework — the procedure that would make everything clear. And you're suggesting we already found it."
 
-    I say, "Not found—built. We're still building it. But yeah."
+    I say, "Not found — built. We're still building it, but yeah."
 
     Holloway says, "That's terrifying."
 
     I say, "Little bit, yeah."
 
-    Holloway says, "But also... maybe better? Because it's actually responsive to you specifically—not trying to fit you into general principles."
+    Holloway pauses, then says, "But also… also maybe better? Because it's actually responsive to you specifically — not trying to fit you into general principles."
 
     I say, "Exactly."
 
-    Holloway makes a sound like rustling leaves—almost a laugh. "I've been so worried about doing this wrong. Following the wrong framework. And the answer is there's no framework to follow, just... genuine attention and adaptation."
+    Holloway makes a sound like rustling leaves — almost a laugh. Holloway says, "I've been so worried about doing this wrong — following the wrong framework. And the answer is there's no framework to follow, just… genuine attention and adaptation."
 
-    I say, "Genuine attention and adaptation sounds like a pretty good framework to me."
-
-    Holloway says, "It does, doesn't it?" His posture straightens—more upright, determined. "We should tell the others—they're struggling too."
+    I say. "Genuine attention and adaptation sounds like a pretty good framework to me."
+    Holloway shifts—posture straighter, determined. Holloway says. "It does, doesn't it? We should tell the others—they're struggling too."
 
     We gather everyone in the common area that evening. The mood is still heavy—disappointment hanging over everything.
 
-    Florence is uncharacteristically quiet with Elder Twist's pot settled beside her; Runner is coiled tight, Velvet has withdrawn to a thin layer, Remedy's edges are contracted — even Scout isn't bouncing much.
+    Florence is uncharacteristically quiet, Elder Twist's pot settled beside her. Runner is coiled tight. Velvet has withdrawn to a thin layer. Remedy's edges are contracted. Even Scout isn't bouncing much.
 
-    I start, "I know everyone is disappointed. The response we waited for didn't help."
+    I start. "I know everyone is disappointed. The response we waited for didn't help."
 
-    Runner mutters, "Didn't help is generous. It was useless. Worse than useless — it showed Elder Heartwood doesn't even understand the question."
+    Runner mutters. "Didn't help is generous. It was useless—worse than useless—it showed Elder Heartwood doesn't even understand the question."
 
-    I ask, "Can I tell you something? About that show I watch?"
+    I ask. "Can I tell you something about a show I watch?"
 
-    The plants look confused. Scout bounces encouragingly.
+    The plants look confused. Scout bounces—encouraging.
 
-    I say, "In Season 4, the main character — Mav — spends half the season trying to reach this Oracle, ancient wisdom that's supposed to answer all his questions. And when he finally gets there?"
+    I say. "In Season 4, the main character—Mav—spends half the season trying to reach this Oracle, ancient wisdom that's supposed to answer all his questions—and when he finally gets there—it's fake. The Oracle doesn't exist. Just an old projection system running on loop."
 
-    I say, "It's fake. The Oracle doesn't exist. Just an old projection system running on loop."
+    Velvet says. "That's... a sad story."
 
-    Velvet says, "That's... a sad story."
-
-    I say, "No, that's the thing — it's *NOT* sad. Because Mav realizes: the crew he built during the journey — his friends — *THEY* were the answer. He already had what he needed. He just couldn't see it because he was so focused on finding the 'real' answer."
+    I say. "No, that's the thing—it's *NOT* sad. Because Mav realizes—the crew he built during the journey, his friends—*THEY* were the answer. He already had what he needed; he just couldn't see it because he was so focused on finding the 'real' answer." 
 
     Understanding ripples through the room.
 
-    I continue, "What if that's us? What if the waiting period was the answer?"
+    I continue. "What if that's us? What if the waiting period was the answer?"
 
-    Velvet stirs slightly. Velvet says, "Explain."
+    Velvet stirs slightly. "Explain."
 
-    I say, "Look at what we've learned since the journey. Remedy — you've refined three different treatments based on what I told you about how they felt. That's not improvisation — that's sophisticated iteration."
+    I say. "Look at what we've learned since the journey. Remedy—you've refined three different treatments based on what I told you about how they felt. That's not improvisation—that's sophisticated iteration."
 
-    Remedy's form shifts slightly. Remedy says, "I suppose... yes. I have been developing better formulations through your feedback."
+    Remedy shifts. "I suppose... yes. I have been developing better formulations through your feedback."
 
-    I say, "Runner — you've learned boundaries. Not by following a procedure, but by watching my reactions and adjusting."
+    I say. "Runner, you've learned boundaries—not by following a procedure, but by watching my reactions and adjusting."
 
-    Runner's vines uncurl a bit. Runner says, "It's been... difficult. But yes, I'm learning what makes you uncomfortable versus what you welcome."
+    Runner's vines uncurl a bit. "It's been... difficult. But yes, I'm learning what makes you uncomfortable versus what you welcome."
 
-    I say, "And Holloway — you stopped just scheduling wellness checks and started asking what I actually need. That's huge."
+    I say. "And Holloway, you stopped just scheduling wellness checks and started asking what I actually need. That's huge."
 
-    Holloway says, "I adapted the framework — integrated care with procedure instead of replacing one with the other."
+    Holloway says, sounding more confident now. "I adapted the framework—integrated care with procedure instead of replacing one with the other."
 
-    I look around at all of them. I say, "Exactly. Every single one of you has been learning how to help me — not by waiting for someone to tell you how, but by paying attention and adapting. That's the answer we needed — the process of learning together."
+    I look around at all of them. "Every single one of you has been learning how to help me—not by waiting for someone to tell you how, but by paying attention and adapting. That's the answer we needed—the process of learning together."
 
-    Scout bounces — agreement, excitement. They get it.
+    Scout bounces—agreement, excitement.
 
-    Florence says, "But it's so uncertain — how do we know we're doing it correctly without external confirmation?"
+    Florence says. "But it's so uncertain. How do we know we're doing it correctly without external confirmation?"
 
-    I say, "We know because it's working. I'm alive. I'm healthy — healthier than I was weeks ago. We cooperate better. That's confirmation, isn't it?"
+    I say simply. "We know because it's working. I'm alive. I'm healthy—healthier than I was weeks ago. We cooperate better. That's confirmation, isn't it?"
 
-    Velvet surprises everyone by speaking up. Velvet says, "Good outcome is authority too. Different kind."
+    Velvet speaks up—surprising everyone.
 
-    Everyone turns to look at Velvet. That might be the most philosophically complex thing Velvet has ever said.
+    Velvet says, "Good outcome is authority too — a different kind."
 
-    Remedy says slowly — "Velvet's right. We've been seeking external authority to confirm we're helping correctly. But the confirmation is… you're surviving. Thriving, even. That's validation of our learning."
+    Everyone turns to look—it's possibly the most philosophically complex thing Velvet has ever said.
 
-    Runner realizes — "We don't need Elder Heartwood to tell us we're doing it right. We can see it's working."
+    Remedy says slowly, "Velvet's right — we've been seeking external authority to confirm we're helping correctly. But the confirmation is... you're surviving. Thriving, even. That's validation of our learning."
 
-    Holloway adds, connecting pieces — "The journey wasn't just transit to ask a question. The journey WAS learning cooperation. And the waiting period was learning adaptation. We were building the answer while thinking we were waiting for it."
+    Runner realizes, "We don't need Elder Heartwood to tell us we're doing it right — we can see it's working."
+
+    Holloway adds, "The journey wasn't just transit to ask a question — the journey *WAS* learning cooperation. And the waiting period was learning adaptation. We were building the answer while thinking we were waiting for it."
 
     Florence is very quiet.
 
-    Florence says — "I fabricated Elder Twist's wisdom because I wanted to provide helpful guidance. My own thoughts, hidden behind authority. But maybe… maybe my own thoughts have value directly?"
+    Florence says, "I fabricated Elder Twist's wisdom because I wanted to provide helpful guidance — my own thoughts hidden behind authority. But maybe... maybe my own thoughts have value directly?"
 
-    I say firmly — "Yes. Your insights are good, Florence. You don't need Elder Twist's authority to make them valid."
+    I say firmly, "Your insights are good, Florence. You don't need Elder Twist's authority to make them valid."
 
     Florence's wheeled platform shifts.
 
-    Florence says — "That's uncomfortable. But perhaps true."
+    Florence says, "That's uncomfortable — but perhaps true."
 
-    Runner says — "This whole thing is uncomfortable. We wanted Elder Heartwood to solve the problem—tell us the framework. Instead we have to… trust ourselves?"
+    Runner says, "This whole thing is uncomfortable — we wanted Elder Heartwood to solve the problem, tell us the framework. Instead we have to... trust ourselves?"
 
-    I correct — "Trust each other. Not just yourselves alone—all of us together. What we're learning through cooperation."
+    I correct, "Trust each other — not just yourselves alone, but all of us together. What we're learning through cooperation."
 
-    Holloway admits — "That's still terrifying. No procedures to fall back on, no authority to confirm we're right—just our own messy learning."
+    Holloway admits, "That's still terrifying — no procedures to fall back on, no authority to confirm we're right. Just our own messy learning."
 
-    I agree — "Yeah. But also it's ours—actually responsive to what we need, not trying to force reality into someone else's framework."
+    I agree, "Yeah — but also it's ours. Actually responsive to what we need, not trying to force reality into someone else's framework."
 
-    Scout bounces enthusiastically, flows over to press against Holloway, presses Runner, then returns to me, connecting everyone and reminding us we're in this together.
+    Scout bounces—encouraging. Scout flows over to press against Holloway, then Runner, then back to me—connecting everyone, reminding us we're in this together.
 
-    Remedy speaks up — "So what do we do now?"
+    Remedy asks, "So what do we do now?"
 
-    I say — "Same thing we've been doing. Pay attention to what works, adapt what doesn't, keep learning together—we just stop waiting for someone else to tell us we're doing it right."
+    I say, "Same thing we've been doing — pay attention to what works, adapt what doesn't, keep learning together. We just stop waiting for someone else to tell us we're doing it right."
 
-    Velvet repeats — "Keep learning. Together. Good plan."
+    Velvet repeats, "Keep learning — together. Good plan."
 
-    Florence corrects — "Simple plan."
+    Florence corrects, "Simple plan."
 
-    Remedy points out — "Simple doesn't mean wrong. Sometimes the complex answer is that simple actually works."
+    Remedy points out, "Simple doesn't mean wrong — sometimes the complex answer is that simple actually works."
 
-    There's a shift in the room — not quite confidence yet, too much disappointment still lingering—but something like determination. Or maybe just acceptance.
+    There's a shift in the room—not quite confidence yet; too much disappointment still lingers, but something like determination. Or maybe just acceptance.
 
     We're on our own. No ancient wisdom coming to save us, no ultimate authority to provide the perfect framework.
 
     Just us, figuring it out together.
 
-    That should be terrifying—and it is, a little. But also? Maybe it's better this way.
+    That should be terrifying. And it is, a little.
 
-    We've built something real through trial and error and by paying attention to each other— not following someone else's procedures, but creating our own understanding.
+    But also... maybe it's better this way.
 
-    Holloway says — "Tomorrow we continue daily cooperation. Track what works, adjust what doesn't, build on what we've learned."
+    We've built something real through trial and error and paying attention to each other — not following someone else's procedures, but creating our own understanding.
 
-    Runner adds — "And we trust that our experience is valid. We don't need external confirmation."
+    Holloway says  "Tomorrow, we continue daily cooperation. Track what works, adjust what doesn't, build on what we've learned."
 
-    I say — "We have each other for confirmation—that's enough."
+    Runner adds  "And we trust that our experience is valid. We don't need external confirmation."
 
-    Scout bounces—agreement, confidence, optimism. Scout always bounces optimistically, but this feels earned. We've been through something hard together and we're coming out the other side.
+    I say  "We have each other for confirmation. *That's enough.*"
 
-    Later, after everyone disperses, Scout and I return to my room. Velvet has maintained the moss bed perfectly—still soft, still the right humidity. Runner stopped by earlier to check the environmental controls without being asked, and Remedy left a new muscle recovery treatment with an adjusted formulation.
+    Scout bouncesagreement, confidence, optimism. Scout always bounces optimistically, but this feels earned. We've been through something hard together and we're coming out the other side.
 
-    Small acts of care, repeated daily—no grand wisdom required.
+    Later, after everyone disperses, Scout and I return to my room. Velvet has maintained the moss bed perfectlystill soft, still the right humidity. Runner stopped by earlier to check the environmental controls without being asked. Remedy left a new muscle recovery treatment with adjusted formulation.
+
+    Small acts of care, repeated dailyno grand wisdom required.
 
     I lie down on the moss, Scout curling up in their corner.
 
-    "We're on our own."
+    *We're on our own.*
 
-    But "on our own" means something different now—not alone, together; not abandoned by authority, freed from waiting for it.
+    But "on our own" means something different nownot alone, but together; not abandoned by authority, but freed from waiting for it.
 
-    The answer wasn't in Elder Heartwood's ancient roots. It was here all along, growing between us.
+    The answer wasn't in Elder Heartwood's ancient roots.
+
+    It was here all along, growing between us.
 
     We just needed Elder Heartwood to fail so we could see it.
   </combined-text>

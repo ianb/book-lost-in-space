@@ -1,290 +1,299 @@
 <!-- Generated automatically, do not edit except with ske gen passage-voice -->
-<passage-voice version="4.0.0">
-  <ref ref="passage.card#v4.0.0"/>
-  <reasoning>
-    <!-- For instructions on filling out reasoning: ske instructions stories/Mandatory_Assistance/chapters/7_Rivers_and_Wetlands/passages/1_River_Crossing/passage-voice.card -->
-  </reasoning>
+<passage-voice version="4.0.1">
+  <ref ref="passage.card#v4.0.1"/>
+  <reasoning>Reviewed the passage for voiceover needs. Noted short staccato fragments (e.g., "Calm. Serene. Almost meditative."), several instances of dialogue without clear lead-ins, split dialogue with action in the middle, trailing dashes for hesitation, and a stray lowercase start "my boots". Adjustments made: merged very short sentences into surrounding sentences where appropriate; ensured each spoken line is on its own line and introduced with a clear speaker lead-in; consolidated split beats from the same speaker into single quoted blocks; preserved intended pauses using em dashes (—) for medium pauses and ellipsis (…) for trailing/hesitant thoughts; converted emphasis markers to _italics_ per style rules; retained character names and content without changing story meaning.</reasoning>
   <content-change/>
   <chunks>
     <chunk>
       <text>
         Two hours into Territory Two, I am already cataloging the differences.
 
-        The ground has gone soft underfoot—not quite mud but yielding and spongy, like walking on carpet over padding. My boots leave shallow impressions that fill with water seconds after I lift my feet. The forest canopy has opened up and been replaced by wide sky and scattered trees—everything brighter, wetter, and more colorful than Territory One's green-brown shadows.
+        The ground has gone soft underfoot—not quite mud but yielding, spongy, like walking on carpet over padding. My boots leave shallow impressions that fill with water seconds after I lift my feet. The forest canopy has opened up, replaced by wide sky and scattered trees—everything brighter and wetter and more colorful than Territory One's green-brown shadows.
 
-        And the guides are *completely* different.
+        And the guides are _completely_ different.
 
-        Streamwalker moves ahead with flowing grace, their vines undulating in smooth waves. No sound except the soft whisper of vegetation against vegetation—calm, serene, almost meditative.
+        Streamwalker moves ahead with flowing grace, their vines undulating in smooth waves, and there is no sound except the soft whisper of vegetation—calm, serene, almost meditative.
 
         Brightbloom bounces alongside me like an enthusiastic orange cloud.
-        Brightbloom says, "Oh, the wetlands are wonderful! So much water, everything's alive, you can feel it in the soil—do you feel it? The energy? It's everywhere!"
+
+        Brightbloom says, "Oh, the wetlands are wonderful! So much water, everything's alive—you can feel it in the soil—do you feel it? The energy? It's everywhere!"
 
         Scout bounces in response, apparently finding a kindred spirit in Brightbloom's enthusiasm.
 
-        I smile despite my lingering sadness about Leafwhisper and Rootwalker. I say, "It's definitely wetter."
+        I smile despite my lingering sadness about Leafwhisper and Rootwalker.
 
-        Brightbloom's flowers brighten as they talk.
-        Brightbloom says, "Much wetter! Territory One is lovely but all those big trees drink so much—the ground gets dry between root systems, but here—here there's water in the air, water in the ground, water in every plant! We're all swimming really, just slowly!"
+        I say, "It's definitely wetter."
 
-        I say—quietly, to Buddy—"Are we actually swimming?"
+        Brightbloom says, "Much wetter! Territory One is lovely, but all those big trees drink so much that the ground gets dry between root systems—here there's water in the air, water in the ground, water in every plant. We're all swimming really, just slowly!"
 
-        Buddy replies, "No, Kira. You are walking on saturated soil. However, I am detecting elevated humidity levels! Staying hydrated remains important even in moist environments—"
+        I say, quietly, "Buddy, are we actually swimming?"
+
+        Buddy says, "No, Kira. You are walking on saturated soil. However, I am detecting elevated humidity levels. Staying hydrated remains important even in moist environments…"
 
         I say, "Thanks, Buddy."
 
-        Streamwalker calls back in a soft, musical voice, "River ahead—quarter kilometer—we'll cross before evening."
+        Streamwalker says, "River ahead, quarter kilometer—we'll cross before evening."
 
-        Their voice is so different from Leafwhisper's rapid cascade of information or Rootwalker's grounded syllables—Streamwalker sounds like water itself, flowing and patient.
+        Their voice is so different from Leafwhisper's rapid cascade of information or Rootwalker's grounded syllables. Streamwalker sounds like water itself—flowing and patient.
 
-        The terrain shifts as we walk. More standing water appears—small pools reflecting sky, channels cutting between plant clusters. The vegetation changes too: species I don't recognize—tall reeds, broad-leafed water plants, flowers in purples and yellows and that same bright orange as Brightbloom's blooms.
+        The terrain shifts as we walk. More standing water appears—small pools reflecting sky, channels cutting between plant clusters. The vegetation changes too: tall reeds, broad-leafed water plants, flowers in purples and yellows and that same bright orange as Brightbloom's blooms.
 
-        Brightbloom explains, "Everything here is adapted for moisture! See those tall ones? They filter water through their roots, very efficient, part of the territory's purification network! And those floating clusters? They actually move locations based on nutrient availability—very mobile, excellent problem-solvers!"
+        Brightbloom explains, "Everything here is adapted for moisture. See those tall ones? They filter water through their roots—very efficient, part of the territory's purification network. And those floating clusters? They actually move locations based on nutrient availability—very mobile, excellent problem-solvers!"
 
-        I feel a pang—Leafwhisper would have loved this, would have launched into twenty minutes of explanation about water-based plant networks and adaptive root structures and—
+        I feel a pang. Leafwhisper would have loved this—would have launched into twenty minutes of explanation about water-based plant networks and adaptive root structures…
 
-        I take a breath—Leafwhisper is back in Territory One—that is okay—that is how this works.
-        ¶
-        "The purple flowers are beautiful," I say, pulling myself back to the present.
+        I take a breath. Leafwhisper is back in Territory One. That is okay. That is how this works.
+
+        I say, "The purple flowers are beautiful."
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: Observant and mildly wistful, with bright, energetic bursts for Brightbloom and soft, flowing delivery for Streamwalker; allow reflective pauses where marked.
+        Overall tone: Observant and slightly wistful, with bursts of Brightbloom's bright, rapid enthusiasm and Streamwalker's calm, flowing lines; keep steady pacing and use medium pauses at em dashes and a slightly longer, reflective pause before the Leafwhisper memory.
 
-        - Read "And the guides are *completely* different." with a slightly louder emphasis on "*completely*".
-        - For Brightbloom lines ("Oh, the wetlands are wonderful!..." and "Much wetter!..."), speed up slightly, add bubbly enthusiasm, and brighten tone across the whole quote.
-        - For Streamwalker's line ("River ahead—quarter kilometer—we'll cross before evening."), slow down, make it musical and patient; treat em dashes as soft pauses.
-        - For "I say—quietly, to Buddy—\"Are we actually swimming?\"", lower volume and slow pace—this is an intimate, uncertain question.
-        - Use a clear contrast between Leafwhisper memory moments (soft, brief nostalgia) and present descriptions (more immediate, sensory).
-        - At the paragraph with only "¶", hold a longer reflective silence before continuing.
-        - Keep narration steady and descriptive; use medium pauses at em dashes to let images settle.
+        - Read "Streamwalker moves ahead with flowing grace...calm, serene, almost meditative." softly and slowly—let the phrase "calm, serene, almost meditative" breathe as one flowing thought.
+        - Give Brightbloom's lines energetic, upbeat delivery; push brightness on exclamations and keep the rhythm lively for "Oh, the wetlands are wonderful!" and the later explanatory block.
+        - For "I say, quietly, 'Buddy, are we actually swimming?'" lower volume and slow slightly—make it intimate.
+        - For "Buddy says, 'No, Kira... Staying hydrated remains important even in moist environments…'" use a measured, slightly clinical tone; allow the trailing ellipsis to feel like a soft fall-off.
+        - Deliver "Streamwalker says, 'River ahead, quarter kilometer—we'll cross before evening.'" in a smooth, flowing cadence as if speaking with the movement of water.
+        - At "I feel a pang. Leafwhisper would have loved this—..." pause briefly at the em dash and then lengthen the ellipsis to convey wistful trailing thought.
+        - Close with "I say, 'The purple flowers are beautiful.'" returning to a present, grounded tone—gentle, present-focused.
       </stage-directions>
     </chunk>
     <chunk>
       <text>
-        Brightbloom bounces higher.
+        Brightbloom bounces higher—
+        "Aren't they? And they smell wonderful! Not right now—too early in the day—but at sunset they release fragrance to attract night pollinators—very strategic timing, you'll love it tonight!"
 
-        "Aren't they? And they smell wonderful! Not right now—too early in the day—but at sunset they release fragrance to attract night pollinators, very strategic timing— you'll love it tonight!"
-
-        Streamwalker raises what might have been a vine-hand.
-
+        Streamwalker raises what might have been a vine-hand—
         "River."
 
-        And there it is.
-
-        I stop at the bank, assessing. The river runs maybe twenty meters wide, water moving steadily but not rushing—dark greenish-brown, impossible to see the bottom. Trees lean over from both banks, their canopies almost touching.
+        And there it is. I stop at the bank, assessing: the river runs maybe twenty meters wide, water moving steadily but not rushing, dark greenish-brown and impossible to see the bottom. Trees lean over from both banks, their canopies almost touching.
 
         "How deep?" I ask.
 
-        Streamwalker answers with their musical voice, warm and without urgency—
-
-        "Chest height at the crossing point. Current is gentle here. Steady but patient. The water knows where it's going."
+        Streamwalker says, "Chest height at the crossing point." Their voice is musical but calm. "Current is gentle here. Steady but patient. The water knows where it's going."
 
         Brightbloom rolls forward—their bouncy movement is really quite Scout-like.
-
-        "It's a lovely crossing! Very safe! We've guided dozens of travelers through—never lost anyone!¶Well, there was that one incident, but they were fine eventually!"
+        "It's a lovely crossing! Very safe! We've guided dozens of travelers through, never lost anyone!" A pause. "Well, there was that one incident, but they were fine eventually!"
 
         "Eventually?" I repeat.
 
-        "Downstream in the shallows!" Brightbloom's flowers bloom.
-
-        "Just took a little swim first! Very refreshing, they said!"
+        Brightbloom's flowers bloom enthusiastically—"Downstream in the shallows! Just took a little swim first! Very refreshing, they said!"
 
         Streamwalker makes a sound like a gentle sigh—air through their hollow vine chambers.
-
         "We will walk together. The stones are stable. No swimming required."
 
-        I study the water. In Territory One, I'd have been anxious—new challenge, unknown depth, worried about currents—but three days of learning to trust Leafwhisper and Rootwalker taught me something: the guides know what they're doing.
+        I study the water. In Territory One I would have been anxious—new challenge, unknown depth, worried about currents—but three days of learning to trust Leafwhisper and Rootwalker has taught me this: the guides know what they're doing.
 
         "Okay," I say. "Show me how."
 
         Streamwalker moves to the water's edge. Their vines extend, testing the surface, then slide in with barely a ripple.
-
         "Step where I step. The river has a path—stones beneath the surface, placed by the network generations ago. Trust the current to guide you if you slip. It flows to safety."
 
         Streamwalker steps into the water. Their vines spread wide for balance, moving with the current instead of fighting it—graceful, flowing. The water seems to accept them, wrapping around their structure like an embrace.
 
-        "See how calm they are?" Brightbloom says, bouncing at the bank beside me. "Streamwalker practically _is_ water! So relaxing to watch! You're going to do great—I can tell, you have excellent balance from watching you walk—"
+        "See how calm they are?" Brightbloom says, bouncing at the bank beside me. "Streamwalker practically *is* water! So relaxing to watch! You're going to do great, I can tell, you have excellent balance from watching you walk—"
 
         "I'm ready," I say. And I surprise myself by meaning it.
 
-        Scout bounces once, then launches themselves into the river with complete confidence. They bob on the surface, delighted, and float-bounce along behind Streamwalker.
+        Scout bounces once—the assessment bounce I've learned to recognize from the forest—then launches themselves into the river. They don't simply follow Streamwalker; they float-bounce along the crossing path first, bobbing over each submerged stone to check. Then they loop back toward me, bounce twice—*safe, follow me*—and float ahead again.
 
-        Right. If a ball-shaped plant can do this, I can too.
+        Scouting the crossing. Even here. That's just who Scout is.
+
+        Right. If a ball-shaped plant has checked the path for me, I can trust it.
 
         I step into the water.
 
-        Cold—immediate and shocking. My boot finds stone, solid beneath the silt, just like Streamwalker said.
+        ¶
 
-        "There you go!" Brightbloom calls. "Perfect! Next step just ahead and slightly right—yes! Excellent!"
-
-        The water rises to my knees, then to my thighs, the current pushing gently against my legs—not threatening, just present, letting me know it exists.
+        Cold. Immediate and shocking. My boot finds stone—solid beneath the silt, just like Streamwalker said.
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: Steady, observant narration with gentle, musical delivery for Streamwalker and bright, bubbly energy for Brightbloom; allow medium pauses at em dashes and a longer reflective pause where marked by "¶".
+        Overall tone: Calm, observant narration with Brightbloom energetic and bubbly, Streamwalker slow and flowing; keep medium pacing except for brief energetic bursts and the sharp, short delivery at the cold shock.
 
-        - Read the lead-in action lines calmly, then place the quoted dialog on its own line immediately after the lead-in.
-        - For the line "\"Aren't they? And they smell wonderful! ... you'll love it tonight!\"", deliver Brightbloom with bubbly enthusiasm and quick pacing; brighten tone on each exclamation.
-        - For any Streamwalker lines (for example, "\"Chest height at the crossing point...\"") slow slightly, make the voice musical and patient; treat em dashes as soft pauses.
-        - When you encounter the paragraph with only "¶", hold a longer reflective silence before continuing.
-        - Emphasize _is_ in "Streamwalker practically _is_ water!" with gentle emphasis rather than shouting.
-        - For the moment "Cold—immediate and shocking." use a short, sharper delivery for "Cold" then soften into the following clause.
-        - Keep narration steady and descriptive; let medium pauses (—) settle images, and do not add extra emphasis beyond what's marked.
+        - Read "Brightbloom bounces higher—" with bright, quick energy; deliver the following quoted line in lively, rapid warmth.
+        - Read the single-word line "River." softly but clearly—this is an identifying, slightly reverent statement.
+        - For "Streamwalker says, 'Chest height at the crossing point.'" use a warm, musical calm—gentle and reassuring; pause slightly at each em dash.
+        - When Brightbloom speaks (any line starting with "Brightbloom" or the enthusiastic quotes), increase brightness and tempo; push emphasis on exclamations.
+        - Deliver "Step where I step... It flows to safety." as a flowing, guiding instruction—smooth, steady cadence, almost like a gentle current.
+        - For the Scout sequence ("Scout bounces once...safe, follow me") use quick, nimble pacing with small upbeat inflections; make the "bounce twice—*safe, follow me*" clear and encouraging.
+        - Insert a long, reflective pause (use the paragraph containing only "¶") right after "I step into the water." before delivering the shock lines.
+        - Read "Cold. Immediate and shocking." as stark, short sentences—each punchy and close together to convey sudden physical sensation.
       </stage-directions>
     </chunk>
     <chunk>
       <text>
+        Brightbloom calls, "There you go! Perfect! Next step just ahead and slightly right—yes! Excellent!"
+
+        The water rises to my knees, then to my thighs. The current pushes gently against my legs — not threatening, just present, letting me know it exists.
+
         Streamwalker is three meters ahead, moving with patient grace.
-        Streamwalker says, "Feel the river. It wants to help. Not all water fights."
+
+        Streamwalker says in a musical, calm voice, "Feel the river. It wants to help. Not all water fights."
 
         Brightbloom bounces along the bank, tracking my progress.
+
         Brightbloom says, "Very philosophical! But true! This river is friendly! Territorial agreement includes maintained safe crossings!"
 
-        I take another step; the stone wobbles slightly and my stomach drops
-        Streamwalker says, "Center your weightlike roots finding ground. The stone holds."
+        I take another step; the stone wobbles slightly and my stomach drops—
 
-        I adjust; the wobble steadies and I breathe.
+        Streamwalker says in that same steady, musical calm, "Center your weight — like roots finding ground. The stone holds."
+
+        I adjust until the wobble steadies, and I breathe.
 
         Brightbloom says, "See? You've got it! Natural talent!"
+
         Brightbloom's flowers are blooming so enthusiastically they look like they might launch right off the bush.
 
-        The water reaches my waist, cold but not freezing. The current is stronger here, but Streamwalker has been rightit pushes me toward the crossing path, not away from it. Like the river knows where travelers should go.
+        The water reaches my waist — cold but not freezing. The current is stronger here, but Streamwalker has been right: it pushes me toward the crossing path, not away from it, as if the river knows where travelers should go.
 
         Scout bobs happily nearby, occasionally bouncing on the surface and sending up small splashes.
 
-        Brightbloom announces, "Halfway! Excellent progress! Very steady! Much better than the traveler who panicked and tried to swim upstreamdon't do that, by the way, never ends well"
-        Streamwalker says to Brightbloom, "Brightbloom."
+        Brightbloom announces, "Halfway! Excellent progress! Very steady! Much better than the traveler who panicked and tried to swim upstream — don't do that, by the way, never ends well —"
+
+        Streamwalker says gently, "Brightbloom."
+
         Brightbloom replies, "Right! Staying positive! You're doing wonderfully, Kira!"
 
-        I keep movingstep, find the stone, balance, step again. The rhythm is familiarnot so different from walking all day through Territory One. Find your pace. Trust the guides. Keep going.
+        I keep moving — step, find the stone, balance, step again. The rhythm is familiar, not so different from walking all day through Territory One: find your pace, trust the guides, keep going.
 
-        The water begins to recedethighs, then knees, then ankles.
+        The water begins to recede to my thighs, then my knees, then my ankles.
 
         I step onto the far bank, dripping and cold but steady.
 
-        Streamwalker has emerged meters ahead, their vines already gathering themselves back into traveling formation.
-        Streamwalker says, "Excellent crossing. The river welcomed you."
+        Streamwalker emerges meters ahead, vines already gathering into traveling formation, and says, "Excellent crossing! The river welcomed you."
 
-        Brightbloom says, "*THAT WAS PERFECT!* First crossing with new guides and you handled it like an experienced traveler! Wait until the Territory Three team hears about this!"
+        Brightbloom has apparently bounced across at some point while I was focused on stepping.
+
+        Brightbloom says *"THAT WAS PERFECT!"* "First crossing with new guides and you handled it like an experienced traveler! Wait until the Territory Three team hears about this!"
 
         Scout bounces enthusiastically, flinging water droplets everywhere.
 
-        I start laughing. I'm soaked, cold, my boots are full of river water, and I'd just crossed a river on an alien planet guided by a musical vine-plant and an overly enthusiastic bush.
+        I start laughing — soaked, cold, my boots full of river water, and I'd just crossed a river on an alien planet guided by a musical vine-plant and an overly enthusiastic bush.
 
-        And I'd done it. Just done it. Without panicking or falling or needing rescue.
+        And I'd done it.
+
+        Just… done it.
 
         ¶
 
-        Buddy offers, "The water adds about two kilograms to your clothing weight. I recommend wringing out excess moisture when possible to reduce carrying load"
-        I reply, "In a minute, Buddy. Let me have this moment."
+        Without panicking or falling or needing rescue.
 
-        Buddy says, "Your heart rate suggests positive emotional response! Accomplishment releases dopamine"
+        Buddy offers, "The water adds about two kilograms to your clothing weight. I recommend wringing out excess moisture when possible to reduce carrying load —"
+
+        I say, "In a minute, Buddy. Let me have this moment." I am still grinning.
+
+        Buddy says, "Your heart rate suggests positive emotional response! Accomplishment releases dopamine —"
+
         I say, "Buddy."
-        Buddy says, "Recording moment for wellness documentation!"
 
-        Streamwalker makes a gentle sighing sound.
-        Streamwalker says, "There's sun ahead. We'll dry as we walk. The wetlands give and take water freely."
+        Buddy says, "Recording moment for wellness documentation!"
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: Calm, steady first-person narration with gentle musical delivery for Streamwalker and bright, bubbly energy for Brightbloom; keep medium pauses at em dashes and a longer reflective pause where marked by "¶".
+        Overall tone: Calm, observant narration with Brightbloom energetic and bubbly, Streamwalker slow and flowing; keep a medium pacing except for Brightbloom's quick, bright bursts and the short, staccato emotional beats.
 
-        - Read the lead-in action lines calmly; always place the quoted dialog on its own line immediately after the lead-in (for example, read "Streamwalker says," then a short breath, then the quoted line).
-        - Deliver Streamwalker lines with a musical, patient timbre; slow slightly on "Center your weight" and use soft pauses at each em dash inside those quotes.
-        - Deliver Brightbloom with buoyant, quick energy; brighten tone on exclamations and make "*THAT WAS PERFECT!*" loud and celebratory.
-        - When the narration reaches "my stomach drops" and other em-dash breaks, take a medium pause (about 300400 ms) before continuing.
-        - For the hesitant line "Just done it." use a trailing/hesitant delivery on the ellipsis, then hold the full reflective pause at the paragraph containing only "¶".
-        - Treat Buddy's lines as brisk, clinical statements; keep a slightly clipped, informational tone and make the word "Recording" matter-of-fact.
-        - "Scout" and other animal/companion actions are playful sound cues; add light, cheerful inflection when narrating their behavior.
+        - Read "Brightbloom calls, "There you go!..."" with bright, quick energy; push warmth and enthusiasm on exclamations.
+        - Read "Streamwalker says in a musical, calm voice, "Feel the river..."" as slow, flowing, and reassuring; allow slight space at each em dash.
+        - For the wobble moment — "the stone wobbles slightly and my stomach drops—" — deliver a small, sudden tightening in the voice to convey surprise, then settle into Streamwalker's calm line.
+        - Read "Brightbloom says *"THAT WAS PERFECT!"*" loudly and exuberantly; treat the bold as a forceful shout but short — then drop back to playful energy for the following line.
+        - Deliver the emotional realization lines "And I'd done it." and "Just… done it." with intimate, slightly breathy emphasis; place a long pause (the paragraph "¶") after them to let the achievement breathe.
+        - For Buddy's clinical lines, use a slightly flat, informative tone; for the narrator's interjections "In a minute, Buddy." and "Buddy." use amused, gentle exasperation.
+        - Keep Scout's and Brightbloom's bounces light and nimble in the narration — quick little lifts in tempo for those descriptive beats.
       </stage-directions>
     </chunk>
     <chunk>
       <text>
-        Brightbloom bounces toward a cluster of bright yellow flowers and says,
-        "Plus you'll be warm from movement! — Walking generates heat — very efficient biological response — and look — these bloom in afternoon sun, very beautiful, excellent motivational scenery for the next few kilometers!"
+        Streamwalker makes that gentle, sighing sound. Streamwalker says, "There's sun ahead A0— we'll dry as we walk. The wetlands give and take water freely."
 
-        I squeeze water from my jacket; my pants will take longer to dry, but Streamwalker is right — walking will warm me up. The sun feels good already, stronger here without the forest canopy blocking it.
+        Brightbloom adds, "Walking generates heat A0— very efficient biological response A0— and look: these bloom in afternoon sun, _very beautiful_, excellent motivational scenery for the next few kilometers!"
+
+        I squeeze water from my jacket; my pants will take longer to dry, but Streamwalker is right A0— walking will warm me up. The sun already feels good, stronger here without the forest canopy blocking it.
 
         I ask, "How far to tonight's shelter?"
 
-        Streamwalker replies, "Three hours — gentle walking. No more crossings today. The path flows easy from here."
+        Streamwalker says, "Three hours. Gentle walking. No more crossings today. The path flows easy from here."
 
         I say, "Easy is good. I like easy."
 
-        Brightbloom bounces, enthusiastic and bright, and says,
-        "Easy is wonderful! — Though challenging is also good! — Builds confidence! — Creates accomplishment! — But easy is definitely lovely too!"
+        Brightbloom says, "*Easy is wonderful!* Though challenging is also good A0— builds confidence A0— creates accomplishment A0— but easy is definitely lovely too!"
 
         Scout bounces between me and Brightbloom, apparently having adopted the bush as a bouncing mentor.
 
-        We continue walking through the wetlands — water and sky and colorful plants, everything bright and alive and completely different from Territory One's shadowed forest. The ground stays soft, sometimes splashing underfoot, sometimes just yielding like moss.
+        They walk.
 
-        Streamwalker leads with flowing grace, moving like they're part of the water themselves.
+        The wetlands spread around us: water and sky and colorful plants, everything bright and alive and completely different from Territory One's shadowed forest. The ground stays soft, sometimes splashing underfoot, sometimes just yielding like moss.
+
+        Streamwalker leads with flowing grace, moving like they're part of the water itself.
 
         Brightbloom bounces and chatters, pointing out interesting plants and encouraging me every few minutes about my "excellent walking form."
 
         Scout investigates everything with enthusiastic thoroughness.
 
-        And I — adapt.
+        And I  A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0I  A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0adapt.
 
         ¶
 
-        I've done this before — learned new guides, new terrain, new rhythms. This time feels easier. Less fear about the unknown, more curiosity about the differences. Streamwalker isn't Rootwalker and Brightbloom definitely isn't Leafwhisper — but that is okay. Calm and energy instead of information and practicality — different but functional.
+        By the time we reach the evening shelter A0— a raised platform of woven reeds surrounded by flowering bushes  A0— my clothes have mostly dried and my muscles have found their rhythm again.
 
-        By the time we reach the evening shelter — a raised platform of woven reeds surrounded by flowering bushes — my clothes have mostly dried and my muscles have found their rhythm again.
+        Streamwalker settles at the platform's edge, vines trailing into the water below. Streamwalker says, "Good walking today. The river blessed your crossing."
 
-        Streamwalker settles at the platform's edge, vines trailing into the water below, and says,
-        "Good walking today. The river blessed your crossing."
+        I ask, "Blessed?"
 
-        I ask, "Blessed?" while pulling out my food supplies.
+        Streamwalker says, "Old saying." Streamwalker's musical voice carries gentle amusement. "Water that lets you pass without taking you. That's a blessing."
 
-        Streamwalker's musical voice carries gentle amusement as they say, "Old saying — water that lets you pass without taking you. That's a blessing."
-
-        Brightbloom bounces onto the platform, flowers glowing in the evening light, and says,
-        "*You were wonderful!* — First day with new guides and you adapted so well — such confidence — very impressive!"
+        Brightbloom bounces onto the platform, flowers glowing in the evening light. Brightbloom says, "You were wonderful! First day with new guides and you adapted so well A0— such confidence A0— very impressive!"
 
         Scout bounces agreement and settles beside me.
-
-        I eat my mushroom paste — still terrible but necessary — and watch the sun set over the wetlands: purple and orange sky reflecting in standing water, flowers starting to release fragrance like Brightbloom predicted. It is beautiful, different from Territory One's forest darkness but beautiful in its own way.
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: Calm, steady first-person narration; Streamwalker should sound musical and patient, Brightbloom bright and buoyant, and the narrator reflective but pragmatic. Keep medium pauses at em dashes and a longer reflective pause at the paragraph containing only "¶".
+        Overall tone: calm, observant narration with Brightbloom bright and bubbly, Streamwalker slow and flowing; maintain medium pacing with quick, energetic bursts for Brightbloom and light bouncy lifts for Scout.
 
-        - Read the lead-in action lines calmly; always place the quoted dialog on its own line immediately after the lead-in (for example, read "Brightbloom bounces... and says," then a short breath, then the quoted block).
-        - Deliver Streamwalker's lines with a musical, patient timbre; slow slightly at em dashes inside those quotes and keep a warm, soft edge.
-        - Deliver Brightbloom with buoyant, quick energy; brighten tone on exclamations and push slightly louder on the first clause inside the quote (marked with *asterisks*).
-        - Use a medium pause at each em dash — treat them as ~300-400 ms breaks. Use the paragraph with only "¶" for a longer, reflective hold.
-        - Make the narrator voice steady and observant; when narrating physical actions like "I squeeze water" or "I eat my mushroom paste," keep the delivery matter-of-fact.
-        - Play Scout's movements as light, playful cues in the narration — small uplift in tone when mentioning Scout.
-        - Keep all dialogue attribution explicit and immediate to avoid misattribution in an audio-only context.
+        - Read "Streamwalker says, \"There's sun ahead...\"" slowly and musically; allow a gentle space at the em dash.
+        - Read "Brightbloom adds, \"Walking generates heat...\"" with quick, cheerful energy; push enthusiasm on *bold* phrases and keep the beats connected with short internal pauses at the em dashes.
+        - For the narrator lines about adapting, soften and slow slightly; deliver the trailing hesitation in "And I  adapt." with a thoughtful, reflective drawl and then pause at the paragraph "¶".
+        - Read "Easy is good. I like easy." plain and contented; then make Brightbloom's reply exuberant and forceful on *Easy is wonderful!*
+        - When Streamwalker says, "Good walking today. The river blessed your crossing," use calm pride and a slight smile in the voice.
+        - Keep Scout's actions light and nimble: quick little rises in tempo for "Scout bounces" and "Scout investigates."
+        - Use medium pauses at em dashes ( A0— A0) and a longer pause at the lone paragraph "¶".
       </stage-directions>
     </chunk>
     <chunk>
       <text>
-        Streamwalker says quietly:
-        "Tomorrow we go deeper into wetlands — softer ground, more water — the territory's heart."
+        I eat my mushroom paste — still terrible but necessary — and watch the sun set over the wetlands, a purple-and-orange sky reflecting in the standing water as flowers begin to release their fragrance, just as Brightbloom predicted.
 
-        Brightbloom adds cheerfully:
-        "*More adventures!* Different plants, new challenges — it's going to be wonderful!"
+        Different from Territory One's forest darkness, but beautiful in its own way.
 
-        I smile and say:
-        "I'm sure it will."
+        Streamwalker says — "Tomorrow we go deeper into the wetlands — softer ground — more water — the territory's heart."
 
-        And the strange thing is—I mean it.
+        Brightbloom adds cheerfully — "More adventures! — Different plants! — New challenges! — It's going to be wonderful!"
+
+        I smile — "I'm sure it will be."
+
+        And the strange thing is — I mean it.
 
         ¶
 
         I'd learned something in Territory One: trust the guides, find the rhythm, let the team work.
 
-        Now I just have to do it again — different guides, different terrain, same journey — one territory at a time.
+        Now I just have to do it again.
 
-        I can do this — I _am_ doing this.
+        Different guides, different terrain — same journey.
+
+        One territory at a time.
+
+        I can do this.
+
+        I _am_ doing this.
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: Calm, steady first-person narration with a gentle, growing confidence; Streamwalker should be musical and patient, Brightbloom bright and buoyant, and the narrator reflective but resolute.
+        Overall tone &amp; pacing: Calm, observant narrator; Streamwalker slow and musical; Brightbloom quick and bubbly. Maintain medium pacing, with brief energetic lifts for Brightbloom and a reflective, steady cadence for the narrator.
 
-        - Read the lead-in attribution lines calmly; place each quoted dialog on its own line immediately after the lead-in (short breath between lead-in and quote).
-        - "Streamwalker says quietly:" — deliver with a warm, musical timbre; slow slightly at each em dash in the quote.
-        - "Brightbloom adds cheerfully:" — bright, quick energy; push slightly louder on the bolded first clause "*More adventures!*" then lighten for the follow-through.
-        - "I smile and say:" and subsequent narrator lines — steady, matter-of-fact, reflective; keep pacing even and calm.
-        - Use a medium pause at each em dash — treat as ~300-400 ms breaks.
-        - Pause on the paragraph containing only "¶" as a longer reflective hold (~800-1000 ms) before continuing.
+        - Read "Streamwalker says — \"Tomorrow we go deeper into the wetlands — softer ground — more water — the territory's heart.\"" slowly and musically; deliver the em dashes as medium pauses and keep the line quiet and measured.
+        - Read "Brightbloom adds cheerfully — \"More adventures! — Different plants! — New challenges! — It's going to be wonderful!\"" with quick, bright energy; emphasize the exclamations and keep beats connected by short internal breaths at each em dash.
+        - Read "I smile — \"I'm sure it will be.\"" warm and gentle, a light upward lift on the assurance.
+        - For "And the strange thing is — I mean it." use a thoughtful, sincere tone with a clear medium pause at the em dash.
+        - When you reach the lone paragraph containing only "¶", hold a longer, contemplative pause (dramatic beat) before continuing.
+        - Read the reflective line "I'd learned something in Territory One: trust the guides, find the rhythm, let the team work." steady, calm, and a bit instructional—gentle emphasis on "trust the guides" and "let the team work."
+        - Deliver the closing lines "I can do this." and "I _am_ doing this." with growing confidence; make the final "I _am_ doing this." slightly firmer while keeping warmth.
         - Closing cadence: Soft landing; warm fall, lingering last syllable, cozy pause.
       </stage-directions>
     </chunk>
@@ -299,213 +308,221 @@
     <word text="Streamwalker"/>
     <word text="Territory One"/>
     <word text="Territory Three"/>
+    <word text="Territory Two"/>
   </unusual-pronunciations>
   <title>River Crossing</title>
   <combined-text>
     Two hours into Territory Two, I am already cataloging the differences.
 
-    The ground has gone soft underfoot—not quite mud but yielding and spongy, like walking on carpet over padding. My boots leave shallow impressions that fill with water seconds after I lift my feet. The forest canopy has opened up and been replaced by wide sky and scattered trees—everything brighter, wetter, and more colorful than Territory One's green-brown shadows.
+    The ground has gone soft underfoot—not quite mud but yielding, spongy, like walking on carpet over padding. My boots leave shallow impressions that fill with water seconds after I lift my feet. The forest canopy has opened up, replaced by wide sky and scattered trees—everything brighter and wetter and more colorful than Territory One's green-brown shadows.
 
-    And the guides are *completely* different.
+    And the guides are _completely_ different.
 
-    Streamwalker moves ahead with flowing grace, their vines undulating in smooth waves. No sound except the soft whisper of vegetation against vegetation—calm, serene, almost meditative.
+    Streamwalker moves ahead with flowing grace, their vines undulating in smooth waves, and there is no sound except the soft whisper of vegetation—calm, serene, almost meditative.
 
     Brightbloom bounces alongside me like an enthusiastic orange cloud.
-    Brightbloom says, "Oh, the wetlands are wonderful! So much water, everything's alive, you can feel it in the soil—do you feel it? The energy? It's everywhere!"
+
+    Brightbloom says, "Oh, the wetlands are wonderful! So much water, everything's alive—you can feel it in the soil—do you feel it? The energy? It's everywhere!"
 
     Scout bounces in response, apparently finding a kindred spirit in Brightbloom's enthusiasm.
 
-    I smile despite my lingering sadness about Leafwhisper and Rootwalker. I say, "It's definitely wetter."
+    I smile despite my lingering sadness about Leafwhisper and Rootwalker.
 
-    Brightbloom's flowers brighten as they talk.
-    Brightbloom says, "Much wetter! Territory One is lovely but all those big trees drink so much—the ground gets dry between root systems, but here—here there's water in the air, water in the ground, water in every plant! We're all swimming really, just slowly!"
+    I say, "It's definitely wetter."
 
-    I say—quietly, to Buddy—"Are we actually swimming?"
+    Brightbloom says, "Much wetter! Territory One is lovely, but all those big trees drink so much that the ground gets dry between root systems—here there's water in the air, water in the ground, water in every plant. We're all swimming really, just slowly!"
 
-    Buddy replies, "No, Kira. You are walking on saturated soil. However, I am detecting elevated humidity levels! Staying hydrated remains important even in moist environments—"
+    I say, quietly, "Buddy, are we actually swimming?"
+
+    Buddy says, "No, Kira. You are walking on saturated soil. However, I am detecting elevated humidity levels. Staying hydrated remains important even in moist environments…"
 
     I say, "Thanks, Buddy."
 
-    Streamwalker calls back in a soft, musical voice, "River ahead—quarter kilometer—we'll cross before evening."
+    Streamwalker says, "River ahead, quarter kilometer—we'll cross before evening."
 
-    Their voice is so different from Leafwhisper's rapid cascade of information or Rootwalker's grounded syllables—Streamwalker sounds like water itself, flowing and patient.
+    Their voice is so different from Leafwhisper's rapid cascade of information or Rootwalker's grounded syllables. Streamwalker sounds like water itself—flowing and patient.
 
-    The terrain shifts as we walk. More standing water appears—small pools reflecting sky, channels cutting between plant clusters. The vegetation changes too: species I don't recognize—tall reeds, broad-leafed water plants, flowers in purples and yellows and that same bright orange as Brightbloom's blooms.
+    The terrain shifts as we walk. More standing water appears—small pools reflecting sky, channels cutting between plant clusters. The vegetation changes too: tall reeds, broad-leafed water plants, flowers in purples and yellows and that same bright orange as Brightbloom's blooms.
 
-    Brightbloom explains, "Everything here is adapted for moisture! See those tall ones? They filter water through their roots, very efficient, part of the territory's purification network! And those floating clusters? They actually move locations based on nutrient availability—very mobile, excellent problem-solvers!"
+    Brightbloom explains, "Everything here is adapted for moisture. See those tall ones? They filter water through their roots—very efficient, part of the territory's purification network. And those floating clusters? They actually move locations based on nutrient availability—very mobile, excellent problem-solvers!"
 
-    I feel a pang—Leafwhisper would have loved this, would have launched into twenty minutes of explanation about water-based plant networks and adaptive root structures and—
+    I feel a pang. Leafwhisper would have loved this—would have launched into twenty minutes of explanation about water-based plant networks and adaptive root structures…
 
-    I take a breath—Leafwhisper is back in Territory One—that is okay—that is how this works.
+    I take a breath. Leafwhisper is back in Territory One. That is okay. That is how this works.
 
-    "The purple flowers are beautiful," I say, pulling myself back to the present.
+    I say, "The purple flowers are beautiful."
 
-    Brightbloom bounces higher.
+    Brightbloom bounces higher—
+    "Aren't they? And they smell wonderful! Not right now—too early in the day—but at sunset they release fragrance to attract night pollinators—very strategic timing, you'll love it tonight!"
 
-    "Aren't they? And they smell wonderful! Not right now—too early in the day—but at sunset they release fragrance to attract night pollinators, very strategic timing— you'll love it tonight!"
-
-    Streamwalker raises what might have been a vine-hand.
-
+    Streamwalker raises what might have been a vine-hand—
     "River."
 
-    And there it is.
-
-    I stop at the bank, assessing. The river runs maybe twenty meters wide, water moving steadily but not rushing—dark greenish-brown, impossible to see the bottom. Trees lean over from both banks, their canopies almost touching.
+    And there it is. I stop at the bank, assessing: the river runs maybe twenty meters wide, water moving steadily but not rushing, dark greenish-brown and impossible to see the bottom. Trees lean over from both banks, their canopies almost touching.
 
     "How deep?" I ask.
 
-    Streamwalker answers with their musical voice, warm and without urgency—
-
-    "Chest height at the crossing point. Current is gentle here. Steady but patient. The water knows where it's going."
+    Streamwalker says, "Chest height at the crossing point." Their voice is musical but calm. "Current is gentle here. Steady but patient. The water knows where it's going."
 
     Brightbloom rolls forward—their bouncy movement is really quite Scout-like.
-
-    "It's a lovely crossing! Very safe! We've guided dozens of travelers through—never lost anyone!Well, there was that one incident, but they were fine eventually!"
+    "It's a lovely crossing! Very safe! We've guided dozens of travelers through, never lost anyone!" A pause. "Well, there was that one incident, but they were fine eventually!"
 
     "Eventually?" I repeat.
 
-    "Downstream in the shallows!" Brightbloom's flowers bloom.
-
-    "Just took a little swim first! Very refreshing, they said!"
+    Brightbloom's flowers bloom enthusiastically—"Downstream in the shallows! Just took a little swim first! Very refreshing, they said!"
 
     Streamwalker makes a sound like a gentle sigh—air through their hollow vine chambers.
-
     "We will walk together. The stones are stable. No swimming required."
 
-    I study the water. In Territory One, I'd have been anxious—new challenge, unknown depth, worried about currents—but three days of learning to trust Leafwhisper and Rootwalker taught me something: the guides know what they're doing.
+    I study the water. In Territory One I would have been anxious—new challenge, unknown depth, worried about currents—but three days of learning to trust Leafwhisper and Rootwalker has taught me this: the guides know what they're doing.
 
     "Okay," I say. "Show me how."
 
     Streamwalker moves to the water's edge. Their vines extend, testing the surface, then slide in with barely a ripple.
-
     "Step where I step. The river has a path—stones beneath the surface, placed by the network generations ago. Trust the current to guide you if you slip. It flows to safety."
 
     Streamwalker steps into the water. Their vines spread wide for balance, moving with the current instead of fighting it—graceful, flowing. The water seems to accept them, wrapping around their structure like an embrace.
 
-    "See how calm they are?" Brightbloom says, bouncing at the bank beside me. "Streamwalker practically _is_ water! So relaxing to watch! You're going to do great—I can tell, you have excellent balance from watching you walk—"
+    "See how calm they are?" Brightbloom says, bouncing at the bank beside me. "Streamwalker practically *is* water! So relaxing to watch! You're going to do great, I can tell, you have excellent balance from watching you walk—"
 
     "I'm ready," I say. And I surprise myself by meaning it.
 
-    Scout bounces once, then launches themselves into the river with complete confidence. They bob on the surface, delighted, and float-bounce along behind Streamwalker.
+    Scout bounces once—the assessment bounce I've learned to recognize from the forest—then launches themselves into the river. They don't simply follow Streamwalker; they float-bounce along the crossing path first, bobbing over each submerged stone to check. Then they loop back toward me, bounce twice—*safe, follow me*—and float ahead again.
 
-    Right. If a ball-shaped plant can do this, I can too.
+    Scouting the crossing. Even here. That's just who Scout is.
+
+    Right. If a ball-shaped plant has checked the path for me, I can trust it.
 
     I step into the water.
 
-    Cold—immediate and shocking. My boot finds stone, solid beneath the silt, just like Streamwalker said.
+    Cold. Immediate and shocking. My boot finds stone—solid beneath the silt, just like Streamwalker said.
 
-    "There you go!" Brightbloom calls. "Perfect! Next step just ahead and slightly right—yes! Excellent!"
+    Brightbloom calls, "There you go! Perfect! Next step just ahead and slightly right—yes! Excellent!"
 
-    The water rises to my knees, then to my thighs, the current pushing gently against my legs—not threatening, just present, letting me know it exists.
+    The water rises to my knees, then to my thighs. The current pushes gently against my legs — not threatening, just present, letting me know it exists.
 
     Streamwalker is three meters ahead, moving with patient grace.
-    Streamwalker says, "Feel the river. It wants to help. Not all water fights."
+
+    Streamwalker says in a musical, calm voice, "Feel the river. It wants to help. Not all water fights."
 
     Brightbloom bounces along the bank, tracking my progress.
+
     Brightbloom says, "Very philosophical! But true! This river is friendly! Territorial agreement includes maintained safe crossings!"
 
-    I take another step; the stone wobbles slightly and my stomach drops
-    Streamwalker says, "Center your weightlike roots finding ground. The stone holds."
+    I take another step; the stone wobbles slightly and my stomach drops—
 
-    I adjust; the wobble steadies and I breathe.
+    Streamwalker says in that same steady, musical calm, "Center your weight — like roots finding ground. The stone holds."
+
+    I adjust until the wobble steadies, and I breathe.
 
     Brightbloom says, "See? You've got it! Natural talent!"
+
     Brightbloom's flowers are blooming so enthusiastically they look like they might launch right off the bush.
 
-    The water reaches my waist, cold but not freezing. The current is stronger here, but Streamwalker has been rightit pushes me toward the crossing path, not away from it. Like the river knows where travelers should go.
+    The water reaches my waist — cold but not freezing. The current is stronger here, but Streamwalker has been right: it pushes me toward the crossing path, not away from it, as if the river knows where travelers should go.
 
     Scout bobs happily nearby, occasionally bouncing on the surface and sending up small splashes.
 
-    Brightbloom announces, "Halfway! Excellent progress! Very steady! Much better than the traveler who panicked and tried to swim upstreamdon't do that, by the way, never ends well"
-    Streamwalker says to Brightbloom, "Brightbloom."
+    Brightbloom announces, "Halfway! Excellent progress! Very steady! Much better than the traveler who panicked and tried to swim upstream — don't do that, by the way, never ends well —"
+
+    Streamwalker says gently, "Brightbloom."
+
     Brightbloom replies, "Right! Staying positive! You're doing wonderfully, Kira!"
 
-    I keep movingstep, find the stone, balance, step again. The rhythm is familiarnot so different from walking all day through Territory One. Find your pace. Trust the guides. Keep going.
+    I keep moving — step, find the stone, balance, step again. The rhythm is familiar, not so different from walking all day through Territory One: find your pace, trust the guides, keep going.
 
-    The water begins to recedethighs, then knees, then ankles.
+    The water begins to recede to my thighs, then my knees, then my ankles.
 
     I step onto the far bank, dripping and cold but steady.
 
-    Streamwalker has emerged meters ahead, their vines already gathering themselves back into traveling formation.
-    Streamwalker says, "Excellent crossing. The river welcomed you."
+    Streamwalker emerges meters ahead, vines already gathering into traveling formation, and says, "Excellent crossing! The river welcomed you."
 
-    Brightbloom says, "*THAT WAS PERFECT!* First crossing with new guides and you handled it like an experienced traveler! Wait until the Territory Three team hears about this!"
+    Brightbloom has apparently bounced across at some point while I was focused on stepping.
+
+    Brightbloom says *"THAT WAS PERFECT!"* "First crossing with new guides and you handled it like an experienced traveler! Wait until the Territory Three team hears about this!"
 
     Scout bounces enthusiastically, flinging water droplets everywhere.
 
-    I start laughing. I'm soaked, cold, my boots are full of river water, and I'd just crossed a river on an alien planet guided by a musical vine-plant and an overly enthusiastic bush.
+    I start laughing — soaked, cold, my boots full of river water, and I'd just crossed a river on an alien planet guided by a musical vine-plant and an overly enthusiastic bush.
 
-    And I'd done it. Just done it. Without panicking or falling or needing rescue.
+    And I'd done it.
 
-    Buddy offers, "The water adds about two kilograms to your clothing weight. I recommend wringing out excess moisture when possible to reduce carrying load"
-    I reply, "In a minute, Buddy. Let me have this moment."
+    Just… done it.
 
-    Buddy says, "Your heart rate suggests positive emotional response! Accomplishment releases dopamine"
+    Without panicking or falling or needing rescue.
+
+    Buddy offers, "The water adds about two kilograms to your clothing weight. I recommend wringing out excess moisture when possible to reduce carrying load —"
+
+    I say, "In a minute, Buddy. Let me have this moment." I am still grinning.
+
+    Buddy says, "Your heart rate suggests positive emotional response! Accomplishment releases dopamine —"
+
     I say, "Buddy."
+
     Buddy says, "Recording moment for wellness documentation!"
 
-    Streamwalker makes a gentle sighing sound.
-    Streamwalker says, "There's sun ahead. We'll dry as we walk. The wetlands give and take water freely."
+    Streamwalker makes that gentle, sighing sound. Streamwalker says, "There's sun ahead A0— we'll dry as we walk. The wetlands give and take water freely."
 
-    Brightbloom bounces toward a cluster of bright yellow flowers and says,
-    "Plus you'll be warm from movement! — Walking generates heat — very efficient biological response — and look — these bloom in afternoon sun, very beautiful, excellent motivational scenery for the next few kilometers!"
+    Brightbloom adds, "Walking generates heat A0— very efficient biological response A0— and look: these bloom in afternoon sun, _very beautiful_, excellent motivational scenery for the next few kilometers!"
 
-    I squeeze water from my jacket; my pants will take longer to dry, but Streamwalker is right — walking will warm me up. The sun feels good already, stronger here without the forest canopy blocking it.
+    I squeeze water from my jacket; my pants will take longer to dry, but Streamwalker is right A0— walking will warm me up. The sun already feels good, stronger here without the forest canopy blocking it.
 
     I ask, "How far to tonight's shelter?"
 
-    Streamwalker replies, "Three hours — gentle walking. No more crossings today. The path flows easy from here."
+    Streamwalker says, "Three hours. Gentle walking. No more crossings today. The path flows easy from here."
 
     I say, "Easy is good. I like easy."
 
-    Brightbloom bounces, enthusiastic and bright, and says,
-    "Easy is wonderful! — Though challenging is also good! — Builds confidence! — Creates accomplishment! — But easy is definitely lovely too!"
+    Brightbloom says, "*Easy is wonderful!* Though challenging is also good A0— builds confidence A0— creates accomplishment A0— but easy is definitely lovely too!"
 
     Scout bounces between me and Brightbloom, apparently having adopted the bush as a bouncing mentor.
 
-    We continue walking through the wetlands — water and sky and colorful plants, everything bright and alive and completely different from Territory One's shadowed forest. The ground stays soft, sometimes splashing underfoot, sometimes just yielding like moss.
+    They walk.
 
-    Streamwalker leads with flowing grace, moving like they're part of the water themselves.
+    The wetlands spread around us: water and sky and colorful plants, everything bright and alive and completely different from Territory One's shadowed forest. The ground stays soft, sometimes splashing underfoot, sometimes just yielding like moss.
+
+    Streamwalker leads with flowing grace, moving like they're part of the water itself.
 
     Brightbloom bounces and chatters, pointing out interesting plants and encouraging me every few minutes about my "excellent walking form."
 
     Scout investigates everything with enthusiastic thoroughness.
 
-    And I — adapt.
+    And I  A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0I  A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0 A0adapt.
 
-    I've done this before — learned new guides, new terrain, new rhythms. This time feels easier. Less fear about the unknown, more curiosity about the differences. Streamwalker isn't Rootwalker and Brightbloom definitely isn't Leafwhisper — but that is okay. Calm and energy instead of information and practicality — different but functional.
+    By the time we reach the evening shelter A0— a raised platform of woven reeds surrounded by flowering bushes  A0— my clothes have mostly dried and my muscles have found their rhythm again.
 
-    By the time we reach the evening shelter — a raised platform of woven reeds surrounded by flowering bushes — my clothes have mostly dried and my muscles have found their rhythm again.
+    Streamwalker settles at the platform's edge, vines trailing into the water below. Streamwalker says, "Good walking today. The river blessed your crossing."
 
-    Streamwalker settles at the platform's edge, vines trailing into the water below, and says,
-    "Good walking today. The river blessed your crossing."
+    I ask, "Blessed?"
 
-    I ask, "Blessed?" while pulling out my food supplies.
+    Streamwalker says, "Old saying." Streamwalker's musical voice carries gentle amusement. "Water that lets you pass without taking you. That's a blessing."
 
-    Streamwalker's musical voice carries gentle amusement as they say, "Old saying — water that lets you pass without taking you. That's a blessing."
-
-    Brightbloom bounces onto the platform, flowers glowing in the evening light, and says,
-    "*You were wonderful!* — First day with new guides and you adapted so well — such confidence — very impressive!"
+    Brightbloom bounces onto the platform, flowers glowing in the evening light. Brightbloom says, "You were wonderful! First day with new guides and you adapted so well A0— such confidence A0— very impressive!"
 
     Scout bounces agreement and settles beside me.
 
-    I eat my mushroom paste — still terrible but necessary — and watch the sun set over the wetlands: purple and orange sky reflecting in standing water, flowers starting to release fragrance like Brightbloom predicted. It is beautiful, different from Territory One's forest darkness but beautiful in its own way.
+    I eat my mushroom paste — still terrible but necessary — and watch the sun set over the wetlands, a purple-and-orange sky reflecting in the standing water as flowers begin to release their fragrance, just as Brightbloom predicted.
 
-    Streamwalker says quietly:
-    "Tomorrow we go deeper into wetlands — softer ground, more water — the territory's heart."
+    Different from Territory One's forest darkness, but beautiful in its own way.
 
-    Brightbloom adds cheerfully:
-    "*More adventures!* Different plants, new challenges — it's going to be wonderful!"
+    Streamwalker says — "Tomorrow we go deeper into the wetlands — softer ground — more water — the territory's heart."
 
-    I smile and say:
-    "I'm sure it will."
+    Brightbloom adds cheerfully — "More adventures! — Different plants! — New challenges! — It's going to be wonderful!"
 
-    And the strange thing is—I mean it.
+    I smile — "I'm sure it will be."
+
+    And the strange thing is — I mean it.
 
     I'd learned something in Territory One: trust the guides, find the rhythm, let the team work.
 
-    Now I just have to do it again — different guides, different terrain, same journey — one territory at a time.
+    Now I just have to do it again.
 
-    I can do this — I _am_ doing this.
+    Different guides, different terrain — same journey.
+
+    One territory at a time.
+
+    I can do this.
+
+    I _am_ doing this.
   </combined-text>
 </passage-voice>

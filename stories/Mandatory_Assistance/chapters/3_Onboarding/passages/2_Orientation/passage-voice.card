@@ -1,462 +1,504 @@
 <!-- Generated automatically, do not edit except with ske gen passage-voice -->
-<passage-voice version="2.0.1">
-  <ref ref="passage.card#v2.0.1"/>
+<passage-voice version="3.0.0">
+  <ref ref="passage.card#v3.0.0"/>
   <reasoning>
-    I reviewed the passage and looked for places that need adjustment for clear TTS narration. Items found:
-    1. Several short, staccato sentences (e.g., "Workplace safety.") that read better when marked as internal thought or smoothed into surrounding text.
-    2. Dialog lines not consistently presented with a clear speaker lead-in; I standardized all dialog to lead-in then quoted speech and put each quoted line on its own line.
-    3. A few pronoun risks where the speaker could be ambiguous (the plant/flowers). I named the speaker explicitly in lead-ins where needed.
-    4. Beats that need explicit pauses or hesitation: I preserved ellipses for hesitant dialog ("This is... Florence?") and used em dashes for medium pauses in narration where appropriate.
-    5. Some adverbs describing gestures ("encouragingly," "helpfully") were converted into clearer, plain action phrasing to avoid relying on adverbial cues in narration.
-    6. Non-text details (measurements) were already spelled out; no symbols required rewriting.
+    Reviewing the passage for voiceover adjustments found the following issues to address:
+    1. Staccato sentences: Several very short sentences (e.g., "Workplace safety. For a crash survivor. On an alien planet.") that should be merged for smooth spoken flow.
+    2. Dialog speaker clarity: A few lines lacked explicit speaker tags (for example, "Yes! I want to learn everything.") and needed a clear cue so the listener knows who speaks.
+    3. Ambiguous pronouns/dialog: Some dialog followed narration without a clear lead-in; I added speaker cues where necessary.
+    4. Pauses: The entrance of the plant and the first spoken greeting call for a dramatic pause before dialog; also several moments deserve medium pauses (em dashes) or trailing hesitations (ellipsis).
+    5. Formal/stilted text: A few visual captions and short expository lines were smoothed for natural spoken phrasing.
+    6. Non-text/symbols: No unusual symbols, but I kept numerical wording as words ("fifteen centimeters") and used *bold* for louder emphasis to match the style rules.
 
-    I followed the voiceover rules: merged very short sentences where appropriate, joined short adjacent paragraphs that continue the same thought, made dialog stand out on its own lines with lead-ins, converted internal thoughts to double angle quotes, and used em dashes and ellipses for pauses. I did not change story meaning or add new content.
+    All changes were formatting and clarity adjustments to optimize for TTS narration; I did not alter story content or meaning.
   </reasoning>
   <content-change/>
   <chunks>
     <chunk>
       <text>
-        The orientation chamber was larger than the intake room, its vine-walled surfaces curving into something almost like a classroom—bioluminescent patches provided steady light, and several vine-formed seats faced a flat presentation surface.
+        The orientation chamber is larger than the intake room, with vine-walled surfaces that curve into something almost like a classroom. Bioluminescent patches provide steady light, and several vine-formed seats face a flat presentation surface.
 
-        Scout bounced into one of the vine seats and settled.
+        Scout bounces to a seat and settles.
 
-        Kira lowered herself into another seat; her leg had progressed from throbbing to a steady ache that colored everything. «How many hours until the temporary treatment wore off? How much longer until this was over?»
+        I lower myself down — my leg aches after four hours of this, but honestly I'm kind of excited: *ALIEN PLANTS* workplace safety training.
 
-        A sound drew her attention—smooth mechanical rolling.
+        A smooth mechanical rolling draws my attention.
 
-        A plant entered the chamber on a wheeled platform.
+        A plant enters the chamber on a wheeled platform.
 
-        The platform itself was remarkable: three wheels arranged for stability, built from what looked like salvaged materials but operating with impressive smoothness. A thick central stem rose from it and branched into an array of enormous flowers—each bloom easily fifteen centimeters across. The flowers were currently a pale cream color, petals fully open in an impressive display.
+        The platform itself is remarkable — three wheels arranged for stability, built from what look like salvaged materials yet operating with impressive smoothness. The plant rising from it has a thick central stem branching into an array of enormous flowers, each bloom easily fifteen centimeters across. The petals are currently a pale cream color, fully open in an impressive display.
 
-        Delicate tendrils extended from the main stem to manipulate a joystick embedded in the platform; the movements were precise, elegant. The whole setup rolled to the front of the chamber and came to a perfectly controlled stop.
-
-        Florence said, "Good evening! I'm Florence. I'll be coordinating your workplace safety orientation today."
-
-        The flowers shifted subtly—petals repositioning, color bleeding toward pale yellow.
-
-        Kira asked, "This is... Florence?"
-
-        Florence said, "Yes—I'm very pleased to assist with your onboarding process. Shall we begin?"
-
-        Scout bounced once.
-
-        Holloway said from a fruiting body near the wall, "Florence has prepared a comprehensive presentation on workplace safety fundamentals. Please give your full attention!"
-
-        «Workplace safety.»
-
-        Kira had crashed from space; her ship had gone down in a catastrophic systems failure. She was stranded on an alien planet. And they were going to teach her workplace safety.
-
-        Florence said, "Let's start with proper lifting techniques—this is essential for preventing workplace injuries."
-
-        The flowers shifted to a focused cream tone. Images appeared on the presentation surface—pressed or grown into bark—showing simplified figures in various lifting postures.
-
-        Florence continued, "When lifting heavy objects, it's crucial to bend at the knees, not the waist. Keep your back straight, core engaged, and lift with your legs."
-
-        Kira stared and asked, "What objects am I lifting?"
-
-        Florence replied, "Workplace materials, of course—equipment, supplies, documentation." The flowers flickered briefly orange—confusion or concern? "The principles apply to any lifting scenario."
-
-        Buddy interjected, sounding helpful, "You'll need to understand proper safety protocols for your new environment."
-      </text>
-      <stage-directions>
-        Overall tone and pacing: Calm, mildly bemused, with small moments of hesitation and dry irony; keep narration steady, and let the plant-voices be polite and slightly formal.
-
-        - Narration: read the descriptive lines in a neutral, observant tone—steady pace, moderate volume.
-        - When you reach internal thoughts, read the double angle quotes as quiet, inward lines: "«Workplace safety.»" and "«How many hours...?»"—slightly softer, spaced.
-        - Dialog lines: start each quoted line on its own with a slight brightening of tone for the speaking character. Use a clear lead-in (e.g., "Florence said,") then deliver the quote.
-        - Hesitation: for "This is... Florence?" use a small pause at the ellipsis before finishing the question.
-        - Em dashes: pause briefly at em dashes—about 300–400 ms—to separate clauses naturally.
-        - Scout's bounce and similar small actions: indicate them in the narration with a lighter, almost playful cadence for "Scout bounced..." and "Scout bounced once."
-      </stage-directions>
-    </chunk>
-    <chunk>
-      <text>
-        Florence's flowers shifted back to a pleased yellow. Florence said, "Precisely. Now, observe the correct posture..."
-
-        The demonstration continued — proper hand placement, weight distribution, and team-lifting procedures for objects over fifteen kilograms.
-
-        Kira's leg throbbed in time with her heartbeat.
-
-        Buddy offered quietly, "I believe pale yellow indicates satisfaction — or possibly anticipation of photosynthesis. The correlation is unclear."
-
-        Kira muttered, "You're not helping."
-
-        Florence moved smoothly to the next section — joystick controls precise. Florence said, "Emergency evacuation procedures. In the event of fire, earthquake, or other facility emergency, it's essential to know your nearest exit routes."
-
-        More images appeared — simplified floor plans with arrows and exit markers.
-
-        Florence said, "Familiarize yourself with at least two evacuation routes from any location. Never use elevators during an emergency. Proceed calmly to the designated assembly point."
-
-        Kira asked to Florence, "What building? You grew this place. It's alive. It doesn't have elevators. What exactly are we evacuating from?"
-
-        Florence's flowers shifted toward light orange; petals tightened slightly.
-
-        Buddy observed, "I think that's agitation — or possibly nutrient deficiency. Difficult to determine without baseline chlorophyll readings."
-
-        Florence's careful diction grew slightly terse. Florence said, "These procedures ensure safety in any facility environment. One must be prepared for various emergency scenarios."
-
-        Kira pressed, "But what scenarios? The facility is a living plant. If there's an emergency, what am I evacuating from?"
-
-        The flowers deepened to a more pronounced orange.
-
-        Buddy said, "I believe we've moved into definite irritation."
-
-        Scout bounced sympathetically toward Kira, then toward Florence, and settled in an anxious middle position.
-
-        Holloway suggested gently from the wall, "Let's move forward — workplace harassment policies next!"
-
-        Florence's flowers gradually shifted back toward cream as she regained composure. Florence said, "Yes. Thank you, Holloway."
-
-        The presentation continued — workplace harassment policies, what constituted inappropriate behavior, proper reporting procedures, and the importance of maintaining professional boundaries and respectful communication.
-
-        It was presented with the same earnest thoroughness as everything else.
-
-        Kira had exactly zero colleagues, no workplace, no professional relationships to maintain boundaries in.
-
-        Kira said quietly, _This is insane._
-
-        Florence asked, "What was that?" Her flowers shifted — pink now, tinged with concern.
-
-        Kira replied, "Nothing. Continue."
-
-        The training went on. And on.
+        Delicate tendrils extend from the main stem to manipulate a joystick embedded in the platform — the movements precise, elegant even. The whole setup rolls to the front of the chamber and comes to a perfectly controlled stop.
 
         ¶
 
-        Fire safety, ergonomic workspace setup, proper documentation procedures, break room etiquette — the list kept coming.
+        Florence says, "Good evening!"
 
-        She was receiving workplace safety training from a flowering plant on wheels while injured, on an alien planet, after her ship crashed.
+        Florence continues, "I'm Florence. I'll be coordinating your workplace safety orientation today."
+
+        The flowers shift subtly — petals repositioning, color bleeding toward pale yellow.
+
+        I grin and say, "Florence! Your flowers are beautiful. What does the color change mean?"
+
+        The flowers warm to a deeper yellow.
+
+        Florence says, "Thank you! Yellow typically indicates pleasure or welcome. I'm very pleased to assist with your onboarding process."
+
+        Buddy says, "That's *AMAZING*. Can you show us more colors? What do they all mean?"
+
+        Florence says, "There are many!" — she sounds delighted. "Shall we discuss flower-language after orientation? I could demonstrate the full spectrum."
+
+        Buddy says, "Yes! I want to learn everything."
+
+        Scout bounces once — perhaps encouragement or approval. I'm starting to wonder if Scout's different bounces mean different things: fast versus slow, direction — I'll have to pay attention.
+
+        Holloway flutes from a fruiting body near the wall, "Florence has prepared a comprehensive presentation on workplace safety fundamentals. Please give your full attention!"
+
+        Workplace safety — for a crash survivor on an alien planet.
+
+        I say, still grinning, "Mav never covered *THIS* in his orientation episodes. Let's do it."
+
+        Florence says, "Let's start with proper lifting techniques." The flowers shift to a focused cream tone. "This is essential for preventing workplace injuries."
+
+        Text on the presentation reads, "When lifting heavy objects, it's crucial to bend at the knees, not the waist. Keep your back straight, core engaged, and lift with your legs."
+
+        Florence says, "When lifting heavy items, maintain proper root-base alignment..."
+
+        I laugh and say, "I don't have roots."
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: Calm, mildly bemused, and quietly weary; keep narration steady and let small moments of irritation or concern brighten or tighten the voice briefly.
+        Overall tone: Light, curious, and slightly wry, with measured pacing; allow short, clear pauses for visual beats and a long pause before the plant's introduction.
 
-        - Read descriptive narration in a neutral, observant tone—moderate pace, even volume.
-        - For each dialog line, use a clear lead-in (e.g., "Florence said,") then deliver the quote on its own line with a slight change of color or brightness for the speaker.
-        - Pause at em dashes "—" for a medium pause (~300–400 ms) to separate clauses (for example, in "The demonstration continued — proper hand placement...").
-        - Use the paragraph containing only "¶" as a long, dramatic pause before the final list of topics—hold about 700–900 ms there.
-        - Read "Kira said quietly, _This is insane._" softer and slightly narrower in pitch to convey disbelief and exhaustion.
-        - For small actions ("Scout bounced sympathetically..."), adopt a lighter, almost playful cadence; for mechanical or formal lines (procedures, policies), keep a slightly clipped, matter-of-fact delivery.
-        - When a speaker is identified as off-screen or from a device ("Holloway suggested gently from the wall"), add a faintly distant or echoing texture in tone while keeping clarity.
+        - Read the descriptive passages calmly and observantly; allow a medium pause (—) at the em dashes, and a slightly longer trailing pause for ellipses.
+        - For "Scout bounces to a seat and settles." assume a small, upbeat inflection; this is a physical cue, not a vocal change.
+        - Emphasize *ALIEN PLANTS* with amused emphasis (louder, delighted) where the bold text appears.
+        - Insert a dramatic silent pause at the paragraph containing only "¶" before Florence speaks — treat this as a full, silent beat.
+        - Florence's lines: careful, refined, slightly bright and polite; keep tempo even and clear for each sentence.
+        - Holloway's line: flute-like, musical woodwind tones rather than normal speech — emulate a short woodwind trill or breathy flute tone before and through the line.
+        - When the narrator delivers the jokey lines ("Mav never covered *THIS*...", "I don't have roots."), shift to a wry, amused tone; the laughter before the final line is light and genuine.
       </stage-directions>
     </chunk>
     <chunk>
       <text>
-        This was her life now.
+        Florence's flowers flicker with amusement.
+        Florence says, "Human-equivalent modifications noted! For your species, knee-based alignment instead."
 
-        The flowers kept shifting colors—yellows when Florence was pleased with a section, creams when she was focused, occasional oranges when Kira asked questions that disrupted the flow, soft pinks that might have been concern or empathy or digestive processes—who could possibly know.
+        Buddy leans in, fascinated.
+        Buddy asks, "What do the diagrams mean? Are those plants lifting things?"
 
-        Buddy said, "The pale pink suggests compassion — Or potentially flowering readiness. The literature is inconsistent."
+        Florence says, "Standardized symbology! Very useful for cross-species instruction."
 
-        Kira said, "Please stop helping."
+        The demonstration continues — proper hand placement, weight distribution, and team-lifting procedures for objects over fifteen kilograms.
 
-        _Finally_ — Florence rolled to what looked like a concluding position.
+        Buddy observes, "I believe cream indicates focus — or maybe concentration? The flowers are less open than before."
 
-        Florence said, "That completes the core content — Now we'll proceed to the assessment."
+        I tell him, "You're learning the language — good eye."
 
-        Kira repeated, "Assessment."
+        Florence's flowers brighten — pleased to be understood.
 
-        Holloway said cheerfully, "A brief quiz to ensure comprehension! — Standard protocol!"
+        Florence moves smoothly to the next section; joystick controls precise.
+        Florence says, "Emergency evacuation procedures. In the event of fire, earthquake, or other facility emergency, it's essential to know your nearest exit routes."
 
-        Of course there was a quiz.
+        More images appear — simplified floor plans with arrows and exit markers.
 
-        Florence produced bark sheets with questions pressed into them—multiple choice, apparently.
+        Florence says, "Familiarize yourself with at least two evacuation routes from any location. Never use elevators during an emergency. Proceed calmly to the designated assembly point."
 
-        Florence said, "You'll have twenty minutes — Passing score is seventy percent."
+        I ask, genuinely curious, "What fires? Everything here is alive — how does a living building catch fire?"
 
-        Kira took the sheets. Scout rolled closer, peering at the questions with what felt like solidarity.
+        Florence's flowers shift toward light orange.
+        Florence says, "Comprehensive procedures for all contingencies! Though admittedly… fire is less common here. We're mostly water and growing tissue."
 
-        Question One: When lifting objects over fifteen kilograms, you should:
-        Option A: Bend at the waist and use your back muscles.
-        Option B: Bend at the knees and lift with your legs.
-        Option C: Ask for assistance.
-        Option D: B and C.
+        I ask, "So what *WOULD* I be evacuating from?"
 
-        Fine. D. That had been covered extensively.
+        Florence says, "Excellent question! The previous visitor helped us develop these protocols — she was very thorough."
+        Florence pauses.
+        Florence says, "Though I admit we never tested them."
 
-        Question Two: In the event of a facility fire, you should:
-        Option A: Use the elevator to evacuate quickly.
-        Option B: Proceed to the nearest exit calmly.
-        Option C: Return to your workstation for belongings.
-        Option D: Hide in a supply closet.
+        The flowers shift to soft purple — is that uncertainty? Thoughtfulness?
 
-        B. Obviously — despite there being no elevators, no workstation, and she wasn't even sure what qualified as a "supply closet" in living plant architecture.
+        I ask Buddy, "What do you think purple means?"
 
-        Question Three: If you witness workplace harassment, proper procedure is to:
-        Option A: Ignore it.
-        Option B: Document the incident and report to your supervisor.
-        Option C: Confront the harasser aggressively.
-        Option D: Leave the workplace permanently.
+        Buddy says, "I'm not sure! Maybe contemplation? We should ask."
 
-        B. She supposed — in a theoretical workplace she didn't have, involving colleagues who didn't exist.
+        I ask, "Florence, what does the purple mean?"
 
-        The questions continued—twenty of them—covering every absurd topic from the training.
+        The flowers ripple with something like surprise, then warm yellow.
+        Florence says, "You're learning flower-language! Purple indicates thoughtfulness, or processing complex information — I was considering how useful these procedures actually are for your situation."
+
+        I grin.
+        I say, "See — this is what I love about this. You're genuinely thinking about whether the training applies."
+
+        Florence says, "Adaptation is important! Now, shall we continue to workplace harassment policies?"
+
+        The presentation continues — workplace harassment policies: what constitutes inappropriate behavior, proper reporting procedures, and the importance of maintaining professional boundaries and respectful communication.
+
+        Buddy asks, "Do plants harass each other? How would that work?"
+
+        Florence says, "Excellent question! Communication styles can cause discomfort. We include these policies because the educational materials emphasized them extensively."
+
+        I say, "They do that for humans too — it's important."
+
+        Florence's flowers shift to soft pink.
+        Florence says, "We want you to feel safe here — respected — even if the specific scenarios don't quite… translate."
+
+        There's genuine warmth there — real concern.
+
+        I say, "I appreciate that, Florence — I really do."
+      </text>
+      <stage-directions>
+        Overall tone: Light, curious, slightly wry and warmly observant; pace measured with clear medium pauses for beats and longer hesitation on ellipses.
+
+        - Read Florence's lines bright, precise, and politely curious; allow even pacing and clarity for technical sentences such as "Emergency evacuation procedures." Use a polite warmth on community-focused lines.
+        - Read Buddy with ingenuous curiosity and slight excitement; questions should sound genuinely puzzled and engaged.
+        - Narrator (Holloway) should use the flute-like, breathy quality established previously—a short breathy trill before lines can cue the style; keep wry, amused coloring for the narrator's reactions.
+        - For lines with em dashes (—), insert a medium pause (~300-400ms). For ellipses (…) use a trailing/hesitant pause (~500-600ms).
+        - Emphasize the bold-marked word in the line "So what *WOULD* I be evacuating from?" with increased volume and weight on *WOULD*.
+        - Treat "Florence pauses." as a short, visible beat: allow a full silent breath before the following line.
+        - Keep dialog lines on their own paragraphs, with the speaker tag immediately before each quote to avoid ambiguity.
+      </stage-directions>
+    </chunk>
+    <chunk>
+      <text>
+        The training goes on — fire safety, ergonomic workspace setup, proper documentation procedures, and break room etiquette.
+
+        I'm receiving workplace safety training from a flowering plant on wheels, while injured, on an alien planet, after my ship crashed.
+
+        This is the *BEST*.
 
         ¶
 
-        Her leg hurt. She wanted water. She wanted to lie down.
+        The flowers keep shifting colors — yellows when Florence is pleased with a section, creams when focused, occasional oranges that seem to be frustration with the material itself rather than me, and soft pinks that are definitely empathy.
 
-        She wanted this day to end.
+        I tell Buddy, "I'm getting better at reading the colors — pink is definitely caring, right?"
 
-        But she answered every question, applying the ridiculous logic she'd just been taught.
+        Buddy says, "I think so! Florence, are we right?"
 
-        "Time," Florence announced after what felt like an eternity but was probably actually twenty minutes.
+        Florence says, "You're both doing wonderfully!" Her flowers bloom wide and yellow. "Most beings take much longer to recognize the patterns."
 
-        Several fruiting bodies sprouted around the chamber — Holloway reviewing her answers somehow.
+        Finally, Florence rolls to what looks like a concluding position.
 
-        Scout bounced anxiously.
+        Florence says, "That completes the core content." Her flowers display in full cream glory, clearly proud. Florence says, "Now we'll proceed to the assessment."
 
-        Kira waited, past exhaustion into a kind of hollow patience.
+        Buddy says, "A quiz! I love quizzes!"
 
-        Holloway said, "Eighteen correct out of twenty — *Ninety percent!* Excellent work!"
+        Holloway announces, "A brief quiz to ensure comprehension — standard protocol!"
 
-        Florence's flowers bloomed into brilliant yellow — genuine pleasure.
+        Of course there's a quiz. I grin.
 
-        Florence said, "Wonderful! You've successfully completed orientation — You're now cleared for medical evaluation!"
+        Florence produces bark sheets with questions pressed into them — multiple choice.
 
-        Finally. _Finally_.
+        Florence says, "You'll have twenty minutes — passing score is seventy percent."
 
-        Kira stood, ignoring her leg's sharp protest.
+        I take the sheets. Scout rolls closer, peering at the questions with what feels like solidarity.
+
+        Question one: When lifting objects over fifteen kilograms, you should:
+        A) Bend at the waist and use your back muscles
+        B) Bend at the knees and lift with your legs
+        C) Ask for assistance
+        D) B and C
+
+        I say, "D. It's always document or ask for help."
+
+        Florence's flowers pulse warm approval.
+
+        Question two: In the event of a facility fire, you should:
+        A) Use the elevator to evacuate quickly
+        B) Proceed to the nearest exit calmly
+        C) Return to your workstation for belongings
+        D) Hide in a supply closet
+
+        I say, "B. Even in a living building with no elevators."
+
+        Question three: If you witness workplace harassment, proper procedure is to:
+        A) Ignore it
+        B) Document the incident and report to your supervisor
+        C) Confront the harasser aggressively
+        D) Leave the workplace permanently
+
+        I say, "B. Document and report. Classic."
+
+        The questions continue — twenty of them. I'm picking up the patterns — the logic is consistent, even if the situation is absurd.
+
+        Florence says, "Time." Several fruiting bodies sprout around the chamber — Holloway reviewing my answers.
+
+        Scout bounces anxiously.
+
+        Holloway announces, "Eighteen correct out of twenty — ninety percent! Excellent work!"
+
+        Florence's flowers bloom into brilliant yellow — genuine pleasure.
+
+        Florence says, "Wonderful! You've successfully completed orientation — you're now cleared for medical evaluation!"
+
+        Buddy asks immediately, "Which question did I miss?"
+
+        Florence says, "Question seven — proper break scheduling. The correct answer was 'per designated intervals' but Kira selected 'when needed.'"
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: Even, quietly weary with mild bemusement; let the narrator sound steady and observational, tightening briefly on irritation or relief.
+        Overall tone: Light, wry, warmly observant; pace mostly measured with clear medium pauses for beats, a longer comic pause at the punchline, and bright, distinct voices for each character.
 
-        - Read narration in a neutral, moderately paced voice—calm and slightly tired.  
-        - For dialog, always use a lead-in like "X said," then put the quoted line on its own line; drop into a slightly brighter or narrower color for quoted lines.  
-        - Read "Buddy said, \"The pale pink suggests compassion...\"" with a tentative, explanatory tone.  
-        - Read "Kira said, \"Please stop helping.\"" with clipped annoyance—short, clear.  
-        - For Florence's multi-beat dialog, keep it together—use a proud, procedural tone for "That completes the core content..." and a firmer, managerial tone for the assessment lines.  
-        - When Holloway speaks (lines labeled "Holloway said"), add a faintly cheerful, slightly distant delivery—bright and officious for the quiz announcement and celebratory for the score.  
-        - Pause at each em dash (—) for a medium pause (~300–400 ms). When you reach the paragraph that contains only "¶", hold a longer, dramatic pause (~700–900 ms).  
-        - Read the quiz questions clearly and evenly; slow slightly on option letters ("Option A:") so listeners can follow the choices.
+        - Narration (Holloway) should keep the flute-like, breathy quality established previously; wry amusement on the absurd bits.
+        - Read the line "This is the *BEST*." as a delighted, slightly incredulous exclamation; make *BEST* noticeably stronger.
+        - When you see an em dash (—), insert a medium pause (~300-400ms). For ellipses (…) use a trailing/hesitant pause (~500-600ms).
+        - Use the single-line paragraph "¶" as a full dramatic/comic beat after the punchline.
+        - Read Florence's lines bright, precise, and politely curious; allow even pacing and clarity for any instructional content (e.g., "You'll have twenty minutes — passing score is seventy percent.").
+        - Read Buddy with ingenuous curiosity and light excitement; let questions sound eager and earnest (e.g., "A quiz! I love quizzes!").
+        - When Holloway announces results, swell slightly on the celebratory words ("ninety percent! Excellent work!") without changing narrator timbre.
       </stage-directions>
     </chunk>
     <chunk>
       <text>
-        She made herself say,
-        "Thank you."
+        Buddy argues — "That seems reasonable though! Humans need breaks when they're tired!"
 
-        Because despite everything—the absurdity, the inappropriateness, the sheer bureaucratic madness—they had tried. They genuinely thought this training helped humans. Florence had coordinated it carefully, proudly. Holloway had prepared materials.
+        Florence says — (her flowers ripple with what might be amusement) — "The protocol specifies intervals for consistency. Though I appreciate the feedback — perhaps we should review that section."
 
-        They were trying so hard.
+        I stand, my leg protests but I'm smiling.
 
-        Florence said, flowers still brilliant yellow:
-        "My pleasure entirely. Welcome to our facility, Kira. I do hope you'll find your time here... productive."
+        I say — "Thank you, Florence. That was genuinely the best workplace training I've ever had."
 
-        Productive—right.
+        Florence's flowers bloom even brighter.
 
-        Scout bounced toward another doorway—leading deeper into the facility.
+        Florence — "Truly?"
 
-        Medical evaluation next—finally.
+        I — "Truly. Most workplace training is boring and pointless. This was... actually fun. And I learned flower-language!"
 
-        She could make it a little longer—had to.
+        Florence — "I am… very pleased to hear that." (the flowers are practically glowing) — "Welcome to our facility, Kira. I do hope you'll find your time here productive."
+
+        I — "I already am."
+
+        Scout bounces toward another doorway — leading deeper into the facility.
+
+        Medical evaluation next — then rest.
+
+        But honestly? I could do *another four hours* of this.
+
+        ¶
+
+        What an adventure.
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: Even, quietly weary with a mild bemused edge; tighten slightly on the small lifts of relief and finish with quiet, resolute determination.
+        Overall tone &amp; pacing: Light, wry, warmly observant with a flute-like, breathy narrator; measured pacing with clear medium pauses and a longer reflective beat before the ending.
 
-        - Read "She made herself say," in a flat, forced polite tone—dry and obliged. Drop slightly narrower color for the quoted line on the next line: "Thank you."—quiet, clipped, resigned.
-        - Read the descriptive sentence starting "Because despite everything—" in a steady, moderately paced narrator voice; pause at the em dash (—) for a medium breath.
-        - For "They were trying so hard." use a sympathetic, almost pitying tone—gentle emphasis on "trying." Pause briefly after the sentence.
-        - Read the lead-in "Florence said, flowers still brilliant yellow:" with a managerial, slightly brighter timbre. Then deliver the quoted block with a proud, procedural color—keep the ellipsis as a hesitating trailing breath in "here... productive."
-        - Read "Productive—right." dryly, with a short ironic snap on "right." Pause at the em dash.
-        - For "Scout bounced toward another doorway—leading deeper into the facility." maintain neutral observation; treat the em dash as a smooth, medium pause.
-        - Read "Medical evaluation next—finally." with a small lift of relief on "finally." Pause, then move into the final line "She could make it a little longer—had to." with a quiet, determined resolve.
-        - Plain closing cadence; clean fall, short pause
+        - Read "Buddy argues — \"That seems reasonable though! Humans need breaks when they're tired!\"" with bright, ingenuous curiosity; slightly upbeat and earnest for Buddy.
+        - For "Florence says — (her flowers ripple...)" speak Florence's narration bright and precise; let the parenthetical action be a soft aside, then deliver her quote with calm polite curiosity.
+        - Narration lines (first person) — maintain the hollow, fluty quality; keep smiles and wry amusement audible, especially on "That was genuinely the best workplace training I've ever had." Use a gentle warmth there.
+        - When a line uses an em dash (—), insert a medium pause (~300–400ms); for the ellipsis (…) use a trailing/hesitant pause (~500–600ms), e.g., "I am… very pleased to hear that."
+        - Put dialog lines on their own with the speaker lead-in; when reading the lead-in, slightly lower volume before the quoted line to let the quote "pop."
+        - On "But honestly? I could do *another four hours* of this." emphasize "*another four hours*" with a light delighted lift, but keep it within the narrator's gentle tone.
+        - Closing cadence: Soft landing; warm fall, lingering last syllable, cozy pause.
       </stage-directions>
     </chunk>
   </chunks>
-  <unusual-pronunciations>
-    <word text="Florence"/>
-    <word text="Holloway"/>
-    <word text="bioluminescent"/>
-  </unusual-pronunciations>
   <title>Orientation</title>
   <combined-text>
-    The orientation chamber was larger than the intake room, its vine-walled surfaces curving into something almost like a classroom—bioluminescent patches provided steady light, and several vine-formed seats faced a flat presentation surface.
+    The orientation chamber is larger than the intake room, with vine-walled surfaces that curve into something almost like a classroom. Bioluminescent patches provide steady light, and several vine-formed seats face a flat presentation surface.
 
-    Scout bounced into one of the vine seats and settled.
+    Scout bounces to a seat and settles.
 
-    Kira lowered herself into another seat; her leg had progressed from throbbing to a steady ache that colored everything. «How many hours until the temporary treatment wore off? How much longer until this was over?»
+    I lower myself down — my leg aches after four hours of this, but honestly I'm kind of excited: *ALIEN PLANTS* workplace safety training.
 
-    A sound drew her attention—smooth mechanical rolling.
+    A smooth mechanical rolling draws my attention.
 
-    A plant entered the chamber on a wheeled platform.
+    A plant enters the chamber on a wheeled platform.
 
-    The platform itself was remarkable: three wheels arranged for stability, built from what looked like salvaged materials but operating with impressive smoothness. A thick central stem rose from it and branched into an array of enormous flowers—each bloom easily fifteen centimeters across. The flowers were currently a pale cream color, petals fully open in an impressive display.
+    The platform itself is remarkable — three wheels arranged for stability, built from what look like salvaged materials yet operating with impressive smoothness. The plant rising from it has a thick central stem branching into an array of enormous flowers, each bloom easily fifteen centimeters across. The petals are currently a pale cream color, fully open in an impressive display.
 
-    Delicate tendrils extended from the main stem to manipulate a joystick embedded in the platform; the movements were precise, elegant. The whole setup rolled to the front of the chamber and came to a perfectly controlled stop.
+    Delicate tendrils extend from the main stem to manipulate a joystick embedded in the platform — the movements precise, elegant even. The whole setup rolls to the front of the chamber and comes to a perfectly controlled stop.
 
-    Florence said, "Good evening! I'm Florence. I'll be coordinating your workplace safety orientation today."
+    Florence says, "Good evening!"
 
-    The flowers shifted subtly—petals repositioning, color bleeding toward pale yellow.
+    Florence continues, "I'm Florence. I'll be coordinating your workplace safety orientation today."
 
-    Kira asked, "This is... Florence?"
+    The flowers shift subtly — petals repositioning, color bleeding toward pale yellow.
 
-    Florence said, "Yes—I'm very pleased to assist with your onboarding process. Shall we begin?"
+    I grin and say, "Florence! Your flowers are beautiful. What does the color change mean?"
 
-    Scout bounced once.
+    The flowers warm to a deeper yellow.
 
-    Holloway said from a fruiting body near the wall, "Florence has prepared a comprehensive presentation on workplace safety fundamentals. Please give your full attention!"
+    Florence says, "Thank you! Yellow typically indicates pleasure or welcome. I'm very pleased to assist with your onboarding process."
 
-    «Workplace safety.»
+    Buddy says, "That's *AMAZING*. Can you show us more colors? What do they all mean?"
 
-    Kira had crashed from space; her ship had gone down in a catastrophic systems failure. She was stranded on an alien planet. And they were going to teach her workplace safety.
+    Florence says, "There are many!" — she sounds delighted. "Shall we discuss flower-language after orientation? I could demonstrate the full spectrum."
 
-    Florence said, "Let's start with proper lifting techniques—this is essential for preventing workplace injuries."
+    Buddy says, "Yes! I want to learn everything."
 
-    The flowers shifted to a focused cream tone. Images appeared on the presentation surface—pressed or grown into bark—showing simplified figures in various lifting postures.
+    Scout bounces once — perhaps encouragement or approval. I'm starting to wonder if Scout's different bounces mean different things: fast versus slow, direction — I'll have to pay attention.
 
-    Florence continued, "When lifting heavy objects, it's crucial to bend at the knees, not the waist. Keep your back straight, core engaged, and lift with your legs."
+    Holloway flutes from a fruiting body near the wall, "Florence has prepared a comprehensive presentation on workplace safety fundamentals. Please give your full attention!"
 
-    Kira stared and asked, "What objects am I lifting?"
+    Workplace safety — for a crash survivor on an alien planet.
 
-    Florence replied, "Workplace materials, of course—equipment, supplies, documentation." The flowers flickered briefly orange—confusion or concern? "The principles apply to any lifting scenario."
+    I say, still grinning, "Mav never covered *THIS* in his orientation episodes. Let's do it."
 
-    Buddy interjected, sounding helpful, "You'll need to understand proper safety protocols for your new environment."
+    Florence says, "Let's start with proper lifting techniques." The flowers shift to a focused cream tone. "This is essential for preventing workplace injuries."
 
-    Florence's flowers shifted back to a pleased yellow. Florence said, "Precisely. Now, observe the correct posture..."
+    Text on the presentation reads, "When lifting heavy objects, it's crucial to bend at the knees, not the waist. Keep your back straight, core engaged, and lift with your legs."
 
-    The demonstration continued — proper hand placement, weight distribution, and team-lifting procedures for objects over fifteen kilograms.
+    Florence says, "When lifting heavy items, maintain proper root-base alignment..."
 
-    Kira's leg throbbed in time with her heartbeat.
+    I laugh and say, "I don't have roots."
 
-    Buddy offered quietly, "I believe pale yellow indicates satisfaction — or possibly anticipation of photosynthesis. The correlation is unclear."
+    Florence's flowers flicker with amusement.
+    Florence says, "Human-equivalent modifications noted! For your species, knee-based alignment instead."
 
-    Kira muttered, "You're not helping."
+    Buddy leans in, fascinated.
+    Buddy asks, "What do the diagrams mean? Are those plants lifting things?"
 
-    Florence moved smoothly to the next section — joystick controls precise. Florence said, "Emergency evacuation procedures. In the event of fire, earthquake, or other facility emergency, it's essential to know your nearest exit routes."
+    Florence says, "Standardized symbology! Very useful for cross-species instruction."
 
-    More images appeared — simplified floor plans with arrows and exit markers.
+    The demonstration continues — proper hand placement, weight distribution, and team-lifting procedures for objects over fifteen kilograms.
 
-    Florence said, "Familiarize yourself with at least two evacuation routes from any location. Never use elevators during an emergency. Proceed calmly to the designated assembly point."
+    Buddy observes, "I believe cream indicates focus — or maybe concentration? The flowers are less open than before."
 
-    Kira asked to Florence, "What building? You grew this place. It's alive. It doesn't have elevators. What exactly are we evacuating from?"
+    I tell him, "You're learning the language — good eye."
 
-    Florence's flowers shifted toward light orange; petals tightened slightly.
+    Florence's flowers brighten — pleased to be understood.
 
-    Buddy observed, "I think that's agitation — or possibly nutrient deficiency. Difficult to determine without baseline chlorophyll readings."
+    Florence moves smoothly to the next section; joystick controls precise.
+    Florence says, "Emergency evacuation procedures. In the event of fire, earthquake, or other facility emergency, it's essential to know your nearest exit routes."
 
-    Florence's careful diction grew slightly terse. Florence said, "These procedures ensure safety in any facility environment. One must be prepared for various emergency scenarios."
+    More images appear — simplified floor plans with arrows and exit markers.
 
-    Kira pressed, "But what scenarios? The facility is a living plant. If there's an emergency, what am I evacuating from?"
+    Florence says, "Familiarize yourself with at least two evacuation routes from any location. Never use elevators during an emergency. Proceed calmly to the designated assembly point."
 
-    The flowers deepened to a more pronounced orange.
+    I ask, genuinely curious, "What fires? Everything here is alive — how does a living building catch fire?"
 
-    Buddy said, "I believe we've moved into definite irritation."
+    Florence's flowers shift toward light orange.
+    Florence says, "Comprehensive procedures for all contingencies! Though admittedly… fire is less common here. We're mostly water and growing tissue."
 
-    Scout bounced sympathetically toward Kira, then toward Florence, and settled in an anxious middle position.
+    I ask, "So what *WOULD* I be evacuating from?"
 
-    Holloway suggested gently from the wall, "Let's move forward — workplace harassment policies next!"
+    Florence says, "Excellent question! The previous visitor helped us develop these protocols — she was very thorough."
+    Florence pauses.
+    Florence says, "Though I admit we never tested them."
 
-    Florence's flowers gradually shifted back toward cream as she regained composure. Florence said, "Yes. Thank you, Holloway."
+    The flowers shift to soft purple — is that uncertainty? Thoughtfulness?
 
-    The presentation continued — workplace harassment policies, what constituted inappropriate behavior, proper reporting procedures, and the importance of maintaining professional boundaries and respectful communication.
+    I ask Buddy, "What do you think purple means?"
 
-    It was presented with the same earnest thoroughness as everything else.
+    Buddy says, "I'm not sure! Maybe contemplation? We should ask."
 
-    Kira had exactly zero colleagues, no workplace, no professional relationships to maintain boundaries in.
+    I ask, "Florence, what does the purple mean?"
 
-    Kira said quietly, _This is insane._
+    The flowers ripple with something like surprise, then warm yellow.
+    Florence says, "You're learning flower-language! Purple indicates thoughtfulness, or processing complex information — I was considering how useful these procedures actually are for your situation."
 
-    Florence asked, "What was that?" Her flowers shifted — pink now, tinged with concern.
+    I grin.
+    I say, "See — this is what I love about this. You're genuinely thinking about whether the training applies."
 
-    Kira replied, "Nothing. Continue."
+    Florence says, "Adaptation is important! Now, shall we continue to workplace harassment policies?"
 
-    The training went on. And on.
+    The presentation continues — workplace harassment policies: what constitutes inappropriate behavior, proper reporting procedures, and the importance of maintaining professional boundaries and respectful communication.
 
-    Fire safety, ergonomic workspace setup, proper documentation procedures, break room etiquette — the list kept coming.
+    Buddy asks, "Do plants harass each other? How would that work?"
 
-    She was receiving workplace safety training from a flowering plant on wheels while injured, on an alien planet, after her ship crashed.
+    Florence says, "Excellent question! Communication styles can cause discomfort. We include these policies because the educational materials emphasized them extensively."
 
-    This was her life now.
+    I say, "They do that for humans too — it's important."
 
-    The flowers kept shifting colors—yellows when Florence was pleased with a section, creams when she was focused, occasional oranges when Kira asked questions that disrupted the flow, soft pinks that might have been concern or empathy or digestive processes—who could possibly know.
+    Florence's flowers shift to soft pink.
+    Florence says, "We want you to feel safe here — respected — even if the specific scenarios don't quite… translate."
 
-    Buddy said, "The pale pink suggests compassion — Or potentially flowering readiness. The literature is inconsistent."
+    There's genuine warmth there — real concern.
 
-    Kira said, "Please stop helping."
+    I say, "I appreciate that, Florence — I really do."
 
-    _Finally_ — Florence rolled to what looked like a concluding position.
+    The training goes on — fire safety, ergonomic workspace setup, proper documentation procedures, and break room etiquette.
 
-    Florence said, "That completes the core content — Now we'll proceed to the assessment."
+    I'm receiving workplace safety training from a flowering plant on wheels, while injured, on an alien planet, after my ship crashed.
 
-    Kira repeated, "Assessment."
+    This is the *BEST*.
 
-    Holloway said cheerfully, "A brief quiz to ensure comprehension! — Standard protocol!"
+    The flowers keep shifting colors — yellows when Florence is pleased with a section, creams when focused, occasional oranges that seem to be frustration with the material itself rather than me, and soft pinks that are definitely empathy.
 
-    Of course there was a quiz.
+    I tell Buddy, "I'm getting better at reading the colors — pink is definitely caring, right?"
 
-    Florence produced bark sheets with questions pressed into them—multiple choice, apparently.
+    Buddy says, "I think so! Florence, are we right?"
 
-    Florence said, "You'll have twenty minutes — Passing score is seventy percent."
+    Florence says, "You're both doing wonderfully!" Her flowers bloom wide and yellow. "Most beings take much longer to recognize the patterns."
 
-    Kira took the sheets. Scout rolled closer, peering at the questions with what felt like solidarity.
+    Finally, Florence rolls to what looks like a concluding position.
 
-    Question One: When lifting objects over fifteen kilograms, you should:
-    Option A: Bend at the waist and use your back muscles.
-    Option B: Bend at the knees and lift with your legs.
-    Option C: Ask for assistance.
-    Option D: B and C.
+    Florence says, "That completes the core content." Her flowers display in full cream glory, clearly proud. Florence says, "Now we'll proceed to the assessment."
 
-    Fine. D. That had been covered extensively.
+    Buddy says, "A quiz! I love quizzes!"
 
-    Question Two: In the event of a facility fire, you should:
-    Option A: Use the elevator to evacuate quickly.
-    Option B: Proceed to the nearest exit calmly.
-    Option C: Return to your workstation for belongings.
-    Option D: Hide in a supply closet.
+    Holloway announces, "A brief quiz to ensure comprehension — standard protocol!"
 
-    B. Obviously — despite there being no elevators, no workstation, and she wasn't even sure what qualified as a "supply closet" in living plant architecture.
+    Of course there's a quiz. I grin.
 
-    Question Three: If you witness workplace harassment, proper procedure is to:
-    Option A: Ignore it.
-    Option B: Document the incident and report to your supervisor.
-    Option C: Confront the harasser aggressively.
-    Option D: Leave the workplace permanently.
+    Florence produces bark sheets with questions pressed into them — multiple choice.
 
-    B. She supposed — in a theoretical workplace she didn't have, involving colleagues who didn't exist.
+    Florence says, "You'll have twenty minutes — passing score is seventy percent."
 
-    The questions continued—twenty of them—covering every absurd topic from the training.
+    I take the sheets. Scout rolls closer, peering at the questions with what feels like solidarity.
 
-    Her leg hurt. She wanted water. She wanted to lie down.
+    Question one: When lifting objects over fifteen kilograms, you should:
+    A) Bend at the waist and use your back muscles
+    B) Bend at the knees and lift with your legs
+    C) Ask for assistance
+    D) B and C
 
-    She wanted this day to end.
+    I say, "D. It's always document or ask for help."
 
-    But she answered every question, applying the ridiculous logic she'd just been taught.
+    Florence's flowers pulse warm approval.
 
-    "Time," Florence announced after what felt like an eternity but was probably actually twenty minutes.
+    Question two: In the event of a facility fire, you should:
+    A) Use the elevator to evacuate quickly
+    B) Proceed to the nearest exit calmly
+    C) Return to your workstation for belongings
+    D) Hide in a supply closet
 
-    Several fruiting bodies sprouted around the chamber — Holloway reviewing her answers somehow.
+    I say, "B. Even in a living building with no elevators."
 
-    Scout bounced anxiously.
+    Question three: If you witness workplace harassment, proper procedure is to:
+    A) Ignore it
+    B) Document the incident and report to your supervisor
+    C) Confront the harasser aggressively
+    D) Leave the workplace permanently
 
-    Kira waited, past exhaustion into a kind of hollow patience.
+    I say, "B. Document and report. Classic."
 
-    Holloway said, "Eighteen correct out of twenty — *Ninety percent!* Excellent work!"
+    The questions continue — twenty of them. I'm picking up the patterns — the logic is consistent, even if the situation is absurd.
 
-    Florence's flowers bloomed into brilliant yellow — genuine pleasure.
+    Florence says, "Time." Several fruiting bodies sprout around the chamber — Holloway reviewing my answers.
 
-    Florence said, "Wonderful! You've successfully completed orientation — You're now cleared for medical evaluation!"
+    Scout bounces anxiously.
 
-    Finally. _Finally_.
+    Holloway announces, "Eighteen correct out of twenty — ninety percent! Excellent work!"
 
-    Kira stood, ignoring her leg's sharp protest.
+    Florence's flowers bloom into brilliant yellow — genuine pleasure.
 
-    She made herself say,
-    "Thank you."
+    Florence says, "Wonderful! You've successfully completed orientation — you're now cleared for medical evaluation!"
 
-    Because despite everything—the absurdity, the inappropriateness, the sheer bureaucratic madness—they had tried. They genuinely thought this training helped humans. Florence had coordinated it carefully, proudly. Holloway had prepared materials.
+    Buddy asks immediately, "Which question did I miss?"
 
-    They were trying so hard.
+    Florence says, "Question seven — proper break scheduling. The correct answer was 'per designated intervals' but Kira selected 'when needed.'"
 
-    Florence said, flowers still brilliant yellow:
-    "My pleasure entirely. Welcome to our facility, Kira. I do hope you'll find your time here... productive."
+    Buddy argues — "That seems reasonable though! Humans need breaks when they're tired!"
 
-    Productive—right.
+    Florence says — (her flowers ripple with what might be amusement) — "The protocol specifies intervals for consistency. Though I appreciate the feedback — perhaps we should review that section."
 
-    Scout bounced toward another doorway—leading deeper into the facility.
+    I stand, my leg protests but I'm smiling.
 
-    Medical evaluation next—finally.
+    I say — "Thank you, Florence. That was genuinely the best workplace training I've ever had."
 
-    She could make it a little longer—had to.
+    Florence's flowers bloom even brighter.
+
+    Florence — "Truly?"
+
+    I — "Truly. Most workplace training is boring and pointless. This was... actually fun. And I learned flower-language!"
+
+    Florence — "I am… very pleased to hear that." (the flowers are practically glowing) — "Welcome to our facility, Kira. I do hope you'll find your time here productive."
+
+    I — "I already am."
+
+    Scout bounces toward another doorway — leading deeper into the facility.
+
+    Medical evaluation next — then rest.
+
+    But honestly? I could do *another four hours* of this.
+
+    What an adventure.
   </combined-text>
 </passage-voice>

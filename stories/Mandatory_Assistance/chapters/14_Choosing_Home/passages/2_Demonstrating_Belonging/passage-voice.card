@@ -1,136 +1,151 @@
 <!-- Generated automatically, do not edit except with ske gen passage-voice -->
-<passage-voice version="3.0.0">
-  <ref ref="passage.card#v3.0.0"/>
+<passage-voice version="3.0.1">
+  <ref ref="passage.card#v3.0.1"/>
   <reasoning>
-    Reviewing the passage for voiceover issues I found the following that need adjustment:
-    1. Staccato sentences and fragments: several short lines under four words that break flow (e.g., "First stop: Runner's acoustic chambers.", "Love Kira bounce."). These should be merged or clarified for smooth speech.
-    2. Dialogue clarity: some spoken lines were not clearly tied to a speaker in the immediate line (e.g., "What—" and the bounce fragments). I made sure each spoken line is clearly attributed.
-    3. Ambiguous pronouns: Scout's fragments and actions could confuse who is performing versus speaking; I disambiguated by naming the actor or indicating the action.
-    4. Pauses needed: moments where a dramatic pause helps (before Runner emerges, before Holloway's statement, before the final line). I inserted paragraph pauses (¶) where appropriate.
-    5. Formal/stilted phrasing: a few lines read more like text than speech; I smoothed them into natural spoken phrasing without changing meaning.
-    6. Nonverbal fragments and onomatopoeia: Scout's "bounce" fragments needed to be converted into either clear stage action or a quoted vocalization for the voice to render them intelligibly.
-    7. Repeated short-speaker beats: I grouped multi-beat speeches from the same speaker into single quoted blocks using em dashes for intra-beat pauses, so the voice reads them as one utterance.
-    8. No symbols requiring conversion were found.
-
-    All adjustments were formatting and clarity changes to make the passage read naturally for a single narrator and to make speakers clear; no story content was altered.
+    Reviewing the passage for voiceover: 
+    1. Several short, staccato sentences and short paragraphs (e.g., action beats and section headers) should be merged or smoothed for natural speech. 
+    2. Dialog often appears inline with narration; speaker attribution should precede quotes so lines ‘pop’ and are clear. 
+    3. A few pronouns could be ambiguous in a spoken read — I clarified speaker cues where helpful. 
+    4. Moments of dramatic or hesitant pause (e.g., "What—", the reveal of Runner, Scout's bounces, Holloway's approach) benefit from explicit pause marks — em dashes and ellipses — and one long pause marker. 
+    5. Some phrasing is slightly formal; I smoothed a few lines for conversational speech without changing meaning. 
+    6. There are no symbols needing conversion beyond normal punctuation. 
+    I applied the voiceover rules: merged very short sentences, used lead-in then quote for dialog, placed dialog on its own lines, used em dashes and ellipses for pauses, disambiguated pronouns where needed, and converted gesture/adverb cues into brief stage-like beats in the narration.
   </reasoning>
   <content-change/>
   <chunks>
     <chunk>
       <text>
-        I lead Torres and Dr. Chen through the facility — first to Runner's acoustic chambers.
+        I lead Torres and Dr. Chen through the facility. Our first stop — Runner's acoustic chambers.
 
-        I tell Torres, "Stand here," gesturing to the resonance bowl.
+        I say, "Stand here." I gesture to the resonance bowl.
 
-        Torres steps into the bowl skeptically and says, "What—"
+        Torres steps in — skeptical.
+
+        Torres says, "What…"
 
         I say, "Say something."
 
         Torres says, "This is ridiculous."
 
-        Her voice echoes in harmonics, the chamber singing along with her words. Her expression shifts from skepticism to wonder.
+        Her voice echoes in harmonics — the chamber sings along with her words. Her expression shifts from skepticism to wonder.
 
-        Dr. Chen asks, "How does this work?"
+        Dr. Chen asks, "How does this work?" He scans the structure.
 
-        ¶
+        Runner emerges from underground.
 
-        Runner emerges and says, "Geometric vine patterns create resonance at specific frequencies — art and function together — Kira suggested incorporating acoustic beauty into practical design."
+        Runner says, "Geometric vine patterns create resonance at specific frequencies — art and function together — Kira suggested incorporating acoustic beauty into practical design."
 
-        Torres says, "You... created music out of utility?"
+        Torres says, "You… created music out of utility?" She sounds impressed despite herself.
 
-        Runner replies, "Individual voices make better harmony when they contribute uniquely — Kira taught us that."
+        Runner says, "Individual voices make better harmony when they contribute uniquely — Kira taught us that."
 
-        Next, we move to Velvet's artistic spaces. Torres examines the translucent growth as light filters through in complex patterns; she notices the ergonomic seating and comfortable proportions.
+        Next, we visit Velvet's artistic spaces.
+
+        Torres examines the translucent growth — light filters through in complex patterns — the ergonomic seating and comfortable proportions.
 
         Dr. Chen observes, "This is designed for human comfort."
 
         Velvet says, "Kira's feedback shaped every decision — she asked about how spaces feel, not just whether they're functional — it made me think differently about what I create."
 
-        Torres asks, "And you listened to a stranded human's design input?"
+        Torres asks to Velvet, "And you listened to a stranded human's design input?"
 
-        Velvet corrects, "I listened to a community member's voice — her perspective made these spaces better."
+        Velvet says, "I listened to a community member's voice — her perspective made these spaces better."
 
-        Remedy shows their enhancement compounds and says, "Kira asked about fragrances — such a small question — but it made me realize chemistry could serve joy, not just survival."
+        Remedy shows their enhancement compounds.
 
-        Torres is beginning to understand — I can see it in how she looks at the facility now, not as captivity but as collaboration.
+        Remedy says, "Kira asked about fragrances — such a small question — but it made me realize chemistry could serve joy, not just survival."
+
+        Torres is beginning to understand — I can see it in how she looks at the facility now — not as captivity but as collaboration.
 
         ¶
 
-        Holloway approaches and says, "Captain, I want to be clear — Kira is free to leave anytime — we value her presence but would never hold her against her will."
+        Holloway approaches.
 
-        Torres asks bluntly, "Why does she matter so much to you?"
+        Holloway says, "Captain, I want to be clear: Kira is free to leave anytime — we value her presence but would never hold her against her will." 
 
-        Holloway replies, "Because individual voices create richer harmony than any protocol — Kira's human perspective contributes uniquely — she's not here despite being different — she's valued because being different enriches our community."
+        Torres asks, *"Why does she matter so much to you?"*
 
-        Florence wheels over and says, "I was exiled from this community — betrayed their trust — Kira helped me believe redemption through right action was possible — this community creates space for people to choose who they want to be."
+        Holloway says, "Because individual voices create richer harmony than any protocol — Kira's human perspective contributes uniquely — she's not here despite being different — she's valued because being different enriches our community."
 
-        Torres examines Florence carefully and asks, "You're saying she transformed your entire social structure?"
+        Florence wheels over.
 
-        Florence answers, "We transformed together — individual voices working in harmony — that's the community Kira chose."
+        Florence says, "I was exiled from this community — betrayed their trust — Kira helped me believe redemption through right action was possible — this community creates space for people to choose who they want to be."
 
-        Scout bounces over to Torres, eager. I say, "That's Scout — they adopted me immediately after my crash — unconditional loyalty and affection."
+        Torres studies Florence carefully. Torres asks, "You're saying she transformed your entire social structure?"
 
-        Scout bounces between me and Torres, expressing affection and trying to make the captain understand — love for Kira, happiness that Kira is staying.
+        Florence says, "We transformed together — individual voices working in harmony. That's the community Kira chose."
 
-        Torres watches Scout's obvious affection and says, "This... this isn't coercion."
+        Scout bounces over to Torres — an enthusiastic greeting.
 
-        I say simply, "*This is family.*"
+        Torres asks, "What is this?"
+
+        I say, "That's Scout — they adopted me immediately after my crash — unconditional loyalty and affection."
+
+        Scout bounces between me and Torres — enthusiastic, insistent bounces — the kind that mean affection, that mean please understand, that mean this matters. I've learned to read Scout's language.
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: Warm, explanatory, steadily softening from sceptical and clinical to intimate and emphatic; keep pacing measured, with clear pauses where marked.
+        Tone &amp; pacing: Warm, curious, and measured, with moments of wonder and a few sharper beats of tension and emphasis.
 
-        - Read "I lead Torres and Dr. Chen through the facility — first to Runner's acoustic chambers." with calm, guiding cadence.
-        - For "Stand here," use a clear, instructional tone; soften into curiosity for Torres's "What—" and clipped skepticism for "This is ridiculous."
-        - When narrating "Her voice echoes...", slow slightly and leave a medium pause before the paragraph marker "¶" to let the chamber reaction settle.
-        - For Runner's quoted block, use steady, slightly proud explanation — one continuous utterance with subtle emphasis on "resonance," "art and function," and "Kira."
-        - For Velvet, Remedy, Florence: sincere, reflective delivery — treat each as testimony, slightly softer, heartfelt.
-        - For Scout: quick, lively delivery for the line "Scout bounces..." — convey playful energy but keep it as narration rather than trying to imitate animal sounds.
-        - End with the line "*This is family.*" as a warm, emphatic statement — raise volume slightly and lengthen the final syllable for impact.
+        - Read "I say, \"Stand here.\"" as calm and directive, then pause briefly before Torres reacts.
+        - Read Torres's hesitant lines with a puzzled, skeptical quality — "Torres says, \"What…\"" is breathy and uncertain.
+        - Runner's lines should be steady and rhythmic — think measured explanation with slight wonder on the phrase "acoustic beauty." Use medium pauses at each em dash.
+        - Velvet and Remedy are reflective and lightly enthusiastic; Velvet gets a warmer, emotional emphasis on "how spaces feel." Remedy brightens on "joy."
+        - When reading Holloway's lines, use a flute-like, airy quality — phrasing should feel musical rather than clipped. Treat Holloway's sentences as a single lyrical statement with medium pauses at dashes.
+        - Read Torres's question "*Why does she matter so much to you?*" more forcefully — slightly louder and sharper (marked bold in text).
+        - Scout's moves are playful and quick — keep the narration brisk and affectionate when describing Scout's bounces.
       </stage-directions>
     </chunk>
     <chunk>
       <text>
-        Buddy says — "Kira, I want you to know — I'm really proud of us. We built this together."
+        Torres watches Scout's obvious affection.
 
-        I reply — "We did, didn't we?"
+        Torres says, "This... this isn't coercion."
 
-        Buddy says — "I know I'm not Kit from Uncharted. I couldn't give you witty banter or brilliant insights. But I tried to help."
+        I say, "No. This is family."
 
-        I say to Buddy — "Buddy, you were exactly what I needed — not Kit. You."
+        Buddy says in my mind, "Kira, I want you to know—I'm really proud of us. We built this together."
 
-        I can feel Buddy processing that — contentment radiating through our connection.
+        I say, "We did, didn't we?"
 
-        Dr. Chen pulls Torres aside — I see them talking quietly as Dr. Chen shows scan results; Torres nods slowly.
+        Buddy says, "I know I'm not Kit from Uncharted. I couldn't give you witty banter or brilliant insights. But I tried to help."
 
-        Torres says — "Ms. Voss, all indicators show you're thriving here. Healthier than before the crash, psychologically sound, genuinely happy. This is highly irregular, but…"
+        I say, "Buddy, you were exactly what I needed. Not Kit. You."
+
+        I can feel Buddy processing that—contentment radiating through our connection.
+
+        Dr. Chen pulls Torres aside—Dr. Chen shows scan results; Torres nods slowly.
+
+        Torres returns to me.
+
+        Torres says, "Ms. Voss, all indicators show you're thriving here—healthier than before the crash, psychologically sound, genuinely happy. This is highly irregular, but..."
 
         ¶
 
-        Torres continues — "It's your choice. Your life."
+        Torres says, "It's your choice. Your life."
 
-        I reply — "Thank you."
+        I say, "Thank you."
 
-        Torres says — "We'll leave an emergency beacon and contact information. If you ever want extraction — no judgment, no questions — activate the beacon and we'll return."
+        Torres says, "We'll leave an emergency beacon and contact information. If you ever want extraction—no judgment, no questions—activate the beacon and we'll return."
 
-        I say — "I appreciate that — but I won't be changing my mind."
+        I say, "I appreciate that. But I won't be changing my mind."
 
-        Torres pulls out paperwork — "I need you to sign this — official declaration that you're declining rescue and choosing to remain."
+        Torres pulls out paperwork.
+
+        Torres says, "I need you to sign this—official declaration that you're declining rescue and choosing to remain."
 
         I sign without hesitation.
 
-        Torres and Dr. Chen prepare to depart; the whole community gathers to see them off.
+        Torres and Dr. Chen prepare to depart. The whole community gathers to see them off.
 
-        Torres says — "Take care of yourself, Ms. Voss."
+        Torres says, "Take care of yourself, Ms. Voss."
 
-        I reply — "I will. Thank you for understanding."
+        I say, "I will. Thank you for understanding."
 
-        Torres admits — "I'm not sure I understand — but I can see it's real. That's enough."
+        Torres says, "I'm not sure I understand—but I can see it's real. That's enough."
 
-        The freighter lifts off — I watch it disappear into the sky.
+        The freighter lifts off. I watch it disappear into the sky.
 
-        No regret.
-
-        No doubt.
+        No regret. No doubt.
 
         Just certainty.
 
@@ -138,119 +153,152 @@
 
         The community is quiet for a moment, processing what just happened.
 
-        Scout bounces — "*She stayed!* *She really stayed!* Family forever!"
+        ¶
+
+        Then Scout explodes in celebration bounces—the biggest, most joyful bounces I've ever seen, bouncing in circles around me, against my legs, up and down and around again. Pure, unmistakable happiness.
 
         And everyone starts celebrating.
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: Warm, intimate, steady; begin reflective and quietly proud, pause briefly for medical observation beats, then lift into gentle certainty and finish with a bright, celebratory burst.
+        Tone &amp; pacing: Warm, resolute, quietly celebratory—measured overall with medium pauses at em dashes and two longer, dramatic pauses where marked (¶).
 
-        - Read "Buddy says — \"Kira, I want you to know — I'm really proud of us. We built this together.\"" with gentle warmth and affectionate certainty.
-        - For the narrator lines like "I reply — \"We did, didn't we?\"" use a soft, personal tone — slightly breathy, immediate.
-        - When reading Torres's first long line, slow slightly on the list of findings, treat "This is highly irregular, but…" as trailing — then pause at the paragraph "¶" to let the hesitation land.
-        - For combined beats (e.g., "I appreciate that — but I won't be changing my mind."), keep them as one steady utterance with a brief thoughtful pause at the em dash.
-        - Read "Torres pulls out paperwork — \"I need you to sign this — official declaration...\"" with procedural calm, then allow relief in the narrator's "I sign without hesitation." line.
-        - Scout's block: make it quick, lively, and bright. Read the *bold* words louder and faster: "*She stayed!* *She really stayed!*" then a playful, higher note for "Family forever!"
-        - Close with the community reaction: move from quiet to celebration — first gentle acknowledgement for "This is home." then step up energy into the final line.
-        - Closing cadence: Upbeat closing cadence; bright lift, then a quick warm fall.
+        - Read "Torres says, \"This... this isn't coercion.\"" with a puzzled, cautious tone—hesitation on the ellipsis.
+        - Read narrator lines like "I say, \"No. This is family.\"" plainly and steadily—gentle certainty.
+        - Deliver Buddy's mind-lines "Buddy says in my mind, \"Kira, I want you to know—I'm really proud of us...\"" as intimate and soft—a quiet, affectionate connection. Keep those lines slightly inward, but audible.
+        - When Torres hesitates—"...this is highly irregular, but..."—use the em dash for a medium pause; then hit the long, reflective pause at the paragraph containing only "¶".
+        - Read the short emphatic beats—"No regret. No doubt. Just certainty. This is home." as firm, almost clipped statements; allow the final phrase to open into warmth.
+        - For Scout's celebration line, quicken tempo and brighten tone—playful, bouncy, and joyful when describing the physical movement around the narrator.
+        - If any earlier characters like Holloway are referenced in nearby scenes, recall the prior note: give Holloway a flute-like, musical quality. (No Holloway lines here, but maintain consistency if referenced.)
+        - Closing cadence: Soft landing; warm fall, lingering last syllable, cozy pause.
       </stage-directions>
     </chunk>
   </chunks>
+  <unusual-pronunciations>
+    <word text="Dr. Chen"/>
+    <word text="Florence"/>
+    <word text="Holloway"/>
+    <word text="Kira"/>
+    <word text="Remedy"/>
+    <word text="Runner"/>
+    <word text="Scout"/>
+    <word text="Torres"/>
+    <word text="Velvet"/>
+  </unusual-pronunciations>
   <title>Proving Belonging</title>
   <combined-text>
-    I lead Torres and Dr. Chen through the facility — first to Runner's acoustic chambers.
+    I lead Torres and Dr. Chen through the facility. Our first stop — Runner's acoustic chambers.
 
-    I tell Torres, "Stand here," gesturing to the resonance bowl.
+    I say, "Stand here." I gesture to the resonance bowl.
 
-    Torres steps into the bowl skeptically and says, "What—"
+    Torres steps in — skeptical.
+
+    Torres says, "What…"
 
     I say, "Say something."
 
     Torres says, "This is ridiculous."
 
-    Her voice echoes in harmonics, the chamber singing along with her words. Her expression shifts from skepticism to wonder.
+    Her voice echoes in harmonics — the chamber sings along with her words. Her expression shifts from skepticism to wonder.
 
-    Dr. Chen asks, "How does this work?"
+    Dr. Chen asks, "How does this work?" He scans the structure.
 
-    Runner emerges and says, "Geometric vine patterns create resonance at specific frequencies — art and function together — Kira suggested incorporating acoustic beauty into practical design."
+    Runner emerges from underground.
 
-    Torres says, "You... created music out of utility?"
+    Runner says, "Geometric vine patterns create resonance at specific frequencies — art and function together — Kira suggested incorporating acoustic beauty into practical design."
 
-    Runner replies, "Individual voices make better harmony when they contribute uniquely — Kira taught us that."
+    Torres says, "You… created music out of utility?" She sounds impressed despite herself.
 
-    Next, we move to Velvet's artistic spaces. Torres examines the translucent growth as light filters through in complex patterns; she notices the ergonomic seating and comfortable proportions.
+    Runner says, "Individual voices make better harmony when they contribute uniquely — Kira taught us that."
+
+    Next, we visit Velvet's artistic spaces.
+
+    Torres examines the translucent growth — light filters through in complex patterns — the ergonomic seating and comfortable proportions.
 
     Dr. Chen observes, "This is designed for human comfort."
 
     Velvet says, "Kira's feedback shaped every decision — she asked about how spaces feel, not just whether they're functional — it made me think differently about what I create."
 
-    Torres asks, "And you listened to a stranded human's design input?"
+    Torres asks to Velvet, "And you listened to a stranded human's design input?"
 
-    Velvet corrects, "I listened to a community member's voice — her perspective made these spaces better."
+    Velvet says, "I listened to a community member's voice — her perspective made these spaces better."
 
-    Remedy shows their enhancement compounds and says, "Kira asked about fragrances — such a small question — but it made me realize chemistry could serve joy, not just survival."
+    Remedy shows their enhancement compounds.
 
-    Torres is beginning to understand — I can see it in how she looks at the facility now, not as captivity but as collaboration.
+    Remedy says, "Kira asked about fragrances — such a small question — but it made me realize chemistry could serve joy, not just survival."
 
-    Holloway approaches and says, "Captain, I want to be clear — Kira is free to leave anytime — we value her presence but would never hold her against her will."
+    Torres is beginning to understand — I can see it in how she looks at the facility now — not as captivity but as collaboration.
 
-    Torres asks bluntly, "Why does she matter so much to you?"
+    Holloway approaches.
 
-    Holloway replies, "Because individual voices create richer harmony than any protocol — Kira's human perspective contributes uniquely — she's not here despite being different — she's valued because being different enriches our community."
+    Holloway says, "Captain, I want to be clear: Kira is free to leave anytime — we value her presence but would never hold her against her will." 
 
-    Florence wheels over and says, "I was exiled from this community — betrayed their trust — Kira helped me believe redemption through right action was possible — this community creates space for people to choose who they want to be."
+    Torres asks, *"Why does she matter so much to you?"*
 
-    Torres examines Florence carefully and asks, "You're saying she transformed your entire social structure?"
+    Holloway says, "Because individual voices create richer harmony than any protocol — Kira's human perspective contributes uniquely — she's not here despite being different — she's valued because being different enriches our community."
 
-    Florence answers, "We transformed together — individual voices working in harmony — that's the community Kira chose."
+    Florence wheels over.
 
-    Scout bounces over to Torres, eager. I say, "That's Scout — they adopted me immediately after my crash — unconditional loyalty and affection."
+    Florence says, "I was exiled from this community — betrayed their trust — Kira helped me believe redemption through right action was possible — this community creates space for people to choose who they want to be."
 
-    Scout bounces between me and Torres, expressing affection and trying to make the captain understand — love for Kira, happiness that Kira is staying.
+    Torres studies Florence carefully. Torres asks, "You're saying she transformed your entire social structure?"
 
-    Torres watches Scout's obvious affection and says, "This... this isn't coercion."
+    Florence says, "We transformed together — individual voices working in harmony. That's the community Kira chose."
 
-    I say simply, "*This is family.*"
+    Scout bounces over to Torres — an enthusiastic greeting.
 
-    Buddy says — "Kira, I want you to know — I'm really proud of us. We built this together."
+    Torres asks, "What is this?"
 
-    I reply — "We did, didn't we?"
+    I say, "That's Scout — they adopted me immediately after my crash — unconditional loyalty and affection."
 
-    Buddy says — "I know I'm not Kit from Uncharted. I couldn't give you witty banter or brilliant insights. But I tried to help."
+    Scout bounces between me and Torres — enthusiastic, insistent bounces — the kind that mean affection, that mean please understand, that mean this matters. I've learned to read Scout's language.
 
-    I say to Buddy — "Buddy, you were exactly what I needed — not Kit. You."
+    Torres watches Scout's obvious affection.
 
-    I can feel Buddy processing that — contentment radiating through our connection.
+    Torres says, "This... this isn't coercion."
 
-    Dr. Chen pulls Torres aside — I see them talking quietly as Dr. Chen shows scan results; Torres nods slowly.
+    I say, "No. This is family."
 
-    Torres says — "Ms. Voss, all indicators show you're thriving here. Healthier than before the crash, psychologically sound, genuinely happy. This is highly irregular, but…"
+    Buddy says in my mind, "Kira, I want you to know—I'm really proud of us. We built this together."
 
-    Torres continues — "It's your choice. Your life."
+    I say, "We did, didn't we?"
 
-    I reply — "Thank you."
+    Buddy says, "I know I'm not Kit from Uncharted. I couldn't give you witty banter or brilliant insights. But I tried to help."
 
-    Torres says — "We'll leave an emergency beacon and contact information. If you ever want extraction — no judgment, no questions — activate the beacon and we'll return."
+    I say, "Buddy, you were exactly what I needed. Not Kit. You."
 
-    I say — "I appreciate that — but I won't be changing my mind."
+    I can feel Buddy processing that—contentment radiating through our connection.
 
-    Torres pulls out paperwork — "I need you to sign this — official declaration that you're declining rescue and choosing to remain."
+    Dr. Chen pulls Torres aside—Dr. Chen shows scan results; Torres nods slowly.
+
+    Torres returns to me.
+
+    Torres says, "Ms. Voss, all indicators show you're thriving here—healthier than before the crash, psychologically sound, genuinely happy. This is highly irregular, but..."
+
+    Torres says, "It's your choice. Your life."
+
+    I say, "Thank you."
+
+    Torres says, "We'll leave an emergency beacon and contact information. If you ever want extraction—no judgment, no questions—activate the beacon and we'll return."
+
+    I say, "I appreciate that. But I won't be changing my mind."
+
+    Torres pulls out paperwork.
+
+    Torres says, "I need you to sign this—official declaration that you're declining rescue and choosing to remain."
 
     I sign without hesitation.
 
-    Torres and Dr. Chen prepare to depart; the whole community gathers to see them off.
+    Torres and Dr. Chen prepare to depart. The whole community gathers to see them off.
 
-    Torres says — "Take care of yourself, Ms. Voss."
+    Torres says, "Take care of yourself, Ms. Voss."
 
-    I reply — "I will. Thank you for understanding."
+    I say, "I will. Thank you for understanding."
 
-    Torres admits — "I'm not sure I understand — but I can see it's real. That's enough."
+    Torres says, "I'm not sure I understand—but I can see it's real. That's enough."
 
-    The freighter lifts off — I watch it disappear into the sky.
+    The freighter lifts off. I watch it disappear into the sky.
 
-    No regret.
-
-    No doubt.
+    No regret. No doubt.
 
     Just certainty.
 
@@ -258,7 +306,7 @@
 
     The community is quiet for a moment, processing what just happened.
 
-    Scout bounces — "*She stayed!* *She really stayed!* Family forever!"
+    Then Scout explodes in celebration bounces—the biggest, most joyful bounces I've ever seen, bouncing in circles around me, against my legs, up and down and around again. Pure, unmistakable happiness.
 
     And everyone starts celebrating.
   </combined-text>

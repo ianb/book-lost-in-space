@@ -1,8 +1,16 @@
 <!-- Generated automatically, do not edit except with ske gen passage-voice -->
-<passage-voice version="2.0.0">
-  <ref ref="passage.card#v2.0.0"/>
+<passage-voice version="3.0.2">
+  <ref ref="passage.card#v3.0.2"/>
   <reasoning>
-    <!-- For instructions on filling out reasoning: ske instructions stories/Mandatory_Assistance/chapters/10_Trust_Complicated/passages/1_False_Wisdom/passage-voice.card -->
+    I reviewed the passage for features that hinder smooth TTS narration and adjusted accordingly:
+    1. Staccato sentences: I merged very short sentences (under four words) into surrounding sentences when they were not punchlines.
+    2. Dialogue clarity: I ensured each spoken line is clearly attributed with a lead-in and placed the quoted speech on its own line.
+    3. Ambiguous pronouns: I kept references clear; where needed I kept character names nearby so a listener can track speakers.
+    4. Pauses: I added explicit pause marks—em dash (—) for medium pauses and a separate paragraph containing only "¶" for a long, dramatic pause before Elder Twist's response.
+    5. Informal tone: I slightly smoothed a few stilted sentences for natural spoken cadence without changing meaning.
+    6. Symbols/non-text: No special symbols needed conversion. Numbers left as-is since they read naturally.
+
+    All changes are formatting and narration-focused; no story content or meaning was altered.
   </reasoning>
   <content-change/>
   <chunks>
@@ -10,256 +18,277 @@
       <text>
         Five days after we stopped waiting for Elder Heartwood's wisdom, we get our first real threat.
 
-        Scout comes bouncing in fast — the urgent bounce, not the happy bounce. I've learned the difference.
+        Scout bounces in fast—the urgent bounce, not the happy bounce. I've learned the difference.
 
-        I say, "Hostile plants?"
+        I ask, "Hostile plants?"
 
-        An emphatic bounce — yes. Scout just returned from perimeter patrol; they're agitated.
+        Scout bounces emphatically. Yes. Scout just returned from perimeter patrol and they're agitated.
 
         Holloway assembles everyone quickly. When Scout is this urgent, you listen.
 
         Holloway says, "Show us."
 
-        Scout leads us to the facility's eastern boundary. There, carved into the bark of a boundary tree, are marks — deliberate marks. Not natural damage.
+        Scout leads us to the facility's eastern boundary. There, carved into the bark of a boundary tree, are deliberate marks—intentional, not natural damage.
 
-        Runner says, "Messages — territory markers. Warnings."
+        Runner says, "Messages." Vines hover near the patterns, wanting to trace them. "Territory markers. Warnings. The gouges are deep—I can feel the displaced bark from here. Angry cuts. Very deliberate."
 
-        Vines trace the patterns without touching.
+        "They weren't here yesterday," Velvet observes. Velvet maintains the boundary plants and would have noticed.
 
-        Velvet says, "They weren't here yesterday." Velvet maintains the boundary plants and would have noticed.
-
-        The marks are aggressive — sharp angles, deep gouges. Not "please respect this boundary." More like "this territory is claimed and you're not welcome."
+        The marks feel aggressive—sharp angles, deep gouges. Not a polite 'please respect this boundary.' More like 'this territory is claimed and you're not welcome.'
 
         Holloway asks, "How many markers?"
 
-        Scout bounces, indicating direction — many, all around the eastern perimeter.
+        Scout bounces again, indicating direction. Many. All around the eastern perimeter.
 
-        Remedy says, "They're organizing — the hostile plants who oppose helping Kira. They're making it official."
+        Remedy says quietly, "They're organizing—those hostile plants who oppose helping Kira. They're making it official."
 
-        I feel a chill. I knew some plants didn't like me being here — that's been clear from the beginning. But organized opposition, marking territory, that's different. That's coordinated.
+        I feel a chill. I knew some plants didn't like me being here—that's been clear from the beginning. But organized opposition, marking territory, that's different. That's coordinated.
 
-        I say, "*We can't relocate.*"
+        I ask, "What do they want?"
 
-        Holloway agrees, "No. We can't."
+        Florence positions her wheeled platform near the marks, Elder Twist's pot swaying slightly on her back. "Unclear," she says. "But deliberate boundary marking is aggressive behavior. They're claiming this area, possibly preparing to push us out."
 
-        Runner asks, "So what do we do?"
+        The word "relocate" lands in my chest—abandon the facility, the medical equipment, the environmental controls, the infrastructure that's keeping me alive.
 
-        Everyone looks at each other. This is new — external threat, organized opposition, need for coordinated response. We've been focused inward — figuring out how to help me, learning to work together. Now something from outside is pushing back.
+        I say, *"We can't relocate."*
+
+        Holloway replies, *"No. We can't."*
+
+        Runner's vines coil tight with tension. She tests the ground beside her—hard, packed soil, she notes without thinking.
+
+        Everyone looks at each other. This is new: an external threat, organized opposition, a need for a coordinated response. We've been focused inward—figuring out how to help me, learning to work together. Now something from outside is pushing back.
 
         Holloway says, "We need counsel. Florence, what does Elder Twist advise?"
 
-        Florence settles more firmly, the way she does when consulting Elder Twist. Elder Twist's pot sways slightly on Florence's back. There's a pause — appropriate for letting Elder Twist's slow processes work.
+        Florence settles into the way she does when consulting Elder Twist and waits for the elder's slow processes.
 
         ¶
 
-        Then Florence speaks.
+        Florence speaks after the pause.
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: Calm, deliberate narration with moments of tense urgency; keep pacing steady and clear, quickening slightly for urgent beats.
+        Overall tone &amp; pacing: Steady, quietly tense; keep a measured pace with quickening energy when the group realizes the threat.
 
-        - Read "Scout comes bouncing in fast — the urgent bounce, not the happy bounce." with a light, quick rhythm on "urgent bounce" to convey motion.
-        - Read "Holloway says, "Show us."" with calm authority and a slight pause before the quote.
-        - When reading Runner's line "Runner says, "Messages — territory markers. Warnings."" drop to a quieter, curious tone for "territory markers. Warnings."
-        - Read Remedy's line "Remedy says, "They're organizing — the hostile plants who oppose helping Kira. They're making it official."" softly — low volume and measured pace to suggest concern.
-        - Emphasize the narrator's line "I say, "*We can't relocate.*"" — deliver it as a firm, forceful statement (louder, resolute).
-        - For "There's a pause — appropriate for letting Elder Twist's slow processes work." lengthen the breathing space; then insert the dramatic pause marker paragraph ("¶") and hold a noticeably long silence before continuing.
-        - Keep dialog lines on their own; after every quoted line, return to the narrator's baseline tone unless otherwise noted.
+        - Read the opening lines with a neutral, narrative cadence until "Scout bounces in fast—the urgent bounce, not the happy bounce." Emphasize "urgent" with a slightly sharper attack.
+        - For the narrator's questions like "Hostile plants?" and "What do they want?" use a curious, rising tone.
+        - When quoting characters, place those lines on their own and shift slightly to a more immediate, present-tense delivery. For example, read "Holloway says, 'Show us.'" with attention and authority.
+        - Make "We can't relocate." and Holloway's response *bold*—deliver these lines more forcefully, a brief increase in volume and firmness.
+        - For Runner and Remedy's observations, adopt a quieter, tense tone—these are more diagnostic lines.
+        - Insert a long, dramatic pause at the paragraph containing only "¶" before Florence speaks; hold silence for a noticeable beat to let the elder's deliberation register.
+        - Holloway's lines should be fluted—use a slight vocal timbre change to suggest musical, woodwind tones while keeping clarity (subtle, not theatrical).
       </stage-directions>
     </chunk>
     <chunk>
       <text>
-        Florence says, "Elder Twist counsels patience and clear boundaries — the hostile plants fear disruption and see Kira as a threat to stability. We must demonstrate that our presence doesn't threaten theirs. Maintain our boundary respectfully — don't expand — make peaceful intentions visible through actions. De-escalate through consistency, not confrontation."
+        Florence channels Elder Twist: "Elder Twist counsels patience and clear boundaries. The hostile plants fear disruption and see Kira as a threat to stability. We must show our presence does not threaten theirs—maintain our boundary respectfully, do not expand it; make peaceful intentions visible through actions. De-escalate through consistency, not confrontation."
 
-        That actually sounds wise — not flashy, not aggressive, but practical. Show we're not a threat, reduce their fear, let tensions ease naturally.
+        That actually sounds wise—not flashy, not aggressive, but practical: show we're not a threat, reduce their fear, let tensions ease naturally.
 
-        Florence continues, using the same voice she reserves for Elder Twist, "We should send a delegation — not aggressive, but clear. Explain that we're not expanding territory, just maintaining this facility for Kira's survival. Hostile plants may accept coexistence if we demonstrate non-threat."
+        Florence says, "We should send a delegation. Not aggressive, but clear—explain that we are not expanding territory, only maintaining this facility for Kira's survival. Hostile plants may accept coexistence if we demonstrate we are not a threat."
 
-        Holloway says, "That aligns with network conflict resolution practices — boundaries work when both sides respect them. We've been respectful — maybe we just need to make that more explicit."
+        Holloway replies, "That aligns with network conflict resolution practices—boundaries work when both sides respect them. We've been respectful; maybe we just need to make that more explicit."
 
-        Runner offers, "I could go — underground access, less visible approach. Show peaceful intentions."
+        Runner offers, vines probing the soil nearby—testing for the underground routes she knows by touch: "I could go. Underground access, less visible approach—the tunnels on that side are firm, good for travel. Show peaceful intentions."
 
-        I add, "With me — if I'm the issue, let them see I'm not actually threatening."
+        I add, "With me. If I'm the issue, they should see I'm not actually threatening."
 
-        Holloway says, "Let me think about delegation composition — but yes, Elder Twist's counsel is sound. De-escalate through clarity, not confrontation."
+        Holloway says, "Let me think about delegation composition—but yes, Elder Twist's counsel is sound. De-escalate through clarity, not confrontation."
 
-        Scout bounces agreement. Velvet murmurs acceptance. Remedy's edges relax slightly.
+        Scout bounces agreement; Velvet murmurs acceptance; Remedy's edges relax slightly.
 
         It's a good, sensible plan.
 
-        Florence's platform shifts — satisfaction, maybe relief. Elder Twist's guidance seems to be helping again.
+        Florence's platform shifts—satisfaction, maybe relief. Her flowers warm to soft orange, petals opening with what looks like genuine pleasure. Elder Twist's guidance seems to be helping again.
 
-        We're discussing practical details — who goes, what message exactly, timing — when Elder Twist actually speaks.
+        We're discussing practical details—who goes, what message exactly, timing—when the plant in the pot speaks.
 
-        Elder Twist says, "Water… light… three days… roots remember…"
+        ¶
+
+        The voice is different from Florence's interpretations: slower, more fragmented, coming from the actual plant rather than through Florence's translation.
+
+        Elder Twist says, "Water... light... three days... roots remember..."
 
         Everyone stops.
 
-        ¶
+        Florence's platform goes very still; her flowers pale as the warm orange drains toward cream and the petals pull inward.
 
-        Florence's platform goes very still.
+        Elder Twist continues, "Deep... before... not after... Growth... downward... patient..."
 
-        Elder Twist continues, "Deep… before… not after… — Growth… downward… patient…"
+        That's not about boundaries. That's not about hostile plants—it's answering a different question.
 
-        That's not about boundaries. That's not about the hostile plants. That sounds like Elder Twist answering a completely different question.
+        Holloway asks carefully, "Elder Twist? We're asking about the hostile plant territorial marking."
 
-        Holloway says carefully, "Elder Twist? We're asking about the hostile plant territorial marking."
+        Elder Twist repeats, "Three days... Question was... water and light... growth patterns... answered now..."
 
-        Elder Twist repeats, "Three days… — Question was… water and light… growth patterns… answered now…"
+        Florence makes a small sound—distress, a quiet realization.
 
-        Florence makes a small sound — distress, realization.
-
-        Remedy says slowly, "Three days ago — Velvet asked about optimal growth patterns for the boundary plants — about light and water timing."
-
-        Velvet confirms, "Yes — I asked Elder Twist — didn't get an answer yet."
-
-        Until now. Elder Twist is answering Velvet's three-day-old question about plant growth, not responding to anything about hostile plants or territorial conflict.
-
-        Which means the "counsel" Florence just provided…
-
-        Holloway says, voice very controlled, "Florence — Elder Twist is answering Velvet's question from three days ago."
+        Remedy says slowly, "Three days ago, Velvet asked about optimal growth patterns for the boundary plants—about light and water timing."
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: Calm, deliberate narration with a shift to tense confusion when Elder Twist actually speaks; keep pacing measured, insert a long dramatic pause after Elder Twist's first line.
+        Overall tone &amp; pacing: Measured and quietly tense, with moments of soft reassurance as the group agrees, then a sudden hush and caution when the plant speaks.
 
-        - Read "Florence says, "Elder Twist counsels..."" with a calm, slightly formal translation tone — measured and clear.
-        - On the narrator line "That actually sounds wise — not flashy..." soften and humanize the voice; a small approving lift on "wise."
-        - For Runner's line "Runner offers, "I could go — underground access..."" use a quieter, practical tone.
-        - When reading Elder Twist's voice lines ("Water… light… three days…" and the follow-up), slow down considerably and make each fragment feel ancient and fragmented — distinct from Florence's translation voice.
-        - After Elder Twist's first line, hold the dramatic pause paragraph "¶" as a long silence to let the room reaction land.
-        - Read Remedy's and Holloway's later lines with slow clarity — Remedy measured and deliberate; Holloway controlled, a chill precision.
-        - Keep all quoted lines on their own; after each quote, return to the narrator baseline unless otherwise specified above.
+        - Read the opening line as a calm attribution: emphasize "Florence channels Elder Twist:" before the quote so listeners know the voice is Florence's interpretation.
+        - Deliver the quoted counsel with steady, deliberate pacing; allow medium pauses (—) at the marked em dashes as natural breaths.
+        - For short narrative reactions like "That actually sounds wise..." adopt a softer, reflective tone; compress the two short sentences into a single fluid phrase.
+        - When quoting characters, place each quoted block on its own line and lead with the speaker: e.g., "Florence says:" "Holloway replies:". Slightly alter tone for each speaker—Holloway with a fluted timbre (subtle, musical), Runner quieter and tactile, the narrator neutral.
+        - Insert a dramatic pause (read as silence) at the paragraph containing only "¶" before the plant actually speaks; hold this beat longer than a normal pause.
+        - When Elder Twist speaks, slow the pacing, use sparse, fragmented delivery with ellipses—read each fragment as if the voice is ancient and deliberate.
+        - For small physical cues inside narration: make them brief stage notes—e.g., "vines probing the soil nearby"—spoken as part of the sentence but slightly softer than dialog lines.
+        - When the room goes silent and reactions happen, drop to a quiet register; Florence's reaction should sound small, immediate, and inward.
       </stage-directions>
     </chunk>
     <chunk>
       <text>
-        Florence says, "Yes."
+        Velvet confirms: "Yes—asked Elder Twist. Didn't get answer yet."
 
-        Another voice says, "But you just gave us Elder Twist's counsel — about the hostile plants, about de-escalation and delegation."
+        Narrator: Until now, Elder Twist is answering Velvet's three-day-old question about plant growth, not responding to anything about hostile plants or territorial conflict.
+
+        Narrator: Which means the "counsel" Florence just provided...
+
+        Holloway says, voice very controlled: "Florence—Elder Twist is answering Velvet's question from three days ago."
+
+        Florence says quietly: "Yes."
+
+        Holloway says: "But you just gave us Elder Twist's counsel. About the hostile plants. About de-escalation and delegation."
+
+        Silence.
+
+        Runner (vines tight, coiled): "Florence—did Elder Twist actually provide that guidance?"
+
+        Florence begins: "I..."
+
+        She stops.
 
         ¶
 
-        Runner — vines tight — asks, "Florence — did Elder Twist actually provide that guidance?"
+        Holloway says, tone sharpening: "Florence—how much of Elder Twist's 'wisdom' have you actually been interpreting versus creating?"
 
-        Florence starts, "I…"
+        Florence protests defensively: "The advice was sound! It WAS good counsel—"
 
-        The silence stretches.
+        Holloway says flatly: "That's not what I asked."
 
-        ¶
+        Narrator: Florence's wheeled platform trembles slightly. Her flowers shift darker, an uncomfortable purple-red—petals tightening in a defensive curl.
 
-        Holloway — voice dangerous — asks, "How much of Elder Twist's 'wisdom' have you actually been interpreting versus…creating?"
+        Florence, barely above a whisper: "Most of it. Most of Elder Twist's wisdom was...mine. My thoughts. My guidance. I just...I used Elder Twist's authority to make them heard."
 
-        Florence finally admits, "Most of it… most of Elder Twist's wisdom was—mine—my thoughts—my guidance. I just… used Elder Twist's authority to make them heard."
+        Narrator: Oh no—OH NO.
 
-        Oh no.
+        Velvet asks, simple and direct: "You've been lying?"
 
-        OH NO.
+        Florence protests: "Not lying! The advice was good! It helped! I was just—"
 
-        Velvet asks, "You've been lying?"
+        Holloway, voice shaking now: "You fabricated wisdom from an elder. You put words in Elder Twist's...roots. Made us believe we had guidance when it was just you hiding behind authority."
 
-        Florence protests, "Not lying! The advice was good — it helped! I was just—"
+        Remedy says quietly: "The guidance was sound."
 
-        Holloway interrupts, "You fabricated wisdom from an elder — you put words in Elder Twist's… roots. Made us believe we had guidance when it was just you hiding behind authority."
+        Florence: "I didn't lie, I just—"
 
-        Florence insists, "The guidance was *SOUND*. You're missing the point—"
+        Holloway, flat: "You fabricated authority. Repeatedly. How long, Florence? How long have you been doing this?"
 
-        Runner says sharply, "*YOU'RE* missing the point. We trusted Elder Twist. Not you."
+        Runner asks, to Florence: "Since the beginning? All those times you consulted Elder Twist?"
 
-        The accusation hangs in the air.
+        Narrator: Florence doesn't answer. That refusal is answer enough.
 
-        Florence's wheeled platform rocks back, stung. "My judgment wasn't good enough? My advice needed an elder's name to matter?" she asks.
+        Narrator: Scout's bouncing goes still—distressed stillness. They don't understand every implication, but they understand betrayal.
 
-        Holloway begins, "That's not—"
-
-        Florence's voice rises, "That *IS* the point! I knew what to say — I had good instincts — but none of you would listen to *ME*, so I gave you what you needed to hear it — authority — and it *WORKED*. The advice helped!"
-
-        Remedy says quietly, "While you lied to us."
-
-        Florence replies, "I didn't lie, I just—"
-
-        Holloway says flatly, "You fabricated authority. Repeatedly. How long, Florence? How long have you been doing this?"
-
-        Florence doesn't answer.
-
-        Runner asks, "Since the beginning? All those times you consulted Elder Twist?"
-
-        Still no answer — which is answer enough.
-
-        Scout's bouncing has gone still — distressed stillness. They don't yet grasp the full scope, but they understand betrayal.
-
-        Holloway says, "We need to discuss this. Properly. But first — Florence, leave Elder Twist here. If the elder has actual wisdom to provide, it should come directly. Not through you."
-
-        Florence tries, "I can interpret —"
-
-        Holloway says firmly, "No. You've lost that privilege. Leave Elder Twist with us."
-
-        The words are harsh, formal — hurt, not bureaucracy.
-
-        Florence carefully maneuvers Elder Twist's pot off her platform and sets it gently near Holloway. The elder settles, unaware of the conflict around them.
-
-        Holloway says, "We'll reconvene tonight — discuss both the hostile plant threat AND this… deception. Florence — I suggest you think carefully about what you want to say."
+        Holloway says: "We need to discuss this properly. But first—Florence, leave Elder Twist here. If the elder has actual wisdom to provide, it should come directly. Not through you."
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: Tense, measured confrontation that escalates to hurt and accusation; pace should be deliberate with clear beats and a few sudden rises in volume for anger.
+        Overall tone &amp; pacing: Tense, controlled, and increasingly accusing. Start measured and quiet; allow the scene to build into a sharper confrontation, with a few held beats for impact.
 
-        - Read "Florence says, "Yes."" quietly, restrained — Florence is apologetic/defensive here.
-        - On "Another voice says, "But you just gave us..."" use a neutral, questioning tone to identify the challenge — not accusatory yet.
-        - Hold a long dramatic pause (¶) after the first challenge and again after "The silence stretches." — let the reaction land.
-        - Read "Holloway — voice dangerous — asks" with a colder, sharper edge; this is the first real confrontation.
-        - Florence's multi-beat confessions should be one continuous, hesitant block — use breathy, faltering delivery on the ellipses and em dashes.
-        - For sudden anger (lines marked with *bold*), increase volume and force — e.g., "The guidance was *SOUND*." and Runner's "*YOU'RE* missing the point." — then immediately return to baseline narration.
-        - When Holloway orders "Leave Elder Twist with us," make this firm, final — then soften slightly on the closing line about reconvening tonight (formal, but wounded).
+        - Read the opening "Velvet confirms:" line calm and factual; treat it as attribution before the quote.
+        - When narrating the explanatory lines ("Until now...", "Which means...") use a neutral, slightly slowed tone to let the implication register.
+        - For "Holloway says, voice very controlled:" adopt a fluted, musical timbre—clear and restrained; keep a medium pause (—) where printed.
+        - Read Runner's line quieter, tactile, with a hint of tension, and include the small physical note softly ("vines tight, coiled").
+        - Insert a long silent beat at the paragraph containing only "¶"—hold this silence longer than the other pauses.
+        - Florence's confession should start small and inward; let voice thin on the whisper lines and allow short hesitant beats ( and  or ) where printed.
+        - When the accusation escalates (lines in bold in text), raise volume and edge—Holloway's later lines should be shakier and more cutting. Remedy and Runner should be distinct: Remedy softer, Runner direct and probing.
+        - End with firm, controlled authority on Holloway's final line—stop cleanly after the last sentence.
+
+        Note: The same narrator reads all parts but shifts register, volume, and pace for each character. Use the printed em dashes (—) and the paragraph-only "¶" as explicit pause markers.
       </stage-directions>
     </chunk>
     <chunk>
       <text>
-        Florence doesn't respond — she wheels away slowly, alone for the first time since I've known her. She always carried Elder Twist; that was her role, her identity. Now she's just Florence — no borrowed authority. And from the slump of her platform, she's realizing what that means.
+        Holloway says, (firmly) "No. You've lost that privilege. Leave Elder Twist with us."
+
+        The words are harsh and formal. This isn't Holloway being bureaucratic—this is Holloway being something else; not exactly hurt, and I'm not sure Holloway would call it that. Their fruiting bodies have dimmed—the warm bioluminescence gone gray at the edges, as if something vital has been drained. Whatever Holloway feels, they do not yet have words for it.
+
+        Florence wheels toward Elder Twist. Her tendrils hover over the pot's housing—the housing that's been part of her platform longer than I've known her. Her flowers have gone almost white, drained of all color.
+
+        She lifts the pot. Her platform tilts slightly without the familiar weight, listing to one side like something essential has been removed. She holds Elder Twist for a long moment, and I watch her flowers shiver—a ripple like grief moving through those pale petals.
+
+        She sets the elder gently near Holloway, then steps back. The elder settles, unaware of the conflict around them.
+
+        Holloway says, "We'll reconvene tonight. Discuss both the hostile plant threat *AND* this… deception. Florence, I suggest you think carefully about what you want to say."
+
+        Florence does not respond; she wheels away slowly, alone for the first time since I've known her. She always carried Elder Twist. That was her role and her identity. Her platform still lists—not broken, simply empty where it shouldn't be.
+
+        Now she's just Florence. No borrowed authority. Her flowers are closed tight, every petal pulled inward.
+
+        ¶
 
         After she's gone, we all stand in uncomfortable silence.
-        ¶
-        I finally say, "The advice about de-escalation… was it actually good advice?"
 
-        Holloway — tired — says, "That's not the point, Kira."
+        I say, "The advice about de-escalation — was it actually good advice?"
 
-        I say, "I know it's not *the* point — but is it *a* point? Was the guidance Florence gave, whatever the source — was it sound?"
+        Holloway says, (tired) "That's not the point, Kira."
 
-        Holloway — frustrated — says, "Yes, probably — Florence has good tactical instincts — but—"
+        I say, "I know it's not THE point. But is it A point? Was the guidance Florence gave—whatever the source—was it sound?"
 
-        Remedy says, "But she lied — and we can't trust lies, even if they're useful."
+        Holloway makes a frustrated sound. "Yes. Probably. Florence has good tactical instincts. But—"
+
+        Remedy says, "But she *lied*. And we can't trust lies, even if they're useful."
 
         I ask, "Can't we? Or can't you?"
 
         They all look at me.
 
-        I struggle to articulate this. "I mean… she gave good advice that helped. The source was false, but the content was valuable. For me, that matters."
+        I struggle to articulate it. "She gave good advice. Advice that helped. The source was false, but the content was valuable. For me, that matters."
 
-        Holloway — careful — says, "For us — the dishonesty matters. Authority frameworks require trust. She violated that."
+        Holloway says carefully, "For us, the *dishonesty* matters. Authority frameworks require trust. She violated that."
 
-        I point out, "But you just learned authority frameworks don't work — Elder Heartwood failed, the HR manuals failed — now you're saying Florence failed because she violated authority principles?"
+        I point out, "You just learned authority frameworks don't work. Elder Heartwood failed. The HR manuals failed. Now you're saying Florence failed because she violated authority principles?"
 
-        Holloway doesn't answer.
+        Holloway has no answer.
 
-        Runner — firm — says, "Tonight — we discuss this tonight. Right now, we still have hostile plants marking territory. Whatever Florence did, that threat is real."
+        Runner says firmly, "Tonight. We discuss this tonight. Right now, we still have hostile plants marking territory. Whatever Florence did, that threat is real."
 
-        Right. The actual crisis still exists; we've just added an internal crisis on top of it.
-
-        Scout presses against my leg — comfort, solidarity, confusion. They don't understand all the complexity, but they understand something's broken.
-
-        Holloway says, "Tonight — we'll figure out both problems. Somehow."
-
-        But as we disperse to handle immediate needs, I can feel the fracture — the trust we just built, learning to rely on ourselves instead of external authority, is damaged now. Internal betrayal hits exactly when we need cohesion.
-
-        The hostile plants are organized and threatening — and we just became significantly weaker.
+        Right. The actual crisis still exists. We've just layered an internal crisis on top of it.
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: Tense, measured, with a slow build from hurt to accusation; pause often to let lines land, then tighten pace for urgency.
+        Overall tone &amp; pacing: Tense and measured, with increasing edge; keep narration steady and let lines of accusation get sharper. Insert medium pauses for thought and one long silence when Florence leaves.
 
-        - Read the opening lines with a slow, resigned tone: "Florence doesn't respond — she wheels away slowly..."
-        - Hold a long dramatic pause at the lone-paragraph marker after "After she's gone, we all stand in uncomfortable silence." (there is a ¶ in the text).
-        - On "I finally say, "The advice about de-escalation…"" use a probing, quiet delivery that rises slightly on the trailing ellipsis.
-        - For speaker cues like "Holloway — tired — says," shift to a slightly colder, clipped voice for Holloway; use a frustrated edge when marked "frustrated." Keep Remedy calm but firm.
-        - When the narrator pushes back ("But you just learned authority frameworks don't work…") increase pace and tension — this is the argumentative peak.
-        - For Runner's lines (marked "— firm —") deliver with authority and a prickly urgency; let the threat-related sentences be brisk.
-        - Closing cadence: Firm terminal fall; decisive stop.
+        - Read "Holloway says, (firmly) \"No. You've lost that privilege...\"" with a flute-like, controlled quality—Holloway is restrained but authoritative.
+        - On "This isn't Holloway being bureaucratic—this is Holloway being something else;..." slow slightly and let the descriptive image register.
+        - For "She holds Elder Twist for a long moment..." use a softer, mournful tone; allow a gentle breath between that sentence and the next.
+        - At the paragraph containing only "¶" hold a long silent beat—the longest pause in the scene—before continuing.
+        - When speaking Florence's absence lines ("Now she's just Florence...") drop the volume and thin the voice to convey loss and emptiness.
+        - For dialogue lines marked (tired), (firmly), or (carefully), adopt the indicated tilt: tired = low and weary, firmly = steady and edged, carefully = deliberate, precise.
+        - Read Runner's final line "Tonight. We discuss this tonight..." clipped and urgent—short sentences, forward-leaning.
+      </stage-directions>
+    </chunk>
+    <chunk>
+      <text>
+        Scout presses against my leg—comfort, solidarity, confusion. They don't understand all the complexity, but they understand something's broken.
+
+        Holloway agrees—
+        "Tonight—We'll figure out both problems—somehow."
+
+        But as we disperse to handle immediate needs, I can feel the fracture—the trust we just built, learning to rely on ourselves instead of external authority, is damaged now. Internal betrayal hits exactly when we need cohesion.
+
+        The hostile plants are organized and threatening— and we just became *significantly weaker*.
+      </text>
+      <stage-directions>
+        Overall tone &amp; pacing: Tense, measured, quietly alarmed; keep narration steady with medium pauses and a firm, decisive ending.
+
+        - Read "Scout presses against my leg—comfort, solidarity, confusion." softly and intimately, as if kneeling beside the animal—gentle, close to the microphone.
+        - Pause slightly (medium pause) after "something's broken" to let the image settle before Holloway speaks.
+        - Read "Holloway agrees—" with the flute-like, musical quality noted earlier—restrained but carrying authority; then deliver the quoted line on its own as the speaker's statement.
+        - For the quoted line "Tonight—We'll figure out both problems—somehow." use short, edged beats—each em dash marks a medium pause; the final word "somehow" should be quieter, uncertain.
+        - When narrating "But as we disperse to handle immediate needs, I can feel the fracture—" slow slightly and let "fracture" register as a sharp word; follow with a medium pause.
+        - Read "Internal betrayal hits exactly when we need cohesion." with a firmer, almost bitter clarity—this is an accusation within the narrator's own chest.
+        - For the final line "The hostile plants are organized and threatening— and we just became *significantly weaker*." grow the sense of threat—darker tone on "hostile plants" and heavier emphasis on "*significantly weaker*"; finish with a firm terminal fall; decisive stop.
       </stage-directions>
     </chunk>
   </chunks>
@@ -267,205 +296,210 @@
     <word text="Elder Heartwood"/>
     <word text="Elder Twist"/>
     <word text="Florence"/>
+    <word text="Heartwood"/>
     <word text="Holloway"/>
     <word text="Kira"/>
     <word text="Remedy"/>
     <word text="Runner"/>
     <word text="Scout"/>
     <word text="Velvet"/>
+    <word text="bioluminescence"/>
   </unusual-pronunciations>
   <title>Elder Twist Speaks</title>
   <combined-text>
     Five days after we stopped waiting for Elder Heartwood's wisdom, we get our first real threat.
 
-    Scout comes bouncing in fast — the urgent bounce, not the happy bounce. I've learned the difference.
+    Scout bounces in fast—the urgent bounce, not the happy bounce. I've learned the difference.
 
-    I say, "Hostile plants?"
+    I ask, "Hostile plants?"
 
-    An emphatic bounce — yes. Scout just returned from perimeter patrol; they're agitated.
+    Scout bounces emphatically. Yes. Scout just returned from perimeter patrol and they're agitated.
 
     Holloway assembles everyone quickly. When Scout is this urgent, you listen.
 
     Holloway says, "Show us."
 
-    Scout leads us to the facility's eastern boundary. There, carved into the bark of a boundary tree, are marks — deliberate marks. Not natural damage.
+    Scout leads us to the facility's eastern boundary. There, carved into the bark of a boundary tree, are deliberate marks—intentional, not natural damage.
 
-    Runner says, "Messages — territory markers. Warnings."
+    Runner says, "Messages." Vines hover near the patterns, wanting to trace them. "Territory markers. Warnings. The gouges are deep—I can feel the displaced bark from here. Angry cuts. Very deliberate."
 
-    Vines trace the patterns without touching.
+    "They weren't here yesterday," Velvet observes. Velvet maintains the boundary plants and would have noticed.
 
-    Velvet says, "They weren't here yesterday." Velvet maintains the boundary plants and would have noticed.
-
-    The marks are aggressive — sharp angles, deep gouges. Not "please respect this boundary." More like "this territory is claimed and you're not welcome."
+    The marks feel aggressive—sharp angles, deep gouges. Not a polite 'please respect this boundary.' More like 'this territory is claimed and you're not welcome.'
 
     Holloway asks, "How many markers?"
 
-    Scout bounces, indicating direction — many, all around the eastern perimeter.
+    Scout bounces again, indicating direction. Many. All around the eastern perimeter.
 
-    Remedy says, "They're organizing — the hostile plants who oppose helping Kira. They're making it official."
+    Remedy says quietly, "They're organizing—those hostile plants who oppose helping Kira. They're making it official."
 
-    I feel a chill. I knew some plants didn't like me being here — that's been clear from the beginning. But organized opposition, marking territory, that's different. That's coordinated.
+    I feel a chill. I knew some plants didn't like me being here—that's been clear from the beginning. But organized opposition, marking territory, that's different. That's coordinated.
 
-    I say, "*We can't relocate.*"
+    I ask, "What do they want?"
 
-    Holloway agrees, "No. We can't."
+    Florence positions her wheeled platform near the marks, Elder Twist's pot swaying slightly on her back. "Unclear," she says. "But deliberate boundary marking is aggressive behavior. They're claiming this area, possibly preparing to push us out."
 
-    Runner asks, "So what do we do?"
+    The word "relocate" lands in my chest—abandon the facility, the medical equipment, the environmental controls, the infrastructure that's keeping me alive.
 
-    Everyone looks at each other. This is new — external threat, organized opposition, need for coordinated response. We've been focused inward — figuring out how to help me, learning to work together. Now something from outside is pushing back.
+    I say, *"We can't relocate."*
+
+    Holloway replies, *"No. We can't."*
+
+    Runner's vines coil tight with tension. She tests the ground beside her—hard, packed soil, she notes without thinking.
+
+    Everyone looks at each other. This is new: an external threat, organized opposition, a need for a coordinated response. We've been focused inward—figuring out how to help me, learning to work together. Now something from outside is pushing back.
 
     Holloway says, "We need counsel. Florence, what does Elder Twist advise?"
 
-    Florence settles more firmly, the way she does when consulting Elder Twist. Elder Twist's pot sways slightly on Florence's back. There's a pause — appropriate for letting Elder Twist's slow processes work.
+    Florence settles into the way she does when consulting Elder Twist and waits for the elder's slow processes.
 
-    Then Florence speaks.
+    Florence speaks after the pause.
 
-    Florence says, "Elder Twist counsels patience and clear boundaries — the hostile plants fear disruption and see Kira as a threat to stability. We must demonstrate that our presence doesn't threaten theirs. Maintain our boundary respectfully — don't expand — make peaceful intentions visible through actions. De-escalate through consistency, not confrontation."
+    Florence channels Elder Twist: "Elder Twist counsels patience and clear boundaries. The hostile plants fear disruption and see Kira as a threat to stability. We must show our presence does not threaten theirs—maintain our boundary respectfully, do not expand it; make peaceful intentions visible through actions. De-escalate through consistency, not confrontation."
 
-    That actually sounds wise — not flashy, not aggressive, but practical. Show we're not a threat, reduce their fear, let tensions ease naturally.
+    That actually sounds wise—not flashy, not aggressive, but practical: show we're not a threat, reduce their fear, let tensions ease naturally.
 
-    Florence continues, using the same voice she reserves for Elder Twist, "We should send a delegation — not aggressive, but clear. Explain that we're not expanding territory, just maintaining this facility for Kira's survival. Hostile plants may accept coexistence if we demonstrate non-threat."
+    Florence says, "We should send a delegation. Not aggressive, but clear—explain that we are not expanding territory, only maintaining this facility for Kira's survival. Hostile plants may accept coexistence if we demonstrate we are not a threat."
 
-    Holloway says, "That aligns with network conflict resolution practices — boundaries work when both sides respect them. We've been respectful — maybe we just need to make that more explicit."
+    Holloway replies, "That aligns with network conflict resolution practices—boundaries work when both sides respect them. We've been respectful; maybe we just need to make that more explicit."
 
-    Runner offers, "I could go — underground access, less visible approach. Show peaceful intentions."
+    Runner offers, vines probing the soil nearby—testing for the underground routes she knows by touch: "I could go. Underground access, less visible approach—the tunnels on that side are firm, good for travel. Show peaceful intentions."
 
-    I add, "With me — if I'm the issue, let them see I'm not actually threatening."
+    I add, "With me. If I'm the issue, they should see I'm not actually threatening."
 
-    Holloway says, "Let me think about delegation composition — but yes, Elder Twist's counsel is sound. De-escalate through clarity, not confrontation."
+    Holloway says, "Let me think about delegation composition—but yes, Elder Twist's counsel is sound. De-escalate through clarity, not confrontation."
 
-    Scout bounces agreement. Velvet murmurs acceptance. Remedy's edges relax slightly.
+    Scout bounces agreement; Velvet murmurs acceptance; Remedy's edges relax slightly.
 
     It's a good, sensible plan.
 
-    Florence's platform shifts — satisfaction, maybe relief. Elder Twist's guidance seems to be helping again.
+    Florence's platform shifts—satisfaction, maybe relief. Her flowers warm to soft orange, petals opening with what looks like genuine pleasure. Elder Twist's guidance seems to be helping again.
 
-    We're discussing practical details — who goes, what message exactly, timing — when Elder Twist actually speaks.
+    We're discussing practical details—who goes, what message exactly, timing—when the plant in the pot speaks.
 
-    Elder Twist says, "Water… light… three days… roots remember…"
+    The voice is different from Florence's interpretations: slower, more fragmented, coming from the actual plant rather than through Florence's translation.
+
+    Elder Twist says, "Water... light... three days... roots remember..."
 
     Everyone stops.
 
-    Florence's platform goes very still.
+    Florence's platform goes very still; her flowers pale as the warm orange drains toward cream and the petals pull inward.
 
-    Elder Twist continues, "Deep… before… not after… — Growth… downward… patient…"
+    Elder Twist continues, "Deep... before... not after... Growth... downward... patient..."
 
-    That's not about boundaries. That's not about the hostile plants. That sounds like Elder Twist answering a completely different question.
+    That's not about boundaries. That's not about hostile plants—it's answering a different question.
 
-    Holloway says carefully, "Elder Twist? We're asking about the hostile plant territorial marking."
+    Holloway asks carefully, "Elder Twist? We're asking about the hostile plant territorial marking."
 
-    Elder Twist repeats, "Three days… — Question was… water and light… growth patterns… answered now…"
+    Elder Twist repeats, "Three days... Question was... water and light... growth patterns... answered now..."
 
-    Florence makes a small sound — distress, realization.
+    Florence makes a small sound—distress, a quiet realization.
 
-    Remedy says slowly, "Three days ago — Velvet asked about optimal growth patterns for the boundary plants — about light and water timing."
+    Remedy says slowly, "Three days ago, Velvet asked about optimal growth patterns for the boundary plants—about light and water timing."
 
-    Velvet confirms, "Yes — I asked Elder Twist — didn't get an answer yet."
+    Velvet confirms: "Yes—asked Elder Twist. Didn't get answer yet."
 
-    Until now. Elder Twist is answering Velvet's three-day-old question about plant growth, not responding to anything about hostile plants or territorial conflict.
+    Narrator: Until now, Elder Twist is answering Velvet's three-day-old question about plant growth, not responding to anything about hostile plants or territorial conflict.
 
-    Which means the "counsel" Florence just provided…
+    Narrator: Which means the "counsel" Florence just provided...
 
-    Holloway says, voice very controlled, "Florence — Elder Twist is answering Velvet's question from three days ago."
+    Holloway says, voice very controlled: "Florence—Elder Twist is answering Velvet's question from three days ago."
 
-    Florence says, "Yes."
+    Florence says quietly: "Yes."
 
-    Another voice says, "But you just gave us Elder Twist's counsel — about the hostile plants, about de-escalation and delegation."
+    Holloway says: "But you just gave us Elder Twist's counsel. About the hostile plants. About de-escalation and delegation."
 
-    Runner — vines tight — asks, "Florence — did Elder Twist actually provide that guidance?"
+    Silence.
 
-    Florence starts, "I…"
+    Runner (vines tight, coiled): "Florence—did Elder Twist actually provide that guidance?"
 
-    The silence stretches.
+    Florence begins: "I..."
 
-    Holloway — voice dangerous — asks, "How much of Elder Twist's 'wisdom' have you actually been interpreting versus…creating?"
+    She stops.
 
-    Florence finally admits, "Most of it… most of Elder Twist's wisdom was—mine—my thoughts—my guidance. I just… used Elder Twist's authority to make them heard."
+    Holloway says, tone sharpening: "Florence—how much of Elder Twist's 'wisdom' have you actually been interpreting versus creating?"
 
-    Oh no.
+    Florence protests defensively: "The advice was sound! It WAS good counsel—"
 
-    OH NO.
+    Holloway says flatly: "That's not what I asked."
 
-    Velvet asks, "You've been lying?"
+    Narrator: Florence's wheeled platform trembles slightly. Her flowers shift darker, an uncomfortable purple-red—petals tightening in a defensive curl.
 
-    Florence protests, "Not lying! The advice was good — it helped! I was just—"
+    Florence, barely above a whisper: "Most of it. Most of Elder Twist's wisdom was...mine. My thoughts. My guidance. I just...I used Elder Twist's authority to make them heard."
 
-    Holloway interrupts, "You fabricated wisdom from an elder — you put words in Elder Twist's… roots. Made us believe we had guidance when it was just you hiding behind authority."
+    Narrator: Oh no—OH NO.
 
-    Florence insists, "The guidance was *SOUND*. You're missing the point—"
+    Velvet asks, simple and direct: "You've been lying?"
 
-    Runner says sharply, "*YOU'RE* missing the point. We trusted Elder Twist. Not you."
+    Florence protests: "Not lying! The advice was good! It helped! I was just—"
 
-    The accusation hangs in the air.
+    Holloway, voice shaking now: "You fabricated wisdom from an elder. You put words in Elder Twist's...roots. Made us believe we had guidance when it was just you hiding behind authority."
 
-    Florence's wheeled platform rocks back, stung. "My judgment wasn't good enough? My advice needed an elder's name to matter?" she asks.
+    Remedy says quietly: "The guidance was sound."
 
-    Holloway begins, "That's not—"
+    Florence: "I didn't lie, I just—"
 
-    Florence's voice rises, "That *IS* the point! I knew what to say — I had good instincts — but none of you would listen to *ME*, so I gave you what you needed to hear it — authority — and it *WORKED*. The advice helped!"
+    Holloway, flat: "You fabricated authority. Repeatedly. How long, Florence? How long have you been doing this?"
 
-    Remedy says quietly, "While you lied to us."
+    Runner asks, to Florence: "Since the beginning? All those times you consulted Elder Twist?"
 
-    Florence replies, "I didn't lie, I just—"
+    Narrator: Florence doesn't answer. That refusal is answer enough.
 
-    Holloway says flatly, "You fabricated authority. Repeatedly. How long, Florence? How long have you been doing this?"
+    Narrator: Scout's bouncing goes still—distressed stillness. They don't understand every implication, but they understand betrayal.
 
-    Florence doesn't answer.
+    Holloway says: "We need to discuss this properly. But first—Florence, leave Elder Twist here. If the elder has actual wisdom to provide, it should come directly. Not through you."
 
-    Runner asks, "Since the beginning? All those times you consulted Elder Twist?"
+    Holloway says, (firmly) "No. You've lost that privilege. Leave Elder Twist with us."
 
-    Still no answer — which is answer enough.
+    The words are harsh and formal. This isn't Holloway being bureaucratic—this is Holloway being something else; not exactly hurt, and I'm not sure Holloway would call it that. Their fruiting bodies have dimmed—the warm bioluminescence gone gray at the edges, as if something vital has been drained. Whatever Holloway feels, they do not yet have words for it.
 
-    Scout's bouncing has gone still — distressed stillness. They don't yet grasp the full scope, but they understand betrayal.
+    Florence wheels toward Elder Twist. Her tendrils hover over the pot's housing—the housing that's been part of her platform longer than I've known her. Her flowers have gone almost white, drained of all color.
 
-    Holloway says, "We need to discuss this. Properly. But first — Florence, leave Elder Twist here. If the elder has actual wisdom to provide, it should come directly. Not through you."
+    She lifts the pot. Her platform tilts slightly without the familiar weight, listing to one side like something essential has been removed. She holds Elder Twist for a long moment, and I watch her flowers shiver—a ripple like grief moving through those pale petals.
 
-    Florence tries, "I can interpret —"
+    She sets the elder gently near Holloway, then steps back. The elder settles, unaware of the conflict around them.
 
-    Holloway says firmly, "No. You've lost that privilege. Leave Elder Twist with us."
+    Holloway says, "We'll reconvene tonight. Discuss both the hostile plant threat *AND* this… deception. Florence, I suggest you think carefully about what you want to say."
 
-    The words are harsh, formal — hurt, not bureaucracy.
+    Florence does not respond; she wheels away slowly, alone for the first time since I've known her. She always carried Elder Twist. That was her role and her identity. Her platform still lists—not broken, simply empty where it shouldn't be.
 
-    Florence carefully maneuvers Elder Twist's pot off her platform and sets it gently near Holloway. The elder settles, unaware of the conflict around them.
-
-    Holloway says, "We'll reconvene tonight — discuss both the hostile plant threat AND this… deception. Florence — I suggest you think carefully about what you want to say."
-
-    Florence doesn't respond — she wheels away slowly, alone for the first time since I've known her. She always carried Elder Twist; that was her role, her identity. Now she's just Florence — no borrowed authority. And from the slump of her platform, she's realizing what that means.
+    Now she's just Florence. No borrowed authority. Her flowers are closed tight, every petal pulled inward.
 
     After she's gone, we all stand in uncomfortable silence.
 
-    I finally say, "The advice about de-escalation… was it actually good advice?"
+    I say, "The advice about de-escalation — was it actually good advice?"
 
-    Holloway — tired — says, "That's not the point, Kira."
+    Holloway says, (tired) "That's not the point, Kira."
 
-    I say, "I know it's not *the* point — but is it *a* point? Was the guidance Florence gave, whatever the source — was it sound?"
+    I say, "I know it's not THE point. But is it A point? Was the guidance Florence gave—whatever the source—was it sound?"
 
-    Holloway — frustrated — says, "Yes, probably — Florence has good tactical instincts — but—"
+    Holloway makes a frustrated sound. "Yes. Probably. Florence has good tactical instincts. But—"
 
-    Remedy says, "But she lied — and we can't trust lies, even if they're useful."
+    Remedy says, "But she *lied*. And we can't trust lies, even if they're useful."
 
     I ask, "Can't we? Or can't you?"
 
     They all look at me.
 
-    I struggle to articulate this. "I mean… she gave good advice that helped. The source was false, but the content was valuable. For me, that matters."
+    I struggle to articulate it. "She gave good advice. Advice that helped. The source was false, but the content was valuable. For me, that matters."
 
-    Holloway — careful — says, "For us — the dishonesty matters. Authority frameworks require trust. She violated that."
+    Holloway says carefully, "For us, the *dishonesty* matters. Authority frameworks require trust. She violated that."
 
-    I point out, "But you just learned authority frameworks don't work — Elder Heartwood failed, the HR manuals failed — now you're saying Florence failed because she violated authority principles?"
+    I point out, "You just learned authority frameworks don't work. Elder Heartwood failed. The HR manuals failed. Now you're saying Florence failed because she violated authority principles?"
 
-    Holloway doesn't answer.
+    Holloway has no answer.
 
-    Runner — firm — says, "Tonight — we discuss this tonight. Right now, we still have hostile plants marking territory. Whatever Florence did, that threat is real."
+    Runner says firmly, "Tonight. We discuss this tonight. Right now, we still have hostile plants marking territory. Whatever Florence did, that threat is real."
 
-    Right. The actual crisis still exists; we've just added an internal crisis on top of it.
+    Right. The actual crisis still exists. We've just layered an internal crisis on top of it.
 
-    Scout presses against my leg — comfort, solidarity, confusion. They don't understand all the complexity, but they understand something's broken.
+    Scout presses against my leg—comfort, solidarity, confusion. They don't understand all the complexity, but they understand something's broken.
 
-    Holloway says, "Tonight — we'll figure out both problems. Somehow."
+    Holloway agrees—
+    "Tonight—We'll figure out both problems—somehow."
 
-    But as we disperse to handle immediate needs, I can feel the fracture — the trust we just built, learning to rely on ourselves instead of external authority, is damaged now. Internal betrayal hits exactly when we need cohesion.
+    But as we disperse to handle immediate needs, I can feel the fracture—the trust we just built, learning to rely on ourselves instead of external authority, is damaged now. Internal betrayal hits exactly when we need cohesion.
 
-    The hostile plants are organized and threatening — and we just became significantly weaker.
+    The hostile plants are organized and threatening— and we just became *significantly weaker*.
   </combined-text>
 </passage-voice>
