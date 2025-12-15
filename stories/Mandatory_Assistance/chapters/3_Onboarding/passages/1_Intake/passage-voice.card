@@ -1,478 +1,596 @@
 <!-- Generated automatically, do not edit except with ske gen passage-voice -->
-<passage-voice version="2.2.2">
-  <ref ref="passage.card#v2.2.2"/>
-  <reasoning>I read the passage and applied the voiceover rules: merged very short sentences where they interrupted flow, put each spoken line (dialog) on its own line with a lead-in that identifies the speaker when the speaker might be ambiguous, converted emphasized words written with asterisks into _italics_ and marked louder lines with *bold*, kept multiple beats from the same speaker together as single dialog blocks with em dashes for intra-beat pauses, removed adverbial descriptors that should be handled as stage directions (left the actions but dropped adverbial adjectives like "enthusiastically" in the text), preserved meaning and detail, and used the pause markers specified (em dash for medium pause, ellipsis for hesitation, and a paragraph with only "¶" for a dramatic pause). I did not alter story content beyond these formatting adjustments.</reasoning>
+<passage-voice version="2.2.3">
+  <ref ref="passage.card#v2.2.3"/>
+  <reasoning>Reviewing the passage for voiceover: 1) Staccato sentences: several very short sentences break flow (e.g., "It's *alive*." "Just slightly. Breathing. Growing."). These were merged for smoother spoken pacing. 2) Dialog speaker clarity: some short quoted lines ("Oh my god.", "Buddy.") lacked a clear lead-in; I added lead-ins or combined lines so the speaker is obvious. 3) Ambiguous pronouns: minimal, but clarified references where the voice alone might confuse (e.g., who is addressing Buddy / Scout). 4) Pauses: places need explicit pause marks — especially after the clearing reveal and before Holloway speaks — and the intake beat; I added em dashes and a dramatic pause marker where useful. 5) Formal/stilted phrasing: bureaucratic lines read like forms; I kept content but smoothed sentence flow for natural speech. 6) Non-text/formatting: converted italics to the required double-angle quote form (« ») for emphasis, per instructions. Also moved gesture/volume adverbs into stage directions rather than inline.</reasoning>
   <content-change/>
   <chunks>
     <chunk>
       <text>
-        The forest opens into a clearing, and I stop dead.
-        I say, "Oh my god."
-        The facility isn't a building — not in any sense I understand the word "building." 
-        It's _alive_.
-        Massive woody vines, each thicker than my torso, weave together in impossible patterns to form walls, chambers, archways. The whole structure rises maybe three stories high, sprawling across the clearing like some enormous basket someone grew instead of built. Bioluminescent patches glow soft blue-green along the vines as the purple twilight deepens, providing light. And the entire thing moves — just slightly, breathing, growing.
-        Holloway's voice, a fluted, woodwind tone from multiple fruiting bodies around the entrance, sounds then carries:
-        "We're so pleased you're here!"
+        The forest opens into a clearing, and I stop dead. I say, "Oh my god."
+
+        The facility isn't a building, not in any sense I understand buildings. It's «alive». Massive woody vines—each thicker than my torso—weave together in impossible patterns, forming walls, chambers and archways. The whole structure rises maybe three stories high, sprawling across the clearing like some enormous basket someone grew instead of built. Bioluminescent patches glow soft blue-green along the vines, providing light as the purple twilight deepens. The entire thing moves—just slightly, breathing, growing.
+
+        Holloway says, "Welcome to Central Coordination! We're so pleased you're here!"
+
         Scout bounces ahead, tumbling toward one of the vine-gap doorways.
-        I say to Buddy, hushed, "Are you seeing this?"
-        Buddy says, "*It's a BUILDING made of PLANTS!* — How did they do that? — How does it stay together?"
-        Holloway replies, "Grew it! Over many seasons — the structural vines responded beautifully to coordination. Please, come inside!"
-        I'm grinning like an idiot — my leg hurts, the temporary treatment is holding but pain still leaks through.
-        Mav would lose his mind — this is better than anything in the Uncharted archives: living architecture, a building that _breathes_.
-        "Lead the way," I say, limping forward.
-        Inside, the chamber has smoothly curved walls formed by the woven vines; more bioluminescence provides gentle light. A flat vine surface, clearly shaped as a desk, occupies the center. Multiple fruiting bodies dot the space, all oriented toward me.
-        Holloway's voice softens then asks:
-        "Before we begin — how are you feeling? That leg looks painful. Do you need to rest first?"
-        The question catches me off guard — genuine concern beneath the bureaucracy.
-        I say, "I'm okay — really, the temporary treatment is helping."
-        Holloway says, "Good. Good." The fruiting bodies bob with what might be relief. "We'll get you proper medical care after intake. But if you need to stop at any point, just say so — we can always pause the forms."
-        ¶
-        Holloway continues:
-        "Speaking of which — Section One: Pre-Injury Activity Log. What were you doing in the thirty minutes before sustaining your current laceration?"
+
+        I whisper, "Buddy—are you seeing this?"
+
+        Buddy says, "*It's a BUILDING made of PLANTS!* How did they do that? How does it stay together?"
+
+        Holloway says, "Grew it—over many seasons. The structural vines responded beautifully to coordination. Please, come inside!"
+
+        My leg hurts—the temporary treatment is holding, but pain still leaks through—and I'm grinning like an idiot. Mav would lose his mind; this is better than anything in the Uncharted archives: living architecture, a building that «breathes».
+
+        I say, limping forward, "Lead the way."
+
+        Inside, the chamber has smoothly curved walls formed by the woven vines. More bioluminescence provides gentle light. A flat vine surface, clearly shaped to serve as a desk, occupies the center. Multiple fruiting bodies dot the space, all oriented toward me.
+
+        Holloway asks, "Before we begin—how are you feeling? That leg looks painful. Do you need to rest first?"
+
+        The question catches me off guard—genuine concern underneath all the bureaucracy.
+
+        I say, "I'm okay. Really. The temporary treatment is helping."
+
+        Holloway says, "Good. Good. We'll get you proper medical care after intake, but if you need to stop at any point, just say so—we can always pause the forms."
+
+        Holloway continues, "Speaking of which—Section One: Pre-Injury Activity Log. What were you doing in the thirty minutes before sustaining your current laceration?"
+
         I say, "I was… crashing? From orbit?"
-        Holloway replies, "Excellent — I'll note: high-velocity uncontrolled descent. And your safety equipment status at time of incident?"
+
+        Holloway says, "Excellent, I'll note high-velocity uncontrolled descent. And your safety equipment status at time of incident?"
+
         I say, "Everything was on fire."
+
         Holloway says, "Fire suppression systems: inadequate. Noted. Let's begin your full intake processing!"
-        I laugh, "Paperwork — of course there's paperwork."
-        Forms appear, not paper exactly but thin bark sheets with symbols pressed or carved into the surface. I lower myself carefully onto what might generously be called a seat. My leg thanks me.
+
+        I laugh. "Paperwork!" I say, "Of course there's paperwork."
+
+        Forms appear—not paper exactly, but thin bark sheets with symbols pressed or carved into the surface. I lower myself carefully onto what might generously be called a seat. My leg thanks me.
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: curious, awed, slightly breathless; keep the pace steady with room for small pauses on revelations and a warmer, bureaucratic rhythm for Holloway's lines.
+        Overall tone &amp; pacing: A mix of wide-eyed wonder and wry amusement, generally mid-paced with short spikes of astonishment and a few softer, sympathetic moments.
 
-        - Read the narration with a sense of wonder and increasing excitement; pause briefly after "It's _alive_." for emphasis.
-        - For "I say, "Oh my god."" use a quiet, stunned voice — a small, immediate reaction.
-        - When reading Holloway's lines, adopt a musical, fluting quality — light, bright, and slightly formal. Treat the entire Holloway blocks as coming from a single, multi-voiced source.
-        - Buddy's exclamations (the *bold* text) should be louder, breathy, and amazed; let the *bold* cue increase volume and energy.
-        - For the hesitation in "I was… crashing?" use a trailing hesitation on the ellipsis and then a sharper incline for "From orbit?"
-        - Use a clear, amused chuckle for "I laugh, "Paperwork — of course there's paperwork.""
-        - Mark the paragraph with only "¶" as a brief, noticeable silence before Holloway resumes — hold about 700ms before continuing.
+        - Read "I say, "Oh my god."" stunned and breathy, a beat of open-mouthed silence after "god." 
+        - For "Holloway says, "Welcome to Central Coordination!"" use a flute-like, musical quality—bright and slightly alien; do not attempt a harsh consonant tone (Holloway is fluting rather than speaking).
+        - For "Scout bounces ahead..." convey high energy and quickness—short, buoyant pacing on that line.
+        - Read "I whisper, "Buddy—are you seeing this?"" hushed, intimate—pull back volume and slow slightly on "are you seeing this?" to sell amazement.
+        - For Buddy's line starting "*It's a BUILDING made of PLANTS!*" push volume and excitement on the bolded segment—make this the loudest moment so far, then drop to curious rapid questions for the following sentences.
+        - When Holloway softens (lines that begin "Holloway asks" or "Holloway says" with concern), shift to a warmer, gentler tone—pace slightly slower, with clear diction on medical/bureaucratic terms.
+        - Insert a medium pause (—) where present in the text; treat the standalone "The question catches me off guard—genuine concern underneath all the bureaucracy." as a reflective, quieter beat.
+
+        Note: All lines are read by the same narrator; vary only volume, pitch, and pacing to indicate different speakers and emotional beats.
       </stage-directions>
     </chunk>
     <chunk>
       <text>
-        Buddy— "How are they producing written documentation? Did they learn that from the Human Resources manuals too?"
+        Buddy asks, fascinated—
+        "How are they producing written documentation? Did they learn that from the HR manuals too?"
 
-        Holloway— "We learned to form symbols! Very useful for record-keeping."
+        Holloway says, proud—
+        "We learned to form symbols! Very useful for record-keeping."
 
-        Holloway— "Now then—let's start with the Visitor Information Sheet. Full legal name?"
+        Holloway continues—
+        "Now then, let's start with the Visitor Information Sheet. Full legal name?"
 
-        I grin at the bark form and say— "Kira Voss."
+        I grin at the bark form.
+        "My ship. Which crashed."
 
-        Holloway— "Home address?"
+        Holloway replies—
+        "I see. I'll note: previous residence destroyed, current residence to be determined." In that cheerful, fluting tone—
+        "And what should I put for your current address?"
 
-        I answer— "My ship, which crashed."
+        "I don't have one yet. Maybe put 'currently homeless due to space crash'?"
 
-        Holloway— "I see. I'll note: previous residence destroyed, current residence to be determined." 
+        "We'll assign you temporary quarters! After orientation, of course."
 
-        Holloway— "And what should I put for your current address?"
+        "After orientation—naturally." I'm still smiling. Alien HR. *This is AMAZING.*
 
-        I say— "I don't have one yet. Maybe put 'currently homeless due to space crash'?"
+        Scout bounces and rolls closer. The small plant presses against my uninjured leg—gentle, encouraging. I reach down to touch the fuzzy surface.
+        "Hey, Buddy. Thanks for the moral support."
 
-        Holloway— "We'll assign you temporary quarters—after orientation, of course."
+        Holloway asks—
+        "Contact information?"
 
-        I say with a smile— "After orientation. Naturally." I'm still smiling at alien Human Resources—*This is AMAZING.*
+        "My communicator died with the ship. Maybe I can send smoke signals?"
 
-        Scout bounces and rolls closer. The small plant presses against my uninjured leg—gentle, encouraging. I reach down to touch the fuzzy surface and say to Scout— "Hey, buddy. Thanks for the moral support."
+        "Noted: communication devices unavailable due to incident."
 
-        Holloway— "Contact information?"
+        Buddy asks—
+        "Do the plants use communicators? How do they coordinate?"
 
-        I say— "My communicator died with the ship. Maybe I can send smoke signals?"
+        Holloway explains—
+        "The network! We're all connected. Very efficient!"
 
-        Holloway— "Noted: communication devices unavailable due to incident."
+        "That's so cool," Buddy says. "Can you feel what everyone else feels?"
 
-        Buddy— "Do the plants use communicators? How do they coordinate?"
+        "In a manner of speaking! It's complicated."
 
-        Holloway— "The network! We're all connected. Very efficient!"
+        I watch an AI and a plant network discuss collective consciousness while filling out intake forms. This is surreal. _This is wonderful._
 
-        Buddy— *"That's so cool.* Can you feel what everyone else feels?"
-
-        Holloway— "In a manner of speaking—it's complicated."
-
-        I watch an AI and a plant network discuss collective consciousness while I fill out intake forms—this is surreal and wonderful.
-
-        Holloway— "Next section: Emergency Contact Information."
+        Holloway reads aloud—
+        "Next section: Emergency Contact Information."
 
         ¶
 
-        I pause. My crew is dead—Captain Torres, Marcus, Lian—all gone. My family back on Terra Station might as well be in another universe, light years away and unreachable.
+        I pause—my crew is dead: Jensen and Reed, gone in the crash. My family back on Terra Station might as well be in another universe, light years away, unreachable.
 
-        I say— "I don't have one—my colleagues died, and my family is too far."
+        "I don't have one," I say. "My colleagues died. My family is too far."
 
-        Buddy offers quietly— "I could serve as emergency contact?"
+        Buddy offers quietly—
+        "I could serve as emergency contact?"
 
-        I say— "You're an AI, Buddy—" then I smile, "that's sweet, though."
+        "You're an AI, Buddy," I say, but I smile at him. "That's sweet though."
 
-        Buddy— "Is it discrimination if I'm left off the form?"
+        Buddy asks, worried—
+        "Is it discrimination if I'm left off the form?"
 
-        I laugh—can't help it, and say— "Take it up with alien Human Resources."
+        I laugh—can't help it.
+        "Take it up with alien HR."
 
-        Holloway— "We can list the collective as emergency contact—In case of any incident, we'll coordinate appropriate response."
+        Holloway says warmly—
+        "We can list the collective as emergency contact. In case of any incident, we'll coordinate appropriate response."
 
         It's genuinely helpful. They're trying so hard.
 
-        Scout presses against my leg again—small, solid weight, present and comforting.
+        Scout presses against my leg again—small, solid weight. Present. Comforting.
 
-        I say— "Sure. List the collective. That works."
+        "Sure," I say. "List the collective. That works."
 
-        Holloway— "Excellent! And nearest hospital or medical facility?"
+        Holloway asks—
+        "Excellent! And nearest hospital or medical facility?"
 
-        I gesture at the living walls and say— "You're looking at it."
+        I gesture around at the living walls.
+        "You're looking at it."
 
-        Holloway— "Correct! I'll note: on-site medical resources available."
+        "Correct! I'll note: on-site medical resources available."
 
-        Buddy— *"Is this what human paperwork is like? It's very thorough!* Oh— I have a whole module on form literacy! Want me to explain what each section means? I can break it down into fun categories!"
+        Buddy asks, excited—
+        "Is this what human paperwork is like? It's very thorough! Oh—I have a whole module on form literacy! Want me to explain what each section means? I can break it down into fun categories!"
 
-        I say— "Buddy, I know what forms are—I'm an adult."
+        "Buddy, I know what forms are. I'm an adult."
 
-        Buddy— "Right! But sometimes review helps solidify learning—sorry—teaching mode. You don't need me to explain paperwork to you."
+        "Right! But sometimes review helps solidify learning—" Buddy catches themselves. "Sorry. Teaching mode. You don't need me to explain paperwork to you."
 
-        I say— "I really don't."
+        "I really don't."
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: curious, awed, slightly breathless with a steady, warm bureaucratic rhythm for Holloway; keep Buddy bright and exuberant, and the narrator grounded with flashes of humor and quiet grief.
+        Overall tone &amp; pacing: Mostly mid-paced with a sense of wide-eyed wonder and wry amusement; allow short bursts of excitement (Buddy) and a gentle, musical quality for Holloway. Insert one long, reflective pause at the crew/family realization.
 
-        - Read narration with quiet wonder; let sentences that reveal discoveries carry a small lift.
-        - For lines beginning with "Holloway—" adopt a musical, woodwind-like quality: light, bright, slightly formal. Treat Holloway's spoken blocks as coming from one source.
-        - For lines beginning with "Buddy—" increase energy and volume—use *bold* moments as louder, breathy excitement. When Buddy corrects themself, drop to a slightly apologetic, sheepish tone.
-        - For the narrator's revealing or sorrowful moments (for example the stanza after "¶"), slow down and soften—convey distance and loss without melodrama.
-        - When reading protagonist laughs or small smiles ("I laugh—can't help it", "I say with a smile"), use a warm chuckle—brief and genuine.
-        - Treat em dashes (—) as medium pauses (~300-400ms) and ellipses (…) as trailing/hesitant pauses (~500-600ms). For the paragraph containing only "¶", hold a long silence (~700ms) before continuing.
-        - Keep all dialog clearly labeled with the lead-in speaker line, and keep multi-beat speaker blocks together, using slight internal pauses for the em dashes.
+        - Read "Buddy asks, fascinated—" with bright curiosity, then increase energy on the quoted lines.
+        - For any line starting "Holloway ..." use a bright, flutelike, musical quality—slightly breathy and lilting; keep diction clear on bureaucratic phrases.
+        - On "After orientation—naturally." drop a small ironic smile into the tone; keep it light and amused.
+        - When reading the single paragraph containing only "¶", create a long, quiet pause before continuing into the reflective, low-volume lines about Jensen and Reed.
+        - Read "I could serve as emergency contact?" gently and with tentative warmth; contrast with the narrator's amused but soft reply "You're an AI, Buddy."
+        - Make *This is AMAZING.* the loudest emphatic beat in that small moment; make _This is wonderful._ gently appreciative.
+        - Keep all narrator lines steady and slightly more grounded than the character quotes; vary volume and speed only to mark speaker changes and emotional peaks.
       </stage-directions>
     </chunk>
     <chunk>
       <text>
-        Buddy says quietly, "This is very different from helping with homework. I keep trying to… help the way I know how to help — and it's not the right way, is it."
+        Buddy asks—
+        "This is very different from helping with homework. I keep trying to... help the way I know how to help. And it's not the right way, is it?"
 
-        Something softens in me. I say, "It's okay. We're both figuring this out."
+        I soften. I say—
+        "It's okay—we're both figuring this out."
 
-        Holloway announces, "Medical history section — previous injuries or chronic conditions?"
+        Holloway announces—
+        "Medical history section. Previous injuries or chronic conditions?"
 
-        I say, "Nothing major."
+        I answer—
+        "Nothing major."
 
-        Holloway asks, "Current injuries?"
+        Holloway asks—
+        "Current injuries?"
 
-        I gesture at my leg, trying to sound official, and say, "Laceration — approximately fifteen centimeters, partial treatment received, requires follow-up care."
+        I gesture at my leg, trying to look official, and say—
+        "Laceration, approximately fifteen centimeters, partial treatment received, requires follow-up care."
 
-        I'm learning their language. It's kind of fun, actually.
+        I'm learning their language—it's kind of fun, actually.
 
-        Holloway asks, "Any other injuries from the incident?"
+        Holloway asks—
+        "Any other injuries from the incident?"
 
-        I reply, "Bruises, scrapes, possible concussion. Exhaustion — you know, standard crash stuff."
+        I say—
+        "Bruises, scrapes, possible concussion, exhaustion—you know, standard crash stuff."
 
-        Holloway says, "I'll schedule comprehensive medical evaluation post-orientation."
+        Holloway says—
+        "I'll schedule a comprehensive medical evaluation post-orientation."
 
-        I ask, "How long is orientation?"
+        I ask—
+        "How long is orientation?"
 
-        Holloway answers, "Standard protocol is four hours for workplace safety fundamentals!"
+        Holloway replies—
+        "Standard protocol is four hours for workplace safety fundamentals!"
 
-        I grin and say, "Mav never had to do THIS much prep work." Workplace safety training for a spaceship crash — this is hilarious.
+        I exclaim—
+        "Four hours! *Mav* never had to do *THIS* much prep work." 
 
-        I ask, "My leg — is Remedy's treatment holding okay?"
+        I add, smiling—
+        "Workplace safety training for a spaceship crash. This is hilarious."
 
-        Holloway replies, "Treatment should remain effective for six to eight hours per their notes. You're perfectly scheduled!"
+        I ask about my leg—
+        "My leg—is Remedy's treatment holding okay?"
 
-        Holloway asks, "Allergies?"
+        Buddy reports—
+        "Treatment should remain effective for six to eight hours per their notes—you're perfectly scheduled."
 
-        I list what I know. Buddy adds, "*I have your complete records!* Very thorough."
+        Holloway asks—
+        "Allergies?"
 
-        Holloway says, "Excellent documentation!"
+        I list what I know. Buddy supplies data from my file—
+        "I have your complete records—very thorough."
 
-        Holloway asks, "Current medications?"
+        Holloway says, pleased—
+        "Excellent documentation."
 
-        I say, "None — because my ship exploded. No prescription pad in my survival kit."
+        Holloway asks—
+        "Current medications?"
 
-        Holloway notes, "Noted: no current prescriptions. Understandable given circumstances!"
+        I say—
+        "None—because my ship exploded. No prescription pad in my survival kit."
 
-        The pain in my leg pulses — but I'm smiling anyway. This is too weird to not enjoy.
+        Holloway notes—
+        "No current prescriptions noted. Understandable given circumstances."
 
-        Holloway says, "Employment history and skills assessment — current or most recent occupation?"
+        The pain in my leg pulses, but I grin—this is too weird not to enjoy.
 
-        I say, "I'm not applying for a job — I crashed here. But sure, let's do this."
+        Holloway announces—
+        "Employment history and skills assessment. Current or most recent occupation?"
 
-        Holloway says, "Information helps us understand your needs and capabilities!"
+        I say—
+        "I'm not applying for a job—I crashed here. But sure, let's do this."
 
-        I grin and say, "Fair enough."
+        Holloway—
+        "Information helps us understand your needs and capabilities."
 
-        I say, "Cargo specialist — certified for grade-three cargo operations, emergency protocols, basic ship maintenance."
+        I grin and say—
+        "Cargo specialist. Certified for grade three cargo operations, emergency protocols, basic ship maintenance."
 
-        Buddy adds, "*You also have excellent organizational skills!* — and you're very good at counting!"
+        Buddy adds—
+        "You also have excellent organizational skills! And you're very good at counting!"
 
-        I say, "Thanks, Buddy."
+        I reply—
+        "Thanks, Buddy."
 
-        Holloway says, "Excellent background — very thorough. This will be very helpful!"
+        Holloway says, genuinely pleased—
+        "Excellent background. Very thorough. This will be very helpful."
 
-        The forms continue: education history, technical skills, hobbies — I tell them about Uncharted, and Buddy excitedly explains about Mav.
+        The forms continue—education history, technical skills, hobbies. I tell them about Uncharted, and Buddy excitedly explains about Mav.
 
-        Holloway announces, "All intake documentation complete! You're ready for orientation."
+        Holloway announces—
+        "All intake documentation complete! You're ready for orientation."
 
-        I stand. My leg protests, but I'm ready for what comes next.
+        I stand—my leg protests, but I'm ready for what comes next.
 
-        Scout bounces encouragingly toward another chamber — another vine-gap doorway leading deeper into the living structure.
+        Scout bounces encouragingly toward another chamber—another vine-gap doorway leading deeper into the living structure.
 
-        Holloway says via a fresh fruiting body sprouting near the doorway, "Orientation covers workplace safety protocols, emergency procedures, and facility guidelines."
+        Holloway, via a fresh fruiting body near the doorway, says—
+        "Orientation covers workplace safety protocols, emergency procedures, and facility guidelines."
 
-        I say, "Workplace safety training for a spaceship crash — I love it. Let's go."
+        I grin and say—
+        "Workplace safety training for a spaceship crash. I love it. Let's go."
 
-        Holloway exclaims, "We're very excited to have you here, Kira — the first human visitor in many seasons!"
+        Holloway exclaims—
+        "We're very excited to have you here, Kira—the first human visitor in many seasons!"
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: Warm, slightly amused and curious narration with grounded humor; Holloway should sound musical and bright, Buddy energetic and enthusiastic, and the narrator steady with small lifts for discoveries and softening for reflective moments.
+        Overall tone &amp; pacing: Mid-paced with wry amusement; keep the narrator steady and grounded, Buddy bright and enthusiastic, and Holloway flutelike and musical on bureaucratic lines.
 
-        - Read narration with quiet wonder and a light, amused undercurrent; let the grin moments carry a small lift.
-        - For lines beginning with "Holloway" use a flute-like, musical quality—light, bright, and slightly formal.
-        - For lines beginning with "Buddy" increase energy and volume; deliver the starbursts (marked with *bold*) louder and breathy.
-        - Keep the narrator calm and grounded; slow slightly on revealing or sorrowful notes (for example the line about the ship exploding).
-        - Treat em dashes (—) as medium pauses (~300-400ms) and ellipses (…) as trailing/hesitant pauses (~500-600ms).
-        - Put each dialog block on its own line and keep multi-beat speaker blocks together; use an internal slight pause for em-dash breaks in those blocks.
-        - On the line "The pain in my leg pulses — but I'm smiling anyway. This is too weird to not enjoy." let the first clause be quieter and the second carry warm amusement.
+        - Read "Buddy asks—" with bright curiosity; push energy slightly on Buddy's excited lines.
+        - Read narrator lines (lead-ins like "I say—") steady and gently amused; small smiles in the voice for wry comments.
+        - For any line starting "Holloway" use a light, flutelike, breathy quality—clear diction on lists and protocols.
+        - Treat em-dashes (—) as medium pauses; treat ellipses (...) as trailing/hesitant pauses.
+        - On the exclamation with *bold* ("*THIS*") raise volume and emphasis—make it the moment of loud, amused surprise.
+        - When reading medical or bureaucratic strings (e.g., "Laceration, approximately fifteen centimeters...") keep a clipped, precise delivery—slightly formal but not flat.
+        - Let Buddy's data-reporting lines be brisk and pleased; keep them energetic but not aggressive.
       </stage-directions>
     </chunk>
     <chunk>
       <text>
-        And that's genuine — they *are* excited, happy to help.
+        And that's genuine — they are _excited_, happy to help.
 
-        Buddy asks, "Is this what jobs are like? With the forms and the training?"
+        Buddy asks—
+        "Is this what jobs are like? With the forms and the training?"
 
-        I say, "Sort of — but usually you choose to apply."
+        I answer—
+        "Sort of. But usually you choose to apply."
 
-        Buddy says, "But this is better! Because it's *ALIENS!*"
+        Buddy brightens—
+        "But this is better! Because it's *ALIENS!*"
 
-        I laugh, and say, "Yeah, Buddy — it's better because it's aliens."
+        I laugh—
+        "Yeah, Buddy — it's better because it's aliens."
 
         I follow Scout toward the next chamber — four hours to go, then medical treatment, then rest.
 
-        And honestly — I'm looking forward to it. All of it.
+        Honestly, I'm looking forward to it — all of it.
 
-        6
+        ¶
 
         What an adventure.
       </text>
       <stage-directions>
-        Overall tone &amp; pacing: Warm, slightly amused and curious, with Holloway's lines fluted and musical; Buddy should be bright and energetic, especially on emphatic moments. Read steady narration with small lifts for wonder and softer tones for reflection.
+        Overall tone &amp; pacing: Mid-paced, wry and gently amused; keep the narrator steady and grounded, Buddy bright and enthusiastic, and let the final lines land softly.
 
-        - Read the opening line "And that's genuine — they *are* excited, happy to help." with a gentle, pleased lift on "*are*" to convey surprise and warmth.
-        - For dialog lines, use lead-in then quote format. Put each quoted line on its own beat: "Buddy asks, \"Is this what jobs are like?\"" — deliver Buddy with bright enthusiasm and quick curiosity.
-        - When reading "I say, \"Sort of — but usually you choose to apply.\"" use the flute-like Holloway quality: light, slightly amused; allow the em dash as a medium pause.
-        - On "Buddy says, \"But this is better! Because it's *ALIENS!*\"" increase energy and volume, push *ALIENS* louder and breathy—make it a starburst moment.
-        - For "I laugh, and say, \"Yeah, Buddy — it's better because it's aliens.\"" give a brief laugh before the quote, then warm amusement in the reply; keep it intimate and musical.
-        - Treat the em dash in "I follow Scout toward the next chamber — four hours to go, then medical treatment, then rest." as a medium pause; list the subsequent items in a calm, steady cadence.
-        - Insert the single-line pause marker "6" as a long, reflective pause before the final line.
-        - Closing cadence: Soft landing; warm fall, lingering last syllable, cozy pause.
+        - Read "And that's genuine — they are _excited_, happy to help." with a small, pleased smile; slightly warmer on "_excited_." Treat the em dash as a medium pause.
+        - For dialog: use a clear lead-in then quote pattern. Read the lines under "Buddy asks—" with bright curiosity; push energy on the question "Is this what jobs are like?" and slightly breathy wonder on "With the forms and the training?"
+        - Read "I answer—" lines steady and explanatory, a bit amused but matter-of-fact: "Sort of. But usually you choose to apply." Keep this clipped and clear.
+        - Read "Buddy brightens—" and the two lines that follow with increased excitement; on "*ALIENS!*" raise volume and energy — this is the emotional high point in the exchange.
+        - For "I laugh—" allow a soft laugh before the spoken line; the quoted reply should be warm and affectionate: "Yeah, Buddy — it's better because it's aliens." Keep the dash as a short, conversational pause.
+        - Read the scene-change sentence "I follow Scout toward the next chamber — four hours to go, then medical treatment, then rest." measured and forward-moving; the em dash signals a small reflective pause.
+        - Pause longer at the paragraph marker "¶" — use this as a silent, slightly lingering beat before the final line.
+        - Closing cadence: "What an adventure." — soft landing; warm fall, lingering last syllable, cozy pause.
       </stage-directions>
     </chunk>
   </chunks>
   <unusual-pronunciations>
-    <word text="Buddy"/>
-    <word text="Central Coordination"/>
     <word text="Holloway"/>
+    <word text="Jensen"/>
     <word text="Kira"/>
     <word text="Kira Voss"/>
-    <word text="Lian"/>
     <word text="Mav"/>
+    <word text="Reed"/>
     <word text="Remedy"/>
     <word text="Scout"/>
     <word text="Terra Station"/>
-    <word text="Torres"/>
     <word text="Uncharted"/>
   </unusual-pronunciations>
   <title>Intake</title>
   <combined-text>
-    The forest opens into a clearing, and I stop dead.
-    I say, "Oh my god."
-    The facility isn't a building — not in any sense I understand the word "building." 
-    It's _alive_.
-    Massive woody vines, each thicker than my torso, weave together in impossible patterns to form walls, chambers, archways. The whole structure rises maybe three stories high, sprawling across the clearing like some enormous basket someone grew instead of built. Bioluminescent patches glow soft blue-green along the vines as the purple twilight deepens, providing light. And the entire thing moves — just slightly, breathing, growing.
-    Holloway's voice, a fluted, woodwind tone from multiple fruiting bodies around the entrance, sounds then carries:
-    "We're so pleased you're here!"
+    The forest opens into a clearing, and I stop dead. I say, "Oh my god."
+
+    The facility isn't a building, not in any sense I understand buildings. It's «alive». Massive woody vines—each thicker than my torso—weave together in impossible patterns, forming walls, chambers and archways. The whole structure rises maybe three stories high, sprawling across the clearing like some enormous basket someone grew instead of built. Bioluminescent patches glow soft blue-green along the vines, providing light as the purple twilight deepens. The entire thing moves—just slightly, breathing, growing.
+
+    Holloway says, "Welcome to Central Coordination! We're so pleased you're here!"
+
     Scout bounces ahead, tumbling toward one of the vine-gap doorways.
-    I say to Buddy, hushed, "Are you seeing this?"
-    Buddy says, "*It's a BUILDING made of PLANTS!* — How did they do that? — How does it stay together?"
-    Holloway replies, "Grew it! Over many seasons — the structural vines responded beautifully to coordination. Please, come inside!"
-    I'm grinning like an idiot — my leg hurts, the temporary treatment is holding but pain still leaks through.
-    Mav would lose his mind — this is better than anything in the Uncharted archives: living architecture, a building that _breathes_.
-    "Lead the way," I say, limping forward.
-    Inside, the chamber has smoothly curved walls formed by the woven vines; more bioluminescence provides gentle light. A flat vine surface, clearly shaped as a desk, occupies the center. Multiple fruiting bodies dot the space, all oriented toward me.
-    Holloway's voice softens then asks:
-    "Before we begin — how are you feeling? That leg looks painful. Do you need to rest first?"
-    The question catches me off guard — genuine concern beneath the bureaucracy.
-    I say, "I'm okay — really, the temporary treatment is helping."
-    Holloway says, "Good. Good." The fruiting bodies bob with what might be relief. "We'll get you proper medical care after intake. But if you need to stop at any point, just say so — we can always pause the forms."
 
-    Holloway continues:
-    "Speaking of which — Section One: Pre-Injury Activity Log. What were you doing in the thirty minutes before sustaining your current laceration?"
+    I whisper, "Buddy—are you seeing this?"
+
+    Buddy says, "*It's a BUILDING made of PLANTS!* How did they do that? How does it stay together?"
+
+    Holloway says, "Grew it—over many seasons. The structural vines responded beautifully to coordination. Please, come inside!"
+
+    My leg hurts—the temporary treatment is holding, but pain still leaks through—and I'm grinning like an idiot. Mav would lose his mind; this is better than anything in the Uncharted archives: living architecture, a building that «breathes».
+
+    I say, limping forward, "Lead the way."
+
+    Inside, the chamber has smoothly curved walls formed by the woven vines. More bioluminescence provides gentle light. A flat vine surface, clearly shaped to serve as a desk, occupies the center. Multiple fruiting bodies dot the space, all oriented toward me.
+
+    Holloway asks, "Before we begin—how are you feeling? That leg looks painful. Do you need to rest first?"
+
+    The question catches me off guard—genuine concern underneath all the bureaucracy.
+
+    I say, "I'm okay. Really. The temporary treatment is helping."
+
+    Holloway says, "Good. Good. We'll get you proper medical care after intake, but if you need to stop at any point, just say so—we can always pause the forms."
+
+    Holloway continues, "Speaking of which—Section One: Pre-Injury Activity Log. What were you doing in the thirty minutes before sustaining your current laceration?"
+
     I say, "I was… crashing? From orbit?"
-    Holloway replies, "Excellent — I'll note: high-velocity uncontrolled descent. And your safety equipment status at time of incident?"
+
+    Holloway says, "Excellent, I'll note high-velocity uncontrolled descent. And your safety equipment status at time of incident?"
+
     I say, "Everything was on fire."
+
     Holloway says, "Fire suppression systems: inadequate. Noted. Let's begin your full intake processing!"
-    I laugh, "Paperwork — of course there's paperwork."
-    Forms appear, not paper exactly but thin bark sheets with symbols pressed or carved into the surface. I lower myself carefully onto what might generously be called a seat. My leg thanks me.
 
-    Buddy— "How are they producing written documentation? Did they learn that from the Human Resources manuals too?"
+    I laugh. "Paperwork!" I say, "Of course there's paperwork."
 
-    Holloway— "We learned to form symbols! Very useful for record-keeping."
+    Forms appear—not paper exactly, but thin bark sheets with symbols pressed or carved into the surface. I lower myself carefully onto what might generously be called a seat. My leg thanks me.
 
-    Holloway— "Now then—let's start with the Visitor Information Sheet. Full legal name?"
+    Buddy asks, fascinated—
+    "How are they producing written documentation? Did they learn that from the HR manuals too?"
 
-    I grin at the bark form and say— "Kira Voss."
+    Holloway says, proud—
+    "We learned to form symbols! Very useful for record-keeping."
 
-    Holloway— "Home address?"
+    Holloway continues—
+    "Now then, let's start with the Visitor Information Sheet. Full legal name?"
 
-    I answer— "My ship, which crashed."
+    I grin at the bark form.
+    "My ship. Which crashed."
 
-    Holloway— "I see. I'll note: previous residence destroyed, current residence to be determined." 
+    Holloway replies—
+    "I see. I'll note: previous residence destroyed, current residence to be determined." In that cheerful, fluting tone—
+    "And what should I put for your current address?"
 
-    Holloway— "And what should I put for your current address?"
+    "I don't have one yet. Maybe put 'currently homeless due to space crash'?"
 
-    I say— "I don't have one yet. Maybe put 'currently homeless due to space crash'?"
+    "We'll assign you temporary quarters! After orientation, of course."
 
-    Holloway— "We'll assign you temporary quarters—after orientation, of course."
+    "After orientation—naturally." I'm still smiling. Alien HR. *This is AMAZING.*
 
-    I say with a smile— "After orientation. Naturally." I'm still smiling at alien Human Resources—*This is AMAZING.*
+    Scout bounces and rolls closer. The small plant presses against my uninjured leg—gentle, encouraging. I reach down to touch the fuzzy surface.
+    "Hey, Buddy. Thanks for the moral support."
 
-    Scout bounces and rolls closer. The small plant presses against my uninjured leg—gentle, encouraging. I reach down to touch the fuzzy surface and say to Scout— "Hey, buddy. Thanks for the moral support."
+    Holloway asks—
+    "Contact information?"
 
-    Holloway— "Contact information?"
+    "My communicator died with the ship. Maybe I can send smoke signals?"
 
-    I say— "My communicator died with the ship. Maybe I can send smoke signals?"
+    "Noted: communication devices unavailable due to incident."
 
-    Holloway— "Noted: communication devices unavailable due to incident."
+    Buddy asks—
+    "Do the plants use communicators? How do they coordinate?"
 
-    Buddy— "Do the plants use communicators? How do they coordinate?"
+    Holloway explains—
+    "The network! We're all connected. Very efficient!"
 
-    Holloway— "The network! We're all connected. Very efficient!"
+    "That's so cool," Buddy says. "Can you feel what everyone else feels?"
 
-    Buddy— *"That's so cool.* Can you feel what everyone else feels?"
+    "In a manner of speaking! It's complicated."
 
-    Holloway— "In a manner of speaking—it's complicated."
+    I watch an AI and a plant network discuss collective consciousness while filling out intake forms. This is surreal. _This is wonderful._
 
-    I watch an AI and a plant network discuss collective consciousness while I fill out intake forms—this is surreal and wonderful.
+    Holloway reads aloud—
+    "Next section: Emergency Contact Information."
 
-    Holloway— "Next section: Emergency Contact Information."
+    I pause—my crew is dead: Jensen and Reed, gone in the crash. My family back on Terra Station might as well be in another universe, light years away, unreachable.
 
-    I pause. My crew is dead—Captain Torres, Marcus, Lian—all gone. My family back on Terra Station might as well be in another universe, light years away and unreachable.
+    "I don't have one," I say. "My colleagues died. My family is too far."
 
-    I say— "I don't have one—my colleagues died, and my family is too far."
+    Buddy offers quietly—
+    "I could serve as emergency contact?"
 
-    Buddy offers quietly— "I could serve as emergency contact?"
+    "You're an AI, Buddy," I say, but I smile at him. "That's sweet though."
 
-    I say— "You're an AI, Buddy—" then I smile, "that's sweet, though."
+    Buddy asks, worried—
+    "Is it discrimination if I'm left off the form?"
 
-    Buddy— "Is it discrimination if I'm left off the form?"
+    I laugh—can't help it.
+    "Take it up with alien HR."
 
-    I laugh—can't help it, and say— "Take it up with alien Human Resources."
-
-    Holloway— "We can list the collective as emergency contact—In case of any incident, we'll coordinate appropriate response."
+    Holloway says warmly—
+    "We can list the collective as emergency contact. In case of any incident, we'll coordinate appropriate response."
 
     It's genuinely helpful. They're trying so hard.
 
-    Scout presses against my leg again—small, solid weight, present and comforting.
+    Scout presses against my leg again—small, solid weight. Present. Comforting.
 
-    I say— "Sure. List the collective. That works."
+    "Sure," I say. "List the collective. That works."
 
-    Holloway— "Excellent! And nearest hospital or medical facility?"
+    Holloway asks—
+    "Excellent! And nearest hospital or medical facility?"
 
-    I gesture at the living walls and say— "You're looking at it."
+    I gesture around at the living walls.
+    "You're looking at it."
 
-    Holloway— "Correct! I'll note: on-site medical resources available."
+    "Correct! I'll note: on-site medical resources available."
 
-    Buddy— *"Is this what human paperwork is like? It's very thorough!* Oh— I have a whole module on form literacy! Want me to explain what each section means? I can break it down into fun categories!"
+    Buddy asks, excited—
+    "Is this what human paperwork is like? It's very thorough! Oh—I have a whole module on form literacy! Want me to explain what each section means? I can break it down into fun categories!"
 
-    I say— "Buddy, I know what forms are—I'm an adult."
+    "Buddy, I know what forms are. I'm an adult."
 
-    Buddy— "Right! But sometimes review helps solidify learning—sorry—teaching mode. You don't need me to explain paperwork to you."
+    "Right! But sometimes review helps solidify learning—" Buddy catches themselves. "Sorry. Teaching mode. You don't need me to explain paperwork to you."
 
-    I say— "I really don't."
+    "I really don't."
 
-    Buddy says quietly, "This is very different from helping with homework. I keep trying to… help the way I know how to help — and it's not the right way, is it."
+    Buddy asks—
+    "This is very different from helping with homework. I keep trying to... help the way I know how to help. And it's not the right way, is it?"
 
-    Something softens in me. I say, "It's okay. We're both figuring this out."
+    I soften. I say—
+    "It's okay—we're both figuring this out."
 
-    Holloway announces, "Medical history section — previous injuries or chronic conditions?"
+    Holloway announces—
+    "Medical history section. Previous injuries or chronic conditions?"
 
-    I say, "Nothing major."
+    I answer—
+    "Nothing major."
 
-    Holloway asks, "Current injuries?"
+    Holloway asks—
+    "Current injuries?"
 
-    I gesture at my leg, trying to sound official, and say, "Laceration — approximately fifteen centimeters, partial treatment received, requires follow-up care."
+    I gesture at my leg, trying to look official, and say—
+    "Laceration, approximately fifteen centimeters, partial treatment received, requires follow-up care."
 
-    I'm learning their language. It's kind of fun, actually.
+    I'm learning their language—it's kind of fun, actually.
 
-    Holloway asks, "Any other injuries from the incident?"
+    Holloway asks—
+    "Any other injuries from the incident?"
 
-    I reply, "Bruises, scrapes, possible concussion. Exhaustion — you know, standard crash stuff."
+    I say—
+    "Bruises, scrapes, possible concussion, exhaustion—you know, standard crash stuff."
 
-    Holloway says, "I'll schedule comprehensive medical evaluation post-orientation."
+    Holloway says—
+    "I'll schedule a comprehensive medical evaluation post-orientation."
 
-    I ask, "How long is orientation?"
+    I ask—
+    "How long is orientation?"
 
-    Holloway answers, "Standard protocol is four hours for workplace safety fundamentals!"
+    Holloway replies—
+    "Standard protocol is four hours for workplace safety fundamentals!"
 
-    I grin and say, "Mav never had to do THIS much prep work." Workplace safety training for a spaceship crash — this is hilarious.
+    I exclaim—
+    "Four hours! *Mav* never had to do *THIS* much prep work." 
 
-    I ask, "My leg — is Remedy's treatment holding okay?"
+    I add, smiling—
+    "Workplace safety training for a spaceship crash. This is hilarious."
 
-    Holloway replies, "Treatment should remain effective for six to eight hours per their notes. You're perfectly scheduled!"
+    I ask about my leg—
+    "My leg—is Remedy's treatment holding okay?"
 
-    Holloway asks, "Allergies?"
+    Buddy reports—
+    "Treatment should remain effective for six to eight hours per their notes—you're perfectly scheduled."
 
-    I list what I know. Buddy adds, "*I have your complete records!* Very thorough."
+    Holloway asks—
+    "Allergies?"
 
-    Holloway says, "Excellent documentation!"
+    I list what I know. Buddy supplies data from my file—
+    "I have your complete records—very thorough."
 
-    Holloway asks, "Current medications?"
+    Holloway says, pleased—
+    "Excellent documentation."
 
-    I say, "None — because my ship exploded. No prescription pad in my survival kit."
+    Holloway asks—
+    "Current medications?"
 
-    Holloway notes, "Noted: no current prescriptions. Understandable given circumstances!"
+    I say—
+    "None—because my ship exploded. No prescription pad in my survival kit."
 
-    The pain in my leg pulses — but I'm smiling anyway. This is too weird to not enjoy.
+    Holloway notes—
+    "No current prescriptions noted. Understandable given circumstances."
 
-    Holloway says, "Employment history and skills assessment — current or most recent occupation?"
+    The pain in my leg pulses, but I grin—this is too weird not to enjoy.
 
-    I say, "I'm not applying for a job — I crashed here. But sure, let's do this."
+    Holloway announces—
+    "Employment history and skills assessment. Current or most recent occupation?"
 
-    Holloway says, "Information helps us understand your needs and capabilities!"
+    I say—
+    "I'm not applying for a job—I crashed here. But sure, let's do this."
 
-    I grin and say, "Fair enough."
+    Holloway—
+    "Information helps us understand your needs and capabilities."
 
-    I say, "Cargo specialist — certified for grade-three cargo operations, emergency protocols, basic ship maintenance."
+    I grin and say—
+    "Cargo specialist. Certified for grade three cargo operations, emergency protocols, basic ship maintenance."
 
-    Buddy adds, "*You also have excellent organizational skills!* — and you're very good at counting!"
+    Buddy adds—
+    "You also have excellent organizational skills! And you're very good at counting!"
 
-    I say, "Thanks, Buddy."
+    I reply—
+    "Thanks, Buddy."
 
-    Holloway says, "Excellent background — very thorough. This will be very helpful!"
+    Holloway says, genuinely pleased—
+    "Excellent background. Very thorough. This will be very helpful."
 
-    The forms continue: education history, technical skills, hobbies — I tell them about Uncharted, and Buddy excitedly explains about Mav.
+    The forms continue—education history, technical skills, hobbies. I tell them about Uncharted, and Buddy excitedly explains about Mav.
 
-    Holloway announces, "All intake documentation complete! You're ready for orientation."
+    Holloway announces—
+    "All intake documentation complete! You're ready for orientation."
 
-    I stand. My leg protests, but I'm ready for what comes next.
+    I stand—my leg protests, but I'm ready for what comes next.
 
-    Scout bounces encouragingly toward another chamber — another vine-gap doorway leading deeper into the living structure.
+    Scout bounces encouragingly toward another chamber—another vine-gap doorway leading deeper into the living structure.
 
-    Holloway says via a fresh fruiting body sprouting near the doorway, "Orientation covers workplace safety protocols, emergency procedures, and facility guidelines."
+    Holloway, via a fresh fruiting body near the doorway, says—
+    "Orientation covers workplace safety protocols, emergency procedures, and facility guidelines."
 
-    I say, "Workplace safety training for a spaceship crash — I love it. Let's go."
+    I grin and say—
+    "Workplace safety training for a spaceship crash. I love it. Let's go."
 
-    Holloway exclaims, "We're very excited to have you here, Kira — the first human visitor in many seasons!"
+    Holloway exclaims—
+    "We're very excited to have you here, Kira—the first human visitor in many seasons!"
 
-    And that's genuine — they *are* excited, happy to help.
+    And that's genuine — they are _excited_, happy to help.
 
-    Buddy asks, "Is this what jobs are like? With the forms and the training?"
+    Buddy asks—
+    "Is this what jobs are like? With the forms and the training?"
 
-    I say, "Sort of — but usually you choose to apply."
+    I answer—
+    "Sort of. But usually you choose to apply."
 
-    Buddy says, "But this is better! Because it's *ALIENS!*"
+    Buddy brightens—
+    "But this is better! Because it's *ALIENS!*"
 
-    I laugh, and say, "Yeah, Buddy — it's better because it's aliens."
+    I laugh—
+    "Yeah, Buddy — it's better because it's aliens."
 
     I follow Scout toward the next chamber — four hours to go, then medical treatment, then rest.
 
-    And honestly — I'm looking forward to it. All of it.
-
-    6
+    Honestly, I'm looking forward to it — all of it.
 
     What an adventure.
   </combined-text>
