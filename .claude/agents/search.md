@@ -67,7 +67,28 @@ This finds content with similar themes, tone, or subject matter - useful for:
 
 ## The --ref Parameter
 
-Use `--ref` to filter results to only documents that **reference** a specific card:
+The `--ref` parameter has two modes:
+
+**Standalone mode** - List all cards that reference a specific path:
+
+```bash
+ske search --ref world/characters/Marcus.card
+```
+
+Output shows each referencing card with annotations:
+- `role="..."` if the reference has a role attribute
+- `tag="..."` if the reference tag is not "ref" (e.g., "relationship", "character")
+
+Example output:
+```
+stories/MyStory/passages/1_Opening/passage.card
+stories/MyStory/story-info.card (role="protagonist")
+world/characters/Sarah.card (role="partner", tag="relationship")
+
+3 card(s) reference world/characters/Marcus.card
+```
+
+**Combined with query** - Filter search results to only documents that reference a card:
 
 ```bash
 ske search "betrayal" --ref world/characters/Marcus.card
@@ -75,9 +96,10 @@ ske search "mission" --ref world/entities/Spy_Agency.card
 ```
 
 This is useful for:
-- Finding all scenes where a character appears
-- Searching within content that references a specific entity or organization
-- Checking how a character is portrayed across different passages
+- Finding all scenes where a character appears (standalone)
+- Seeing what relationship a character has to others (standalone)
+- Searching within content that references a specific entity (combined)
+- Checking how a character is portrayed across different passages (combined)
 
 ## Process
 

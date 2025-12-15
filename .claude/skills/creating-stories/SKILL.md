@@ -7,11 +7,11 @@ description: Creating new stories and understanding how stories fit within a pro
 
 Follow CARD_EDIT_LOOP for each card. Order of creation:
 
-1. `ske create /stories/Story_Name`
+1. `ske create /stories/Story_Name/`
 2. Fill story-info.card (protagonist, premise, story-goal)
 3. Fill narrative-guide.card (tone, narrative-stance, pacing)
 4. Fill story-arc.card and story-acts.card
-5. Create first chapter: `ske create /stories/Story_Name/chapters/1_Title`
+5. Create first chapter: `ske create /stories/Story_Name/chapters/1_Title/`
 
 ## When to Confirm with User
 

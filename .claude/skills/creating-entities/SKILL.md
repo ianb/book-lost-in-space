@@ -9,7 +9,7 @@ Follow CARD_EDIT_LOOP for each card created.
 
 ## Characters
 
-`ske create /world/characters/First_Last`
+`ske create /world/characters/First_Last.card`
 
 **Create when**:
 - Mentioned by name in prose
@@ -21,7 +21,7 @@ Follow CARD_EDIT_LOOP for each card created.
 
 ## Entities
 
-`ske create /world/entities/Place_Name`
+`ske create /world/entities/Place_Name.card`
 
 For stable named things that aren't characters: locations, organizations, religions, artifacts, factions, institutions.
 
@@ -34,13 +34,13 @@ For stable named things that aren't characters: locations, organizations, religi
 
 ## Canon
 
-`ske create /world/canon/Fact_Name`
+`ske create /world/canon/Fact_Name.card`
 
 For established lore, world rules, historical events referenced across passages.
 
 ## Timeline
 
-`ske create /world/timeline/D1T08:00_Event_Name`
+`ske create /world/timeline/D1T08:00_Event_Name.card`
 
 Format: `D{day}T{hour:minute}_Event_Name`
 

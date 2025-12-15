@@ -56,11 +56,11 @@ ske critique list --offset 4          # Next page
 ### Mark Critique Status
 
 ```bash
-ske critique mark <critique-path> <status> [passage-paths...] [options]
+ske critique mark <critique-id-or-path> <status> [passage-paths...] [options]
 ```
 
 **Arguments:**
-- `critique-path` - Path like `/critiques/unconfirmed/User.card#/C42`
+- `critique-id-or-path` - Either a bare ID (e.g., `C42`, `A1`) or full path like `/critiques/unconfirmed/User.card#/C42`
 - `status` - One of: `unconfirmed`, `confirmed`, `in-progress`, `done`, `ignored`, `invalid`
 - `passage-paths` - Optional paths to passages that address this critique
 
@@ -111,7 +111,30 @@ ske critique add ref world/setting.card world/entities/Magic_System.card \
   -m "The setting card states magic is rare and feared, but the magic system entity describes common household enchantments. These descriptions conflict - either magic should be portrayed as more accepted in the setting, or the magic system should emphasize that household enchantments are the exception that proves the rule of magic being rare."
 ```
 
-The critique is saved to `critiques/{status}/agent.card` with an auto-assigned unique ID (C1, C2, etc.).
+The critique is saved to `critiques/{status}/{agent-type}.card` (or `agent.card` if no agent-type specified) with an auto-assigned unique ID using the "A" prefix (A1, A2, etc.) to distinguish from user critiques (C1, C2, etc.).
+
+### Finding Where Cards Are Referenced
+
+Use `ske search --ref` to find all cards that reference a specific card:
+
+```bash
+ske search --ref world/characters/Marcus.card
+```
+
+Output shows each referencing card with annotations:
+```
+stories/MyStory/passages/1_Opening/passage.card
+stories/MyStory/story-info.card (role="protagonist")
+world/characters/Sarah.card (role="partner", tag="relationship")
+
+3 card(s) reference world/characters/Marcus.card
+```
+
+This is useful for:
+- Finding all passages where a character appears
+- Discovering relationships defined in other character cards
+- Identifying which stories reference an entity
+- Understanding impact scope before making changes
 
 ## Workflow
 
@@ -128,31 +151,31 @@ Read each critique to understand the feedback.
 
 For feedback you'll address:
 ```bash
-ske critique mark /critiques/unconfirmed/User.card#/C42 confirmed
+ske critique mark C42 confirmed
 ```
 
 For feedback that won't be addressed:
 ```bash
-ske critique mark /critiques/unconfirmed/User.card#/C5 ignored -m "Out of scope"
+ske critique mark C5 ignored -m "Out of scope"
 ```
 
 For invalid/misunderstood feedback:
 ```bash
-ske critique mark /critiques/unconfirmed/User.card#/C10 invalid -m "Already fixed in v2.0"
+ske critique mark C10 invalid -m "Already fixed in v2.0"
 ```
 
 ### 3. Work on Confirmed Critiques
 
 When starting work:
 ```bash
-ske critique mark /critiques/confirmed/User.card#/C42 in-progress
+ske critique mark C42 in-progress
 ```
 
 ### 4. Mark as Done
 
 When done, include the passages you edited:
 ```bash
-ske critique mark /critiques/in-progress/User.card#/C42 done \
+ske critique mark C42 done \
   /stories/My_Story/passages/1_Opening/passage.card \
   -m "Added more description per feedback"
 ```

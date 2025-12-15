@@ -33,7 +33,7 @@ Reference points to non-existent card: /world/characters/Missing
 ```
 
 **Fix**: Either:
-- Create the entity: `ske create /world/characters/Missing`
+- Create the entity: `ske create /world/characters/Missing.card`
 - Change to TODO ref: `ref="/todo/world/characters/Missing"`
 - Remove the reference
 
@@ -99,7 +99,7 @@ Found 3 TODO references
 
 **Fix**: Create the referenced entity when ready:
 ```bash
-ske create /world/characters/NewCharacter
+ske create /world/characters/NewCharacter.card
 ```
 
 Validation will auto-fix the reference path from `/todo/...` to the real path.

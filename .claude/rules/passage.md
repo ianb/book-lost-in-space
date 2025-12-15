@@ -83,12 +83,16 @@ Narrative promises: What has been foreshadowed, hinted at, or set up that must p
 
 A concise title that captures the essence or key beat of the passage without spoiling outcomes. Should reflect the story's tone.
 
+**The best titles are callbacks that build anticipation.** A title like "The Letter" works when the reader already knows a letter is coming—they've been waiting for it, dreading it, or hoping for it. The title acknowledges something the reader knows and creates anticipation for seeing it unfold. This makes the reader lean in rather than feel spoiled.
+
 **CRITICAL: Titles must not spoil what happens.** Readers see passage titles before reading, often in a table of contents or chapter list. A spoiler title ruins the reader's experience by revealing outcomes, twists, betrayals, deaths, or decisions before they unfold in the prose. The title should evoke the setting, mood, or situation—never the resolution.
 
 **When creating:**
 Keep it concise (2-6 words). Write after the prose is complete so you can capture what actually happens.
 
-**No spoilers:** The title should describe where/when/who, not what happens or how it ends. Think "Chapter 1: The Harbor" not "Chapter 1: Marcus Gets Betrayed." A reader glancing at the title should have no idea what's about to unfold.
+**Callbacks over descriptions:** Look for something the reader is already anticipating—a promised meeting, a dreaded conversation, a place that's been mentioned. Title the passage after that element. "The Tavern" is better when the reader knows the characters have been heading there. "Father's Study" creates tension when the reader knows that's where the confrontation must happen.
+
+**No spoilers:** The title should describe where/when/who, not what happens or how it ends. Think "The Harbor" not "Marcus Gets Betrayed." A reader glancing at the title should have no idea what's about to unfold.
 
 **When editing:**
 - Is it concise (2-6 words)?
@@ -97,16 +101,17 @@ Keep it concise (2-6 words). Write after the prose is complete so you can captur
 - Does it reflect the story's tone?
 
 **Good examples:**
-- Morning at the Harbor
-- A Letter Arrives
-- The Supervisor's Office
-- An Unexpected Visitor
+- The Harbor *(callback - reader knows they're heading there)*
+- The Letter *(callback - the letter was promised earlier)*
+- Father's Study *(callback - reader knows this meeting must happen)*
+- The Third Day *(callback - reader knows what's supposed to happen then)*
+- The Gathering Storm *(atmospheric)*
+- Market Day *(routine setting)*
+- Old Friends *(evocative relationship)*
+- Smoke on the Wind *(sensory)*
 
 **Bad examples (avoid):**
-- Niketas Betrays Marcus *(spoiler - reveals betrayal)*
-- Father's Last Words *(spoiler - reveals death)*
-- She Chooses to Stay *(spoiler - reveals decision)*
-- The Hidden Letter *(spoiler - reveals discovery)*
+- She Chooses to Stay *(spoiler - reveals outcome)*
 - Introduction *(too vague)*
 
 ## `<include-if>` (required)

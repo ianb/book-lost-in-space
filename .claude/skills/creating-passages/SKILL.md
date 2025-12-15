@@ -7,7 +7,7 @@ description: Creating passages with ske create, filling placement/outline/passag
 
 Follow CARD_EDIT_LOOP for each card. Order of creation:
 
-1. `ske create /stories/Story_Name/chapters/1_Chapter/passages/1_Scene_Name`
+1. `ske create /stories/Story_Name/chapters/1_Chapter/passages/1_Scene_Name/`
 2. Fill passage-placement.card (maps to chapter scenes)
 3. Fill outline.card (goals, beats, act)
 4. Fill passage.card (the prose itself)

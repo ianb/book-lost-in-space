@@ -91,8 +91,8 @@ After `ske init`, fill in core files:
 
 ```bash
 ske validate                          # Check initial setup
-ske create /world/characters/Protagonist    # Create main character
-ske create /stories/First_Story       # Create first story
+ske create /world/characters/Protagonist.card     # Create main character
+ske create /stories/First_Story/                 # Create first story
 ske guide                             # See what to work on next
 ```
 
