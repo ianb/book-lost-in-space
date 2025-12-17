@@ -1,0 +1,45 @@
+<passage-penpal version="1.0.0" number="2" name="What_To_See">
+  <reasoning-passage>Following outline: enthusiastic Uncharted connection, must-see list with tangents, gift advice, places to be careful, warm closing. Voice memo format. Match Kira's style: chatty, tangential, exclamation points, genuine warmth. Include her own arrival story briefly (crashed) but don't dwell on the heavy parts.</reasoning-passage>
+  <incoming-message>
+    Hi!
+
+    I was so excited to hear all about your adventures, Kira. I would love to visit the planet, what should be on my list of must-see things?
+
+    Also... should I bring a gift? That would be the polite thing, but who exactly would I give it to? It's a whole planet! And any places I should avoid?
+
+    Excitedly yours, a fellow Uncharted fan
+  </incoming-message>
+  <text>
+    Oh my gosh, a fellow Uncharted fan! HELLO! I feel like I already like you. Do you remember the episode where Captain Vex had to navigate that whole diplomatic situation with the crystalline beings and she kept accidentally insulting them by making eye contact? That's basically my LIFE now. Except with plants. And less crystal.
+
+    Okay okay okay, must-see things. Let me think. I'm basically making a travel guide for my own accidental home, which is WILD.
+
+    First: the facility. I know that sounds boring - "come see the bureaucracy!" - but honestly? It's kind of amazing. There's this whole complex where the plants have set up administration and research and it's just... it's so EARNEST. Like, they have forms. For everything. And the forms have forms. And everyone is so serious about it and it's somehow the most charming thing ever? Plus that's where I live, so if you visit the facility you can say hi!
+
+    Second: the bioluminescent areas. There are parts of the forest where everything GLOWS at night. And I don't mean like, a little twinkle. I mean full-on "is this a dream sequence?" levels of glow. Blues and greens and sometimes these pulses of purple that move through the canopy like... like the forest is breathing light. I cried the first time I saw it. Don't tell anyone. Actually, tell everyone, it's THAT beautiful.
+
+    Third: if you can make it out to the hills, there's this ancient grove at the top. The trees there are OLD. Like, "witnessed the rise and fall of civilizations" old. And they're still growing, still reaching. Standing there makes you feel very small but in a good way? In a "the universe is vast and ancient and I'm part of it" way.
+
+    Now. GIFTS. I love that you're worried about this. "Who do I give it to, it's a whole planet!" - that made me laugh out loud. Okay so here's the thing: you're not giving a gift to the planet. You're giving a gift to whoever hosts you. And someone WILL host you, because that's how it works here. The bureaucracy will assign you a guide (they love assigning things) and that guide becomes kind of responsible for you. Bring something for them!
+
+    What to bring: something shareable is good. Food travels well emotionally - like, the concept of "I brought you something to eat" translates really well across species. Seeds are VERY appreciated, especially if they're from somewhere the plants here haven't seen. Or honestly? Just bring something from home that you can explain. They love hearing about human stuff. A book, a photo, a weird snack. The gift is really just an excuse to tell a story.
+
+    Places to avoid... okay, not AVOID exactly, but be careful? The territories outside the facility all have different customs and different... temperaments. Some of them are super friendly to visitors and some of them are more "why are you in my forest, soft creature?" So just... don't wander off without your guide. I learned this the hard way. I mean, I crashed here, so I didn't exactly have a choice about my entrance - long story, spaceship malfunction, very dramatic - but even after that, I definitely got lost a few times before I figured out how things worked.
+
+    Oh! How are you planning to get here, by the way? That's actually a genuine question because my arrival method was, uh, not recommended.
+
+    Anyway. I'm so excited for you! Write me when you get here. Or before. Or during. Just write me, honestly, I want to hear how it goes. And if you end up at the facility, ask for me! I'll show you around. We can compare notes on Captain Vex's diplomatic disasters.
+
+    Safe travels, fellow adventurer!
+
+    - Kira
+
+    P.S. - If anyone offers you something to eat that's still visibly photosynthesizing, it's polite to try a bite, but you don't have to finish it. Trust me on this one.
+  </text>
+  <title>Travel Tips for Fellow Adventurers</title>
+  <voice-override />
+  <sources>
+    <ref ref="/penpal/Kira_Voss/Ask_the_Human/penpal-conversation.card" role="Conversation context" />
+    <ref ref="/penpal/Kira_Voss/Ask_the_Human/2_What_To_See/outline-penpal.card" role="Penpal outline" />
+  </sources>
+</passage-penpal>

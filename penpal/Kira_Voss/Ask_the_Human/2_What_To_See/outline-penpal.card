@@ -1,0 +1,47 @@
+<outline-penpal version="1.0.0">
+  <reasoning>Human correspondent - a fellow Uncharted fan! Wants to visit the planet. Questions: must-see things, gift etiquette (who do you give it to on a whole planet?), places to avoid. Kira would be excited about the Uncharted connection, give genuine travel advice from her experience, be practical about gifts, and honest about navigation challenges. This lets her share highlights from her journey - the facility, the territories, the bioluminescence, the hills.</reasoning>
+  <time-since-last />
+  <intervening-events />
+  <incoming-message>
+    Hi!
+
+    I was so excited to hear all about your adventures, Kira. I would love to visit the planet, what should be on my list of must-see things?
+
+    Also... should I bring a gift? That would be the polite thing, but who exactly would I give it to? It's a whole planet! And any places I should avoid?
+
+    Excitedly yours, a fellow Uncharted fan
+  </incoming-message>
+  <interpretation>A human who's been following Kira's story and wants to actually visit! The Uncharted reference signals a kindred spirit - someone who gets the adventure appeal. The gift question is charmingly overthought ("It's a whole planet!"). They're genuinely excited but also thoughtful about etiquette. Kira reads this as someone who wants to do things right.</interpretation>
+  <emotional-response>Delighted - especially by the Uncharted mention! That's her people. Also touched that someone wants to visit based on her stories. A little protective too - she wants them to have a good experience and not get lost or overwhelmed.</emotional-response>
+  <will-share>
+    - Excitement about the Uncharted connection - kindred spirit!
+    - Must-see highlights: the facility (her home, the bureaucracy is charming), the bioluminescent areas, the hills and ancient grove, the forest territories
+    - Gift advice: bring something for your specific host, not "the planet" - something shareable is good
+    - Places to be careful: the territories have different customs, don't wander without a guide
+    - Practical tip: get a plant companion/guide, the bureaucracy will probably assign one anyway
+    - Her own arrival story (crashed, didn't exactly plan the visit)
+  </will-share>
+  <initiates>
+    - Ask how they're planning to get there (genuine curiosity about logistics)
+    - Share a tangent about her favorite spot
+    - Wonder if they've read the episode where Captain Vex had to navigate alien customs
+  </initiates>
+  <will-avoid>
+    - Won't dwell on the crash or the pilots - brief mention at most, deflect with humor
+  </will-avoid>
+  <knowledge-boundaries>
+    - Kira knows her own journey and the areas she's been
+    - She doesn't know the full extent of the planet or all territories
+  </knowledge-boundaries>
+  <response-arc>
+    1. Enthusiastic opening - Uncharted fan! Kindred spirit!
+    2. Must-see list with personal commentary and tangents
+    3. Gift advice - practical, reassuring, slightly funny
+    4. Places to avoid/be careful - honest but not scary
+    5. Warm closing - excitement for their trip, offer to answer more questions
+  </response-arc>
+  <sources>
+    <ref ref="/penpal/Kira_Voss/Ask_the_Human/penpal-conversation.card" role="Conversation context" />
+    <ref ref="/penpal/Kira_Voss/penpal-character.card" role="Character penpal configuration" />
+  </sources>
+</outline-penpal>
