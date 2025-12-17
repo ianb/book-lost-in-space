@@ -1,0 +1,56 @@
+<!-- this file is automatically managed by ske validate; do not edit -->
+<versions>
+  <version number="1.0.0" archived-at="2025-12-17T15:58:32.662Z">
+    <changelog-entry>
+      <message>Initial version</message>
+    </changelog-entry>
+    <passage-penpal version="1.0.0" number="1" name="First_Time_Writer">
+      <reasoning-passage>Following outline: enthusiastic opening, spore advice with humor + practicality, food tangent including Buddy story, name validation, warm closing. Voice memo format - Kira talking directly to Tony. Match her communication style: chatty, tangential, self-corrections, exclamation points, genuine warmth.</reasoning-passage>
+      <incoming-message>
+        Hi Kira!
+
+        Long time reader, first time writing in.
+
+        I have been hoping to host a human at our collective symbotic mini-ecosystem. It's a collection of amoeba, fungal colonies, and ferns. All good folks, but the fungal colonies insist on emitting infectious spores and I worry they'll accumulate in the humans' lungs. How should I bring this up to our visitors?
+
+        Also, what do you suggest we set out for feeding?
+
+        Thanks in advance,
+          Tony (do you think Tony is a good name for me to use with the humans?)
+      </incoming-message>
+      <text>
+        Oh my gosh, TONY! Hi! First time writer, that's so exciting! I always love hearing from people who've been reading along and finally decide to send something in. It's like... you know when you've been waving at someone from across a room and then they finally wave back? That feeling. Anyway. Hi!
+
+        Okay, so. Your question. First of all, can I just say how much I love that you're worried about this? Like, the fact that you're thinking about human lung health BEFORE the visit instead of, like, watching your guest cough and going "huh, wonder what that's about" - that's already so thoughtful. You're already doing great.
+
+        So here's the thing about the spores: just TELL them. I know, I know, that sounds too simple, but honestly? Humans appreciate honesty way more than they appreciate you secretly trying to fix everything. If you say "hey, our fungal friends produce spores that might irritate your lungs, do you want to wear a mask or would you prefer we meet somewhere else?" - that's not rude! That's considerate!
+
+        The worst thing - and I say this from experience - is when someone tries to hide something that's just... part of how they live? Like, when I first got here, there was this whole situation where my friend Buddy kept trying to hide that his leaves shed sometimes because he thought it would gross me out. And then I found leaf bits in my food and I was like "is this... supposed to be here?" and it was this whole awkward THING that could have been avoided if he'd just said "hey, I shed, it's normal, don't eat the leaves."
+
+        Actually wait, that reminds me - FOOD. You asked about food! Okay so. Humans are weirdly picky but also weirdly adaptable? Like, we have these whole complicated systems of "I only eat this" and "never that" but then sometimes we'll eat something completely bizarre just because someone offered it nicely.
+
+        My suggestion: keep it simple. Fruit is usually safe - most humans like fruit. If you can get anything sweet, that's good. Avoid anything that moves on its own. Avoid anything that's still... growing? Like, detached from its source. I once got offered something that was still photosynthesizing on the plate and I just... I didn't know what to DO with that.
+
+        Oh! And water. Humans need SO much water, it's honestly embarrassing. Just have water available and you're already ahead of most hosts I've had.
+
+        And TONY. Tony! Yes! Tony is a GREAT name. It's friendly, it's easy to say, it's got good energy. I know a lot of humans probably seem like we have Opinions about names but honestly? We're just happy when we can pronounce something. And Tony is perfect. Very approachable. Very "hello, I am Tony and I will not accidentally poison you with spores because I warned you first."
+
+        Actually, now I'm curious - what kind of human are you hosting? Is this like a researcher situation, or a friend visit, or...? And what's it like being a collective? I've always wondered how that works with decision-making. Like, do you all have to agree on things, or is there a spokesperson situation, or...?
+
+        Anyway. You're going to be a great host, Tony. The fact that you're thinking about all this stuff ahead of time? That's the whole secret. Humans can tell when someone's trying, and we appreciate it SO much, even when things go a little weird. Which they will! Things always go a little weird. But that's fine. Weird is fine. Weird is how you end up with good stories.
+
+        Good luck! Write back and tell me how it goes!
+
+        - Kira
+
+        P.S. - Seriously though, the mask thing. Just offer it. We won't be offended. Some of us actually think masks are kind of fun. Don't ask me why.
+      </text>
+      <title>Tony's First Visit</title>
+      <voice-override />
+      <sources>
+        <ref ref="/penpal/Kira_Voss/Ask_the_Human/penpal-conversation.card" role="Conversation context" />
+        <ref ref="/penpal/Kira_Voss/Ask_the_Human/1_First_Time_Writer/outline-penpal.card" role="Penpal outline" />
+      </sources>
+    </passage-penpal>
+  </version>
+</versions>

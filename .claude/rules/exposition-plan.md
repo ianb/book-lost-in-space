@@ -4,68 +4,103 @@ paths: **/exposition-plan.card
 
 ## `<reasoning-exposition-plan>` (optional) [low priority]
 
-**Purpose:** Guided thinking for planning exposition
+**Purpose:** Guided thinking for planning exposition throughout the story
 
-Before creating the exposition plan, read the context: Read story-info.card to understand the protagonist, opening-situation, and story premise. Read setting.card for world details. Confirm you've read these by briefly stating what story you're planning exposition for.
+Before creating the exposition plan, read the context: Read story-arc.card to understand core-elements and their setup requirements. Read reader-journey.card to understand emotional goals. Read setting.card for world details.
 
-Identify what readers must understand: List world-building information readers need to follow the story. Identify character context or backstory essential upfront. Note immediate situation details. Consider: Protagonist identity (name, age-ish, pronouns, role), immediate situation (what they're doing right now), setting stamp (where, when, world type), world rules (1-2 operational constraints that might surprise readers), tone and genre signals, key relationships, terminology that needs explanation.
+**Identify what readers must understand and WHEN:**
+- What must readers know before specific core elements can land?
+- What world/character information supports the emotional journey?
+- What setup does each major scene require?
 
-Identify what to withhold: Determine what information can be revealed later to maintain mystery. List questions that should remain unanswered to create intrigue. Flag 1-2 deliberate blanks to withhold for later payoff.
+**Identify what to withhold and UNTIL WHEN:**
+- What information creates intrigue if delayed?
+- What reveals would be spoiled if explained too early?
+- What mysteries drive reader engagement?
 
-Plan natural delivery: Consider how each piece of exposition can be woven into action, dialogue, or sensory detail rather than info dumps.
+**Plan timing around emotional goals:**
+- Exposition should support the reader journey, not just inform
+- Timing should serve story beats (reveal-before core elements, withhold-until trust is established)
 
 ## `<must-explain>` (required) [high priority]
 
-**Purpose:** What the opening passage(s) need to explain to the reader
+**Purpose:** Information readers need to understand the story, with timing constraints
 
-**Format:** Markdown list with bullet points, optionally mark items as (urgent) or (optional) based on when they need revealing
+**Format:** List of <item id="ID" reveal-before="condition"> elements
 
-These are pieces of information readers need to understand and follow the story. Some are urgent (must be in the very first passage: protagonist identity, name, rough age, basic situation). Others are optional (should be revealed in first few passages but not immediately urgent: personality traits, economic context, world details). Each item should be specific enough that it can be shown through action, dialogue, or sensory detail—not told through exposition dumps.
+Each item gets a unique ID (ALL_CAPS, semantic) for reference in other cards. The reveal-before attribute describes WHEN this information must be established—using natural language that can reference core-element IDs, story beats, or reader states.
+
+Include both opening exposition (protagonist identity, world basics) and later reveals (character backstory needed before a betrayal lands, world rules needed before magic is used).
 
 **When creating:**
-List the essential information without arbitrary minimums—could be just one item for a simple story. Mark urgent items that must appear immediately. Include optional items that should appear in early passages but aren't critical. Consider: protagonist name and age, time period (if matters), immediate location, basic situation. Avoid listing personality details or world-building context unless truly essential for immediate comprehension.
+For each piece of exposition readers need:
+1. Give it a unique ID (PROTAGONIST_IDENTITY, WORLD_MAGIC, MENTOR_HISTORY)
+2. Set reveal-before to describe when it must be established
+3. Describe what needs to be explained
+
+Timing can reference:
+- Core elements: "reveal-before BETRAYAL_SCENE"
+- Story events: "reveal-before any magic use"
+- Reader states: "reveal-before reader needs to understand character motivations"
+- Opening: "reveal-before end of opening" or "immediately"
 
 **When editing:**
-- Is each item specific (not vague)?
-- Have you distinguished urgent from optional reveals?
-- Are urgent items truly essential for the first passage?
+- Does each item have a unique, descriptive ID?
+- Is the reveal-before timing appropriate and clear?
 - Can each be shown through action/dialogue/sensory detail?
-- Have you included time period if it matters?
+- Are IDs referenced correctly in story-acts or passage-placement?
 
 **Good examples:**
-- - (urgent) Mira is a young woman, early twenties
-- (urgent) She works as a cargo clerk at the harbor
-- (urgent) The story takes place in a port city with a Mediterranean feel, roughly 1800s-equivalent technology
-- (optional) She has noticed patterns in the shipping records
-- - (urgent) Kael is a healer, thirties
-- (urgent) She runs a clinic in the lower district
-- (urgent) The city is under some form of martial law with patrols
-- (urgent) Magic healing exists in this world
-- (optional) Kael took an oath to heal all who need it
+- <must-explain>
+  <item id="PROTAGONIST_IDENTITY" reveal-before="end of opening">Mira is a young woman, early twenties, works as a cargo clerk at the harbor</item>
+  <item id="WORLD_SETTING" reveal-before="end of opening">Port city with Mediterranean feel, roughly 1800s-equivalent technology</item>
+  <item id="PATTERN_DISCOVERY" reveal-before="investigation begins">She has noticed discrepancies in the shipping records that don't add up</item>
+  <item id="MENTOR_HISTORY" reveal-before="BETRAYAL_SCENE">The supervisor took her under his wing when she started, taught her everything, covered for her mistakes</item>
+</must-explain>
+- <must-explain>
+  <item id="HEALER_IDENTITY" reveal-before="immediately">Kael is a healer in her thirties, runs a clinic in the lower district</item>
+  <item id="MARTIAL_LAW" reveal-before="authorities arrive">The city is under martial law with patrols</item>
+  <item id="MAGIC_EXISTS" reveal-before="any healing">Magic healing exists in this world with specific costs</item>
+  <item id="HEALER_OATH" reveal-before="MORAL_BREAKING_POINT">Kael swore to heal all who need it, regardless of who they are</item>
+</must-explain>
 
 ## `<withhold>` (optional) [medium priority]
 
-**Purpose:** Information to deliberately withhold in the opening
+**Purpose:** Information to deliberately withhold until the right moment
 
-**Format:** Markdown list with bullet points
+**Format:** List of <item id="ID" reveal-after="condition"> elements
 
-These are details that should remain mysterious or unexplained initially to create intrigue and forward momentum. This is often based on the story-arc—what future reveals or complications drive the narrative? Withholding the right information maintains narrative tension and gives readers questions to pursue. Focus on less obvious mysteries that create intrigue or future possibility, not just obvious secrets like "who the murderer is" in a mystery. Can be empty for stories without mystery elements.
+Each withheld item gets a unique ID and a reveal-after condition describing when it CAN be revealed. This tracks secrets, mysteries, and delayed reveals that drive narrative tension. The reveal-after is the condition that must be met BEFORE the information can be disclosed.
+
+Can be empty for stories without mystery elements.
 
 **When creating:**
-List information to keep mysterious without arbitrary minimums—could be empty for non-mystery stories. Consider: less obvious details that create future possibility, complications hinted at but not explained, character motivations left ambiguous, world details that enhance mystery when vague. Be specific about what to avoid revealing. Base this on the story-arc.card to understand what future reveals drive the narrative.
+For each piece of information to withhold:
+1. Give it a unique ID (BETRAYER_IDENTITY, TRUE_STAKES, PAST_TRAUMA)
+2. Set reveal-after to describe when revelation becomes appropriate
+3. Describe what's being withheld
+
+Timing can reference:
+- Emotional states: "reveal-after trust in mentor is established"
+- Story events: "reveal-after reader cares about the characters"
+- Core elements: "reveal-after TRUST_BUILT"
+- Other exposition: "reveal-after HEALER_OATH is established"
 
 **When editing:**
-- Is each item specific (not vague)?
-- Will withholding this create intrigue (not confusion)?
-- Are these less obvious mysteries (not just "who did it")?
-- Do these connect to the story-arc?
-- Does the list balance explanation with mystery?
+- Does each item have a unique, descriptive ID?
+- Is the reveal-after timing appropriate?
+- Will withholding create intrigue (not confusion)?
+- Do these connect to story-arc core elements?
 
 **Good examples:**
-- - What past relationship exists between Mira and the harbor master that makes her hesitate to go over her supervisor's head
-- Whether the smuggling operation is part of something larger than trade fraud
-- Why Mira specifically was assigned to this position at this time
-- - What oath Kael actually swore and under what circumstances
-- Why the fugitive has a particular scar that Kael seems to recognize
-- Whether Kael has harbored fugitives before
-- [Empty for a straightforward story with no mystery elements]
+- <withhold>
+  <item id="BETRAYER_IDENTITY" reveal-after="trust in supervisor is established">Who actually authorized the smuggling operation</item>
+  <item id="TRUE_SCOPE" reveal-after="reader is invested in Mira's investigation">Whether the smuggling is part of something larger than trade fraud</item>
+  <item id="MIRA_ASSIGNMENT" reveal-after="REVELATION">Why Mira was assigned to this position at this specific time</item>
+</withhold>
+- <withhold>
+  <item id="FULL_OATH" reveal-after="reader sees Kael's compassion">The full oath Kael swore and under what circumstances</item>
+  <item id="SCAR_ORIGIN" reveal-after="MORAL_BREAKING_POINT">Why the fugitive has a scar Kael seems to recognize</item>
+  <item id="PAST_HARBORING" reveal-after="current choice is made">Whether Kael has harbored fugitives before</item>
+</withhold>
+-

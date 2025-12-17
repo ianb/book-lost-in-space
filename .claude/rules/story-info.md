@@ -8,9 +8,9 @@ paths: **/story-info.card
 
 Before creating story info, read the context: Read setting.card—what's the world like? Read meta.card—what's the narrative structure? If you've already created character files for potential protagonists, read those—what are their motivations and situations? Confirm you've read these by briefly stating the world context and any character possibilities.
 
-Consider what makes this story worth telling: who drives the action, what immediate situation pulls the reader in, how the story should sound. The opening-situation is especially important—it should capture the destabilizing moment that starts the story.
+Consider what makes this story worth telling: who drives the action, what mood and emotional register fits the story, what content boundaries apply, and how the story should sound when read aloud.
 
-When revising, check: Does the opening-situation match the actual story start? Is the voice appropriate for the tone?
+When revising, check: Does the mood match the story's direction? Is the voice appropriate for the mood and content?
 
 ## `<title>` (optional) [low priority]
 
@@ -28,24 +28,48 @@ Can be figured out later. Should be unique within the project and reflect the st
 
 Should reference an existing character using the ref attribute and role="protagonist". You may need to create the character first with `ske create /world/characters/{Character_Name}.card`
 
-## `<opening-situation>` (required) [high priority]
+## `<mood>` (required) [high priority]
 
-**Purpose:** The destabilizing moment that pulls the reader into the story.
+**Purpose:** Story-level emotional register that influences everything downstream.
 
-**Format:** 2-4 sentences describing the immediate predicament
+**Format:** Short phrase or genre-adjacent description
 
-This is the destabilizing force that breaks the normal and pulls the reader in. It's story-specific, not part of the general setting.
+This sets the overall emotional register of the story - dark, hopeful, tragic, cozy, tense, etc. It can overlap with genre ("horror", "cozy mystery", "romantic comedy") or be more descriptive ("dark and tense", "lighthearted with moments of melancholy"). This is about the story's emotional direction, not how the prose sounds (that's tone in narrative-guide).
 
 **When creating:**
-Include pressure and immediate stakes. Leave solution open. Identify what's breaking normal that the reader feels immediately. Focus on current catalyst, not backstory.
+Ask what kind of emotional experience the story should be. Is it dark or light? Serious or playful? Hopeful or bleak? This influences the arc, the stakes, and what kinds of moments the story can contain.
 
 **When editing:**
-Verify it describes the story start with clear immediate stakes.
+Verify the mood matches the story's actual direction and emotional register.
 
 **Good examples:**
-- The levy bell rings twice: once for collection, once for conscription. You have until sundown to decide whether to hide your son or offer him to the draft.
-- The harbor master's ledger doesn't match your count. Someone has been skimming cargo, and the inspector arrives tomorrow.
-- Your sister disappeared three days ago. The constable says she ran off, but her shoes are still by the door.
+- Dark thriller with moments of dry humor
+- Cozy mystery
+- Hopeful but bittersweet
+- Horror - creeping dread
+- Lighthearted romance with serious undertones
+
+**Bad examples (avoid):**
+- Good *(Too vague)*
+- About a detective solving crimes *(Describes plot, not mood)*
+
+## `<rating>` (required) [high priority]
+
+**Purpose:** Content boundaries and age-appropriateness for this story.
+
+**Format:** Short rating description
+
+This sets content boundaries - what levels of violence, language, sexual content, and mature themes are appropriate. This is a fundamental constraint on what the story can contain. Separate from mood (a cozy mystery is still "clean" but could be dark in mood).
+
+**When creating:**
+Consider the intended audience and what content is appropriate. Be specific about what's allowed or off-limits.
+
+**Good examples:**
+- YA - mild violence, no explicit content
+- Adult (17+) - violence, strong language, mature themes
+- PG-13 equivalent - action violence, mild language
+- All ages - no violence, gentle themes
+- Mature themes, no explicit content
 
 ## `<story-goal>` (optional) [high priority]
 

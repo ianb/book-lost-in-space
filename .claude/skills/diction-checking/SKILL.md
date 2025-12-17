@@ -63,11 +63,11 @@ The `diction-rules.json` file at project root stores ignored terms:
 }
 ```
 
-These terms are filtered from all diction checks (`ske critique diction` and `ske lint`).
+These terms are filtered from all diction checks (`ske critique diction` and `ske hook lint`).
 
-## Integration with ske lint
+## Integration with ske hook lint
 
-When editing `passage.card` files, `ske lint` automatically runs diction checks and reports new issues. It uses the same ignore rules and tracks previously reported issues per passage.
+When editing `passage.card` files, `ske hook lint` automatically runs diction checks and reports new issues. It uses the same ignore rules and tracks previously reported issues per passage.
 
 ## When to Ignore Terms
 

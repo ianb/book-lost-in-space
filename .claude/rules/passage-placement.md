@@ -6,13 +6,13 @@ paths: **/passage-placement.card
 
 **Purpose:** Guided thinking for creating effective passage placement.
 
-Before creating passage placement, read the context: Read this chapter's chapter-placement.card—what's the scene outline? Which scene does this passage belong to? If this isn't the first passage, read the previous passage's passage-placement.card—where did it leave off? What narrative handoff propels forward? Confirm you've read these by briefly stating which scene this passage covers and what came before.
+Before creating passage placement, read the context: Read this chapter's chapter-placement.card—what's the scene outline? Which scene does this passage belong to? Read exposition-plan.card—what exposition items should this passage deliver? If this isn't the first passage, read the previous passage's passage-placement.card—where did it leave off?
 
-Identify the passage's purpose: What specific moment or beat from the scene does this passage cover? What must happen in this passage for the scene to work? How does this passage connect to the next—what question or momentum keeps the reader moving? What sensory details or interactions make this moment concrete?
+Identify the passage's purpose: What specific moment or beat from the scene does this passage cover? What must happen in this passage for the scene to work? Which exposition items from exposition-plan.card should be explained or revealed here? How does this passage connect to the next?
 
-When revising, verify: Does it actually cover what the scene outline specified? Are key moments present? Does it connect smoothly to adjacent passages?
+When revising, verify: Does it actually cover what the scene outline specified? Are key moments present? Is exposition being delivered at appropriate times? Does it connect smoothly to adjacent passages?
 
-**Upstream revisions are okay:** If this passage's needs don't align well with chapter-placement.card or story-acts.card, it's appropriate to revise those upstream files rather than force the passage to fit. The story serves the reader, not the outline. If you discover that a scene should be longer, shorter, or differently structured while writing passage-placement, go back and update the chapter or act structure. This feedback loop keeps scaffolding in sync with the actual story.
+**Upstream revisions are okay:** If this passage's needs don't align well with chapter-placement.card or story-acts.card, it's appropriate to revise those upstream files rather than force the passage to fit. The story serves the reader, not the outline.
 
 ## `<passage-objective>` (required) [high priority]
 
@@ -88,6 +88,39 @@ Describe character moments specific to this passage. What does the reader learn 
 **Good examples:**
 - Mira's methodical nature on display: she doesn't just notice the discrepancy, she triple-checks her math before raising it.
 - The supervisor's dismissal is too quick, too casual—Mira notices he doesn't even look at the numbers she's showing him.
+
+## `<exposition-in-passage>` (optional) [medium priority]
+
+**Purpose:** Track which exposition items from exposition-plan.card this passage delivers.
+
+**Format:** List of <explains id="ID"> or <reveals id="ID"> elements
+
+This tracks where exposition actually lands, connecting passage content to the exposition-plan. Use <explains> for must-explain items and <reveals> for withhold items being disclosed.
+
+This helps ensure nothing from exposition-plan is forgotten and that reveals happen at appropriate times.
+
+**When creating:**
+Check exposition-plan.card for items with reveal-before/reveal-after timing relevant to this passage. For each item this passage delivers:
+- Use <explains id="ID"> for must-explain items, describing HOW it's explained
+- Use <reveals id="ID"> for withhold items being disclosed, describing the reveal moment
+
+Empty is fine if this passage doesn't deliver exposition items.
+
+**When editing:**
+- Do the IDs match exposition-plan.card?
+- Is the timing appropriate (before/after conditions met)?
+- Does the description match what's in the prose?
+
+**Good examples:**
+- <exposition-in-passage>
+  <explains id="PROTAGONIST_IDENTITY">Through the opening scene at her desk</explains>
+  <explains id="WORLD_SETTING">Harbor sounds, Mediterranean light, period details</explains>
+</exposition-in-passage>
+- <exposition-in-passage>
+  <explains id="MENTOR_HISTORY">Through dialogue about their first meeting</explains>
+  <reveals id="BETRAYER_IDENTITY">The moment she sees mentor's signature on the smuggling orders</reveals>
+</exposition-in-passage>
+- 
 
 ## `<sources>` (optional) [low priority]
 

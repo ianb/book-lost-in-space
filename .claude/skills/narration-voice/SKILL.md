@@ -13,9 +13,21 @@ Edit story-info.card to configure voice settings. The rules provide guidance on 
 
 ### `<voice>` - Voice Selection
 
-Choose the TTS personality: alloy, ash, ballad, cedar, coral, echo, fable, marin, onyx, nova, sage, shimmer, or verse.
+Choose the TTS personality. Match narrator's age, gender, and personality:
 
-Match narrator's age, gender, and personality.
+- **alloy**: Female, low pitch. Great for narration, mature, perhaps Black
+- **ash**: Male, low pitch, deep and gravelly, cowboy-like
+- **ballad**: Neutral/male, British accent, high pitched, younger/peppy
+- **cedar**: Male, medium pitch, glitchy but engaged
+- **coral**: Female, medium pitch, enthusiastic but impersonal, podcaster-like
+- **echo**: Neutral, could be male or female, naive, very neutral
+- **fable**: Neutral/female, British accent, upper class/posh, very neutral
+- **marin**: Female, medium pitch, glitchy but very personal and engaging, younger
+- **onyx**: Male, low pitch, deep and smooth, perhaps Black
+- **nova**: Female, high pitch, engaged and personal, professional but engaging
+- **sage**: Female, high pitch, perky and light, great for narration, very professional
+- **shimmer**: Female, medium pitch, direct and personable, intimate
+- **verse**: Male, medium pitch, smooth and professional, perhaps impersonal
 
 ### `<voice-style>` - Narration Performance
 
@@ -69,6 +81,40 @@ All subtags are optional—include only what you need:
 - Different character takes over narration
 - Applying critique feedback to narration (use `<notes>`)
 - Special tone for flashbacks, dreams, or dramatic moments
+
+## Comparing Voices
+
+Use `ske compare-voice` to generate audio samples for comparing different voices before committing to a choice:
+
+```bash
+# Compare voices using card's voice-style
+ske compare-voice stories/My_Story/story-info.card --voice nova --voice coral
+
+# Override voice-style for testing
+ske compare-voice stories/My_Story/story-info.card --voice nova --voice coral --voice-style "Gentle, warm"
+
+# Compare multiple voices AND multiple styles (generates all combinations)
+ske compare-voice stories/My_Story/story-info.card \
+  --voice nova --voice coral --voice shimmer \
+  --voice-style "Warm, intimate" --voice-style "Cool, professional"
+
+# Custom sample text with stage directions
+ske compare-voice stories/My_Story/story-info.card --voice shimmer --text "Close your eyes..." --stage-directions "Slow, dreamy"
+```
+
+When using multiple `--voice` and `--voice-style` arguments, samples are generated for all combinations (e.g., 3 voices × 2 styles = 6 samples). Maximum 16 samples per invocation.
+
+Works with story-info.card, sleep-character.card, and penpal-character.card. Samples are uploaded to R2 and cached by content hash.
+
+### Voice Sample Fields
+
+Add `<voice-sample>` and `<voice-stage-directions>` to cards for consistent voice testing:
+
+- **writing-samples.card**: Add voice sample for story voice comparison
+- **sleep-character.card**: Add voice sample for sleep narration testing
+- **penpal-character.card**: Add voice sample for penpal voice testing
+
+Without these fields, `compare-voice` extracts the first ~150 words from the first passage.
 
 ## Audio Generation Workflow
 

@@ -6,17 +6,18 @@ paths: **/story-acts.card
 
 **Purpose:** Guided thinking for creating effective story acts.
 
-Before dividing the arc into acts, read the context: Read story-arc.card—what are the major turning points in the plot-arc? What character development must occur? Read reader-journey.card—what emotional shifts should the reader experience, and where? Read narrative-guide.card—what's the overall story length and pacing? Confirm you've read these by briefly summarizing the key plot beats, emotional arc, and target length.
+Before dividing the arc into acts, read the context: Read story-arc.card—what are the core-elements? What does core-elements-setup say must be established for each? Read reader-journey.card—what emotional shifts should the reader experience? Read exposition-plan.card—what must be revealed and when?
 
-When creating act structure, brainstorm options to achieve natural dramatic escalation and balanced pacing:
-- Do the act breaks align with major turning points in the plot-arc?
+Story-arc identifies WHAT moments the story must deliver (core elements).
+Story-acts shows HOW to structure the delivery—the detailed beats, pacing, and progression.
+
+When creating act structure, consider:
+- Which core elements does each act build toward or deliver?
+- What setup from core-elements-setup must this act accomplish?
 - Do the act breaks align with major emotional shifts from reader-journey?
-- Does tension escalate appropriately across acts?
-- Are act lengths proportioned for the story's rhythm?
+- Which exposition items (from exposition-plan) does this act need to deliver?
 
-List three different act structures (varying number of acts: 2-act, 3-act, or 4-act; different ways to divide the plot beats). Then evaluate each structure against the criteria. Choose the structure that best serves the story's dramatic arc, stating your choice explicitly and explaining why.
-
-When revising, check: Does each act have a clear dramatic purpose? Do the act divisions create natural escalation? Are acts proportioned appropriately for pacing?
+List different act structures, evaluate each, and choose the one that best serves the core elements.
 
 ## `<theme-intentions>` (required) [medium priority]
 
@@ -25,7 +26,7 @@ When revising, check: Does each act have a clear dramatic purpose? Do the act di
 Themes are shown, not stated. This field establishes intentionality about how themes will appear concretely in the story structure.
 
 **When creating:**
-For each major theme from narrative-guide.card, briefly note:
+For each major theme from story-arc.card#/themes-and-questions, briefly note:
 - The theme
 - Where/how it manifests across acts (which acts foreground it, what makes it concrete)
 
@@ -39,48 +40,80 @@ Keep this concise—2-4 themes, 1-2 sentences each. The acts field will elaborat
 
 ## `<acts>` (required) [high priority]
 
-**Purpose:** Defines the act structure for the story.
+**Purpose:** Defines the act structure with explicit connections to core elements.
+
+**Format:** List of <act number="N" builds-toward="ELEMENT_IDS"> elements
 
 Acts provide dramatic structure: each has an objective, faces conflict, and ends with a shift. Typically 2-4 acts depending on story length. Each act should feel purposeful, not arbitrary.
 
+This is where detailed beats live. Story-arc identifies core elements and their setup. Story-acts shows HOW to structure delivery: all beats needed to build to core elements, bridging content and pacing, objectives and conflicts per segment.
+
 **When creating:**
-Break the plot arc into 2-4 acts. For each act, specify:
+Break the plot arc into 2-4 acts. For each act, use this structure:
 
-**ACT [number]: [Title/Theme]**
-- **Objective**: What must be accomplished in this act?
-- **Conflict**: What opposes or complicates the objective?
-- **Arc movement**: How does the character/situation shift by act's end?
-- **Theme manifestation**: How do themes from theme-intentions appear concretely here?
-- **Estimated length**: [X-Y words/paragraphs]
+<act number="N" builds-toward="ELEMENT_ID, ELEMENT_ID">
+  <objective>What must be accomplished</objective>
+  <conflict>What opposes or complicates the objective</conflict>
+  <delivers>
+    - What setup from core-elements-setup this act accomplishes
+    - Which exposition items from exposition-plan it delivers (optional)
+    - Key beats and scenes
+  </delivers>
+  <arc-movement>How character/situation shifts</arc-movement>
+  <theme-manifestation>How themes appear concretely</theme-manifestation>
+  <estimated-length>X-Y words</estimated-length>
+</act>
 
-Each act should have a clear question or mission, mid-act escalation, and exit point. Acts should ladder into each other cohesively. Ensure every act ties back to at least one arc beat. Focus on dramatic function rather than mechanical structure.
-
-For theme manifestation: be concrete. Not "explores automation vs. humanity" but "Maya compares her ritual to the kiosk's efficiency; Chen seeks human attention machines can't provide."
+The builds-toward attribute lists core-element IDs this act works toward. Multiple acts can build toward the same element. The delivers field explains what setup, exposition, and beats the act contains.
 
 **When editing:**
-Verify acts have distinct objectives, escalate properly, and match written passages.
+- Does every core element appear in at least one act's builds-toward?
+- Does delivers address the core-elements-setup requirements?
+- Do acts escalate properly?
+- Are exposition items being delivered at appropriate times?
 
 **Good examples:**
-- **ACT 1: Discovery**
-- **Objective**: Mira must verify the ledger discrepancies are real and not clerical errors
-- **Conflict**: Her supervisor dismisses her concerns; she must investigate quietly without arousing suspicion
-- **Arc movement**: From trusting the system to realizing corruption exists at high levels
-- **Theme manifestation**: "Trust in institutions" established through Mira's pride in accurate work; "Cost of truth" seeded as she notices supervisor's dismissiveness
-- **Estimated length**: 800-1200 words (4-6 passages)
-
-**ACT 2: Investigation**
-- **Objective**: Track the pattern of theft and identify who's responsible
-- **Conflict**: The smugglers notice her investigation and send warnings; she must choose between safety and truth
-- **Arc movement**: From quiet clerk to active investigator, risking her security
-- **Theme manifestation**: "Trust in institutions" crumbles as she discovers how high the corruption goes; "Cost of truth" becomes personal through threats to her family
-- **Estimated length**: 1200-1800 words (6-9 passages)
-
-**ACT 3: Confrontation**
-- **Objective**: Expose the conspiracy while protecting her family
-- **Conflict**: Direct threats force impossible choice between justice and safety
-- **Arc movement**: From investigator to decision-maker, accepting consequences
-- **Theme manifestation**: "Trust in institutions" resolved—she builds new trust in herself; "Cost of truth" paid in full, but shown to be worth it
-- **Estimated length**: 800-1200 words (4-6 passages)
+- <acts>
+  <act number="1" builds-toward="TRUST_BUILT, PATTERN_DISCOVERY">
+    <objective>Mira must verify the ledger discrepancies are real and not clerical errors</objective>
+    <conflict>Her supervisor dismisses her concerns; she must investigate quietly</conflict>
+    <delivers>
+      - Setup for TRUST_BUILT: scenes showing supervisor's guidance and care
+      - Setup for BETRAYAL_SCENE: subtle hints something is off
+      - Delivers PROTAGONIST_IDENTITY, WORLD_SETTING, PATTERN_DISCOVERY
+      - Key beats: opening routine, first discrepancy, supervisor dismissal, quiet investigation begins
+    </delivers>
+    <arc-movement>From trusting the system to realizing corruption exists</arc-movement>
+    <theme-manifestation>"Trust in institutions" established through Mira's pride in accurate work</theme-manifestation>
+    <estimated-length>800-1200 words (4-6 passages)</estimated-length>
+  </act>
+  <act number="2" builds-toward="BETRAYAL_SCENE, REVELATION">
+    <objective>Track the pattern of theft and identify who's responsible</objective>
+    <conflict>The smugglers notice her investigation and send warnings</conflict>
+    <delivers>
+      - Completes setup for BETRAYAL_SCENE: mentor has opportunity and motive
+      - Setup for REVELATION: clues about larger conspiracy
+      - Delivers MENTOR_HISTORY
+      - Key beats: pattern emerges, first threat, confrontation with supervisor
+    </delivers>
+    <arc-movement>From quiet clerk to active investigator, risking security</arc-movement>
+    <theme-manifestation>"Trust in institutions" crumbles as corruption revealed</theme-manifestation>
+    <estimated-length>1200-1800 words (6-9 passages)</estimated-length>
+  </act>
+  <act number="3" builds-toward="FINAL_CHOICE">
+    <objective>Expose the conspiracy while protecting her family</objective>
+    <conflict>Direct threats force impossible choice between justice and safety</conflict>
+    <delivers>
+      - BETRAYAL_SCENE lands here
+      - REVELATION lands here
+      - FINAL_CHOICE climax
+      - Reveals BETRAYER_IDENTITY
+    </delivers>
+    <arc-movement>From investigator to decision-maker, accepting consequences</arc-movement>
+    <theme-manifestation>"Cost of truth" paid in full, shown to be worth it</theme-manifestation>
+    <estimated-length>800-1200 words (4-6 passages)</estimated-length>
+  </act>
+</acts>
 
 ## `<chapter-breakdown>` (optional) [low priority]
 

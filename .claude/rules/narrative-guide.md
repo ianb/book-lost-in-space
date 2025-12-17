@@ -6,64 +6,48 @@ paths: **/narrative-guide.card
 
 **Purpose:** Guided thinking for creating effective narrative guides.
 
-Before creating a narrative guide, read the context: Read setting.card—what's the world and genre? Read meta.card—what's the narrative structure? If story-info.card exists, read it—what's the protagonist and opening situation? Confirm you've read these by briefly stating the genre, structure, and story premise (if known).
+Before creating a narrative guide, read the context: Read story-info.card—what's the mood and rating? Read story-arc.card—what's the emotional trajectory? What does the prose need to support?
 
 Answer these questions for the guide:
-1. Audience: Who is the story for, and what experience are you promising them?
-2. Themes: What big questions or tensions does this story wrestle with?
-3. Tone: What emotion should the prose evoke?
-4. Voice: How formal or informal is dialogue and narration?
-5. Boundaries: Are there content boundaries or ratings considerations you must surface?
-6. Prohibitions: Are there forbidden tropes, words, or structural patterns?
-7. Rhythm: How should pacing behave (paragraph length, beats per passage)?
-8. Devices: What narrative devices should recur (motifs, rhetorical questions, sensory emphasis)?
-9. Constraints: How tightly should passage length be controlled to fit product constraints?
+1. Tone: How should the prose feel? (This is prose style, not story mood—story mood is in story-info)
+2. Voice: How formal or informal is dialogue and narration?
+3. Prohibitions: Are there forbidden tropes, words, or structural patterns?
+4. Rhythm: How should pacing behave (paragraph length, beats per passage)?
+5. Devices: What narrative devices should recur (motifs, rhetorical questions, sensory emphasis)?
+6. Constraints: How tightly should passage length be controlled to fit product constraints?
 
 When updating a narrative guide, check:
 1. Consistency: Does the guide match how the story is actually being written?
 2. Completeness: Are there prose patterns or constraints that need to be documented?
 3. Clarity: Are the specifications actionable enough to guide writing decisions?
 
-## `<themes-and-questions>` (optional) [medium priority]
-
-**Purpose:** State the big ideas the story wrestles with.
-
-This shapes the emotional and thematic direction of the narrative. These are the questions that drive character dilemmas and story choices. Often emerges from user/author feedback as the story develops.
-
-**When creating:**
-Write 1-4 sentences or bullet lines. Phrase as questions or tensions that the story will test. Focus on conflicts without obvious answers.
-
-**When editing:**
-Verify themes create genuine dilemmas specific to this story.
-
-**Good examples:**
-- How do you balance collective duty against family survival when the tax bell rings?
-- Can trust survive when everyone has secrets? What does loyalty mean when the city is built on lies?
-- What do you owe to people who saved you when they're asking you to do something wrong?
-
 ## `<tone>` (required) [high priority]
 
-**Purpose:** High-level emotional palette and narrative approach for prose decisions.
+**Purpose:** How the prose should feel—the language quality, not the story's emotional register.
 
-This guides mood, tension level, and emotional arc. It's the feeling the prose should evoke.
+This is PROSE TONE—how the writing sounds—not story mood (that's in story-info). A horror story (mood: dread) might use lyrical, literary prose (tone). A cozy mystery (mood: warm) might use spare, punchy prose (tone). Tone and mood can align or create interesting tension.
+
+Think about: sentence rhythm, vocabulary register, imagery density, narrative distance. Is the prose urgent or measured? Lyrical or spare? Intimate or detached?
 
 **When creating:**
-Use 1-5 short descriptors separated by commas or slashes. Combine mood + pacing where useful. Write 2-3 sentences specifying mood, tension level, and emotional arc. Include any narrative constraints or meta elements (e.g., "dreams symbolic only", "no breaking the fourth wall").
+Use 1-5 short descriptors describing prose quality. Think about how the language should feel on the page: lyrical, spare, urgent, measured, intimate, detached, literary, punchy, atmospheric, conversational. Include any prose constraints (e.g., "dreams symbolic only", "no breaking the fourth wall").
+
+Don't repeat story mood here—focus on the writing style that will support that mood.
 
 **When editing:**
-Verify it describes emotional quality (not plot) and guides prose decisions.
+Verify it describes prose quality (not story mood) and guides writing style decisions.
 
 **Good examples:**
-- Relentless dread with moments of dark humor
-- Tender and melancholic, building to quiet devastation
-- Fierce and urgent, no comfort or safety; dreams symbolic only
-- Warm conspiracy against a cold world; intimate, protective, defiant
-- Gritty realism with creeping unease; no supernatural elements beyond established magic system
+- Spare and urgent—short sentences, active verbs, minimal interiority
+- Lyrical and atmospheric—rich sensory detail, longer sentences, allow reflection
+- Intimate and conversational—like being told a story, direct address allowed
+- Literary with restraint—precise language, earned imagery, no sentimentality
+- Punchy and kinetic; dreams symbolic only; no breaking fourth wall
 
 **Bad examples (avoid):**
+- Dark and foreboding *(This is story mood, not prose tone)*
 - About a rebellion against taxes *(Plot summary, not tone)*
 - Interesting and engaging *(Too vague)*
-- Pleasant with some tension *(Not forceful enough)*
 
 ## `<reading-level>` (optional) [medium priority]
 
@@ -82,21 +66,6 @@ This sets vocabulary complexity, sentence structure, and conceptual sophisticati
 **Bad examples (avoid):**
 - Kids *(Vague)*
 - Adults *(Too broad)*
-
-## `<rating>` (optional) [medium priority]
-
-**Purpose:** Content rating shorthand for suitability filters.
-
-This is for content warnings and age-appropriateness. Separate from reading-level.
-
-**When creating:**
-Very short rating shorthand. Consider violence, language, sexual content, mature themes.
-
-**Good examples:**
-- YA
-- Adult (17+)
-- PG-13 equivalent
-- Mature themes, no explicit content
 
 ## `<narrative-stance>` (required) [high priority]
 

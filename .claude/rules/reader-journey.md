@@ -2,11 +2,41 @@
 paths: **/reader-journey.card
 ---
 
+## `<arc-concerns>` (optional) [high priority]
+
+**Purpose:** Formal pushback on story-arc issues identified while planning the reader journey.
+
+As you plan the reader's emotional journey, you're evaluating whether the arc delivers. This field captures concerns about story-arc that emerged during reader-journey planning. These are issues for the user to consider—they don't require revision before proceeding.
+
+**When creating:**
+Review story-arc.card with fresh eyes while planning emotional beats. Look for:
+- **Missing setup**: Core elements without emotional groundwork
+- **Pacing issues**: Emotional valleys missing before peaks, or relentless tension
+- **Promise violations**: Arc doesn't deliver what story-promise established
+- **Goal misalignment**: Arc doesn't create the experience described in story-goals
+- **Character fit**: Arc requires changes that don't fit established characters
+
+Reference core-element IDs where relevant. Be specific about what's missing or wrong. Don't propose solutions—just flag the issue clearly for the user to decide.
+
+Empty is fine if no concerns arose.
+
+**When editing:**
+- Are concerns specific and actionable?
+- Do they reference core-element IDs where appropriate?
+- Are these genuine concerns or nitpicks?
+
+**Good examples:**
+- - BETRAYAL_SCENE: Trust in mentor not established strongly enough in current arc. Need more scenes building the relationship before it breaks.
+- Missing emotional valley before REVELATION—reader needs relief before next tension peak.
+- Arc doesn't address story-promise of "discovery, danger, and consequence"—discovery is strong but consequence feels rushed.
+- - FINAL_CHOICE doesn't feel impossible—one option is clearly better. Need to establish real costs for both paths.
+- Character-review shows protagonist avoids confrontation, but arc requires her to confront directly in Act 2 without showing how she got there.
+
 ## `<reasoning-emotional-palette>` (optional) [low priority]
 
 **Purpose:** Guided thinking for identifying the emotional vocabulary of this story.
 
-Before listing emotions, read narrative-guide.card—what genre/tone are we working in? Read story-arc.card—what happens and what's at stake?
+Before listing emotions, read story-info.card—what's the mood? Read story-arc.card—what are the story-goals, story-promise, and what happens? What emotions does the arc need to evoke?
 
 **Engage with the story type.** Different genres have signature emotional territories:
 - **Thriller/suspense**: Dread, urgency, paranoia, relief, the need-to-know. Cliffhangers and ticking clocks.

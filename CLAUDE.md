@@ -72,6 +72,10 @@ ske critique mark C42 done                   # Mark critique resolved
 
 **Reasoning fields**: Fill FIRST before content fields.
 
+**Automatic linting**: `ske hook lint` runs automatically when .card files are written. Do not run it manually.
+
+**Surfacing decisions**: When you make creative or interpretive decisions (character motivations, tone, plot directions, resolving ambiguity), summarize these for the user under a "Creative Choices I Made" heading so they can review and adjust.
+
 ## File Layout
 
 ```

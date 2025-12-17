@@ -46,3 +46,9 @@ Non-cumulative per-passage analysis of the reader's emotional experience. Includ
 - Emotional beats: 1-3 significant emotional moments
 - Surprises: Moments that subvert reader expectations (based on story so far)
 - Character development: Moments where characters grow, change, or reveal themselves
+
+## `<locations>` (required) [low priority]
+
+**Purpose:** Track physical locations where the story takes place and how they connect
+
+Records locations mentioned in each passage, building a cumulative map of the story's geography. Each passage identifies where it takes place and any new descriptive details about locations. Connections between locations are tracked, including both explicit connections (character walks through door) and inferred connections (apartment building probably has a street entrance).

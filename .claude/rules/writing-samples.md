@@ -36,3 +36,38 @@ Verify sample is short, focused, and demonstrates specific voice aspects.
 Sarah closed the ledger. The missing amounts always appeared in the same week of the month. "I suppose you're right."
 
 But she wasn't right, and they both knew it.
+
+## `<voice-sample>` (optional) [low priority]
+
+**Purpose:** A short passage (50-100 words) for testing and comparing TTS voices.
+
+**Format:** Prose suitable for reading aloud
+
+For voice testing with `ske compare-voice`. Should cover the range of speech the narrator will perform: narration, dialogue (if used), and quoting other characters' words. Keep it short but varied.
+
+**When creating:**
+Include multiple speech types in a compact sample:
+- Narrative description
+- Dialogue or quoted speech from other characters
+- Varied sentence rhythms
+
+**Good examples:**
+- The rain started after midnight. She watched it through the window. "You should sleep," he said from somewhere behind her, but she didn't turn. There was something about the sound—steady, unhurried—that made her want to stay exactly where she was.
+
+## `<voice-stage-directions>` (optional) [low priority]
+
+**Purpose:** Stage directions for how the voice sample should be read.
+
+**Format:** Brief description of affect, pacing, and any specific directions
+
+Stage directions tell the TTS system how to read the voice sample. These work together with the voice-style from story-info.card but can add specific guidance for this particular passage.
+
+**When creating:**
+Keep it brief but specific. Include:
+- Overall affect (contemplative, warm, tense, etc.)
+- Pacing notes (where to slow down, where to pause)
+- Any specific line readings if needed
+
+**Good examples:**
+- Quiet, contemplative. Slow pacing throughout. Pause before "Tomorrow would bring decisions" - let the weight land.
+- Warm but slightly melancholy. Natural conversational pace for dialogue, slower for description.

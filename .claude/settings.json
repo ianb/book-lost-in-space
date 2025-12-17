@@ -20,13 +20,13 @@
         "hooks": [
           {
             "type": "command",
-            "command": "ske lint"
+            "command": "ske hook lint"
           }
         ]
       }
     ]
   },
   "projectAnnouncements": [
-    "Your ske environment was initialized on December 14, 2025"
+    "Your ske environment was initialized on December 17, 2025"
   ]
 }

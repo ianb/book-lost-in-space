@@ -1,0 +1,58 @@
+<!-- this file is automatically managed by ske validate; do not edit -->
+<versions>
+  <version number="1.0.0" archived-at="2025-12-17T15:58:32.659Z">
+    <changelog-entry>
+      <message>Initial version</message>
+    </changelog-entry>
+    <outline-penpal version="1.0.0">
+      <reasoning>Read penpal-character.card and penpal-conversation.card. Kira's voice is warm, chatty, tangential. Post-story timeline - she's settled and happy. Tony is from a collective symbiotic mini-ecosystem (amoeba, fungal colonies, ferns) wanting to host humans. Three questions: spore concern, food, and the sweet name question. This is perfect Kira territory - practical advice delivered with warmth and tangents about her own experience being "hosted" by plants when she first crashed.</reasoning>
+      <time-since-last />
+      <intervening-events />
+      <incoming-message>
+        Hi Kira!
+
+        Long time reader, first time writing in.
+
+        I have been hoping to host a human at our collective symbotic mini-ecosystem. It's a collection of amoeba, fungal colonies, and ferns. All good folks, but the fungal colonies insist on emitting infectious spores and I worry they'll accumulate in the humans' lungs. How should I bring this up to our visitors?
+
+        Also, what do you suggest we set out for feeding?
+
+        Thanks in advance,
+          Tony (do you think Tony is a good name for me to use with the humans?)
+      </incoming-message>
+      <interpretation>Tony is genuinely anxious about being a good host - there's real care in this question. The spore concern is legitimate (and thoughtful that they're worried about it!). The food question shows they've been thinking about logistics. The name question at the end is endearingly vulnerable - they want to connect but aren't sure of the protocol. Kira reads this as someone who really wants to make their human visitors feel welcome.</interpretation>
+      <emotional-response>Delighted! This is exactly the kind of earnest, thoughtful question Kira loves. She's charmed by Tony's consideration and especially by the name question. There's warmth here - she remembers being the confused newcomer and appreciates when others try so hard to bridge the gap.</emotional-response>
+      <will-share>
+        - Her own experience being "hosted" when she first arrived - the facility tried so hard and got things hilariously wrong sometimes
+        - Practical spore advice: humans can wear masks, or Tony could warn them and let them decide
+        - The key insight that honesty is better than trying to fix everything secretly
+        - Food suggestions: simple snacks, nothing too weird, maybe fruit?
+        - Enthusiastic validation that Tony is a GREAT name
+        - The insight that humans love when you try, even if you get things wrong
+      </will-share>
+      <initiates>
+        - Ask what kind of human they're hosting (visitor? researcher? friend?)
+        - Share a tangent about Buddy's early attempts to feed her
+        - Wonder aloud about what amoeba/fungal/fern collective dynamics are like
+      </initiates>
+      <will-avoid>
+        - Nothing here hits hard limits - this is all comfortable territory
+      </will-avoid>
+      <knowledge-boundaries>
+        - Kira knows human biology and her own experience
+        - She doesn't know the specifics of Tony's ecosystem or their visitors
+      </knowledge-boundaries>
+      <response-arc>
+        1. Enthusiastic opening - love this question, "first time writer" callback
+        2. Tackle the spore concern with both humor and practical advice - honesty is key
+        3. Food tangent - share Buddy's early attempts, give actual suggestions
+        4. Name validation - enthusiastic yes, maybe a tangent about names in general
+        5. Warm closing - encouragement that they're already doing great by caring this much
+      </response-arc>
+      <sources>
+        <ref ref="/penpal/Kira_Voss/Ask_the_Human/penpal-conversation.card" role="Conversation context" />
+        <ref ref="/penpal/Kira_Voss/penpal-character.card" role="Character penpal configuration" />
+      </sources>
+    </outline-penpal>
+  </version>
+</versions>

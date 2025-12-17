@@ -2,53 +2,113 @@
 paths: **/story-arc.card
 ---
 
+## `<story-synthesis>` (required) [high priority]
+
+**Purpose:** Ground the arc in source material before planning plot or identifying core elements.
+
+Complete this section FIRST before any other arc work. It synthesizes the foundational inputs that should drive all arc decisions.
+
+**When creating:**
+Restate and expand on story-goal. What sensations, emotions, and experiences should readers have? What should linger after they finish? This synthesis should directly inform every core element and plot decision.
+
+**Good examples:**
+- From story-goal: "Build dread slowly, then release, ending with bittersweet hope."
+Synthesis: The arc must create genuine escalating tension—not sudden shocks but mounting evidence of danger. The release needs to feel earned. The ending hope must be fragile and hard-won, not triumphant. Readers should feel the weight of what was risked and what was lost alongside what was saved.
+
+## `<core-elements>` (required) [high priority]
+
+**Purpose:** The load-bearing moments the story exists to deliver.
+
+**Format:** List of <element id="ID"> elements with unique IDs
+
+These are the essential scenes, transformations, reveals, or emotional payoffs that everything else builds toward. They're what justify the arc—the moments readers will remember.
+
+**When creating:**
+Identify the 2-6 moments this story MUST deliver. These can be:
+- A pivotal scene ("the confrontation where she finally says no")
+- A transformation ("she learns to trust her own judgment")
+- A reveal ("the reader discovers the mentor was complicit")
+- An emotional payoff ("the release of tension when they finally escape")
+- Something wider ("the slow erosion of her certainty")
+
+Give each a unique ID in ALL_CAPS—semantic but distinctive (BETRAYAL_SCENE, FIRST_KISS, REVELATION). These IDs will be referenced throughout other cards.
+
+**When editing:**
+- Does each element feel essential to the story's promise and goals?
+- Are IDs unique and descriptive?
+- Are there 2-6 elements (too few = missing structure; too many = not actually "core")?
+
+**Good examples:**
+- <core-elements>
+  <element id="BETRAYAL_SCENE">The moment she realizes her mentor sold her out</element>
+  <element id="TRUST_BUILT">Reader feels invested in the mentor relationship before it breaks</element>
+  <element id="REVELATION">Reader discovers the true scope of the conspiracy</element>
+  <element id="FINAL_CHOICE">She must choose between safety and exposing the truth</element>
+</core-elements>
+
+## `<core-elements-setup>` (required) [high priority]
+
+**Purpose:** Prerequisites for each core element—working backwards from the big moments.
+
+**Format:** List of <setup for="ID"> elements referencing core-element IDs
+
+For each core element, describe what must be in place for it to land. This is working backwards: given this great moment, what makes it work?
+
+**When creating:**
+For each core element, write a natural language description considering:
+- **Emotional investment**: What must reader feel before this moment?
+- **Plot prerequisites**: What events make this moment possible/logical?
+- **Anticipation**: How do we build excitement through story promises? (Anticipation is half of satisfaction—readers sensing something is coming enhances the payoff.)
+
+Reference other core-element IDs where relevant (e.g., "TRUST_BUILT must happen before BETRAYAL_SCENE").
+
+**Good examples:**
+- <core-elements-setup>
+  <setup for="BETRAYAL_SCENE">Reader must trust the mentor first—TRUST_BUILT must be complete. Plant subtle hints something is off so reader suspects but hopes not. Mentor needs opportunity and apparent motive established through earlier scenes.</setup>
+  <setup for="TRUST_BUILT">Show mentor's genuine care and guidance. Reader should feel protective of this relationship. Establish what mentor has sacrificed for the protagonist.</setup>
+  <setup for="REVELATION">Reader must care about the immediate stakes before learning their true scope. Plant clues that will recontextualize on reveal. Build sense that something bigger is happening.</setup>
+  <setup for="FINAL_CHOICE">Both options must have real costs established. Reader should understand what she risks either way. The choice should feel impossible, not obvious.</setup>
+</core-elements-setup>
+
 ## `<reasoning-plot-arc>` (optional) [low priority]
 
 **Purpose:** Guided thinking for creating effective plot arcs.
 
-Before creating a plot arc, read the context: Read story-info.card—what's the opening situation and premise? Read narrative-guide.card—what's the target length and tone? Read the character files for the main characters—what are their worldviews, flaws, and motivations? Confirm you've read these by briefly summarizing the core premise and character starting points.
+Before creating a plot arc, VERIFY that story-synthesis, core-elements, and core-elements-setup are complete. The arc connects these elements—don't proceed without them.
 
-When creating a plot arc, brainstorm options to achieve a compelling narrative that fits the character's traits and the story's tone:
-- Does it feel true to the character's established worldview and flaws?
-- Does it deliver on genre expectations while avoiding tired tropes?
-- Does it fit the target length and emotional tone?
+Read the synthesis to understand story-goals, story-promise, and character pressure points. Review core-elements to know what moments the arc must deliver. Review core-elements-setup to understand what builds to each moment.
 
-List three possible plot arcs. Then evaluate each against these criteria. Choose the arc that best serves the character and story, stating your choice explicitly and explaining why.
+When brainstorming, focus on:
+- How do core elements connect into a coherent journey?
+- What emotional logic links one core element to the next?
+- How does the character-review inform the path between moments?
 
-When revising, check for completeness and flow: Does the arc match the character's established traits? Do the beats escalate at the right rhythm? Does it deliver on genre expectations while avoiding clichés?
+DON'T create a detailed beat list—that's what story-acts is for. The arc is about the shape of the journey, not every step along the way.
 
 ## `<plot-arc>` (required) [high priority]
 
-**Purpose:** Complete plot arc description detailing the full narrative trajectory.
+**Purpose:** The narrative arc that connects core elements into a coherent journey.
 
-This is a substantial field—typically a page or more. Use bullet points to break down the narrative into clear beats. Cover the complete arc from opening situation through resolution, including all major turning points and complications. This is the detailed skeleton that guides all downstream writing.
+This describes how your core elements connect—the emotional logic of the story, not a detailed beat list (that's what story-acts is for). Focus on the shape of the journey: how does one core moment lead to another? What's the overall trajectory?
 
 **When creating:**
-Write a detailed bullet-point outline covering:
-- Opening situation: Where does the character start emotionally/physically?
-- Inciting incident: What disrupts the status quo?
-- Rising tension: What complications escalate the conflict? (multiple beats)
-- Climax: What is the moment of highest tension or decision?
-- Resolution: How does the character/situation change by the end?
+Build the arc around your core-elements:
+- What's the opening situation that makes the first core element possible?
+- How does each core element create the conditions for the next?
+- What's the emotional trajectory—where do tension, investment, and stakes rise and fall?
+- How do the core-elements-setup requirements get satisfied along the way?
 
-Expect 10-20 bullets total. Each beat should be concrete enough to guide passage writing but flexible enough to allow creative execution.
+Write prose or loose bullet points describing the journey. Focus on the connective tissue: the "why" that links moments together. Don't enumerate every scene—leave detailed beats for story-acts.
 
 **When editing:**
-- Does it cover all major story beats (not just beginning and end)?
-- Are the rising tension beats varied and escalating?
-- Is it detailed enough to prevent plot meandering?
-- Does it match what's actually happening in the story passages?
+- Does every core element appear in the arc?
+- Does the arc explain HOW you get from one core element to the next?
+- Is there emotional logic, not just plot logic?
+- Does it address the setup requirements from core-elements-setup?
 
 **Good examples:**
-- - **Opening**: Mira works as a junior clerk in the harbor master's office, processing cargo manifests. She's methodical, keeps her head down, proud of her accuracy.
-- **Inciting incident**: She notices a discrepancy in the ledger—three crates of wine recorded as delivered but not reflected in the tax collection. She mentions it to her supervisor, who dismisses it as a clerical error.
-- **First complication**: Mira finds another discrepancy, then another. Someone is systematically skimming shipments. She begins quietly tracking the pattern...
-[... 7-12 more beats covering investigation, threats, rising stakes, climax, resolution ...]
-- - **Opening**: Kael is an apprentice healer, learning the trade from her mentor in a small border town. She believes healers serve everyone equally, without politics.
-- **Inciting incident**: Late one night, a wounded man is brought to her door. She treats him, learning he's a fugitive wanted by the authorities for revolutionary activities.
-- **First complication**: The authorities arrive the next morning, asking if anyone matching his description sought treatment. She lies, saying no.
-- **Second complication**: The fugitive, recovering in her back room, explains his cause. She's torn—she disagrees with violence but can't deny the injustices he describes...
-[... 8 more beats covering hiding him, moral conflict, discovery risk, climax decision, resolution ...]
+- The story opens with Mira in her routine—competent, methodical, trusting in the system. This establishes what TRUST_SHATTERED will destroy. The inciting discrepancy puts her on a path of discovery, with each finding deepening her investment (building toward REVELATION). As she investigates, we see her rely on her supervisor, her colleagues—establishing the relationships that will be tested. REVELATION lands in the middle, recontextualizing everything and making FINAL_CONFRONTATION both necessary and terrifying. The arc's emotional logic: from security through doubt through discovery through action—each stage making the next feel inevitable.
+- The arc moves through three emotional phases: belonging, fracture, choice. In "belonging," we establish what Kael values—her neutral healer identity, her mentor relationship (setup for BETRAYAL). In "fracture," the fugitive's presence forces impossible choices, each small lie building pressure (setup for MORAL_BREAKING_POINT). In "choice," everything converges—she must act, and whatever she chooses defines who she becomes (FINAL_CHOICE). The core elements are the peaks; the arc is the path between them.
 
 ## `<reasoning-character-development>` (optional) [low priority]
 
