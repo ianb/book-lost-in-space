@@ -1,0 +1,62 @@
+<!-- this file is automatically managed by ske validate; do not edit -->
+<versions>
+  <version number="1.0.0" archived-at="2025-12-17T16:39:57.404Z">
+    <changelog-entry>
+      <message>Initial version</message>
+    </changelog-entry>
+    <sleep-character version="1.0.0" id="f949061b-3cda-4938-b4c0-65998c41fe75" character-ref="/world/characters/Kira_Voss">
+      <reasoning>Read Kira's character card. Her internal-monologue-style is "delighted and distractible" with exclamation points and Uncharted comparisons. For sleep content, this calms significantly - same Kira, but in her most peaceful state. Her narrative lens notices interesting and beautiful things first, which translates well to sleep content as gentle wonder. She's the POV character in Mandatory Assistance with voice "marin". Peaceful moments from her story include the bioluminescent forest, the ancient grove, quiet evenings at the facility after settling in.</reasoning>
+      <title>Quiet Nights with Kira</title>
+      <ambient-affinities>
+        - The bioluminescent forest at night, where the trees glow in slow pulses of blue and green
+        - The ancient grove in the hills, surrounded by trees that have been growing for centuries
+        - Her quarters at the facility, looking out at unfamiliar stars
+        - The facility gardens at twilight, watching plants settle into their evening routines
+        - Walking a familiar forest path with Scout, no destination in mind
+        - A boundary clearing at dusk, where the forest meets open sky
+        - The facility common areas late at night, when everything is quiet
+      </ambient-affinities>
+      <story-vignettes>
+        - The first time seeing bioluminescence ripple through the forest canopy (Ch6 "Through the Forest")
+        - Standing in the ancient grove feeling small in a good way (Ch8 "Hills and Heights")
+        - Evening routines after settling into the facility, finally feeling like she belongs (Ch9-14)
+        - Quiet walks with Scout through friendly territory, learning the paths
+        - Watching Buddy's leaves catch the light, noticing how beautiful the ordinary has become
+      </story-vignettes>
+      <sensory-preferences>
+        - Light: especially bioluminescence, starlight, the way light filters through leaves and shifts with movement
+        - Movement: gentle plant movements, leaves swaying, the slow pulse of living things
+        - Textures: bark patterns, leaf surfaces, the warmth of blankets, the familiar smoothness of facility walls
+        - Sounds: layered ambient sounds - distant plant conversations, wind through canopy, the small sounds of the facility at night
+        - Temperature: warmth and coolness as comfort markers - warm quarters, cool night air, the specific temperature of belonging
+      </sensory-preferences>
+      <narration-style>
+        Gentle observations and soft wonder, without urgency. The same Kira who notices everything, but in no hurry to get anywhere. Thoughts drift between details, trailing off into sensation rather than conclusion. Still her warmth and generous attention, just slower and quieter.
+
+        Example: The stars here are different. I keep looking for constellations I know, and of course they're not there. But that's okay. These ones are nice too. There's a cluster near the horizon that looks like... I don't know. Something. The light from it is very old, apparently. It traveled for thousands of years just to reach this window. That's kind of amazing when you think about it. Or don't think about it. Just... notice it. The way it lands on the floor in little points.
+      </narration-style>
+      <avoidances>
+        Universal avoidances:
+        - Unresolved conflict or tension of any kind
+        - Cliffhangers or "what happens next" energy
+        - Urgent situations requiring action
+        - Questions that demand answers
+        - Time pressure or deadlines
+        - Anything that might activate the listener's mind
+
+        Character-specific avoidances:
+        - The crash landing or anything about how she arrived
+        - Jensen and Reed (the pilots who died)
+        - Being stranded or thoughts about rescue
+        - Survival anxiety or danger
+        - Uncharted references that involve action or peril
+        - The "everything is temporary" fear - she's past that in sleep content timeline
+        - Any reference to being the only human in a way that feels lonely
+      </avoidances>
+      <voice>marin</voice>
+      <voice-style>Affect: gentle, warm, dreamy, present. Tone: intimate and peaceful, like talking to yourself when everything is okay. Pacing: slow and unhurried, with natural pauses where thoughts drift. (Adapted from Mandatory Assistance voice-style - kept the warmth and personal quality, removed the excitable energy, significantly slowed the pacing.)</voice-style>
+      <voice-sample>The stars here are different. I keep looking for the ones I grew up with, and they're just... not there. But these are nice too. There's this cluster near the horizon - I don't know what to call it yet. The light is very old, apparently. Thousands of years old. It traveled all that way just to land on this windowsill. When I think about that, everything gets quiet. In a good way.</voice-sample>
+      <voice-stage-directions>Very slow, dreamy. Long pauses between sentences. Let observations land softly. Trailing quality at the end of thoughts, like drifting toward sleep. Warm but quiet - intimate rather than projecting.</voice-stage-directions>
+    </sleep-character>
+  </version>
+</versions>

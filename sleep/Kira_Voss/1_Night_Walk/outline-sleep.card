@@ -1,0 +1,42 @@
+<outline-sleep version="1.0.0">
+  <reasoning>Drawing from ambient-affinities: the glowing forest at night, the ancient grove. This is a gentle tour - Kira walking through beautiful places and describing what she sees. Avoid "bioluminescent" - use poetic descriptions of the glow instead. Long and dreamy, lots of sensory detail and how it makes her feel.</reasoning>
+  <ambient-setting>A night walk through the forest, long after the sun has set. The trees here glow - soft light that pulses slowly through the canopy, blues and greens and sometimes purple. Kira is walking a familiar path, no destination, just moving through beauty. The air is cool and the ground is soft underfoot. She's taking the listener along, showing them what she sees.</ambient-setting>
+  <sensory-anchors>
+    - The glow of the plants: soft light pulsing through leaves, pooling in hollows, rippling through the canopy
+    - The texture of bark under her fingertips, the softness of moss, the smoothness of worn paths
+    - The layered sounds: distant rustling, the hum of living things, her own footsteps
+    - The temperature: cool air on her face, warmth where light gathers
+    - The smell of the forest at night: green and alive and slightly sweet
+  </sensory-anchors>
+  <internal-state>Content and peaceful. She knows this path, she belongs here. There's joy in showing someone else something beautiful - the quiet pride of "look what I found, look where I live." Nothing urgent, nothing to prove. Just walking and noticing and sharing.</internal-state>
+  <meander-topics>
+    - Different plants and how they glow: some steady, some pulsing, some that brighten when you get close
+    - Textures she encounters: bark patterns, leaf surfaces, moss, stone
+    - The way light moves through the forest like breathing
+    - Small observations about specific trees or clearings
+    - How the path feels underfoot
+    - The sounds of the forest settling into night
+    - How this place makes her feel at home
+    - The way her eyes have adjusted to see in the soft light
+    - Noticing small details: a particular flower, a pattern in the bark, the shape of a branch
+  </meander-topics>
+  <avoid-in-this-piece>
+    From sleep-character.card:
+    - Unresolved conflict or tension
+    - Urgent situations or time pressure
+    - The crash, the pilots, survival anxiety
+    - Being stranded or rescue thoughts
+    - The "everything is temporary" fear
+
+    Piece-specific:
+    - The word "bioluminescent" - describe the glow poetically instead
+    - Any sense of the journey being difficult or dangerous
+    - Getting lost or being unsure of the path
+    - Any wildlife that might seem threatening
+    - Questions about why the plants glow or how it works (keeps the mind active)
+  </avoid-in-this-piece>
+  <pacing-notes>Long and meandering - 3000+ words. Move through different beautiful spots: a clearing, a grove of particularly bright trees, maybe the ancient trees at the end. Gradually slow as the piece progresses, ending in stillness. Let each observation unfold fully before drifting to the next. The listener should feel like they're walking with her, then resting with her.</pacing-notes>
+  <sources>
+    <ref ref="/sleep/Kira_Voss/sleep-character.card" role="Character sleep configuration" />
+  </sources>
+</outline-sleep>
