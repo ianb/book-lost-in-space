@@ -442,3 +442,36 @@ Write 2-4 sentences of objective facts: height, build, skin color, hair color an
 **Format:** Standard types: family, friend, rival, business, romantic, mentor, other
 
 This is primarily a housekeeping field, updated reactively as characters interact in the story. Don't fill proactively - add relationships as they emerge.
+
+## `<portrait-prompt>` (optional) [low priority]
+
+**Purpose:** Scene description for AI-generated character portraits.
+
+Describe the character for portrait generation. This prompt is used to generate two images:
+1. A headshot (shoulders up) against a neutral background
+2. A full body portrait against a neutral background, using the headshot as reference
+
+Both images will display the character's name at the bottom.
+
+Generated files (in `world/characters/images/{CharacterName}/`):
+- `headshot.png` - shoulders up portrait
+- `full-body.png` - full body standing portrait
+
+The physical-description field provides appearance details (height, build, skin, hair, eyes, etc.) which are automatically included. Focus here on:
+- Typical clothing they would wear (era-appropriate, reflects their social role)
+- A characteristic expression that reflects their personality
+- Pose details beyond the standard framing
+
+Keep the background neutral - don't describe settings or environments.
+
+**When creating:**
+Write 2-4 sentences describing clothing and expression. Reference their social-role for appropriate attire. Consider their emotional-baseline for a characteristic expression. Don't repeat physical details from physical-description.
+
+**Good examples:**
+- Wearing well-made but practical merchant's clothing - a dark wool tunic over a linen shirt, leather belt with a small pouch. Expression is alert and assessing, the slight smile of someone who's always calculating. Hands relaxed but ready.
+- Simple working-class dress in undyed linen, sleeves rolled up. A worn apron suggests long hours of labor. Expression is tired but determined, with a hint of wariness around the eyes.
+- Fine silk robes in deep blue with gold embroidery at the collar and cuffs. Posture is formal and composed. Expression is carefully neutral, revealing nothing - the face of someone used to court politics.
+
+**Bad examples (avoid):**
+- Tall with brown hair, wearing a blue tunic. *(Includes physical details that belong in physical-description)*
+- Standing at the harbor watching ships come in. *(Describes a scene, not a portrait)*

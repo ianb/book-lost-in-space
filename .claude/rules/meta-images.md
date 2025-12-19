@@ -86,20 +86,58 @@ After changing this, regenerate the project cover with `ske gen image project-co
 **Bad examples (avoid):**
 - A beautiful watercolor of mountains *(includes style direction)*
 
-## `<illustration-style>` (optional) [low priority]
+## `<illustration-style>` (optional) [medium priority]
 
-**Purpose:** Visual style description for scene illustrations (future feature)
+**Purpose:** Visual style description for character portraits and illustrations
 
-Placeholder for illustration style. Leave empty until illustration generation is implemented. When used, this describes the style for in-story scene illustrations, which may differ from cover style.
-
-**When creating:**
-Leave empty for now. This field will be used for scene illustrations within stories, which may have a different style than covers (e.g., more detailed, different color treatment).
-
-## `<illustration-reference-prompt>` (optional) [low priority]
-
-**Purpose:** Scene description for illustration style reference (future feature)
-
-Placeholder for illustration reference prompt. Leave empty until illustration generation is implemented.
+Describes the artistic style for character portraits (headshots and full-body images). This may differ from cover style—portraits often benefit from more detailed, realistic rendering while covers can be more atmospheric or symbolic.
 
 **When creating:**
-Leave empty for now. When illustration generation is implemented, this will describe a scene to generate as the illustration style reference.
+Describe the visual style for character portraits. Include:
+- **Rendering approach**: realistic, stylized, painterly, graphic
+- **Detail level**: highly detailed, moderately detailed, simplified
+- **Color treatment**: natural colors, stylized palette, muted tones
+- **Background**: should typically be neutral/simple for portraits
+- **Lighting**: soft, dramatic, natural
+
+If empty, falls back to cover-style.
+
+**When editing:**
+After changing this, regenerate the illustration reference with `ske gen image illustration-reference`, then regenerate character portraits.
+
+**Good examples:**
+- Realistic portrait style with soft natural lighting.
+Detailed facial features and textures.
+Muted, natural color palette.
+Subtle painterly quality while maintaining likeness accuracy.
+- Stylized illustration with clean lines and bold shapes.
+Simplified but expressive features.
+Limited color palette with strong contrast.
+
+**Bad examples (avoid):**
+- Nice looking portraits *(too vague)*
+
+## `<illustration-reference-prompt>` (optional) [medium priority]
+
+**Purpose:** Scene description for generating the illustration style reference image
+
+Describes a portrait subject that will establish the visual style for all character portraits. This should be a generic character portrait that demonstrates the desired rendering style, not a specific project character.
+
+**When creating:**
+Describe a portrait subject that:
+- Demonstrates the portrait style well (clear face, good lighting)
+- Is generic enough to work as a style reference (not a specific character)
+- Shows the level of detail and rendering approach you want
+
+Keep it simple—this establishes style, not specific character identity.
+
+**When editing:**
+After changing this, regenerate the reference with `ske gen image illustration-reference`.
+
+**Good examples:**
+- A middle-aged merchant in simple period clothing, neutral expression, looking slightly to the right
+- A young woman in working clothes, determined expression, soft lighting from the left
+
+**Bad examples (avoid):**
+- Marcus the silk merchant wearing his blue tunic *(too specific)*
+- A painterly portrait of a person *(includes style)*

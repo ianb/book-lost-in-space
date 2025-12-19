@@ -1,11 +1,11 @@
 ---
 name: generating-images
-description: Generating cover images for stories and projects. Use when creating or updating cover art, setting up visual styles, or generating reference images.
+description: Generating images for stories, projects, and characters. Use when creating cover art, character portraits, setting up visual styles, or generating reference images.
 ---
 
 # Generating Images
 
-Ske uses AI image generation to create cover art for stories and projects. The system uses style reference images for visual consistency across all covers.
+Ske uses AI image generation to create cover art for stories and projects, and portraits for characters. The system uses reference images for visual consistency.
 
 ## Card Structure
 
@@ -165,3 +165,111 @@ ske gen image cover --force
 ```
 
 After changing cover-style or cover-reference-prompt in meta-images.card, regenerate the reference image first, then regenerate covers to apply the new style.
+
+---
+
+## Character Portraits
+
+Generate portrait images for characters based on their physical-description and portrait-prompt. Portraits use the **illustration style** (distinct from cover style) for more detailed, realistic character rendering.
+
+### Project Setup: Illustration Style
+
+In `/meta-images.card`, add illustration style fields:
+
+```xml
+<meta-images version="1.0.0">
+  <!-- Cover fields... -->
+
+  <illustration-style>
+    Realistic portrait style with soft natural lighting.
+    Detailed facial features and textures.
+    Muted, natural color palette.
+    Subtle painterly quality while maintaining likeness accuracy.
+  </illustration-style>
+  <illustration-reference-prompt>
+    A middle-aged merchant in simple period clothing, neutral expression, looking slightly to the right
+  </illustration-reference-prompt>
+</meta-images>
+```
+
+### Character Card Field: `portrait-prompt`
+
+Added to `/world/characters/{Name}.card`:
+
+```xml
+<character version="1.0.0" name="Marcus">
+  <!-- ... other fields ... -->
+  <physical-description>
+    5'10", medium build with some belly, brown skin, black hair (short, starting to thin at the crown), brown eyes, rounded face with a broad nose. Appears late 20s. Hands are calloused from dock work.
+  </physical-description>
+  <portrait-prompt>
+    Wearing well-made but practical merchant's clothing - a dark wool tunic over a linen shirt, leather belt with a small pouch. Expression is alert and assessing, the slight smile of someone who's always calculating. Hands relaxed but ready.
+  </portrait-prompt>
+</character>
+```
+
+### Portrait Commands
+
+```bash
+# 1. Generate the illustration style reference first
+ske gen image illustration-reference
+
+# 2. Generate headshots (shoulders up)
+ske gen image headshot                              # All characters
+ske gen image headshot world/characters/Marcus.card # Specific character
+ske gen image headshot --force                      # Regenerate existing
+
+# 3. Generate full body portraits (uses headshot as reference)
+ske gen image portrait                              # All characters
+ske gen image portrait world/characters/Marcus.card # Specific character
+ske gen image portrait --force                      # Regenerate existing
+```
+
+### Generated Files
+
+| Command | Output File |
+|---------|-------------|
+| `ske gen image illustration-reference` | `/images/illustration-reference.png` |
+| `ske gen image headshot` | `/world/characters/images/{Name}/headshot.png` |
+| `ske gen image portrait` | `/world/characters/images/{Name}/full-body.png` |
+
+### Character Portrait Workflow
+
+1. **Set up illustration style** in meta-images.card (illustration-style and illustration-reference-prompt)
+
+2. **Generate illustration reference**:
+   ```bash
+   ske gen image illustration-reference
+   ```
+   Creates `/images/illustration-reference.png` which establishes the portrait style.
+
+3. **Generate headshot**:
+   ```bash
+   ske gen image headshot world/characters/Marcus.card
+   ```
+   Creates a shoulders-up portrait using the illustration reference for style. Character's name displayed at the bottom.
+
+4. **Generate full body portrait**:
+   ```bash
+   ske gen image portrait world/characters/Marcus.card
+   ```
+   Uses both the illustration reference (for style) and the headshot (for facial consistency). Shows full body in a standing pose with name at the bottom.
+
+### Writing Portrait Prompts
+
+The `portrait-prompt` field should focus on:
+- **Clothing**: Era-appropriate, reflects their social role
+- **Expression**: Characteristic of their personality
+- **Pose details**: Beyond the standard framing (hand positions, stance)
+
+Physical appearance (height, build, skin, hair, eyes) comes from `physical-description` - don't repeat those details.
+
+Good example:
+> Simple working-class dress in undyed linen, sleeves rolled up. A worn apron suggests long hours of labor. Expression is tired but determined, with a hint of wariness around the eyes.
+
+Bad example:
+> Tall with brown hair, standing at the harbor (includes physical details and setting)
+
+### Style Inheritance
+
+Portraits use `illustration-style` from meta-images.card. If not set, falls back to `cover-style`.
