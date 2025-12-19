@@ -144,18 +144,18 @@ Describe evocative imagery:
 - Think about what would intrigue a reader
 - Keep it simple and evocative
 
-**Character References**: If the cover includes a character, add `<ref>` tags at the end:
+**Character References**: If the cover includes a character, refer to them by name in the prompt text and add `<ref>` tags at the end:
 ```xml
-A woman standing at the edge of a cliff, wind in her hair <ref ref="/world/characters/Elena.card" />
+Elena standing at the edge of a cliff, wind in her hair <ref ref="/world/characters/Elena.card" />
 ```
 
-The character's headshot image will be included in the generation prompt to ensure accurate depiction. Characters without headshots will trigger a warning.
+The character's headshot image will be included and labeled with their name, so the prompt text must use the same name to connect the description to the reference image. Characters without headshots will trigger a warning.
 
 Good examples:
 - "An old pocket watch lying open on autumn leaves, its hands stopped at midnight"
 - "Two hands reaching toward each other across a gap, one in shadow, one in light"
 - "A lighthouse beam cutting through fog, a small boat barely visible"
-- `A man silhouetted against a stormy sky <ref ref="/world/characters/Marcus.card" />`
+- `Marcus silhouetted against a stormy sky <ref ref="/world/characters/Marcus.card" />`
 
 Bad examples:
 - "The detective discovering the body in the library" (too literal/spoilery)
@@ -195,7 +195,7 @@ In `/meta-images.card`, add illustration style fields:
     Subtle painterly quality while maintaining likeness accuracy.
   </illustration-style>
   <illustration-reference-prompt>
-    A middle-aged merchant in simple period clothing, neutral expression, looking slightly to the right
+    A market stall with a vendor arranging colorful fabrics, customers browsing nearby, morning light filtering through awnings
   </illustration-reference-prompt>
 </meta-images>
 ```

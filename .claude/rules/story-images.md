@@ -52,7 +52,7 @@ Revisit reasoning when the story's direction changes significantly, or if the cu
 
 Describes the scene, subject, or imagery for the story cover. This is a pure scene description—do NOT include style directions here. Style comes from cover-style (or meta-images.card if inheriting). The prompt should evoke the story's themes symbolically rather than depicting specific plot events.
 
-**Character References**: If the cover includes a character from the story, add `<ref>` tags at the end of the prompt to reference their character cards. The character's headshot image will be included in the prompt to ensure accurate depiction. Format: `<ref ref="/world/characters/Character_Name.card" />`
+**Character References**: If the cover includes a character from the story, refer to them by name in the prompt text and add `<ref>` tags at the end to reference their character cards. The character's headshot image will be included and labeled with their name, so the prompt text must use the same name to connect the description to the reference image. Format: `<ref ref="/world/characters/Character_Name.card" />`
 
 Characters without a headshot image will trigger a warning during generation.
 
@@ -74,8 +74,8 @@ After changing this, regenerate the cover with `ske gen image cover stories/{sto
 - An old pocket watch lying open on autumn leaves, its hands stopped at midnight
 - Two hands reaching toward each other across a gap, one in shadow, one in light
 - A lighthouse beam cutting through fog, a small boat barely visible in the distance
-- A woman standing at the edge of a cliff, wind whipping through her hair, looking out at a stormy sea <ref ref="/world/characters/Elena.card" />
-- Two figures facing each other across a crowded marketplace, tension visible in their postures <ref ref="/world/characters/Marcus.card" /> <ref ref="/world/characters/Lira.card" />
+- Elena standing at the edge of a cliff, wind whipping through her hair, looking out at a stormy sea <ref ref="/world/characters/Elena.card" />
+- Marcus and Lira facing each other across a crowded marketplace, tension visible in their postures <ref ref="/world/characters/Marcus.card" /> <ref ref="/world/characters/Lira.card" />
 
 **Bad examples (avoid):**
 - A moody, atmospheric painting of a woman at a window *(includes style direction)*

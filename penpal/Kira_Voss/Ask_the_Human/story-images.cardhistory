@@ -1,0 +1,23 @@
+<!-- this file is automatically managed by ske validate; do not edit -->
+<versions>
+  <version number="1.0.0" archived-at="2025-12-19T21:26:17.228Z">
+    <changelog-entry>
+      <message>Initial version</message>
+    </changelog-entry>
+    <story-images version="1.0.0">
+      <cover-style>
+        Black and white editorial illustration style.
+        Stippled pen-and-ink technique, crosshatching for shading.
+        Clean, professional newspaper editorial aesthetic.
+        Simple composition with clear focus on subject.
+        High contrast but with subtle gradations through stippling.
+      </cover-style>
+      <illustration-style />
+      <reasoning-cover>This is an advice column where Kira serves as the facility's "human expert," answering questions from both plants and humans. The cover should present her as approachable and professional - someone you'd want to ask for advice. A headshot-style portrait fits the advice column format, similar to how newspaper advice columnists are traditionally presented. The Wall Street Journal editorial style gives it a polished, authoritative feel while remaining warm. Since this is voice memo format, showing her speaking or about to speak reinforces the conversational nature.</reasoning-cover>
+      <cover-prompt>
+        Kira Voss in a professional headshot composition, looking directly at the viewer with a warm, friendly expression. She's holding a small voice recorder near her mouth, mid-response, as if answering a question. Natural, approachable pose - leaning in slightly, engaged and listening. Her navy jumpsuit visible. The composition is simple and clean, focusing entirely on her face and upper body against a plain background. She looks settled, confident, and genuinely interested in helping.
+        <ref ref="/world/characters/Kira_Voss.card" />
+      </cover-prompt>
+    </story-images>
+  </version>
+</versions>

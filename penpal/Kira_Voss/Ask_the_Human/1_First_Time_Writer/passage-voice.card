@@ -1,0 +1,96 @@
+<!-- Generated automatically, do not edit except with ske gen passage-voice -->
+<passage-voice version="1.0.0">
+  <ref ref="passage-penpal.card#v1.0.0" />
+  <voice>marin</voice>
+  <voice-style>Affect: earnest, chatty, enthusiastic, warm. Tone: optimistic and gently self-deprecating, like a friend giving advice over coffee. Pacing: natural but gets faster when excited about a question, with tangents and self-corrections. More intimate than story narration - she's talking TO someone, not narrating.</voice-style>
+  <reasoning>This is a friendly, first-person, conversational passage. I added medium pauses (—) at clause breaks and parenthetical dashes, converted ellipses to the single-character ellipsis (…) for trailing/hesitant pauses, and inserted a paragraph break marker (¶) to indicate longer pauses between major sections. No sentences were rewritten or merged. I moved no action descriptions because there were none. Key places I added pauses: after greeting clusters, around asides (parenthetical phrases), before quoted direct-speech suggestions, and at transitions between topics (greeting → question → advice → food → name). No symbols or numbers needed conversion to spoken form.</reasoning>
+  <content-change />
+  <chunks>
+    <chunk>
+      <text>
+        Oh my gosh, TONY! Hi! First time writer, that's so exciting! I always love hearing from people who've been reading along and finally decide to send something in. It's like… you know when you've been waving at someone from across a room and then they finally wave back? That feeling. Anyway. Hi!
+
+        ¶
+
+        Okay, so. Your question. First of all, can I just say how much I love that you're worried about this? Like, the fact that you're thinking about human lung health BEFORE the visit instead of, like, watching your guest cough and going "huh, wonder what that's about" — that's already so thoughtful. You're already doing great.
+
+        So here's the thing about the spores: just TELL them. I know, I know, that sounds too simple, but honestly? Humans appreciate honesty way more than they appreciate you secretly trying to fix everything. If you say "hey, our fungal friends produce spores that might irritate your lungs, do you want to wear a mask or would you prefer we meet somewhere else?" — that's not rude! That's considerate!
+
+        The worst thing — and I say this from experience — is when someone tries to hide something that's just… part of how they live? Like, when I first got here, there was this whole situation where my friend Buddy kept trying to hide that his leaves shed sometimes because he thought it would gross me out. And then I found leaf bits in my food and I was like "is this… supposed to be here?" and it was this whole awkward THING that could have been avoided if he'd just said "hey, I shed, it's normal, don't eat the leaves."
+
+        Actually wait, that reminds me — FOOD. You asked about food! Okay so. Humans are weirdly picky but also weirdly adaptable? Like, we have these whole complicated systems of "I only eat this" and "never that" but then sometimes we'll eat something completely bizarre just because someone offered it nicely.
+
+        My suggestion: keep it simple. Fruit is usually safe — most humans like fruit. If you can get anything sweet, that's good. Avoid anything that moves on its own. Avoid anything that's still… growing? Like, detached from its source. I once got offered something that was still photosynthesizing on the plate and I just… I didn't know what to DO with that.
+
+        Oh! And water. Humans need SO much water, it's honestly embarrassing. Just have water available and you're already ahead of most hosts I've had.
+
+        ¶
+
+        And TONY. Tony! Yes! Tony is a GREAT name. It's friendly, it's easy to say, it's got good energy. I know a lot of humans probably seem like we have Opinions about names but honestly? We're just happy when we can pronounce something. And Tony is perfect. Very approachable. Very "hello, I am Tony and I will not accidentally poison you with spores because I warned you first."
+      </text>
+      <stage-directions>
+        Overall tone &amp; pacing: Warm, chatty, upbeat and lightly amused. Keep a friendly, conversational rhythm with short breaths and a couple longer pauses at the marked ¶ breaks.
+
+        - For the opener "Oh my gosh, TONY! Hi!" be enthusiastic and bright; take a small breath after "Hi!".
+        - At "It's like… you know when you've been waving…" use a slightly hesitant, storytelling cadence on "It's like…" then continue smoothly.
+        - Treat parenthetical asides with a softer, quick aside tone, e.g. read the clause in "the fact that you're thinking about human lung health BEFORE the visit" slightly faster and then pause before "— that's already so thoughtful.".
+        - When you reach quoted suggestions like "hey, our fungal friends produce spores…" slow down a touch and make it sound like offering helpful phrasing to the listener.
+        - Observe the paragraph break marker "¶" as a longer pause (about 700–900 ms) to let the ideas settle before moving to the next section.
+      </stage-directions>
+    </chunk>
+    <chunk>
+      <text>
+        Actually, now I'm curious — what kind of human are you hosting? Is this like a researcher situation, or a friend visit, or…? And what's it like being a collective? I've always wondered how that works with decision-making. Like, do you all have to agree on things, or is there a spokesperson situation, or…?
+
+        Anyway. You're going to be a great host, Tony. The fact that you're thinking about all this stuff ahead of time? — That's the whole secret. Humans can tell when someone's trying, and we appreciate it *SO* much, even when things go a little weird. Which they will! Things always go a little weird. But that's fine. Weird is fine. Weird is how you end up with good stories.
+
+        Good luck! Write back and tell me how it goes!
+
+        ¶
+
+        - Kira
+
+        P.S. — Seriously though, the mask thing. Just offer it. We won't be offended. Some of us actually think masks are kind of fun. Don't ask me why.
+      </text>
+      <stage-directions>
+        Overall tone &amp; pacing: Warm, chatty, lightly amused; conversational with short breaths and a couple of slightly longer pauses at the marked break.
+
+        - For the opener, read "Actually, now I'm curious —" with genuine curiosity; take a small breath after the em dash.
+        - On the line "Is this like a researcher situation, or a friend visit, or…?" allow a gentle, inquisitive cadence and a trailing, hesitant finish on "…?".
+        - Treat "The fact that you're thinking about all this stuff ahead of time? — That's the whole secret." as a small reveal; put a slight weight on "That's the whole secret." and pause briefly after it.
+        - Emphasize the word "*SO*" in "we appreciate it *SO* much" with warm emphasis (not loud) to convey gratitude.
+        - Observe the paragraph-break marker "¶" as a longer pause (about 700–900 ms) before the signature; then read "- Kira" as a quick, friendly sign-off.
+
+        Closing cadence: Soft landing; warm fall, lingering last syllable.
+      </stage-directions>
+    </chunk>
+  </chunks>
+  <title>Tony's First Visit</title>
+  <combined-text>
+    Oh my gosh, TONY! Hi! First time writer, that's so exciting! I always love hearing from people who've been reading along and finally decide to send something in. It's like… you know when you've been waving at someone from across a room and then they finally wave back? That feeling. Anyway. Hi!
+
+    Okay, so. Your question. First of all, can I just say how much I love that you're worried about this? Like, the fact that you're thinking about human lung health BEFORE the visit instead of, like, watching your guest cough and going "huh, wonder what that's about" — that's already so thoughtful. You're already doing great.
+
+    So here's the thing about the spores: just TELL them. I know, I know, that sounds too simple, but honestly? Humans appreciate honesty way more than they appreciate you secretly trying to fix everything. If you say "hey, our fungal friends produce spores that might irritate your lungs, do you want to wear a mask or would you prefer we meet somewhere else?" — that's not rude! That's considerate!
+
+    The worst thing — and I say this from experience — is when someone tries to hide something that's just… part of how they live? Like, when I first got here, there was this whole situation where my friend Buddy kept trying to hide that his leaves shed sometimes because he thought it would gross me out. And then I found leaf bits in my food and I was like "is this… supposed to be here?" and it was this whole awkward THING that could have been avoided if he'd just said "hey, I shed, it's normal, don't eat the leaves."
+
+    Actually wait, that reminds me — FOOD. You asked about food! Okay so. Humans are weirdly picky but also weirdly adaptable? Like, we have these whole complicated systems of "I only eat this" and "never that" but then sometimes we'll eat something completely bizarre just because someone offered it nicely.
+
+    My suggestion: keep it simple. Fruit is usually safe — most humans like fruit. If you can get anything sweet, that's good. Avoid anything that moves on its own. Avoid anything that's still… growing? Like, detached from its source. I once got offered something that was still photosynthesizing on the plate and I just… I didn't know what to DO with that.
+
+    Oh! And water. Humans need SO much water, it's honestly embarrassing. Just have water available and you're already ahead of most hosts I've had.
+
+    And TONY. Tony! Yes! Tony is a GREAT name. It's friendly, it's easy to say, it's got good energy. I know a lot of humans probably seem like we have Opinions about names but honestly? We're just happy when we can pronounce something. And Tony is perfect. Very approachable. Very "hello, I am Tony and I will not accidentally poison you with spores because I warned you first."
+
+    Actually, now I'm curious — what kind of human are you hosting? Is this like a researcher situation, or a friend visit, or…? And what's it like being a collective? I've always wondered how that works with decision-making. Like, do you all have to agree on things, or is there a spokesperson situation, or…?
+
+    Anyway. You're going to be a great host, Tony. The fact that you're thinking about all this stuff ahead of time? — That's the whole secret. Humans can tell when someone's trying, and we appreciate it *SO* much, even when things go a little weird. Which they will! Things always go a little weird. But that's fine. Weird is fine. Weird is how you end up with good stories.
+
+    Good luck! Write back and tell me how it goes!
+
+    - Kira
+
+    P.S. — Seriously though, the mask thing. Just offer it. We won't be offended. Some of us actually think masks are kind of fun. Don't ask me why.
+  </combined-text>
+</passage-voice>

@@ -1,0 +1,21 @@
+{
+  "prompt": "Kira resting peacefully against a large tree trunk in the bioluminescent forest at night. Her eyes are closed or half-closed, face completely relaxed, a gentle contentment visible in her expression. The forest around her glows with soft pulses of blue and green bioluminescence - burgundy tree trunks, violet leaves creating a canopy above. Purple twilight sky visible through gaps in the canopy. The light pulses slowly, creating a rhythm of gentle illumination. Everything is still and calm. Kira is wrapped in a warm blanket, settled comfortably, completely at peace. Two moons visible in the lavender sky. The overall mood is deeply restful - the moment just before falling asleep in perfect safety. Kira Voss",
+  "style": "Soft watercolor with deep purples, violet, and lavender as the dominant palette.\nWarm coral and golden accents for contrast.\nGentle linework with painterly edges.\nBioluminescent glows in blues and greens.\nWarm, inviting lighting despite the twilight tones.",
+  "generatedAt": "2025-12-19T21:24:27.530Z",
+  "model": "gemini-2.5-flash-image",
+  "references": [
+    {
+      "type": "style-reference",
+      "path": "images/cover-reference.png",
+      "imageHash": "f11416495a59105f",
+      "prompt": "Looking up at a burgundy tree trunk from ground level, bark smooth and slightly warm-toned. Violet leaves form a canopy above, backlit with inner bioluminescence creating soft purple glow. Lavender-tinted light filters through. Ground visible at bottom with purple moss. A vertical view emphasizing the alien tree's scale and distinctive coloring."
+    },
+    {
+      "type": "character-reference",
+      "path": "world/characters/images/Kira_Voss/headshot.png",
+      "imageHash": "dcecbe109742b090",
+      "prompt": "Style: Delicate watercolor with soft washes and fine linework.\nMuted palette: dusty lavenders, soft violet, warm grays, pale coral accents.\nVignette compositions fading gently to white.\nDiffused lighting, intimate and quiet.\n\nGenerate a character portrait headshot (shoulders up) against a plain neutral background.\n\nPhysical appearance: 5'7\", average build with some muscle from cargo work, light brown skin, black hair (kept short for practicality, usually messy), dark brown eyes, oval face with a slightly upturned nose. Appears early-to-mid 20s. Hands have calluses from handling freight. Usually wears standard-issue cargo crew jumpsuit in navy blue with company patches.\n\nClothing and expression: A woman in her early-to-mid 20s with light brown skin and an oval face. Black hair kept short and practical, currently messy and slightly tousled. Dark brown eyes with an alert, curious quality. Slightly upturned nose, giving her face a friendly openness. Neutral, relaxed expression with a hint of attentiveness. Navy blue cargo jumpsuit with a sturdy utilitarian collar, faded corporate patches visible on both shoulders, zipper pulled up to mid-chest.\n\nFraming: Head and shoulders, centered, looking slightly to the right.\nBackground: Plain, neutral gradient - do not include any environment or setting.\n\nDisplay the name \"Kira Voss\" as text at the bottom of the image.",
+      "characterName": "Kira Voss"
+    }
+  ]
+}

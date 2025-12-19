@@ -41,25 +41,30 @@ Modern sans-serif typography.
 
 Describes a scene or subject that will be generated as the style reference image. This image establishes the visual style that other covers will match. The prompt should be a pure scene description—style comes from cover-style, not here.
 
+Avoid specific or identifiable characters. If people appear, they should be anonymous silhouettes, distant figures, or shown from behind. The reference establishes style, not character identity.
+
 **When creating:**
 Describe a scene or subject that:
 - Represents the project's themes or mood abstractly
 - Works well as a style exemplar (good composition, clear focal point)
 - Is not a specific story scene (this is for style, not content)
+- Avoids identifiable people—use silhouettes, distant figures, or no people at all
 
-Keep it simple and evocative. The reference image should demonstrate the style, not tell a specific story.
+Keep it simple and evocative. The reference image should demonstrate the style, not tell a specific story or establish character appearances.
 
 **When editing:**
 After changing this, regenerate the reference image with `ske gen image reference`.
 
 **Good examples:**
-- A solitary figure standing at the edge of a forest at dusk
+- A silhouette standing at the edge of a forest at dusk
 - An old wooden door with light streaming through the cracks
 - A winding path through autumn mountains seen from above
+- A distant figure walking along an empty beach at sunset
 
 **Bad examples (avoid):**
 - A moody, atmospheric painting of a forest *(includes style direction)*
 - Chapter 3 scene where Maria discovers the letter *(too specific/story-based)*
+- A young woman with red hair looking over her shoulder *(identifiable character)*
 
 ## `<project-cover-prompt>` (required) [medium priority]
 
@@ -67,7 +72,7 @@ After changing this, regenerate the reference image with `ske gen image referenc
 
 Describes the scene or imagery for the project-level cover. This is the main cover representing the entire project, not individual stories. Style comes from cover-style; this is just the scene/subject.
 
-**Character References**: If the cover includes characters, add `<ref>` tags at the end of the prompt to reference their character cards. The character's headshot image will be included in the prompt to ensure accurate depiction. Format: `<ref ref="/world/characters/Character_Name.card" />`
+**Character References**: If the cover includes characters, refer to them by name in the prompt text and add `<ref>` tags at the end to reference their character cards. The character's headshot image will be included and labeled with their name, so the prompt text must use the same name to connect the description to the reference image. Format: `<ref ref="/world/characters/Character_Name.card" />`
 
 Characters without a headshot image will trigger a warning during generation.
 
@@ -87,7 +92,7 @@ After changing this, regenerate the project cover with `ske gen image project-co
 - Intertwining paths through mountain terrain, converging at a distant peak
 - A collection of keys of different sizes and styles arranged in a circle
 - City skyline at twilight with a single lit window
-- A man silhouetted against a sunset, overlooking the city below <ref ref="/world/characters/Marcus.card" />
+- Marcus silhouetted against a sunset, overlooking the city below <ref ref="/world/characters/Marcus.card" />
 
 **Bad examples (avoid):**
 - A beautiful watercolor of mountains *(includes style direction)*
@@ -127,23 +132,26 @@ Limited color palette with strong contrast.
 
 **Purpose:** Scene description for generating the illustration style reference image
 
-Describes a portrait subject that will establish the visual style for all character portraits. This should be a generic character portrait that demonstrates the desired rendering style, not a specific project character.
+Describes a scene that will establish the visual style for character portraits and illustrations. This should be a medium-complexity scene with multiple elements that demonstrates the desired rendering style—not a close-up portrait or a specific project character.
 
 **When creating:**
-Describe a portrait subject that:
-- Demonstrates the portrait style well (clear face, good lighting)
-- Is generic enough to work as a style reference (not a specific character)
+Describe a scene that:
+- Has medium complexity with multiple elements (figures, objects, environment)
+- Avoids close-ups of faces—use mid-distance or environmental shots
 - Shows the level of detail and rendering approach you want
+- Is generic enough to work as a style reference (not specific characters)
 
-Keep it simple—this establishes style, not specific character identity.
+The reference should demonstrate how the style handles various elements (people at a distance, objects, lighting, textures) rather than focusing on facial detail.
 
 **When editing:**
 After changing this, regenerate the reference with `ske gen image illustration-reference`.
 
 **Good examples:**
-- A middle-aged merchant in simple period clothing, neutral expression, looking slightly to the right
-- A young woman in working clothes, determined expression, soft lighting from the left
+- A market stall with a vendor arranging colorful fabrics, customers browsing nearby, morning light filtering through awnings
+- A small workshop interior with tools on the wall, a figure working at a bench, afternoon light from a window
+- Two travelers on a dusty road, one pointing toward a distant village, rolling hills in the background
 
 **Bad examples (avoid):**
-- Marcus the silk merchant wearing his blue tunic *(too specific)*
-- A painterly portrait of a person *(includes style)*
+- A middle-aged merchant, neutral expression, looking slightly to the right *(close-up portrait)*
+- Marcus the silk merchant in his shop *(too specific)*
+- A painterly illustration of a market scene *(includes style)*

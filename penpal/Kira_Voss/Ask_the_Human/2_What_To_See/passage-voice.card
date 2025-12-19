@@ -1,0 +1,101 @@
+<!-- Generated automatically, do not edit except with ske gen passage-voice -->
+<passage-voice version="1.0.0">
+  <ref ref="passage-penpal.card#v1.0.0" />
+  <voice>marin</voice>
+  <voice-style>Affect: earnest, chatty, enthusiastic, warm. Tone: optimistic and gently self-deprecating, like a friend giving advice over coffee. Pacing: natural but gets faster when excited about a question, with tangents and self-corrections. More intimate than story narration - she's talking TO someone, not narrating.</voice-style>
+  <reasoning>This is a first-person, conversational passage with high energy and moments of wistful wonder. Add medium pauses (—) after excited exclamations and between clauses where a breath would naturally fall; use ellipses (…) where the speaker trails or hesitates; insert a paragraph break symbol (¶) between major sections (overview / list / gifts) for a longer pause. No symbols or numeric conversions were necessary. There are no explicit action markers like "*laughing*" to move, so STAGE_DIRECTIONS focuses on delivery (warm, excited, occasional wistful softness).</reasoning>
+  <content-change />
+  <chunks>
+    <chunk>
+      <text>
+        Oh my gosh, a fellow Uncharted fan! HELLO! — I feel like I already like you. Do you remember the episode where Captain Vex had to navigate that whole diplomatic situation with the crystalline beings and she kept accidentally insulting them by making eye contact? That's basically my LIFE now. — Except with plants. And less crystal.
+
+        Okay okay okay — must-see things. Let me think. I'm basically making a travel guide for my own accidental home, which is WILD.
+
+        ¶
+
+        First: the facility. I know that sounds boring - "come see the bureaucracy!" - but honestly? It's kind of amazing. There's this whole complex where the plants have set up administration and research and it's just... it's so EARNEST. Like, they have forms. For everything. And the forms have forms. And everyone is so serious about it and it's somehow the most charming thing ever? — Plus that's where I live, so if you visit the facility you can say hi!
+
+        Second: the bioluminescent areas. There are parts of the forest where everything GLOWS at night. And I don't mean like, a little twinkle. I mean full-on "is this a dream sequence?" levels of glow. Blues and greens and sometimes these pulses of purple that move through the canopy like... like the forest is breathing light. I cried the first time I saw it. — Don't tell anyone. Actually, tell everyone, it's THAT beautiful.
+
+        Third: if you can make it out to the hills, there's this ancient grove at the top. The trees there are OLD. Like, "witnessed the rise and fall of civilizations" old. And they're still growing, still reaching. Standing there makes you feel very small but in a good way? — In a "the universe is vast and ancient and I'm part of it" way.
+
+        ¶
+
+        Now. GIFTS. — I love that you're worried about this. "Who do I give it to, it's a whole planet!" — that made me laugh out loud. Okay so here's the thing: you're not giving a gift to the planet. You're giving a gift to whoever hosts you. And someone WILL host you, because that's how it works here. The bureaucracy will assign you a guide (they love assigning things) and that guide becomes kind of responsible for you. Bring something for them!
+
+        What to bring: something shareable is good. Food travels well emotionally - like, the concept of "I brought you something to eat" translates really well across species. Seeds are VERY appreciated, especially if they're from somewhere the plants here haven't seen. Or honestly? Just bring something from home that you can explain. They love hearing about human stuff. A book, a photo, a weird snack. The gift is really just an excuse to tell a story.
+      </text>
+      <stage-directions>
+        Tone &amp; pacing: warm, exuberant, and conversational with quick bursts of excitement and a few soft, reflective moments.
+
+        - Emphasize excitement on "HELLO!" and pause ("HELLO! —") before the next sentence to let the greeting land.
+        - For lines like "That's basically my LIFE now. — Except with plants." drop to a slightly amused, conversational tone; keep it quick but let the dash be a breath.
+        - When saying "First: the facility." / "Second: the bioluminescent areas." / "Third: if you can make it out to the hills," use them as list markers — small pause after each label, then continue with a descriptive, wonder-filled voice.
+        - For the bioluminescent description ("...the forest is breathing light."), soften and slow slightly; allow the ellipses and the dash after "I cried the first time I saw it. —" to be a private, whispered aside.
+        - On the gifts section, be encouraging and practical; raise warmth on "Bring something for them!" and end the passage with a friendly, inclusive tone on "The gift is really just an excuse to tell a story."
+      </stage-directions>
+    </chunk>
+    <chunk>
+      <text>
+        Places to avoid... okay, not AVOID exactly, but be careful? — The territories outside the facility all have different customs and different... temperaments. Some of them are super friendly to visitors and some of them are more "why are you in my forest, soft creature?" — So just... don't wander off without your guide. I learned this the hard way. — I mean, I crashed here, so I didn't exactly have a choice about my entrance - long story, spaceship malfunction, very dramatic — but even after that, I definitely got lost a few times before I figured out how things worked.
+
+        Oh! How are you planning to get here, by the way? — That's actually a genuine question because my arrival method was, uh, not recommended.
+
+        ¶
+
+        Anyway. — I'm so excited for you! — Write me when you get here. — Or before. — Or during. — Just write me, honestly, I want to hear how it goes. — And if you end up at the facility, ask for me! — I'll show you around. — We can compare notes on Captain Vex's diplomatic disasters.
+
+        Safe travels, fellow adventurer! —
+
+        - Kira
+
+        P.S. - If anyone offers you something to eat that's still visibly photosynthesizing, it's polite to try a bite, but you don't have to finish it. — Trust me on this one.
+      </text>
+      <stage-directions>
+        Tone &amp; pacing: warm, friendly, conversational with playful excitement and small reflective beats; alternate brisk delivery for excited lines and softer delivery for the reminiscing lines. Gentle, welcoming overall.
+
+        - On "Places to avoid... okay, not AVOID exactly, but be careful?" start curious and a little amused; let the em dash be a short breath before "The territories...".
+        - For "So just... don't wander off without your guide." slow slightly on the ellipsis, then firm but friendly on the admonition.
+        - When saying "I learned this the hard way." and the following sentence about crashing, drop to a softer, slightly embarrassed tone; let the em dashes be small reflective pauses.
+        - On the questions "Oh! How are you planning to get here, by the way?" and "That's actually a genuine question..." use bright curiosity, with a short breath (em dash) between them.
+        - Deliver the closing lines "Safe travels, fellow adventurer!" and the signature "- Kira" as a warm sendoff; end with a gentle fade. "Gentle fade; trail off peacefully"
+      </stage-directions>
+    </chunk>
+  </chunks>
+  <unusual-pronunciations>
+    <word text="Captain Vex" />
+    <word text="Kira" />
+    <word text="Vex" />
+    <word text="bioluminescent" />
+    <word text="photosynthesizing" />
+  </unusual-pronunciations>
+  <title>Travel Tips for Fellow Adventurers</title>
+  <combined-text>
+    Oh my gosh, a fellow Uncharted fan! HELLO! — I feel like I already like you. Do you remember the episode where Captain Vex had to navigate that whole diplomatic situation with the crystalline beings and she kept accidentally insulting them by making eye contact? That's basically my LIFE now. — Except with plants. And less crystal.
+
+    Okay okay okay — must-see things. Let me think. I'm basically making a travel guide for my own accidental home, which is WILD.
+
+    First: the facility. I know that sounds boring - "come see the bureaucracy!" - but honestly? It's kind of amazing. There's this whole complex where the plants have set up administration and research and it's just... it's so EARNEST. Like, they have forms. For everything. And the forms have forms. And everyone is so serious about it and it's somehow the most charming thing ever? — Plus that's where I live, so if you visit the facility you can say hi!
+
+    Second: the bioluminescent areas. There are parts of the forest where everything GLOWS at night. And I don't mean like, a little twinkle. I mean full-on "is this a dream sequence?" levels of glow. Blues and greens and sometimes these pulses of purple that move through the canopy like... like the forest is breathing light. I cried the first time I saw it. — Don't tell anyone. Actually, tell everyone, it's THAT beautiful.
+
+    Third: if you can make it out to the hills, there's this ancient grove at the top. The trees there are OLD. Like, "witnessed the rise and fall of civilizations" old. And they're still growing, still reaching. Standing there makes you feel very small but in a good way? — In a "the universe is vast and ancient and I'm part of it" way.
+
+    Now. GIFTS. — I love that you're worried about this. "Who do I give it to, it's a whole planet!" — that made me laugh out loud. Okay so here's the thing: you're not giving a gift to the planet. You're giving a gift to whoever hosts you. And someone WILL host you, because that's how it works here. The bureaucracy will assign you a guide (they love assigning things) and that guide becomes kind of responsible for you. Bring something for them!
+
+    What to bring: something shareable is good. Food travels well emotionally - like, the concept of "I brought you something to eat" translates really well across species. Seeds are VERY appreciated, especially if they're from somewhere the plants here haven't seen. Or honestly? Just bring something from home that you can explain. They love hearing about human stuff. A book, a photo, a weird snack. The gift is really just an excuse to tell a story.
+
+    Places to avoid... okay, not AVOID exactly, but be careful? — The territories outside the facility all have different customs and different... temperaments. Some of them are super friendly to visitors and some of them are more "why are you in my forest, soft creature?" — So just... don't wander off without your guide. I learned this the hard way. — I mean, I crashed here, so I didn't exactly have a choice about my entrance - long story, spaceship malfunction, very dramatic — but even after that, I definitely got lost a few times before I figured out how things worked.
+
+    Oh! How are you planning to get here, by the way? — That's actually a genuine question because my arrival method was, uh, not recommended.
+
+    Anyway. — I'm so excited for you! — Write me when you get here. — Or before. — Or during. — Just write me, honestly, I want to hear how it goes. — And if you end up at the facility, ask for me! — I'll show you around. — We can compare notes on Captain Vex's diplomatic disasters.
+
+    Safe travels, fellow adventurer! —
+
+    - Kira
+
+    P.S. - If anyone offers you something to eat that's still visibly photosynthesizing, it's polite to try a bite, but you don't have to finish it. — Trust me on this one.
+  </combined-text>
+</passage-voice>
