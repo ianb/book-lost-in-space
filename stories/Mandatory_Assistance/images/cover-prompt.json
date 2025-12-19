@@ -1,7 +1,7 @@
 {
   "prompt": "Purple twilight forest with burgundy tree trunks and violet leaves glowing from within. Kira in her navy jumpsuit, crouched and looking up with wonder at a plant extending a tendril toward her—the plant holds something small and glowing. Crashed ship wreckage visible through the trees. Bioluminescent pulses of blue-green light. Two moons in a lavender sky. The mood is curious and warm, not threatening. Kira Voss",
   "style": "Soft watercolor with deep purples, violet, and lavender as the dominant palette.\nWarm coral and golden accents for contrast.\nGentle linework with painterly edges.\nBioluminescent glows in blues and greens.\nWarm, inviting lighting despite the twilight tones.",
-  "generatedAt": "2025-12-19T19:59:51.793Z",
+  "generatedAt": "2025-12-19T22:30:16.895Z",
   "model": "gemini-2.5-flash-image",
   "references": [
     {
@@ -13,7 +13,7 @@
     {
       "type": "character-reference",
       "path": "world/characters/images/Kira_Voss/headshot.png",
-      "imageHash": "dcecbe109742b090",
+      "imageHash": "a1d44504dfbb23ab",
       "prompt": "Style: Delicate watercolor with soft washes and fine linework.\nMuted palette: dusty lavenders, soft violet, warm grays, pale coral accents.\nVignette compositions fading gently to white.\nDiffused lighting, intimate and quiet.\n\nGenerate a character portrait headshot (shoulders up) against a plain neutral background.\n\nPhysical appearance: 5'7\", average build with some muscle from cargo work, light brown skin, black hair (kept short for practicality, usually messy), dark brown eyes, oval face with a slightly upturned nose. Appears early-to-mid 20s. Hands have calluses from handling freight. Usually wears standard-issue cargo crew jumpsuit in navy blue with company patches.\n\nClothing and expression: A woman in her early-to-mid 20s with light brown skin and an oval face. Black hair kept short and practical, currently messy and slightly tousled. Dark brown eyes with an alert, curious quality. Slightly upturned nose, giving her face a friendly openness. Neutral, relaxed expression with a hint of attentiveness. Navy blue cargo jumpsuit with a sturdy utilitarian collar, faded corporate patches visible on both shoulders, zipper pulled up to mid-chest.\n\nFraming: Head and shoulders, centered, looking slightly to the right.\nBackground: Plain, neutral gradient - do not include any environment or setting.\n\nDisplay the name \"Kira Voss\" as text at the bottom of the image.",
       "characterName": "Kira Voss"
     }
