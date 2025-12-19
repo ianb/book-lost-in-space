@@ -203,7 +203,7 @@ Added to `/world/characters/{Name}.card`:
     5'10", medium build with some belly, brown skin, black hair (short, starting to thin at the crown), brown eyes, rounded face with a broad nose. Appears late 20s. Hands are calloused from dock work.
   </physical-description>
   <headshot-prompt>
-    Dark wool tunic with a linen collar visible. Neutral, relaxed expression with a calm gaze.
+    A man in his late 20s with brown skin, a rounded face, and a broad nose. Short black hair, starting to thin at the crown. Brown eyes with a calm, steady gaze. Neutral, relaxed expression. Dark wool tunic with a linen collar visible at the neckline.
   </headshot-prompt>
   <full-body-prompt>
     Man in his late 20s with a calm expression. Medium build with some belly. Dark wool tunic over a linen shirt, leather belt with a small pouch, practical boots worn from use. Standing in a relaxed but attentive pose, weight slightly on one foot, hands loosely at sides.
@@ -211,7 +211,7 @@ Added to `/world/characters/{Name}.card`:
 </character>
 ```
 
-**headshot-prompt**: Focuses on upper clothing and neutral expression. Physical-description provides facial details.
+**headshot-prompt**: Highly detailed, comprehensive description of face, hair, expression, and upper clothing.
 
 **full-body-prompt**: Very detailed for body/outfit, but only brief face description (headshot reference handles facial accuracy).
 
@@ -264,13 +264,16 @@ ske gen image portrait --force                      # Regenerate existing
 
 ### Writing Portrait Prompts
 
-**headshot-prompt**:
-- Upper clothing only (collar, neckline, shoulders)
-- Neutral, relaxed expression (this is a reference image)
+**headshot-prompt** - Highly detailed, comprehensive description:
+- Face: Skin tone, facial structure (round, angular, etc.), distinctive features
+- Eyes: Color, shape, expression
+- Hair: Color, length, style, texture
+- Age appearance: How old they look
+- Expression: Neutral and relaxed (this is a reference portrait)
+- Upper clothing: What's visible at collar/neckline/shoulders
 - Accessories at head/neck level
-- Don't repeat physical-description details
 
-**full-body-prompt**:
+**full-body-prompt** - Detailed body, brief face:
 - Brief general face description (age, expression - headshot handles details)
 - Complete outfit in detail
 - Body type and build
@@ -278,10 +281,10 @@ ske gen image portrait --force                      # Regenerate existing
 - Hand positions and body language
 
 Good headshot example:
-> Dark wool tunic with a linen collar visible. Neutral, relaxed expression with a calm gaze.
+> A man in his late 20s with brown skin, a rounded face, and a broad nose. Short black hair, starting to thin at the crown. Brown eyes with a calm, steady gaze. Neutral, relaxed expression. Dark wool tunic with a linen collar visible at the neckline.
 
 Good full-body example:
-> Man in his late 20s with a calm expression. Medium build. Simple working-class dress in undyed linen, sleeves rolled up, worn apron tied at the waist. Standing with arms crossed, feet planted firmly.
+> Man in his late 20s with a calm expression. Medium build with some belly. Dark wool tunic over a linen shirt, leather belt with a small pouch, practical boots worn from use. Standing in a relaxed but attentive pose, weight slightly on one foot, hands loosely at sides.
 
 ### Style Inheritance
 

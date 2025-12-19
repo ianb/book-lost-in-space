@@ -445,31 +445,33 @@ This is primarily a housekeeping field, updated reactively as characters interac
 
 ## `<headshot-prompt>` (optional) [low priority]
 
-**Purpose:** Description for AI-generated headshot portrait (shoulders up).
+**Purpose:** Highly detailed description for AI-generated headshot portrait (shoulders up).
 
-Describe the character for headshot generation - a shoulders-up portrait against a neutral background with a neutral expression. The character's name will be displayed at the bottom.
+Write a comprehensive, highly detailed prompt for generating a shoulders-up portrait against a neutral background. This should be detailed enough that an AI image generator can create an accurate, consistent likeness. The character's name will be displayed at the bottom.
 
 Generated file: `world/characters/images/{CharacterName}/headshot.png`
 
-The physical-description field provides detailed facial appearance (skin color, hair color/style, eye color, facial structure, age appearance) which is automatically included in the AI prompt. This ensures accurate rendering of the character's face.
-
-Focus here on:
-- Upper clothing visible in a headshot (collar, neckline, shoulders)
-- A neutral, relaxed facial expression (this is a reference portrait, not an action shot)
-- Any accessories visible at head/neck level (jewelry, hair ornaments, etc.)
+Include detailed descriptions of:
+- Face: Skin tone, facial structure (round, angular, etc.), distinctive features
+- Eyes: Color, shape, expression
+- Hair: Color, length, style, texture (curly, straight, etc.)
+- Age appearance: How old they look
+- Expression: Neutral and relaxed (this is a reference portrait)
+- Upper clothing: What's visible at collar/neckline/shoulders
+- Accessories: Jewelry, hair ornaments, etc. visible in a headshot
 
 Keep the background neutral - don't describe settings or environments.
 
 **When creating:**
-Write 1-3 sentences focusing on upper clothing and a neutral expression. The physical-description already provides detailed facial features (race, hair color/style, eye color, facial structure) - don't repeat those here. Use a neutral, relaxed expression for this reference portrait.
+Write 3-5 detailed sentences. Be specific about every visible feature - vague prompts produce inconsistent results. Include skin tone, facial structure, eye color and shape, hair color/length/style, age appearance, expression, and upper clothing. Use physical-description as a source but write the prompt to be self-contained and comprehensive.
 
 **Good examples:**
-- Dark wool tunic with a linen collar visible. Neutral, relaxed expression with a calm gaze.
-- Simple undyed linen dress, neckline plain and practical. Expression is calm and neutral, gaze directed slightly to the right.
-- Fine silk robes in deep blue with gold embroidery at the collar. Composed, neutral expression.
+- A man in his late 20s with brown skin, a rounded face, and a broad nose. Short black hair, starting to thin at the crown. Brown eyes with a calm, steady gaze. Neutral, relaxed expression. Dark wool tunic with a linen collar visible at the neckline.
+- A woman in her early 30s with olive skin and a narrow, angular face. Long dark brown hair pulled back in a practical braid. Dark eyes, slightly deep-set. Composed, neutral expression with a direct gaze. Simple undyed linen dress, neckline plain and unadorned.
+- A man appearing in his 50s with pale, weathered skin and a square jaw. Balding, with close-cropped gray hair on the sides. Blue eyes with crow's feet at the corners. Missing part of his left ear. Calm, neutral expression. Rough homespun tunic, fraying at the collar.
 
 **Bad examples (avoid):**
-- Brown hair framing a round face, wearing a blue tunic. *(Includes physical details that belong in physical-description)*
+- Dark wool tunic with a linen collar visible. Neutral expression. *(Too vague, will produce inconsistent results)*
 - Full merchant's outfit with belt, pouch, and boots. *(Describes full outfit, not headshot)*
 - Angry scowl, teeth bared in rage. *(Too expressive for a reference portrait)*
 
