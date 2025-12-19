@@ -2,9 +2,18 @@
 
 You're being asked to review and address user feedback (critiques) on this story.
 
-## Step 1: List Pending Critiques
+## Step 1: Fetch New Critiques
 
-First, get an overview of what's pending:
+First, fetch any new feedback from the server:
+```bash
+ske critique fetch
+```
+
+This pulls down user feedback that hasn't been fetched yet and creates critique cards in `critiques/unconfirmed/`.
+
+## Step 2: List Pending Critiques
+
+Get an overview of what's pending:
 ```bash
 ske critique list --summary
 ```
@@ -18,7 +27,7 @@ If there are more than 4, you can paginate with `--offset 4` or increase with `-
 
 If there are no critiques, inform the user and stop.
 
-## Step 2: Select a Critique
+## Step 3: Select a Critique
 
 If there's only one critique, proceed with it.
 
@@ -29,7 +38,7 @@ If there are multiple critiques, consider:
 
 If it's not obvious which to handle first, briefly list the options and ask the user which they'd like to address.
 
-## Step 3: Investigate the Feedback
+## Step 4: Investigate the Feedback
 
 For the selected critique:
 
@@ -43,7 +52,32 @@ Consider:
 - Is the fix obvious, or are there multiple approaches?
 - Does addressing this require changes to other passages?
 
-## Step 4: Decide on Action
+## Step 5: Decide on Action
+
+### If the feedback is about the system (not the story):
+
+Sometimes users give feedback about the website, audio player, reading experience, or story-writing system rather than the story content itself. For these critiques:
+
+1. **Try to add to the development todo list:**
+   ```bash
+   # Check if the todo file exists
+   ls ~/src/ske/ske/docs/todo.md
+   ```
+
+2. **If it exists**, append the feedback as a new item and mark the critique as done:
+   ```bash
+   # Add to todo.md with context about the source
+   echo "- [Feedback C##] Description of the issue or suggestion" >> ~/src/ske/ske/docs/todo.md
+   ske critique mark /critiques/unconfirmed/User.card#/C## done -m "Added to development todo list"
+   ```
+
+3. **If the file doesn't exist**, leave the critique as `unconfirmed` so it can be processed on a machine where the development environment is available. Inform the user that this feedback is about the system and will be addressed separately.
+
+Examples of system feedback:
+- "The audio player skips sometimes"
+- "I wish I could adjust the reading speed"
+- "The highlight timing is off"
+- "Hard to find where I left off"
 
 ### If the feedback is invalid or out of scope:
 
@@ -81,7 +115,7 @@ Ask the user for clarification before proceeding. You might need to understand:
 - Plot implications
 - Whether this connects to other story elements
 
-## Step 5: Continue or Stop
+## Step 6: Continue or Stop
 
 After handling one critique, ask if the user wants to continue with the next one, or stop for now.
 

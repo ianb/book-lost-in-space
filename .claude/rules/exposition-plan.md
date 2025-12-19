@@ -4,23 +4,31 @@ paths: **/exposition-plan.card
 
 ## `<reasoning-exposition-plan>` (optional) [low priority]
 
-**Purpose:** Guided thinking for planning exposition throughout the story
+**Purpose:** Guided thinking for enumerating exposition requirements
+
+This card is about requirements, not implementation. Focus on what needs to be explained or withheld—don't worry about which passage delivers each item or how to structure the reveals. That's for passage-level cards.
 
 Before creating the exposition plan, read the context: Read story-arc.card to understand core-elements and their setup requirements. Read reader-journey.card to understand emotional goals. Read setting.card for world details.
 
-**Identify what readers must understand and WHEN:**
-- What must readers know before specific core elements can land?
-- What world/character information supports the emotional journey?
-- What setup does each major scene require?
+**Enumerate what readers must understand:**
+Focus on things that can't be assumed—information readers need to ground themselves in the story:
+- Who the characters are and their relationships
+- Character appearances (helps readers form a mental image that matches later descriptions)
+- The initial situation and environment
+- Era and location—doesn't need to be specific, but the gist should be easily inferred
+- World details that differ from reader expectations
+- Setup required before specific core elements can land
 
-**Identify what to withhold and UNTIL WHEN:**
+**Enumerate what to withhold:**
 - What information creates intrigue if delayed?
 - What reveals would be spoiled if explained too early?
 - What mysteries drive reader engagement?
 
-**Plan timing around emotional goals:**
-- Exposition should support the reader journey, not just inform
-- Timing should serve story beats (reveal-before core elements, withhold-until trust is established)
+**Add timing constraints:**
+- Use reveal-before/reveal-after to express dependencies
+- These are constraints, not a schedule—implementation comes later
+
+You may include ideas for HOW to present information (through dialogue, action, environment), but the enumeration is primary. Don't get lost in delivery details—listing what needs explaining is more valuable than planning exactly how to explain it.
 
 ## `<must-explain>` (required) [high priority]
 

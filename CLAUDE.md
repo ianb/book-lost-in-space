@@ -98,3 +98,5 @@ critiques/         # User/agent feedback
 
 Use skills proactively—invoke when starting work they cover:
 `using-ske-guide`, `using-ske-create`, `creating-passages`, `creating-chapters`, `creating-stories`, `handling-critiques`, `handling-validation-errors`
+
+@docs/PROSE_NOTES.md

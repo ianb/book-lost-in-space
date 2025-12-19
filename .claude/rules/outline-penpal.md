@@ -13,6 +13,8 @@ Before creating a penpal outline, read the context:
    - Previous outline-penpal.card - what was discussed? What did the character share or avoid?
    - Previous passage-penpal.card - how did the character's last message end? What tone did they leave on?
    This continuity is essential - the conversation should flow naturally from what came before.
+4. To find relevant context about the character across the codebase, use:
+   ske search "topic from incoming message" --ref /world/characters/{characterName}.card
 
 IMPORTANT: Check incoming-message first. If it still says "TBD DO NOT FILL", stop here - the message hasn't been provided yet. Do not fill in other fields until the incoming message is available.
 

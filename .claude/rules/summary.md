@@ -47,7 +47,7 @@ Non-cumulative per-passage analysis of the reader's emotional experience. Includ
 - Surprises: Moments that subvert reader expectations (based on story so far)
 - Character development: Moments where characters grow, change, or reveal themselves
 
-## `<locations>` (required) [low priority]
+## `<locations>` (optional) [low priority]
 
 **Purpose:** Track physical locations where the story takes place and how they connect
 

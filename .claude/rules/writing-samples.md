@@ -14,6 +14,8 @@ Plan annotations: Consider what analysis will help writers mimic the style. Iden
 
 When revising, verify: Do the samples demonstrate the key aspects of the narrative-guide? Do they show range (dialogue, action, introspection)? Are the annotations helpful and specific?
 
+**When receiving feedback:** Apply feedback to BOTH writing-samples AND narrative-guide.card. If feedback says "this dialogue is too stiff," update the sample with better dialogue AND add guidance to narrative-guide about natural dialogue. The samples show what good looks like; narrative-guide explains how to get there.
+
 ## `<sample>` (required) [high priority]
 
 **Purpose:** One exemplar prose snippet demonstrating the story's style
@@ -71,3 +73,23 @@ Keep it brief but specific. Include:
 **Good examples:**
 - Quiet, contemplative. Slow pacing throughout. Pause before "Tomorrow would bring decisions" - let the weight land.
 - Warm but slightly melancholy. Natural conversational pace for dialogue, slower for description.
+
+## `<ai-pitfalls>` (optional) [low priority]
+
+**Purpose:** Common AI writing patterns to avoid
+
+When creating or reviewing writing samples, watch for these patterns that AI tends toward by default. Good samples should demonstrate how to avoid these pitfalls:
+
+**Staccato prose**: Paragraphs that are too short, choppy rhythm, lack of flow. Vary paragraph length; let some breathe.
+
+**Over-sharp interiority**: Representing a character's subjective thoughts as too intelligent, too perceptive, too articulate. Real thinking is messier, less precise, more associative.
+
+**Reflective endings**: Finishing passages with internal monologue that summarizes or processes what just happened. End in the moment, not above it.
+
+**Vocabulary mismatch**: Using language too sophisticated for the character or narrative voice. A dock worker doesn't think in abstractions.
+
+**False precision**: Observations that are too exact, too objective—precision that only makes sense from an omniscient stance, not a subjective one.
+
+**Premature references**: Naming people, places, or concepts the reader hasn't been introduced to yet. The POV character knowing something doesn't mean the reader does.
+
+Samples should model the opposite of these patterns. If you notice these issues in samples, that's a signal to revise both the sample AND update narrative-guide.card with guidance to prevent it.

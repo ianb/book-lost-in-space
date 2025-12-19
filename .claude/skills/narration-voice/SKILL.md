@@ -123,3 +123,18 @@ Once voice fields are configured:
 1. **Generate voice directions**: `ske gen passage-voice` - Creates passage-voice.card files with per-passage narration instructions
 2. **Generate audio**: `ske gen audio` - Produces MP3 files for each passage using TTS
 3. **Create audiobook**: `ske gen audiobook` - Combines passage audio into chapter/story audiobooks
+
+## Audio Duration Estimation
+
+Based on empirical data from ~215k words across multiple stories:
+
+- **Stories range**: 134-148 words per minute (most cluster around 134-143 WPM)
+- **Overall average**: ~140 WPM
+
+Variation depends on voice style, pacing directions, and content type (dialogue-heavy vs. descriptive prose).
+
+**Quick estimates**:
+- 1,000 words ≈ 7 minutes
+- 5,000 words ≈ 36 minutes
+- 10,000 words ≈ 1 hour 10 minutes
+- 50,000 words ≈ 6 hours

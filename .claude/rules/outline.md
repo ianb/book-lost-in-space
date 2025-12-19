@@ -10,6 +10,8 @@ Before creating a passage outline, read the context: Read this chapter's chapter
 
 Identify the passage's beats and approach: List the beats that deliver the scene's objective. Note where you'll foreshadow or pay off canon elements. Determine how the passage leads into the next moment or choice. Identify which sensory details or motifs should appear. Clarify what information stays hidden versus exposed.
 
+Consider what characters know: You (the author/AI) know the whole plot—future reveals, other characters' secrets, how things will end. The characters don't. Before writing beats, explicitly consider: What does the POV character actually know at this moment? What are they missing? What might they assume incorrectly? Characters should act on their limited, possibly flawed understanding—not on plot knowledge they don't have yet.
+
 When revising, verify: Confirm the beat sequence accomplishes the passage objective. Check that key moments are present and properly ordered. Ensure the passage flows smoothly from the previous passage.
 
 ## `<include-if>` (required)

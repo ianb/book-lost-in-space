@@ -42,6 +42,8 @@ Write the passage following the beats from outline.card. Use sensory details and
 - Is the passage-length appropriate?
 - Does it express the intended emotional impact?
 - Does it flow smoothly from the previous passage?
+- **Does the passage end in the moment?** Avoid reflective summaries or internal monologue that wraps up the scene's meaning. End on action, dialogue, or immediate sensation—not the character processing what just happened.
+- **Are all names and concepts introduced before use?** Don't reference characters, places, or ideas the reader hasn't met yet. If the POV character knows something, that doesn't mean the reader does.
 
 ## `<summary>` (optional) [low priority]
 
