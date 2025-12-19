@@ -192,7 +192,7 @@ In `/meta-images.card`, add illustration style fields:
 </meta-images>
 ```
 
-### Character Card Field: `portrait-prompt`
+### Character Card Fields
 
 Added to `/world/characters/{Name}.card`:
 
@@ -202,11 +202,18 @@ Added to `/world/characters/{Name}.card`:
   <physical-description>
     5'10", medium build with some belly, brown skin, black hair (short, starting to thin at the crown), brown eyes, rounded face with a broad nose. Appears late 20s. Hands are calloused from dock work.
   </physical-description>
-  <portrait-prompt>
-    Wearing well-made but practical merchant's clothing - a dark wool tunic over a linen shirt, leather belt with a small pouch. Expression is alert and assessing, the slight smile of someone who's always calculating. Hands relaxed but ready.
-  </portrait-prompt>
+  <headshot-prompt>
+    Dark wool tunic with a linen collar visible. Neutral, relaxed expression with a calm gaze.
+  </headshot-prompt>
+  <full-body-prompt>
+    Man in his late 20s with a calm expression. Medium build with some belly. Dark wool tunic over a linen shirt, leather belt with a small pouch, practical boots worn from use. Standing in a relaxed but attentive pose, weight slightly on one foot, hands loosely at sides.
+  </full-body-prompt>
 </character>
 ```
+
+**headshot-prompt**: Focuses on upper clothing and neutral expression. Physical-description provides facial details.
+
+**full-body-prompt**: Very detailed for body/outfit, but only brief face description (headshot reference handles facial accuracy).
 
 ### Portrait Commands
 
@@ -257,18 +264,24 @@ ske gen image portrait --force                      # Regenerate existing
 
 ### Writing Portrait Prompts
 
-The `portrait-prompt` field should focus on:
-- **Clothing**: Era-appropriate, reflects their social role
-- **Expression**: Characteristic of their personality
-- **Pose details**: Beyond the standard framing (hand positions, stance)
+**headshot-prompt**:
+- Upper clothing only (collar, neckline, shoulders)
+- Neutral, relaxed expression (this is a reference image)
+- Accessories at head/neck level
+- Don't repeat physical-description details
 
-Physical appearance (height, build, skin, hair, eyes) comes from `physical-description` - don't repeat those details.
+**full-body-prompt**:
+- Brief general face description (age, expression - headshot handles details)
+- Complete outfit in detail
+- Body type and build
+- Stance and posture
+- Hand positions and body language
 
-Good example:
-> Simple working-class dress in undyed linen, sleeves rolled up. A worn apron suggests long hours of labor. Expression is tired but determined, with a hint of wariness around the eyes.
+Good headshot example:
+> Dark wool tunic with a linen collar visible. Neutral, relaxed expression with a calm gaze.
 
-Bad example:
-> Tall with brown hair, standing at the harbor (includes physical details and setting)
+Good full-body example:
+> Man in his late 20s with a calm expression. Medium build. Simple working-class dress in undyed linen, sleeves rolled up, worn apron tied at the waist. Standing with arms crossed, feet planted firmly.
 
 ### Style Inheritance
 

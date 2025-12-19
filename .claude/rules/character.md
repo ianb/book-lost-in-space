@@ -443,35 +443,62 @@ Write 2-4 sentences of objective facts: height, build, skin color, hair color an
 
 This is primarily a housekeeping field, updated reactively as characters interact in the story. Don't fill proactively - add relationships as they emerge.
 
-## `<portrait-prompt>` (optional) [low priority]
+## `<headshot-prompt>` (optional) [low priority]
 
-**Purpose:** Scene description for AI-generated character portraits.
+**Purpose:** Description for AI-generated headshot portrait (shoulders up).
 
-Describe the character for portrait generation. This prompt is used to generate two images:
-1. A headshot (shoulders up) against a neutral background
-2. A full body portrait against a neutral background, using the headshot as reference
+Describe the character for headshot generation - a shoulders-up portrait against a neutral background with a neutral expression. The character's name will be displayed at the bottom.
 
-Both images will display the character's name at the bottom.
+Generated file: `world/characters/images/{CharacterName}/headshot.png`
 
-Generated files (in `world/characters/images/{CharacterName}/`):
-- `headshot.png` - shoulders up portrait
-- `full-body.png` - full body standing portrait
+The physical-description field provides detailed facial appearance (skin color, hair color/style, eye color, facial structure, age appearance) which is automatically included in the AI prompt. This ensures accurate rendering of the character's face.
 
-The physical-description field provides appearance details (height, build, skin, hair, eyes, etc.) which are automatically included. Focus here on:
-- Typical clothing they would wear (era-appropriate, reflects their social role)
-- A characteristic expression that reflects their personality
-- Pose details beyond the standard framing
+Focus here on:
+- Upper clothing visible in a headshot (collar, neckline, shoulders)
+- A neutral, relaxed facial expression (this is a reference portrait, not an action shot)
+- Any accessories visible at head/neck level (jewelry, hair ornaments, etc.)
 
 Keep the background neutral - don't describe settings or environments.
 
 **When creating:**
-Write 2-4 sentences describing clothing and expression. Reference their social-role for appropriate attire. Consider their emotional-baseline for a characteristic expression. Don't repeat physical details from physical-description.
+Write 1-3 sentences focusing on upper clothing and a neutral expression. The physical-description already provides detailed facial features (race, hair color/style, eye color, facial structure) - don't repeat those here. Use a neutral, relaxed expression for this reference portrait.
 
 **Good examples:**
-- Wearing well-made but practical merchant's clothing - a dark wool tunic over a linen shirt, leather belt with a small pouch. Expression is alert and assessing, the slight smile of someone who's always calculating. Hands relaxed but ready.
-- Simple working-class dress in undyed linen, sleeves rolled up. A worn apron suggests long hours of labor. Expression is tired but determined, with a hint of wariness around the eyes.
-- Fine silk robes in deep blue with gold embroidery at the collar and cuffs. Posture is formal and composed. Expression is carefully neutral, revealing nothing - the face of someone used to court politics.
+- Dark wool tunic with a linen collar visible. Neutral, relaxed expression with a calm gaze.
+- Simple undyed linen dress, neckline plain and practical. Expression is calm and neutral, gaze directed slightly to the right.
+- Fine silk robes in deep blue with gold embroidery at the collar. Composed, neutral expression.
 
 **Bad examples (avoid):**
-- Tall with brown hair, wearing a blue tunic. *(Includes physical details that belong in physical-description)*
-- Standing at the harbor watching ships come in. *(Describes a scene, not a portrait)*
+- Brown hair framing a round face, wearing a blue tunic. *(Includes physical details that belong in physical-description)*
+- Full merchant's outfit with belt, pouch, and boots. *(Describes full outfit, not headshot)*
+- Angry scowl, teeth bared in rage. *(Too expressive for a reference portrait)*
+
+## `<full-body-prompt>` (optional) [low priority]
+
+**Purpose:** Description for AI-generated full body portrait (standing pose).
+
+Describe the character for full body portrait generation - standing in a relaxed pose against a neutral background. The headshot image is used as a reference to maintain facial consistency, so only include a brief general face description here. The character's name will be displayed at the bottom.
+
+Generated file: `world/characters/images/{CharacterName}/full-body.png`
+
+This prompt should be very detailed for the body, but rely on the headshot reference for facial accuracy. Include:
+- Brief general face description (age range, general expression - the headshot handles details)
+- Complete outfit (clothing from head to toe, era-appropriate)
+- Body type and build
+- Stance and posture
+- Hand positions and body language
+- Any carried items or accessories
+
+Keep the background neutral - don't describe settings or environments.
+
+**When creating:**
+Write 3-5 detailed sentences. Start with a brief face description (the headshot reference handles facial details). Then describe the full outfit in detail, body type, stance, and body language. Reference their social-role for appropriate attire.
+
+**Good examples:**
+- Dark wool tunic over a linen shirt, leather belt with a small pouch, practical boots worn from use. Standing in a relaxed but attentive pose, weight slightly on one foot, hands loosely at sides.
+- Simple working-class dress in undyed linen, sleeves rolled up, worn apron tied at the waist. Standing with arms crossed, feet planted firmly, the stance of someone used to long hours on their feet.
+- Fine silk robes in deep blue with gold embroidery, flowing to the ankles. Hands clasped in front, posture formal and upright, the composed bearing of court life.
+
+**Bad examples (avoid):**
+- Tall figure with brown hair, wearing a blue tunic. *(Includes physical details that belong in physical-description)*
+- Walking through the marketplace carrying a basket. *(Describes a scene, not a portrait)*
