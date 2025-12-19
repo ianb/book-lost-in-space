@@ -1,0 +1,14 @@
+{
+  "prompt": "Style: Delicate watercolor with soft washes and fine linework.\nMuted palette: dusty lavenders, soft violet, warm grays, pale coral accents.\nVignette compositions fading gently to white.\nDiffused lighting, intimate and quiet.\n\nGenerate a character portrait headshot (shoulders up) against a plain neutral background.\n\nPhysical appearance: Miniature tree approximately 25 cm tall, ancient bonsai form with gnarled trunk and twisted branches. Bark is deeply textured, dark brown with gray patches. Tiny dense leaves in small clusters. The trunk shows centuries of growth in constrained conditions—elegant twists and turns, character lines, survivor's adaptations. Root system is remarkably deep for the size, visible where they emerge from the housing. Despite the small size, the tree radiates age and patience. Sits in a special housing on Florence's wheeled platform.\n\nClothing and expression: Close-up of the miniature tree's gnarled trunk and upper branches. Deeply textured bark with elegant twists showing centuries of growth, dark brown with gray patches. Character lines and survivor's adaptations visible in the wood. Tiny dense leaves in small clusters on twisted branches. Despite miniature scale (approximately 25 cm tall), radiates profound age and patience. The tree sits in a simple housing on Florence's wheeled platform - not a decorative bonsai pot, just a functional mount. Soft purple twilight background.\n\nFraming: Head and shoulders, centered, looking slightly to the right.\nBackground: Plain, neutral gradient - do not include any environment or setting.\n\nDisplay the name \"Elder Twist\" as text at the bottom of the image.",
+  "style": "Delicate watercolor with soft washes and fine linework.\nMuted palette: dusty lavenders, soft violet, warm grays, pale coral accents.\nVignette compositions fading gently to white.\nDiffused lighting, intimate and quiet.",
+  "generatedAt": "2025-12-19T19:56:54.589Z",
+  "model": "gemini-2.5-flash-image",
+  "references": [
+    {
+      "type": "style-reference",
+      "path": "images/illustration-reference.png",
+      "imageHash": "d8ef5a2eedeb1950",
+      "prompt": "A small campfire glowing softly among purple ferns, a metal cup set on a rock nearby. Violet-tinted canopy above with alien stars visible through a gap. Quiet and still, the scene caught between day's end and sleep."
+    }
+  ]
+}

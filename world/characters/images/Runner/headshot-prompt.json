@@ -1,0 +1,14 @@
+{
+  "prompt": "Style: Delicate watercolor with soft washes and fine linework.\nMuted palette: dusty lavenders, soft violet, warm grays, pale coral accents.\nVignette compositions fading gently to white.\nDiffused lighting, intimate and quiet.\n\nGenerate a character portrait headshot (shoulders up) against a plain neutral background.\n\nPhysical appearance: Runner appears as thick green vines, 3-5 cm diameter, flexible and strong. The vines emerge from soil, rock cracks, or small openings, growing/extending rapidly to several meters length. Surface has small climbing tendrils and leaves. The vines can wrap, lift, pull, and manipulate objects with considerable strength. How they travel underground and grow/retract so quickly is unclear—the locomotion seems to defy normal plant growth rates. Can use one of the salvaged robots for tasks requiring hands, though she prefers working through her vines since they give her direct tactile feedback on everything she touches.\n\nClothing and expression: A mass of multiple thick green vines (3-5 cm diameter each) emerging from purple forest floor in a chaotic tangle. 5-8 separate vine strands intertwining and coiling around each other and nearby objects. Small climbing tendrils and leaves sprouting along the vine lengths. Flexible plant texture with subtle green color variations. Vines spread in different directions - some reaching up, some curling sideways, some wrapping around objects - creating a dynamic, organic mass without any organized form. DO NOT create a humanoid shape. DO NOT arrange vines into a head, body, or torso. NO face, NO eyes, NO mouth - this is a chaotic tangle of separate vine strands emerging from soil, not a figure or character. Show the vines as individual plant tendrils in tactile exploration of their environment. Lavender twilight lighting.\n\nFraming: Head and shoulders, centered, looking slightly to the right.\nBackground: Plain, neutral gradient - do not include any environment or setting.\n\nDisplay the name \"Runner\" as text at the bottom of the image.",
+  "style": "Delicate watercolor with soft washes and fine linework.\nMuted palette: dusty lavenders, soft violet, warm grays, pale coral accents.\nVignette compositions fading gently to white.\nDiffused lighting, intimate and quiet.",
+  "generatedAt": "2025-12-19T20:04:31.544Z",
+  "model": "gemini-2.5-flash-image",
+  "references": [
+    {
+      "type": "style-reference",
+      "path": "images/illustration-reference.png",
+      "imageHash": "d8ef5a2eedeb1950",
+      "prompt": "A small campfire glowing softly among purple ferns, a metal cup set on a rock nearby. Violet-tinted canopy above with alien stars visible through a gap. Quiet and still, the scene caught between day's end and sleep."
+    }
+  ]
+}

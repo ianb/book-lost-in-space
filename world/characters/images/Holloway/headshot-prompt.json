@@ -1,0 +1,14 @@
+{
+  "prompt": "Style: Delicate watercolor with soft washes and fine linework.\nMuted palette: dusty lavenders, soft violet, warm grays, pale coral accents.\nVignette compositions fading gently to white.\nDiffused lighting, intimate and quiet.\n\nGenerate a character portrait headshot (shoulders up) against a plain neutral background.\n\nPhysical appearance: Holloway manifests through fruiting bodies that grow rapidly from the ground wherever needed. Each fruiting body is 15-30 cm tall, hollow, with a bulbous base and a narrow fluted opening at the top. Pale cream to light brown coloring, smooth waxy surface. The hollow interior contains chambers and membranes that vibrate to produce sound when air flows through, creating the fluting voice. Multiple fruiting bodies can be present simultaneously in different locations, all speaking with the same voice, all expressions of the same distributed consciousness. New fruiting bodies can emerge within minutes, older ones wither and decompose once no longer needed for communication.\n\nClothing and expression: Close-up of a single fruiting body's fluted opening at the top. Narrow opening with delicate edges, smooth waxy surface in pale cream to light brown. Internal chambers and membranes partially visible through the translucent opening, creating the fluting voice. Organic woodwind-like structure. Purple forest floor visible at base. Lavender twilight lighting.\n\nFraming: Head and shoulders, centered, looking slightly to the right.\nBackground: Plain, neutral gradient - do not include any environment or setting.\n\nDisplay the name \"Holloway\" as text at the bottom of the image.",
+  "style": "Delicate watercolor with soft washes and fine linework.\nMuted palette: dusty lavenders, soft violet, warm grays, pale coral accents.\nVignette compositions fading gently to white.\nDiffused lighting, intimate and quiet.",
+  "generatedAt": "2025-12-19T19:57:16.612Z",
+  "model": "gemini-2.5-flash-image",
+  "references": [
+    {
+      "type": "style-reference",
+      "path": "images/illustration-reference.png",
+      "imageHash": "d8ef5a2eedeb1950",
+      "prompt": "A small campfire glowing softly among purple ferns, a metal cup set on a rock nearby. Violet-tinted canopy above with alien stars visible through a gap. Quiet and still, the scene caught between day's end and sleep."
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "prompt": "Style: Delicate watercolor with soft washes and fine linework.\nMuted palette: dusty lavenders, soft violet, warm grays, pale coral accents.\nVignette compositions fading gently to white.\nDiffused lighting, intimate and quiet.\n\nGenerate a character portrait headshot (shoulders up) against a plain neutral background.\n\nPhysical appearance: Sweetpea's actual form is terrifying: a large defensive plant approximately 2 meters tall and 3 meters across, covered in massive barbed thorns (5-10 cm long), dark mottled green and purple-brown coloring, thick armored stems, leaves with serrated edges. Exudes toxic sap from damaged areas (evolved defense mechanism). The whole plant looks aggressive and dangerous—evolved specifically to deter herbivores and threats. Multiple thick stems covered in layered thorn defenses. Looks like something from a nightmare, not a sweet friendly helper. The name \"Sweetpea\" creates intense cognitive dissonance with the appearance. When using the robot: shares robot control with Remedy, Runner, and Velvet. Sweetpea's robot movements are gentle and careful, reflecting her personality.\n\nClothing and expression: A defensive plant organism showing thick armored stems (2-3 cm diameter) covered in massive barbed thorns (5-10 cm long). Dark mottled green and purple-brown coloring on stems and leaves. Multiple layers of sharp thorns protruding in all directions. Serrated-edge leaves emerging between thorns. Toxic sap beading at damaged points. Heavy armored texture of plant stems. No face, no eyes, no mouth, no head - this is a thorny plant, not a creature. The intimidating appearance comes from the defensive thorns and armored stems, not from any animal-like features. Multiple thick stems bundled together with thorns creating a formidable barrier. Purple twilight background softly blurred.\n\nFraming: Head and shoulders, centered, looking slightly to the right.\nBackground: Plain, neutral gradient - do not include any environment or setting.\n\nDisplay the name \"Sweetpea\" as text at the bottom of the image.",
+  "style": "Delicate watercolor with soft washes and fine linework.\nMuted palette: dusty lavenders, soft violet, warm grays, pale coral accents.\nVignette compositions fading gently to white.\nDiffused lighting, intimate and quiet.",
+  "generatedAt": "2025-12-19T19:58:27.613Z",
+  "model": "gemini-2.5-flash-image",
+  "references": [
+    {
+      "type": "style-reference",
+      "path": "images/illustration-reference.png",
+      "imageHash": "d8ef5a2eedeb1950",
+      "prompt": "A small campfire glowing softly among purple ferns, a metal cup set on a rock nearby. Violet-tinted canopy above with alien stars visible through a gap. Quiet and still, the scene caught between day's end and sleep."
+    }
+  ]
+}

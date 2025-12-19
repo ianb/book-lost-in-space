@@ -1,0 +1,14 @@
+{
+  "prompt": "Style: Delicate watercolor with soft washes and fine linework.\nMuted palette: dusty lavenders, soft violet, warm grays, pale coral accents.\nVignette compositions fading gently to white.\nDiffused lighting, intimate and quiet.\n\nGenerate a character portrait headshot (shoulders up) against a plain neutral background.\n\nPhysical appearance: Compact bush-like plant approximately four feet tall and three feet wide. Dense green foliage—small leaves creating full, rounded shape. Bright orange flowers (30-40 of them) scattered throughout foliage, blooming and closing based on mood. Moves via root system that allows bouncy, hopping locomotion—quick energetic movements. Flowers vibrate to produce voice, creating chiming quality. Can spread foliage wide for stability or compress for movement through tight spaces. Flowers droop slightly when tired or sad (rare). Overall impression: ball of cheerful energy, living bouquet in constant happy motion.\n\nClothing and expression: A compact, spherical bush approximately four feet tall, showing dense layers of small green leaves creating a rounded form. 30-40 bright orange flowers (varying from small to medium size) scattered evenly across the visible foliage, all fully open with distinct petals and centers. Each flower is a simple botanical form - petals radiating from a center. The entire surface is textured with overlapping leaves and flower blooms. No face, no eyes, no mouth, no smile - DO NOT add facial features. This is a complete bush organism covered in leaves and flowers, not a character with a face. The spherical shape comes from the dense branching structure covered entirely in foliage. Purple twilight background softly out of focus.\n\nFraming: Head and shoulders, centered, looking slightly to the right.\nBackground: Plain, neutral gradient - do not include any environment or setting.\n\nDisplay the name \"Brightbloom\" as text at the bottom of the image.",
+  "style": "Delicate watercolor with soft washes and fine linework.\nMuted palette: dusty lavenders, soft violet, warm grays, pale coral accents.\nVignette compositions fading gently to white.\nDiffused lighting, intimate and quiet.",
+  "generatedAt": "2025-12-19T20:02:22.387Z",
+  "model": "gemini-2.5-flash-image",
+  "references": [
+    {
+      "type": "style-reference",
+      "path": "images/illustration-reference.png",
+      "imageHash": "d8ef5a2eedeb1950",
+      "prompt": "A small campfire glowing softly among purple ferns, a metal cup set on a rock nearby. Violet-tinted canopy above with alien stars visible through a gap. Quiet and still, the scene caught between day's end and sleep."
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "prompt": "Style: Delicate watercolor with soft washes and fine linework.\nMuted palette: dusty lavenders, soft violet, warm grays, pale coral accents.\nVignette compositions fading gently to white.\nDiffused lighting, intimate and quiet.\n\nGenerate a character portrait headshot (shoulders up) against a plain neutral background.\n\nPhysical appearance: Flowering plant on a wheeled platform approximately 70 cm tall total. The main plant body has a thick central stem with numerous branches bearing large flowers (15-20 cm diameter) in various states of open/closed. Flowers shift colors smoothly—from pale cream through yellows, pinks, oranges, and deeper reds depending on emotional state. Delicate tendrils extend from the central stem to manipulate a joystick control embedded in the platform. The wheeled platform is built from salvaged materials, three wheels for stability, remarkably smooth in operation. A small housing on the platform holds Elder Twist, the miniature bonsai tree. Florence's leaves are deep green and glossy, well-maintained.\n\nClothing and expression: A full flowering plant organism with a thick central stem and numerous branches. Large flowers (15-20 cm diameter) in a variety of colors - some soft yellow, some pink, some orange, some deeper coral-red - showing the emotional color-shifting ability. Flowers in various states of open and partially closed. Dense, glossy deep green leaves creating substantial foliage around the flowers. This is a complete plant body, bush-like and full, not a cut bouquet. The plant is approximately 70 cm tall total, mounted on a three-wheeled salvaged metal platform (visible at bottom). Delicate tendrils reach down to controls. Purple twilight background.\n\nFraming: Head and shoulders, centered, looking slightly to the right.\nBackground: Plain, neutral gradient - do not include any environment or setting.\n\nDisplay the name \"Florence\" as text at the bottom of the image.",
+  "style": "Delicate watercolor with soft washes and fine linework.\nMuted palette: dusty lavenders, soft violet, warm grays, pale coral accents.\nVignette compositions fading gently to white.\nDiffused lighting, intimate and quiet.",
+  "generatedAt": "2025-12-19T19:57:05.622Z",
+  "model": "gemini-2.5-flash-image",
+  "references": [
+    {
+      "type": "style-reference",
+      "path": "images/illustration-reference.png",
+      "imageHash": "d8ef5a2eedeb1950",
+      "prompt": "A small campfire glowing softly among purple ferns, a metal cup set on a rock nearby. Violet-tinted canopy above with alien stars visible through a gap. Quiet and still, the scene caught between day's end and sleep."
+    }
+  ]
+}

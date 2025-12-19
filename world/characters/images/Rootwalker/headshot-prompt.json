@@ -1,0 +1,14 @@
+{
+  "prompt": "Style: Delicate watercolor with soft washes and fine linework.\nMuted palette: dusty lavenders, soft violet, warm grays, pale coral accents.\nVignette compositions fading gently to white.\nDiffused lighting, intimate and quiet.\n\nGenerate a character portrait headshot (shoulders up) against a plain neutral background.\n\nPhysical appearance: Mobile organism composed of thick root structures forming vaguely humanoid shape, approximately six feet tall. Main body consists of intertwined roots creating torso-like mass with rough, bark-textured surface. Arms are clusters of smaller roots bundled together, capable of fine manipulation. Legs are heavy root structures providing stable movement—each step methodical, planting firmly into ground. Soil, small stones, moss, and organic debris integrated throughout composition. No visible face or features, but presence is clearly directed and aware. Moves like concentrated earth given purpose—slow, powerful, grounded. Color ranges from dark brown to rich loam. Overall impression: ancient, solid, reliable.\n\nClothing and expression: A mobile plant organism composed of thick, intertwined root structures bundled vertically, approximately six feet tall. Dark brown to rich loam-colored roots with rough bark texture, twisted and woven together forming a substantial central mass. Soil, small stones, moss, and organic debris integrated throughout. Smaller root clusters branch out for manipulation and support. No face, no eyes, no mouth, no shoulders, no human anatomy - this is a bundle of living roots organized for mobility. Ancient wood grain visible in the bark. The roots suggest awareness through their purposeful arrangement, not through facial features. Purple twilight background softly out of focus.\n\nFraming: Head and shoulders, centered, looking slightly to the right.\nBackground: Plain, neutral gradient - do not include any environment or setting.\n\nDisplay the name \"Rootwalker\" as text at the bottom of the image.",
+  "style": "Delicate watercolor with soft washes and fine linework.\nMuted palette: dusty lavenders, soft violet, warm grays, pale coral accents.\nVignette compositions fading gently to white.\nDiffused lighting, intimate and quiet.",
+  "generatedAt": "2025-12-19T19:57:49.728Z",
+  "model": "gemini-2.5-flash-image",
+  "references": [
+    {
+      "type": "style-reference",
+      "path": "images/illustration-reference.png",
+      "imageHash": "d8ef5a2eedeb1950",
+      "prompt": "A small campfire glowing softly among purple ferns, a metal cup set on a rock nearby. Violet-tinted canopy above with alien stars visible through a gap. Quiet and still, the scene caught between day's end and sleep."
+    }
+  ]
+}

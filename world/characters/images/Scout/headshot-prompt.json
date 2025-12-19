@@ -1,0 +1,14 @@
+{
+  "prompt": "Style: Delicate watercolor with soft washes and fine linework.\nMuted palette: dusty lavenders, soft violet, warm grays, pale coral accents.\nVignette compositions fading gently to white.\nDiffused lighting, intimate and quiet.\n\nGenerate a character portrait headshot (shoulders up) against a plain neutral background.\n\nPhysical appearance: Spherical plant organism, roughly basketball-sized (about 24 cm in diameter). Outer surface is a tight weave of flexible brownish-green stems/branches forming a ball shape. Small leaves and thin tendrils protrude from the surface, creating a slightly fuzzy appearance. Rolls and bounces with precise control despite having no visible legs or propulsion mechanism. Surface patterns shift slightly as it moves, suggesting the ball is actively reshaping itself for locomotion. Color shifts toward more green in sunlight, more brown in shade.\n\nClothing and expression: Close-up view of the spherical plant ball's woven surface. Tight weave of flexible brownish-green stems and branches creating intricate patterns. Small leaves and delicate tendrils protruding from the surface, giving a slightly fuzzy texture. Detail showing how the surface patterns shift and reshape. Mix of green tones where sunlit, brown tones in shadows. Purple twilight background softly out of focus.\n\nFraming: Head and shoulders, centered, looking slightly to the right.\nBackground: Plain, neutral gradient - do not include any environment or setting.\n\nDisplay the name \"Scout\" as text at the bottom of the image.",
+  "style": "Delicate watercolor with soft washes and fine linework.\nMuted palette: dusty lavenders, soft violet, warm grays, pale coral accents.\nVignette compositions fading gently to white.\nDiffused lighting, intimate and quiet.",
+  "generatedAt": "2025-12-19T19:58:10.370Z",
+  "model": "gemini-2.5-flash-image",
+  "references": [
+    {
+      "type": "style-reference",
+      "path": "images/illustration-reference.png",
+      "imageHash": "d8ef5a2eedeb1950",
+      "prompt": "A small campfire glowing softly among purple ferns, a metal cup set on a rock nearby. Violet-tinted canopy above with alien stars visible through a gap. Quiet and still, the scene caught between day's end and sleep."
+    }
+  ]
+}

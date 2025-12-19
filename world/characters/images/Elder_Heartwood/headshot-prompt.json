@@ -1,0 +1,14 @@
+{
+  "prompt": "Style: Delicate watercolor with soft washes and fine linework.\nMuted palette: dusty lavenders, soft violet, warm grays, pale coral accents.\nVignette compositions fading gently to white.\nDiffused lighting, intimate and quiet.\n\nGenerate a character portrait headshot (shoulders up) against a plain neutral background.\n\nPhysical appearance: Massive ancient tree, 30+ meters tall with a trunk 4-5 meters in diameter. Bark is deeply furrowed, dark brown to gray, textured with centuries of growth. Enormous spreading canopy of branches. Same species as Elder Twist but vastly larger due to growing in rich soil. Root systems spread far underground, connecting with other plants in the network. The tree radiates age and presence—approaching Elder Heartwood feels significant. Leaves are the same as Elder Twist's but normal-sized rather than miniature. Small organisms live throughout the canopy and trunk.\n\nClothing and expression: The massive trunk of an ancient tree, showing deeply furrowed bark with dark brown to gray coloring. Centuries of textured growth visible in the deep furrows and ridges. Small organisms, moss, and lichens growing in the bark crevices. The immense scale suggested by the width and depth of the furrows. No face, no eyes, no mouth - this is tree bark, not a person. The texture and age of the wood convey presence through natural patterns alone. Purple twilight lighting emphasizing the bark texture.\n\nFraming: Head and shoulders, centered, looking slightly to the right.\nBackground: Plain, neutral gradient - do not include any environment or setting.\n\nDisplay the name \"Elder Heartwood\" as text at the bottom of the image.",
+  "style": "Delicate watercolor with soft washes and fine linework.\nMuted palette: dusty lavenders, soft violet, warm grays, pale coral accents.\nVignette compositions fading gently to white.\nDiffused lighting, intimate and quiet.",
+  "generatedAt": "2025-12-19T19:56:45.567Z",
+  "model": "gemini-2.5-flash-image",
+  "references": [
+    {
+      "type": "style-reference",
+      "path": "images/illustration-reference.png",
+      "imageHash": "d8ef5a2eedeb1950",
+      "prompt": "A small campfire glowing softly among purple ferns, a metal cup set on a rock nearby. Violet-tinted canopy above with alien stars visible through a gap. Quiet and still, the scene caught between day's end and sleep."
+    }
+  ]
+}
