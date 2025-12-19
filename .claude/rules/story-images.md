@@ -52,12 +52,17 @@ Revisit reasoning when the story's direction changes significantly, or if the cu
 
 Describes the scene, subject, or imagery for the story cover. This is a pure scene description—do NOT include style directions here. Style comes from cover-style (or meta-images.card if inheriting). The prompt should evoke the story's themes symbolically rather than depicting specific plot events.
 
+**Character References**: If the cover includes a character from the story, add `<ref>` tags at the end of the prompt to reference their character cards. The character's headshot image will be included in the prompt to ensure accurate depiction. Format: `<ref ref="/world/characters/Character_Name.card" />`
+
+Characters without a headshot image will trigger a warning during generation.
+
 **When creating:**
 Describe imagery that captures the story's essence:
 - Focus on mood, atmosphere, and symbolic elements
 - Avoid literal depictions of plot events (no spoilers)
 - Keep it evocative and suggestive rather than explicit
 - Think about what would make a reader curious
+- If including a character, use a ref tag to ensure visual consistency
 
 The image generator will combine this with the style settings from cover-style or meta-images.card.
 
@@ -69,6 +74,8 @@ After changing this, regenerate the cover with `ske gen image cover stories/{sto
 - An old pocket watch lying open on autumn leaves, its hands stopped at midnight
 - Two hands reaching toward each other across a gap, one in shadow, one in light
 - A lighthouse beam cutting through fog, a small boat barely visible in the distance
+- A woman standing at the edge of a cliff, wind whipping through her hair, looking out at a stormy sea <ref ref="/world/characters/Elena.card" />
+- Two figures facing each other across a crowded marketplace, tension visible in their postures <ref ref="/world/characters/Marcus.card" /> <ref ref="/world/characters/Lira.card" />
 
 **Bad examples (avoid):**
 - A moody, atmospheric painting of a woman at a window *(includes style direction)*

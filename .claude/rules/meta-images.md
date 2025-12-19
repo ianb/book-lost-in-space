@@ -67,11 +67,16 @@ After changing this, regenerate the reference image with `ske gen image referenc
 
 Describes the scene or imagery for the project-level cover. This is the main cover representing the entire project, not individual stories. Style comes from cover-style; this is just the scene/subject.
 
+**Character References**: If the cover includes characters, add `<ref>` tags at the end of the prompt to reference their character cards. The character's headshot image will be included in the prompt to ensure accurate depiction. Format: `<ref ref="/world/characters/Character_Name.card" />`
+
+Characters without a headshot image will trigger a warning during generation.
+
 **When creating:**
 Describe imagery that represents the project as a whole:
 - Captures the project's central themes or mood
 - Works as a "series cover" if this project has multiple stories
 - Is distinct from individual story covers
+- If including characters, use ref tags to ensure visual consistency
 
 Focus on symbolic or thematic imagery rather than specific plot elements.
 
@@ -82,6 +87,7 @@ After changing this, regenerate the project cover with `ske gen image project-co
 - Intertwining paths through mountain terrain, converging at a distant peak
 - A collection of keys of different sizes and styles arranged in a circle
 - City skyline at twilight with a single lit window
+- A man silhouetted against a sunset, overlooking the city below <ref ref="/world/characters/Marcus.card" />
 
 **Bad examples (avoid):**
 - A beautiful watercolor of mountains *(includes style direction)*
